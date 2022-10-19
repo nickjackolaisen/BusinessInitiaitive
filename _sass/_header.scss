@@ -63,4 +63,11 @@
 
 .site-header .site-nav {
   text-align: center;
+  margin-left: auto !important;
+}
+
+@media(max-width: 900px) {
+  .site-header .site-nav {
+    margin-left: 0px;
+  }
 }
