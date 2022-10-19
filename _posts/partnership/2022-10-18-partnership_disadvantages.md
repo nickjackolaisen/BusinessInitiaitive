@@ -198,7 +198,7 @@ On behalf of Business Initiative, we wish you much success in your entrepreneuri
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
-DISCLAIMER: 
+<br>DISCLAIMER: 
 
 “Business Initiative” is for general educational purposes only. “Business Initiative” does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making binding decisions regarding starting, operating, and growing your business. Use external resources independently of “Business Initiative.” It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.
 
@@ -260,6 +260,6 @@ Taking everything into account, Partnerships are the simplest solution to sharin
 
 [Click HERE to join the Business Initiative Newsletter](https://adept-hustler-4565.ck.page/0b61cd22c7) 
 
-DISCLAIMER: 
+<br>DISCLAIMER: 
 
 “Business Initiative” is for general educational purposes only. “Business Initiative” does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making binding decisions regarding starting, operating, and growing your business. Use external resources independently of “Business Initiative.” It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.

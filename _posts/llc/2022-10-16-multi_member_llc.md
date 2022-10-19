@@ -48,7 +48,7 @@ Business Initiative wants you to know your options and all that comes with them,
 
 How else would you want to begin your journey to securing financial independence?
 
-DISCLAIMER:
+<br>DISCLAIMER:
 
 "Business Initiative" is for general educational purposes only. "Business Initiative" does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making any binding decisions when it comes to starting, operating, and growing your business. External resources should be used independently of "Business Initiative". It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.
 
@@ -164,7 +164,7 @@ You definitely don’t want that.
 
 Just run an ethical, morally clean, legitimate, law-abiding company and you should be fine. You should only worry about losing your protection if you try cheating the system instead of using the system and its various loopholes for your benefit.
 
-DISCLAIMER:
+<br>DISCLAIMER:
 
 "Business Initiative" is for general educational purposes only. "Business Initiative" does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making any binding decisions when it comes to starting, operating, and growing your business. External resources should be used independently of "Business Initiative". It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.
 
@@ -433,6 +433,6 @@ That being said… 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
 
-DISCLAIMER:
+<br>DISCLAIMER:
 
 "Business Initiative" is for general educational purposes only. "Business Initiative" does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making any binding decisions when it comes to starting, operating, and growing your business. External resources should be used independently of "Business Initiative". It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.

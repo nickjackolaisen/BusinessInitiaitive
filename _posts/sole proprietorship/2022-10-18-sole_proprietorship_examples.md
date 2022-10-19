@@ -271,7 +271,7 @@ Let’s say you are good at calligraphy you could produce cards or posters of yo
 
 Now’s your chance to never have to “work” again. Take whatever you would do if you had to do it forever and see how you can make that thing you’re interested in a profitable endeavor by putting your own spin on it and selling it. 
 
-DISCLAIMER:
+<br>DISCLAIMER:
 
 "Business Initiative" is for general educational purposes only. "Business Initiative" does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making any binding decisions when it comes to starting, operating, and growing your business. External resources should be used independently of "Business Initiative". It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.
 
@@ -383,6 +383,6 @@ All-in-all Sole Proprietorships are very very easy. They’re popular because th
 
 On behalf of Business Inititiative, we wish you much success.
 
-DISCLAIMER:
+<br>DISCLAIMER:
 
 "Business Initiative" is for general educational purposes only. "Business Initiative" does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making any binding decisions when it comes to starting, operating, and growing your business. External resources should be used independently of "Business Initiative". It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.

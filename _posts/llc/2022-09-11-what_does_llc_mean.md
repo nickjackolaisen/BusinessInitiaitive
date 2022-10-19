@@ -64,7 +64,7 @@ This is all the result of your personal assets being kept separate from your bus
 
 Personal assets include things like your real estate, vehicles, investments, and private accounts.
 
-DISCLAIMER:
+<br>DISCLAIMER:
 "Business Initiative" is for general educational purposes only. "Business Initiative" does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making any binding decisions when it comes to starting, operating, and growing your business. External resources should be used independently of "Business Initiative". It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.
 
 ## LLC Structure
@@ -254,6 +254,6 @@ It could never be easier with so many companies providing services to help entre
 
 **We wish much success for you and your business.**
 
-DISCLAIMER:
+<br>DISCLAIMER:
 
 "Business Initiative" is for general educational purposes only. "Business Initiative" does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making any binding decisions when it comes to starting, operating, and growing your business. External resources should be used independently of "Business Initiative". It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.
