@@ -50,7 +50,7 @@ By the end of this article, you will understand the details of each of these bus
 
 Keep reading to find out how Sole Proprietorships compare to LLCs.
 
-DISCLAIMER: 
+<br>DISCLAIMER: 
 
 Any information provided by "Business Initiative" is not meant to be taken as legal or financial advice. We highly recommend that you speak with lawyers, financial advisors, and tax professionals before making any binding decisions when it comes to starting, operating, and growing your business.
 
@@ -272,6 +272,6 @@ Are you interested in getting the most out of your business?
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
-DISCLAIMER: 
+<br>DISCLAIMER: 
 
 "Business Initiative" is for general educational purposes only. "Business Initiative" does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making any binding decisions when it comes to starting, operating, and growing your business. External resources should be used independently of "Business Initiative". It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.

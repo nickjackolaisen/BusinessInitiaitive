@@ -298,7 +298,7 @@ You must gather your team and speak with lawyers and business professionals abou
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
-DISCLAIMER:
+<br>DISCLAIMER:
 
 “Business Initiative” is for general educational purposes only. “Business Initiative” does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making binding decisions regarding starting, operating, and growing your business. Use external resources independently of “Business Initiative.” It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.
 
@@ -378,6 +378,6 @@ Otherwise, how will you know if it aligns with your personal and business goals?
 
 <script async data-uid="0b61cd22c7" src="https://adept-hustler-4565.ck.page/0b61cd22c7/index.js"></script>
 
-DISCLAIMER:
+<br>DISCLAIMER:
 
 “Business Initiative” is for general educational purposes only. “Business Initiative” does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making binding decisions regarding starting, operating, and growing your business. Use external resources independently of “Business Initiative.” It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.
