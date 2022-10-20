@@ -1,6 +1,13 @@
 .site-header {
-  padding-top: $space-1;
+  padding-top: 0.01rem;
   padding-bottom: $space-2;
+  border-radius: 0 0 0 25px;
+  box-shadow: 0px 4px 14px 0px rgba(1, 140, 255,0.10);
+  position: sticky;
+  top: 0;
+  background: white;
+  z-index: 10000000;
+  left: 0;
 }
 
 .site-navbar {

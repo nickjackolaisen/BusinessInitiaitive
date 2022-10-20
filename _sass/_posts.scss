@@ -1,6 +1,9 @@
 
 .posts {
   margin: 0;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 25px;
 }
 
 .posts .post {
@@ -18,11 +21,17 @@
   margin-right: 15px;
 }
 
+.post-summary {
+  font-size: 16px;
+  line-height: 1.5;
+  display: inline-block;
+}
+
 .post-link .post-title {
   margin-top: 0;
   font-weight: 600;
   color: #333;
-  font-size: 2rem;
+  font-size: 1.4rem;
 }
 
 .post-footer {
