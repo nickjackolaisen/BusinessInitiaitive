@@ -6,6 +6,12 @@
   grid-gap: 25px;
 }
 
+@media(max-width: 900px) {
+  .posts {
+    grid-template-columns: 1fr;
+  }
+}
+
 .posts .post {
   margin-bottom: 0.75em;
   border-bottom: thin solid #f3f3f3;
