@@ -13,8 +13,8 @@
 .site-navbar {
   max-width: 1200px !important;
   display: flex;
-    align-items: center;
-    justify-content: space-between;
+  align-items: center;
+  justify-content: space-between;
 }
 
 .site-header a {
@@ -73,8 +73,16 @@
   margin-left: auto !important;
 }
 
-@media(max-width: 900px) {
+@media(max-width: 1200px) {
   .site-header .site-nav {
     margin-left: 0px;
+  }
+  .site-navbar {
+    justify-content: center;
+    flex-direction: column;
+  }
+  .site-header nav a {
+    margin-bottom: 10px;
+    display: inline-table;
   }
 }
