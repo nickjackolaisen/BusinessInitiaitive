@@ -1,5 +1,5 @@
 ---
-title: "Sole Proprietorship Facts & Statistics for 2022"
+title: "Sole Proprietorship Facts & Statistics (2022)"
 layout: post
 date: 2022-11-02
 summary: Here is data on how many businesses filed and how much they collectevely made in the US between 1980 and 2015
