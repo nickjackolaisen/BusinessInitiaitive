@@ -74,10 +74,6 @@ Without any liability protections, any massively successful sole proprietor woul
     <td>18,784,750</td> 
     <td>$392,114,132,000</td>
       </table>
-    </center>
-  </body>
- </html>
-
 
 ***Sources:*** 
 *IRS, Statistics of Income Division, Sole Proprietorship Returns 2019, November 2021. IRS, Statistics of Income Division, Sole Proprietorship Returns 2018, September 2020. IRS, Statistics of Income Division, Sole Proprietorship Returns 2017, September 2019. IRS, Statistics of Income Division, Sole Proprietorship Returns 2016, August 2018. IRS, Statistics of Income Division, Sole Proprietorship Returns 2015, July 2017.*
