@@ -1,5 +1,5 @@
 ---
-title: "Sole Proprietorship Statistics"
+title: "Sole Proprietorship Facts & Statistics for 2022"
 layout: post
 date: 2022-11-02
 summary: Here is data on how many businesses filed and how much they collectevely made in the US between 1980 and 2015
@@ -11,7 +11,7 @@ permalink: /stats/sole-proprietorship-statistics/
 	
 According to the 2020 US Census from 2020, there were 826,915 Sole Proprietorship type business establishments in the United States. Compare this to the total 8,000,178 Business establishments in the US. 
 
-Based on this, 10.34% of US Businesses are Sole Proprietorships.
+Based on this, **10.34% of US Businesses are Sole Proprietorships.**
 
 ***Source:*** *Census Table-CB2000CBP 		Dataset-CBP2020   Data Released-May 26, 2022*
 
@@ -25,12 +25,8 @@ Without any liability protections, any massively successful sole proprietor woul
 
 ## Sole Proprietorship Tax Return Statistics from 2019, 2018, 2017, 2016, and 2015
 
-
 ### Nonfarm Sole Proprietorship Statistics ###
 
-<html>
-  <body>
-    <center>
 <table>
   <tr>
     <th rowspan="2">Year</th>
@@ -81,6 +77,7 @@ Without any liability protections, any massively successful sole proprietor woul
     </center>
   </body>
  </html>
+
 
 ***Sources:*** 
 *IRS, Statistics of Income Division, Sole Proprietorship Returns 2019, November 2021. IRS, Statistics of Income Division, Sole Proprietorship Returns 2018, September 2020. IRS, Statistics of Income Division, Sole Proprietorship Returns 2017, September 2019. IRS, Statistics of Income Division, Sole Proprietorship Returns 2016, August 2018. IRS, Statistics of Income Division, Sole Proprietorship Returns 2015, July 2017.*
