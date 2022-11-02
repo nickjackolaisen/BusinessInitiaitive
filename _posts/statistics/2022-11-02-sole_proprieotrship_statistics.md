@@ -13,7 +13,7 @@ According to the 2020 US Census from 2020, there were 826,915 Sole Proprietorshi
 
 Based on this, **10.34% of US Businesses are Sole Proprietorships.**
 
-***Source:*** *Census Table-CB2000CBP 		Dataset-CBP2020   Data Released-May 26, 2022*
+**Source:** *Census Table-CB2000CBP 		Dataset-CBP2020   Data Released-May 26, 2022*
 
 ## What are the Largest Sole Proprietorships in the world?
 
@@ -28,7 +28,6 @@ Without any liability protections, any massively successful sole proprietor woul
 ### Nonfarm Sole Proprietorship Statistics ###
 
 <table>
-<center>
   <tr>
     <th rowspan="2">Year</th>
     <th colspan="2"> Profitable Businesses Only</th>
@@ -75,10 +74,10 @@ Without any liability protections, any massively successful sole proprietor woul
     <td>$392,114,132,000</td>
     <td>25,226,245</td>
     <td>$331,832,538,000</td>
-	</center>
+	</tr>
 	</table>
 
-***Sources:*** 
+**Sources:** 
 *IRS, Statistics of Income Division, Sole Proprietorship Returns 2019, November 2021. IRS, Statistics of Income Division, Sole Proprietorship Returns 2018, September 2020. IRS, Statistics of Income Division, Sole Proprietorship Returns 2017, September 2019. IRS, Statistics of Income Division, Sole Proprietorship Returns 2016, August 2018. IRS, Statistics of Income Division, Sole Proprietorship Returns 2015, July 2017.*
 
 
