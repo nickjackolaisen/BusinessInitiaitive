@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 17 Profitable Sole Proprietorship Examples You Can Start TODAY!
-date: 2022-10-18
+title: 17 Profitable Sole Proprietorship Examples You Can Start TODAY! (Updated for 2022)
+date: 2022-11-01
 summary: Here are a few examples of Sole Proprietorships to get the ideas flowing. Check it out and understand why Sole Proprietorships are so popular.
 permalink: /sole-proprietorship/examples/
 ---

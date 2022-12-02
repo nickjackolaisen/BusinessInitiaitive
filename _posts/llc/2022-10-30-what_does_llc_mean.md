@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Does LLC Mean and How Do They Work?
-date: 2022-09-11
+date: 2022-10-30
 summary: LLC stands for Limited Liability Company.   
 permalink: /what-does-llc-mean/
 ---
