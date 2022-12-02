@@ -1,19 +1,18 @@
 ---
-title: "Sole Proprietorship Facts & Statistics (2022)"
+title: "Sole Proprietorship Facts & Statistics (2022 Data)"
 layout: post
 date: 2022-11-02
-summary: Here is data on how many businesses filed and how much they collectevely made in the US between 1980 and 2015
+summary: Find answers to the most popular FAQs about Sole Proprietorship business entities. 
 permalink: /stats/sole-proprietorship-statistics/
 ---
 
-
 ## What percentage of United States businesses are Sole Proprietorships?
-	
+  
 According to the 2020 US Census from 2020, there were 826,915 Sole Proprietorship type business establishments in the United States. Compare this to the total 8,000,178 Business establishments in the US. 
 
 Based on this, **10.34% of US Businesses are Sole Proprietorships.**
 
-**Source:** *Census Table-CB2000CBP 		Dataset-CBP2020   Data Released-May 26, 2022*
+**Source:** *Census Table-CB2000CBP     Dataset-CBP2020   Data Released-May 26, 2022*
 
 ## What are the Largest Sole Proprietorships in the world?
 
@@ -74,10 +73,32 @@ Without any liability protections, any massively successful sole proprietor woul
     <td>$392,114,132,000</td>
     <td>25,226,245</td>
     <td>$331,832,538,000</td>
-	</tr>
-	</table>
+  </tr>
+  </table>
 
 **Sources:** 
 *IRS, Statistics of Income Division, Sole Proprietorship Returns 2019, November 2021. IRS, Statistics of Income Division, Sole Proprietorship Returns 2018, September 2020. IRS, Statistics of Income Division, Sole Proprietorship Returns 2017, September 2019. IRS, Statistics of Income Division, Sole Proprietorship Returns 2016, August 2018. IRS, Statistics of Income Division, Sole Proprietorship Returns 2015, July 2017.*
 
+## The 5 Strengths and Advantages of a Sole Proprietorship
 
+1.   There’s **no paperwork** or State registration to go through
+2.   Simplest and **fastest business entity to set up**
+3.   You have **total control** over every facet of the business
+4.   **Dissolving the business is effortless**
+5.   The **easiest taxation model**: The Pass-Though Process
+
+## Why are Sole Proprietorships the MOST Popular?
+
+As the simplest business entity to both set up and operate, it is no wonder why so many people opt for Sole Proprietorships as opposed to going through the headache of registering a business with your state. Other, more complicated businesses (LLCs and Corporations)require a lot of upkeep and annual registration fees. 
+
+Honestly, the best part of a Sole Proprietorship is getting out of having to file stacks of paperwork and deal with government bureaucracy. 
+
+<p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/sole-proprietorship/advantages/"> Here's a deeper look at the Sole Proprietorship's greatest attributes. </a></p>
+
+## What is a major weakness of the Sole Proprietorship?
+
+The main pitfall of starting a Sole Proprietorship is you are very limited to what you can and cannot do. For instance, it can be extremely difficult to secure funding as an unregistered, unrecognized business. To put it in modern tongue... you don't have any clout while operating as a Sole Proprietor. 
+
+It's also important to consider the amount of liability you are taking on as a Sole Proprietor. Any debts or liability falls directly on you. Like it out now, you are "solely" responsible for every aspect of your business. Banks can't give you a business loan or business credit cards because, legally speaking, you don't have a business. You are just making money under your name by providing goods and services. There is no entity and no liability protection.
+
+<p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/sole-proprietorship/disadvantages/"> What else is wrong with being a Sole Proprietor? </a></p>
