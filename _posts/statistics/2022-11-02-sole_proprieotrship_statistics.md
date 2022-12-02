@@ -81,8 +81,8 @@ Without any liability protections, any massively successful sole proprietor woul
 
 ## The 5 Strengths and Advantages of a Sole Proprietorship
 
-1.   There’s **no paperwork** or State registration to go through
-2.   Simplest and **fastest business entity to set up**
+1.   There’s **no paperwork** or State registration hoops to jump through
+2.   **Simplest** and **fastest** business entity to set up
 3.   You have **total control** over every facet of the business
 4.   **Dissolving the business is effortless**
 5.   The **easiest taxation model**: The Pass-Though Process
@@ -93,12 +93,14 @@ As the simplest business entity to both set up and operate, it is no wonder why 
 
 Honestly, the best part of a Sole Proprietorship is getting out of having to file stacks of paperwork and deal with government bureaucracy. 
 
-<p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/sole-proprietorship/advantages/"> Here's a deeper look at the Sole Proprietorship's greatest attributes. </a></p>
+<p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/sole-proprietorship/advantages/"> Have a deeper look at the Sole Proprietorship's greatest attributes. </a></p>
 
 ## What is a major weakness of the Sole Proprietorship?
 
-The main pitfall of starting a Sole Proprietorship is you are very limited to what you can and cannot do. For instance, it can be extremely difficult to secure funding as an unregistered, unrecognized business. To put it in modern tongue... you don't have any clout while operating as a Sole Proprietor. 
+The main pitfall of starting a Sole Proprietorship is the limitations on what you can and cannot do. 
 
-It's also important to consider the amount of liability you are taking on as a Sole Proprietor. Any debts or liability falls directly on you. Like it out now, you are "solely" responsible for every aspect of your business. Banks can't give you a business loan or business credit cards because, legally speaking, you don't have a business. You are just making money under your name by providing goods and services. There is no entity and no liability protection.
+For instance, it can be extremely difficult to secure funding as an unregistered, unrecognized business. To put it in modern tongue... you don't have any clout while operating as a Sole Proprietor. 
+
+It's also important to consider the amount of liability you take on as a Sole Proprietor. Any debts or liability falls directly on you. Like it out not, you are "solely" responsible for every aspect of your business. Banks can't give you a business loan or business credit cards because, legally speaking, you don't have a business. You are just making money under your name by providing goods and services. There is no entity and no liability protection.
 
 <p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/sole-proprietorship/disadvantages/"> What else is wrong with being a Sole Proprietor? </a></p>
