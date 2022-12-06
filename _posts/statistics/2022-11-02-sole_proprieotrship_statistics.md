@@ -18,7 +18,7 @@ Based on this, **10.34% of US Businesses are Sole Proprietorships.**
 
 Believe it or not, the Largest Sole Proprietorship in the world simply wouldn't exist. 
 
-Unfortunately, Sole Proprietors don’t receive any Limited Personal Liability Protections. This single factor means anybody with a significantly sized Sole Proprietorship would surely upgrade their Business type to a Single-Member LLC or Corporate variation as soon as humanly possible. 
+Unfortunately, Sole Proprietors don’t receive any [Limited Personal Liability Protections](https://www.businessinitiative.org/sole-proprietorship-vs-llc/). This single factor means anybody with a significantly sized Sole Proprietorship would surely upgrade their Business type to a [Single-Member LLC](https://www.businessinitiative.org/what-does-llc-mean/) or Corporate variation as soon as humanly possible. 
 
 Without any liability protections, any massively successful sole proprietor would be out of their mind to NOT convert their business to one which provides the peace of mind of Limited Personal Liability Protections, the savings of tax breaks, and the option to expand and add Owners and Investors. 
 
@@ -89,7 +89,7 @@ Without any liability protections, any massively successful sole proprietor woul
 
 ## Why are Sole Proprietorships the MOST Popular?
 
-As the simplest business entity to both set up and operate, it is no wonder why so many people opt for Sole Proprietorships as opposed to going through the headache of registering a business with your state. Other, more complicated businesses (LLCs and Corporations)require a lot of upkeep and annual registration fees. 
+As the simplest business entity to both set up and operate, it is no wonder why so many people opt for Sole Proprietorships as opposed to going through the headache of registering a business with your state. Other, more complicated businesses (LLCs and Corporations) require a lot of upkeep and annual registration fees. 
 
 Honestly, the best part of a Sole Proprietorship is getting out of having to file stacks of paperwork and deal with government bureaucracy. 
 
