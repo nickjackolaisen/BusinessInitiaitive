@@ -87,7 +87,7 @@ Without any liability protections, any massively successful sole proprietor woul
 4.   **Dissolving the business is effortless**
 5.   The **easiest taxation model**: The Pass-Though Process
 
-## Why are Sole Proprietorships the MOST Popular?
+## Why are Sole Proprietorships the MOST popular business entity?
 
 As the simplest business entity to both set up and operate, it is no wonder why so many people opt for Sole Proprietorships as opposed to going through the headache of registering a business with your state. Other, more complicated businesses (LLCs and Corporations) require a lot of upkeep and annual registration fees. 
 
@@ -104,3 +104,14 @@ For instance, it can be extremely difficult to secure funding as an unregistered
 It's also important to consider the amount of liability you take on as a Sole Proprietor. Any debts or liability falls directly on you. Like it out not, you are "solely" responsible for every aspect of your business. Banks can't give you a business loan or business credit cards because, legally speaking, you don't have a business. You are just making money under your name by providing goods and services. There is no entity and no liability protection.
 
 <p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/sole-proprietorship/disadvantages/"> What else is wrong with being a Sole Proprietor? </a></p>
+
+## How long does a Sole Proprietorship last?
+
+Sole Proprietorships last until one of three events occur…
+
+1.  The owner dies,
+2.  The sole proprietor stops providing whatever products or services they sell, 
+3.  Or, the owner has the option of selling the components of the business like their tools, inventory, or equipment and is therefore unable to continue business operations.
+
+Being that the Sole Proprietorship is the simplest business entity, it is completely reliant on the owner and their ability to keep their business up and running. As soon as the owner dies or stops doing business, the Sole Proprietorship dissolves. 
+
