@@ -115,3 +115,19 @@ Sole Proprietorships last until one of three events occur…
 
 Being that the Sole Proprietorship is the simplest business entity, it is completely reliant on the owner and their ability to keep their business up and running. As soon as the owner dies or stops doing business, the Sole Proprietorship dissolves. 
 
+What is the richest privately owned company?
+
+Although Sole Proprietorships are known to be better for side-hustles and small, low-risk operations some can get quite big before the owner decides to register it as an LLC or get the stamp of approval from the state and turn it into a Corporation.
+
+With that being said…
+
+Cargill is the richest privately owned company in America with an annual revenue of $165 Billion, according to their 2022 Annual Report (https://www.cargill.com/doc/1432215917376/2022-cargill-annual-report.pdf). 
+
+Based on their wikipedia page, Cargill brought in a net profit of $4.93 Billion in 2021, after material costs and taxes. Unfortunately, since it is a private company they restrict access to their financial reports.
+
+Here is a look at Cargill’s annual revenue compared to their annual profits between 2010 and 2021:
+
+<img title="a title" alt="Alt text" src="/images/boo.svg">
+
+
+Source: [Statista](https://www.statista.com/statistics/274778/revenue-and-profit-of-cargill-agricultural-company/) 
