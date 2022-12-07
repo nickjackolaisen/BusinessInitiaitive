@@ -109,9 +109,9 @@ It's also important to consider the amount of liability you take on as a Sole Pr
 
 Sole Proprietorships last until one of three events occur…
 
-1.  The owner dies,
-2.  The sole proprietor stops providing whatever products or services they sell, 
-3.  Or, the owner has the option of selling the components of the business like their tools, inventory, or equipment and is therefore unable to continue business operations.
+**1.**  The owner dies,
+**2.**  The sole proprietor stops providing whatever products or services they sell, 
+**3.**  Or, the owner has the option of selling the components of the business like their tools, inventory, or equipment and is therefore unable to continue business operations.
 
 Being that the Sole Proprietorship is the simplest business entity, it is completely reliant on the owner and their ability to keep their business up and running. As soon as the owner dies or stops doing business, the Sole Proprietorship dissolves. 
 
@@ -125,7 +125,10 @@ With that being said…
 
 Based on their wikipedia page, Cargill brought in a net profit of $4.93 Billion in 2021, after material costs and taxes. Being a private company, Cargill  restricts access to their financial reports. Here is what they've released so far:
 
-<center><img title="Cargill’s annual revenue compared to their annual profits between 2010 and 2021" src="/_posts/statistics/img/cargill-revenue-profit-2010-2021.png"></center>
+<img title="Cargill’s annual revenue compared to their annual profits between 2010 and 2021" src="/_posts/statistics/img/cargill-revenue-profit-2010-2021.png">
+
+<img src="/_posts/statistics/img/cargill-revenue-profit-2010-2021.png" alt="" title="Cargill’s annual revenue compared to their annual profits between 2010 and 2021" />
+
 
 **Source:** [Statista](https://www.statista.com/statistics/274778/revenue-and-profit-of-cargill-agricultural-company/)
 
@@ -145,5 +148,20 @@ As the simplest business entity, Sole Proprietorships are not registered with th
     
 ####  5. Pass-Through Taxation
 The money sole proprietors make is “passed-through” to their personal account. This streamlines the entire taxation process. All the owner has to do is account for any profits or losses on their personal income tax return. The only additional piece of paperwork one has to complete is the [1040-SC Form](https://www.irs.gov/pub/irs-pdf/f1040sc.pdf). Just attach this to the [federal tax return](https://www.irs.gov/pub/irs-pdf/f1040.pdf) you are probably already familiar with and complete every year.  
-    
+
+## How long do most small businesses last?
+
+The lifetime of a small business depends on many factors. Variables like the market, the state of the economy, and a business’s profit margins can all have a massive impact on the sustainability of a particular business. A company could also loose their customer base to a competitor or just die out because a newer or better version becomes available.
+
+The short answer is small business last until one of two events occurs:
+
+**1. The small business ceases operation and closes it’s doors**
+
+**2. The small business grows and expands to the point where it is no longer called a small business.** 
+
+Let’s say you have a family owned auto repair shop and in comes a franchise location for a large corporate auto repair service. Unless your small business can beat their prices and perform repairs better than your corporate competitor, the odds are stacked against you. But…
+
+Maybe you and your mechanics have developed some groundbreaking technique to clean oil or change brakes or install new spark plugs better than the mainstream approach. Your customer base could grow to the point where you begin expanding your business and opening up new locations. 
+
+Now your small business is a thing of the past.
 
