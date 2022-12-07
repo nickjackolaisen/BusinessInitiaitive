@@ -149,11 +149,11 @@ As the simplest business entity, Sole Proprietorships are not registered with th
 ####  5. Pass-Through Taxation
 The money sole proprietors make is “passed-through” to their personal account. This streamlines the entire taxation process. All the owner has to do is account for any profits or losses on their personal income tax return. The only additional piece of paperwork one has to complete is the [1040-SC Form](https://www.irs.gov/pub/irs-pdf/f1040sc.pdf). Just attach this to the [federal tax return](https://www.irs.gov/pub/irs-pdf/f1040.pdf) you are probably already familiar with and complete every year.  
 
-## How long do most small businesses last?
+## How long do small businesses last?
 
 The lifetime of a small business depends on many factors. Variables like the market, the state of the economy, and a business’s profit margins can all have a massive impact on the sustainability of a particular business. A company could also loose their customer base to a competitor or just die out because a newer or better version becomes available.
 
-The short answer is small business last until one of two events occurs:
+Most small business last until one of two events occur:
 
 **1. The small business ceases operation and closes it’s doors**
 
