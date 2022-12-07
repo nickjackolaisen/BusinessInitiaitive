@@ -127,6 +127,14 @@ Based on their wikipedia page, Cargill brought in a net profit of $4.93 Billion 
 
 <img title="Cargill’s annual revenue compared to their annual profits between 2010 and 2021" src="/_posts/statistics/img/cargill-revenue-profit-2010-2021.png">
 
+
+-----
+FIrst picture is above
+blah blah
+
+Second picture is below
+
+------
 <img src="/_posts/statistics/img/cargill-revenue-profit-2010-2021.png" alt="" title="Cargill’s annual revenue compared to their annual profits between 2010 and 2021" />
 
 
@@ -164,4 +172,3 @@ Let’s say you have a family owned auto repair shop and in comes a franchise lo
 Maybe you and your mechanics have developed some groundbreaking technique to clean oil or change brakes or install new spark plugs better than the mainstream approach. Your customer base could grow to the point where you begin expanding your business and opening up new locations. 
 
 Now your small business is a thing of the past.
-
