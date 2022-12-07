@@ -127,7 +127,7 @@ Based on their wikipedia page, Cargill brought in a net profit of $4.93 Billion 
 
 <br>
 <center>
-<img title="Cargill’s annual revenue compared to their annual profits between 2010 and 2021:" src="_posts/statistics/img/cargill-revenue-profit-2010-2021.png">
+<img title="Cargill’s annual revenue compared to their annual profits between 2010 and 2021:" src="/_posts/statistics/img/cargill-revenue-profit-2010-2021.png">
 </center>
 
 **Source:** [Statista](https://www.statista.com/statistics/274778/revenue-and-profit-of-cargill-agricultural-company/)
