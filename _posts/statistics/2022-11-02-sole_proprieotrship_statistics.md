@@ -121,11 +121,10 @@ Although Sole Proprietorships are known to be better for side-hustles and small,
 
 With that being said…
 
-**Cargill is the largest privately owned company in America with an annual revenue of $165 Billion**, according to their [2022 Annual Report](https://www.cargill.com/doc/1432215917376/2022-cargill-annual-report.pdf). 
+**Cargill is the largest privately owned corporation in America coming in at an annual revenue of $165 Billion**, according to their [2022 Annual Report](https://www.cargill.com/doc/1432215917376/2022-cargill-annual-report.pdf). This food production giant was started way back in 1865 and currently employees 155,000 workers worldwide.
 
-Based on their wikipedia page, Cargill brought in a net profit of $4.93 Billion in 2021, after material costs and taxes. Unfortunately, since it is a private company they restrict access to their financial reports.
+Based on their wikipedia page, Cargill brought in a net profit of $4.93 Billion in 2021, after material costs and taxes. Being a private company, Cargill  restricts access to their financial reports. Here is what they've released so far:
 
-<br>
 <center>
 <img title="Cargill’s annual revenue compared to their annual profits between 2010 and 2021:" src="/_posts/statistics/img/cargill-revenue-profit-2010-2021.png">
 </center>
