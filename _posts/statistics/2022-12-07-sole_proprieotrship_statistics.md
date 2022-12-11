@@ -105,6 +105,37 @@ It's also important to consider the amount of liability you take on as a Sole Pr
 
 <p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/sole-proprietorship/disadvantages/"> What else is wrong with being a Sole Proprietor? </a></p>
 
+
+## What are 3 trade offs of running a Sole Proprietorship?
+
+#### 1.	Protection
+		
+The single worst aspect of the Sole Proprietorship as a business entity is it’s complete lack of liability protection.  In a nutshell, this means sole proprietors have to stick with  low- or no-risk businesses. If something goes wrong and the business gets sued or owes money to creditors, [the sole proprietor is liable to pay out of pocket](https://www.businessinitiative.org/sole-proprietorship-vs-llc/pros-and-cons/) for all legal and business fees. 
+		
+Not only does this personally affect the owner of the business, it also has a massive impact on their ability to secure funding. If a Sole Proprietor wants to take out a loan, they cannot go to the bank and take out a business loan, they have to take out a personal loan. If the Sole Proprietor decides to try and find private investors, they simply won’t risk more capital than what the sole proprietor is worth. 
+		
+Due to their lack of protection Sole Proprietors are heavily restricted to what they sell and how they go about getting their business up and running. 
+
+#### 2.	Tax Options
+
+If you are looking for a variable taxation structure to fit your business needs, stay away from the Sole Proprietorship. You would be better off setting up an LLC, [S-Corp, C-Corp](https://www.businessinitiative.org/s-corp-vs-c-corp/), or Corporation. 
+		
+Sole Proprietorships have one standardized tax setup: The Pass-Through Process. With this setup all of the business’s profits are automatically “passed” on to the owner’s personal account. Any profits (or losses) coming from the Sole Proprietorship are declared on the [1040-SC Form](https://www.irs.gov/pub/irs-pdf/f1040sc.pdf). This is attached to the [federal tax return](https://www.irs.gov/pub/irs-pdf/f1040.pdf) and you’re good to go. 
+
+With a Sole Proprietorship you are paying Self-Employment tax in addiction to the usual federal, state, and local income taxes based on where you live. Self-Employment tax is the IRS’s fancy name for when they combine Social Security and Medicare taxes. 
+
+The main difference between this standardized process and those of LLCs, S-Corps, C-Corps, and Corporations is these more complex business entities provide you the ability to split and mix these taxes in different ways. These state-registered entities allow for tax optimization but with the simplified Sole Proprietorship you are stuck with the default tax structure. 
+
+#### 3.	Management Options
+
+In a Sole Proprietorship you lose the ability to structure the business how you want. You don’t have a choice on whether you want to be actively or passively involved in the business like you could with an LLC or Corporation. 
+		
+The more complex businesses give you the option to be more hands-on and involved in the day-to-day decision making in the company. They provide you the ability to be totally hands-off and hire a management team to do all the nitty-gritty work for you. You would still be involved in all major company decisions either way. Having a management team allows you to take a step back and focus on the big picture vision instead of losing sight and getting distracted with all the little things which inevitably come up.
+
+This is not the case in a Sole Proprietorship. In stead of getting the chance to be hands-off, you have to be all hands on deck. Sole Proprietorships only exist if the owner, the sole proprietor, is actively managing and operating the business themselves. Sole proprietors can hire employees if they want, but the owner have to be a part of all decisions, both short- and long-term. 
+
+<p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/what-does-llc-mean/"> Why are LLCs so popular? </a></p>
+
 ## How long does a Sole Proprietorship last?
 
 Sole Proprietorships last until one of three events occur…
@@ -180,4 +211,5 @@ Now your small business is a thing of the past.
 **5.**  Although they are relatively [easy to dissolve](https://www.businessinitiative.org/sole-proprietorship/advantages/), **selling a Sole Proprietorship is extremely difficult**. You cannot sell the Sole Proprietorship as an entity because, from a legal point-of-view, its not a business entity. The only way to sell the business is to sell the individual components, materials, and anything else necessary to the manufacture of the products or the ability to provide the services you sell. 
 
 <p><b>➤ DISCOVER: </b> <a href="https://www.businessinitiative.org/sole-proprietorship/disadvantages/"> Why you should avoid Sole Proprietorships like the plague.  </a></p>
+
 
