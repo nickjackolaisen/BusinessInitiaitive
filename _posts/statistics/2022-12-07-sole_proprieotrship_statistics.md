@@ -198,11 +198,10 @@ Maybe you and your mechanics have developed some groundbreaking technique to cle
 Now your small business is a thing of the past.
 
 ## What are 5 disadvantages of a Sole Proprietorship?
-	https://www.businessinitiative.org/sole-proprietorship/disadvantages/
 
 **1.**  Sole proprietors are **fully responsible** for all aspects of their business. Total liability prevents owners from taking the risks necessary for some businesses to flourish.
 
-**2.**  As the simplest business entity, owners are limited to one taxation method. There are **no tax breaks** available for Sole Proprietorships like there are for LLCs and Corporations. 
+**2.**  As the simplest business entity, [owners are limited](https://www.businessinitiative.org/sole-proprietorship/disadvantages/) to one taxation method: The Pass-Through Process. There are **no tax breaks** available for Sole Proprietorships like there are for LLCs and Corporations. 
 
 **3.**  Without having to register with the state, Sole Proprietorships are **generally viewed as inferior businesses** compared to LLCs and Corporations. This makes finding investors and establishing yourself as a credible business much more difficult than if you had an LLC or Corporation. 
 
