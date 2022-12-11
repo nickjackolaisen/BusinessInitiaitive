@@ -110,8 +110,10 @@ It's also important to consider the amount of liability you take on as a Sole Pr
 Sole Proprietorships last until one of three events occur…
 
 **1.**  The owner dies,
-**2.**  The sole proprietor stops providing whatever products or services they sell, 
-**3.**  Or, the owner has the option of selling the components of the business like their tools, inventory, or equipment and is therefore unable to continue business operations.
+
+**2.**  The sole proprietor stops providing whatever products or services they sell or, 
+
+**3.**  The owner has the option of selling the components of the business like their tools, inventory, or equipment and is therefore unable to continue business operations.
 
 Being that the Sole Proprietorship is the simplest business entity, it is completely reliant on the owner and their ability to keep their business up and running. As soon as the owner dies or stops doing business, the Sole Proprietorship dissolves. 
 
@@ -163,3 +165,19 @@ Let’s say you have a family owned auto repair shop and in comes a franchise lo
 Maybe you and your mechanics have developed some groundbreaking technique to clean oil or change brakes or install new spark plugs better than the mainstream approach. Your customer base could grow to the point where you begin expanding your business and opening up new locations. 
 
 Now your small business is a thing of the past.
+
+## What are 5 disadvantages of a Sole Proprietorship?
+	https://www.businessinitiative.org/sole-proprietorship/disadvantages/
+
+**1.**  Sole proprietors are **fully responsible** for all aspects of their business. Total liability prevents owners from taking the risks necessary for some businesses to flourish.
+
+**2.**  As the simplest business entity, owners are limited to one taxation method. There are **no tax breaks** available for Sole Proprietorships like there are for LLCs and Corporations. 
+
+**3.**  Without having to register with the state, Sole Proprietorships are **generally viewed as inferior businesses** compared to LLCs and Corporations. This makes finding investors and establishing yourself as a credible business much more difficult than if you had an LLC or Corporation. 
+
+**4.  You cannot set up a business bank account** because Sole Proprietorships are technically viewed as unofficial business entities. 
+
+**5.**  Although they are relatively [easy to dissolve](https://www.businessinitiative.org/sole-proprietorship/advantages/), **selling a Sole Proprietorship is extremely difficult**. You cannot sell the Sole Proprietorship as an entity because, from a legal point-of-view, its not a business entity. The only way to sell the business is to sell the individual components, materials, and anything else necessary to the manufacture of the products or the ability to provide the services you sell. 
+
+<p><b>➤ DISCOVER: </b> <a href="https://www.businessinitiative.org/sole-proprietorship/disadvantages/"> Why you should avoid Sole Proprietorships like the plague.  </a></p>
+
