@@ -158,7 +158,7 @@ With that being said…
 
 Based on their wikipedia page, Cargill brought in a net profit of $4.93 Billion in 2021, after material costs and taxes. Being a private company, Cargill  restricts access to their financial reports. Here is what they've released so far:
 
-<img alt="Cargill’s annual revenue compared to their annual profits between 2010 and 2021" src="/_posts/statistics/img/cargill-revenue-profit-2010-2021.png"/>
+<img alt="Cargill’s annual revenue compared to their annual profits between 2010 and 2021" src="/statistics/img/cargill-revenue-profit-2010-2021.png"/>
 
 <img src="/_posts/statistics/img/cargill-revenue-profit-2010-2021.png" title="Cargill’s annual revenue compared to their annual profits between 2010 and 2021" />
 
@@ -195,7 +195,7 @@ Let’s say you have a family owned auto repair shop and in comes a franchise lo
 
 Maybe you and your mechanics have developed some groundbreaking technique to clean oil or change brakes or install new spark plugs better than the mainstream approach. Your customer base could grow to the point where you begin expanding your business and opening up new locations. 
 
-Now your small business is a thing of the past.
+Now your small business isn't so small anymore.
 
 ## What are 5 disadvantages of a Sole Proprietorship?
 
@@ -211,4 +211,14 @@ Now your small business is a thing of the past.
 
 <p><b>➤ DISCOVER: </b> <a href="https://www.businessinitiative.org/sole-proprietorship/disadvantages/"> Why you should avoid Sole Proprietorships like the plague.  </a></p>
 
+## Do Sole Proprietorships have unlimited life?
 
+No, Sole Proprietorship entities will end when one of the following events occur:
+
+**1.**	The owner, known as the sole proprietor, decides to sell the materials and equipment necessary for the business to operate.
+**2.**	The sole proprietor chooses to stop running the business.
+**3.**	The sole proprietor dies.
+
+In a Sole Proprietorship the owner is [legally viewed as the business itself](https://www.businessinitiative.org/sole-proprietorship/disadvantages/). If the owner is no longer present or is unable to continue providing their services or selling their goods then the Sole Proprietorship simply dissolves. 
+
+Just as the Sole Proprietorship is nothing without a sole proprietor to manage and operate the business, so to the business isn’t a business if it’s not productive. 
