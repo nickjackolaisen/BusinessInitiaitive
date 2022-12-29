@@ -214,7 +214,9 @@ Now your small business isn't so small anymore.
 No, Sole Proprietorship entities will end when one of the following events occur:
 
 **1.**	The owner, known as the sole proprietor, decides to sell the materials and equipment necessary for the business to operate.
+
 **2.**	The sole proprietor chooses to stop running the business.
+
 **3.**	The sole proprietor dies.
 
 In a Sole Proprietorship the owner is [legally viewed as the business itself](https://www.businessinitiative.org/sole-proprietorship/disadvantages/). If the owner is no longer present or is unable to continue providing their services or selling their goods then the Sole Proprietorship simply dissolves. 
