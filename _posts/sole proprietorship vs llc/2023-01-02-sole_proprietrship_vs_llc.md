@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sole Proprietorship vs LLC
-date: 2022-12-04
+date: 2023-01-02
 summary: The details of Sole Proprietorships and Limited Liability Companies - Why is one better than the other? 
 permalink: /sole-proprietorship-vs-llc/
 ---
