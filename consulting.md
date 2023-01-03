@@ -21,7 +21,7 @@ If you want to walk with confidence, this is your first step.
 
 Don’t fall victim to analysis paralysis...
 
-**Take the Initiative:** 
+**Take Initiative:** 
 
 <h3 style="text-align: center;">
 <!-- Calendly link widget begin -->
