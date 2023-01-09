@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sole Proprietorship vs LLC: Pros and Cons"
-date: 2022-12-10
+date: 2023-01-08
 summary: A complete comparison of the various pros and cons of both Sole Proprietorships and Limited Liability Companies.  
 permalink: /sole-proprietorship-vs-llc/pros-and-cons/
 ---
