@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Impressive Advantages of Sole Proprietorship
-date: 2022-12-05
+date: 2023-01-06
 summary: Wanna know if the Sole Proprietorship is THE BEST business entity for achieving your professional goals? READ THIS!
 permalink: /sole-proprietorship/advantages/
 ---
