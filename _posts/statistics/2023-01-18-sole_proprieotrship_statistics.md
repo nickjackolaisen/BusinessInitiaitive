@@ -87,8 +87,6 @@ Without any liability protections, any massively successful sole proprietor woul
 4.   **Dissolving the business is effortless**
 5.   The **easiest taxation model**: The Pass-Though Process
 
-<script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
-
 ## Why are Sole Proprietorships the MOST popular business entity?
 
 As the simplest business entity to both set up and operate, it is no wonder why so many people opt for Sole Proprietorships as opposed to going through the headache of registering a business with your state. Other, more complicated businesses (LLCs and Corporations) require a lot of upkeep and annual registration fees. 
@@ -149,6 +147,8 @@ Sole Proprietorships last until one of three events occur…
 **3.**  The owner has the option of selling the components of the business like their tools, inventory, or equipment and is therefore unable to continue business operations.
 
 Being that the Sole Proprietorship is the simplest business entity, it is completely reliant on the owner and their ability to keep their business up and running. As soon as the owner dies or stops doing business, the Sole Proprietorship dissolves. 
+
+<script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
 ## What is the richest privately owned company?
 
