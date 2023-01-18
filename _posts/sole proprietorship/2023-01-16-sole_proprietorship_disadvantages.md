@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 6 Awful Disadvantages of Sole Proprietroships
-date: 2023-01-04
+date: 2023-01-16
 summary: Don't read this article if you're considering starting a Sole Proprietorship! You just might end up starting a Partnership, LLC, or Corporation.
 permalink: /sole-proprietorship/disadvantages/
 ---
