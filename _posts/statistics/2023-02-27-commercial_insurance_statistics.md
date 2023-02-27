@@ -134,6 +134,7 @@ The OCED is the [Organization for Economic Co-Operation and Development](https:/
  
 <center>
 | Age of Business Owners | Percentage Carrying Business Insurance |
+|:-----------------------|:-------------------------------------|
 |	18-25           	|	66.7%		|
 |	25-34		    	|	71.4		|
 |	35-44		    	|	76.8%		|
@@ -178,6 +179,7 @@ SOURCE: https://newsroom.thehartford.com/newsroom-home/news-releases/news-releas
 
 <center>
 |	Most Common 	       | 		Percentage of Total Claim       |
+|:-------------------------|:---------------------------------------|
 |	Burglary and Theft					                	|	20%	|
 |	Water and Freezing Damage					            |	15%	|
 |	Wind and Hail Damage, most notably to the roof or signs	|	15%	|		
@@ -196,6 +198,7 @@ SOURCE: https://newsroom.thehartford.com/newsroom-home/news-releases/news-releas
 
 <center>
 |	Most Expensive | Average Cost of Claim (Costs increase if lawsuits are involved)	|
+|:-----------------|:-------------------------------------------------------------------|
 |	Reputational Harm	                	|	$50,000	|
 |	Vehicle Accident	                	|	$45,000	|
 |	Fire 			                    	|	$35,000	|
@@ -205,12 +208,13 @@ SOURCE: https://newsroom.thehartford.com/newsroom-home/news-releases/news-releas
 |	Customer Slip and Fall	                |	$20,000	|
 |	Water and Freezing Damage	            |	$17,000	|
 |	Struck By Object		                |	$10,000	|
-|	Burglary and Theft		                |	$8,000		|
+|	Burglary and Theft		                |	$8,000	|
 </center>
 
 **7.**	For a more recent breakdown of the most common situations 1000 small business faced in 2020. A few of the businesses who participated in [the survey](https://advisorsmith.com/data/small-business-claims-statistics/) actually reported multiple insurable events. Check out the results:
 <center>
 |	Event 	|	Percentage of reports 	|	Corresponding Insurance	|
+|:----------|:--------------------------|:---------------------|
 |	**Crimes (Burglary, theft, fraud)**			| 32.0%|    Commercial Crime Insurance protects businesses from financial losses due to crimes like burglary, theft, fraud.	|
 |	**Employee Injuries**						| 31.3%|    Workers’ Compensation Insurance helps businesses cover the bill for employees injured on the job. This insurance also helps a business provide paid leave to employees who get sick and can’t come in to work.	|
 |	**Customer and Client Disagreements**	| 28.6%|    Professional Liability Insurance helps a business mitigate court and lawyer fees as well as the compensation owed for damages caused by the dispute.	|
@@ -275,6 +279,7 @@ Based on these recent developments, the types of insurance policies small busine
 
 <center>
 |	Year	|	Cost of Commercial Insurance Premiums    |	Percent Increase    |
+|:----------|:-------------------------------------------|:---------------------|
 |2017		| 	$253,200,000,000		        		 |		            	|
 |2018		|	$287,100,000,000		        		 |  13.4% Increase	    |
 |2019		| 	$299,300,000,000		           		 |  4.25%increase	    |
@@ -286,6 +291,7 @@ Based on these recent developments, the types of insurance policies small busine
 
 <center>
 |	Year 	|	Cost of Incurred Commercial Losses		|	Percent Increase    |
+|:----------|:------------------------------------------|:----------------------|
 |2017		|	    $136,939,624,000		        	|			        	|
 |2018		|	    $148,768,919,000 		        	|	7.85% increase  	|
 |2019		|   	$155,085,961,000 		        	|	4.25% increase	    |
