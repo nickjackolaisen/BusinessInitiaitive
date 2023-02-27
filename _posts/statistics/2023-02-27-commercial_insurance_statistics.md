@@ -231,15 +231,15 @@ The following statistics are grouped according to their position in the above ch
 
 **12.**	According to the Hiscox’s [Cyber Readiness Report for 2022](https://www.hiscox.com/documents/Hiscox-Cyber-Readiness-Report-2022.pdf), cyber attacks increased by 80% for American Businesses. Attacks have increased from 2021 by 7%. 34% of US businesses have a cyber specific insurance policy. 64% of businesses have either a standalone [cyber insurance policy](https://www.hiscox.com/cybersecurity) or have added one to an [existing policy.](https://www.hiscox.com/small-business-insurance-lp?medium=tsa&_vsrefdom=2019041702&leadorigin=SEM_Brand_Bing&gclsrc=ds&gclsrc=ds) The median cost of a cyber attack in the US for 2022 was $18,800 with the highest cost of a cyber attack being around $2,000,000. Compare this to worldwide cyber attack statistics where the average cost was just under $17,000, with an increase of 29% in the year before. 1 out of 5 businesses which had a cyber attack said the survival of their business was seriously threatened. 
 
-**13.**	In 2014, $23.6 Billion was spent on all types of fire insurance in the US. This is 7.2% of all fire costs for 2014 which is estimated to be around $328.5 Billion.
+**13.**	In 2014, $23.6 Billion was spent on all types of [fire insurance in the US.](https://www.nfpa.org//-/media/Files/News-and-Research/Fire-statistics-and-reports/US-Fire-Problem/RFTotalCost.pdf) This is 7.2% of all fire costs for 2014 which is estimated to be around $328.5 Billion.
 
 <figure>
-<img 
-    alt="Fire Insurance Spending" 
-    src="/images/fire-insurance-spending.png" 
-    style="width: 75%; height: 75%"
-    <figcaption>[The Amount Spent on Fire Insurance Between 1980 and 2014 in Billions](https://www.nfpa.org//-/media/Files/News-and-Research/Fire-statistics-and-reports/US-Fire-Problem/RFTotalCost.pdf)</figcaption>
->
+<center>
+<img alt="Fire Insurance Spending"  src="/images/fire-insurance-spending.png" 
+    style="width: 75%; height: 75%" />
+    <figcaption>The Amount Spent on Fire Insurance Between 1980 and 2014 in Billions
+    </figcaption>
+</center>
 </figure>
 
 **14.**	Approximately 10% of small businesses between 2010 and 2014 filed an insurance claim [due to a fire](https://newsroom.thehartford.com/newsroom-home/news-releases/news-releases-details/2015/The-Hartford-Reports-More-Than-40-Percent-Of-Small-Businesses-Will-Experience-A-Claim-In-The-Next-10-Years/default.aspx) with the average cost coming out to around $35,000.
