@@ -132,13 +132,14 @@ The OCED is the [Organization for Economic Co-Operation and Development](https:/
 
 **3.**	Younger business owners (aged 18 to 44) are significantly more likely to carry some form of commercial insurance as opposed to business owners 45 years old and older. Based on [the data presented below](https://advisorsmith.com/data/small-business-claims-statistics/), young owners are TWICE as likely to carry business insurance.
  
+<center>
 | Age of Business Owners | Percentage Carrying Business Insurance |
-|:—————————-----------——-|:————————————----------------------—————|
 |	18-25           	|	66.7%		|
 |	25-34		    	|	71.4		|
 |	35-44		    	|	76.8%		|
 |	45-54			    |	38.9%		|
 |	55 and Up	    	|	33.3%		|
+</center>
 
 Dr. Robert Hartwig, co-director of the Risk and Uncertainty Management Center at University of South Carolina’s Darla School of Business, gives two possible reasons why the younger generation is 2x as likely to have business insurance than their elders:
 
@@ -174,9 +175,9 @@ Over 7 million small businesses rely on commercial insurance to allow them to co
 SOURCE: https://newsroom.thehartford.com/newsroom-home/news-releases/news-releases-details/2015/The-Hartford-Reports-More-Than-40-Percent-Of-Small-Businesses-Will-Experience-A-Claim-In-The-Next-10-Years/default.aspx (March 30 2015)
 
 **4.**	Here is a breakdown of the “[10 Most Likely Property and Liability Insurance Claims Small Businesses Made from 2010 to 2014](https://newsroom.thehartford.com/newsroom-home/news-releases/news-releases-details/2015/The-Hartford-Reports-More-Than-40-Percent-Of-Small-Businesses-Will-Experience-A-Claim-In-The-Next-10-Years/default.aspx)”
- 
+
+<center>
 |	Most Common 	       | 		Percentage of Total Claim       |
-|:——————————————————————---|:————-----------------------———————————-|
 |	Burglary and Theft					                	|	20%	|
 |	Water and Freezing Damage					            |	15%	|
 |	Wind and Hail Damage, most notably to the roof or signs	|	15%	|		
@@ -187,13 +188,14 @@ SOURCE: https://newsroom.thehartford.com/newsroom-home/news-releases/news-releas
 |	Struck By Object                						|	<5%	|		
 |	Reputational Harm				                		|	<5%	|
 |	Vehicle Accident					                	|	<5% |	
+</center>
 
 **5.**	Based on The Hartford’s data from 2010 to 2014, which includes over [1 million business insurance policies](https://newsroom.thehartford.com/newsroom-home/news-releases/news-releases-details/2015/The-Hartford-Reports-More-Than-40-Percent-Of-Small-Businesses-Will-Experience-A-Claim-In-The-Next-10-Years/default.aspx), 1/5 businesses faced incidents of burglary and theft. In reality, burglary and theft claims averaged $8,000 in damages. This may seem like a lot at first glance, but when you compare it to the average reputational harm claim of $50,000 it seems pretty reasonable. When reputational harm claim is filed through a General Liability policy, the average cost climbs to over $75,000. 
 
 **6.**	For your convenience, here’s a deeper look at the average cost of the “[10 Most Expensive Property and Liability Insurance Claims for Small Businesses (2010 - 2014)](https://newsroom.thehartford.com/newsroom-home/news-releases/news-releases-details/2015/The-Hartford-Reports-More-Than-40-Percent-Of-Small-Businesses-Will-Experience-A-Claim-In-The-Next-10-Years/default.aspx)”
 
+<center>
 |	Most Expensive | Average Cost of Claim (Costs increase if lawsuits are involved)	|
-|:—————————————----|:—————-----------------------------------------—————————————————-——-|
 |	Reputational Harm	                	|	$50,000	|
 |	Vehicle Accident	                	|	$45,000	|
 |	Fire 			                    	|	$35,000	|
@@ -204,20 +206,21 @@ SOURCE: https://newsroom.thehartford.com/newsroom-home/news-releases/news-releas
 |	Water and Freezing Damage	            |	$17,000	|
 |	Struck By Object		                |	$10,000	|
 |	Burglary and Theft		                |	$8,000		|
+</center>
 
 **7.**	For a more recent breakdown of the most common situations 1000 small business faced in 2020. A few of the businesses who participated in [the survey](https://advisorsmith.com/data/small-business-claims-statistics/) actually reported multiple insurable events. Check out the results:
-
+<center>
 |	Event 	|	Percentage of reports 	|	Corresponding Insurance	|
-|:—————————-|:———————————————-|:—————————————|
 |	**Crimes (Burglary, theft, fraud)**			| 32.0%|    Commercial Crime Insurance protects businesses from financial losses due to crimes like burglary, theft, fraud.	|
 |	**Employee Injuries**						| 31.3%|    Workers’ Compensation Insurance helps businesses cover the bill for employees injured on the job. This insurance also helps a business provide paid leave to employees who get sick and can’t come in to work.	|
 |	**Customer and Client Disagreements**	| 28.6%|    Professional Liability Insurance helps a business mitigate court and lawyer fees as well as the compensation owed for damages caused by the dispute.	|
 |	**Digital Security Breaches**				| 27.9%|    Cyber Liability Insurance protects businesses from losses stemming from hacks, viruses, denial of service attacks, and other digital security system malfunctions.	|
 |	**Employee Discrimination or Harassment**	| 27.2%|    Employment Practices Liability Insurance provides a business coverage in the event a past, present, or future employee files a lawsuit based on claims of discrimination, harassment, or similar concerns.	|
 |	**Property Damage (Fire and Natural Disasters)**	| 26.5%|    Commercial Property Insurance reduces the losses a business experiences from damage to physical property caused by fires, floods, and other natural disasters.	|
-|	**Accidents Involving a Company Vehicle	| 25.9%|    Commercial Auto Insurance covers property damage and liability claims concerning company vehicles. 	|
+|	**Accidents Involving a Company Vehicle**	| 25.9%|    Commercial Auto Insurance covers property damage and liability claims concerning company vehicles. 	|
 |	**Injuries or Damages Caused by Product Quality or Function**	| 24.5%|    Product Liability Insurance provides coverage in the event damage is caused by a business’s product. This insurance is effective in cases of bodily damage or injury as well as damage to physical property or assets. 	|
 |	**Customer Injury and Property Damage**		| 23.1%|    General Liability Insurance protects a business in the event customers or another third-party files a lawsuit claiming bodily damage and injury or damage to physical property.		|
+</center>
 
 The following statistics are grouped according to their position in the above chart. 
 
@@ -233,7 +236,14 @@ The following statistics are grouped according to their position in the above ch
 
 **13.**	In 2014, $23.6 Billion was spent on all types of fire insurance in the US. This is 7.2% of all fire costs for 2014 which is estimated to be around $328.5 Billion.
 
-<img alt="[The Amount Spent on Fire Insurance Between 1980 and 2014](https://www.nfpa.org//-/media/Files/News-and-Research/Fire-statistics-and-reports/US-Fire-Problem/RFTotalCost.pdf)" src="/images/fire-insurance-spending.png"/>
+<figure>
+<img 
+    alt="Fire Insurance Spending" 
+    src="/images/fire-insurance-spending.png" 
+    style="width: 75%; height: 75%"
+    <figcaption>[The Amount Spent on Fire Insurance Between 1980 and 2014 in Billions](https://www.nfpa.org//-/media/Files/News-and-Research/Fire-statistics-and-reports/US-Fire-Problem/RFTotalCost.pdf)</figcaption>
+/>
+</figure>
 
 **14.**	Approximately 10% of small businesses between 2010 and 2014 filed an insurance claim [due to a fire](https://newsroom.thehartford.com/newsroom-home/news-releases/news-releases-details/2015/The-Hartford-Reports-More-Than-40-Percent-Of-Small-Businesses-Will-Experience-A-Claim-In-The-Next-10-Years/default.aspx) with the average cost coming out to around $35,000.
 
@@ -263,24 +273,25 @@ Based on these recent developments, the types of insurance policies small busine
 
 **2.**	Without the right coverage, the 8 million small businesses in the U.S. could be completely decimated by the slightest legal claim or natural disaster. [The price of commercial insurance premiums](https://www.iii.org/fact-statistic/facts-statistics-commercial-lines) has been steadily increasing over the past few years and it’s not looking on slowing down any time soon.
 
+<center>
 |	Year	|	Cost of Commercial Insurance Premiums    |	Percent Increase    |
-|:—————----—|:————-------------------————————————————--——|:———---------—————————|
 |2017		| 	$253,200,000,000		        		 |		            	|
 |2018		|	$287,100,000,000		        		 |  13.4% Increase	    |
 |2019		| 	$299,300,000,000		           		 |  4.25%increase	    |
 |2020		| 	$314,700,000,000		        		 |  5.15% increase	    |
 |2021		| 	$359,600,000,000		        		 |  14.3% increase	    |
+</center>
 
 **3.**	Let’s not forget, if an accident happens to an employee while on the clock, on company property, or while using company equipment, the business is held responsible for paying reparations. Historically, the [annual amount of claimed losses](https://www.iii.org/fact-statistic/facts-statistics-commercial-lines) has been on the rise. 
 
+<center>
 |	Year 	|	Cost of Incurred Commercial Losses		|	Percent Increase    |
-|:————----——|:———————————————-------------------———————-|:——————---------——--———|
 |2017		|	    $136,939,624,000		        	|			        	|
 |2018		|	    $148,768,919,000 		        	|	7.85% increase  	|
 |2019		|   	$155,085,961,000 		        	|	4.25% increase	    |
 |2020		|   	$172,088,377,000		        	|	10.96% increase	    |
 |2021		|	    $184,908,130,000		        	|	7.45% increase	    |
-
+</center>
 **4.**	[Commercial Auto Insurance](https://content.naic.org/sites/default/files/inline-files/2021%20Annual%20Property%20%26%20Casualty%20and%20Title%20Industry%20Report.pdf) is currently experiencing one of the greatest consecutive price increases month over month for premiums. In fact, it’s been increasing for the past 9 and a half years (38 annual quarters). In 2021 the price increase topped out at 8%. This is lower than the 8.1% average of price increases for all insurance policies in 2021.
 
 **5.**	In quarter 2 of 2022 the change in price of Commercial Insurance in the US [increased by 10%.](https://www.statista.com/statistics/1053503/change-commercial-insurance-prices-usa/) This marks 3 and a half consecutive years where the price of Commercial Insurance has increased.
