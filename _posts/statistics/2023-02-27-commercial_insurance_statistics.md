@@ -277,7 +277,7 @@ Based on these recent developments, the types of insurance policies small busine
 
 **2.**	Without the right coverage, the 8 million small businesses in the U.S. could be completely decimated by the slightest legal claim or natural disaster. [The price of commercial insurance premiums](https://www.iii.org/fact-statistic/facts-statistics-commercial-lines) has been steadily increasing over the past few years and it’s not looking on slowing down any time soon.
 
-<center>
+
 |Year	|Cost of Commercial Insurance Premiums    |Percent Increase    |
 |:----------|:-------------------------------------------|:---------------------|
 |2017		| 	$253,200,000,000		        		 |		            	|
@@ -285,11 +285,11 @@ Based on these recent developments, the types of insurance policies small busine
 |2019		| 	$299,300,000,000		           		 |  4.25%increase	    |
 |2020		| 	$314,700,000,000		        		 |  5.15% increase	    |
 |2021		| 	$359,600,000,000		        		 |  14.3% increase	    |
-</center>
+
 
 **3.**	Let’s not forget, if an accident happens to an employee while on the clock, on company property, or while using company equipment, the business is held responsible for paying reparations. Historically, the [annual amount of claimed losses](https://www.iii.org/fact-statistic/facts-statistics-commercial-lines) has been on the rise. 
 
-<center>
+
 |Year 	|Cost of Incurred Commercial Losses		|Percent Increase    |
 |:----------|:------------------------------------------|:----------------------|
 |2017		|	    $136,939,624,000		        	|			        	|
@@ -297,7 +297,7 @@ Based on these recent developments, the types of insurance policies small busine
 |2019		|   	$155,085,961,000 		        	|	4.25% increase	    |
 |2020		|   	$172,088,377,000		        	|	10.96% increase	    |
 |2021		|	    $184,908,130,000		        	|	7.45% increase	    |
-</center>
+
 **4.**	[Commercial Auto Insurance](https://content.naic.org/sites/default/files/inline-files/2021%20Annual%20Property%20%26%20Casualty%20and%20Title%20Industry%20Report.pdf) is currently experiencing one of the greatest consecutive price increases month over month for premiums. In fact, it’s been increasing for the past 9 and a half years (38 annual quarters). In 2021 the price increase topped out at 8%. This is lower than the 8.1% average of price increases for all insurance policies in 2021.
 
 **5.**	In quarter 2 of 2022 the change in price of Commercial Insurance in the US [increased by 10%.](https://www.statista.com/statistics/1053503/change-commercial-insurance-prices-usa/) This marks 3 and a half consecutive years where the price of Commercial Insurance has increased.
