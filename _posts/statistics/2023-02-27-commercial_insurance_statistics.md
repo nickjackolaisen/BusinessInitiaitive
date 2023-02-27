@@ -133,7 +133,7 @@ The OCED is the [Organization for Economic Co-Operation and Development](https:/
 **3.**	Younger business owners (aged 18 to 44) are significantly more likely to carry some form of commercial insurance as opposed to business owners 45 years old and older. Based on [the data presented below](https://advisorsmith.com/data/small-business-claims-statistics/), young owners are TWICE as likely to carry business insurance.
  
 |Age of Business Owners |Percentage Carrying Business Insurance |
-|:-----------------------|:-------------------------------------|
+|:-----------------------:|:-------------------------------------:|
 |	18-25           	|	66.7%		|
 |	25-34		    	|	71.4		|
 |	35-44		    	|	76.8%		|
@@ -176,7 +176,7 @@ SOURCE: https://newsroom.thehartford.com/newsroom-home/news-releases/news-releas
 **4.**	Here is a breakdown of the “[10 Most Likely Property and Liability Insurance Claims Small Businesses Made from 2010 to 2014](https://newsroom.thehartford.com/newsroom-home/news-releases/news-releases-details/2015/The-Hartford-Reports-More-Than-40-Percent-Of-Small-Businesses-Will-Experience-A-Claim-In-The-Next-10-Years/default.aspx)”
 
 |Most Common 	       |Percentage of Total Claim       |
-|:-------------------------|:---------------------------------------|
+|:-------------------------:|:---------------------------------------:|
 |	Burglary and Theft					                	|	20%	|
 |	Water and Freezing Damage					            |	15%	|
 |	Wind and Hail Damage, most notably to the roof or signs	|	15%	|		
@@ -193,7 +193,7 @@ SOURCE: https://newsroom.thehartford.com/newsroom-home/news-releases/news-releas
 **6.**	For your convenience, here’s a deeper look at the average cost of the “[10 Most Expensive Property and Liability Insurance Claims for Small Businesses (2010 - 2014)](https://newsroom.thehartford.com/newsroom-home/news-releases/news-releases-details/2015/The-Hartford-Reports-More-Than-40-Percent-Of-Small-Businesses-Will-Experience-A-Claim-In-The-Next-10-Years/default.aspx)”
 
 |Most Expensive |Average Cost of Claim (Costs increase if lawsuits are involved)	|
-|:-----------------|:-------------------------------------------------------------------|
+|:-----------------:|:-------------------------------------------------------------------:|
 |	Reputational Harm	                	|	$50,000	|
 |	Vehicle Accident	                	|	$45,000	|
 |	Fire 			                    	|	$35,000	|
@@ -208,7 +208,7 @@ SOURCE: https://newsroom.thehartford.com/newsroom-home/news-releases/news-releas
 **7.**	For a more recent breakdown of the most common situations 1000 small business faced in 2020. A few of the businesses who participated in [the survey](https://advisorsmith.com/data/small-business-claims-statistics/) actually reported multiple insurable events. Check out the results:
 
 |Event 	|Percentage of reports 	|Corresponding Insurance	|
-|:----------|:--------------------------|:---------------------|
+|:----------:|:--------------------------:|:---------------------:|
 |	**Crimes (Burglary, theft, fraud)**			| 32.0%|    Commercial Crime Insurance protects businesses from financial losses due to crimes like burglary, theft, fraud.	|
 |	**Employee Injuries**						| 31.3%|    Workers’ Compensation Insurance helps businesses cover the bill for employees injured on the job. This insurance also helps a business provide paid leave to employees who get sick and can’t come in to work.	|
 |	**Customer and Client Disagreements**	| 28.6%|    Professional Liability Insurance helps a business mitigate court and lawyer fees as well as the compensation owed for damages caused by the dispute.	|
@@ -237,7 +237,7 @@ The following statistics are grouped according to their position in the above ch
 <center>
 <img alt="Fire Insurance Spending"  src="/images/fire-insurance-spending.png" 
     style="width: 75%; height: 75%" />
-    <figcaption>The Amount Spent on Fire Insurance Between 1980 and 2014 in Billions
+    <figcaption>Amount Spent on Fire Insurance Between 1980 and 2014 in Billions
     </figcaption>
 </center>
 </figure>
@@ -272,7 +272,7 @@ Based on these recent developments, the types of insurance policies small busine
 
 
 |Year	|Cost of Commercial Insurance Premiums    |Percent Increase    |
-|:----------|:-------------------------------------------|:---------------------|
+|:----------:|:-------------------------------------------:|:---------------------:|
 |2017		| 	$253,200,000,000		        		 |		            	|
 |2018		|	$287,100,000,000		        		 |  13.4% Increase	    |
 |2019		| 	$299,300,000,000		           		 |  4.25%increase	    |
@@ -284,7 +284,7 @@ Based on these recent developments, the types of insurance policies small busine
 
 
 |Year 	|Cost of Incurred Commercial Losses		|Percent Increase    |
-|:----------|:------------------------------------------|:----------------------|
+|:----------:|:------------------------------------------:|:----------------------:|
 |2017		|	    $136,939,624,000		        	|			        	|
 |2018		|	    $148,768,919,000 		        	|	7.85% increase  	|
 |2019		|   	$155,085,961,000 		        	|	4.25% increase	    |
