@@ -246,7 +246,7 @@ The following statistics are grouped according to their position in the above ch
     src="/images/fire-insurance-spending.png" 
     style="width: 75%; height: 75%"
     <figcaption>[The Amount Spent on Fire Insurance Between 1980 and 2014 in Billions](https://www.nfpa.org//-/media/Files/News-and-Research/Fire-statistics-and-reports/US-Fire-Problem/RFTotalCost.pdf)</figcaption>
-/>
+>
 </figure>
 
 **14.**	Approximately 10% of small businesses between 2010 and 2014 filed an insurance claim [due to a fire](https://newsroom.thehartford.com/newsroom-home/news-releases/news-releases-details/2015/The-Hartford-Reports-More-Than-40-Percent-Of-Small-Businesses-Will-Experience-A-Claim-In-The-Next-10-Years/default.aspx) with the average cost coming out to around $35,000.
