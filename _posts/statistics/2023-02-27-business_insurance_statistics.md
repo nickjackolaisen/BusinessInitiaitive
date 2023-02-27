@@ -343,39 +343,53 @@ Here are a few tips and tricks you can use today to lower your risk of ever havi
 ### Burglary and Theft
 
 **1.**	Install fencing around the building and parking areas to limit entry/exit to one or two gates. 
+
 **2.**	Security camera systems and access keys using company ID cards.
+
 **3.**	Installing sufficient lighting both inside and surrounding the building. 
+
 **4.**	Employee background checks
+
 **5.**	Practice operational security and use password access for company files whenever possible.
 
 ### Reputational Harm
 
 **6.**	Do not criticize your competitors in front of customers or on social media. In fact, you really shouldn’t be criticizing them period. 
+
 **7.**	Get permission before using other peoples’ photos, graphics, or other forms of information so as not to break Copyright and Trademark laws.
 
 ### Water and Freezing Damage
 
 **8.**	It’s a good idea to not let your buildings’ internal temperature drop below a certain point, even if nobody will be in the building for an extended period of time. 
+
 **9.**	Regularly clear snow and ice off roofs to avoid excess buildup. and subsequent collapses or cave-ins. 
+
 **10.**	Always inform managers and other high-level employees where the building’s water shut-off valves are located.
 
 ### Fire
 
 **11.**	Create, practice, and follow and emergency preparedness plan.
+
 **12.**	Make sure all emergency exits are clearly marked. 
+
 **13.**	Employees should always know where the closet exit is and also where the next closet one is, just in case the first exit is blocked.
+
 **14.**	Follow your local and the national fire codes and regulations. Make sure to test your emergency equipment on a regular basis. This includes things like sprinkler systems, fire extinguishers, fire hoses, ladders, etc. 
 
 ### Wind and Hail Damage
 
 **15.**	Regularly trim trees on company property to avoid overgrowth.
+
 **16.**	Make it a routine to walk around the building and remove any debris which could cause damage or harm in the event of a serious storm or high winds. 
+
 **17.**	If you store some equipment outside, make sure it is safely secured in place and won’t be carried away by strong winds.
 
 ### Vehicle Accidents
 
 **18.**	Check employee driving records before giving them the keys to company vehicles and equipment. This also applies to letting them drive personal vehicles for business purposes. 
+
 **19.**	Reckless driving or equipment operation by untrained personnel endangers your business, the driver, pedestrians, and anyone else in the vicinity.
+
 **20.**	Do not incentivize speedy deliveries. They don’t save as much time as you think they do.
 
 ##  8 Popular Frequently Asked Questions:	
@@ -434,7 +448,7 @@ Operating a business is dynamic in nature so we highly encourage you to reassess
 	
 Regularly reviewing your policies is important for keeping your insurance in check. It’s the only way you’ll know if you are underinsured for your current state of affairs or if you can reduce your coverage in certain areas so you aren’t paying for unnecessary insurance claims.
 
-##  Don't Be Like Other Companies. 
+##  Don't Be Like The Other Companies. 
 
 Unless the industry or state you work in makes commercial insurance mandatory, most business owners will put off buying insurance for their company, sometimes until its too late. 
 
