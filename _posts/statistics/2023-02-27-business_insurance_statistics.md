@@ -16,6 +16,7 @@ Sorry to break it to you…
 If you’re like them, you are asking for trouble. 
 
 Small businesses are more affected by financial crises than larger companies. They are also more vulnerable to strong shifts in market trends. 
+
 Even if you think you have the “best small business in the world” and nothing could happen to it, you’ll still take a huge hit if only a small percentage of your customer base stops buying your products or using your services.
 
 Fortunately, there are many types commercial insurance policies for every business and situation you can imagine. As your business develops, you will have to figure out which commercial insurance coverage is right for situation at that time. More business comes with a higher risk of accidents, lawsuits, and other events which can cost your company more time and more money, potentially leading to utter ruin.
