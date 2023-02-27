@@ -132,7 +132,6 @@ The OCED is the [Organization for Economic Co-Operation and Development](https:/
 
 **3.**	Younger business owners (aged 18 to 44) are significantly more likely to carry some form of commercial insurance as opposed to business owners 45 years old and older. Based on [the data presented below](https://advisorsmith.com/data/small-business-claims-statistics/), young owners are TWICE as likely to carry business insurance.
  
-<center>
 |Age of Business Owners |Percentage Carrying Business Insurance |
 |:-----------------------|:-------------------------------------|
 |	18-25           	|	66.7%		|
@@ -140,7 +139,6 @@ The OCED is the [Organization for Economic Co-Operation and Development](https:/
 |	35-44		    	|	76.8%		|
 |	45-54			    |	38.9%		|
 |	55 and Up	    	|	33.3%		|
-</center>
 
 Dr. Robert Hartwig, co-director of the Risk and Uncertainty Management Center at University of South Carolina’s Darla School of Business, gives two possible reasons why the younger generation is 2x as likely to have business insurance than their elders:
 
@@ -177,7 +175,6 @@ SOURCE: https://newsroom.thehartford.com/newsroom-home/news-releases/news-releas
 
 **4.**	Here is a breakdown of the “[10 Most Likely Property and Liability Insurance Claims Small Businesses Made from 2010 to 2014](https://newsroom.thehartford.com/newsroom-home/news-releases/news-releases-details/2015/The-Hartford-Reports-More-Than-40-Percent-Of-Small-Businesses-Will-Experience-A-Claim-In-The-Next-10-Years/default.aspx)”
 
-<center>
 |Most Common 	       |Percentage of Total Claim       |
 |:-------------------------|:---------------------------------------|
 |	Burglary and Theft					                	|	20%	|
@@ -190,13 +187,11 @@ SOURCE: https://newsroom.thehartford.com/newsroom-home/news-releases/news-releas
 |	Struck By Object                						|	<5%	|		
 |	Reputational Harm				                		|	<5%	|
 |	Vehicle Accident					                	|	<5% |	
-</center>
 
 **5.**	Based on The Hartford’s data from 2010 to 2014, which includes over [1 million business insurance policies](https://newsroom.thehartford.com/newsroom-home/news-releases/news-releases-details/2015/The-Hartford-Reports-More-Than-40-Percent-Of-Small-Businesses-Will-Experience-A-Claim-In-The-Next-10-Years/default.aspx), 1/5 businesses faced incidents of burglary and theft. In reality, burglary and theft claims averaged $8,000 in damages. This may seem like a lot at first glance, but when you compare it to the average reputational harm claim of $50,000 it seems pretty reasonable. When reputational harm claim is filed through a General Liability policy, the average cost climbs to over $75,000. 
 
 **6.**	For your convenience, here’s a deeper look at the average cost of the “[10 Most Expensive Property and Liability Insurance Claims for Small Businesses (2010 - 2014)](https://newsroom.thehartford.com/newsroom-home/news-releases/news-releases-details/2015/The-Hartford-Reports-More-Than-40-Percent-Of-Small-Businesses-Will-Experience-A-Claim-In-The-Next-10-Years/default.aspx)”
 
-<center>
 |Most Expensive |Average Cost of Claim (Costs increase if lawsuits are involved)	|
 |:-----------------|:-------------------------------------------------------------------|
 |	Reputational Harm	                	|	$50,000	|
@@ -209,10 +204,9 @@ SOURCE: https://newsroom.thehartford.com/newsroom-home/news-releases/news-releas
 |	Water and Freezing Damage	            |	$17,000	|
 |	Struck By Object		                |	$10,000	|
 |	Burglary and Theft		                |	$8,000	|
-</center>
 
 **7.**	For a more recent breakdown of the most common situations 1000 small business faced in 2020. A few of the businesses who participated in [the survey](https://advisorsmith.com/data/small-business-claims-statistics/) actually reported multiple insurable events. Check out the results:
-<center>
+
 |Event 	|Percentage of reports 	|Corresponding Insurance	|
 |:----------|:--------------------------|:---------------------|
 |	**Crimes (Burglary, theft, fraud)**			| 32.0%|    Commercial Crime Insurance protects businesses from financial losses due to crimes like burglary, theft, fraud.	|
@@ -224,7 +218,6 @@ SOURCE: https://newsroom.thehartford.com/newsroom-home/news-releases/news-releas
 |	**Accidents Involving a Company Vehicle**	| 25.9%|    Commercial Auto Insurance covers property damage and liability claims concerning company vehicles. 	|
 |	**Injuries or Damages Caused by Product Quality or Function**	| 24.5%|    Product Liability Insurance provides coverage in the event damage is caused by a business’s product. This insurance is effective in cases of bodily damage or injury as well as damage to physical property or assets. 	|
 |	**Customer Injury and Property Damage**		| 23.1%|    General Liability Insurance protects a business in the event customers or another third-party files a lawsuit claiming bodily damage and injury or damage to physical property.		|
-</center>
 
 The following statistics are grouped according to their position in the above chart. 
 
