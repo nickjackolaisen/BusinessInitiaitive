@@ -175,8 +175,6 @@ SOURCE: https://newsroom.thehartford.com/newsroom-home/news-releases/news-releas
 
 **4.**	Here is a breakdown of the “[10 Most Likely Property and Liability Insurance Claims Small Businesses Made from 2010 to 2014](https://newsroom.thehartford.com/newsroom-home/news-releases/news-releases-details/2015/The-Hartford-Reports-More-Than-40-Percent-Of-Small-Businesses-Will-Experience-A-Claim-In-The-Next-10-Years/default.aspx)”
 
-<div align="center">
-
 |Most Common 	       |Percentage of Total Claim       |
 |:-------------------------:|:---------------------------------------:|
 |	Burglary and Theft					                	|	20%	|
@@ -190,13 +188,9 @@ SOURCE: https://newsroom.thehartford.com/newsroom-home/news-releases/news-releas
 |	Reputational Harm				                		|	<5%	|
 |	Vehicle Accident					                	|	<5% |	
 
-</div>
-
 **5.**	Based on The Hartford’s data from 2010 to 2014, which includes over [1 million business insurance policies](https://newsroom.thehartford.com/newsroom-home/news-releases/news-releases-details/2015/The-Hartford-Reports-More-Than-40-Percent-Of-Small-Businesses-Will-Experience-A-Claim-In-The-Next-10-Years/default.aspx), 1/5 businesses faced incidents of burglary and theft. In reality, burglary and theft claims averaged $8,000 in damages. This may seem like a lot at first glance, but when you compare it to the average reputational harm claim of $50,000 it seems pretty reasonable. When reputational harm claim is filed through a General Liability policy, the average cost climbs to over $75,000. 
 
 **6.**	For your convenience, here’s a deeper look at the average cost of the “[10 Most Expensive Property and Liability Insurance Claims for Small Businesses (2010 - 2014)](https://newsroom.thehartford.com/newsroom-home/news-releases/news-releases-details/2015/The-Hartford-Reports-More-Than-40-Percent-Of-Small-Businesses-Will-Experience-A-Claim-In-The-Next-10-Years/default.aspx)”
-
-<div align="center">
 
 |Most Expensive |Average Cost of Claim (Costs increase if lawsuits are involved)	|
 |:-----------------:|:-------------------------------------------------------------------:|
@@ -211,11 +205,7 @@ SOURCE: https://newsroom.thehartford.com/newsroom-home/news-releases/news-releas
 |	Struck By Object		                |	$10,000	|
 |	Burglary and Theft		                |	$8,000	|
 
-</div>
-
 **7.**	For a more recent breakdown of the most common situations 1000 small business faced in 2020. A few of the businesses who participated in [the survey](https://advisorsmith.com/data/small-business-claims-statistics/) actually reported multiple insurable events. Check out the results:
-
-<div align="center">
 
 |Event 	|Percentage of reports 	|Corresponding Insurance	|
 |:----------:|:--------------------------:|:---------------------:|
@@ -228,8 +218,6 @@ SOURCE: https://newsroom.thehartford.com/newsroom-home/news-releases/news-releas
 |	**Accidents Involving a Company Vehicle**	| 25.9%|    Commercial Auto Insurance covers property damage and liability claims concerning company vehicles. 	|
 |	**Injuries or Damages Caused by Product Quality or Function**	| 24.5%|    Product Liability Insurance provides coverage in the event damage is caused by a business’s product. This insurance is effective in cases of bodily damage or injury as well as damage to physical property or assets. 	|
 |	**Customer Injury and Property Damage**		| 23.1%|    General Liability Insurance protects a business in the event customers or another third-party files a lawsuit claiming bodily damage and injury or damage to physical property.		|
-
-</div>
 
 The following statistics are grouped according to their position in the above chart. 
 
@@ -282,8 +270,6 @@ Based on these recent developments, the types of insurance policies small busine
 
 **2.**	Without the right coverage, the 8 million small businesses in the U.S. could be completely decimated by the slightest legal claim or natural disaster. [The price of commercial insurance premiums](https://www.iii.org/fact-statistic/facts-statistics-commercial-lines) has been steadily increasing over the past few years and it’s not looking on slowing down any time soon.
 
-<div align="center">
-
 |Year	|Cost of Commercial Insurance Premiums    |Percent Increase    |
 |:----------:|:-------------------------------------------:|:---------------------:|
 |2017		| 	$253,200,000,000		        		 |		            	|
@@ -292,11 +278,8 @@ Based on these recent developments, the types of insurance policies small busine
 |2020		| 	$314,700,000,000		        		 |  5.15% increase	    |
 |2021		| 	$359,600,000,000		        		 |  14.3% increase	    |
 
-</div>
 
 **3.**	Let’s not forget, if an accident happens to an employee while on the clock, on company property, or while using company equipment, the business is held responsible for paying reparations. Historically, the [annual amount of claimed losses](https://www.iii.org/fact-statistic/facts-statistics-commercial-lines) has been on the rise. 
-
-<div align="center">
 
 |Year 	|Cost of Incurred Commercial Losses		|Percent Increase    |
 |:----------:|:------------------------------------------:|:----------------------:|
@@ -305,8 +288,6 @@ Based on these recent developments, the types of insurance policies small busine
 |2019		|   	$155,085,961,000 		        	|	4.25% increase	    |
 |2020		|   	$172,088,377,000		        	|	10.96% increase	    |
 |2021		|	    $184,908,130,000		        	|	7.45% increase	    |
-
-</div>
 
 **4.**	[Commercial Auto Insurance](https://content.naic.org/sites/default/files/inline-files/2021%20Annual%20Property%20%26%20Casualty%20and%20Title%20Industry%20Report.pdf) is currently experiencing one of the greatest consecutive price increases month over month for premiums. In fact, it’s been increasing for the past 9 and a half years (38 annual quarters). In 2021 the price increase topped out at 8%. This is lower than the 8.1% average of price increases for all insurance policies in 2021.
 
