@@ -1,7 +1,7 @@
 ---
 title: "Sole Proprietorship Facts & Statistics (2022 Data)"
 layout: post
-date: 2023-02-22
+date: 2023-02-25
 summary: Find answers to the most popular FAQs about Sole Proprietorship business entities. 
 permalink: /stats/sole-proprietorship-statistics/
 ---
