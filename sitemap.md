@@ -6,61 +6,54 @@ tags: sitemap, site map, business initiative site map, navigation, contact, abou
 ---
 
 ## Business Initiative
-**About** https://www.businessinitiative.org/about/
+<a href="https://www.businessinitiative.org/about/">About</a>
 
-**Contact** https://www.businessinitiative.org/contact/
+<a href="https://www.businessinitiative.org/contact/">Contact Us</a>
 
-**Consulting** https://www.businessinitiative.org/consulting/
+<a href="https://www.businessinitiative.org/consulting/">Consulting</a>
 
-## Statistics pages
-https://www.businessinitiative.org/stats/
+## Statistics
+<a href="https://www.businessinitiative.org/stats/"></a>
 
-**Commercial Insurance Facts** https://www.businessinitiative.org/stats/commercial-insurance-statistics/
+<a href="https://www.businessinitiative.org/commercial-insurance-statistics/">Commertical Insurance Facts</a>
 
-**Sole Proprietorship Facts** https://www.businessinitiative.org/stats/sole-proprietorship-statistics/
+<a href="https://www.businessinitiative.org/sole-propeitroship-statistics/">Sole Proprietorship Facts</a>
 
-**US Business Statistics (1980-2015)** https://www.businessinitiative.org/stats/business-statistics-in-us/
+<a href="https://www.businessinitiative.org/stats/business-statistics-in-us/">US Business Statistics (1980-2015)</a>
 
 ## Sole Proprietorships
-**Examples** https://www.businessinitiative.org/sole-proprietorship/examples/
+<a href="https://www.businessinitiative.org/sole-proprietorship/examples/">Examples</a>
 
-**Advantages** https://www.businessinitiative.org/sole-proprietorship/advantages/
+<a href="https://www.businessinitiative.org/sole-proprietorship/advantages/">Advantages</a>
 
-**Disadvantages** https://www.businessinitiative.org/sole-proprietorship/disadvantages/
+<a href="https://www.businessinitiative.org/sole-proprietorship/disadvantages/">Disadvantages</a>
 
 ## Partnerships
-**Advantages** https://www.businessinitiative.org/partnership/advantages/
+<a href="https://www.businessinitiative.org/partnership/advantages/">Advantages</a>
 
-**Disadvantages** https://www.businessinitiative.org/partnership/disadvantages/
+<a href="https://www.businessinitiative.org/partnership/disadvantages/">Disadvantages</a>
 
 ## LLCs
-**What is an LLC** https://www.businessinitiative.org/what-does-llc-mean/
+<a href="https://www.businessinitiative.org/what-does-llc-mean/">What is an LLC</a>
 
-**Payment from LLC** https://www.businessinitiative.org/paying-yourself-llc/
+<a href="https://www.businessinitiative.org/paying-yourself-llc/">Payment from LLC</a>
 
-**LLC Tax Policies - Corporate Tax** https://www.businessinitiative.org/corporate-tax-on-llcs/
+<a href="https://www.businessinitiative.org/corporate-tax-on-llcs/">LLC Tax Policies - Corporate Tax</a>
 
-**What is a Multi-Member LLC** https://www.businessinitiative.org/multi-member-llc/
+<a href="https://www.businessinitiative.org/multi-member-llc/">What is a Multi-Member LLC</a>
 
-**Starting a Multi-Member LLC** https://www.businessinitiative.org/multi-member-llc/registration/
+<a href="https://www.businessinitiative.org/multi-member-llc/registration/">Starting a Multi-Member LLC</a>
 
 ## Corporations
 
 ## Comparisons
-**Sole Proprietorship vs llc** https://www.businessinitiative.org/sole-proprietorship-vs-llc/
+<a href="https://www.businessinitiative.org/sole-proprietorship-vs-llc/">Sole Proprietorship vs LLC</a>
 
-**SP vs LLC: Pros and Cons** https://www.businessinitiative.org/sole-proprietorship-vs-llc/pros-and-cons/
+<a href="https://www.businessinitiative.org/sole-proprietorship-vs-llc/pros-and-cons/">Sole Proprietorship vs LLC: The Pros and Cons</a>
 
-**S Corp vs C Corp** https://www.businessinitiative.org/s-corp-vs-c-corp/
+<a href="https://www.businessinitiative.org/s-corp-vs-c-corp/">S Corp vs C Corp</a>
 
-**DBA vs LLC** https://www.businessinitiative.org/dba-vs-llc/
-
-
+<a href="https://www.businessinitiative.org/dba-vs-llc/">DBA vs LLC</a>
 
 
-
-
-
-
-
-
+<script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
