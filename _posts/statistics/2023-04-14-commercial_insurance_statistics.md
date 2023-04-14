@@ -1,7 +1,7 @@
 ---
 title: "91+ Commercial Insurance Facts & Statistics (2023 Update)"
 layout: post
-date: 2023-02-27
+date: 2023-04-14
 summary: Your go to source for Commercial Insurance facts and data. Includes sections on types of insurance, demographics, common claims and how to prevent them, industry trends, and FAQs.
 permalink: /stats/commercial-insurance-statistics/
 ---
@@ -30,47 +30,47 @@ This general outline of the different commercial policies allows you to easily c
 If you run a business, odds are you will use at least one of the policies mentioned in this list. 
 
 ####    1.  General Liability Insurance
-Business liability insurance provides broad coverage. Protects from claims made against damages caused during business operations. Protects against properties rented by your firm, medical claims, legal injuries. Mandatory. Without general liability insurance it is going to be harder to get clients and grow your business. Protects from claims brought against damages caused to others. Business liability insurance does not cover damages made within your company. 
+<p>Business liability insurance provides broad coverage. Protects from claims made against damages caused during business operations. Protects against properties rented by your firm, medical claims, legal injuries. Mandatory. Without general liability insurance it is going to be harder to get clients and grow your business. Protects from claims brought against damages caused to others. Business liability insurance does not cover damages made within your company.</p>
 
 ####    2.  Commercial Property Insurance 
-*Real Estate Protection*
-If you own or lease real estate or equipment, Commercial Property Insurance protects your investments from catastrophic events like fires and storms. You should consider this insurance if you run a business from home. Don’t rely on home insurance alone. Business property is not covered by home insurance. Consider getting separate property insurance for especially valuable property. If renting, you will need renters insurance to protect from damage caused by tenants.
+<p>*Real Estate Protection*</p>
+<p>If you own or lease real estate or equipment, Commercial Property Insurance protects your investments from catastrophic events like fires and storms. You should consider this insurance if you run a business from home. Don’t rely on home insurance alone. Business property is not covered by home insurance. Consider getting separate property insurance for especially valuable property. If renting, you will need renters insurance to protect from damage caused by tenants.</p>
 
 ####    3.  Commercial Auto Insurance 
-*Company Vehicle Protection*
-The protection of commercial auto insurance is limited to company vehicles used on a daily basis.
+<p>*Company Vehicle Protection*</p>
+<p>The protection of commercial auto insurance is limited to company vehicles used on a daily basis.</p>
 
 ####    4.  Workers Compensation Insurance 
-*Employee Protection*
-Consider getting Workers Compensation Insurance if you have employees and you want protection from claims made against damages caused to employees. Many states make workers comp insurance an essential requirement to having employees in the first place.
+<p>*Employee Protection*</p>
+<p>Consider getting Workers Compensation Insurance if you have employees and you want protection from claims made against damages caused to employees. Many states make workers comp insurance an essential requirement to having employees in the first place.</p>
 
 ####    5.  Professional Liability Insurance 
-*Protects The Services You Provide*
-If you provide specialized services, adding professional liability insurance protects you from claims made against damages caused to clients. You risk losing your business without this policy.   
+<p>*Protects The Services You Provide*</p>
+<p>If you provide specialized services, adding professional liability insurance protects you from claims made against damages caused to clients. You risk losing your business without this policy.</p>   
 
 ####    6.  Product Liability Insurance 
-*Protects The Products You Provide*
-If you provide a product, you need to get product liability insurance if you want protection made by claims made against damages caused by the quality or function of what you sell.
+<p>*Protects The Products You Provide*</p>
+<p>If you provide a product, you need to get product liability insurance if you want protection made by claims made against damages caused by the quality or function of what you sell.</p>
 
 ####    7.  Business Owner’s Policy 
-*Package Deal*
-This insurance is a package customized for your business. Most insurance providers offer Business Owner Policy bundles or BOP’s. These allow you to save money by combining the types of insurance you need.
+<p>*Package Deal*</p>
+<p>This insurance is a package customized for your business. Most insurance providers offer Business Owner Policy bundles or BOP’s. These allow you to save money by combining the types of insurance you need.</p>
 
 ####    8.  Commercial Umbrella Insurance 
-*Extra Protection*
-Commercial Umbrella Insurance gives you extra coverage over incidents not fully insured by the other insurance policies you own.
+<p>*Extra Protection*</p>
+<p>Commercial Umbrella Insurance gives you extra coverage over incidents not fully insured by the other insurance policies you own.</p>
 
 ####    9.  Cyber Liability insurance 
-*Online Businesses and Virtual Property Protection*
-Doing business virtually using the internet comes with a risk of hacks and data breaches. Protect yourself from claims made against damages caused by data leaks. 
+<p>*Online Businesses and Virtual Property Protection*</p>
+<p>Doing business virtually using the internet comes with a risk of hacks and data breaches. Protect yourself from claims made against damages caused by data leaks. </p>
 
 ####    10. Business Crime Insurance 
-*Protection from Criminal Mischief*
-Property insurance does not cover damages caused by criminal activity like loses due to fraud and theft. Crime Insurance allows you to get protection for specific crimes which may apply to you.
+<p>*Protection from Criminal Mischief*</p>
+<p>Property insurance does not cover damages caused by criminal activity like loses due to fraud and theft. Crime Insurance allows you to get protection for specific crimes which may apply to you.</p>
 
 ####    11. Equipment Breakdown Insurance 
-*Equipment and Machinery Protection*
-It’s important to protect equipment essential to the operation of your business. Equipment Breakdown Insurance can be purchased on its own or used in a bundle to supplement a policy you already have for your company. This insurance covers claims made against damages caused by equipment failure.
+<p>*Equipment and Machinery Protection*</p>
+<p>It’s important to protect equipment essential to the operation of your business. Equipment Breakdown Insurance can be purchased on its own or used in a bundle to supplement a policy you already have for your company. This insurance covers claims made against damages caused by equipment failure.</p>
 
 ### Supplementary Insurance Policies
 
@@ -85,7 +85,11 @@ Business Income insurance, or business interruption insurance, protects your com
 ####    14.	Business Crime Insurance and Equipment Breakdown Insurance
 Although you have the option of getting business crime insurance or equipment breakdown insurance by themselves, you can also choose to use them as add-ons to supplement an existing policy you own.
 
-The goal is to get maximum coverage and protection at a minimal cost to your company. In life it is impossible to completely avoid risk. Thankfully insurance policies, like the ones listed here, are available to help you further reduce your risk for common situations you may encounter depending on your business model and location.
+The goal is to get maximum coverage and protection at a minimal cost to your company. 
+
+In life it is impossible to completely avoid risk. 
+
+Thankfully insurance policies, like those listed, are available to help you further reduce your risk for common situations you may encounter depending on your business model and location.
 
 ##  11 Facts About the Business Insurance Industry in the United States
 
@@ -99,7 +103,7 @@ Insurance providers protect the economic system from total collapse by taking th
 
 **4.**	Based on [2020 data](https://read.oecd-ilibrary.org/finance-and-investment/oecd-insurance-statistics-2021_b2497b49-en#page11), the US accounts for 56.2% of the market share in the OECD for all insurance spending. 
 
-The OCED is the [Organization for Economic Co-Operation and Development](https://www.oecd.org/). They work to actively improve the world by creating standards and solutions and for social, economic, and environmental challenges. They do this by using data and analysis to help form policies and set international standards. 
+The OCED [(Organization for Economic Co-Operation and Development)](https://www.oecd.org/) is actively improving the world by setting standards and finding solutions to social, economic, and environmental challenges. They use data and analysis to help form policies and set international standards. 
 
 **5.**	[Commercial Insurance premiums](https://www.iii.org/fact-statistic/facts-statistics-commercial-lines) made up 50.2% of all Property and Casualty insurance premiums written in the United States in 2021. The remaining 49.8% consists of personal lines of auto and homeowners insurance.
 
@@ -128,9 +132,9 @@ The OCED is the [Organization for Economic Co-Operation and Development](https:/
 *   4.1% are asian, 
 *   and 16.5% are hispanic or latino. 
 
-**2.**	In 2021, women made up 50% of the 600,000 insurance sales agents in the United States. This is makes the [insurance agent industry](https://www.bls.gov/cps/cpsaat11.htm) one of the most gender neutral occupations. It’s actually higher than the 46.8% of women who make up the U.S. workforce for all occupations. What’s even crazier is, women account for a whopping 84.7% of all insurance claims and policy processing clerks in the United States. 
+**2.**	In 2021, women made up 50% of the 600,000 insurance sales agents in the United States. This is makes the [insurance agent industry](https://www.bls.gov/cps/cpsaat11.htm) one of the most gender neutral occupations. It’s actually higher than the 46.8% of women who make up the U.S. workforce for all occupations.
 
-**3.**	Younger business owners (aged 18 to 44) are significantly more likely to carry some form of commercial insurance as opposed to business owners 45 years old and older. Based on [the data presented below](https://advisorsmith.com/data/small-business-claims-statistics/), young owners are TWICE as likely to carry business insurance.
+**3.**	Younger business owners (aged 18 to 44) are significantly more likely to carry some form of commercial insurance as opposed to business owners 45 years old and older. [The data presented below](https://advisorsmith.com/data/small-business-claims-statistics/) shows young owners are TWICE as likely to carry business insurance.
 
 |Age of Business Owners |Percentage Carrying Business Insurance |
 |:-----------------------:|:-------------------------------------:|
@@ -143,13 +147,14 @@ The OCED is the [Organization for Economic Co-Operation and Development](https:/
 Dr. Robert Hartwig, co-director of the Risk and Uncertainty Management Center at University of South Carolina’s Darla School of Business, gives two possible reasons why the younger generation is 2x as likely to have business insurance than their elders:
 
 “…Young business owners may be borrowing to start up their business. If so, their mortgage lender will require them to carry commercial property insurance and perhaps other types of  insurance as well.”
+
 “Young business owners—who may have invested the majority (or entirety) of their assets into a new business—understand that a failure to protect their investment with insurance could easily lead to financial ruin.”
 
 **4.**	55.8% of small businesses in the AdvisorSmith survey said they filed an insurance claim in 2020. This is especially interesting considering the fact that [76.2% of businesses said they dealt with an insurable situation](https://advisorsmith.com/data/small-business-claims-statistics/) during the same year. 
 
 So what happened to the other 20.4% of business who didn’t file a claim?
 
-Odds are they decided to forgo the paperwork involved in submitting a claim to their insurance provider. By paying claims out of the company’s pocket, some people can end up saving the business money because their premiums won’t increase. It also gets rid of worries about whether or not the insurance police will fully cover the insurable incident. 
+Odds are they decided to forgo the paperwork involved in submitting a claim to their insurance provider. By paying claims out of the company’s pocket, some people can end up saving the business money because their premiums won’t increase. Paying out of pocket also eliminates worries about whether or not an insurance police will fully cover the insurable incident. 
 
 **5.**	Compared to their male counterparts, [female business owners](https://advisorsmith.com/data/small-business-claims-statistics/) were less likely to file an insurance claim even though men and women share similar rates for carrying Commercial insurance (67.8% and 63.2%, respectively). 
 
@@ -164,14 +169,17 @@ Here’s what Dr. Hartwig, had to say about the fact women submit fewer claims t
 
 Commercial insurance policies, otherwise known as business insurance, protect business owners and the economic structure of the United States from the inherent risk of running a business. 
 	
-Over 7 million small businesses rely on commercial insurance to allow them to continue operating and protect them in the unfortunate event a business is involved in a costly accident or is damaged by something out of their control. Many businesses have been financially ruined by such incidents.
+Over 7 million small businesses rely on commercial insurance to allow them to continue operating and protect them in the unfortunate event a business is involved in a costly accident or is damaged by something out of their control. 
+
+Many businesses have been financially ruined by such incidents.
 
 **1.**	For every 10 small businesses, 4 of them are likely to file a Property or General Liability insurance claim within their first 10 years of operating, based on statistics from [The Hartford.](https://newsroom.thehartford.com/newsroom-home/news-releases/news-releases-details/2015/The-Hartford-Reports-More-Than-40-Percent-Of-Small-Businesses-Will-Experience-A-Claim-In-The-Next-10-Years/)
 
-**2.**	3 out of 4 small businesses faced a situation in 2020 where they either could have used or did use a [commercial insurance policy](https://advisorsmith.com/data/small-business-claims-statistics/). Based on AdvisorSmith’s April 2021 study 76.2% of the 1000 small companies surveyed dealt with circumstances where they would have implemented business insurance. On the other hand, 23.8% of businesses surveyed were fortunate enough to not have to deal with an incident where insurance would have been necessary. 
+**2.**	3 out of 4 small businesses faced a situation in 2020 where they either could have used or did use a [commercial insurance policy](https://advisorsmith.com/data/small-business-claims-statistics/). Based on AdvisorSmith’s April 2021 study 76.2% of the 1000 small companies surveyed dealt with circumstances where they would have implemented business insurance. 
 
-**3.**	The most common claim small businesses make is burglary and theft, but that’s not the highest -priced claim businesses are likely to make. The most expensive claims fall into the category of reputational harm. This includes damages coming from offenses like slander, libel, and invasion of privacy. 
-SOURCE: https://newsroom.thehartford.com/newsroom-home/news-releases/news-releases-details/2015/The-Hartford-Reports-More-Than-40-Percent-Of-Small-Businesses-Will-Experience-A-Claim-In-The-Next-10-Years/default.aspx (March 30 2015)
+On the other hand, 23.8% of businesses surveyed were fortunate enough to not have to deal with an incident where insurance would have been necessary. 
+
+**3.**	The [most common claim small businesses make](https://newsroom.thehartford.com/newsroom-home/news-releases/news-releases-details/2015/The-Hartford-Reports-More-Than-40-Percent-Of-Small-Businesses-Will-Experience-A-Claim-In-The-Next-10-Years/default.aspx) is burglary and theft, but that’s not the highest-priced claim businesses are likely to make. The most expensive claims fall into the category of reputational harm. This includes damages coming from offenses like slander, libel, and invasion of privacy. 
 
 **4.**	Here is a breakdown of the “[10 Most Likely Property and Liability Insurance Claims Small Businesses Made from 2010 to 2014](https://newsroom.thehartford.com/newsroom-home/news-releases/news-releases-details/2015/The-Hartford-Reports-More-Than-40-Percent-Of-Small-Businesses-Will-Experience-A-Claim-In-The-Next-10-Years/default.aspx)”
 
@@ -188,7 +196,9 @@ SOURCE: https://newsroom.thehartford.com/newsroom-home/news-releases/news-releas
 |	Reputational Harm				                		|	<5%	|
 |	Vehicle Accident					                	|	<5% |	
 
-**5.**	Based on The Hartford’s data from 2010 to 2014, which includes over [1 million business insurance policies](https://newsroom.thehartford.com/newsroom-home/news-releases/news-releases-details/2015/The-Hartford-Reports-More-Than-40-Percent-Of-Small-Businesses-Will-Experience-A-Claim-In-The-Next-10-Years/default.aspx), 1/5 businesses faced incidents of burglary and theft. In reality, burglary and theft claims averaged $8,000 in damages. This may seem like a lot at first glance, but when you compare it to the average reputational harm claim of $50,000 it seems pretty reasonable. When reputational harm claim is filed through a General Liability policy, the average cost climbs to over $75,000. 
+**5.**	Based on The Hartford’s data from 2010 to 2014, which includes over [1 million business insurance policies](https://newsroom.thehartford.com/newsroom-home/news-releases/news-releases-details/2015/The-Hartford-Reports-More-Than-40-Percent-Of-Small-Businesses-Will-Experience-A-Claim-In-The-Next-10-Years/default.aspx), 1/5 businesses faced incidents of burglary and theft. In reality, burglary and theft claims averaged $8,000 in damages. 
+
+This may seem like a lot at first glance, but when you compare it to the average reputational harm claim of $50,000 it seems pretty reasonable. When reputational harm claim is filed through a General Liability policy, the average cost climbs to over $75,000. 
 
 **6.**	For your convenience, here’s a deeper look at the average cost of the “[10 Most Expensive Property and Liability Insurance Claims for Small Businesses (2010 - 2014)](https://newsroom.thehartford.com/newsroom-home/news-releases/news-releases-details/2015/The-Hartford-Reports-More-Than-40-Percent-Of-Small-Businesses-Will-Experience-A-Claim-In-The-Next-10-Years/default.aspx)”
 
@@ -221,7 +231,7 @@ SOURCE: https://newsroom.thehartford.com/newsroom-home/news-releases/news-releas
 
 The following statistics are grouped according to their position in the above chart. 
 
-**8.**	The [Frankenmuth Insurance Company](https://www.fmins.com/) said their most common business claims have been from cases of [burglary and theft.](https://www.fmins.com/blog/business-insurance-claims-examples/) As a matter of fact 42% of inventory losses accounted for in the US were by company employees. To fully protect your business from the types of losses caused by theft and burglary you would need a commercial property insurance plan and then supplement it with a crime endorsement and employee theft insurance. Some of the other more common business insurance claims where caused by water, wind and hail, fire, and customer slips or falls. 
+**8.**	The [Frankenmuth Insurance Company](https://www.fmins.com/) said their most common business claims have been from cases of [burglary and theft.](https://www.fmins.com/blog/business-insurance-claims-examples/) As a matter of fact 42% of inventory losses accounted for in the US were by company employees. To fully protect your business from the types of losses caused by theft and burglary you would need a commercial property insurance plan and then supplement it with a crime endorsement and employee theft insurance. Other common business insurance claims where caused by water, wind and hail, fire, and customer slips or falls. 
 
 **9.**	The [Coalition Against Insurance Fraud](https://insurancefraud.org/) released a 2022 report on “The Impact of Insurance Fraud on the U.S. Economy”. They stated in [this report](https://insurancefraud.org/wp-content/uploads/The-Impact-of-Insurance-Fraud-on-the-U.S.-Economy-Report-2022-8.26.2022.pdf) that insurance fraud cost the U.S. $308.6 Billion in 2022 alone.  
 
@@ -229,7 +239,15 @@ The following statistics are grouped according to their position in the above ch
 
 **11.**	Based on the [FBI’s](https://www.fbi.gov/) 2021 Internet Crime Report, there were [847,376 cyber crimes reported by the public.](https://www.ic3.gov/Media/PDF/AnnualReport/2021_IC3Report.pdf) That is a 7% increase from 2020. These cyber crimes caused a total of $18.7 Billion in damages and losses. 
 
-**12.**	According to the Hiscox’s [Cyber Readiness Report for 2022](https://www.hiscox.com/documents/Hiscox-Cyber-Readiness-Report-2022.pdf), cyber attacks increased by 80% for American Businesses. Attacks have increased from 2021 by 7%. 34% of US businesses have a cyber specific insurance policy. 64% of businesses have either a standalone [cyber insurance policy](https://www.hiscox.com/cybersecurity) or have added one to an [existing policy.](https://www.hiscox.com/small-business-insurance-lp?medium=tsa&_vsrefdom=2019041702&leadorigin=SEM_Brand_Bing&gclsrc=ds&gclsrc=ds) The median cost of a cyber attack in the US for 2022 was $18,800 with the highest cost of a cyber attack being around $2,000,000. Compare this to worldwide cyber attack statistics where the average cost was just under $17,000, with an increase of 29% in the year before. 1 out of 5 businesses which had a cyber attack said the survival of their business was seriously threatened. 
+**12.**	According to the Hiscox’s [Cyber Readiness Report for 2022](https://www.hiscox.com/documents/Hiscox-Cyber-Readiness-Report-2022.pdf), cyber attacks increased by 80% for American Businesses. 3
+
+4% of US businesses have a cyber specific insurance policy. 
+
+64% of businesses have either a standalone [cyber insurance policy](https://www.hiscox.com/cybersecurity) or have added one to an [existing policy.](https://www.hiscox.com/small-business-insurance-lp?medium=tsa&_vsrefdom=2019041702&leadorigin=SEM_Brand_Bing&gclsrc=ds&gclsrc=ds) 
+
+The median cost of a cyber attack in the US for 2022 was $18,800 with the highest cost of a cyber attack being around $2,000,000. Compare this to worldwide cyber attack statistics where the average cost was just under $17,000, with an increase of 29% in the year before. 
+
+1 out of 5 businesses which experienced a cyber attack said the survival of their business was seriously threatened. 
 
 **13.**	In 2014, $23.6 Billion was spent on all types of [fire insurance in the US.](https://www.nfpa.org//-/media/Files/News-and-Research/Fire-statistics-and-reports/US-Fire-Problem/RFTotalCost.pdf) This is 7.2% of all fire costs for 2014 which is estimated to be around $328.5 Billion.
 
@@ -293,11 +311,15 @@ Based on these recent developments, the types of insurance policies small busine
 
 **5.**	In quarter 2 of 2022 the change in price of Commercial Insurance in the US [increased by 10%.](https://www.statista.com/statistics/1053503/change-commercial-insurance-prices-usa/) This marks 3 and a half consecutive years where the price of Commercial Insurance has increased.
 
-**6.**	The percentage of small businesses using Commercial General Liability insurance (CGL) [dropped from 61% down to 54%](https://www.forrester.com/blogs/how-and-what-insurance-us-small-businesses-buy-is-changing/) between 2014 and 2018. The number of small businesses with Business Owner’s Policies (BOPs) also dropped from 52% to 45% over the same period. This likely due to the fact the price for BOP coverage and CGL plans have increased steadily over the past few years. This has lead to many small businesses to walk away from these options in favor of reducing their insurance spending. Unfortunately, this means more and more small businesses, and their customers, are left completely vulnerable to injury and property damage claims. 
+**6.**	The percentage of small businesses using Commercial General Liability insurance (CGL) [dropped from 61% down to 54%](https://www.forrester.com/blogs/how-and-what-insurance-us-small-businesses-buy-is-changing/) between 2014 and 2018. The number of small businesses with Business Owner’s Policies (BOPs) also dropped from 52% to 45% over the same period. 
+
+This likely due to the fact the price for BOP coverage and CGL plans have increased steadily over the past few years. This has lead to many small businesses walking away from these plans in favor of reducing their insurance spending. Unfortunately, this means more and more small businesses, and their customers, are left completely vulnerable to injury and property damage claims. 
 
 **7.**	Of the various lines of commercial insurance policies, [Workers Compensation is the second largest](https://content.naic.org/sites/default/files/inline-files/2021%20Annual%20Property%20%26%20Casualty%20and%20Title%20Industry%20Report.pdf) making up 6.2% of total net premiums written in 2021. This comes as no surprise since Workers Comp insurance has seen 8 consecutive years of underwriting profits.  
 
-**8.**	[69% of small businesses in 2014 were covered by Workers’ Compensation insurance.](https://www.forrester.com/blogs/how-and-what-insurance-us-small-businesses-buy-is-changing/) Only four years later, in 2018 only 47% of small business owners held a Workers’ Comp policy. This drop in Workers Comp insurance seems to stem from a greater overall confidence in the Affordable Care Act. At it’s inception the Affordable Care act, many businesses were skeptical at it’s effectiveness and hesitated to rely too heavily on a new law. As the dust settled, we have begun to see more small businesses integrate standardized health insurance coverage into their business model, opting out of classical Workers Compensation policies. 
+**8.**	[69% of small businesses in 2014 were covered by Workers’ Compensation insurance.](https://www.forrester.com/blogs/how-and-what-insurance-us-small-businesses-buy-is-changing/) Only four years later, in 2018 only 47% of small business owners held a Workers’ Comp policy. This drop in Workers Comp insurance seems to stem from a greater overall confidence in the Affordable Care Act. 
+
+At it’s inception the Affordable Care act, many businesses were skeptical at it’s effectiveness and hesitated to rely too heavily on a new law. As the dust settled, we have begun to see more small businesses integrate standardized health insurance coverage into their business model, opting out of classical Workers Compensation policies. 
 
 **9.**	The amount of [Product Liability insurance premiums](https://www.iii.org/fact-statistic/facts-statistics-product-liability) jumped up by 3.5% between 2020 and 2021 from $3.239 Billion to $3.353 Billion. 
 
@@ -399,33 +421,47 @@ On a global scale, [Berkshire Hathaway](https://berkshirehathaway.com/) holds th
 
 ####    2.	Do Corporations and LLCs need liability insurance?
 
-The protection offered by Limited Liability Companies and Corporations only covers your personal assets. This includes things like personal accounts, investments, vehicles, and properties. This protection on it’s own does not meet the company insurance requirements set by state governments. As a matter of fact, personal liability protection usually doesn’t even protect your personal property and assets in cases of malpractice and negligence or where the Corporate Veil has been pierced. When it comes to Corporations and LLCs, the business is legally viewed as a separate entity from yourself and your personal assets. Unfortunately, the Shareholders and Members of Corporations and LLCs, respectively, can do things which can destroy this separation and void all the personal protection that comes with it. Lawyers and attorneys have been known to find unique loopholes and special circumstances where the corporate veil can be pierced even when company owners have seemingly followed the rules and regulations of LLCs and Corporations. All this is to say personal limited liability protection is not universal and there are many times when it simply doesn’t protect you or your company. Without the right insurance policy or bundle, you risk losing your business and your personal assets.  
+The protection offered by Limited Liability Companies and Corporations only covers your Personal Assets. This includes things like personal accounts, investments, vehicles, and properties. This protection on it’s own does not meet the minimum company insurance requirements set by most states. As a general rule of thumb, malpractice and negligence will void personal liability protection. The same goes for if Members or Shareholders destroy the sepration between business and personal assets, it is known as piercing the corporate veil. 
+
+Lawyers and attorneys have been known to find unique loopholes and special circumstances where the corporate veil can be pierced even when company owners have seemingly followed the rules and regulations of LLCs and Corporations. 
+
+All this is to say, personal limited liability protection is not universal and there are many times when it simply doesn’t protect you or your company. Without the right insurance policy or bundle, you risk losing your business and all of your personal assets.  
 
 ####    3.	Does my business need insurance?
 
-Without commercial insurance you are putting yourself and your business at risk. Accidents, emergencies, theft, and lawsuits can wreak havoc on your business’s finances. If your business is unable to pay out of its own accounts, you might end up having to pay out of your personal savings and investments.
+Without commercial insurance you put yourself and your business at risk. Accidents, emergencies, theft, and lawsuits can wreak havoc on your business’s finances. If your business is unable to pay out of its own accounts, you might end up having to pay out of your personal savings and investments.
 
-Depending on the product or service your business provides, you might be required to have certain insurance policies where applicable. Let’s say you have employees, your state most likely requires you to have a Workers’ Compensation insurance policy. Some insurance is needed to receive licenses, certifications or permits for your business. Some real estate firms require their tenants to pick up special insurance. There are also international product and raw material suppliers require you to own insurance if you want to buy through them.
+Depending on the product or service your business provides and the state you are operating in, you might be required to have special insurance policies where applicable. 
+
+Let’s say you have employees, most states require you to have a Workers’ Compensation insurance policy. Some insurance is needed to receive licenses, certifications, and permits for your business. Real estate firms are known to require tenants to pick up special insurance. There are also international product and raw material suppliers which require you to own insurance if you want to buy through them.
 
 ####    4.	Is Workers’ Compensation insurance important for my business?
 
-Simply put, if your company has employees on payroll you needs workers’ compensation insurance. In the event someone on your staff gets injured and the company doesn’t have workers comp they can easily sue the company to pay for their medical bills, rehabilitation, missed wages they would have received, and more. It’s important to speak with legal professionals and your state insurance commissioner because the laws, administrative bodies, and structure for making claims surrounding workers comp insurance vary by the state.
+Simply put, if your company has employees on payroll you needs workers’ compensation insurance. 
+
+In the event someone on your staff gets injured and the company doesn’t have workers comp they can easily sue the company to pay for their medical bills, rehabilitation, missed wages they would have received, and more. 
+
+It’s always important to speak with legal professionals and your state insurance commissioner because the laws, administrative bodies, and structure for making claims surrounding workers comp insurance vary by the state.
 
 ####    5.	What if business insurance is too expensive?
 
-40% of small businesses remain uninsured in order to save money. In reality, insurance can save you a lot more money in the long run than if you forego paying annual insurance premiums. Without insurance, all it takes is one bad accident or some natural disaster to strike and you could lose much more than your business, you could use your personal assets, investments, and savings.
+40% of small businesses remain uninsured in order to save money. In reality, insurance can save you a lot more money in the long run than if you forego paying annual insurance premiums. 
+
+Without insurance, all it takes is one bad accident or some natural disaster to strike and you could lose much more than your business, you could use your personal assets, investments, and savings.
 	
-If you are strapped for cash, one of the best options you have for insurance is getting a standard or customized insurance bundle. This is what is known as a Business Owner’s Policy or BOP. Combining insurance policies is more affordable than buying the necessary policies separately. There are additional measures you can take to further reduce the cost of insurance for your business. For instance, you can get cheaper premiums by setting up a higher deductible. Just be careful doing something like this because it can be a bit of a double-edged sword. You’ll have you the coverage you need but it also means you’ll pay more out-of-pocket should something bad happen.
+If you're strapped for cash, one of the best insurance options you have a standard or customized insurance bundle. This is what is referred to as a Business Owner’s Policy or BOP. Combining insurance policies is more affordable than buying each policy separately. 
+
+There are additional measures you can take to further reduce the cost of insurance for your business. For instance, you can get cheaper premiums by setting up a higher deductible. Just be careful doing something like this because it's a double-edged sword. You’ll have you the coverage you need, but it also means you’ll pay more out-of-pocket should something bad happen.
 
 ####    6.	How do I get the best insurance rates for my business?
 
-It doesn’t matter what you sell, you should implement risk management as a regular practice in your business. Doing this gives you a good look at areas or events where your business is more likely to lose money. If the risk is significant enough you should heavily consider getting insurance coverage in that area. Risk management allows businesses, both large and small, to make sure they aren’t paying for pointless policies while at the same time being covered in the areas you need it most.
+It doesn’t matter what you sell, making risk management as a regular practice in your business gives you a good look at areas or events where your business is more likely to lose money. Risk management allows businesses, both large and small, to make sure they aren’t paying for pointless policies while at the same time being covered in the areas you need it most.
 	
 There are four simple steps to properly evaluate and manage your company’s risk:
 
 **1.	Identify where potential losses may occur.** This incudes cases of theft, employee and customer injuries, fraud, natural disasters, etc.
 
-**2.	Calculate the financial risk of each event should it occur.** How often would something like this happen? How much could this potentially cost your business. 
+**2.	Calculate the financial risk of each event should it occur.** How often would something like this happen? How much could this potentially cost your business. If the risk is significant enough, you should heavily consider getting insurance coverage in that area.
 
 **3.	Brainstorm ways to prevent these events from happening.** What practices can you put in place to reduce these risks or even eliminate them completely? How much of the potential cost of such events would be covered by the relevant insurance policies?
 	
@@ -433,11 +469,15 @@ There are four simple steps to properly evaluate and manage your company’s ris
 	
 The price you pay for coverage is usually based on your claim history. To keep your rates low, you can pay out-of-pocket for inexpensive and infrequent losses and make less unnecessary insurance claims. The more claims your business makes, the more you pay for insurance.
 	
-Another way to reduce your insurance costs is to look at different insurance providers and the different packages and rates they offer. It is not uncommon to for businesses to change providers every once in a while. If you find a better deal which fits for your situation don’t be afraid to take it. One great method to find the best insurance policy for your needs and budget is to compare bids from multiple insurance companies.
+Another way to reduce your insurance costs is to look at different insurance providers and the different packages and rates they offer. It is not uncommon  for businesses to change providers every once in a while.
+
+One great method to find the best insurance policy for your needs and budget is to compare bids from multiple insurance companies. If you find a better deal to fits for your situation, don’t be afraid to take it.
 
 ####    7.	What deductibles do I need?
 
-When it comes to business insurance policies the minimum deductible is $250 per incident. The higher the deductible, the lower the cost of your insurance premiums. It’s important to think about what your business does, where it’s located, and the chances of a mishap taking place. Although it depends a lot on your insurance provider, most don’t offer deductible for liability insurance like they do for property insurance. 
+The higher the deductible, the lower the cost of your insurance premiums. The minimum deductible on a business insurance policy is $250 per incident.
+
+It’s important to think about what your business does, where it’s located, and the chances of a mishap taking place. Although it depends a lot on your insurance provider, most don’t offer the same deductibles for liability insurance as they do for property insurance. 
 
 ####    8.	When should I change my insurance policies?
 
@@ -454,6 +494,7 @@ Make sure you get insurance… BEFORE you need it.
 A proper business provides not only to the customers in the marketplace but also to the community. If a business fails, the consequences may be greater than you can imagine. 
 
 Don’t just think about the financial aspect but you should also take into consideration the emotional, mental, and psychological toll it can take on your family, community, and other businesses which may rely on your goods and services. 
+
 Not all insurance is equal and the same goes for insurers. Some insurance providers cater specifically to the needs of small business and can meet your needs and your budget, while other providers have larger and more expensive policies designed to handle the needs of large scale businesses. 
 
 The best thing you can do right now is brainstorm where your business faces the highest risk. 
