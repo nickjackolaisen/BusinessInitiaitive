@@ -1,16 +1,22 @@
 ---
 title: "LLC Tax Policies: A State-by-State Corporate Tax Guide for 2023"
 layout: post
-date: 2023-03-01
+date: 2023-04-10
 summary: Although LLCs are normally exempt from Corporate Tax, there are currently TEN states where Limited Liability Companies are subject to Corporate Tax.
 permalink: /corporate-tax-on-llcs/
 ---
 
-When starting a business, one of the most important decisions you'll make is deciding which of legal entity to form. One popular option is a Limited Liability Company (LLC). LLCs offer the simplicity of a Partnership and the tax benefits of a Corporation. However, depending on where you are operating, the taxs you may be subject to can vary significantly. 
+When starting a business, one of the most important decisions you'll make is deciding which of legal entity to form. 
+
+One popular option is a Limited Liability Company (LLC). 
+
+LLCs offer the simplicity of a Partnership and the tax benefits of a Corporation. However, depending on where you are operating, the taxs you may be subject to can vary significantly. 
 
 ## List of States and their Corporate Tax Policies for LLCs
 
-Below, we provide a comprehensive list of every state in the United States (plus D.C.) and whether or not they automatically apply Corporate Tax (or similar taxes) on LLCs.I t's important to note that state tax laws can change from timew to time. Therefore, it's always a good idea to check with the relevant office for the most updated information on Corporate Tax laws. Links have conveniently been provided where you can find more information about LLCs and the various taxes your business may be subject to.
+Below, we provide a comprehensive list of every state in the United States (including D.C.) and whether or not they automatically apply Corporate Tax (or similar taxes) on LLCs. 
+
+It's important to note that state tax laws can change from time to time. Therefore, it's always a good idea to check with the relevant office for the most updated information on their Corporate Tax laws. Links have conveniently been provided so you can find more information about LLCs and the various taxes your business may be subject to.
 
 ## States WITH Corporate Tax for LLCs
 
