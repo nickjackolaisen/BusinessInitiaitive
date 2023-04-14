@@ -33,43 +33,43 @@ If you run a business, odds are you will use at least one of the policies mentio
 <p>Business liability insurance provides broad coverage. Protects from claims made against damages caused during business operations. Protects against properties rented by your firm, medical claims, legal injuries. Mandatory. Without general liability insurance it is going to be harder to get clients and grow your business. Protects from claims brought against damages caused to others. Business liability insurance does not cover damages made within your company.</p>
 
 ####    2.  Commercial Property Insurance 
-<p>*Real Estate Protection*</p>
+<p><i>Real Estate Protection</i></p>
 <p>If you own or lease real estate or equipment, Commercial Property Insurance protects your investments from catastrophic events like fires and storms. You should consider this insurance if you run a business from home. Don’t rely on home insurance alone. Business property is not covered by home insurance. Consider getting separate property insurance for especially valuable property. If renting, you will need renters insurance to protect from damage caused by tenants.</p>
 
 ####    3.  Commercial Auto Insurance 
-<p>*Company Vehicle Protection*</p>
+<p><i>Company Vehicle Protection</i></p>
 <p>The protection of commercial auto insurance is limited to company vehicles used on a daily basis.</p>
 
 ####    4.  Workers Compensation Insurance 
-<p>*Employee Protection*</p>
+<p><i>Employee Protection</i></p>
 <p>Consider getting Workers Compensation Insurance if you have employees and you want protection from claims made against damages caused to employees. Many states make workers comp insurance an essential requirement to having employees in the first place.</p>
 
 ####    5.  Professional Liability Insurance 
-<p>*Protects The Services You Provide*</p>
+<p><i>Protects The Services You Provide</i></p>
 <p>If you provide specialized services, adding professional liability insurance protects you from claims made against damages caused to clients. You risk losing your business without this policy.</p>   
 
 ####    6.  Product Liability Insurance 
-<p>*Protects The Products You Provide*</p>
+<p><i>Protects The Products You Provide</i></p>
 <p>If you provide a product, you need to get product liability insurance if you want protection made by claims made against damages caused by the quality or function of what you sell.</p>
 
 ####    7.  Business Owner’s Policy 
-<p>*Package Deal*</p>
+<p><i>Package Deal</i></p>
 <p>This insurance is a package customized for your business. Most insurance providers offer Business Owner Policy bundles or BOP’s. These allow you to save money by combining the types of insurance you need.</p>
 
 ####    8.  Commercial Umbrella Insurance 
-<p>*Extra Protection*</p>
+<p><i>Extra Protection</i></p>
 <p>Commercial Umbrella Insurance gives you extra coverage over incidents not fully insured by the other insurance policies you own.</p>
 
 ####    9.  Cyber Liability insurance 
-<p>*Online Businesses and Virtual Property Protection*</p>
+<p><i>Online Businesses and Virtual Property Protection</i></p>
 <p>Doing business virtually using the internet comes with a risk of hacks and data breaches. Protect yourself from claims made against damages caused by data leaks. </p>
 
 ####    10. Business Crime Insurance 
-<p>*Protection from Criminal Mischief*</p>
+<p><i>Protection from Criminal Mischief</i></p>
 <p>Property insurance does not cover damages caused by criminal activity like loses due to fraud and theft. Crime Insurance allows you to get protection for specific crimes which may apply to you.</p>
 
 ####    11. Equipment Breakdown Insurance 
-<p>*Equipment and Machinery Protection*</p>
+<p><i>Equipment and Machinery Protection</i></p>
 <p>It’s important to protect equipment essential to the operation of your business. Equipment Breakdown Insurance can be purchased on its own or used in a bundle to supplement a policy you already have for your company. This insurance covers claims made against damages caused by equipment failure.</p>
 
 ### Supplementary Insurance Policies
