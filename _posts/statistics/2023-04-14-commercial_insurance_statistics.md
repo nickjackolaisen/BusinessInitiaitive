@@ -30,11 +30,15 @@ This general outline of the different commercial policies allows you to easily c
 If you run a business, odds are you will use at least one of the policies mentioned in this list. 
 
 ####    1.  General Liability Insurance
-<p>Business liability insurance provides broad coverage. Protects from claims made against damages caused during business operations. Protects against properties rented by your firm, medical claims, legal injuries. Mandatory. Without general liability insurance it is going to be harder to get clients and grow your business. Protects from claims brought against damages caused to others. Business liability insurance does not cover damages made within your company.</p>
+<p>Business liability insurance provides broad coverage. Protects from claims made against damages caused during business operations. Protects against properties rented by your firm, medical claims, legal injuries. Mandatory.</p>
+
+<p>Without general liability insurance, it is going to be harder to get clients and grow your business. Protects from claims brought against damages caused to others. Business liability insurance does not cover damages made within your company.</p>
 
 ####    2.  Commercial Property Insurance 
 <p><i>Real Estate Protection</i></p>
-<p>If you own or lease real estate or equipment, Commercial Property Insurance protects your investments from catastrophic events like fires and storms. You should consider this insurance if you run a business from home. Don’t rely on home insurance alone. Business property is not covered by home insurance. Consider getting separate property insurance for especially valuable property. If renting, you will need renters insurance to protect from damage caused by tenants.</p>
+<p>If you own or lease real estate or equipment, Commercial Property Insurance protects your investments from catastrophic events like fires and storms. You should consider this insurance if you run a business from home. Don’t rely on home insurance alone. Business property is not covered by home insurance. </p>
+
+<p>Consider getting separate property insurance for especially valuable property. If renting, you will need renters insurance to protect from damage caused by tenants.</p>
 
 ####    3.  Commercial Auto Insurance 
 <p><i>Company Vehicle Protection</i></p>
