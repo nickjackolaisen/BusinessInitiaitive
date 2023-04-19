@@ -1,5 +1,5 @@
 ---
-title: "Sole Proprietorship Facts & Statistics (2022 Data)"
+title: "Sole Proprietorship Facts & Statistics for 2023"
 layout: post
 date: 2023-04-15
 summary: Find answers to the most popular FAQs about Sole Proprietorship business entities. 
