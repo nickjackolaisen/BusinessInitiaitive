@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Do I Pay Myself From My LLC? (Step-by-step process)
-date: 2023-02-24
+date: 2023-04-12
 summary: Interested in starting a business and monetizing your personal brand? Read on to find out how to get paid from your very own LLC!
 permalink: /paying-yourself-llc/
 ---
