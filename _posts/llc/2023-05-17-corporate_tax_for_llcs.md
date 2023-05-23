@@ -1,7 +1,7 @@
 ---
 title: "LLC Tax Policies in 2023: A State-by-State Guide to Corporate Tax"
 layout: post
-date: 2023-04-17
+date: 2023-05-17
 summary: Although LLCs are normally exempt from Corporate Tax, there are currently TEN states where Limited Liability Companies are subject to Corporate Tax.
 permalink: /corporate-tax-on-llcs/
 ---

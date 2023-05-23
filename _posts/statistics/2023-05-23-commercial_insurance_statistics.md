@@ -1,12 +1,12 @@
 ---
 title: "57+ Commercial Insurance Facts & Statistics | 2023"
 layout: post
-date: 2023-04-19
+date: 2023-05-23
 summary: Your go to source for Commercial Insurance facts and data. Includes sections on types of insurance, demographics, common claims and how to prevent them, industry trends, and FAQs.
 permalink: /stats/commercial-insurance-statistics/
 ---
 
-##  What is Commercial Insurance? 
+##  What is Commercial Business Insurance? 
 Commercial insurance, also known as business insurance, is a safety net to be used in the worst case scenario. Business owners use this insurance to protect their assets from financial losses as a result of accidents, property damage, product or service liability, and other difficult and costly problems. 
 
 Many small business owners think they might not need Commercial Insurance, at least initially. 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How To Form Your Own Multi Member LLC in 2023
-date: 2023-04-17
+date: 2023-05-18
 summary: An explanation of the different requirements you'll come across while registering your MMLLC.  
 permalink: /multi-member-llc/registration/
 ---
