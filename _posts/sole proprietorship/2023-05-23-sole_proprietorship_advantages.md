@@ -91,7 +91,12 @@ The same can be applied to life.
 
 Forming a Sole proprietorship is no sweat. 
 
-Running your own business and cashing the check is all it takes to be a sole proprietor.
+<figure>
+<center>
+<img alt="All it takes"  src="/images/sp-all-it-takes.png" 
+    style="width: 50%; height: 50%" />
+</center>
+</figure>
 
 With so few restrictions, fees, and paperwork, **Sole Proprietorships are quicker to set up than any other business entity.** There’s also the bonus of not having to pay initial and annual registration fees because, in most cases, you aren’t registered with the state.
 
