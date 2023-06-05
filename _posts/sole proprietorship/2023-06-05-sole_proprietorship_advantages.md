@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Impressive Advantages of Sole Proprietorship
-date: 2023-05-23
+date: 2023-06-05
 summary: Wanna know if the Sole Proprietorship is THE BEST business entity for achieving your professional goals? READ THIS!
 permalink: /sole-proprietorship/advantages/
 ---
@@ -94,7 +94,7 @@ Forming a Sole proprietorship is no sweat.
 <figure>
 <center>
 <img alt="All it takes"  src="/images/sp-all-it-takes.png" 
-    style="width: 50%; height: 50%" />
+    style="width: 75%; height: 75%" />
 </center>
 </figure>
 
