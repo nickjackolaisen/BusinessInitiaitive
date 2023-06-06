@@ -42,7 +42,7 @@ You can upgrade your default LLC to an S-Corporation where owners get paid a com
 
 <figure>
 <center>
-<img alt="always upgrade"  src="/images/s-corp-vs-c-corp-distributions-draw.png" 
+<img alt="distributions vs draw"  src="/images/s-corp-vs-c-corp-distributions-draw.png" 
     style="width: 63%; height: 63%" />
 </center>
 </figure>
