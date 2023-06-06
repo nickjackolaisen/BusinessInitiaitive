@@ -125,7 +125,7 @@ Plus, Double Taxation incentivizes owners to recirculate Dividends within the co
 
 The drawback of going C-Corp is your company is required to pays taxes twice. This is what’s referred to as “Double Taxation”. 
 
-The first tax is the 21% Corporate Tax which applies to all company profits. Your LLC pays Corporate Tax as its own entity. 
+The first tax is the [21% Corporate Tax](https://www.investopedia.com/terms/c/corporatetax.asp) which applies to all company profits. Your LLC pays Corporate Tax as its own entity. 
 
 After paying the Corporate Tax, your LLC pays salaries to you and the other shareholders based on everybody's proportional contributions to the business.
 
