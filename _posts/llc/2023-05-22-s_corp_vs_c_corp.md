@@ -123,7 +123,15 @@ In addition to the salaries, you and the rest of the owners receive Dividends.
 
 Even though upgrading to a Corporate Tax Status means paying [Double Taxation](https://smartasset.com/financial-advisor/double-taxation), one thing you are getting out of is having to pay Self-Employment Tax for your salary, as we just mentioned above. 
 
-Plus, Double Taxation incentivizes owners to recirculate Dividends within the company. By keeping this money in the business, you are not taxed a second time. Dividends left in the business’s account are still subject to Income Tax, even when nobody claims the money.
+![s-corp-vs-c-corp-dividends-self-employment](https://github.com/nickjackolaisen/pixyll/assets/79380389/ed644805-7e2f-447e-a4c5-eff9afedcb5e)
+
+<figure>
+<center>
+<img alt="distributions vs draw"  src="/images/s-corp-vs-c-corp-distributions-self-employment.png" 
+    style="width: 63%; height: 63%" />
+</center>
+</figure>
+Double Taxation incentivizes owners to recirculate Dividends within the company. By keeping this money in the business, you are not taxed a second time. Dividends left in the business’s account are still subject to Income Tax, even when nobody claims the money.
 
 ### C-Corp Requirements ##
 
