@@ -105,6 +105,10 @@ As an S-Corp owner, Sarah can receive compensation as a combination of a salary 
 **5. Easy Transfer of Ownership:**
 If Sarah wants to bring in partners or transfer ownership to others in the future, an S-Corp structure allows for flexibility. Ownership interests can be transferred through the sale or transfer of shares, simplifying the process of adding or removing owners.
 
+Looking to stay up-to-date on the latest business trends and strategies? Look no further than the Business Initiative Newsletter! Our informative and insightful content will help you navigate the ever-changing business landscape with ease. From articles on the differences between S-Corps and C-Corps to tips on marketing and sales, our newsletter has it all. Subscribe now to join our community of savvy business leaders!
+
+<script async data-uid="0b61cd22c7" src="https://adept-hustler-4565.ck.page/0b61cd22c7/index.js"></script>
+
 It's important to note that forming and maintaining an S-Corp requires compliance with legal and regulatory requirements, such as filing articles of incorporation, holding shareholder meetings, and maintaining proper corporate records. Seeking guidance from a qualified attorney or accountant is recommended to ensure adherence to applicable laws and regulations.
 
 ## C-Corporation ##
@@ -150,10 +154,6 @@ While C-Corps are subject to double taxation, meaning that the corporate profits
 
 **6. Exit Strategies:** 
 With a C-Corp, Alex can make his startup public through an initial public offering (IPO) or look for buyers. Public investors and potential acquirers deal with C-Corps regularly, making it easier to navigate such transactions.
-
-Looking to stay up-to-date on the latest business trends and strategies? Look no further than the Business Initiative Newsletter! Our informative and insightful content will help you navigate the ever-changing business landscape with ease. From articles on the differences between S-Corps and C-Corps to tips on marketing and sales, our newsletter has it all. Subscribe now to join our community of savvy business leaders!
-
-<script async data-uid="0b61cd22c7" src="https://adept-hustler-4565.ck.page/0b61cd22c7/index.js"></script>
 
 It's important to note that forming and operating a C-Corp involves complying with legal and regulatory obligations, such as filing articles of incorporation, holding regular shareholder meetings, and maintaining proper corporate records. Seeking guidance from professionals, such as attorneys and accountants, is crucial to ensure compliance and maximize the benefits of a C-Corp structure.
 
