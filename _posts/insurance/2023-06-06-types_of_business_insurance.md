@@ -12,7 +12,7 @@ permalink: /types-of-business-insurance/
 </center>
 </figure>
 
-This general outline of the different commercial policies allows you to quickly compare coverage and determine which insurance plans best fit your needs, so you can focus on growing your business without worrying about the risks.
+This reference guide outlines the different commercial policies, allowing you to quickly compare coverage and determine which insurance plans best fit your needs, so you can focus on growing your business without worrying about the risks.
 
 If you run a business, odds are you will use at least one of the policies mentioned in this list. 
 
