@@ -25,9 +25,9 @@ bing_verification:
 
 # Optional features
 animated:             true
-show_related_posts:   false
+show_related_posts:   true
 show_post_footers:    false
-show_social_icons:    false
+show_social_icons:    true
 ajaxify_contact_form: false
 enable_mathjax: false
 extended_fonts: false
@@ -55,7 +55,7 @@ github_username:
 reddit_username:
 bitbucket_username:
 stackoverflow_id:
-twitter_username: 
+twitter_username: @BisInitiative
 skype_username:
 steam_nickname:
 google_plus_id:
@@ -71,13 +71,13 @@ vk_id:
 # Post sharing icons
 show_sharing_icons: false
 # Change to 'true' to enable individual icons
-share_facebook: false
-share_twitter: false
+share_facebook: true
+share_twitter: true
 share_googleplus: false
 share_linkedin: false
 share_digg: false
 share_tumblr: false
-share_reddit: false
+share_reddit: true
 share_stumbleupon: false
 share_hackernews: false
 
@@ -111,7 +111,7 @@ text:
       sending:  'sending..'
       sent:     'Message sent!'
       error:    'Error!'
-  thanks: 'Thanks for reaching out! Check your inbox for a confirmation email and we will respond within 24 hours.'
+  thanks: 'Thanks for reaching out! Check your inbox for a confirmation email and we will get back to you within 24 hours.'
   og_locale: 'en_US'
 
 # Build settings
