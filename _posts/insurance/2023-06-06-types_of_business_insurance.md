@@ -7,7 +7,7 @@ permalink: /types-of-business-insurance/
 ---
 <figure>
 <center>
-<img alt="types of business insurance"  src="/images/s-corp-vs-c-corp-always-upgrade.png" 
+<img alt="types of business insurance"  src="/images/types-of-business-insurance.png" 
     style="width: 63%; height: 63%" />
 </center>
 </figure>
@@ -78,6 +78,6 @@ Although you have the option of getting business crime insurance or equipment br
 
 The goal is to get maximum coverage and protection at a minimal cost to your company. 
 
-In life, it is impossible to completely avoid risk. 
+In life, it is impossible to **completely** avoid risk. 
 
 Thankfully insurance policies, like those listed, are available to help you further reduce your risk for common situations you may encounter depending on your business model and location.
