@@ -81,3 +81,5 @@ The goal is to get maximum coverage and protection at a minimal cost to your com
 In life, it is impossible to **completely** avoid risk. 
 
 Thankfully insurance policies, like those listed, are available to help you further reduce your risk for common situations you may encounter depending on your business model and location.
+
+Investing in business insurance may seem like an added expense, but it's an investment in the long-term success and security of your business. Don't wait until it's too late. Take action now and protect your assets before anything happens.
