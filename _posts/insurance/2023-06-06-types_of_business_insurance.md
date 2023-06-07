@@ -5,6 +5,12 @@ date: 2023-06-06
 summary: Protecting your business from unexpected losses and liabilities is crucial for your peace of mind. In this article, we'll explore the 14 types of commercial business insurance that can help you safeguard your company's assets and reputation. 
 permalink: /types-of-business-insurance/
 ---
+<figure>
+<center>
+<img alt="types of business insurance"  src="/images/s-corp-vs-c-corp-always-upgrade.png" 
+    style="width: 63%; height: 63%" />
+</center>
+</figure>
 
 This general outline of the different commercial policies allows you to quickly compare coverage and determine which insurance plans best fit your needs, so you can focus on growing your business without worrying about the risks.
 
