@@ -7,7 +7,7 @@ permalink: /types-of-business-insurance/
 ---
 <figure>
 <center>
-<img alt="types of business insurance"  src="/images/types-of-business-insurance.png" 
+<img alt="types of business insurance"  src="/images/types-of-commercial-insurance.png" 
     style="width: 63%; height: 63%" />
 </center>
 </figure>
