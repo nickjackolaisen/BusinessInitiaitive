@@ -8,8 +8,6 @@ permalink: /s-corp-vs-c-corp/
 
 ## Elite Tax Status, Payment Methods, and More...
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-via="BisInitiative" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 Upgrading to a specialty tax status changes how you and your taxes are paid. When you upgrade your LLC to a specialty tax status, you and any other owners are referred to as “Shareholders” instead of as “Members”.  
 
 Here are the two options you can choose from: 
