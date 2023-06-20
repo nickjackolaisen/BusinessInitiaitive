@@ -3,7 +3,7 @@ title: "Top 10 States with the Most Small Businesses"
 layout: post
 date: 2023-06-20
 summary: Attention small business owners! Are you looking to relocate your business? Or maybe you're just curious about how your state ranks in terms of supporting small businesses. In this article, we cover the top 10 states with the most small businesses, so keep reading to find out if your state falls on the list. Whether you're considering a move or simply want to learn more about the entrepreneurial landscape in your area, we've got you covered. 
-permalink: /stats/sole-proprietorship-statistics/
+permalink: /stats/states-with-most-small-businesses/
 ---
 
 Small businesses are the backbone of the United States economy, creating jobs and driving growth. In fact, according to the Small Business Administration (SBA), **small businesses account for 44% of all economic activity in the United States.** With that in mind, we've compiled a list of the top 10 states with the most small businesses.

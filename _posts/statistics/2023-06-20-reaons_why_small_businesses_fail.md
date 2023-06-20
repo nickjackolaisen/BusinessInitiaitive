@@ -3,7 +3,7 @@ title: "What Percentage of Small Businesses Fail Within the First Year?"
 layout: post
 date: 2023-06-20
 summary: Are you thinking about starting a small business, but worried about the failure rate? This article explores the statistics behind small business failures in the first year and provides insights on how to increase your chances of success.
-permalink: /stats/sole-proprietorship-statistics/
+permalink: /stats/small-business-failure-rate/
 ---
 
 Starting a small business is a dream for many people, but the harsh reality is that it's not an easy feat. According to the Small Business Administration (SBA), **about 20% of small businesses fail within the first year**. That number **increases to 50% by the fifth year, and 70% by the tenth year.** These statistics can be discouraging, but understanding why businesses fail can help entrepreneurs take preventative measures.
