@@ -1,9 +1,8 @@
 ---
 title: "How Long does it Take to Start a Small Business?"
 layout: post
-date: 2023-06-22
-summary: 
-Starting a small business is a dream for many. Whether as a passion project or an income stream, building a business can be an exciting and rewarding journey. However, a common question people have is, “How long does it take to start a small business?” The answer depends on several factors, including the type of business, the location, your level of experience, and the resources available to you.
+date: 2023-06-25
+summary: Starting a small business is a dream for many. Whether as a passion project or an income stream, building a business can be an exciting and rewarding journey. However, a common question people have is, How long does it take to start a small business? The answer depends on several factors, including the type of business, the location, your level of experience, and the resources available to you.
 permalink: /stats/how-long-does-it-take-to-start-a-business/
 ---
 
