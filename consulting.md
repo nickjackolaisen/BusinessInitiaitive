@@ -31,6 +31,11 @@ Don’t fall victim to analysis paralysis...
 <!-- Calendly link widget end -->
 </h3>
 
+<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/businessinitiative/30-minute-consultation-call" style="min-width:320px;height:700px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Calendly inline widget end -->
+
 Business Initiative offers a combination of Compliance, Operational, and Strategy Consulting Services to give you clarity in choosing the best business entity based on your goals, time scale, size of operation, client base, budget, location, and any previous experience.
 
 We do NOT offer consulting services for those looking to expand to multiple states or set up a foreign companies. We are currently developing expert connections and more resources in these areas. 
