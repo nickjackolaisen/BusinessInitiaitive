@@ -101,7 +101,12 @@ In a Partnership, you work with a team. Because more people are involved, some p
 Forming a Partnership is much easier and way faster than the lengthy bureaucratic process of registering an LLC or Corporation. Their special rules and regulations vary from one state to the next. 
 
 For a Partnership, you do not submit paperwork to the Federal government. It all goes to your State and local governments. On top of this, the paperwork hardly amounts to anything, especially compared to LLCs or Corporations.   
-  
+
+<!-- Calendly badge widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/businessinitiative/30-minute-consultation-call', text: 'Book your FREE consultation today!', color: '#0069ff', textColor: '#ffffff', branding: true }); }</script>
+<!-- Calendly badge widget end -->
 
 Going with a Partnership also gets you out of paying the annual filing fees necessary to keep a Corporation or LLC registered with the state.
 
