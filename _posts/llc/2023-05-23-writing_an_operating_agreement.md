@@ -45,6 +45,11 @@ The last section of your operating agreement includes any additional provisions 
 
 Once you have drafted your operating agreement, you should review it carefully to make sure that it accurately reflects the ownership and operating procedures of your LLC. Once you are satisfied with the document, you should have all the members of your LLC sign it.
 
+<p>
+<b>➤ MORE: </b> <!-- Calendly link widget begin --> <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet"><script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/businessinitiative/30-minute-consultation-call'});return false;">Book a FREE Consultation Today!</a><!-- Calendly link widget end -->
+</p>
+
 ### Checklist
 
 Here is a 7-step checklist to help you write your very own operating agreement:
@@ -57,4 +62,4 @@ Here is a 7-step checklist to help you write your very own operating agreement:
 6.  Include additional provisions
 7.  Review and sign
 
-We hope that this  checklist helps you write an operating agreement for your LLC. If you have any questions or need further assistance, please do not hesitate to contact us.
+We hope that this  checklist helps you write an operating agreement for your LLC. If you have any questions or need further assistance, please don't hesitate to contact us.

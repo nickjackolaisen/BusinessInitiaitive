@@ -102,12 +102,6 @@ Forming a Partnership is much easier and way faster than the lengthy bureaucrati
 
 For a Partnership, you do not submit paperwork to the Federal government. It all goes to your State and local governments. On top of this, the paperwork hardly amounts to anything, especially compared to LLCs or Corporations.   
 
-<!-- Calendly badge widget begin -->
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/businessinitiative/30-minute-consultation-call', text: 'Book your FREE consultation today!', color: '#0069ff', textColor: '#ffffff', branding: true }); }</script>
-<!-- Calendly badge widget end -->
-
 Going with a Partnership also gets you out of paying the annual filing fees necessary to keep a Corporation or LLC registered with the state.
 
 ### What is a Partnership Agreement?
@@ -145,6 +139,11 @@ To save you some time, here it’s critical points:  
 Regardless of whether you write your own or use the default UPA, you are required to reach a unanimous agreement on the details and procedures of the Partnership. This decision excludes any Limited Partners because they are passively involved and don’t hold influence in the Partnership.
 
 The hardest part of forming a Partnership is getting everyone to agree. You cannot build a collective business if a potential Partner disagrees with any part of the Partnership Agreement.
+
+<p>
+<b>➤ MORE: </b> <!-- Calendly link widget begin --> <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet"><script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/businessinitiative/30-minute-consultation-call'});return false;">Book a FREE Consultation Today!</a><!-- Calendly link widget end -->
+</p>
 
 ### What is a Partnership Certificate?
 
