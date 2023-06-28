@@ -29,7 +29,7 @@ Professional services, such as legal and accounting firms, have an **average tax
 #### 5.  Finance and Insurance:
 The finance and insurance industry has an **average tax rate of 19.9%.** This is due to the high costs of regulatory compliance and risk management.
 
-### Industries that Pay the Least in Taxes:
+## Industries that Pay the Least in Taxes:
 
 The industries that pay the least in taxes are generally those with lower overhead costs. This includes industries such as software development, information technology, and consulting. These industries are able to take advantage of deductions for software and equipment, as well as other research and development costs. Additionally, these industries often have a high percentage of employees working remotely, which can reduce their payroll taxes.
 
@@ -48,7 +48,7 @@ The retail industry has an **average tax rate of 15.5%.** This is due to the hig
 #### 5.  Information:
 The information industry has an **average tax rate of 16.9%.** This is due to the high level of innovation and research and development in the industry.
 
-### 9 Quick Ways Small Business Owners Can Lower Their Tax Rate:
+## 9 Quick Ways Small Business Owners Can Lower Their Tax Rate:
 
 Fortunately, there are several strategies that small business owners can use to reduce their tax burden. From taking advantage of tax credits and deductions to employing tax-saving strategies, here are a few simple steps you can take to lower your tax rate.
 
@@ -79,10 +79,8 @@ Small business owners who donate to charitable organizations can deduct the valu
 #### 9.  Work smarter, not harder:
 Small business owners should plan ahead and consult with a tax professional to ensure they are taking advantage of all available tax-saving strategies and deductions.
 
-<p>
-<b>➤ Need personalized assistance? </b> <!-- Calendly link widget begin --> <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet"><script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/businessinitiative/30-minute-consultation-call'});return false;">Book a FREE Consultation Today!</a><!-- Calendly link widget end -->
-</p>
+<p><b>➤ Need personalized assistance? </b> <a href="https://calendly.com/businessinitiative/30-minute-consultation-call"> Book a FREE Consultation Today!</a></p>
+
 
 As you can see, the average tax rate for small businesses can vary widely depending on the industry, location, and size of the business. Knowing the average tax rate for your industry can help you plan and budget accordingly. Small business owners can also take advantage of many tax-saving strategies, such as tax deductions, retirement savings plans, and incorporating their business.
 
