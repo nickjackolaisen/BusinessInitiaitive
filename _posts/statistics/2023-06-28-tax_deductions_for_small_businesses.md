@@ -1,9 +1,9 @@
 ---
-title: "Top 7 Tax Reductions for Small Businesses in 2023"
+title: "Top 7 Tax Deductions for Small Businesses in 2023"
 layout: post
 date: 2023-06-28
 summary: This article provides an overview of the top 7 tax deductions available to small businesses. By taking advantage of these deductions, entrepreneurs can reduce their taxable income and save money on taxes. Reading this article will help entrepreneurs understand which deductions they qualify for and how to maximize their tax savings.
-permalink: /stats/small-businesses/tax-reductions/
+permalink: /stats/small-businesses/tax-deductions/
 ---
 
 As a small business owner, it's important to take advantage of every possible tax deduction available to you. Tax deductions reduce your taxable income, which means you pay less in taxes. This can help your business save money and improve your bottom line. Here are the top 7 tax deductions for small businesses.

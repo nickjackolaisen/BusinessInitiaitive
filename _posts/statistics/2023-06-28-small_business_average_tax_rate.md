@@ -52,7 +52,7 @@ The information industry has an **average tax rate of 16.9%.** This is due to th
 
 Fortunately, there are several strategies that small business owners can use to reduce their tax burden. From taking advantage of tax credits and deductions to employing tax-saving strategies, here are a few simple steps you can take to lower your tax rate.
 
-#### 1.  Take advantage of tax deductions:
+#### 1.  [Take advantage of tax deductions:](https://www.businessinitiative.org/stats/small-businesses/tax-deductions/)
 Small business owners can deduct many expenses, such as office supplies, equipment, and travel expenses, from their taxable income.
 
 #### 2.  Hire a tax professional:
