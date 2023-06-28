@@ -141,7 +141,7 @@ Regardless of whether you write your own or use the default UPA, you are require
 The hardest part of forming a Partnership is getting everyone to agree. You cannot build a collective business if a potential Partner disagrees with any part of the Partnership Agreement.
 
 <p>
-<b>➤ MORE: </b> <!-- Calendly link widget begin --> <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet"><script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+<b>➤ Need personalized assistance? </b> <!-- Calendly link widget begin --> <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet"><script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
 <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/businessinitiative/30-minute-consultation-call'});return false;">Book a FREE Consultation Today!</a><!-- Calendly link widget end -->
 </p>
 

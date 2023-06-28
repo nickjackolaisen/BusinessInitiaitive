@@ -36,7 +36,7 @@ Overall, starting a business can take anywhere from a few months to over a year,
 Just know, that just because you may have started the business, it doesn't mean it will necessarily be profitable right off the bat. It is essential to plan ahead and be prepared for the unexpected.
 
 <p>
-<b>➤ MORE: </b> <!-- Calendly link widget begin --> <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet"><script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+<b>➤ Want personal assistance? </b> <!-- Calendly link widget begin --> <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet"><script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
 <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/businessinitiative/30-minute-consultation-call'});return false;">Book a FREE Consultation Today!</a><!-- Calendly link widget end -->
 </p>
 

@@ -23,13 +23,7 @@ Don’t fall victim to analysis paralysis...
 
 **Take Initiative:** 
 
-<h3 style="text-align: center;">
-<!-- Calendly link widget begin -->
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/businessinitiative/30-minute-consultation-call'});return false;"> Schedule a meeting NOW!</a>
-<!-- Calendly link widget end -->
-</h3>
+### Schedule a meeting TODAY!
 
 <!-- Calendly inline widget begin -->
 <div class="calendly-inline-widget" data-url="https://calendly.com/businessinitiative/30-minute-consultation-call" style="min-width:320px;height:700px;"></div>

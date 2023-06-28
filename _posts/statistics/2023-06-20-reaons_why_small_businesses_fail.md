@@ -34,8 +34,8 @@ To increase the likelihood of small business success, entrepreneurs should take 
 Are you ready to take the leap and start your own small business?
 
 <p>
-<b>➤ MORE: </b> <!-- Calendly link widget begin --> <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet"><script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/businessinitiative/30-minute-consultation-call'});return false;">Book a FREE Consultation Call Today!</a><!-- Calendly link widget end -->
+<b>➤ Need personalized assistance? </b> <!-- Calendly link widget begin --> <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet"><script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/businessinitiative/30-minute-consultation-call'});return false;">Book a FREE Consultation Today!</a><!-- Calendly link widget end -->
 </p>
 
 Don't let the statistics scare you away. With a solid plan, thorough research, and the right support, you can significantly increase your chances of success.
