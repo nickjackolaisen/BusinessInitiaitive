@@ -24,6 +24,16 @@ google_tag_manager:
 # Bing services
 bing_verification:
 
+# Author details.
+jack_nicholaisen:
+    name: Jack Nicholaisen
+    email: jack.nicholaisen@yahoo.com
+    web: http://twitter.com/BisInitiative
+firstname_lastname:
+    name: First Last
+    email: name@company.com
+    web: http://twitter.com/elonmusk
+
 # Optional features
 animated:             true
 show_related_posts:   false

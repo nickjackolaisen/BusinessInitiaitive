@@ -2,6 +2,7 @@
 title: "How Many Businesses Offer Health Insurance?"
 layout: post
 date: 2023-07-03
+author: jack_nicholaisen
 summary: This article dives into the statistics on health insurance offerings by employers, highlighting crucial data for entrepreneurs to consider. By reading it, you'll gain insights into how offering health insurance can impact employee attraction and retention. Armed with this knowledge, you can make informed decisions to help your business excel in today's competitive marketplace.
 permalink: /stats/small-businesses/provide-health-insurance/
 ---

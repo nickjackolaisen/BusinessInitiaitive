@@ -19,6 +19,15 @@ layout: default
   {% else %}
     {{ minutes }} {{ site.text.post.minute_read | default: "minute read" }}
   {% endif %}
+<!-- Look the author details up from the site config. -->
+{% assign author = site.authors[page.author] %}
+<!-- Output author details if some exist. -->
+{% if author %}
+    <span>
+        <!-- Personal Info. -->
+        Written by: <a href="{{ author.web }}">{{ author.name }}</a>
+    </span>
+{% endif %}
   {% if site.show_sharing_icons %}
   {% include share_buttons.html %}
   {% endif %}

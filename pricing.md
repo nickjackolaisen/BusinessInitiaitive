@@ -11,7 +11,7 @@ DBA Registration: $100 + Filing Fees
 
 Trademark Registration: TEAS Plus - $100 + Filing Fees, TEAS Standard - $130 + Filing Fees
 
-EIN Registration and Acquizition: $50 + Filing Fees
+EIN Registration and Acquisition: $50 + Filing Fees
 
 LLC Registration: $200 + Filing and State Fees (Registered Agent Services, OA, and AoC are NOT included)
 
