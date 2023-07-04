@@ -19,9 +19,9 @@ layout: default
   {% else %}
     {{ minutes }} {{ site.text.post.minute_read | default: "minute read" }}
   {% endif %}
-  {% assign author = page.author %}
+  <br>
   {% if page.author %}
-    Written by: <a href="{{ author.web }}">{{ author.name }}</a>
+    Written by: {{ author.name }}
   {% endif %}
   {% if site.show_sharing_icons %}
   {% include share_buttons.html %}
