@@ -20,10 +20,12 @@ layout: default
   {% else %}
     {{ minutes }} {{ site.text.post.minute_read | default: "minute read" }}
   {% endif %}
+  </span>
   <br>
   {% if page.author %}
     Written by: {{ page.author.name }}
   {% endif %}
+  <span class="post-meta small">
   {% if site.show_sharing_icons %}
   {% include share_buttons.html %}
   {% endif %}
