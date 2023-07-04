@@ -22,9 +22,9 @@ layout: default
   {% endif %}
   </span>
   <br>
-  {% assign user = site.authors[page.author] %}
   {% if page.author %}
-    Written by: {{ site.authors.name }}
+  {% assign user = site.users[page.author] %}
+    Written by: <a href="{{ user.web }}">{{ user.name }}</a>
   {% endif %}
   <span class="post-meta small">
   {% if site.show_sharing_icons %}
