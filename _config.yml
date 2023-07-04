@@ -27,13 +27,13 @@ bing_verification:
 # Authors descriptions
 authors:
 - jack_nicholaisen:
-  name: Jack Nicholaisen
-  email: jack.nicholaisen@yahoo.com
-  web: http://twitter.com/BisInitiative
+    name: Jack Nicholaisen
+    email: jack.nicholaisen@yahoo.com
+    web: http://twitter.com/BisInitiative
 - firstname_lastname:
-  name: First Last
-  email: name@company.com
-  web: http://twitter.com/elonmusk
+    name: First Last
+    email: name@company.com
+    web: http://twitter.com/elonmusk
 
 # Optional features
 animated:             true

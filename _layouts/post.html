@@ -22,6 +22,7 @@ layout: default
   {% endif %}
   </span>
   <br>
+  {% assign user = site.authors[page.author] %}
   {% if page.author %}
     Written by: {{ site.authors.name }}
   {% endif %}
