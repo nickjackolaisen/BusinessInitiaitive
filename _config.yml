@@ -25,11 +25,12 @@ google_tag_manager:
 bing_verification:
 
 # Authors descriptions
-jack_nicholaisen:
+authors:
+- jack_nicholaisen:
   name: Jack Nicholaisen
   email: jack.nicholaisen@yahoo.com
   web: http://twitter.com/BisInitiative
-firstname_lastname:
+- firstname_lastname:
   name: First Last
   email: name@company.com
   web: http://twitter.com/elonmusk
