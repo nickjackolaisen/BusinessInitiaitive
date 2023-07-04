@@ -13,6 +13,7 @@ layout: default
   {% if page.update_date %}
     <span class="post-meta post-date">{{ site.text.post.updated | default: "Updated" }}: {{ page.update_date | date: site.date_format }}</span>
   {% endif %}
+  <br>
   <span class="post-meta small">
   {% if page.minutes %}
     {{ page.minutes }} {{ site.text.post.minute_read | default: "minute read" }}
@@ -21,7 +22,7 @@ layout: default
   {% endif %}
   <br>
   {% if page.author %}
-    Written by: {{ author.name }}
+    Written by: {{ authors.name }}
   {% endif %}
   {% if site.show_sharing_icons %}
   {% include share_buttons.html %}

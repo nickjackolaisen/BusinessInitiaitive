@@ -1,7 +1,6 @@
 # Site settings
 title:       Business Initiative
 email:       nickjackolaisen@gmail.com
-author:      Jack Nicholaisen
 description: "Business Initiatiative gives entrepenures the informaition necessary to open their own business with clarity and confidence."
 baseurl:     ""
 url:         "https://www.businessinitiative.org"
@@ -24,12 +23,12 @@ google_tag_manager:
 # Bing services
 bing_verification:
 
-# Author details
-jack_nicholaisen:
+author:
+  jack_nicholaisen:
     name: Jack Nicholaisen
     email: jack.nicholaisen@yahoo.com
     web: http://twitter.com/BisInitiative
-firstname_lastname:
+  firstname_lastname:
     name: First Last
     email: name@company.com
     web: http://twitter.com/elonmusk
