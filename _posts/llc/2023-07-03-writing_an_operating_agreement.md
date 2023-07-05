@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Creating a Solid Foundation: Crafting Your LLC's Operating Agreement"
-date: 2023-05-23
+date: 2023-07-03
+author: jack_nicholaisen
 summary: Once you have registered your LLC and received your EIN, the next step in writing your company's Operating Agreement. In this article we tell you how to do just that.
 permalink: /llc-operating-agreement/
 ---

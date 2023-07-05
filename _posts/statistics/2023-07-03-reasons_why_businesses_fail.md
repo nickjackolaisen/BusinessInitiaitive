@@ -2,6 +2,7 @@
 title: "The Most Common Reasons Why Small Businesses Fail"
 layout: post
 date: 2023-07-03
+author: jack_nicholaisen
 summary: Discover the top reasons small businesses struggle and learn how to dodge common pitfalls. By reading this concise guide, entrepreneurs can identify potential obstacles and adopt effective strategies to overcome them. Stay one step ahead and build a successful business by learning from others' mistakes.
 permalink: /stats/small-businesses/reasons-why-businesses-fail/
 ---

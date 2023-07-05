@@ -1,7 +1,8 @@
 ---
 title: "What Percentage of Small Businesses Fail Within the First Year?"
 layout: post
-date: 2023-06-20
+date: 2023-06-29
+author: jack_nicholaisen
 summary: Are you thinking about starting a small business, but worried about the failure rate? This article explores the statistics behind small business failures in the first year and provides insights on how to increase your chances of success.
 permalink: /stats/small-business-failure-rate/
 ---

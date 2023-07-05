@@ -1,7 +1,8 @@
 ---
 title: "57+ Commercial Insurance Facts & Statistics | 2023"
 layout: post
-date: 2023-05-23
+date: 2023-07-05
+author: jack_nicholaisen
 summary: Your go to source for Commercial Insurance facts and data. Includes sections on types of insurance, demographics, common claims and how to prevent them, industry trends, and FAQs.
 permalink: /stats/commercial-insurance-statistics/
 ---

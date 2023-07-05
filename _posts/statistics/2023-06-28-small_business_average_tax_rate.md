@@ -2,6 +2,7 @@
 title: "What is the Average Tax Rate for Small Businesses? PLUS 9 Tips to Lower it"
 layout: post
 date: 2023-06-28
+author: jack_nicholaisen
 summary: As an entrepreneur, understanding the average tax rate for small businesses is crucial to your success. This article provides valuable information on how taxes affect small businesses and what you can do to stay ahead of the game. By reading this article, you'll be able to make informed decisions about your business finances and avoid costly mistakes come tax season.
 permalink: /stats/small-businesses/average-tax-rate/
 ---
