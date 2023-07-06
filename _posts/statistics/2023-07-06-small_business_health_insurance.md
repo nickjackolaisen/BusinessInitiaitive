@@ -1,7 +1,7 @@
 ---
 title: "Small Business Health Insurance - Costs, Benefits, & Options (2023)"
 layout: post
-date: 2023-07-03
+date: 2023-07-06
 author: jack_nicholaisen
 summary: Discover the ins and outs of health insurance costs for small business owners in this concise guide. Learn about factors that influence pricing, and pick up some tips to help you save on premiums. By understanding these key points, you can make savvy decisions to keep your employees healthy while keeping costs in check.
 permalink: /stats/small-businesses/health-insurance/
@@ -15,7 +15,7 @@ In this article, we'll explore the factors that determine the costs, the benefit
 
 ## Factors Influencing the Average Cost of Small Business Health Insurance
 
-According to a [2019 eHealth study](https://resources.ehealthinsurance.com/small-business/average-cost-group-health-insurance), the national average premium for small group health insurance was **\$409 per month for single coverage and \$1,102 for family coverage.** However, these figures can vary significantly depending on the factors mentioned above.
+According to a [2021 KFF study](https://www.kff.org/health-costs/report/2021-employer-health-benefits-survey/), the national average premium for small group health insurance was **\$651 per month for single coverage and \$1,817 for family coverage.** However, these figures can vary significantly depending on the factors mentioned above.
 
 The average cost of health insurance for small business owners can vary widely depending on several factors, including:
 
