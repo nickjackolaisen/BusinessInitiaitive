@@ -81,9 +81,7 @@ Despite the potential challenges, many family-owned businesses have become highl
 
 Family-owned businesses play a crucial role in the global economy, accounting for the majority of small businesses and a significant portion of large, successful companies. While there are unique benefits to operating a family-owned business, such as shared values and long-term perspectives, there are also potential challenges, including succession planning and conflict resolution. However, as demonstrated by the examples above, family-owned businesses can thrive and achieve tremendous success when managed effectively.
 
-In conclusion, family-owned businesses are an integral part of our economy and have the potential to achieve great success. 
-
-If you're considering starting or growing a family-owned business, [schedule a free consultation call](https://calendly.com/businessinitiative/30-minute-consultation-call) with us today!
+If you're considering starting or growing your own family-owned business, [schedule a free consultation call](https://calendly.com/businessinitiative/30-minute-consultation-call) with us today!
 
 Don't leave your business's future to chance...
 
