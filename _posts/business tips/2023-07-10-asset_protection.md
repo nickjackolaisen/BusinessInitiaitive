@@ -24,12 +24,15 @@ Protecting assets is necessary in various situations, including potential lawsui
 ## Major Business Assets and Why They Should Be Protected
 
 **1.  Tangible Assets**: Buildings, Land, Machinery, Equipment, and Inventory 
+
 Tangible assets are crucial for daily business operations and often represent a significant portion of a company's value. Protecting these assets can ensure business continuity and prevent financial losses from theft, damage, or other unforeseen events.
 
 **2.  Intangible Assets**: Intellectual Property, Trade Secrets, and Brand Reputation
+
 These are critical for a company's competitive edge and long-term success. Ensuring the proper protection of these assets can prevent loss of valuable information, safeguard proprietary technology, and maintain a positive brand image.
 
 **3.  Financial Assets**: Cash, Investments, and other Financial Instruments 
+
 Valuables like these are vital for a company's liquidity and overall financial health. Protecting these assets can help entrepreneurs maintain their companies' solvency, weather economic downturns, and plan for future growth.
 
 ## Common Situations Where Business Assets May Be at Risk
@@ -49,18 +52,23 @@ Divorce, bankruptcy, or other personal life events can put business assets at ri
 ## Best Practices for Business Owners to Protect Their Assets
 
 **1.  Separate Personal and Business Assets**: 
+
 Establishing a legal entity, such as a corporation or [limited liability company (LLC)](https://www.businessinitiative.org/what-does-llc-mean/), can create a clear separation between personal and business assets, protecting personal wealth from potential business liabilities.
 
 **2.  Obtain Adequate Insurance**: 
+
 Purchasing comprehensive insurance coverage, including general liability, property, and professional liability insurance, can protect business assets from potential losses due to theft, damage, or lawsuits.
 
 **3.  Safeguard Intellectual Property**: 
-Registering patents, trademarks, and copyrights can protect a company's intellectual property from potential infringement, ensuring the exclusive use and financial benefits of their creations.
+
+Registering patents, [trademarks](https://www.businessinitiative.org/dba-vs-llc/), and copyrights can protect a company's intellectual property from potential infringement, ensuring the exclusive use and financial benefits of their creations.
 
 **4.  Implement Strong Security Measures**: 
+
 Investing in robust physical and digital security systems, employee training, and a solid cybersecurity infrastructure can prevent theft, data breaches, and other security incidents that could jeopardize business assets.
 
 **5.  Establish an Asset Protection Trust**: 
+
 Creating an asset protection trust can provide an additional layer of defense for business and personal assets, shielding them from potential lawsuits and other threats.
 
 In conclusion, protecting your business assets is a crucial aspect of long-term success and financial security.
