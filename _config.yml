@@ -29,7 +29,7 @@ users:
   jack_nicholaisen:
     name: Jack Nicholaisen
     email: jack.nicholaisen@yahoo.com
-    web: http://twitter.com/BisInitiative
+    web: https://twitter.com/NeshamaJack
   firstname_lastname:
     name: First Last
     email: name@company.com
