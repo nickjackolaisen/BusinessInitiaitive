@@ -4,7 +4,7 @@ layout: post
 date: 2023-07-10
 author: jack_nicholaisen
 summary: Why are family-owned businesses so successful? Learn how you can apply these valuable lessons to your own entrepreneurial journey. By understanding the dynamics and advantages of family-run enterprises, you'll be better equipped to make informed decisions for your business and chart a path towards success.
-permalink: /stats/family-owned-businesses/
+permalink: /stats/small-businesses/family-owned-businesses/
 ---
 
 Running a family-owned business is a long-standing tradition in many cultures and economies. These businesses are often founded and managed by family members who share a common vision and passion for their enterprise. 
