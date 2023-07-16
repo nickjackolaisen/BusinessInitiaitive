@@ -80,6 +80,8 @@ A tax on goods imported from other countries.
 #### 15. Severance Tax: 
 A tax on the extraction of natural resources, such as oil and gas.
 
+<p><b>➤ Take Initiative: </b> <a href="https://www.businessinitiative.org/sole-proprietorship/examples/"> Start your very own Sole Proprietorship TODAY!</a></p>
+
 In conclusion, while the exact percentage of small businesses that pay taxes is challenging to determine, it's clear that the majority of small businesses do file their taxes on time. The percentage of small businesses that pay taxes varies depending on the industry, with some industries having higher average effective tax rates than others. Small businesses have to pay various types of taxes, and it's crucial to understand each one of them to avoid any penalties or fines.
 
 Are you feeling overwhelmed by the various types of taxes your small business has to pay? Don't worry; we're here to help! Take advantage of our tax resources, including guides on different types of taxes, business entities, and friendly expert advice. With our help, you'll be able to take the initiative and get ahead.  Don't wait until it's too late...

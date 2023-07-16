@@ -44,7 +44,7 @@ Take initiative today and start maximizing your tax savings with [businessinitia
 
 Sources:
 
--   [IRS Home Office Deduction](<-   https://www.irs.gov/businesses/small-businesses-self-employed/home-office-deduction>)
+-   [IRS Home Office Deduction](https://www.irs.gov/businesses/small-businesses-self-employed/home-office-deduction)
 -   [IRS Business Vehicle Deduction](https://www.irs.gov/taxtopics/tc510)
 -   [IRS Section 179 Deduction](https://www.irs.gov/publications/p946)
 -   [IRS Health Insurance Deduction](https://www.irs.gov/publications/p502)

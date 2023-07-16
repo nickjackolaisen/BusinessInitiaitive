@@ -305,7 +305,7 @@ You shouldn’t move all that remains into your personal account, only what you 
 
 Your personal budget includes goods and services you pay for on a daily, monthly, and yearly basis in addition to all of your savings and investments (BUY BITCOIN). 
 
-Cost-of-living expenses include things like food, rent/mortgage, utilities, education, insurance and healthcare, credit card payments, car payments, internet and phone, memberships, restaurants, and the list goes on. You get the idea. 
+Cost-of-living expenses include things like food, rent/mortgage, utilities, education, insurance and [healthcare](https://www.businessinitiative.org/lets-meet-the-bad-actors-of-healthcare-reform/), credit card payments, car payments, internet and phone, memberships, restaurants, and the list goes on. You get the idea. 
 
 When figuring out your budget you should first calculate non-discretionary expenses before your discretionary expenses. 
 

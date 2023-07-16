@@ -206,7 +206,7 @@ Most of your clientele are elderly so your main focus is on cooking, cleaning, h
 
 By taking care of elderly persons you could receive some serious compensation for your efforts. It may not be glorious but it pays. A lot.
 
-If you want to work in a low volatility environment and enjoy a near-constant flow of demand, you should think about getting into healthcare. 
+If you want to work in a low volatility environment and enjoy a near-constant flow of demand, you should think about getting into [healthcare](https://www.businessinitiative.org/lets-meet-the-bad-actors-of-healthcare-reform/). 
 
 ### 13. Babysitter or Daycare
 

@@ -28,7 +28,7 @@ The introduction of your operating agreement must include the name of your LLC, 
 
 ### Step 3: Define the Ownership Structure
 
-In this section, you should define the ownership structure of your LLC. This includes the percentage of ownership of each member and the capital contributions of each member. You should also include information about how profits and losses will be distributed among the members.
+In this section, you should define the ownership structure of your LLC. This includes the percentage of ownership of each member and the capital contributions of each member. You should also include information about how [profits and losses](https://www.businessinitiative.org/paying-yourself-llc/) will be distributed among the members.
 
 ### Step 4: Define the Management Structure
 

@@ -32,6 +32,8 @@ North Carolina has over **820,000 small businesses.** Some of the most popular s
 ### 10. Michigan
 Last but not least, Michigan has over **790,000 small businesses.** Some of the most popular small businesses in Michigan include automotive suppliers, craft breweries, and cherry orchards.
 
+<p><b>➤ Take Initiative: </b> <a href="https://www.businessinitiative.org/sole-proprietorship/examples/"> Start your very own Small Business TODAY!</a></p>
+
 In addition to the traditional small business models mentioned above, many states are also home to a variety of innovative and creative businesses. For instance, in California, tech startups are becoming increasingly popular, while in Texas, food trucks are becoming increasingly popular. In Florida, boat rental companies are becoming increasingly popular, while in New York, art galleries are becoming increasingly popular. These unique and creative businesses are helping to drive economic growth across the United States.
 
 Overall, the 10 states listed above offer a diverse array of small business opportunities and continue to drive economic growth in the United States. 

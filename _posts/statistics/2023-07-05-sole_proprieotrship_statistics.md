@@ -175,6 +175,8 @@ This type of business doesn’t separate between the business and it’s owner. 
     
 ####  3. Total Control
 Since the owner is viewed as the business from a legal standpoint, they have full control over every aspect of the business. All decisions are made by the sole proprietor. However, this is a bit of a double edged sword. On the one hand the owner gets all the credit and praise when things are going well and business is booming. On the flip side, the owner is at fault should the business take any losses or make mistakes. 
+
+<p><b>➤ Take Initiative: </b> <a href="https://www.businessinitiative.org/sole-proprietorship/examples/"> Start your very own Sole Proprietorship TODAY!</a></p>
     
 ####  4. Informal Business Structure
 As the simplest business entity, Sole Proprietorships are not registered with the state. All it takes to [start one](https://www.businessinitiative.org/sole-proprietorship/examples/) is to make money providing a service or product under your legal name. This gets you out of having to file paperwork with your local government and pay registration, filing fees, and annual maintenance costs. All of which have to be done when operating an LLC or Corporation. 

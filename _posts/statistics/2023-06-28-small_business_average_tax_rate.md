@@ -19,7 +19,7 @@ The industries that pay the most in taxes are typically those that require large
 As mentioned, the construction industry has the highest **average tax rate of 22.8%.** This is due to the high costs of equipment and labor, which are not deductible.
 
 #### 2.  Healthcare:
-The healthcare industry also has a high **average tax rate of 21.5%.** This is due to the high costs of medical equipment and supplies.
+The [healthcare industry](https://www.businessinitiative.org/lets-meet-the-bad-actors-of-healthcare-reform/) also has a high **average tax rate of 21.5%.** This is due to the high costs of medical equipment and supplies.
 
 #### 3.  Manufacturing:
 The manufacturing industry has an **average tax rate of 20.9%.** This is due to the high costs of raw materials and labor.
