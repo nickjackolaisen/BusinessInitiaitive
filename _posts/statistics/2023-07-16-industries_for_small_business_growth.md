@@ -57,7 +57,7 @@ The global online education market is projected to reach [**\$319.2 billion by 2
 
 ### 12. Cybersecurity -
 
-The global cybersecurity sector grew from \$152.71 billion in 2018 to [\*\*\$248.26 billion in 2023. \*\*](https://cybersecurityventures.com/cybersecurity-market-report/)This industry is expected to continue its growth at a [**CAGR of 12.5%**](https://www.grandviewresearch.com/industry-analysis/cyber-security-market) from 2021 to 2028, reaching a market size of [**\$345.4 billion by 2028**](https://www.grandviewresearch.com/industry-analysis/cyber-security-market).
+The global cybersecurity sector grew from \$152.71 billion in 2018 to [**\$248.26 billion in 2023.**](https://cybersecurityventures.com/cybersecurity-market-report/)This industry is expected to continue its growth at a [**CAGR of 12.5%**](https://www.grandviewresearch.com/industry-analysis/cyber-security-market) from 2021 to 2028, reaching a market size of [**\$345.4 billion by 2028**](https://www.grandviewresearch.com/industry-analysis/cyber-security-market).
 
 ### 13. Robotics and Automation -
 
