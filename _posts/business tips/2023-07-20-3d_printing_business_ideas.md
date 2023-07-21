@@ -133,6 +133,7 @@ Offering custom 3D printed fashion accessories can help businesses stand out fro
 
 [Shapeways](https://www.shapeways.com/)
 <a id="2">
+
 [Tinkercad](https://www.tinkercad.com/)
 
 [Etsy](https://www.etsy.com/)
@@ -180,9 +181,10 @@ Rapid prototyping and production times enable businesses to bring products to ma
 #### -  Sustainability:
     
 3D printing produces less waste than traditional manufacturing methods, making it an environmentally friendly option.
+<a id="3">
 
 ### **Take Initiative**
-<a id="3">
+
 [Ultimaker: How to start a 3D printing business](https://ultimaker.com/learn/how-to-start-a-3d-printing-business)
 
 [3D Hubs: On-demand manufacturing guide](https://www.3dhubs.com/guides/3d-printing/)
@@ -258,6 +260,7 @@ As a specialized business, replacement parts production can command higher profi
 [Sculpteo Replacement Parts Service](https://www.sculpteo.com/en/applications/replacement-parts/)
 
 [3D Hubs - Guide to 3D Printing Technologies](https://www.3dhubs.com/guides/3d-printing/)
+<a id="4">
 
 [Sculpteo - 3D Printing Materials Guide](https://www.sculpteo.com/en/materials/)
 
@@ -269,7 +272,7 @@ As a specialized business, replacement parts production can command higher profi
 
 [3DPrint.com - 3D Printing News and Industry Insights](https://3dprint.com/)
 
-## <a id="#4. Educational Workshops on 3D Printing Technologies">4. Educational Workshops on 3D Printing Technologies</a>
+## 4. Educational Workshops on 3D Printing Technologies
 
 Educational workshops on 3D printing technologies provide hands-on training for schools, businesses, and individuals, covering design, materials, and applications. By introducing 3D printing across various industries, these workshops bridge the knowledge gap and inspire innovation. Offering classes on 3D printing, CAD software, and design principles can be a lucrative business opportunity, meeting the growing demand for skilled professionals while generating revenue.
 
