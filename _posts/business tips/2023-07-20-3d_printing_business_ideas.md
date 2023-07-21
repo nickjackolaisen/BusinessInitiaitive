@@ -74,8 +74,9 @@ With such promising prospects on the horizon, there's never been a better time f
 
 **<a href="#27. Special Event Decorations">27. Special Event Decorations</a>**
 
+<a id="clothes">
 
-## <a id="clothes"> 1. Custom 3D Printed Clothing & Wearable Art
+## 1. Custom 3D Printed Clothing & Wearable Art
 
 
 Custom 3D printed fashion accessories is a business idea that focuses on offering unique and customizable fashion items such as belts, bags, or eyewear using 3D printing technology. This business aims to cater to customers with a taste for distinctive style and those who value personalization and exclusivity in their fashion choices.
