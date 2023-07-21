@@ -63,18 +63,16 @@ With such promising prospects on the horizon, there's never been a better time f
 **<a href="#21">21. Custom Cookie Cutters and Baking Tools</a>**
 
 **<a href="#22">22. Integrate VR/AR Technologies with 3D Printing</a>**
-
+<a id="1">
 **<a href="#23">23. Customized Protective Cases for Electronics</a>**
 
 **<a href="#24">24. Personalized Gifts and Souvenirs</a>**
-<a id="1">
+
 **<a href="#25">25. Adaptive Clothing Solutions</a>**
 
 **<a href="#26">26. Bicycle Customization Services</a>**
 
 **<a href="#27">27. Special Event Decorations</a>**
-
-
 
 ## 1. Custom 3D Printed Clothing & Wearable Art
 
@@ -134,7 +132,7 @@ Offering custom 3D printed fashion accessories can help businesses stand out fro
 [The Future of Fashion Accessories with 3D Printing](https://i.materialise.com/en/blog/the-future-of-fashion-accessories-with-3d-printing)
 
 [Shapeways](https://www.shapeways.com/)
-
+<a id="2">
 [Tinkercad](https://www.tinkercad.com/)
 
 [Etsy](https://www.etsy.com/)
@@ -142,8 +140,6 @@ Offering custom 3D printed fashion accessories can help businesses stand out fro
 [3D Printing Industry](https://3dprintingindustry.com/)
 
 [MatterHackers](https://www.matterhackers.com/)
-
-<a id="2">
 
 ## 2. On-Demand Product Manufacturing
 
@@ -186,7 +182,7 @@ Rapid prototyping and production times enable businesses to bring products to ma
 3D printing produces less waste than traditional manufacturing methods, making it an environmentally friendly option.
 
 ### **Take Initiative**
-
+<a id="3">
 [Ultimaker: How to start a 3D printing business](https://ultimaker.com/learn/how-to-start-a-3d-printing-business)
 
 [3D Hubs: On-demand manufacturing guide](https://www.3dhubs.com/guides/3d-printing/)
@@ -194,8 +190,6 @@ Rapid prototyping and production times enable businesses to bring products to ma
 [Sculpteo: 3D printing services](https://www.sculpteo.com/en/)
 
 [Shapeways: 3D printing marketplace](https://www.shapeways.com/)
-
-<a id="3">
 
 ## 3. Replacement Parts Production
 
