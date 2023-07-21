@@ -20,7 +20,7 @@ In fact, according to a report by [MarketsandMarkets](https://www.marketsandmark
 With such promising prospects on the horizon, there's never been a better time for businesses to explore the possibilities that 3D printing can offer. This article will provide you with several exciting business ideas centered around this cutting-edge technology that you can use today to tap into its immense potential.
 
 
-**<a href="#1. Custom 3D Printed Clothing & Wearable Art">1. Custom 3D Printed Clothing & Wearable Art</a>**
+**<a href="#1">1. Custom 3D Printed Clothing & Wearable Art</a>**
 
 **<a href="#2.On-Demand Product Manufacturing">2. On-Demand Product Manufacturing</a>**
 
@@ -75,9 +75,11 @@ With such promising prospects on the horizon, there's never been a better time f
 **<a href="#27. Special Event Decorations">27. Special Event Decorations</a>**
 
 
-## <a id="#1. Custom 3D Printed Clothing & Wearable Art"> 1. Custom 3D Printed Clothing & Wearable Art </a>
+## 1. Custom 3D Printed Clothing & Wearable Art
 
+<a id="#1">
 Custom 3D printed fashion accessories is a business idea that focuses on offering unique and customizable fashion items such as belts, bags, or eyewear using 3D printing technology. This business aims to cater to customers with a taste for distinctive style and those who value personalization and exclusivity in their fashion choices.
+</a>
 
 ###  Key Steps to Success:
 
