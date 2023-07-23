@@ -23,6 +23,8 @@ It's worth noting that the percentage of small businesses that pay taxes varies 
 2.  Wholesale Trade: Businesses in the wholesale industry pay an average effective tax rate of **19.9%**
 3.  Retail Trade: Small businessses in this industry pay an average effective tax rate of **19.4%**
 
+<p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/stats/small-businesses/average-tax-rate/">Click here to see which industry pays HIGHER tax than Manufacturing!</a></p>
+
 ## Which industries do small businesses pay the LEAST in taxes?
 
 On the other hand, here are the three industries where small businesses pay the least in taxes on average:
@@ -34,6 +36,9 @@ On the other hand, here are the three industries where small businesses pay the 
 ## What are the most common taxes a small business pays?
 
 Small businesses have to pay various types of taxes, and it's crucial to understand each one of them. Here is a quick breakdown of **the 15 most common taxes small businesses pay**:
+
+
+<p><b>➤ SAVE: </b> <a href="https://www.businessinitiative.org/stats/small-businesses/tax-deductions/">7 Quick tax deductions you can benefit from TODAY!</a></p>
 
 #### 1.  Income Tax: 
 A tax on a business's the profits.

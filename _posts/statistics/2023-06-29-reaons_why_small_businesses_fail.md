@@ -24,6 +24,9 @@ Sometimes entrepreneurs create a product or service that has no market need. Thi
 ### 6.  Legal issues:
 Ignoring legal requirements can lead to costly fines and legal battles. To avoid this, entrepreneurs should research and comply with all legal requirements for their industry.
 
+<p><b>➤ LEARN: </b> <a href="https://www.businessinitiative.org/stats/small-businesses/reasons-why-businesses-fail/"> Avoid these common pitfalls - and MORE!</a></p>
+
+
 To increase the likelihood of small business success, entrepreneurs should take the following measures:
 
 1.  Create a solid plan that outlines your business goals, finances, and marketing strategies.
@@ -32,7 +35,7 @@ To increase the likelihood of small business success, entrepreneurs should take 
 4.  Conduct thorough market research to ensure there is a demand for your product or service.
 5.  Comply with all legal requirements and standards of your industry.
 
-Are you ready to take the leap and start your own small business?
+Are you ready to finally start your own small business?
 
 <p>
 <b>➤ Need personalized assistance? </b> <!-- Calendly link widget begin --> <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet"><script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>

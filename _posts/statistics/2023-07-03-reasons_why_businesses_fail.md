@@ -15,6 +15,8 @@ By being aware of these risks, business owners can take proactive steps to overc
 
 One of the most common reasons for small business failure is a lack of adequate capital. Without sufficient funds, businesses can't cover their expenses, invest in growth, or weather financial storms.
 
+<p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/stats/small-business-failure-rate/"> How many businesses FAIL within their first year?</a></p>
+
 ### Preventative Measures:
 
 -   Create a detailed financial plan that includes realistic estimates of start-up costs, ongoing expenses, and projected revenue.

@@ -172,6 +172,8 @@ It’s cliche and overused because it’s TRUE. 
 
 Starting a business can be challenging at times. When the company is a Partnership, you aren't stuck doing every little thing yourself. Instead, you and your partners support one another. 
 
+<p><b>➤ PREVENT: </b> <a href="https://www.businessinitiative.org/stats/small-businesses/reasons-why-businesses-fail/">The WORST challenges businesses encounter!</a></p>
+
 When a big project is on the table, it can be divided and delegated based on a Partner’s skills and current workload.
 
 ### Common Vision

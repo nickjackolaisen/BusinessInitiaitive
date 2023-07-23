@@ -32,6 +32,8 @@ Hiring employees and training them can take several weeks or even months, depend
 ### 7.  [Launch Your Business!](https://www.businessinitiative.org/contact/)
 Starting a business can be a challenging and lengthy process. It requires patience and perseverance to overcome obstacles and achieve success.
 
+<p><b>➤ CAUTION: </b> <a href="https://www.businessinitiative.org/stats/small-businesses/reasons-why-businesses-fail/"> The biggest challenges causing new businesses to FAIL!</a></p>
+
 Overall, starting a business can take anywhere from a few months to over a year, depending on the complexity of the venture and your diligence. It is important to remember that these timeframes are just estimates and the actual amount of time it takes to start a business can vary significantly.
 
 Just know, that just because you may have started the business, it doesn't mean it will necessarily be profitable right off the bat. It is essential to plan ahead and be prepared for the unexpected.
