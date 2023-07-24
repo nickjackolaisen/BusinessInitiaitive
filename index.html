@@ -20,9 +20,8 @@ layout: default
           <img src="{{ post.image | relative_url }}" alt="" class="thumbnail" style="width: 10%; height: 10%">
             {% elseif %}
              { assign postImage = "/images/business-initiative-3.png" }
-              <img src="{{ post.image | relative_url }}" alt="" class="thumbnail" style="width: 10%; height: 10%">
+              <img src="{{ postImage | relative_url }}" alt="" class="thumbnail" style="width: 10%; height: 10%">
           {% endif %}
-
           <span class="post-summary">
             {% if post.summary %}
               {{ post.summary }}
