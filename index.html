@@ -15,13 +15,13 @@ layout: default
 	      {{ post.date | date: "%b %-d, %Y" }}
 	    {% endif %}
 	  </p>
-          <a href="{{ post.url | relative_url }}" class="post-link"><h3 class="h1 post-title">{{ post.title }}</h3></a>
           {% if post.image %}
-          <img src="{{ post.image | relative_url }}" alt="" class="thumbnail" style="width: 10%; height: 10%">
+          <img src="{{ post.image | relative_url }}" alt="" class="blog-roll" style="width: 10%; height: 10%">
             {% elseif %}
-             { assign postImage = "/images/business-initiative-3.png" }
-              <img src="{{ postImage | relative_url }}" alt="" class="thumbnail" style="width: 10%; height: 10%">
+             { assign postImage = "/images/business-initiative-article-header.png" }
+              <img src="{{ postImage | relative_url }}" alt="" class="blog-roll" style="width: 10%; height: 10%">
           {% endif %}
+          <a href="{{ post.url | relative_url }}" class="post-link"><h3 class="h1 post-title">{{ post.title }}</h3></a>
           <span class="post-summary">
             {% if post.summary %}
               {{ post.summary }}
