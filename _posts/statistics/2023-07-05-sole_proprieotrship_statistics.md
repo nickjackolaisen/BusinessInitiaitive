@@ -7,9 +7,11 @@ summary: Find answers to the most popular FAQs about Sole Proprietorship busines
 permalink: /stats/sole-proprietorship-statistics/
 ---
 
-## What percentage of United States businesses are Sole Proprietorships?
-  
-According to the 2020 US Census from 2020, there were 826,915 Sole Proprietorship type business establishments in the United States. Compare this to the total 8,000,178 Business establishments in the US. 
+## What is the number of Sole Proprietorships in the United States?
+
+According to the 2020 US Census from 2020, there were **826,915 Sole Proprietorships in the US**. Compare this to the total 8,000,178 Business establishments in the US. 
+
+## What percentage of businesses are Sole Proprietorships?
 
 Based on this, **10.34% of US Businesses are Sole Proprietorships.**
 
