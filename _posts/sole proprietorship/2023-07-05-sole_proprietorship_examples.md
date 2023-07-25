@@ -15,7 +15,7 @@ All the examples in our list have one thing in common:
 
 *The ability to scale and grow the business over time.*
 
-Check out the following list of Sole Proprietorships and think about how you can achieve financial independence using one of them.
+Check out the following list of successful Sole Proprietorship examples and think about how YOU can achieve financial independence using one (or more) of them.
 
 #### 1.  Freelance Writer
 #### 2.  Catering Service
@@ -64,7 +64,7 @@ By seeing some of the successful Sole Proprietorships in use today, you’ll get
 
 *Who knows where it may lead you?* 
 
-Continue reading to see the popular Sole Proprietorships that entrepreneurs and side-hustlers are using today:
+Continue reading to see the Sole Proprietorships famous entrepreneurs and side-hustlers are using today:
 
 ## Sole Proprietorship Examples
 
@@ -282,7 +282,7 @@ Here’s the most technical definition of a Sole proprietorship we could find:
 
 _An unincorporated business with one owner who is fully liable and receives all the profits._
 
-The rest of this article is a breakdown of the different aspects that make up a Sole Proprietorships.
+Now that you are familiar with this list of successful sole proprietorship businesses, the rest of this article is a breakdown of the different aspects that make Sole Proprietorships powerfully unique.
 
 A Sole Proprietorship is the simplest business entity you can run because there is no registration process or special tax regulations. In fact, it’s not really a business entity at all.
 
