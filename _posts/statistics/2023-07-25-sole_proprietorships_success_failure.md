@@ -1,5 +1,5 @@
 ---
-title: "Sole Proprietorships: A Statistical Analysis of Success and Failure Rates"
+title: "Sole Proprietorships - A Statistical Analysis of Success and Failure Rates"
 layout: post
 date: 2023-07-25
 author: jack_nicholaisen

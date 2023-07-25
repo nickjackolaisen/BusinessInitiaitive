@@ -1,5 +1,5 @@
 ---
-title: "The Rise of LLCs: A Statistical Overview"
+title: "The Rise of LLCs - A Statistical Overview"
 layout: post
 date: 2023-07-25
 author: jack_nicholaisen
