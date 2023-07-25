@@ -4,7 +4,7 @@ title: "What Does LLC Mean and How Do They Work?"
 date: 2023-07-03
 author: jack_nicholaisen
 summary: LLC stands for Limited Liability Company. Read this to find out how you can use one to fast-track your success.
-  
+tags: what llc mean, what do llc means, what does being an llc mean	 
 permalink: /what-does-llc-mean/
 ---
 
@@ -38,7 +38,7 @@ Another huge reason why someone chooses an LLC over any other entity is the lega
 
 LLCs may not have as much protection as an S- or a C- Corp entity for example, but it’s sure better than no protection at all. Plus, it’s a lot simpler than these other business types. You won't lose the option of becoming a Corporation in the future, but in the meantime, you’re probably better off starting as an LLC.
 
-## How Does an LLC Protect You?
+## What is an LLC and how does it work to protect you?
 
 LLCs give owners personal liability protection. This is the whole reason why they are called Limited Liability Companies in the first place. 
 
