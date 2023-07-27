@@ -32,16 +32,12 @@ layout: default
   {% include share_buttons.html %}
   {% endif %}
   </span>
-  <figure>
-    <center>
   {% if page.image %}
   <img src="{{ page.image | relative.url }}" alt="" class="featured-image-post">
   {% else %}
     {% assign postImage = "/images/business-initiative-article-header.png" %}
       <img src="{{ postImage | relative.url}}" alt="" class="featured-image-post" style="height: 75%">
   {% endif %}
-    </center>
-  </figure>
 </div>
 
 <article class="post-content">
