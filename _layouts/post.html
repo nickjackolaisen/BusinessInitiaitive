@@ -8,7 +8,7 @@ layout: default
 {% endif %}
 
 <div class="post-header mb2">
-  <img src="/images/business-initiative-post-header.png" alt="" class="header-image-post">
+  <img src="/images/business-initiative-banner.png" alt="" class="header-image-post" style="height: 20%; width: 50%">
   <h1>{{ page.title }}</h1>
   <span class="post-meta post-date">{{ page.date | date: site.date_format }}</span>
   {% if page.update_date %}
@@ -40,8 +40,10 @@ layout: default
   <img src="{{ page.image | relative.url }}" alt="" class="featured-image-post">
   {% else %}
     {% assign postImage = "/images/business-initiative-logo-no-background.png" %}
-      <img src="{{ postImage | relative.url}}" alt="" class="featured-image-post" style="width: 10%; height: 10%" align="center">
-  {% endif %}
+    <a href="https://www.businessinitiative.org/">
+      <img src="{{ postImage | relative.url}}" alt="home" class="featured-image-post" style="width: 20%; height: 20%" align="center">
+    </a>
+      {% endif %}
   </center>
 </figure>
 
@@ -52,6 +54,14 @@ layout: default
 {% if site.show_sharing_icons %}
   {% include share_buttons.html %}
 {% endif %}
+
+<figure>
+  <center>
+    <a href="https://www.businessinitiative.org/">
+      <img src="/images/business-initiative-logo-no-background.png" alt="home" class="featured-image-post" style="width: 20%; height: 20%" align="center">
+    </a>
+    </center>
+</figure>
 
 {% if site.show_post_footers %}
   {% include post_footer.html %}
