@@ -8,7 +8,7 @@ layout: default
 {% endif %}
 
 <div class="post-header mb2">
-  <img src="/images/business-initiative-article-header.png" alt="" class="header-image-post">
+  <img src="/images/business-initiative-post-header.png" alt="" class="header-image-post">
   <h1>{{ page.title }}</h1>
   <span class="post-meta post-date">{{ page.date | date: site.date_format }}</span>
   {% if page.update_date %}
@@ -35,7 +35,7 @@ layout: default
   {% if page.image %}
   <img src="{{ page.image | relative.url }}" alt="" class="featured-image-post">
   {% else %}
-    {% assign postImage = "/images/business-initiative-article-header.png" %}
+    {% assign postImage = "/images/business-initiative-logo-no-background.png" %}
       <img src="{{ postImage | relative.url}}" alt="" class="featured-image-post" style="height: 75%">
   {% endif %}
 </div>
