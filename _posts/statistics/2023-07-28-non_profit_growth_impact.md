@@ -1,5 +1,5 @@
 ---
-title: "Non-Profit Organizations in 2023: Growth and Impact"
+title: "Non-Profit Organizations in 2023 - Growth and Impact"
 layout: post
 date: 2023-06-29
 author: jack_nicholaisen
