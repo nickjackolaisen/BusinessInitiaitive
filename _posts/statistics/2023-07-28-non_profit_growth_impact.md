@@ -1,7 +1,7 @@
 ---
 title: "Non-Profit Organizations in 2023 - Growth and Impact"
 layout: post
-date: 2023-06-29
+date: 2023-07-29
 author: jack_nicholaisen
 summary: "Discover the world of non-profit organizations and their growth in various sectors, backed by data and statistics. Uncover success factors, challenges, and opportunities for those considering entering the non-profit arena. Dive in and let us guide you through this fascinating world of social change and impact!"
 image: /images/posts/non-profit-growth.png
