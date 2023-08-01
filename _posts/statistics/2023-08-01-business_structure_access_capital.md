@@ -47,19 +47,19 @@ According to the [2014 SBA report](https://www.sba.gov/sites/default/files/rs385
 
 Several factors can influence a business's access to capital, regardless of its structure. These include:
 
-1.  **Creditworthiness**: 
+**1.  Creditworthiness**: 
 
 A strong credit history can significantly improve a business's chances of securing loans and investments. Lenders and investors are more likely to provide funding to businesses that exhibit financial responsibility and a history of repaying debts.
 
-2.  **Collateral**: 
+**2.  Collateral**: 
 
 Providing collateral, such as real estate or equipment, can increase a business's access to capital by reducing the risk for lenders and investors.
 
-3.  **Industry**: 
+**3.  Industry**: 
 
 Some industries are considered riskier than others, making it more difficult for businesses within those sectors to secure funding. For example, a [2017 study by the Federal Reserve](https://www.fedsmallbusiness.org/medialibrary/fedsmallbusiness/files/2017/sbcs-employer-firms-report.pdf) found that **businesses in the construction and manufacturing sectors were more likely to receive bank loans than those in the retail or service sectors**.
 
-4.  **Business Size**: 
+**4.  Business Size**: 
 
 Larger businesses often have increased access to capital, as they are typically considered more stable and less risky than smaller enterprises.
 
@@ -67,15 +67,15 @@ Larger businesses often have increased access to capital, as they are typically 
 
 As mentioned earlier, the industry in which a business operates can significantly impact its access to capital. Here are some trends observed in various sectors:
 
-1.  **Technology**: 
+**1.  Technology**: 
 
 Startups and businesses in the technology sector often have access to venture capital funding, which can be a significant source of capital for these enterprises. According to a [2020 report by PwC and CB Insights](https://www.pwc.com/us/en/moneytree-report/moneytree.html), technology companies received **$130 billion in venture capital funding** in 2019.
 
-2.  **Healthcare**: 
+**2.  Healthcare**: 
 
 Healthcare businesses may also benefit from venture capital funding, with the same [2020 PwC and CB Insights report](https://www.pwc.com/us/en/moneytree-report/moneytree.html) indicating that healthcare companies received **$36.5 billion in venture capital investments** in 2019.
 
-3.  **Retail**: 
+**3.  Retail**: 
 
 Retail businesses often face challenges in securing funding, as they are generally considered riskier investments. The [2017 Federal Reserve study](https://www.fedsmallbusiness.org/medialibrary/fedsmallbusiness/files/2017/sbcs-employer-firms-report.pdf) found that only **45% of retail businesses received financing, compared to 63% of manufacturing businesses**.
 
