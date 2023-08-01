@@ -20,8 +20,7 @@ Let's get it!
 It's important to recognize that the United States is a vast and diverse country, with each region boasting its own unique business landscape. Some regions are known for their thriving tech industries, while others are hubs for manufacturing or agriculture. As such, the types of business structures commonly found in each region can differ significantly.
 
 <center>
-<img alt="Largest Industries United States" src="/images/posts-content/largest-industry-by-state.png">
-Courtesy <a href="https://howmuch.net/articles/the-largest-industry-in-each-state-by-gdp">Howmuch.net</a>
+<img alt="Largest Industries United States" src="/images/posts-content/largest-industry-by-state.png"> Largest Industry in Each State by GDP (Courtesy<a href="https://howmuch.net/articles/the-largest-industry-in-each-state-by-gdp">Howmuch.net</a>)
 </center>
 
 For example, the West Coast, particularly in states like California and Washington, is known for its thriving tech industry. These states are home to a high number of corporations, specifically C-corporations and S-corporations, due to the presence of large tech companies like Apple, Google, and Microsoft ([source](https://www.uschamber.com/)).

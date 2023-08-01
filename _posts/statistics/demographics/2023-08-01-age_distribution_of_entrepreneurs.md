@@ -56,15 +56,15 @@ The age distribution of business owners can also be influenced by industry trend
 
 Older individuals may be less likely to adopt new technologies, which can impact their ability to compete in industries that rely heavily on technology. Younger entrepreneurs may have an advantage in these industries due to their familiarity with emerging technologies.
 
-**7.  Networking opportunities**: 
+**7.  Networking opportunities**
 
 Networking is a crucial aspect of entrepreneurship, and the age at which individuals are able to establish strong networks can impact their success as business owners. Younger entrepreneurs may have more opportunities to network through educational institutions or social events, while older individuals may have established professional networks from previous work experience.
 
-**8.  Access to capital**: 
+**8.  Access to capital**
 
 Access to funding can be a significant barrier for entrepreneurs of all ages, but it may be particularly challenging for younger individuals who have not yet built up a credit history or established financial stability. On the other hand, older individuals may face age-based discrimination when seeking funding from investors or lenders.
 
-**9.  Retirement goals**: 
+**9.  Retirement goals**
 
 Older entrepreneurs may choose to start businesses as a way to supplement their retirement income or pursue a passion project after leaving their primary career. This can impact the types of businesses they choose to start and their level of commitment compared to younger entrepreneurs who are building careers from scratch.
 
