@@ -1,7 +1,7 @@
 ---
 title: "What Percentage of Small Businesses are Family-Owned?"
 layout: post
-date: 2023-07-10
+date: 2023-08-01
 author: jack_nicholaisen
 summary: Why are family-owned businesses so successful? Learn how you can apply these valuable lessons to your own entrepreneurial journey. By understanding the dynamics and advantages of family-run enterprises, you'll be better equipped to make informed decisions for your business and chart a path towards success.
 permalink: /stats/small-businesses/family-owned-businesses/
