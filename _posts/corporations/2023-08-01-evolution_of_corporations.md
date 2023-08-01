@@ -1,7 +1,7 @@
 ---
 title: "The Evolution of Corporate Structures - From Sole Proprietorships to Multinationals"
 layout: post
-date: 2023-07-31
+date: 2023-08-01
 author: jack_nicholaisen
 summary: "Discover the fascinating journey of corporate structures, from humble sole proprietorships to multinational giants! Take a deep dive into the historical development and significance of various business models for modern entrepreneurs. Don't miss the opportunity to learn practical lessons, tips, and tricks for choosing the right corporate structure for your business. Read on to gain an edge in today's competitive world!"
 permalink: /corporations/heirachy-and-evolution/
