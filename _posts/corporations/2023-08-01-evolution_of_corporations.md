@@ -1,5 +1,5 @@
 ---
-title: "The Evolution of Corporate Structures: From Sole Proprietorships to Multinationals"
+title: "The Evolution of Corporate Structures - From Sole Proprietorships to Multinationals"
 layout: post
 date: 2023-08-01
 author: jack_nicholaisen
