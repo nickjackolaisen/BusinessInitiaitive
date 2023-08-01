@@ -4,7 +4,7 @@ layout: post
 date: 2023-08-01
 author: jack_nicholaisen
 summary: "Are you an entrepreneur or business owner looking to optimize your company's financial performance? Discover the secrets to minimizing tax liabilities while staying compliant in this comprehensive guide. Don't let taxes hold your business back – read on to unlock your company's full potential!"
-permalink: /corporations/heirachy-and-evolution/
+permalink: /corporations/tax-strategies/
 ---
 
 In today's competitive business landscape, entrepreneurs and business owners are constantly seeking ways to improve their company's financial performance. One critical aspect often overlooked is effectively managing corporate taxation and minimizing tax liabilities. 
