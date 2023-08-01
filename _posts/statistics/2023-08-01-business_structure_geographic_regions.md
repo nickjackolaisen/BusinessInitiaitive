@@ -19,6 +19,9 @@ Let's get it!
 
 It's important to recognize that the United States is a vast and diverse country, with each region boasting its own unique business landscape. Some regions are known for their thriving tech industries, while others are hubs for manufacturing or agriculture. As such, the types of business structures commonly found in each region can differ significantly.
 
+<img alt="Largest Industries United States" src="/images/posts-content/largest-industry-by-state.png">
+Courtesy <a href="https://howmuch.net/articles/the-largest-industry-in-each-state-by-gdp">Howmuch.net</a>
+
 For example, the West Coast, particularly in states like California and Washington, is known for its thriving tech industry. These states are home to a high number of corporations, specifically C-corporations and S-corporations, due to the presence of large tech companies like Apple, Google, and Microsoft ([source](https://www.uschamber.com/)).
 
 On the other hand, the Midwest is known for its strong manufacturing and agricultural base. As a result, many businesses in this region are structured as partnerships or sole proprietorships, which allow for more flexibility and a simpler management structure ([source](https://www.inc.com/)).

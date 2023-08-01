@@ -4,7 +4,7 @@ layout: post
 date: 2023-07-29
 author: jack_nicholaisen
 summary: "Discover the world of non-profit organizations and their growth in various sectors, backed by data and statistics. Uncover success factors, challenges, and opportunities for those considering entering the non-profit arena. Dive in and let us guide you through this fascinating world of social change and impact!"
-image: /images/posts/non-profit-growth.png
+image: /images/posts-headers/non-profit-growth.png
 permalink: /stats/non-profit-growth-impact/
 ---
 

@@ -4,7 +4,7 @@ layout: post
 date: 2023-07-24
 author: jack_nicholaisen
 summary: "Discover the secrets of leveraging AI to revolutionize your business and catapult it towards success! This article is a must-read for ambitious entrepreneurs and aspiring business owners looking to stay ahead of the curve. Don't miss out on these game-changing strategies – dive in, absorb the knowledge, and apply these transformative ideas today!"
-image: /images/posts/ai-business.png
+image: /images/posts-headers/ai-business.png
 permalink: /business-tips/ai-business-ideas/
 ---
 
@@ -604,7 +604,7 @@ Offering unique VR experiences can differentiate your business from competitors 
 
 ### **Tools to Take Initiative**
 
-[Unity](https://unity.com/solutions/virtual-reality)
+[Unity](https://unity.com/solutions/vr)
 
 [Oculus for Business](https://business.oculus.com/)
 
@@ -678,7 +678,7 @@ Accurate inventory management can ensure products are available when customers n
 
 [EazyStock](https://www.eazystock.com/)
 
-[Smart Inventory System](https://www.smart-inventory-system.com/)
+[Smart Inventory System](https://www.scnsoft.com/blog/smart-inventory-system)
 
 ## 19. Machine learning-assisted design
 
