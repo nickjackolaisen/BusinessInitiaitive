@@ -21,7 +21,7 @@ To understand the age distribution of entrepreneurs, we need to examine data fro
 
 According to a recent [study](https://www.inc.com/jeff-haden/the-most-successful-entrepreneurs-are-older-than-you-think-new-study-says.html) conducted by the Kauffman Foundation, **the average age of a successful entrepreneur is 42**, with the highest likelihood of success belonging to those in their 40s and 50s.
 
-<img alt="Age Distribution of Entrepreneurs" src="/images/posts-content/age-distribution-entreprenures.png">
+<img alt="Age Distribution of Entrepreneurs" src="/images/posts-content/age-distribution-entreprenurs.png">
 <a href="https://www.census.gov/library/visualizations/2020/comm/business-owners-ages.html">Based on the U.S. Censis Bureau's 2019 Annual Business Survey</a>
 
 However, the age distribution varies significantly across different industries and business structures. For example, the tech industry tends to have younger entrepreneurs, with the founders of successful companies like Facebook and Snapchat being in their early 20s at the time of their launch.
@@ -32,39 +32,39 @@ On the other hand, industries like retail, healthcare, and professional services
 
 There are various factors that influence the age distribution of entrepreneurs, including:
 
-1.  **Experience**: 
+**1.  Experience** 
 
 Older entrepreneurs typically have more work experience, which can be valuable in starting and running a business. This experience can lead to a better understanding of the market, stronger networks, and more developed skill sets.
 
-2.  **Financial stability**: 
+**2.  Financial stability** 
 
 Older individuals often have more financial stability, allowing them to take on the risks associated with starting a business. They may have accumulated savings, investments, or other assets that can be used to finance their ventures.
 
-3.  **Family responsibilities**: 
+ **3. Family responsibilities**
 
 Younger entrepreneurs may have fewer family responsibilities, making it easier for them to dedicate time and resources to starting a business. Older entrepreneurs may have children or other dependents, which can impact their ability to commit fully to their business.
 
-4.  **Risk tolerance**: 
+**4.  Risk tolerance**
 
 Age can also play a role in an individual's willingness to take risks. Younger entrepreneurs may be more willing to take on the uncertainty of starting a business, while older individuals may be more risk-averse due to their financial and family obligations.
 
-5.  **Industry trends**: 
+**5.  Industry trends**
 
 The age distribution of business owners can also be influenced by industry trends and changes. For example, the rise of e-commerce has made it easier for entrepreneurs of all ages to start online businesses, leading to an increase in younger business owners.
 
-6.  **Technology adoption**: 
+**6.  Technology adoption** 
 
 Older individuals may be less likely to adopt new technologies, which can impact their ability to compete in industries that rely heavily on technology. Younger entrepreneurs may have an advantage in these industries due to their familiarity with emerging technologies.
 
-7.  **Networking opportunities**: 
+**7.  Networking opportunities**: 
 
 Networking is a crucial aspect of entrepreneurship, and the age at which individuals are able to establish strong networks can impact their success as business owners. Younger entrepreneurs may have more opportunities to network through educational institutions or social events, while older individuals may have established professional networks from previous work experience.
 
-8.  **Access to capital**: 
+**8.  Access to capital**: 
 
 Access to funding can be a significant barrier for entrepreneurs of all ages, but it may be particularly challenging for younger individuals who have not yet built up a credit history or established financial stability. On the other hand, older individuals may face age-based discrimination when seeking funding from investors or lenders.
 
-9.  **Retirement goals**: 
+**9.  Retirement goals**: 
 
 Older entrepreneurs may choose to start businesses as a way to supplement their retirement income or pursue a passion project after leaving their primary career. This can impact the types of businesses they choose to start and their level of commitment compared to younger entrepreneurs who are building careers from scratch.
 
