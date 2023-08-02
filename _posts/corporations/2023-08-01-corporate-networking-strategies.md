@@ -8,7 +8,9 @@ image: /images/posts-headers/corporate-networking.png
 permalink: /corporations/networking-strategies/
 ---
 
-Corporate networking is the process of building and maintaining relationships with individuals and organizations in your industry. It involves attending events, meeting new people, and fostering relationships with those who can help you grow your business. Networking is an essential part of building a successful business, and it can help you gain new insights, access valuable resources, and create opportunities for business growth.
+Corporate networking is the process of building and maintaining relationships with individuals and organizations in your industry. It involves attending events, meeting new people, and fostering relationships with those who can help you grow your business. 
+
+Networking is an essential part of building a successful business, and it can help you gain new insights, access valuable resources, and create opportunities for business growth.
 
 ## The Benefits of Networking for Businesses
 
