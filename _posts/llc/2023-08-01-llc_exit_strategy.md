@@ -1,7 +1,7 @@
 ---
 title: "How to Plan and Execute a Successful LLC Exit Strategy"
 layout: post
-date: 2023-08-02
+date: 2023-08-01
 author: jack_nicholaisen
 summary: "Are you an entrepreneur or business owner looking to plan and execute a successful exit strategy for your LLC? Look no further! Our in-depth guide covers everything you need to know, from exit options and valuation methods to legal considerations and succession planning. Don't leave your business's future to chance – read on and learn how to prepare your LLC for a smooth and successful exit now."
 permalink: /llcs/exit-strategy/

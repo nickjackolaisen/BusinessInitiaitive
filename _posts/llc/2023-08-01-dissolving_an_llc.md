@@ -1,7 +1,7 @@
 ---
 title: "Dissolving an LLC - A Step-by-Step Guide to Closing Your Business"
 layout: post
-date: 2023-08-02
+date: 2023-08-01
 author: jack_nicholaisen
 summary: "Are you considering closing your LLC? Discover everything you need to know about dissolving an LLC, from legal and financial considerations to practical tips for a smooth process. Empower yourself with the knowledge to successfully navigate this complex process by reading our comprehensive guide. Don't miss out, dive in now!"
 permalink: /llc/dissolving-process/
