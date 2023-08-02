@@ -4,7 +4,7 @@ layout: post
 date: 2023-08-01
 author: jack_nicholaisen
 summary: "Are you an entrepreneur or business owner looking to grow your business? Have you ever heard the phrase, "It's not what you know, it's who you know?" Networking is an essential part of growing your business, and building a strong professional network can help you gain new insights, access valuable resources, and create opportunities for business growth. In this article, you will find insights into effective networking strategies for business growth."
-image: /images/posts-headers/corporate-networking.png
+image: /images/posts-headers/corporate-networking-strategies.png
 permalink: /corporations/networking-strategies/
 ---
 
