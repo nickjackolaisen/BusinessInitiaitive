@@ -1,5 +1,5 @@
 ---
-title: "13 Strategies for Corporate Environmental Responsibility - Ways to Reducing Your Company's Environmental Impact"
+title: "13 Strategies for Corporate Environmental Responsibility - Reducing Your Company's Environmental Impact"
 layout: post
 date: 2023-08-03
 author: jack_nicholaisen
@@ -17,19 +17,19 @@ In this article, we will explore the importance of corporate environmental respo
 
 Embracing environmental responsibility can have many benefits for your company...
 
-### -   Improving your reputation and attracting customers who value sustainability:
+### *   Improving your reputation and attracting customers who value sustainability:
     
 By embracing environmental responsibility, your company can improve its reputation and attract customers who value sustainability. This can lead to increased sales and customer loyalty, as well as positive word-of-mouth advertising.
 
-### -   Reducing costs by improving efficiency and reducing waste:
+### *   Reducing costs by improving efficiency and reducing waste:
     
 Implementing environmentally responsible practices can also help your company reduce costs. By improving efficiency and reducing waste, you can save money on materials, energy, and other resources.
 
-### -   Complying with environmental regulations and avoiding fines:
+### *   Complying with environmental regulations and avoiding fines:
 
 Environmental regulations are becoming increasingly strict, and non-compliance can result in significant fines and legal consequences. By embracing environmental responsibility, your company can ensure compliance with these regulations and avoid costly penalties.
 
-### -   Contribute to a more sustainable future and help to mitigate the effects of climate change:
+### *   Contribute to a more sustainable future and help to mitigate the effects of climate change:
 
 Finally, embracing environmental responsibility can help your company contribute to a more sustainable future and help mitigate the effects of climate change. By reducing your company's carbon footprint and promoting sustainable practices, you can help protect the planet for future generations.
 

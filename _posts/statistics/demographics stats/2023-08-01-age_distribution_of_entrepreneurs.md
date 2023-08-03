@@ -21,8 +21,14 @@ To understand the age distribution of entrepreneurs, we need to examine data fro
 
 According to a recent [study](https://www.inc.com/jeff-haden/the-most-successful-entrepreneurs-are-older-than-you-think-new-study-says.html) conducted by the Kauffman Foundation, **the average age of a successful entrepreneur is 42**, with the highest likelihood of success belonging to those in their 40s and 50s.
 
+
+
+
+<center>
 <img alt="Age Distribution of Entrepreneurs" src="/images/posts-content/age-distribution-entrepreneurs.png">
-<a href="https://www.census.gov/library/visualizations/2020/comm/business-owners-ages.html">Based on the U.S. Censis Bureau's 2019 Annual Business Survey</a>
+<a href="https://www.census.gov/library/visualizations/2020/comm/business-owners-ages.html">Based on the U.S. Censis Bureau's 2019 Annual Business Survey</a>)
+</center>
+</br>
 
 However, the age distribution varies significantly across different industries and business structures. For example, the tech industry tends to have younger entrepreneurs, with the founders of successful companies like Facebook and Snapchat being in their early 20s at the time of their launch.
 
