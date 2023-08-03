@@ -125,8 +125,8 @@ Here are some **tips to help you meet B Corp criteria** and maximize the impact 
 
 B Corp certification offers a unique opportunity for your LLC to balance profit and purpose, driving positive change in the world while also benefiting your business. By becoming a B Corp, you can differentiate your brand, attract investment, engage employees, and improve your overall performance.
 
-**Don't wait any longer...
-**
+**Don't wait any longer...**
+
 Start your journey towards B Corp certification TODAY and join the growing movement of businesses committed to making a difference.
 
 Take the first step towards B Corp certification by completing the [B Impact Assessment](https://bimpactassessment.net/) and discovering how your business measures up.

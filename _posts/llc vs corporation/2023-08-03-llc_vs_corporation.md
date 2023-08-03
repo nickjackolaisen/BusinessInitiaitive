@@ -1,5 +1,5 @@
 ---
-title: "LLC vs. Corporation - 9 Tips for Determining Which Business Structure is Right for You?"
+title: "LLC vs. Corporation - 9 Tips for Determining Which Business Structure is Right for You"
 layout: post
 date: 2023-08-03
 author: jack_nicholaisen
