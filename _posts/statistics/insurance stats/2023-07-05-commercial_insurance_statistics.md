@@ -274,7 +274,9 @@ On a global scale, [Berkshire Hathaway](https://berkshirehathaway.com/) holds th
 
 ####    2.	Do Corporations and LLCs need liability insurance?
 
-The protection offered by Limited Liability Companies and Corporations only covers your Personal Assets. This includes things like personal accounts, investments, vehicles, and properties. This protection on it’s own does not meet the minimum company insurance requirements set by most states. As a general rule of thumb, malpractice and negligence will void personal liability protection. The same goes for if Members or Shareholders destroy the sepration between business and personal assets, it is known as piercing the corporate veil. 
+The protection offered by Limited Liability Companies and Corporations only covers your Personal Assets. This includes things like personal accounts, investments, vehicles, and properties. This protection on it’s own does not meet the minimum company insurance requirements set by most states. 
+
+As a general rule of thumb, malpractice and negligence will void personal liability protection. The same goes for if Members or Shareholders destroy the sepration between business and personal assets, it is known as piercing the corporate veil. 
 
 Lawyers and attorneys have been known to find unique loopholes and special circumstances where the corporate veil can be pierced even when company owners have seemingly followed the rules and regulations of LLCs and Corporations. 
 
