@@ -113,7 +113,11 @@ Ready to take your business to the next level? Stay informed, make data-driven d
 ## Sources
 
 [Most Popular U.S. Business Types by Region - US Chamber of Commerce](https://www.uschamber.com/)
+
 [The 10 Best Cities for Starting a Business - Inc.](https://www.inc.com/)
+
 [State Business Tax Climate Index - Tax Foundation](https://taxfoundation.org/)
+
 [Sole Proprietorships on the Decline - Pew Research Center](https://www.pewresearch.org/)
+
 [Choosing the Best Legal Structure for Your Business - Entrepreneur](https://www.entrepreneur.com/article/235885)

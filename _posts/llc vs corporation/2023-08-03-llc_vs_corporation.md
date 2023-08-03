@@ -188,7 +188,11 @@ Sign up for the Business Initiative newsletter today!
 ## Sources
 
 [U.S. Small Business Administration - Choose a business structure](https://www.sba.gov/business-guide/launch-your-business/choose-business-structure)
+
 [IRS - Limited Liability Company (LLC)](https://www.irs.gov/businesses/small-businesses-self-employed/limited-liability-company-llc)
+
 [IRS - S Corporations](https://www.irs.gov/businesses/small-businesses-self-employed/s-corporations)
+
 [LLC vs. Incorporation: Which Should I Choose?](https://www.investopedia.com/articles/personal-finance/011216/llc-vs-incorporation-inc-which-should-i-choose.asp)
+
 [LLC vs. corporation: Which one is right for me?](https://www.legalzoom.com/articles/llc-vs-corporation-which-one-is-right-for-me)
