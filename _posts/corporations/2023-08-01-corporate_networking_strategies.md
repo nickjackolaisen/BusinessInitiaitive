@@ -128,12 +128,11 @@ Finally, it's important to follow through on any commitments you make to your ne
 
 <figure>
 <center>
-<img alt="Social Networking" src="/images/posts-content/corporate-networking-social-media.png">
+<img alt="Social Networking" src="/images/posts-content/corporate-networking-social-media.png" style="width: 25%; height:25%">
 <figcaption>
 In addition to attending events, you can leverage online networking platforms to build valuable connections.
-</center>
 </figcaption>
-<figure>
+</figure>
 
 Here are some of the most popular platforms you should check out (if you're not using them already):
 
