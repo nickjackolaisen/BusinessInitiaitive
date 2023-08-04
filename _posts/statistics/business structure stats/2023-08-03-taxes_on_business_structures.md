@@ -1,6 +1,5 @@
 ---
-title: "Tax Implications of Different Business Structures
-"
+title: "Tax Implications of Different Business Structures"
 layout: post
 date: 2023-08-03
 author: jack_nicholaisen
@@ -56,15 +55,15 @@ By understanding the potential tax consequences, you can make an informed decisi
 
 ## Factors Influencing Tax Implications
 
--   ###  Income Level
+###  Income Level
 
 As mentioned earlier, individual tax rates depend on income levels. Therefore, the tax implications of various business structures will vary depending on the owner's overall income.
 
--   ###  State Taxes
+###  State Taxes
 
 State taxes can also influence the tax implications of different business structures. According to the [Tax Foundation](https://taxfoundation.org/state-corporate-income-tax-rates-brackets-2021/), state corporate tax rates range from 2.5% in North Carolina to 12% in Iowa. Business owners should consider the impact of state taxes when choosing a structure.
 
--   ###  Employment Taxes
+###  Employment Taxes
 
 Employers are responsible for [withholding and paying employment taxes](https://www.irs.gov/businesses/small-businesses-self-employed/understanding-employment-taxes) for their employees, which can include federal income tax, Social Security and Medicare taxes, and Federal Unemployment Tax Act (FUTA) tax. The tax implications of hiring employees will differ based on the business structure chosen.
 
