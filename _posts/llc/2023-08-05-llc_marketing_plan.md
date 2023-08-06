@@ -31,7 +31,7 @@ Before diving into marketing channels and tactics, it's crucial to identify your
 
 <figure>
 <center>
-<img alt="MailChimp Target Audience"  src="/images/posts-content/nailchimp-target-audience.png" style="width: 63%; height: 63%" />
+<img alt="MailChimp Target Audience"  src="/images/posts-content/mailchimp-target-audience.png" style="width: 63%; height: 63%"/>
 </center>
 </figure>
 
@@ -77,7 +77,7 @@ Regularly review and adjust your budget as needed to ensure you're maximizing yo
 
 <figure>
 <center>
-<img alt="Dollar Shave Club Measuring Success"  src="/images/posts-content/dollar-shave-club-marketing-audience.png" style="width: 63%; height: 63%" />
+<img alt="Dollar Shave Club Measuring Success"  src="/images/posts-content/dollar-shave-club-measuring-success.png" style="width: 63%; height: 63%" />
 </center>
 </figure>
 
