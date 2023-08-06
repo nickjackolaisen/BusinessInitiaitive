@@ -4,7 +4,7 @@ layout: post
 date: 2023-08-05
 author: jack_nicholaisen
 summary: "Discover the link between your company's structure and its capacity for innovation. This in-depth analysis explores the role of business structure in fostering innovation, highlighting industry-specific trends and factors that influence innovation rates. A must-read for entrepreneurs and business owners looking to unleash their company's full creative potential."
-permalink: /stats/business-structure/innovation/
+permalink: /stats/business-structures/innovation/
 ---
 
 In the ever-changing world of business, innovation is the driving force behind success and long-term growth. Entrepreneurs and business owners are constantly seeking new ways to foster creativity and adapt to shifting market demands. One often-overlooked aspect that can greatly impact a company's ability to innovate is its chosen business structure. 
