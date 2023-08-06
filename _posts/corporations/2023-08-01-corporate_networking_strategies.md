@@ -5,7 +5,7 @@ date: 2023-08-01
 author: jack_nicholaisen
 summary: "Are you an entrepreneur or business owner looking to grow your business? You've definitely heard the phrase, 'It's not what you know, it's who you know.' Networking is an essential part of growing your business, and building a strong professional network can help you gain new insights, access valuable resources, and create opportunities for business growth."
 image: /images/posts-headers/corporate-networking-strategies.png
-permalink: /corporations/networking-strategies/
+permalink: /corporation/networking-strategies/
 ---
 
 Corporate networking is the process of building and maintaining relationships with individuals and organizations in your industry. It involves attending events, meeting new people, and fostering relationships with those who can help you grow your business. 

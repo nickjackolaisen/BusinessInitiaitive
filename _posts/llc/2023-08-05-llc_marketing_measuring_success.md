@@ -4,7 +4,7 @@ layout: post
 date: 2023-08-05
 author: jack_nicholaisen
 summary: "Are you tired of guessing whether your business is successful or not? Do you want to measure your progress and know exactly what works and what doesn't? Look no further than our guide on analytics. In this article, we will take you through the steps of setting up measurable goals, tracking metrics, analyzing data, and making informed decisions based on your findings. Don't leave your business success up to chance - let us help you take control today."
-permalink: /llcs/marketing/measuring-success/
+permalink: /llc/marketing/measuring-success/
 ---
 
 To determine the effectiveness of your marketing plan, it's crucial to establish Key Performance Indicators (KPIs) and track them consistently. KPIs are measurable values that demonstrate how well your marketing efforts are achieving your objectives. Common KPIs include:

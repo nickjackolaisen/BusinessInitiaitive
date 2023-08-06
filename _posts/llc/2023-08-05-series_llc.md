@@ -4,7 +4,7 @@ layout: post
 date: 2023-08-05
 author: jack_nicholaisen
 summary: "Discover the unique features and applications of a Series LLC and how it can benefit your business. Uncover the legal structure, liability protection, and tax implications while exploring practical tips to determine if a Series LLC is right for you. Don't miss this opportunity to educate yourself on this powerful business tool!"
-permalink: /llcs/series-llc/
+permalink: /llc/series-llc/
 ---
 
 A Series Limited Liability Company (LLC) is a relatively new and innovative business structure that offers unique advantages and flexibility for entrepreneurs and business owners. 

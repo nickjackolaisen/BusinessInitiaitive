@@ -4,7 +4,7 @@ layout: post
 date: 2023-08-01
 author: jack_nicholaisen
 summary: "Discover the fascinating journey of corporate structures, from humble sole proprietorships to multinational giants! Take a deep dive into the historical development and significance of various business models for modern entrepreneurs. Don't miss the opportunity to learn practical lessons, tips, and tricks for choosing the right corporate structure for your business. Read on to gain an edge in today's competitive world!"
-permalink: /corporations/heirachy-and-evolution/
+permalink: /corporation/heirachy-and-evolution/
 ---
 
 The world of business has undergone tremendous transformation over the centuries. Corporate structures have evolved and adapted to the changing needs of society, economy, and technology. 

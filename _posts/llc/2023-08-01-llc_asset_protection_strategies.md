@@ -4,7 +4,7 @@ layout: post
 date: 2023-08-01
 author: jack_nicholaisen
 summary: "Learn the ins and outs of asset protection strategies for LLC owners, including liability protection, insurance options, and asset segregation. Our comprehensive guide will help you implement effective measures and safeguard your hard-earned wealth. Don't leave your business and personal assets at risk – read on to discover how to protect them today!"
-permalink: /llcs/asset-protection-strategies/
+permalink: /llc/asset-protection-strategies/
 ---
 
 Limited Liability Companies (LLCs) are a popular business structure among entrepreneurs due to their flexibility and the protection they offer against personal liability. However, simply forming an LLC may not be enough to fully protect your business and personal assets. 

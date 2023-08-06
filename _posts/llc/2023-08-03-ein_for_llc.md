@@ -4,7 +4,7 @@ layout: post
 date: 2023-08-03
 author: jack_nicholaisen
 summary: "Discover the importance of an Employer Identification Number (EIN) for your LLC and learn how to obtain and manage it effectively. Empower your business with the right knowledge and tools to streamline your tax and legal obligations. Don't miss out on this essential guide for entrepreneurs and business owners alike – Check it out HERE!"
-permalink: /llcs/what-is-an-ein-number/
+permalink: /llc/what-is-an-ein-number/
 ---
 
 Starting a new business can be both exciting and overwhelming, with numerous considerations to take into account. One crucial aspect of setting up a Limited Liability Company (LLC) is obtaining an Employer Identification Number (EIN). 

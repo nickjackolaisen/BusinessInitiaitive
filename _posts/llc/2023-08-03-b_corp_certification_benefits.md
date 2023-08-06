@@ -4,7 +4,7 @@ layout: post
 date: 2023-08-03
 author: jack_nicholaisen
 summary: "Discover the transformative power of B Corp certification for your LLC and learn how it can help you balance profit and purpose. Unlock the potential of your business to drive positive change in the world, while reaping significant benefits for your company. Don't miss this opportunity to elevate your business to new heights - read on to learn more!"
-permalink: /llcs/b-corp-certification/
+permalink: /llc/b-corp-certification/
 ---
 
 In a world where businesses are increasingly expected to demonstrate their commitment to social and environmental responsibility, obtaining B Corp certification is more important than ever. 

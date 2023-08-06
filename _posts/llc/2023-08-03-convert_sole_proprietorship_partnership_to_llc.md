@@ -4,7 +4,7 @@ layout: post
 date: 2023-08-03
 author: jack_nicholaisen
 summary: "Discover the benefits of converting your sole proprietorship or partnership into an LLC. Learn the legal steps, tax implications, and practical tips for a smooth transition. Don't miss this essential guide to taking your business to the next level – Read it NOW!"
-permalink: /llcs/converting-sole-proprietorships-partnerships/
+permalink: /llc/converting-sole-proprietorships-partnerships/
 ---
 
 As your business grows, you may find yourself considering a change in its legal structure. One common choice is to convert a sole proprietorship or partnership into a Limited Liability Company (LLC). 

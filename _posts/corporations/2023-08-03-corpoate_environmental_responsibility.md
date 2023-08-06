@@ -4,7 +4,7 @@ layout: post
 date: 2023-08-03
 author: jack_nicholaisen
 summary: "Are you looking to reduce your company's environmental impact? Do you want to improve your reputation and contribute to a more sustainable future? In this article, we provide actionable insights into corporate environmental responsibility, including tips for implementing sustainable business practices, engaging employees in environmental initiatives, and communicating your efforts to stakeholders. Join us on this journey towards a more sustainable future!"
-permalink: /corporations/environmental-responsbility/
+permalink: /corporation/environmental-responsbility/
 ---
 
 As the world becomes more aware of the impact that businesses have on the environment, the need for corporate environmental responsibility has become increasingly urgent. 

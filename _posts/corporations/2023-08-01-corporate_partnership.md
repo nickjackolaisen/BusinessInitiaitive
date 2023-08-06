@@ -4,7 +4,7 @@ layout: post
 date: 2023-08-01
 author: jack_nicholaisen
 summary: "This article explores the role of corporate partnerships in driving business growth and success. It provides actionable advice on identifying potential partners, structuring partnership agreements, and managing partnership relationships. Learn how partnerships can help you access new markets, reduce costs, and drive innovation to help your business reach new heights of success. Read now to discover how corporate partnerships can help your business grow and succeed!"
-permalink: /corporations/corporate-partnerships/
+permalink: /corporation/corporate-partnerships/
 ---
 
 Are you an entrepreneur looking for ways to drive business growth and success? 
