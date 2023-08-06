@@ -47,17 +47,17 @@ Finally, **businesses with multiple subsidiaries or divisions** may find a Serie
 
 A Series LLC can be an attractive option for entrepreneurs and business owners who have multiple ventures or investments and want to keep their assets and liabilities separate. Here are a few tips to help determine if a Series LLC is the right choice for your business:
 
-1.  **Consider your business activities and risk exposure.** If your business has multiple, distinct activities with varying levels of risk, a Series LLC may be a good fit.
+**1.  Consider your business activities and risk exposure.** If your business has multiple, distinct activities with varying levels of risk, a Series LLC may be a good fit.
 
-2.  **Assess your long-term goals for your business.** A Series LLC may be an excellent fit for businesses with multiple ventures or investments, but it may not be the best choice for those with a single focus. Consider your long-term goals for your business and whether a Series LLC aligns with those objectives.
+**2.  Assess your long-term goals for your business.** A Series LLC may be an excellent fit for businesses with multiple ventures or investments, but it may not be the best choice for those with a single focus. Consider your long-term goals for your business and whether a Series LLC aligns with those objectives.
 
-3.  **Evaluate the costs and administrative requirements of a Series LLC.** While a Series LLC can offer significant benefits, it's important to consider the additional costs and administrative burden that come with this structure. Each series within the larger LLC may require separate accounting, legal documentation, and compliance filings, which can add up quickly.
+**3.  Evaluate the costs and administrative requirements of a Series LLC.** While a Series LLC can offer significant benefits, it's important to consider the additional costs and administrative burden that come with this structure. Each series within the larger LLC may require separate accounting, legal documentation, and compliance filings, which can add up quickly.
 
-4.  **Check the regulations in your state.** Not all states allow for the formation of a Series LLC, so make sure to research your state's specific laws and requirements.
+**4.  Check the regulations in your state.** Not all states allow for the formation of a Series LLC, so make sure to research your state's specific laws and requirements.
 
-5.  **Understand the limitations of a Series LLC in other states.** While several states have adopted the Series LLC structure, not all states recognize or allow for this type of entity. If you plan to operate in multiple states, make sure to research each state's laws regarding Series LLCs and whether they will recognize your structure.
+**5.  Understand the limitations of a Series LLC in other states.** While several states have adopted the Series LLC structure, not all states recognize or allow for this type of entity. If you plan to operate in multiple states, make sure to research each state's laws regarding Series LLCs and whether they will recognize your structure.
 
-6.  **Consult with legal and tax professionals.** Speak with an attorney and tax advisor to ensure you understand the legal and tax implications of a Series LLC for your business.
+**6.  Consult with legal and tax professionals.** Speak with an attorney and tax advisor to ensure you understand the legal and tax implications of a Series LLC for your business.
 
 ### Series LLCs in the Wild
 

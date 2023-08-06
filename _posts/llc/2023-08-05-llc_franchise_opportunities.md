@@ -187,7 +187,7 @@ By conducting thorough research, evaluating franchise opportunities, and negotia
 
 Are you ready to embark on your franchising journey?
 
-Let's start exploring franchise opportunities today!
+**[Let's start exploring franchise opportunities today!](https://calendly.com/businessinitiative/30-minute-consultation-call)**
 
 ## Sources
 
