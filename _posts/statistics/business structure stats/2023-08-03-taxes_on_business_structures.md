@@ -4,7 +4,7 @@ layout: post
 date: 2023-08-03
 author: jack_nicholaisen
 summary: "Discover the tax implications of various business structures, such as corporations and LLCs, in our in-depth statistical analysis. This article can help you make an informed decision about the right structure for your business, so you can maximize tax benefits and minimize liabilities. Don't miss out on this essential information—read on to save money and grow your business today!"
-permalink: /stats/tax-implications-on-business-structures/
+permalink: /stats/business-structures/tax-implications/
 ---
 
 For entrepreneurs and business owners, one of the most critical decisions they make is choosing the right business structure. This choice can significantly impact the taxes owed to the government and the overall financial health of the business. 

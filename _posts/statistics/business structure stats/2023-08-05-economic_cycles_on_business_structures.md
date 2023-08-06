@@ -4,7 +4,7 @@ layout: post
 date: 2023-08-05
 author: jack_nicholaisen
 summary: "Discover how economic cycles impact the formation and success of different business structures. Learn about the factors influencing structure choice and industry-specific trends in this in-depth statistical analysis. Don't miss out on this valuable information to help you navigate the ever-changing business landscape."
-permalink: /stats/economic-cycles-on-business-success/
+permalink: /stats/business-structures/economic-cycles/
 ---
 
 Economic cycles are a fundamental aspect of the global economy, with periods of growth, stagnation, and recession shaping the financial landscape. These cycles can significantly influence the formation and success of different business structures, making it crucial for entrepreneurs and business owners to understand these trends. 
@@ -98,6 +98,8 @@ Stay ahead of the curve by considering [these insights and others](https://www.b
 Don't miss out on the chance to thrive through economic ups and downs...
 
 **Take Initiative** now to ensure your business is well-prepared for the challenges and opportunities that lie ahead.
+
+**[Schedule a Consultation Call TODAY!](https://calendly.com/businessinitiative/30-minute-consultation-call)**
 
 ## Sources
 

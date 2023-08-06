@@ -4,7 +4,7 @@ layout: post
 date: 2023-08-01
 author: jack_nicholaisen
 summary: "Discover the impact of your business's structure on its ability to access capital, such as loans and investments, in this in-depth statistical review. Entrepreneurs and business owners can learn how their choice of structure may influence their funding options and gain valuable insights to guide their decisions. Don't miss out on this essential information – read on to ensure your business thrives!"
-permalink: /stats/impact-of-business-structure-on-funding/
+permalink: /stats/business-structures/funding/
 ---
 
 Access to capital is a critical aspect of any business's growth and expansion. Whether you're a budding entrepreneur or an established business owner, securing loans and investments can be the key to taking your enterprise to the next level. 
