@@ -1,5 +1,5 @@
 ---
-title: "# A Comprehensive Guide to Tracking Your Marketing KPIs and Building an Engaged Audience Across Multiple Platforms"
+title: "A Comprehensive Guide to Tracking Your Marketing KPIs and Building an Engaged Audience Across Multiple Platforms"
 layout: post
 date: 2023-08-05
 author: jack_nicholaisen
@@ -12,9 +12,13 @@ To determine the effectiveness of your marketing plan, it's crucial to establish
 Measuring success is a crucial aspect of any marketing plan. It helps you to understand how well your marketing efforts are working and what adjustments you need to make to improve your results. 
 
 **1.  Website traffic**
+
 **2.  Social media engagement**
+
 **3.  Email open and click-through rates**
+
 **4.  Conversion rates (e.g., sales, sign-ups, etc.)**
+
 **5.  Return on ad spend (ROAS)**
 
 Here are the five key performance indicators (KPIs) that you should track to measure the success of your marketing plan:
