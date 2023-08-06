@@ -15,25 +15,25 @@ Finally, we will discuss famous examples and case studies to illustrate the bene
 
 Let's get it!
 
-### Legal Structure of a Series LLC
+## Legal Structure of a Series LLC
 
 A Series LLC is a type of limited liability company that allows for the creation of separate, individual series or divisions within the larger LLC structure. Each series operates as an independent entity with its own assets, liabilities, and management, while still being part of the larger LLC. This structure was first introduced in Delaware in 1996 and has since been adopted by several other states ([National Law Review](https://www.natlawreview.com/article/series-llcs-understanding-basics)).
 
 The primary advantage of a Series LLC is the ability to segregate assets and liabilities, which offers increased flexibility and protection for business owners. For example, if one series faces legal issues or financial difficulties, it won't necessarily impact the other series within the LLC.
 
-### Liability Protection in a Series LLC
+## Liability Protection in a Series LLC
 
 One of the main benefits of a Series LLC is the enhanced liability protection it offers. Each series within the larger LLC is legally separate, meaning that the debts and liabilities of one series do not affect the others. This is particularly beneficial for businesses with multiple ventures or investments, as it can help to limit the overall risk.
 
 However, it's essential to maintain proper records and separation between each series to ensure this liability protection is upheld. Failure to do so could result in a court "piercing the corporate veil" and holding the entire LLC responsible for the liabilities of a single series ([Forbes](https://www.forbes.com/sites/tykiisel/2013/03/12/series-llcs-the-next-generation-of-llcs/?sh=6b12fa2846f5)).
 
-### Tax Implications of a Series LLC
+## Tax Implications of a Series LLC
 
 The tax treatment of a Series LLC can vary depending on the state in which it is formed and operates. In general, a Series LLC is treated as a single tax entity for federal tax purposes, meaning that the entire LLC files a single tax return. However, some states may require each series to file separate state tax returns ([Incfile](https://www.incfile.com/blog/post/series-llc-tax-benefits/)).
 
 It's essential to consult with a tax professional to understand the specific tax implications of a Series LLC in your state and ensure compliance with all relevant tax laws and regulations.
 
-### Businesses that Benefit Most from a Series LLC
+## Businesses Gaining the Most from Series LLCs
 
 The unique structure of a Series LLC makes it an attractive option for certain types of businesses. For example, **real estate investors and developers** often use Series LLCs to separate assets and liabilities between different properties or projects. This allows them to limit the risk associated with each individual investment while still maintaining overall control.
 
@@ -41,7 +41,7 @@ In addition, **franchise businesses** may also benefit from a Series LLC structu
 
 Finally, **businesses with multiple subsidiaries or divisions** may find a Series LLC beneficial in organizing their operations and protecting each individual entity. However, it's important to consult with legal and tax professionals to ensure compliance with all relevant laws and regulations.
 
-### Practical Lessons: Is a Series LLC Right for Your Business?
+## Practical Lessons: Is a Series LLC Right for Your Business?
 
 A Series LLC can be an attractive option for entrepreneurs and business owners who have multiple ventures or investments and want to keep their assets and liabilities separate. Here are a few tips to help determine if a Series LLC is the right choice for your business:
 
@@ -69,7 +69,7 @@ While several states have adopted the Series LLC structure, not all states recog
 
 Speak with an attorney and tax advisor to ensure you understand the legal and tax implications of a Series LLC for your business.
 
-### Series LLCs in the Wild
+## Series LLCs in the Wild
 
 While Series LLCs are still relatively new, there are some well-known examples of businesses that have successfully utilized this structure. For instance, real estate investors often use Series LLCs to separate their properties and protect them from the liabilities of other properties within the same LLC ([Investopedia](https://www.investopedia.com/articles/investing/082015/series-llc-whos-it-right.asp)).
 
