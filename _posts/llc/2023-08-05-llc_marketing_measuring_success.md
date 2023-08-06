@@ -79,7 +79,7 @@ You can track ROAS using advertising platforms like Google Ads or Facebook Ads M
 
 7.  [Facebook Ads Manager](https://www.facebook.com/business/ads): Online advertising platform for creating and running ads across Facebook's network of websites and apps.
 
-## Practical Tips and Tools to Build an Audience Across Multiple Platforms
+## 5 Practical Tips and Tools to Build an Audience Across Multiple Platforms
 
 To build an audience across multiple platforms, consider the following tips:
 
