@@ -1,5 +1,5 @@
 ---
-title: "Knowledge Management - Channeling the Power of Organizational Knowledge in Your Corporation"
+title: "Knowledge Management | Channeling the Power of Organizational Knowledge in Your Corporation"
 layout: post
 date: 2023-08-07
 author: jack_nicholaisen
