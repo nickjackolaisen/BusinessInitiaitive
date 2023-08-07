@@ -93,7 +93,7 @@ Let's have a look at how the largest industries are effected by new technologies
 
 The adoption of technology in these industries can vary widely depending on the specific sub-sector within each industry as well as the size of the company within that sub-sector. For example, a small construction company may have limited resources to invest in technology compared to a large manufacturing firm with multiple locations and a global customer base.
 
-*However, regardless of the size or industry, all companies can benefit from adopting new technologies that enable them to operate more efficiently, improve their products or services, or better engage with customers.*
+*Regardless of the size or industry, all companies can benefit from adopting new technologies that enable them to operate more efficiently, improve their products or services, or better engage with customers.*
 
 ## Relevance for Entrepreneurs and Business Owners
 
