@@ -1,5 +1,5 @@
 ---
-title: "The Relationship Between Business Size and Structure"
+title: "The Relationship Between Business Type and Structure"
 layout: post
 date: 2023-08-07
 author: jack_nicholaisen
