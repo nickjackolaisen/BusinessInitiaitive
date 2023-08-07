@@ -17,7 +17,7 @@ Away we go...
 
 ## What is Social Impact?
 
-**Definition:** The effect a company has on society beyond its financial performance. 
+**Definition:** "The effect a company has on society beyond its financial performance." 
 
 It encompasses a wide range of factors, including environmental sustainability, ethical business practices, and community engagement. Essentially, social impact measures how well a company is meeting its responsibility to stakeholders beyond shareholders.
 
