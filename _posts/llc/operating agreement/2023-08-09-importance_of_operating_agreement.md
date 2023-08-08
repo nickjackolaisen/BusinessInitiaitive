@@ -115,7 +115,7 @@ or
 
 Ask any questions you might have directly [HERE](https://www.businessinitiative.org/contact/) or by DMing [@BisInitiative on Twitter](https://twitter.com/BisInitiative)
 
-<script async data-uid="0625212ce2" src="<https://adept-hustler-4565.ck.page/0625212ce2/index.js>">\</script>
+<script async data-uid="0625212ce2" src="<https://adept-hustler-4565.ck.page/0625212ce2/index.js>"></script>
 
 <br> DISCLAIMER:
 
