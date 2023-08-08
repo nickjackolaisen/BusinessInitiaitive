@@ -27,7 +27,7 @@ Before diving into marketing channels and tactics, it's crucial to identify your
 
 **3.  Pain points:** Pain points refer to the problems or challenges that your target audience is facing. Understanding the pain points of your target audience can help you create marketing messages that address their specific needs and offer solutions to their problems.
 
-<p><b>➤ DISCOVER: </b> <a href="https://www.businessinitiative.org/llcs/marketing/target-audience/"> Learn how to effectively appeal to your target audience</a></p>
+<p><b>➤ DISCOVER: </b> <a href="https://www.businessinitiative.org/llc/marketing/target-audience/"> Learn how to effectively appeal to your target audience</a></p>
 
 **4.  Buyer personas:** Buyer personas are fictional representations of your ideal customers, based on research and data about your target audience. Creating buyer personas can help you understand the needs, motivations, and behaviors of your target audience, and create marketing messages that resonate with them.
 
