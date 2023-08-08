@@ -1,5 +1,5 @@
 ---
-title: "Reputation Management: Protect and Enhance Your Corporation's Image"
+title: "Reputation Management - Protect and Enhance Your Corporation's Image"
 layout: post
 date: 2023-08-07
 author: jack_nicholaisen
