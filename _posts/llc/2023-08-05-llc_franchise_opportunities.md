@@ -33,7 +33,7 @@ Like any business model, franchising within an LLC has its own set of pros and c
 
 -   **Tax Benefits**: LLCs offer pass-through taxation, which means that profits and losses are reported on individual tax returns rather than at the entity level.
 
-<p><b>➤ Analyze: </b> <a href="https://www.businessinitiative.org/stats/franchise-success-of-business-structures/">LLC Franchises have a 13% higher success rate than Corporate Franchises!</a></p>
+<p><b>➤ Analyze: </b> <a href="https://www.businessinitiative.org/stats/business-structures/franchise-success/">LLC Franchises have a 13% higher success rate than Corporate Franchises!</a></p>
 
 ### Cons
 
@@ -47,7 +47,7 @@ Like any business model, franchising within an LLC has its own set of pros and c
 
 -   **Contractual Obligations**: Franchise agreements typically come with strict contractual obligations that must be followed. Failure to comply with these obligations can result in termination of the agreement and loss of your investment.
 
-## Case Studies: Famous Franchises Operated as LLCs
+## Famous Franchises Operated as LLCs
 
 ### Subway
 
@@ -191,8 +191,8 @@ Are you ready to embark on your franchising journey?
 
 ## Sources
 
-1.  [Subway Franchising](https://www.subway.com/en-US/OwnAFranchise)
-2.  [McDonald's Franchising](https://www.mcdonalds.com/us/en-us/about-us/franchising.html)
-3.  [Franchise Disclosure Document (FDD)](https://www.ftc.gov/tips-advice/business-center/guidance/franchise-rule)
-4.  [Dunkin' Donuts Franchising](https://www.dunkindonuts.com/en/franchising)
-5.  [7 Eleven Franchising](https://franchise.7-eleven.com/franchise/home)
+-  [Subway Franchising](https://www.subway.com/en-US/OwnAFranchise)
+-  [McDonald's Franchising](https://www.mcdonalds.com/us/en-us/about-us/franchising.html)
+-  [Franchise Disclosure Document (FDD)](https://www.ftc.gov/tips-advice/business-center/guidance/franchise-rule)
+-  [Dunkin' Donuts Franchising](https://www.dunkindonuts.com/en/franchising)
+-  [7 Eleven Franchising](https://franchise.7-eleven.com/franchise/home)
