@@ -1,5 +1,5 @@
 ---
-title: "Unlock Your Target Market: Learn the Metrics and How to Use Them to Your Advantage"
+title: "Unlock Your Target Market - Learn the Metrics and Use Them to Your Advantage"
 layout: post
 date: 2023-08-05
 author: jack_nicholaisen
