@@ -83,7 +83,7 @@ As you expand your LLC, it's essential to stay compliant with local, state, and 
 
 -  **Tax compliance:** Understand the tax implications of your expansion, including sales tax, income tax, and payroll tax requirements.
 
-## 5 Practical Ways to Assess Growth Potential and Managw Expansion Risks
+## 5 Practical Ways to Assess Growth Potential and Manage Expansion Risks
 
 Here are some tips to help you assess your growth potential and manage the risks associated with expanding your LLC:
 
