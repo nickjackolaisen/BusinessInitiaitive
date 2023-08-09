@@ -17,7 +17,7 @@ In this article, we'll explore pass-through taxation, self-employment taxes, ded
 
 Let's make some money...
 
-... and keep it too!
+and keep it too!
 
 ## Pass-Through Taxation
 
