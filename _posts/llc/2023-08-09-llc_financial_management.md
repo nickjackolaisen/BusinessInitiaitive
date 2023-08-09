@@ -87,7 +87,7 @@ Don't let financial management be a roadblock to your success.
 
 With the tips and strategies outlined in this article, you can take control of your finances and set yourself up for long-term success.
 
-Have questions? [Reach out to Business Initiative here](https://www.businessinitiative.org/contact/) or send us a direct message @BisInitiative on X <https://twitter.com/BisInitiative>
+Have questions? [Reach out to Business Initiative here](https://www.businessinitiative.org/contact/) or send us a direct message [@BisInitiative on X](https://twitter.com/BisInitiative)
 
 From choosing the right bookkeeping method to selecting the best accounting software, planning for taxes, and regularly reviewing financial reports, we've got you covered.
 

@@ -117,7 +117,7 @@ Now that you're equipped with the knowledge and practical tips, take action to r
 
 At Business Initiative, we want you to take action and make moves..
 
-If you have any questions about prepping your LLC to hire employees you can [reach out here](https://www.businessinitiative.org/contact/) or send us a direct message @BisInitiative on X <https://twitter.com/BisInitiative>
+If you have any questions about prepping your LLC to hire employees you can [reach out here](https://www.businessinitiative.org/contact/) or send us a direct message [@BisInitiative on X](https://twitter.com/BisInitiative)
 
 For more in-depth queries or guidance, [schedule a consultation call](https://calendly.com/businessinitiative/30-minute-consultation-call) and let's speak it out!
 

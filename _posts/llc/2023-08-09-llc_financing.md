@@ -172,7 +172,7 @@ Start your journey to success now!
 
 Have any questions about raising funds or prepping a clean sales pitch for your brand?
 
-You can [reach out here](https://www.businessinitiative.org/contact/) or send us a direct message @BisInitiative on X <https://twitter.com/BisInitiative>
+You can [reach out here](https://www.businessinitiative.org/contact/) or send us a direct message [@BisInitiative on X](https://twitter.com/BisInitiative)
 
 <script async data-uid="0625212ce2" src="<https://adept-hustler-4565.ck.page/0625212ce2/index.js>"></script>
 
