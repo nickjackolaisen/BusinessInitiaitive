@@ -3,7 +3,7 @@ layout: post
 title: "LLC Operating Agreements | Why You Need One and What to Include"
 date: 2023-08-09
 author: jack_nicholaisen
-summary: Discover the crucial elements of an LLC operating agreement and why it's a must-have for your business. Unlock the secrets to drafting an effective agreement and avoid common pitfalls. Don't miss out on this comprehensive guide – read on to secure your business's future success!
+summary: "Discover the crucial elements of an LLC operating agreement and why it's a must-have for your business. Unlock the secrets to drafting an effective agreement and avoid common pitfalls. Don't miss out on this comprehensive guide – read on to secure your business's future success!"
 permalink: /llc/operating-agreement/purpose/
 ---
 
