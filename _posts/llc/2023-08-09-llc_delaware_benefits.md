@@ -99,7 +99,7 @@ Ready to take the next step?
 
 **Take Initiative** and [schedule a consultation call](https://calendly.com/businessinitiative/30-minute-consultation-call) with us now!
 
-You can [reach out here](https://www.businessinitiative.org/contact/) or send us a direct message [@BisInitiative on X](https://twitter.com/BisInitiative)
+You can also [reach out here](https://www.businessinitiative.org/contact/) or send us a direct message [@BisInitiative on X](https://twitter.com/BisInitiative)
 
 <script async data-uid="0625212ce2" src="<https://adept-hustler-4565.ck.page/0625212ce2/index.js>"></script>
 
