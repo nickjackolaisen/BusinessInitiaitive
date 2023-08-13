@@ -2,6 +2,7 @@
 layout: post
 title: "What Does LLC Mean and How Do They Work?"
 date: 2023-07-03
+update_date: 2023-08-13
 author: jack_nicholaisen
 summary: LLC stands for Limited Liability Company. Read this to find out how you can use one to fast-track your success.
 tags: what llc mean, what do llc means, what does being an llc mean	 
@@ -36,7 +37,9 @@ Your business success is limited by your decisions and the actions you take.
 
 Another huge reason why someone chooses an LLC over any other entity is the legal and financial protection it offers. Not to mention all of the tax benefits that come with operating a Disregarded Entity.
 
-LLCs may not have as much protection as an S- or a C- Corp entity for example, but it’s sure better than no protection at all. Plus, it’s a lot simpler than these other business types. You won't lose the option of becoming a Corporation in the future, but in the meantime, you’re probably better off starting as an LLC.
+LLCs may not have as much protection as an S- or a C- Corp entity for example, but it’s sure better than no protection at all. Plus, it’s a lot simpler than these other business types. You won't lose the option of becoming a Corporation in the future, but in the meantime, many people choose to start out as an LLC.
+
+<p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/stats/the-rise-of-llcs/"> There are MILLIONS of LLCs!</a></p>
 
 ## What is an LLC and how does it work to protect you?
 
@@ -238,7 +241,7 @@ LLCs are great for starting and building.
 
 As an LLC you have the added opportunity of changing your tax status to a C-Corp once your business is more established. 
 
-<p><b>➤ DISCOVER: </b> <a href="https://www.businessinitiative.org/s-corp-vs-c-corp/"> Is an S- or C-Corp right for you?</a></p>
+<p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/s-corp-vs-c-corp/"> Is an S- or C-Corp right for you?</a></p>
 
 ## In Conclusion… 
 
