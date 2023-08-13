@@ -1,7 +1,7 @@
 ---
 title: "The Role of Business Structures in Job Creation"
 layout: post
-date: 2023-08-07
+date: 2023-08-13
 author: jack_nicholaisen
 summary: "Discover the surprising relationship between business structures and job creation rates in this eye-opening statistical study. Uncover the best strategies for entrepreneurs and business owners to maximize their impact on the job market. Don't miss out on these critical insights - check it out here!"
 permalink: /stats/business-structures/job-creation/
