@@ -146,11 +146,9 @@ By identifying potential risks, developing a comprehensive crisis management pla
 
 Don't leave your business vulnerable...
 
-Schedule a consultation call with Business initiative and let's start building your crisis management plan today!
+[Schedule a consultation call](https://calendly.com/businessinitiative/30-minute-consultation-call) with Business initiative and let's start building your crisis management plan today!
 
 **Have questions?**
-
-https://calendly.com/businessinitiative/30-minute-consultation-call
 
 [Reach out here](https://www.businessinitiative.org/contact/) or send Business Initiative a message [@BisInitiative on X](https://twitter.com/BisInitiative)
 
