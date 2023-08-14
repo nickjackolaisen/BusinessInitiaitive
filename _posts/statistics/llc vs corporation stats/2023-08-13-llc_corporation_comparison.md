@@ -83,7 +83,15 @@ In conclusion, both corporations and LLCs offer unique advantages and disadvanta
 
 The right choice for your business will depend on your specific needs, goals, and circumstances. We hope this comprehensive statistical comparison has provided you with valuable insights to make the best decision for your venture.
 
-Ready to take the next step in establishing your business entity? Consult with a professional business attorney or accountant to ensure you're making the best choice for your unique situation.
+**Ready to take the next step in establishing your business entity?**
+
+[Schedule a contultation call](https://calendly.com/businessinitiative/30-minute-consultation-call) with Business Initiative to ensure you're making the best choice for your unique situation.
+
+**Have questions?**
+
+[Reach out here](https://www.businessinitiative.org/contact/) or send Business Initiative a message [@BisInitiative on X](https://twitter.com/BisInitiative)
+
+<script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
 ## Sources
 
@@ -96,3 +104,7 @@ Ready to take the next step in establishing your business entity? Consult with a
 -   [National Conference of State Legislatures: Incorporating a Business](https://www.ncsl.org/research/financial-services-and-commerce/incorporating-a-business.aspx)
 -   [Fundera: How Much Does it Cost to Form an LLC?](https://www.fundera.com/blog/cost-to-form-an-llc)
 -   [California Secretary of State: Limited Liability Company Filing Information](https://www.sos.ca.gov/business-programs/business-entities/limited-liability-company-filing-information)
+
+<br> DISCLAIMER:
+
+“Business Initiative” is for general educational purposes only. “Business Initiative” does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making binding decisions regarding starting, operating, and growing your business. Use external resources independently of “Business Initiative.” It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.
