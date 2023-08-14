@@ -1,5 +1,5 @@
 ---
-title: "The Evolution of Business Structures: Past, Present, and Future"
+title: "The Evolution of Business Structures: Past, Present, & Future"
 layout: post
 date: 2023-08-13
 author: jack_nicholaisen
