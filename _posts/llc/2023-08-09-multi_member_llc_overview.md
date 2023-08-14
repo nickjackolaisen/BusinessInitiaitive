@@ -89,7 +89,7 @@ If you're considering forming a multi-member LLC, consult with an experienced at
 
 Don't want to set up a call? You can [message us directly here](https://www.businessinitiative.org/contact/) or send us a DM [@BisInitiative on X](https://twitter.com/BisInitiative)
 
-<script async data-uid="0625212ce2" src="<https://adept-hustler-4565.ck.page/0625212ce2/index.js>"></script>
+<script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
 Here are some additional resources for readers who want to learn more about multi-member LLCs. These resources provide valuable insights and practical tips for managing a successful multi-member LLC.
 

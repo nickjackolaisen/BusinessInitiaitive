@@ -115,7 +115,7 @@ Have any questions?
 
 Contact Business Initiative NOW by [reaching out here](https://www.businessinitiative.org/contact/) or sending us a direct message [@BisInitiative on X](https://twitter.com/BisInitiative)
 
-<script async data-uid="0625212ce2" src="<https://adept-hustler-4565.ck.page/0625212ce2/index.js>"></script>
+<script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
 ## Sources
 

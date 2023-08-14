@@ -159,7 +159,7 @@ Together, we can build a thriving business community that achieves financial suc
 
 If you found this article insightful, be sure to share it with your fellow entrepreneurs and business owners.
 
-<script async data-uid="0625212ce2" src="<https://adept-hustler-4565.ck.page/0625212ce2/index.js>"></script>
+<script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
 ## Sources
 

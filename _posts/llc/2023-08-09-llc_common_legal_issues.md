@@ -199,7 +199,7 @@ Don't let legal challenges hold back your entrepreneurial dreams...
 
 **Let's turn your business vision into a reality!**
 
-<script async data-uid="0625212ce2" src="<https://adept-hustler-4565.ck.page/0625212ce2/index.js>"></script>
+<script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
 <br> DISCLAIMER:
 

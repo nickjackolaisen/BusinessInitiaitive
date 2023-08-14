@@ -125,7 +125,7 @@ Don't miss out on future insights and resources to help your business grow...
 
 Sign up to the Business Initiative newsletter now!
 
-<script async data-uid="0625212ce2" src="<https://adept-hustler-4565.ck.page/0625212ce2/index.js>"></script>
+<script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
 ## Sources
 

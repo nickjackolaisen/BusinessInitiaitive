@@ -112,7 +112,7 @@ or
 
 [Reach out directly here](https://www.businessinitiative.org/contact/) or by sending us a message [@BisInitiative on X](https://twitter.com/BisInitiative)
 
-<script async data-uid="0625212ce2" src="<https://adept-hustler-4565.ck.page/0625212ce2/index.js>"></script>
+<script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
 <br> DISCLAIMER:
 

@@ -119,7 +119,7 @@ Keep in mind that your choice should align with your business goals, financial n
 
 [Reach out here](https://www.businessinitiative.org/stats/business-structures/job-creation/%3Chttps://www.businessinitiative.org/contact/) or send Business Initiative a message [@BisInitiative on X](https://twitter.com/BisInitiative)
 
-<script async data-uid="0625212ce2" src="<https://adept-hustler-4565.ck.page/0625212ce2/index.js>"></script>
+<script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
 ## Sources
 

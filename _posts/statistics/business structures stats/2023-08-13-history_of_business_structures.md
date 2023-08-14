@@ -87,9 +87,9 @@ Start your business off on the right foot...
 
 [Reach out here](https://www.businessinitiative.org/stats/business-structures/job-creation/%3Chttps://www.businessinitiative.org/contact/) or send Business Initiative a message [@BisInitiative on X](https://twitter.com/BisInitiative)
 
-To stay informed and be prepared for the future of business, [subscribe to our newsletter](#) and continue exploring our resources for entrepreneurs.
+To stay informed and be prepared for the future of business, subscribe to our newsletter and continue exploring our resources for entrepreneurs.
 
-<script async data-uid="0625212ce2" src="<https://adept-hustler-4565.ck.page/0625212ce2/index.js>"></script>
+<script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
 ## Sources
 

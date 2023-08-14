@@ -53,7 +53,7 @@ Despite the advantages, there are also potential challenges associated with part
 
 -   **Less Control**: Sharing decision-making responsibilities also means that each partner has less control over the business, which can be challenging for some entrepreneurs.
 
-# Establishing Your Own Partnership: A Step-by-Step Guide
+## Establishing Your Own Partnership: A Step-by-Step Guide
 
 Are you considering forming a partnership for your business? Here's a step-by-step guide to help you establish your own partnership:
 
@@ -73,7 +73,7 @@ By following these steps, you can establish a successful partnership for your bu
 
 Good luck!
 
-# In Conclusion...
+## In Conclusion...
 
 Partnerships have become an increasingly popular choice for entrepreneurs in the modern business landscape.
 
@@ -95,7 +95,7 @@ Knowledge is power, and by sharing this information, you'll be helping others ma
 
 [Ask us here](https://www.businessinitiative.org/stats/business-structures/job-creation/%3Chttps://www.businessinitiative.org/contact/) or send Business Initiative a message [@BisInitiative on X](https://twitter.com/BisInitiative)
 
-<script async data-uid="0625212ce2" src="<https://adept-hustler-4565.ck.page/0625212ce2/index.js>"></script>
+<script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
 ## Sources
 

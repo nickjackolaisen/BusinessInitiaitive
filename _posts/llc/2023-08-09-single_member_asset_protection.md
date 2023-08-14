@@ -90,7 +90,7 @@ You're not alone.. Business Initiative is here to help you through this process!
 
 [Reach out here](https://www.businessinitiative.org/contact/) or send us a DM [@BisInitiative on X](https://twitter.com/BisInitiative)
 
-<script async data-uid="0625212ce2" src="<https://adept-hustler-4565.ck.page/0625212ce2/index.js>"></script>
+<script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
 ## Sources
 

@@ -95,7 +95,7 @@ Don't wait...
 
 [Schedule a consultation call](https://calendly.com/businessinitiative/30-minute-consultation-call) to start implementing these strategies today and unlock your LLC's financial potential!
 
-<script async data-uid="0625212ce2" src="<https://adept-hustler-4565.ck.page/0625212ce2/index.js>"></script>
+<script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
 ## Sources
 
