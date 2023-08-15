@@ -92,27 +92,27 @@ Now that you know which documents to keep, here are some practical tips to help 
 
 **1.**  Create a central filing system, either physically or digitally, to store all your LLC documents.
 
-    It is important to have a central location where all of your LLC documents can be stored. This can be either a physical filing system or a digital one, depending on your preference. By having a central location, you can easily access and manage your documents, ensuring that they are organized and up-to-date.
+It is important to have a central location where all of your LLC documents can be stored. This can be either a physical filing system or a digital one, depending on your preference. By having a central location, you can easily access and manage your documents, ensuring that they are organized and up-to-date.
 
 **2.**  Regularly update and maintain your records, ensuring their accuracy and completeness.
 
-    It is important to regularly update and maintain your LLC records to ensure their accuracy and completeness. This includes updating your company's address, contact information, and other important details. By doing so, you can avoid any potential legal or financial issues that may arise from outdated or incomplete records.
+It is important to regularly update and maintain your LLC records to ensure their accuracy and completeness. This includes updating your company's address, contact information, and other important details. By doing so, you can avoid any potential legal or financial issues that may arise from outdated or incomplete records.
 
 **3.**  Implement a consistent naming and organizing system for your files.
 
-    Having a consistent naming and organizing system for your LLC files can help you easily locate and manage your documents. This can include using a standard naming convention for your files, such as including the date and a brief description of the document. Additionally, organizing your files into folders or categories can help you quickly find the information you need.
+Having a consistent naming and organizing system for your LLC files can help you easily locate and manage your documents. This can include using a standard naming convention for your files, such as including the date and a brief description of the document. Additionally, organizing your files into folders or categories can help you quickly find the information you need.
 
 **4.**  Store backups of your digital records in a secure cloud storage service or an external hard drive.
 
-    It is important to have backups of your digital LLC records in case of data loss or corruption. Storing backups in a secure cloud storage service or on an external hard drive can help ensure that your data is safe and easily accessible. Be sure to regularly update your backups to ensure that they are current.
+It is important to have backups of your digital LLC records in case of data loss or corruption. Storing backups in a secure cloud storage service or on an external hard drive can help ensure that your data is safe and easily accessible. Be sure to regularly update your backups to ensure that they are current.
 
 **5.**  Keep physical documents in a safe and secure location, such as a fireproof safe or a safety deposit box.
 
-    Physical LLC documents should be kept in a safe and secure location to protect them from theft, damage, or loss. This can include storing them in a fireproof safe or a safety deposit box at a bank. Be sure to keep your physical documents organized and up-to-date to ensure that you can easily access them when needed.
+Physical LLC documents should be kept in a safe and secure location to protect them from theft, damage, or loss. This can include storing them in a fireproof safe or a safety deposit box at a bank. Be sure to keep your physical documents organized and up-to-date to ensure that you can easily access them when needed.
 
 **6.**  Familiarize yourself with state and federal record retention requirements, and dispose of records accordingly.
 
-    It is important to be aware of state and federal record retention requirements for LLC documents. This can include requirements for how long certain documents must be kept and how they should be disposed of. By following these requirements, you can ensure that your LLC is in compliance with the law and avoid any potential legal issues.
+It is important to be aware of state and federal record retention requirements for LLC documents. This can include requirements for how long certain documents must be kept and how they should be disposed of. By following these requirements, you can ensure that your LLC is in compliance with the law and avoid any potential legal issues.
 
 By following these tips, you'll ensure that your LLC remains organized, compliant, and prepared for any potential audits or legal disputes.
 
