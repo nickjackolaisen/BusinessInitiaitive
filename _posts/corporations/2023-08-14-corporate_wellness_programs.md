@@ -1,5 +1,5 @@
 ---
-title: "The Rise of Corporate Wellness Programs - Benefits and Best Practices"
+title: "23 Popular Wellness Programs to Use in Your Business - Benefits and Best Practices"
 layout: post
 date: 2023-08-14
 author: jack_nicholaisen
