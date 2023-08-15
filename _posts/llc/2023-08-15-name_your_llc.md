@@ -33,7 +33,7 @@ Most states require that your business name includes an LLC designator, such as 
 
 Some words and phrases are off-limits for LLC names, either because they're reserved for specific types of businesses (e.g., "Bank," "Attorney," "University") or they're considered misleading (e.g., "Federal," "National," "Government").
 
-Check your state's naming guidelines for a list of restricted words.
+**Check your state's naming guidelines for a list of restricted words.**
 
 -   **Appropriate Language**:
 
@@ -45,7 +45,7 @@ Most states prohibit LLC names that are offensive or obscene. Keep it profession
 
 As your business evolves, you may find that your original name no longer reflects your brand or offerings.
 
-Changing your LLC's name involves **filing an amendment with the state** where you registered your business. The process and fees for amending your LLC's name vary by state, so be sure to check with your Secretary of State office for specific guidelines.
+**Changing your LLC's name involves filing an amendment with the state** where you registered your business. The process and fees for amending your LLC's name vary by state, so be sure to check with your Secretary of State office for specific guidelines.
 
 -   Before changing your LLC's name, consider the potential impact on your branding, marketing materials, and legal documents.
 
@@ -139,7 +139,7 @@ Don't hesitate to reach out to us at any time with questions or concerns. You ca
 
 Let's work together to turn your business dreams into reality!
 
-Check us out on X (Twitter) [@BisInitiative](https://twitter.com/BisInitiative)!
+Check us out [@BisInitiative](https://twitter.com/BisInitiative)!
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 

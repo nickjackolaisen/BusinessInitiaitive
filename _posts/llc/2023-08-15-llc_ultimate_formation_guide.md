@@ -9,7 +9,7 @@ permalink: /llc/ultimate-formation-guide/
 
 Are you an aspiring entrepreneur or a business owner looking to form a Limited Liability Company (LLC)?
 
-**If so, you've landed at the right place!**
+**If so, you've come to the right place!**
 
 In this ultimate guide, we'll walk you through the entire process of forming an LLC, covering crucial steps and paperwork.
 
@@ -117,7 +117,7 @@ Our team of experts can assist you with everything from developing a winning bus
 
 We'll work closely with you every step of the way to ensure your LLC is set up for success.
 
-Don't hesitate to contact us at any time using our contact form [here](https://www.businessinitiative.org/contact/) or by hitting us up on X (Twitter) [@BisInitiative](https://twitter.com/BisInitiative). 
+Don't hesitate to contact us at any time using our contact form [here](https://www.businessinitiative.org/contact/) or by hitting us up [@BisInitiative](https://twitter.com/BisInitiative). 
 
 **Let's work together to turn your entrepreneurial vision into reality!**
 
