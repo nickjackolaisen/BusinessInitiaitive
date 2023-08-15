@@ -149,7 +149,7 @@ That's why [we offer consultation services](https://calendly.com/businessinitiat
 
 Don't hesitate to reach out to us for more information on how we can help your business become more sustainable.
 
-Contact us at [https://www.businessinitiative.org/contact/](https://www.businessinitiative.org/contact/) or send Business Initiative a message directly [@BisInitiative on X](https://twitter.com/BisInitiative).
+[Contact us here](https://www.businessinitiative.org/contact/) or send Business Initiative a message directly [@BisInitiative on X](https://twitter.com/BisInitiative).
 
 **Let's work together towards a better future for all.**
 

@@ -203,7 +203,7 @@ From assessing your current training methods to evaluating their outcomes, we wi
 
 Don't wait to invest in your employees' growth and development...
 
-Contact Business Initiative today at [https://www.businessinitiative.org/contact/](https://www.businessinitiative.org/contact/) or send us a DM [@BisInitiative on X](https://twitter.com/BisInitiative) \[insert phone number] to learn more about our consultation services. 
+Contact Business Initiative [here](https://www.businessinitiative.org/contact/) or send us a DM [@BisInitiative on X](https://twitter.com/BisInitiative). 
 
 Let us help you take your company's success to the next level.
 

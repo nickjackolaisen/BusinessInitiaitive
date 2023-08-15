@@ -225,7 +225,7 @@ Our experienced consultants can provide tailored solutions to meet your specific
 
 [Contact us today](https://www.businessinitiative.org/contact/) to learn more about how we can help you prepare for the future of corporate communication. 
 
-You can reach us [here] or by sending us a message at [@BisInitiative on X](https://twitter.com/BisInitiative).
+You can reach us [here](https://www.businessinitiative.org/contact/) or by sending us a message at [@BisInitiative on X](https://twitter.com/BisInitiative).
 
 Don't wait another minute...
 

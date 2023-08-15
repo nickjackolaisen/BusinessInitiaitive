@@ -123,7 +123,7 @@ Look no further than Business Initiative's consultation services. Our team of ex
 
 **Don't wait until it's too late**—contact us now for a [free consultation](https://calendly.com/businessinitiative/30-minute-consultation-call).
 
-Send us a message here or let us know what's up [@BisInitiative on X ](https://twitter.com/BisInitiative) 
+Send us a message [here](https://www.businessinitiative.org/contact/) or let us know what's up [@BisInitiative on X](https://twitter.com/BisInitiative). 
 
 Let us help you build a strong ethical foundation for your business today.
 

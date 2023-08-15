@@ -177,7 +177,7 @@ Business Initiative is here to help. Our team of experts can provide [personaliz
 
 [Contact us today](https://www.businessinitiative.org/contact/) to learn more about our services and how we can help you make a positive impact on society while driving business success.
 
-To get in touch with us, simply visit our contact page at [www.businessinitiative.com/contact/](https://www.businessinitiative.com/contact/) or hit us up [@BisInitiative on X](https://twitter.com/BisInitiative)
+To get in touch with us, simply visit our contact page [here](https://www.businessinitiative.com/contact/) or hit us up [@BisInitiative on X](https://twitter.com/BisInitiative)
 
 Don't wait...
 
