@@ -89,7 +89,7 @@ Furthermore, some argue that **corporations have a unique ability to drive posit
 
 Overall, while corporations face criticism for prioritizing profits over social responsibility, there are examples of positive impact within this type of business. As businesses continue to face pressure from consumers and stakeholders to prioritize social impact alongside financial success, it will be interesting to see how corporations respond and adapt.
 
-# 9 Factors Influencing Social Impact
+## 9 Factors Influencing Social Impact
 
 Various factors influence the social impact of businesses, regardless of their structure. Here are some key aspects to consider when evaluating the social impact of your organization:
 
