@@ -4,7 +4,7 @@ layout: post
 date: 2023-08-14
 author: jack_nicholaisen
 summary: "Elevate your business success by investing in your employees! Discover the importance of corporate training and development programs for employee retention and performance, and learn practical strategies for implementing effective training initiatives. Don't miss out on this game-changing article!"
-permalink: /corporation/globalization/
+permalink: /corporation/employee-training-programs/
 ---
 
 Corporate training and development is a topic that is often overlooked, yet it plays a crucial role in the success of any business. In today's fast-paced and competitive business environment, companies need to continuously adapt and innovate to stay ahead.
