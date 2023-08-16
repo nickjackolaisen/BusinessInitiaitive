@@ -61,7 +61,9 @@ Companies that prioritize corporate governance enjoy numerous benefits, includin
 
 **1.  Increased trust from stakeholders:** Good corporate governance can help build trust and confidence among investors and other stakeholders. [A survey by EY](https://www.ey.com/en_us/board-matters/the-importance-of-good-corporate-governance-for-institutional-investors) found that 96% of institutional investors consider good corporate governance to be an important factor when making investment decisions.
 
-**2.  Reduced risk:** Effective risk management is a key component of good corporate governance. By identifying and managing risks, companies can reduce the likelihood of financial losses and reputational damage. For example, [Wells Fargo's](https://www.bloomberg.com/news/articles/2018-02-05/wells-fargo-s-risk-management-failures-led-to-scandal-report-says) failure to adequately manage risk led to a scandal involving the creation of millions of unauthorized accounts, resulting in billions of dollars in fines and lost business.
+**2.  Reduced risk:** Effective risk management is a key component of good corporate governance. By identifying and managing risks, companies can reduce the likelihood of financial losses and reputational damage. 
+
+For example, [Wells Fargo's](https://www.bloomberg.com/news/articles/2018-02-05/wells-fargo-s-risk-management-failures-led-to-scandal-report-says) failure to adequately manage risk led to a scandal involving the creation of millions of unauthorized accounts, resulting in billions of dollars in fines and lost business.
 
 **3.  Improved decision-making:** Independent boards of directors can provide valuable insights and perspectives on a company's operations. This can help management make better decisions that are in the best interests of the company and its stakeholders.
 
@@ -73,7 +75,9 @@ Companies that prioritize corporate governance enjoy numerous benefits, includin
 
 ### Real World Applications
 
-One example of a company that has benefited from strong corporate governance is Johnson & Johnson. The company's commitment to ethical business practices helped it weather a crisis in 1982 when seven people died after taking Tylenol laced with cyanide. By taking swift action to recall all Tylenol products from store shelves and improve product safety measures, Johnson & Johnson was able to maintain customer trust and recover from the crisis ([Harvard Business Review](https://hbr.org/2018/09/johnson-johnsons-tylenol-crisis)).
+One example of a company that has benefited from strong corporate governance is Johnson & Johnson. The company's commitment to ethical business practices helped it weather a crisis in 1982 when seven people died after taking Tylenol laced with cyanide. 
+
+By taking swift action to recall all Tylenol products from store shelves and improve product safety measures, Johnson & Johnson was able to maintain customer trust and recover from the crisis ([Harvard Business Review](https://hbr.org/2018/09/johnson-johnsons-tylenol-crisis)).
 
 Another example is Microsoft, which has consistently ranked highly in corporate governance rankings. In 2020, the company was ranked third on the Forbes list of World's Best Employers and second on the Forbes list of America's Best Employers for Diversity ([Forbes](https://www.forbes.com/companies/microsoft/?list=worlds-best-employers/#1b2f5d6a7e4c)).
 
@@ -220,7 +224,9 @@ The board of trustees model is suitable for non-profit organizations that requir
 
 ## The Importance of Good Corporate Governance
 
-Good corporate governance practices are essential for building trust with stakeholders, managing risk, and ensuring the long-term viability of a company. By focusing on board composition, shareholder engagement, risk management, and ethical business practices, companies can create a strong foundation for success and growth. 
+Good corporate governance practices are essential for building trust with stakeholders, managing risk, and ensuring the long-term viability of a company. 
+
+By focusing on board composition, shareholder engagement, risk management, and ethical business practices, companies can create a strong foundation for success and growth. 
 
 Don't wait any longer to implement these best practices and watch your business thrive.
 
