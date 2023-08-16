@@ -1,5 +1,5 @@
 ---
-title: "The Ultimate Guide to Corporate Governance | Being Accountabile and Transparent in Business "
+title: "The In's and Out's of Corporate Governance | Best Practices for Ensuring Accountability and Transparency"
 layout: post
 date: 2023-08-16
 author: jack_nicholaisen
@@ -59,15 +59,17 @@ Companies have a responsibility to consider the impact they have on the environm
 
 Companies that prioritize corporate governance enjoy numerous benefits, including:
 
-**1.  Increased trust from stakeholders:** By practicing transparency and accountability, companies can build trust with their stakeholders. This trust can lead to increased investment, improved reputation, and better relationships with customers.
+**1.  Increased trust from stakeholders:** Good corporate governance can help build trust and confidence among investors and other stakeholders. [A survey by EY](https://www.ey.com/en_us/board-matters/the-importance-of-good-corporate-governance-for-institutional-investors) found that 96% of institutional investors consider good corporate governance to be an important factor when making investment decisions.
 
-**2.  Reduced risk:** Good corporate governance helps companies manage risks effectively. By identifying potential issues early on and taking steps to mitigate them, companies can avoid costly mistakes and protect their bottom line.
+**2.  Reduced risk:** Effective risk management is a key component of good corporate governance. By identifying and managing risks, companies can reduce the likelihood of financial losses and reputational damage. For example, [Wells Fargo's](https://www.bloomberg.com/news/articles/2018-02-05/wells-fargo-s-risk-management-failures-led-to-scandal-report-says) failure to adequately manage risk led to a scandal involving the creation of millions of unauthorized accounts, resulting in billions of dollars in fines and lost business.
 
 **3.  Improved decision-making:** Independent boards of directors can provide valuable insights and perspectives on a company's operations. This can help management make better decisions that are in the best interests of the company and its stakeholders.
 
-**4.  Higher financial performance:** A study by [MSCI](https://www.msci.com/documents/10199/04b6e2f0-d1e4-4a5f-ab9d-fae3b4f9941c) found that companies with strong corporate governance outperformed those with weak governance by 12.5% per year between 2007 and 2017.
+**4.  Higher financial performance:** Companies that prioritize good corporate governance have been shown to outperform their peers in terms of financial performance. According to [a study by the McKinsey Global Institute](https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/the-strategic-value-of-board-governance), companies with strong governance practices had a return on equity (ROE) that was 22 percentage points higher than those with weak governance practices.
 
 **5.  Better compliance:** Companies that follow good corporate governance practices are more likely to comply with laws and regulations. This reduces the risk of legal action or reputational damage.
+
+**6.  Enhanced reputation:** Companies that prioritize good corporate governance are often viewed more favorably by customers, employees, and other stakeholders. For example, [Patagonia's](https://www.patagonia.com/sustainability/) commitment to sustainability and ethical business practices has helped it build a loyal customer base and attract top talent.
 
 ### Real World Applications
 
