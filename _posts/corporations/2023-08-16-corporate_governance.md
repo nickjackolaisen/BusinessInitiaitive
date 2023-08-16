@@ -15,7 +15,7 @@ Good corporate governance is essential for building trust with stakeholders, man
 
 This article will discuss the principles of corporate governance and provide insights into best practices for maintaining a well-functioning and accountable organization.
 
-## Introduction to Corporate Governance
+## Intro to Corporate Governance
 
 Corporate governance has evolved over time as a response to various corporate scandals and financial crises, such as the Enron scandal in 2001 and the global financial crisis in 2008. These events highlighted the need for improved oversight, transparency, and accountability in the business world.
 
@@ -38,11 +38,8 @@ Easy access to this information is important. Transparency builds trust with sta
 Companies should not show favoritism to any particular group, and should ensure that everyone is treated fairly and with respect.
 
 Shareholders should have equal voting rights, and should be able to participate in the company's decision-making processes.
-
 Employees should be treated fairly in terms of pay, working conditions, and opportunities for advancement.
-
 Customers should be treated fairly in terms of pricing, product quality, and customer service.
-
 And the wider community should be treated fairly in terms of the impact of the company's activities on the environment and society.
 
 ### 4. Independence
