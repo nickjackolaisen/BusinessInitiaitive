@@ -1,5 +1,5 @@
 ---
-title: "Embracing Corporate Diversity and Inclusion: Strategies for a More Equitable Workplace"
+title: "Embracing Corporate Diversity and Inclusion - Strategies for a More Equitable Workplace"
 layout: post
 date: 2023-08-17
 author: jack_nicholaisen
@@ -92,19 +92,19 @@ For example, Marriott International has implemented a range of policies to promo
 There are several factors that can prevent diversity and inclusion in the workplace. Here are some of the biggest ones:
 
 **Unconscious bias**: This refers to the attitudes or stereotypes that people hold about certain groups of people, without necessarily being aware of it. These biases can lead to discriminatory practices that limit diversity. 
--   **The Solution**: Provide unconscious bias training to all employees and implement processes to mitigate bias in hiring, promotions, and performance evaluations.
+-   Solution: Provide unconscious bias training to all employees and implement processes to mitigate bias in hiring, promotions, and performance evaluations.
 
 **Lack of representation**: When there is a lack of diversity at the top levels of an organization, it can be difficult to create an inclusive culture that values different perspectives and experiences.
--   **The Solution**: Set diversity goals and hold leadership accountable for meeting them. Create mentorship and sponsorship programs to help diverse employees advance.
+-   Solution: Set diversity goals and hold leadership accountable for meeting them. Create mentorship and sponsorship programs to help diverse employees advance.
 
 **Hiring practices**: If hiring practices are not designed to attract a diverse pool of candidates, it can be difficult to build a diverse workforce.
--   **The Solution**: Use blind resume screening and diverse interview panels to reduce bias. Partner with diverse organizations to attract a wider pool of candidates.
+-   Solution: Use blind resume screening and diverse interview panels to reduce bias. Partner with diverse organizations to attract a wider pool of candidates.
 
 **Inflexible work arrangements**: When workplaces are not accommodating to different needs and lifestyles, it can make it difficult for people with different experiences to succeed.
--   **The Solution**: Offer flexible work arrangements, such as remote work and flexible hours, to accommodate different needs and lifestyles.
+-   Solution: Offer flexible work arrangements, such as remote work and flexible hours, to accommodate different needs and lifestyles.
 
 **Harassment and discrimination**: When harassment or discrimination occurs in the workplace, it can create a hostile environment that discourages diversity and inclusion.
--   **The Solution**: Implement zero-tolerance policies for harassment and discrimination. Provide training to all employees on how to identify and report harassment and discrimination.
+-   Solution: Implement zero-tolerance policies for harassment and discrimination. Provide training to all employees on how to identify and report harassment and discrimination.
 
 By addressing these factors, you can take steps towards fostering a more diverse and inclusive workplace culture in no time.
 
