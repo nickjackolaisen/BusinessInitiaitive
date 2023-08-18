@@ -64,19 +64,27 @@ Like any business model, franchising within an LLC has its own set of pros and c
 
 ### Subway
 
-Subway, one of the world's largest fast-food chains, operates many of its franchises as LLCs. Subway itself is organized as a limited liability company, which has helped protect the company and its franchisees from certain legal liabilities while allowing for a flexible management structure. Subway's success demonstrates how the LLC structure can be beneficial for both franchisors and franchisees. Learn more about Subway's LLC structure [here](https://www.subway.com/en-US/OwnAFranchise).
+Subway, one of the world's largest fast-food chains, operates many of its franchises as LLCs. Subway itself is organized as a limited liability company, which has helped protect the company and its franchisees from certain legal liabilities while allowing for a flexible management structure. Subway's success demonstrates how the LLC structure can be beneficial for both franchisors and franchisees. 
+
+Learn more about Subway's LLC structure [here](https://www.subway.com/en-US/OwnAFranchise).
 
 ### McDonald's
 
-McDonald's, another global fast-food giant, has also adopted the LLC structure for some of its franchises. McDonald's has a long history of franchising, and the LLC structure has provided additional benefits, such as liability protection and tax advantages for its franchisees. Read more about McDonald's franchising opportunities [here](https://www.mcdonalds.com/us/en-us/about-us/franchising.html).
+McDonald's, another global fast-food giant, has also adopted the LLC structure for some of its franchises. McDonald's has a long history of franchising, and the LLC structure has provided additional benefits, such as liability protection and tax advantages for its franchisees. 
+
+Read more about McDonald's franchising opportunities [here](https://www.mcdonalds.com/us/en-us/about-us/franchising.html).
 
 ### Dunkin' Donuts
 
-Dunkin' Donuts, the popular coffee and donut chain, is another successful franchise that operates under an LLC structure. The company's use of this structure has allowed for greater flexibility in management and liability protection for its franchisees. This has helped Dunkin' Donuts to expand rapidly across the United States and internationally. To learn more about Dunkin' Donuts franchising opportunities, visit their website [here](https://www.dunkindonuts.com/en/franchising).
+Dunkin' Donuts, the popular coffee and donut chain, is another successful franchise that operates under an LLC structure. The company's use of this structure has allowed for greater flexibility in management and liability protection for its franchisees. This has helped Dunkin' Donuts to expand rapidly across the United States and internationally. 
+
+To learn more about Dunkin' Donuts franchising opportunities, visit their website [here](https://www.dunkindonuts.com/en/franchising).
 
 ### 7-Eleven
 
-7-Eleven, the convenience store giant, also operates many of its franchises as LLCs. Using this business model has allowed 7-Eleven to provide its franchisees with greater autonomy in decision-making while still maintaining a strong brand identity and support system from the corporate office. To explore 7-Eleven's franchising options, check out their website [here](https://franchise.7-eleven.com/franchise/home).
+7-Eleven, the convenience store giant, also operates many of its franchises as LLCs. Using this business model has allowed 7-Eleven to provide its franchisees with greater autonomy in decision-making while still maintaining a strong brand identity and support system from the corporate office. 
+
+To explore 7-Eleven's franchising options, check out their website [here](https://franchise.7-eleven.com/franchise/home).
 
 By studying these famous franchises that operate under an LLC structure, you can gain valuable insights into how this business model can work for your own entrepreneurial endeavors. While it may not be the right fit for every business owner or industry, it is worth considering as a viable option for those looking to enter the world of franchising.
 
