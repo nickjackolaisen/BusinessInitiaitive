@@ -21,7 +21,7 @@ By the end of this article, you will have a better understanding of how to stay 
 Business agility is the ability of an organization to quickly and effectively respond to changes in the market, customer needs, and emerging opportunities. It involves creating a culture that values adaptability, flexibility, and innovation.
 
 <center>
-<img alt="Innovation and Brainstorming" src="/images/content/entreprenural-journey.png" style="width: 63%; height: 63%">
+<img alt="Innovation and Brainstorming" src="/images/content/entreprenural-journey.png" style="width: 75%; height: 75%">
 </center>
 <br>
 
@@ -60,7 +60,7 @@ Agile organizations enjoy numerous benefits, including:
 -   [**Spotify**](https://hbr.org/2018/07/how-spotify-balances-employee-autonomy-and-accountability) has continuously evolved its platform and business model since its launch in 2008. From personalized playlists to podcasts, Spotify has expanded its offerings while maintaining a focus on user experience and innovation. This agility has allowed Spotify to grow rapidly and become one of the most popular music streaming services worldwide.
 
 <center>
-<img alt="Agility leads to opportunity" src="/images/content/bridge-of-opportunity.png" style="width: 63%; height: 63%">
+<img alt="Agility leads to opportunity" src="/images/content/bridge-of-opportunity.png" style="width: 75%; height: 75%">
 </center>
 <br>
 
@@ -103,6 +103,11 @@ Agile management practices can support corporate agility by promoting flexibilit
 By implementing these practices, companies can create a truly agile organization that is capable of responding quickly to changing market conditions while still maintaining a focus on long-term success.
 
 Remember – agility is not just about embracing new methodologies or technologies; it's about fostering a culture of adaptability, flexibility, innovation, and continuous learning throughout your entire organization.
+
+<center>
+<img alt="Agility leads to opportunity" src="/images/content/road-to-success.png" style="width: 75%; height: 75%">
+</center>
+<br>
 
 ## Navigating Uncertainty and Change in the Workplace
 
