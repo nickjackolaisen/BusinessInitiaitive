@@ -2,6 +2,7 @@
 title: "Business Agility for Corporations - Adapt and Stay Ahead of the Competition"
 layout: post
 date: 2023-08-07
+update_date: 2023-08-18
 author: jack_nicholaisen
 summary: "Dive into the world of corporate agility and learn how to foster a nimble and adaptive organization. This article covers everything from creating a culture of adaptability to implementing agile management practices, with practical tips and famous examples to help you stay ahead of the competition. Don't miss out on these valuable insights – Read THIS and transform your business today!"
 permalink: /corporation/business-agility/
@@ -18,6 +19,11 @@ By the end of this article, you will have a better understanding of how to stay 
 ## What is Business Agility?
 
 Business agility is the ability of an organization to quickly and effectively respond to changes in the market, customer needs, and emerging opportunities. It involves creating a culture that values adaptability, flexibility, and innovation.
+
+<center>
+<img alt="Innovation and Brainstorming" src="/images/content/entreprenural-journey.png">
+</center>
+<br>
 
 With business agility, companies can make faster decisions, deliver products and services more efficiently, and meet customer demands with ease. In essence, business agility allows companies to pivot quickly when needed while still maintaining a focus on long-term goals.
 
@@ -52,6 +58,11 @@ Agile organizations enjoy numerous benefits, including:
 -   [**Amazon**](https://www.agilealliance.org/resources/experience-reports/amazons-agile-journey/) started as an online bookstore and later diversified its offerings to include a wide range of products and services, including cloud computing, streaming media, and artificial intelligence. Amazon's ability to pivot quickly in response to changing market conditions and customer needs has allowed the company to maintain its position as a leader in the retail and e-commerce industry.
 
 -   [**Spotify**](https://hbr.org/2018/07/how-spotify-balances-employee-autonomy-and-accountability) has continuously evolved its platform and business model since its launch in 2008. From personalized playlists to podcasts, Spotify has expanded its offerings while maintaining a focus on user experience and innovation. This agility has allowed Spotify to grow rapidly and become one of the most popular music streaming services worldwide.
+
+<center>
+<img alt="Agility leads to opportunity" src="/images/content/bridge-of-opportunity.png">
+</center>
+<br>
 
 ## Fostering a Culture of Adaptability and Learning
 
