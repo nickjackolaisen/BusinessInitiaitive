@@ -240,7 +240,7 @@ Act now by applying the insights and tips shared in this article!
 
 ## Sources
 
-[Forbes: The Most Effective Leadership Style](https://www.forbes.com/sites/davidrock/2019/02/22/the-most-effective-leadership-style/)
-[Inc: 5 Types of Leadership Styles and How to Use Them Effectively](https://www.inc.com/peter-economy/5-types-of-leadership-styles-and-how-to-use-them-effectively.html)
-[Harvard Business Review: The Best Leaders Use These 3 Styles](https://hbr.org/2015/06/the-best-leaders-use-these-3-styles)
-[Business Insider: 7 Leadership Styles Showcased by World Leaders](https://www.businessinsider.com/leadership-styles-around-the-world-2015-6)
+-   [Forbes: The Most Effective Leadership Style](https://www.forbes.com/sites/davidrock/2019/02/22/the-most-effective-leadership-style/)
+-   [Inc: 5 Types of Leadership Styles and How to Use Them Effectively](https://www.inc.com/peter-economy/5-types-of-leadership-styles-and-how-to-use-them-effectively.html)
+-   [Harvard Business Review: The Best Leaders Use These 3 Styles](https://hbr.org/2015/06/the-best-leaders-use-these-3-styles)
+-   [Business Insider: 7 Leadership Styles Showcased by World Leaders](https://www.businessinsider.com/leadership-styles-around-the-world-2015-6)

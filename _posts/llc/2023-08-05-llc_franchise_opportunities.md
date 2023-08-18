@@ -82,6 +82,11 @@ By studying these famous franchises that operate under an LLC structure, you can
 
 ## Franchise Structure and Legal Considerations
 
+<center>
+<img alt="Open a franchise" src="/images/content/planting-seeds.png" style="width: 75%; height: 75%">
+</center>
+<br>
+
 When operating a franchise as an LLC, there are several legal considerations to be aware of:
 
 -   **Formation and Registration**: 
@@ -162,6 +167,11 @@ Operating a franchise involves complying with various federal and state regulati
 By considering these points carefully before entering into a franchise agreement under an LLC structure ,you will be better equipped to make an informed decision and set yourself up for success as a franchisee.
 
 ## Evaluating Franchise Opportunities and Negotiating Agreements
+
+<center>
+<img alt="financial considerations" src="/images/content/business-evaluation.png" style="width: 75%; height: 75%">
+</center>
+<br>
 
 Before committing to a franchise opportunity, it's essential to conduct thorough research and due diligence. Here are some tips for evaluating franchise opportunities:
 
