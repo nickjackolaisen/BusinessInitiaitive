@@ -85,7 +85,7 @@ Start your business off on the right foot...
 
 **Have any questions?**
 
-[Reach out here](https://www.businessinitiative.org/stats/business-structures/job-creation/%3Chttps://www.businessinitiative.org/contact/) or send Business Initiative a message [@BisInitiative on X](https://twitter.com/BisInitiative)
+[Reach out here](https://www.businessinitiative.org/contact/) or send Business Initiative a message [@BisInitiative on X](https://twitter.com/BisInitiative)
 
 To stay informed and be prepared for the future of business, subscribe to our newsletter and continue exploring our resources for entrepreneurs.
 
