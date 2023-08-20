@@ -2,6 +2,7 @@
 title: "The Financial Performance of Different Business Structures"
 layout: post
 date: 2023-08-13
+update_date: 2023-08-20
 author: jack_nicholaisen
 summary: "Discover the financial performance of various business structures, including profitability and growth rates. Understand the factors influencing financial performance and make informed decisions for your business. Don't miss out on this essential guide for entrepreneurs and business owners!"
 permalink: /stats/business-structures/financial-performance/
@@ -16,6 +17,11 @@ Whether you're a seasoned professional or just starting, this article is a must-
 ## Measuring Profitability and Growth Rates in Your Business
 
 Profitability and growth rates are two essential metrics that determine the financial performance of a business. **Profitability measures how efficiently a company generates profit from its operations, while growth rates measure the rate at which a company is expanding its operations**. 
+
+<center>
+<img alt="Measureing profitability" src="/images/content/analytics.png" style="width: 75%; height: 75%">
+</center>
+<br>
 
 Measuring profitability and growth rates is critical for businesses to understand their financial health, identify areas for improvement, and allows them to make data-driven decisions.
 
@@ -52,6 +58,11 @@ A report by [Incfile](https://www.incfile.com/blog/post/llc-statistics/) found t
 ## Corporations
 
 Corporations are separate legal entities from their owners, providing limited liability protection and allowing for the raising of capital through stock issuance.
+
+<center>
+<img alt="corporations" src="/images/content/corporations.png" style="width: 75%; height: 75%">
+</center>
+<br>
 
 ### Profitability:
 
@@ -151,13 +162,7 @@ Together, we can build a thriving business community that achieves financial suc
 
 **Have any questions?**
 
-[Reach out here](https://www.businessinitiative.org/stats/business-structures/job-creation/%3Chttps://www.businessinitiative.org/contact/) or send Business Initiative a message [@BisInitiative on X](https://twitter.com/BisInitiative)
-
-<https://www.businessinitiative.org/contact/>
-
-@BisInitiative on X <https://twitter.com/BisInitiative>
-
-If you found this article insightful, be sure to share it with your fellow entrepreneurs and business owners.
+[Reach out here](https://www.businessinitiative.org/contact/) or send Business Initiative a message [@BisInitiative on X](https://twitter.com/BisInitiative)
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
@@ -173,3 +178,5 @@ If you found this article insightful, be sure to share it with your fellow entre
 <br> DISCLAIMER:
 
 “Business Initiative” is for general educational purposes only. “Business Initiative” does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making binding decisions regarding starting, operating, and growing your business. Use external resources independently of “Business Initiative.” It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.
+
+If you found this article insightful, be sure to share it with your fellow entrepreneurs and business owners.
