@@ -78,7 +78,7 @@ Choose the right business structure for your venture and be a part of the job cr
 
 Start now!
 
-[Reach out here](<https://www.businessinitiative.org/contact/) or send Business Initiative a message [@BisInitiative on X ](https://twitter.com/BisInitiative)
+[Reach out here](https://www.businessinitiative.org/contact/) or send Business Initiative a message [@BisInitiative on X ](https://twitter.com/BisInitiative)
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 

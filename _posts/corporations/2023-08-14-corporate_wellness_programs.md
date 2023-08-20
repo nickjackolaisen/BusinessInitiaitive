@@ -184,11 +184,11 @@ Let us help you invest in your employees' well-being and achieve long-term busin
 ## Sources
 
 -   [Centers for Disease Control and Prevention. (2021). Workplace Health Promotion](https://www.cdc.gov/workplacehealthpromotion/index.html)
--   ["Why Wellness Programs are on the Rise," Forbes](<-   https://www.forbes.com/sites/forbestechcouncil/2021/03/05/why-wellness-programs-are-on-the-rise/?sh=7eebb3fd6e44>)
--   ["The Benefits of Corporate Wellness Programs," Harvard Business Review](<-   https://hbr.org/2010/12/the-benefits-of-corporate-wellness-programs>)
+-   ["Why Wellness Programs are on the Rise," Forbes](https://www.forbes.com/sites/forbestechcouncil/2021/03/05/why-wellness-programs-are-on-the-rise/?sh=7eebb3fd6e44)
+-   ["The Benefits of Corporate Wellness Programs," Harvard Business Review](https://hbr.org/2010/12/the-benefits-of-corporate-wellness-programs)
 -   [Harvard Business Review. (2019). The Business Case for Corporate Wellness Programs](https://hbr.org/2019/05/the-business-case-for-corporate-wellness-programs)
 -   [Society for Human Resource Management. (2021). Workplace Wellness Programs](https://www.shrm.org/resourcesandtools/tools-and-samples/toolkits/pages/workplacewellnessprograms.aspx)
--   ["Google's Employee Wellness Program," CNBC](<-   https://www.cnbc.com/2018/10/26/heres-what-google-offers-employees-to-stay-healthy.html>)
+-   ["Google's Employee Wellness Program," CNBC](https://www.cnbc.com/2018/10/26/heres-what-google-offers-employees-to-stay-healthy.html)
 
 <br> DISCLAIMER:
 
