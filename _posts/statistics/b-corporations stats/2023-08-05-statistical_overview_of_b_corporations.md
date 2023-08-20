@@ -4,6 +4,7 @@ layout: post
 date: 2023-08-05
 author: jack_nicholaisen
 summary: "Discover the growth and impact of B Corps, a hybrid between traditional corporations and non-profit organizations. This article explores growth trends, social and environmental impact, and success factors that make B Corps an exciting and viable business structure for entrepreneurs and business owners. Dive into the numbers and learn about the potential advantages of becoming a B Corp!"
+image: /images/posts-headers/b-corp-statistics-header.png
 permalink: /stats/b-corp/overview/
 ---
 
