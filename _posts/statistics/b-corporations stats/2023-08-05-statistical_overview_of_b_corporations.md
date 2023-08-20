@@ -21,6 +21,11 @@ If you're a business owner or entrepreneur considering this path, read on to dis
 
 Since the first B Corp was certified in 2007, there has been a remarkable growth in their numbers and global presence. In the United States, the number of B Corps has increased dramatically over the past decade. In 2010, there were just 205 certified B Corps; by 2020, that number had surged to over 3,500 ([source](https://b-analytics.net/bcorp-data)).
 
+<center>
+<img alt="B Corporations market growth" src="/images/content/market-growth.png" style="width: 75%; height: 75%">
+</center>
+<br>
+
 As of September 2021, there were **more than 4,000 B Corps across 77 countries and 153 industries** ([source](https://bcorporation.net/directory)).
 
 Globally, the B Corp movement has expanded significantly, with strong growth in regions like Europe and Latin America. Between 2012 and 2020, **Europe saw a 10-fold increase in B Corps**, while **Latin America experienced a 14-fold increase** in the same period ([source](https://www.bcorporation.eu/about-b-lab/country-partner/b-lab-europe)).
@@ -52,6 +57,11 @@ Overall, the success of B Corps demonstrates that it is possible to create econo
 ## Social and Environmental Impact: Making a Difference
 
 B Corps are required to meet rigorous social and environmental performance standards, as well as transparency and accountability requirements. As a result, these companies often boast impressive track records when it comes to environmental stewardship, worker well-being, and community engagement.
+
+<center>
+<img alt="b-corps social and environmental impact" src="/images/content/bridge-of-opportunity.png" style="width: 75%; height: 75%">
+</center>
+<br>
 
 According to a study by B Lab, B Corps outperform traditional businesses in several key areas, including environmental performance, worker benefits, and community involvement ([source](https://bcorporation.net/news/new-research-shows-b-corps-are-outperforming-their-peers)). 
 
