@@ -6,6 +6,7 @@ update_date: 2023-08-13
 author: jack_nicholaisen
 summary: LLC stands for Limited Liability Company. Read this to find out how you can use one to fast-track your success.
 tags: what llc mean, what do llc means, what does being an llc mean	 
+image: /images/posts-headers/what-does-llc-mean-header.png
 permalink: /what-does-llc-mean/
 ---
 
