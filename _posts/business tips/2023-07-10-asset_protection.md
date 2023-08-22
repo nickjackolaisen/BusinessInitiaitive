@@ -37,7 +37,7 @@ Tangible assets are crucial for daily business operations and often represent a 
 **2.  Intangible Assets**: Intellectual Property, Trade Secrets, and Brand Reputation
 
 <center>
-<img alt="intangible assets" src="/images/content/intellestual.png" style="width: 75%; height: 75%">
+<img alt="intangible assets" src="/images/content/intellestual.png" style="width: 63%; height: 63%">
 </center>
 <br>
 
@@ -46,7 +46,7 @@ These are critical for a company's competitive edge and long-term success. Ensur
 **3.  Financial Assets**: Cash, Investments, and other Financial Instruments 
 
 <center>
-<img alt="Financial assets" src="/images/content/investments.png" style="width: 75%; height: 75%">
+<img alt="Financial assets" src="/images/content/investments.png" style="width: 40%; height: 40%">
 </center>
 <br>
 
