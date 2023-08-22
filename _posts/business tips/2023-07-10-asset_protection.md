@@ -2,8 +2,10 @@
 title: "Asset Protection Strategies for Small Business Owners"
 layout: post
 date: 2023-07-10
+update_date: 2023-08-22
 author: jack_nicholaisen
 summary: Want to safeguard your hard-earned business assets? Read this insightful guide. By exploring the various asset protection strategies, entrepreneurs can ensure their businesses continue to thrive in turbulent times. Don't miss out on these valuable tips that could make all the difference for your company's financial security and long-term success.
+image: /images/posts-headers/small-business-asset-protection.png
 permalink: /business-tips/asset-protection/
 ---
 
@@ -32,6 +34,11 @@ Tangible assets are crucial for daily business operations and often represent a 
 These are critical for a company's competitive edge and long-term success. Ensuring the proper protection of these assets can prevent loss of valuable information, safeguard proprietary technology, and maintain a positive brand image.
 
 **3.  Financial Assets**: Cash, Investments, and other Financial Instruments 
+
+<center>
+<img alt="Financial assets" src="/images/content/investments.png" style="width: 75%; height: 75%">
+</center>
+<br>
 
 Valuables like these are vital for a company's liquidity and overall financial health. Protecting these assets can help entrepreneurs maintain their companies' solvency, weather economic downturns, and plan for future growth.
 
