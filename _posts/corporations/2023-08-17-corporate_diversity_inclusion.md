@@ -140,7 +140,6 @@ Let us help you unlock the full potential of your workforce and position your bu
 -   ["Why Diversity and Inclusion Matter: Quick Take"](https://www.catalyst.org/research/why-diversity-and-inclusion-matter-quick-take/)
 -   ["Diversity and Inclusion"](https://www.apple.com/diversity/)
 -   ["Intel's Plan to Increase Diversity in Tech: A WarmLine for Workers"](https://www.theguardian.com/technology/2016/jan/06/intel-diversity-in-tech-warm-line-workers)
--   ["Marriott International's Commitment to Diversity and Inclusion"](https://www.marriott.com/diversity/diversity-and-inclusion.mi)
 -   [National Bureau of Economic Research](https://www.nber.org/papers/w9873)
 -   [Harvard Business Review](https://hbr.org/2017/04/why-structured-interviews-are-so-predictive)
 -   [Deloitte](https://www2.deloitte.com/us/en/insights/deloitte-review/issue-21/diversity-and-inclusion-at-work-eight-powerful-truths.html)
@@ -151,9 +150,6 @@ Let us help you unlock the full potential of your workforce and position your bu
 -   [The Society for Human Resource Management](https://www.shrm.org/resourcesandtools/hr-topics/behavioral-competencies/global-and-cultural-effectiveness/pages/diversity-inclusion-training-managers.aspx)
 -   [Harvard Business Review](https://hbr.org/2018/07/the-business-case-for-diversity)
 -   [American Express: BlueWork](https://www.diversitybestpractices.com/benchmarking-toolkit/american-express-bluework)
--   [Creating an Inclusive Workplace Culture](www.catalyst.org/research/creating-inclusive-workplace-culture/)
--   [Diversity and Inclusion](www.marriott.com/diversity-and-inclusion.mi)
-
 <br> DISCLAIMER:
 
 “Business Initiative” is for general educational purposes only. “Business Initiative” does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making binding decisions regarding starting, operating, and growing your business. Use external resources independently of “Business Initiative.” It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.
