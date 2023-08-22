@@ -27,9 +27,19 @@ Protecting assets is necessary in various situations, including potential lawsui
 
 **1.  Tangible Assets**: Buildings, Land, Machinery, Equipment, and Inventory 
 
+<center>
+<img alt="tangible assets" src="/images/content/real-estate.png" style="width: 75%; height: 75%">
+</center>
+<br>
+
 Tangible assets are crucial for daily business operations and often represent a significant portion of a company's value. Protecting these assets can ensure business continuity and prevent financial losses from theft, damage, or other unforeseen events.
 
 **2.  Intangible Assets**: Intellectual Property, Trade Secrets, and Brand Reputation
+
+<center>
+<img alt="intangible assets" src="/images/content/intellestual.png" style="width: 75%; height: 75%">
+</center>
+<br>
 
 These are critical for a company's competitive edge and long-term success. Ensuring the proper protection of these assets can prevent loss of valuable information, safeguard proprietary technology, and maintain a positive brand image.
 
@@ -45,6 +55,11 @@ Valuables like these are vital for a company's liquidity and overall financial h
 ## Common Situations Where Business Assets May Be at Risk
 
 ### Lawsuits
+
+<center>
+<img alt="Financial assets" src="/images/content/copyright-claim.png" style="width: 75%; height: 75%">
+</center>
+<br>
 
 In a litigious society, businesses are often exposed to potential lawsuits from various sources, including employees, customers, competitors, or even government regulators. In a [notable case](https://www.forbes.com/sites/forbeswealthteam/2020/04/08/zoom-sued-for-allegedly-failing-to-disclose-privacy-security-flaws/?sh=4de2b1f1c3b5), video conferencing platform Zoom faced a class-action lawsuit over alleged privacy and security flaws. This case highlights the importance of implementing asset protection strategies to safeguard a company's financial and intangible assets from potential litigation.
 
