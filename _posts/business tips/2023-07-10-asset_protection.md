@@ -17,38 +17,53 @@ Below, we discuss the major assets of businesses, why they should be protected, 
 
 ## The Importance of Protecting Your Business's Assets
 
-Business owners dedicate significant time, effort, and resources to build their companies, and their assets often represent the fruits of their labor. These assets can be both tangible, such as real estate and machinery, and intangible, such as intellectual property and brand reputation. 
+Business owners dedicate significant time, effort, and resources to build their companies, and their assets often represent the fruits of their labor. 
+
+These assets can be both tangible, such as real estate and machinery, and intangible, such as intellectual property and brand reputation. 
 
 By securing these assets, entrepreneurs can safeguard their investments, minimize financial risks, and ensure the continued growth and success of their businesses.
 
-Protecting assets is necessary in various situations, including potential lawsuits, financial crises, or even personal life changes. Regardless of the circumstances, asset protection strategies can help business owners preserve their wealth and maintain control over their companies.
+Protecting assets is necessary in various situations, including potential lawsuits, financial crises, or even personal life changes. 
+
+Regardless of the circumstances, asset protection strategies can help business owners preserve their wealth and maintain control over their companies.
 
 ## Major Business Assets and Why They Should Be Protected
 
-**1.  Tangible Assets**: Buildings, Land, Machinery, Equipment, and Inventory 
+**1.  Tangible Assets**: 
+
+-   Buildings, 
+-   Land, 
+-   Machinery,
+-   Equipment, 
+-   and Inventory 
 
 <center>
-<img alt="tangible assets" src="/images/content/real-estate.png" style="width: 75%; height: 75%">
+<img alt="tangible assets" src="/images/content/real-estate.png" style="width: 63%; height: 63%">
 </center>
-<br>
 
 Tangible assets are crucial for daily business operations and often represent a significant portion of a company's value. Protecting these assets can ensure business continuity and prevent financial losses from theft, damage, or other unforeseen events.
 
-**2.  Intangible Assets**: Intellectual Property, Trade Secrets, and Brand Reputation
+**2.  Intangible Assets**: 
+
+-   Intellectual Property, 
+-   Trade Secrets, 
+-   and Brand Reputation
 
 <center>
 <img alt="intangible assets" src="/images/content/intellestual.png" style="width: 63%; height: 63%">
 </center>
-<br>
 
 These are critical for a company's competitive edge and long-term success. Ensuring the proper protection of these assets can prevent loss of valuable information, safeguard proprietary technology, and maintain a positive brand image.
 
-**3.  Financial Assets**: Cash, Investments, and other Financial Instruments 
+**3.  Financial Assets**: 
+
+-   Cash, 
+-   Investments, 
+-   and other Financial Instruments 
 
 <center>
-<img alt="Financial assets" src="/images/content/investments.png" style="width: 40%; height: 40%">
+<img alt="Financial assets" src="/images/content/investments.png" style="width: 63%; height: 63%">
 </center>
-<br>
 
 Valuables like these are vital for a company's liquidity and overall financial health. Protecting these assets can help entrepreneurs maintain their companies' solvency, weather economic downturns, and plan for future growth.
 
@@ -57,9 +72,8 @@ Valuables like these are vital for a company's liquidity and overall financial h
 ### Lawsuits
 
 <center>
-<img alt="Financial assets" src="/images/content/copyright-claim.png" style="width: 75%; height: 75%">
+<img alt="Financial assets" src="/images/content/copyright-claim.png" style="width: 63%; height: 63%">
 </center>
-<br>
 
 In a litigious society, businesses are often exposed to potential lawsuits from various sources, including employees, customers, competitors, or even government regulators. In a [notable case](https://www.forbes.com/sites/forbeswealthteam/2020/04/08/zoom-sued-for-allegedly-failing-to-disclose-privacy-security-flaws/?sh=4de2b1f1c3b5), video conferencing platform Zoom faced a class-action lawsuit over alleged privacy and security flaws. This case highlights the importance of implementing asset protection strategies to safeguard a company's financial and intangible assets from potential litigation.
 
