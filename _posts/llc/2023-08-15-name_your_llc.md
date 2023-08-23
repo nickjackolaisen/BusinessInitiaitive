@@ -21,11 +21,13 @@ Keep reading to learn more...
 
 ## Naming Rules and Regulations
 
+Before you start brainstorming names for your LLC, it's essential to understand the rules and regulations governing LLC names. 
+
 <center>
 <img alt="naming rules and regulations" src="/images/content/lao-tzu-journey.png" style="width: 63%; height: 63%">
 </center>
 
-Before you start brainstorming names for your LLC, it's essential to understand the rules and regulations governing LLC names. These rules vary by state, but there are some common requirements across the board:
+These rules vary by state, but there are some common requirements across the board:
 
 -   **Uniqueness**:
 

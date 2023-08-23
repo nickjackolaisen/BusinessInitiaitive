@@ -58,7 +58,7 @@ Like any business model, franchising within an LLC has its own set of pros and c
 ## Famous Franchises Operated as LLCs
 
 <center>
-<img alt="Open a franchise" src="/images/content/famous-franchises.png" style="width: 75%; height: 75%">
+<img alt="Open a franchise" src="/images/content/franchises.png" style="width: 75%; height: 75%">
 </center>
 <br>
 
