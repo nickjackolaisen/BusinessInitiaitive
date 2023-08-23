@@ -126,7 +126,7 @@ It's also important to consider the amount of liability you take on as a Sole Pr
 ## What are 3 trade offs of running a Sole Proprietorship?
 
 <center>
-<img alt="branding" src="/images/content/work-harder.png" style="width: 63%; height: 63%">
+<img alt="trade offs" src="/images/content/work-harder.png" style="width: 63%; height: 63%">
 </center>
 
 #### 1.	Protection
@@ -178,7 +178,7 @@ With that being said…
 **Cargill is the biggest privately owned corporation in America coming in at an annual revenue of $165 Billion**, according to their [2022 Annual Report](https://www.cargill.com/doc/1432215917376/2022-cargill-annual-report.pdf). This food production giant was started way back in 1865 and currently employees 155,000 workers worldwide.
 
 <center>
-<img alt="branding" src="/images/content/cargill-headquarters.png" style="width: 63%; height: 63%">
+<img alt="cargill headquarters" src="/images/content/cargill-headquarters.png" style="width: 63%; height: 63%">
 </center>
 
 Based on their wikipedia page, Cargill brought in a **net profit of $4.93 Billion in 2021**, after material costs and taxes. Being a private company, Cargill  restricts access to their financial reports. Here is what they've released so far:
@@ -204,7 +204,7 @@ Since the owner is viewed as the business from a legal standpoint, they have ful
 As the simplest business entity, Sole Proprietorships are not registered with the state. All it takes to [start one](https://www.businessinitiative.org/sole-proprietorship/examples/) is to make money providing a service or product under your legal name. This gets you out of having to file paperwork with your local government and pay registration, filing fees, and annual maintenance costs. All of which have to be done when operating an LLC or Corporation. 
 
 <center>
-<img alt="branding" src="/images/content/woman-worker.png" style="width: 63%; height: 63%">
+<img alt="informal business structure" src="/images/content/woman-worker.png" style="width: 63%; height: 63%">
 </center>
     
 ####  5. Pass-Through Taxation
@@ -229,7 +229,7 @@ Now your small business isn't so small anymore.
 ## What are 5 disadvantages of a Sole Proprietorship?
 
 <center>
-<img alt="branding" src="/images/content/the-grind.png" style="width: 63%; height: 63%">
+<img alt="disadvantages" src="/images/content/the-grind.png" style="width: 63%; height: 63%">
 </center>
 
 **1.**  Sole proprietors are **fully responsible** for all aspects of their business. Total liability prevents owners from taking the risks necessary for some businesses to flourish.
@@ -247,7 +247,7 @@ Now your small business isn't so small anymore.
 ## Do Sole Proprietorships have unlimited life?
 
 <center>
-<img alt="branding" src="/images/content/evolution-of-man.png" style="width: 63%; height: 63%">
+<img alt="business lifetime" src="/images/content/evolution-of-man.png" style="width: 63%; height: 63%">
 </center>
 
 No, Sole Proprietorship entities will end when one of the following events occur:
