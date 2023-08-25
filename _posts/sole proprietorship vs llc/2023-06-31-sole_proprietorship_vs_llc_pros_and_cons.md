@@ -2,8 +2,10 @@
 layout: post
 title: "Sole Proprietorship vs LLC: Pros and Cons"
 date: 2023-06-31
+update_date: 2023-08-25
 author: jack_nicholaisen
 summary: A complete comparison of the various pros and cons of both Sole Proprietorships and Limited Liability Companies.  
+image: /images/posts-headers/sole-proprietorship-vs-llc-pros-cons-header.png
 permalink: /sole-proprietorship-vs-llc/pros-and-cons/
 ---
 
@@ -41,6 +43,10 @@ LLCs offer Limited Personal Liability Protections by distinguishing between busi
 
 When you conduct business as an LLC your personal belongings are protected from business lawsuits and debts. Your assets include things like your house, car, personal bank accounts, and any other investments you may have. 
 
+<center>
+<img alt="llc advantages" src="/images/content/entreprenur.png" style="width: 63%; height: 63%">
+</center>
+
 Let’s say, your LLC catches a lawsuit or owes money to creditors: 
 
 In both situations, the claim is only made against the LLC itself, not you and the other Members. 
@@ -73,6 +79,10 @@ As you grow your business, you can change your LLC’s characteristics to fit yo
 
 Your LLC's protections remain active so long as you follow state and federal laws and regulations. If you are making 20,000USD a year and own a Honda you get the same protections as someone making 20,000,000USD a year driving a Lambo. 
 
+<center>
+<img alt="llc advantages" src="/images/content/road-to-success.png" style="width: 63%; height: 63%">
+</center>
+
 To put it simply, your growth in an LLC isn’t limited as much as it is for a Sole Proprietorship. 
 
 ### Credibility and Rapport ###
@@ -100,6 +110,10 @@ With so much variation in the LLC’s management, your distribution of ownership
 
 While most founders divvy up ownership based on each member’s initial investment, some leave room to account for each member’s continual contribution to the LLC.
 
+<center>
+<img alt="llc advantages" src="/images/content/success-favors-the-prepared.png" style="width: 63%; height: 63%">
+</center>
+
 <br>DISCLAIMER:
 
 "Business Initiative" is for general educational purposes only. "Business Initiative" does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making any binding decisions when it comes to starting, operating, and growing your business. External resources should be used independently of "Business Initiative". It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.
@@ -120,7 +134,11 @@ You don’t need other owners to agree with you on important business decisions 
 
 This is a huge advantage Sole Proprietorships have over LLCs where control and ownership are shared.
 
-No Paperwork
+**No Paperwork!**
+
+<center>
+<img alt="sole proprietorship advantages" src="/images/content/women-worker.png" style="width: 63%; height: 63%">
+</center>
 
 Sole Proprietorships are by far the easiest business to start. There is no registration required to be a Sole Proprietor. 
 
@@ -135,6 +153,10 @@ After things are up and running and the money is rolling in, the only kind of �
 In Sole Proprietorships, all business profits are automatically considered personal profits. 
 
 With everything being personal, paying taxes is as simple as including your business profits/losses in your personal income tax returns. 
+
+<center>
+<img alt="sole proprietorship advantages" src="/images/content/taxes.png" style="width: 63%; height: 63%">
+</center>
 
 This is the beauty of the Pass-Through Process. Your business taxes are “passed” on to you. 
 
@@ -172,6 +194,10 @@ Then, every year after you register, there is a recurring annual filing fee. The
 Along with the annual payment, you must also submit special documentation to keep the filings up-to-date. There are third-party services you can hire to compile and submit the correct information for you. 
 
 You can lose your LLC if you somehow forget to pay the recurring filing fees or don’t submit the necessary paperwork on time. 
+
+<center>
+<img alt="sole proprietorship advantages" src="/images/content/planting-seeds.png" style="width: 63%; height: 63%">
+</center>
 
 ### Maintenance ###
 
@@ -211,6 +237,10 @@ You pay the same tax rate on your side-hustle as you do for your main source of 
 
 To pay Self-Employment Tax:  Simply complete and submit the [1040-SE Form](https://www.irs.gov/pub/irs-pdf/f1040sse.pdf) alongside your [1040 Income Tax](https://www.irs.gov/pub/irs-pdf/f1040.pdf) and [1040-C Forms](https://www.irs.gov/pub/irs-pdf/f1040sc.pdf). 
 
+<center>
+<img alt="sole proprietorship advantages" src="/images/content/bridge-of-opportunity.png" style="width: 63%; height: 63%">
+</center>
+
 ### Limited Scalability ###
 
 As you build your business, your responsibility and risk grow with it. You become limited to what you can handle on your own and will have to think about upgrading to an LLC and hiring outside help.
@@ -242,6 +272,10 @@ When deciding on which business type is best for your level of experience, your 
 If you want something more basic, without any protections or set-up requirements: The Sole Proprietorship is your best bet. 
 
 If you want to protect your personal property and don’t mind the added complexity of registration: The LLC is the business entity for you.
+
+<center>
+<img alt="sole proprietorship vs llc" src="/images/content/businessman.png" style="width: 63%; height: 63%">
+</center>
 
 Although they differ in their protection, Sole Proprietorships and LLCs have one major aspect in common:
 
