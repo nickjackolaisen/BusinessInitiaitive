@@ -30,7 +30,7 @@ Dive in now and unlock the full potential of your future LLC!
 
 ## LLC Basics
 
-### 1.  What is a Limited Liability Company (LLC)?
+-   ###  What is a Limited Liability Company (LLC)?
 A Limited Liability Company (LLC) is a type of business structure that combines the flexibility and simplicity of a sole proprietorship or partnership with the [limited liability protection](https://www.investopedia.com/terms/l/llc.asp) of a corporation.
 
 <details>
@@ -58,172 +58,198 @@ An LLC's members enjoy limited liability protection similar to that of sharehold
 </p>
 </details>
 
-### 2.  How is an LLC different from a sole proprietorship?
+-   ###  How is an LLC different from a sole proprietorship?
 An LLC differs from a sole proprietorship in that it provides limited liability protection to its owners, separating personal assets from business debts and obligations, while a sole proprietorship does not offer this protection. [Compare here](https://www.sba.gov/business-guide/launch-your-business/choose-business-structure#section-header-0)
 
 <details>
 <summary>Learn More...</summary>
 <br>
 
-<b>A. Liability Protection</b>
-
+<b>Liability Protection</b>
+<p>
 Sole proprietors have unlimited personal liability for their business debts and obligations; whereas in an LLC, members have limited liability protection.
+</p>
 
-<b>B. Taxation Differences</b>
-
+<b>Taxation Differences</b>
+<p>
 Both sole proprietorships and single-member LLCs receive pass-through taxation by default; however, only an LLC has the option to be taxed as a corporation if desired.
+</p>
 
-<b>C. Formalities and Paperwork</b>
-
+<b>Formalities and Paperwork</b>
+<p>
 Forming an LLC requires filing state paperwork and may involve ongoing reporting requirements. Sole proprietorships don't require formal registration or paperwork, though they may still need to obtain local business licenses.
+</p>
 </details>
 
-### 3.  How is an LLC different from a partnership?
+-   ###  How is an LLC different from a partnership?
 An LLC offers limited liability protection for its owners, whereas partners in a general partnership are personally responsible for all business debts and liabilities. [Comparison details](https://www.score.org/resource/general-partnership-vs-limited-liability-company)
 
 <details>
 <summary>Learn More...</summary>
 <br>
 
-<b>A. Liability Protection</b>
-
+<b>Liability Protection</b>
+<p>
 In general partnerships, partners are personally liable for all business debts and obligations, while in an LLC, members have limited liability protection.
+</p>
 
-<b>B. Taxation Differences</b>
-
+<b>Taxation Differences</b>
+<p>
 Both general partnerships and multi-member LLCs receive pass-through taxation by default; however, only an LLC has the option to be taxed as a corporation if desired.
+</p>
 
-<b>C. Formation Process</b>
-
+<b>Formation Process</b>
+<p>
 An LLC requires state registration through the filing of Articles of Organization, while general partnerships do not require formal registration but should have a written partnership agreement in place.
+</p>
 </details>
 
-### 4.  How is an LLC different from a corporation?
+-   ###  How is an LLC different from a corporation?
 An LLC has fewer formalities and more management flexibility than corporations, while still providing limited liability protection to its owners. Unlike corporations, LLCs aren't required to hold regular board meetings or maintain extensive records, but they also don't have the option to issue stock as corporations do. [Differences explained](https://www.nolo.com/legal-encyclopedia/key-differences-between-corporation-llc.html)
 
 <details>
 <summary>Learn More...</summary>
 <br>
 
-**A. Management Structure**
-
+<b>Management Structure</b>
+<p>
 Corporations have a more rigid management structure with shareholders, directors, and officers; whereas LLCs have flexible management options that can be customized in their operating agreement.
+</p>
 
-**B. Formalities and Recordkeeping**
-
+<b>Formalities and Recordkeeping</b>
+<p>
 Corporations must adhere to strict recordkeeping and meeting requirements, while LLCs have fewer formalities in this regard.
+</p>
 
-**C. Taxation Differences**
-
+<b>Taxation Differences</b>
+<p>
 Corporations are subject to double taxation (profits are taxed at the corporate level and dividends at the shareholder level) unless they elect S-corporation status; whereas by default, single-member LLCs are taxed as sole proprietorships and multi-member LLCs as partnerships, with the option to elect corporate taxation if desired.
+</p>
 </details>
 
-### 5.  What is a single-member LLC?
+-   ###  What is a single-member LLC?
 A single-member LLC is an LLC with only one owner (member), offering limited liability protection and pass-through taxation similar to a sole proprietorship. [Single-member LLC explained](https://www.nolo.com/legal-encyclopedia/single-member-limited-liability-companies.html)
 
 <details>
 <summary>Learn More...</summary>
 <br>
 
-**A. Definition and Overview**
-
+<b>Definition and Overview</b>
+<p>
 A single-member LLC is a limited liability company with just one owner (member) who enjoys the benefits of limited liability protection while being taxed as a sole proprietorship by default.
+</p>
 
-**B. Formation Process**
-
+<b>Formation Process</b>
+<p>
 The formation process for a single-member LLC is similar to that of a multi-member LLC, requiring filing Articles of Organization with the appropriate state agency and creating an operating agreement.
+</p>
 
-**C. Taxation**
-
+<b>Taxation</b>
+<p>
 By default, a single-member LLC is treated as a disregarded entity for tax purposes, with income and expenses reported on the owner's personal tax return (Schedule C). However, it can also elect to be taxed as a corporation if desired.
+</p>
 
-**D. Legal Protection**
-
+<b>Legal Protection</b>
+<p>
 A single-member LLC provides its owner with limited liability protection similar to that of shareholders in a corporation, shielding personal assets from business debts and lawsuits.
 
 [Evaluating Single-Member LLCs](https://www.thebalancesmb.com/starting-a-single-member-limited-liability-company-1200852)
+</p>
 </details>
 
-### 6.  What is a multi-member LLC?
+-    ###  What is a multi-member LLC?
 A multi-member LLC is an LLC with two or more owners (members), providing limited liability protection and pass-through taxation similar to a partnership by default. [Multi-member LLC details](https://www.nolo.com/legal-encyclopedia/multiple-members-llcs.html)
 
 <details>
 <summary>Learn More...</summary>
 <br>
 
-**A. Definition and Overview**
-
+<b>Definition and Overview</b>
+<p>
 A multi-member LLC is a limited liability company with two or more owners (members), offering its members limited liability protection while being taxed as a partnership by default.
+</p>
 
-**B. Formation Process**
-
+<b>Formation Process</b>
+<p>
 The formation process for a multi-member LLC involves filing Articles of Organization with the appropriate state agency, paying filing fees, and creating an operating agreement that outlines the rules governing the company's operations and each member's rights and responsibilities.
+</p>
 
-**C. Taxation**
-
+<b>Taxation</b>
+<p>
 By default, multi-member LLCs are treated as partnerships for tax purposes, with profits passing through to each member's personal tax return based on their ownership share. Alternatively, they can elect to be taxed as corporations if desired.
+</p>
 
-**D. Legal Protection**
-
+<b>Legal Protection</b>
+<p>
 Multi-member LLCs provide their members with limited liability protection similar to that of shareholders in a corporation, protecting personal assets from business debts and lawsuits.
+</p>
 
-**E. Practical Tips**
-
+<b>Practical Tips</b>
+<p>
 In a multi-member LLC, it's crucial to have a well-drafted operating agreement outlining each member's rights, responsibilities, and profit-sharing arrangements to avoid potential disputes and misunderstandings.
 
 [Understanding Multi-Member LLCs](https://www.legalzoom.com/articles/multi-member-llcs-partnership-taxation-and-liability-protection)
+</p>
 </details>
 
 ## Advantages and Disadvantages of an LLC
 
-### 1.  What are the advantages of forming an LLC?
+-   ###  What are the advantages of forming an LLC?
 Some advantages of forming an LLC include limited liability protection, pass-through taxation, flexible management structure, and ease of formation compared to corporations. [Advantages overview](https://startupsavant.com/benefits-of-forming-an-llc)
 
 <details>
 <summary>Learn More...</summary>
 <br>
 
-**A. Limited Liability Protection**
-
+<b>1. Limited Liability Protection</b>
+<p>
 Members of an LLC enjoy limited liability protection similar to that of shareholders in a corporation.
+</p>
 
-**B. Pass-Through Taxation**
-
+<b>2. Pass-Through Taxation</b>
+<p>
 By default, single-member LLCs are taxed as sole proprietorships and multi-member LLCs as partnerships, avoiding the double taxation faced by traditional corporations.
+</p>
 
-**C. Flexible Management Structure**
-
+<b>3. Flexible Management Structure</b>
+<p>
 An LLC allows for flexible management options, as its operating agreement can be tailored to meet the specific needs of the business and its members.
+</p>
 
-**D. Ease of Formation and Maintenance**
-
+<b>4. Ease of Formation and Maintenance</b>
+<p>
 Forming an LLC is generally easier and requires less paperwork than forming a corporation. Additionally, ongoing recordkeeping and meeting requirements are typically less stringent for LLCs compared to corporations.
+</p>
 </details>
 
-### 2.  What are the disadvantages of forming an LLC?
+-   ###  What are the disadvantages of forming an LLC?
 Some disadvantages of forming an LLC include potential additional costs, limited growth potential due to the inability to issue stock, and varying state regulations. [Disadvantages overview](https://startupsavant.com/disadvantages-of-an-llc)
 
 <details>
 <summary>Learn More...</summary>
 <br>
 
-**A. Cost**
-
+<b>1. Cost</b>
+<p>
 Forming and maintaining an LLC can involve additional costs, such as state filing fees, annual report fees, and professional service fees for tasks like registered agent services or drafting operating agreements.
+</p>
 
-**B. Limited Growth Potential**
-
+<b>2. Limited Growth Potential</b>
+<p>
 Unlike corporations, which can issue stock to raise capital, an LLC cannot issue shares, potentially limiting its growth opportunities.
+</p>
 
-**C. Varying State Regulations**
-
+<b>3. Varying State Regulations</b>
+<p>
 LLC regulations vary by state, leading to differences in formation requirements, taxation rules, and ongoing compliance obligations.
+</p>
 
-**D. Self-Employment Taxes**
-
+<b>4. Self-Employment Taxes</b>
+<p>
 Depending on how the business is structured and taxed, members of an LLC may be subject to self-employment taxes on their share of the company's profits.
 
 [Disadvantages in detail](https://corporatefinanceinstitute.com/resources/knowledge/strategy/llc-disadvantages/)
+</p>
 </details>
 
 ## Formation, Registration, and Compliance
