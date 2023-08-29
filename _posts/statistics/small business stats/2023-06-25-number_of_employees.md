@@ -2,6 +2,7 @@
 title: "How Many Employees does a Small Business have?"
 layout: post
 date: 2023-06-25
+update_date: 2023-08-29
 author: jack_nicholaisen
 summary: Our article delves into the average number of employees at small businesses across various industries, providing you with valuable insights and benchmarking data. Read on to discover how your business measures up and gain a competitive edge today!
 permalink: /stats/number-of-employees-in-a-small-business/
@@ -10,6 +11,8 @@ permalink: /stats/number-of-employees-in-a-small-business/
 The number of employees at small businesses can vary greatly depending on the industry in which they operate. In this article, we will explore the average number of employees at small businesses across different industries.
 
 According to the Small Business Administration (SBA), a small business has fewer than 500 employees. This definition applies to a wide range of industries, including retail, manufacturing, construction, and professional services.
+
+<p><b>➤ Take Initiative: </b> <a href="https://www.businessinitiative.org/corporation/corporate-culture/"> Increase your company's employee retention rates</a></p>
 
 ### Retail
 

@@ -2,8 +2,9 @@
 title: "Corporate Crisis Management - Preparing for and Responding to Unforeseen Challenges"
 layout: post
 date: 2023-08-14
+update_date: 2023-08-29
 author: jack_nicholaisen
-summary: "Discover how to protect your business from unforeseen challenges with our in-depth guide to corporate crisis management. Learn practical tips for identifying potential crises, developing an effective plan, and ensuring long-term resilience. Don't leave your business vulnerable – start building your crisis management strategy TODAY!"
+summary: "Learn to shield your business from challenges with our crisis management guide. Get tips for identifying risks, planning, and ensuring resilience. ACT NOW!"
 permalink: /corporation/crisis-management/
 ---
 
@@ -111,6 +112,8 @@ Once the immediate crisis is resolved, it's crucial to conduct a post-crisis rev
 -   What additional training or resources are needed for future crises?
 
 By learning from each crisis, your organization can continue to improve its crisis management capabilities.
+
+<p><b>➤ Take Initiative: </b> <a href="https://www.businessinitiative.org/corporation/reputation-management/"> Protect your company's image in the event of a crisis with THIS guide</a></p>
 
 ## Building Resilience Through Crisis Management
 

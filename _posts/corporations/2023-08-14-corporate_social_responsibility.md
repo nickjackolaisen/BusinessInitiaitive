@@ -2,8 +2,9 @@
 title: "Corporate Social Responsibility | Balancing Profit and Purpose"
 layout: post
 date: 2023-08-14
+update_date: 2023-08-29
 author: jack_nicholaisen
-summary: "Corporate Social Responsibility (CSR) is no longer just a buzzword, it's becoming an essential aspect of any business strategy. Discover how businesses can balance profit and purpose through Corporate Social Responsibility (CSR) initiatives. Learn the benefits of embracing CSR, how to integrate it into your corporate strategy, and explore successful CSR case studies. Don't miss out on this essential guide to creating a more sustainable and responsible future for your business. Read the full article NOW!"
+summary: "Discover how to balance profit & purpose with CSR. Embrace its benefits, integrate it into your strategy, and learn from success of others TODAY!"
 permalink: /corporation/corporate-social-responsibility/
 ---
 
@@ -81,6 +82,8 @@ Many companies choose to publish annual CSR reports that detail their social and
 
 Reporting frameworks, such as the [Global Reporting Initiative (GRI)](https://www.globalreporting.org/) and the [Sustainability Accounting Standards Board (SASB)](https://www.sasb.org/), can help businesses develop standardized and comprehensive CSR reports.
 
+<p><b>➤ Take Initiative: </b> <a href="https://www.businessinitiative.org/corporation/corporate-governance/"> Outperform your competition by BOOSTING your company's transparency</a></p>
+
 ## Successful CSR Initiatives and Case Studies
 
 Here are some examples of successful CSR initiatives implemented by well-known companies:
@@ -104,6 +107,8 @@ Ben & Jerry's, an ice cream company, has a socially responsible business model t
 -   ### LEGO's Sustainable Materials Strategy:
 
 LEGO is committed to sustainability and has developed a [Sustainable Materials Center](https://www.lego.com/en-us/aboutus/sustainability/materials) to research and develop new materials that are more environmentally friendly than traditional plastics. The company aims to use sustainable materials in all of its products by 2030.
+
+<p><b>➤ Take Initiative: </b> <a href="https://www.businessinitiative.org/corporation/sustainability-strategies/"> Make your company ECO-Friendly with these 13 strategies</a></p>
 
 -   ### Microsoft's Carbon Negative Commitment:
 

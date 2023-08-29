@@ -2,8 +2,9 @@
 title: "What Percentage of Small Businesses are Family-Owned?"
 layout: post
 date: 2023-08-01
+update_date: 2023-08-29
 author: jack_nicholaisen
-summary: Why are family-owned businesses so successful? Learn how you can apply these valuable lessons to your own entrepreneurial journey. By understanding the dynamics and advantages of family-run enterprises, you'll be better equipped to make informed decisions for your business and chart a path towards success.
+summary: "Discover success secrets of family-owned businesses and apply insights for smarter decisions and improved growth in your venture."
 permalink: /stats/small-businesses/family-owned-businesses/
 ---
 
@@ -32,6 +33,8 @@ Family members often have a deep understanding of the business's values and visi
 -   ### Long-term perspective
 
 Family-owned businesses tend to prioritize long-term success over short-term gains, which can lead to more sustainable growth and stability.
+
+<p><b>➤ Take Initiative: </b> <a href="https://www.businessinitiative.org/llc/benefits-for-small-businesses/"> 15 reasons why your small business should have an LLC</a></p>
 
 -   ### Loyalty and commitment
 
@@ -77,9 +80,13 @@ Despite the potential challenges, many family-owned businesses have become highl
 
 4.  [Roche Holding AG](https://www.roche.com/) - The Swiss multinational healthcare company was founded by Fritz Hoffmann-La Roche in 1896 and remains controlled by the Hoffmann and Oeri families.
 
-## Conclusion
+## In Conclusion...
 
-Family-owned businesses play a crucial role in the global economy, accounting for the majority of small businesses and a significant portion of large, successful companies. While there are unique benefits to operating a family-owned business, such as shared values and long-term perspectives, there are also potential challenges, including succession planning and conflict resolution. However, as demonstrated by the examples above, family-owned businesses can thrive and achieve tremendous success when managed effectively.
+Family-owned businesses play a crucial role in the global economy, accounting for the majority of small businesses and a significant portion of large, successful companies. 
+
+While there are unique benefits to operating a family-owned business, such as shared values and long-term perspectives, there are also potential challenges, including succession planning and conflict resolution. 
+
+However, as demonstrated by the examples above, family-owned businesses can thrive and achieve tremendous success when managed effectively.
 
 If you're considering starting or growing your own family-owned business, [schedule a free consultation call](https://calendly.com/businessinitiative/30-minute-consultation-call) with us today!
 

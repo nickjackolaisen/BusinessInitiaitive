@@ -2,6 +2,7 @@
 title: "Blockchain Technology in Business - Prepare Your Business for the Future"
 layout: post
 date: 2023-08-28
+update_date: 2023-08-29
 author: jack_nicholaisen
 summary: "Discover how blockchain technology is revolutionizing the business world in our latest article. Learn about its applications, benefits, and potential impact on various industries. Don't miss out on this opportunity to stay ahead of the curve by understanding the transformative power of blockchain technology." 
 image: /images/posts-headers/blockchain-in-business-header.png
@@ -12,13 +13,7 @@ Welcome to the world of blockchain technology and its potential impact on busine
 
 In this article, we will explore the fundamentals of blockchain, its numerous applications, and how it can revolutionize the way we conduct business.
 
-{% include takeaway-box.html 
-bullet1="<b>Decentralization and Security:</b> Blockchain technology offers a decentralized structure, eliminating the need for intermediaries and increasing security through advanced cryptography."
-bullet2="<b>Transparency and Trust:</b> Public blockchains offer a transparent and tamper-proof system, promoting trust among users and stakeholders." 
-bullet3="<b>Efficiency and Cost Reduction:</b> By automating processes and removing middlemen, blockchain technology can streamline business operations and significantly reduce costs." 
-bullet4="<b>Smart Contracts:</b> These self-executing contracts with predefined conditions can automate transactions, minimizing human intervention and potential errors."
-bullet5="<b>Cross-Industry Applications:</b> Blockchain technology has far-reaching implications across various industries such as finance, supply chain management, healthcare, real estate, and more."
-%}
+{% include takeaway-box.html bullet1="<b>Decentralization and Security:</b> Blockchain technology offers a decentralized structure, eliminating the need for intermediaries and increasing security through advanced cryptography." bullet2="<b>Transparency and Trust:</b> Public blockchains offer a transparent and tamper-proof system, promoting trust among users and stakeholders." bullet3="<b>Efficiency and Cost Reduction:</b> By automating processes and removing middlemen, blockchain technology can streamline business operations and significantly reduce costs." bullet4="<b>Smart Contracts:</b> These self-executing contracts with predefined conditions can automate transactions, minimizing human intervention and potential errors." bullet5="<b>Cross-Industry Applications:</b> Blockchain technology has far-reaching implications across various industries such as finance, supply chain management, healthcare, real estate, and more."%}
 
 By delving into this cutting-edge technology, you'll gain valuable insights that can help you make informed decisions for your own business.
 
@@ -47,8 +42,11 @@ When new transactions occur, they are added to the most recent block. Once a blo
 Main features of blockchain technology:
 
 🔑    **Decentralization**: Blockchain operates on a peer-to-peer network where each node stores a copy of the ledger, eliminating the need for central authorities or intermediaries.
+
 🔑    **Security**: Transactions are cryptographically secured, making it difficult for anyone to tamper with or alter the data.
+
 🔑    **Transparency**: Every node in the network has access to the entire transaction history, promoting trust and accountability.
+
 🔑    **Immutability**: Once a transaction is recorded and verified on the blockchain, it cannot be altered or removed.
 
 ## A Brief History of Blockchain Technology
@@ -61,7 +59,7 @@ Blockchain technology has its roots in the early 1990s, but it wasn't until 2008
 </center>
 
 
-## Beyond Digital Currencies: Blockchain Applications in Tomorrow's Business Landscape
+## Beyond Digital Currency: Blockchain Applications in Tomorrow's Business Landscape
 
 Blockchain technology has emerged as a transformative force in the contemporary business landscape. Its decentralized, secure, and transparent nature offers numerous benefits that are increasingly being recognized and harnessed by various industries. Here are some key ways blockchain technology is impacting modern businesses:
 
@@ -94,9 +92,9 @@ The importance of blockchain in the modern business landscape is undeniable as i
 ## Understanding the Core Components of Blockchain Technology
 
 Blockchain technology is built upon three fundamental components that work together to create a secure, decentralized, and efficient system. These core components are:
--   distributed ledger, 
--   cryptography, 
--   and consensus mechanisms.
+-   Distributed Ledger, 
+-   Cryptography, 
+-   and Consensus Mechanisms
 
 <center>
 <img alt="blockchain components" src="/images/content/blockchain-handshake.png" style="width: 63%; height: 63%">
@@ -134,16 +132,14 @@ These core components work in tandem to create the secure, decentralized, and tr
 
 ## Types of Blockchain Networks
 
+There are three main types of blockchain networks, each with distinct features and use cases. These types include
+-   Public Blockchains, 
+-   Private Blockchains, 
+-   and Consortium Blockchains
+
 <center>
 <img alt="blockchain security" src="/images/content/crypto-blockchain.png" style="width: 63%; height: 63%">
 </center> 
-
-There are three main types of blockchain networks, each with distinct features and use cases. These types include
--   public blockchains, 
--   private blockchains, 
--   and consortium blockchains. 
-
-Let's see what's going on with these networks:
 
 ### 1. Public Blockchains
 
@@ -250,6 +246,10 @@ The transformative power of blockchain technology in enhancing supply chain mana
 ### 3. Real Estate
 
 The real estate sector stands on the cusp of a major transformation, as blockchain technology promises to revolutionize various aspects of the industry. Some potential applications include:
+
+<center>
+<img alt="blockchain real estate" src="/images/content/real-estate.png" style="width: 63%; height: 63%">
+</center> 
 
 -   **Property ownership verification**: A blockchain-based land registry can provide a secure and transparent record of property ownership, simplifying the verification process ([source](https://www.mckinsey.com/~/media/mckinsey/industries/capital%20projects%20and%20infrastructure/our%20insights/blockchain%20in%20construction%20a%20blueprint%20for%20disruption/blockchain-in-construction-a-blueprint-for-disruption.pdf)). In countries like Georgia and Sweden, pilot projects have successfully demonstrated the benefits of blockchain for land registries ([source](https://www.mckinsey.com/~/media/mckinsey/industries/capital%20projects%20and%20infrastructure/our%20insights/blockchain%20in%20construction%20a%20blueprint%20for%20disruption/blockchain-in-construction-a-blueprint-for-disruption.pdf)).
 -   **Tokenization of assets**: Tokenizing real estate assets on the blockchain can enable fractional ownership and make property investment more accessible ([source](https://www.pwc.de/en/real-estate/assets/pwc-blockchain-tokenization-of-real-estate.pdf)). The global real estate market is estimated to be worth \$228 trillion, indicating the vast potential for tokenization in this sector ([source](https://www.savills.co.uk/research_articles/229130/210665-0)).

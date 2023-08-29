@@ -2,7 +2,7 @@
 layout: post
 title: "Sole Proprietorship vs LLC: Pros and Cons"
 date: 2023-06-31
-update_date: 2023-08-25
+update_date: 2023-08-29
 author: jack_nicholaisen
 summary: A complete comparison of the various pros and cons of both Sole Proprietorships and Limited Liability Companies.  
 image: /images/posts-headers/sole-proprietorship-vs-llc-pros-cons-header.png
@@ -137,7 +137,7 @@ This is a huge advantage Sole Proprietorships have over LLCs where control and o
 **No Paperwork!**
 
 <center>
-<img alt="sole proprietorship advantages" src="/images/content/women-worker.png" style="width: 63%; height: 63%">
+<img alt="sole proprietorship advantages" src="/images/content/woman-worker.png" style="width: 63%; height: 63%">
 </center>
 
 Sole Proprietorships are by far the easiest business to start. There is no registration required to be a Sole Proprietor. 

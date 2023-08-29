@@ -2,8 +2,9 @@
 title: "Reputation Management - Protect and Enhance Your Corporation's Image"
 layout: post
 date: 2023-08-07
+update_date: 2023-08-29
 author: jack_nicholaisen
-summary: "In today's digital age, it only takes one negative review or social media post to tarnish a corporation's reputation. That's why it's crucial for companies to actively manage and enhance their image through reputation management strategies. In this article, we'll explore the fundamentals of reputation management and provide actionable tips for protecting and improving your corporation's image. Don't let a negative online presence harm your business - read on and take control of your reputation today!"
+summary: "Protect your corporation's image in the digital age with reputation management strategies. Learn actionable tips to enhance your online presence NOW!"
 permalink: /corporation/reputation-management/
 ---
 
@@ -77,6 +78,8 @@ While addressing negative publicity is important, it's even better to proactivel
 One example of a company that has successfully built a positive corporate image is Patagonia. The outdoor clothing company has a strong commitment to sustainability and social responsibility, which has helped to build brand loyalty among environmentally conscious consumers.
 
 To build a positive corporate image, it's important to focus on your company's values and mission. This can involve creating a mission statement, developing a brand identity, and engaging in philanthropic activities. By doing so, you can build a strong connection with your customers and employees, which can lead to long-term success.
+
+<p><b>➤ Take Initiative: </b> <a href="https://www.businessinitiative.org/corporation/crisis-management/">Develop a plan of action for your business in the event of an emergency</a></p>
 
 ## Investing in Reputation Management for Long-Term Success
 

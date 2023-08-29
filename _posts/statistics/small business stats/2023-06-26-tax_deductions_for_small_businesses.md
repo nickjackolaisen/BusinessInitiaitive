@@ -2,18 +2,24 @@
 title: "Top 7 Tax Deductions for Small Businesses in 2023"
 layout: post
 date: 2023-06-26
+update_date: 2023-08-29
 author: jack_nicholaisen
 summary: This article provides an overview of the top 7 tax deductions available to small businesses. By taking advantage of these deductions, entrepreneurs can reduce their taxable income and save money on taxes. Reading this article will help entrepreneurs understand which deductions they qualify for and how to maximize their tax savings.
 permalink: /stats/small-businesses/tax-deductions/
 ---
 
-As a small business owner, it's important to take advantage of every possible tax deduction available to you. Tax deductions reduce your taxable income, which means you pay less in taxes. This can help your business save money and improve your bottom line. Here are the top 7 tax deductions for small businesses.
+As a small business owner, it's important to take advantage of every possible tax deduction available to you. Tax deductions reduce your taxable income, which means you pay less in taxes. This can help your business save money and improve your bottom line. 
+
+Here are the top 7 tax deductions for small businesses.
 
 #### 1.  Home Office Deduction
 If you use a portion of your home exclusively for your business, you may be eligible for the home office deduction. This deduction allows you to deduct a portion of your mortgage or rent, utilities, and other expenses related to your home office. To qualify for this deduction, you must use the space regularly and exclusively for your business.
 
 #### 2.  Business Vehicle Deduction
 If you use a vehicle for business purposes, you may be eligible for the business vehicle deduction. This deduction allows you to deduct the cost of operating the vehicle, including gas, maintenance, and insurance. You can either deduct the actual expenses or use the standard mileage rate, which is 58 cents per mile for 2021.
+
+<p><b>➤ Take Initiative: </b> <a href="https://www.businessinitiative.org/llc/benefits-for-small-businesses/"> 15 reasons why your small business should have an LLC</a></p>
+
 
 #### 3.  Section 179 Deduction
 The Section 179 deduction allows you to deduct the full cost of qualifying equipment and software in the year it was purchased, rather than depreciating it over time. This deduction is especially beneficial for small businesses that need to purchase expensive equipment. The maximum amount you can deduct for 2021 is \$1.05 million.

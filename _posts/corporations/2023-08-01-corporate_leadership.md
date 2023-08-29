@@ -2,7 +2,7 @@
 title: "19 Types of Corporate Leadership - Choosing the Right Style for Your Business"
 layout: post
 date: 2023-08-01
-update_date: 2023-08-18
+update_date: 2023-08-29
 author: jack_nicholaisen
 summary: "Discover the secrets to effective management and employee motivation by understanding different corporate leadership styles. Learn how to select and adapt the right approach for your unique business to achieve success. Don't miss out on this valuable opportunity; read on to unlock your company's true potential!"
 permalink: /corporation/corporate-leadership/
@@ -89,7 +89,6 @@ Charismatic leaders have a magnetic personality that inspires others to follow t
 <center>
 <img alt="Your team deserves a leader" src="/images/content/women-working.png" style="width: 75%; height: 75%">
 </center>
-<br>
 
 ### 8. Situational Leadership
 
@@ -163,8 +162,6 @@ Adaptive coaching involves adapting one's coaching style to suit the needs of in
 
 **Famous example:** Eric Schmidt, former CEO of Google, is known for his adaptive coaching style. He worked closely with Larry Page and Sergey Brin during Google's early days to help them develop their leadership skills.
 
-
-
 ## Aligning Leadership Style with Business Goals
 
 <center>
@@ -209,6 +206,8 @@ Consider your organization's risk tolerance when selecting a leadership style. S
 ### 9.  Leadership development: 
 
 Identify opportunities for developing your own leadership skills through training programs, coaching, or mentorship to enhance your effectiveness as a leader over time.
+
+<p><b>➤ Take Initiative: </b> <a href="https://www.businessinitiative.org/corporation/corporate-culture/"> Increase your company's employee retention rates</a></p>
 
 ## Practical Lessons, Tips, and Tricks
 
