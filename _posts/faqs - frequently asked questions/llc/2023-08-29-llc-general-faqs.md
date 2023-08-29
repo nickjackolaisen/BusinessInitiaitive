@@ -30,7 +30,7 @@ Dive in now and unlock the full potential of your future LLC!
 
 ## LLC Basics
 
--   ###  What is a Limited Liability Company (LLC)?
+###  What is a Limited Liability Company (LLC)?
 A Limited Liability Company (LLC) is a type of business structure that combines the flexibility and simplicity of a sole proprietorship or partnership with the [limited liability protection](https://www.investopedia.com/terms/l/llc.asp) of a corporation.
 
 <details>
@@ -54,7 +54,7 @@ A Limited Liability Company (LLC) is a type of business structure that combines 
 </p>
 </details>
 
--   ###  How is an LLC different from a sole proprietorship?
+###  How is an LLC different from a sole proprietorship?
 An LLC differs from a sole proprietorship in that it provides limited liability protection to its owners, separating personal assets from business debts and obligations, while a sole proprietorship does not offer this protection. [Compare here](https://www.sba.gov/business-guide/launch-your-business/choose-business-structure#section-header-0)
 
 <details>
@@ -74,7 +74,7 @@ An LLC differs from a sole proprietorship in that it provides limited liability 
 </p>
 </details>
 
--   ###  How is an LLC different from a partnership?
+###  How is an LLC different from a partnership?
 An LLC offers limited liability protection for its owners, whereas partners in a general partnership are personally responsible for all business debts and liabilities. [Comparison details](https://www.score.org/resource/general-partnership-vs-limited-liability-company)
 
 <details>
@@ -97,7 +97,7 @@ An LLC requires state registration through the filing of Articles of Organizatio
 </p>
 </details>
 
--   ###  How is an LLC different from a corporation?
+###  How is an LLC different from a corporation?
 An LLC has fewer formalities and more management flexibility than corporations, while still providing limited liability protection to its owners. Unlike corporations, LLCs aren't required to hold regular board meetings or maintain extensive records, but they also don't have the option to issue stock as corporations do. [Differences explained](https://www.nolo.com/legal-encyclopedia/key-differences-between-corporation-llc.html)
 
 <details>
@@ -120,7 +120,7 @@ Corporations are subject to double taxation (profits are taxed at the corporate 
 </p>
 </details>
 
--   ###  What is a single-member LLC?
+###  What is a single-member LLC?
 A single-member LLC is an LLC with only one owner (member), offering limited liability protection and pass-through taxation similar to a sole proprietorship. [Single-member LLC explained](https://www.nolo.com/legal-encyclopedia/single-member-limited-liability-companies.html)
 
 <details>
@@ -150,7 +150,7 @@ A single-member LLC provides its owner with limited liability protection similar
 </p>
 </details>
 
--    ###  What is a multi-member LLC?
+###  What is a multi-member LLC?
 A multi-member LLC is an LLC with two or more owners (members), providing limited liability protection and pass-through taxation similar to a partnership by default. [Multi-member LLC details](https://www.nolo.com/legal-encyclopedia/multiple-members-llcs.html)
 
 <details>
@@ -187,7 +187,7 @@ In a multi-member LLC, it's crucial to have a well-drafted operating agreement o
 
 ## Advantages and Disadvantages of an LLC
 
--   ###  What are the advantages of forming an LLC?
+###  What are the advantages of forming an LLC?
 Some advantages of forming an LLC include limited liability protection, pass-through taxation, flexible management structure, and ease of formation compared to corporations. [Advantages overview](https://startupsavant.com/benefits-of-forming-an-llc)
 
 <details>
@@ -215,7 +215,7 @@ Forming an LLC is generally easier and requires less paperwork than forming a co
 </p>
 </details>
 
--   ###  What are the disadvantages of forming an LLC?
+###  What are the disadvantages of forming an LLC?
 Some disadvantages of forming an LLC include potential additional costs, limited growth potential due to the inability to issue stock, and varying state regulations. [Disadvantages overview](https://startupsavant.com/disadvantages-of-an-llc)
 
 <details>
