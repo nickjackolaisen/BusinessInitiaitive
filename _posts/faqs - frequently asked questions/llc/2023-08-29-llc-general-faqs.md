@@ -41,15 +41,17 @@ A Limited Liability Company (LLC) is a type of business structure that combines 
 <body>
 A Limited Liability Company (LLC) is a hybrid business structure that combines elements of sole proprietorships, partnerships, and corporations. It offers limited liability protection for its owners (called "members"), pass-through taxation, and flexible management options. [IRS - Limited Liability Company](https://www.irs.gov/businesses/small-businesses-self-employed/limited-liability-company-llc)
 </body>
-<b>B. Formation Process</b>
+
+<b>Formation Process</b>
 <p>
 To form an LLC, one must file Articles of Organization with the appropriate state agency, pay filing fees, and create an operating agreement outlining the rules governing the company's operations. Some states also require annual reports or fees to maintain the LLC's status. [Forming an LLC](https://www.sba.gov/business-guide/launch-your-business/choose-business-structure#section-header-7)
 </p>
-<ul><li><b>C. Taxation Aspects</b></li></ul>
+
+<b>Taxation Aspects</b>
 
 By default, single-member LLCs are taxed as sole proprietorships and multi-member LLCs as partnerships by the IRS. However, an LLC can elect to be taxed as a corporation if desired. [Tax information for LLCs](https://www.investopedia.com/articles/personal-finance/040915/how-llcs-are-taxed.asp)
 
-<b>D. Legal Protection</b>
+<b>Legal Protection</b>
 
 An LLC's members enjoy limited liability protection similar to that of shareholders in a corporation, meaning their personal assets are typically protected from business debts and lawsuits against the company.
 </details>
