@@ -16,7 +16,7 @@ layout: default
   <h1>{{ page.title }}</h1>
   <span class="post-meta post-date">{{ page.date | date: site.date_format }}</span>
   {% if page.update_date %}
-    <span class="post-meta post-date">{{ site.text.post.updated | default: "Updated" }}: {{ page.update_date | date: site.date_format }}</span>
+  <span class="post-meta post-date">{{ site.text.post.updated | default: "Updated" }}: {{ page.update_date | date: site.date_format }}</span>
   {% endif %}
   <br>
   <span class="post-meta small">
@@ -43,9 +43,9 @@ layout: default
 {% if page.image %}
   <img src="{{ page.image | relative.url }}" alt="Article Image" class="featured-image-post">
   {% else %}
-    {% assign postImage = "/images/business-initiative-logo-no-background.png" %}
-      <img src="{{ postImage | relative.url}}" alt="Business Initiative" class="featured-image-post" style="width: 20%; height: 20%" align="middle">
-      {% endif %}
+  {% assign postImage = "/images/business-initiative-logo-no-background.png" %}
+  <img src="{{ postImage | relative.url}}" alt="Business Initiative" class="featured-image-post" style="width: 20%; height: 20%" align="middle">
+  {% endif %}
   </center>
 </figure>
 
