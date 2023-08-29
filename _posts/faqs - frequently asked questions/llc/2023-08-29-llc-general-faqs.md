@@ -38,23 +38,19 @@ A Limited Liability Company (LLC) is a type of business structure that combines 
 <br>
 
 <b>Definition and Overview</b>
-<p>
-A Limited Liability Company (LLC) is a hybrid business structure that combines elements of sole proprietorships, partnerships, and corporations. It offers limited liability protection for its owners (called "members"), pass-through taxation, and flexible management options. [IRS - Limited Liability Company](https://www.irs.gov/businesses/small-businesses-self-employed/limited-liability-company-llc)
+<p>A Limited Liability Company (LLC) is a hybrid business structure that combines elements of sole proprietorships, partnerships, and corporations. It offers limited liability protection for its owners (called "members"), pass-through taxation, and flexible management options. [IRS - Limited Liability Company](https://www.irs.gov/businesses/small-businesses-self-employed/limited-liability-company-llc)
 </p>
 
 <b>Formation Process</b>
-<p>
-To form an LLC, one must file Articles of Organization with the appropriate state agency, pay filing fees, and create an operating agreement outlining the rules governing the company's operations. Some states also require annual reports or fees to maintain the LLC's status. [Forming an LLC](https://www.sba.gov/business-guide/launch-your-business/choose-business-structure#section-header-7)
+<p>To form an LLC, one must file Articles of Organization with the appropriate state agency, pay filing fees, and create an operating agreement outlining the rules governing the company's operations. Some states also require annual reports or fees to maintain the LLC's status. [Forming an LLC](https://www.sba.gov/business-guide/launch-your-business/choose-business-structure#section-header-7)
 </p>
 
 <b>Taxation Aspects</b>
-<p>
-By default, single-member LLCs are taxed as sole proprietorships and multi-member LLCs as partnerships by the IRS. However, an LLC can elect to be taxed as a corporation if desired. [Tax information for LLCs](https://www.investopedia.com/articles/personal-finance/040915/how-llcs-are-taxed.asp)
+<p>By default, single-member LLCs are taxed as sole proprietorships and multi-member LLCs as partnerships by the IRS. However, an LLC can elect to be taxed as a corporation if desired. [Tax information for LLCs](https://www.investopedia.com/articles/personal-finance/040915/how-llcs-are-taxed.asp)
 </p>
 
 <b>Legal Protection</b>
-<p>
-An LLC's members enjoy limited liability protection similar to that of shareholders in a corporation, meaning their personal assets are typically protected from business debts and lawsuits against the company.
+<p>An LLC's members enjoy limited liability protection similar to that of shareholders in a corporation, meaning their personal assets are typically protected from business debts and lawsuits against the company.
 </p>
 </details>
 
@@ -66,18 +62,15 @@ An LLC differs from a sole proprietorship in that it provides limited liability 
 <br>
 
 <b>Liability Protection</b>
-<p>
-Sole proprietors have unlimited personal liability for their business debts and obligations; whereas in an LLC, members have limited liability protection.
+<p>Sole proprietors have unlimited personal liability for their business debts and obligations; whereas in an LLC, members have limited liability protection.
 </p>
 
 <b>Taxation Differences</b>
-<p>
-Both sole proprietorships and single-member LLCs receive pass-through taxation by default; however, only an LLC has the option to be taxed as a corporation if desired.
+<p>Both sole proprietorships and single-member LLCs receive pass-through taxation by default; however, only an LLC has the option to be taxed as a corporation if desired.
 </p>
 
 <b>Formalities and Paperwork</b>
-<p>
-Forming an LLC requires filing state paperwork and may involve ongoing reporting requirements. Sole proprietorships don't require formal registration or paperwork, though they may still need to obtain local business licenses.
+<p>Forming an LLC requires filing state paperwork and may involve ongoing reporting requirements. Sole proprietorships don't require formal registration or paperwork, though they may still need to obtain local business licenses.
 </p>
 </details>
 
