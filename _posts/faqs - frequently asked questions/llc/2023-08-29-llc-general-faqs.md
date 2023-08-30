@@ -303,7 +303,7 @@ Keep in mind that having a DBA does not provide any additional legal protection;
 </details>
 
 ### What is an EIN (Employer Identification Number)?
-An EIN (Employer Identification Number) is a unique nine-digit number assigned by the IRS to identify your business for tax purposes. <a href="https://www.irs.gov/businesses/small-businesses-self-employed/employer-id-numbers">EIN explained</a>
+An EIN (Employer Identification Number) is a unique nine-digit number assigned by the IRS to identify your business for tax purposes. <a href="https://www.irs.gov/businesses/small-businesses-self-employed/employer-id-numbers">EIN explained</a>
 
 <details>
 <summary>Learn More...</summary>
@@ -815,7 +815,7 @@ Carefully evaluate the pros and cons of hiring employees versus engaging indepen
 </details>
 
 ### What are the guidelines for hiring and managing interns within an LLC?
-Follow federal and state labor laws, provide clear job descriptions, offer training and mentorship, set realistic expectations, and establish a feedback system. <a href="https://www.thebalancecareers.com/how-to-hire-and-manage-interns-2071335">Managing Interns Guide</a>
+Follow federal and state labor laws, provide clear job descriptions, offer training and mentorship, set realistic expectations, and establish a feedback system. <a href="https://www.thebalancecareers.com/how-to-hire-and-manage-interns-2071335">Managing Interns Guide</a>
 
 <details>
 <summary>Learn More...</summary>
@@ -827,14 +827,14 @@ Follow federal and state labor laws, provide clear job descriptions, offer train
     <li>Adhere to federal labor laws like the Fair Labor Standards Act (FLSA) when determining paid or unpaid internships.</li>
     <li>Follow state-specific regulations regarding minimum wage, worker's compensation, and anti-discrimination policies.</li>
 </ul>
-<a href="https://www.dol.gov/agencies/whd/fact-sheets/71-flsa-internships">Basics of internship laws</a>
+<a href="https://www.dol.gov/agencies/whd/fact-sheets/71-flsa-internships">Basics of internship laws</a>
 </p>
 
 <b>2. Intern Recruitment & Selection</b>
 <p>
 <ul>
     <li>Develop clear job descriptions outlining responsibilities, skills required, and learning opportunities.</li>
-    <li>Utilize online platforms like <a href="https://www.linkedin.com/">LinkedIn</a> or<a href="https://www.indeed.com/">Indeed</a> to attract qualified candidates.</li>
+    <li>Utilize online platforms like <a href="https://www.linkedin.com/">LinkedIn</a> or<a href="https://www.indeed.com/">Indeed</a> to attract qualified candidates.</li>
     <li>Conduct interviews to assess fit with company culture and potential for growth.</li>
 </ul>
 </p>
@@ -866,10 +866,10 @@ Follow federal and state labor laws, provide clear job descriptions, offer train
 
 <b>Useful Tools & Examples</b>
 <p>
-<a href="https://buildyourfuture.withgoogle.com/internships/">Google's Internship Program</a> is known for its structured approach, providing interns with clear expectations, mentorship, and opportunities to contribute to impactful projects.
+<a href="https://buildyourfuture.withgoogle.com/internships/">Google's Internship Program</a> is known for its structured approach, providing interns with clear expectations, mentorship, and opportunities to contribute to impactful projects.
 </p>
 <p>
-Consider using project management tools like <a href="https://trello.com/">Trello</a> or <a href="https://asana.com/">Asana</a>to help interns stay organized and track their progress.
+Consider using project management tools like <a href="https://trello.com/">Trello</a> or <a href="https://asana.com/">Asana</a>to help interns stay organized and track their progress.
 <a href="https://www.businessnewsdaily.com/15077-managing-interns.html">Comprehensive guide on managing interns</a>
 </p>
 </details>
@@ -907,6 +907,8 @@ Research available options, choose appropriate benefit packages, and work with p
     <li>Consider offering ancillary benefits like dental or vision insurance, life insurance, or disability coverage.</li>
     <li>Evaluate non-traditional benefits such as flexible work arrangements, wellness programs, or tuition reimbursement.</li>
 </ul>
+</p>
+<p>
 <a href="https://www.inc.com/john-brandon/top-10-most-innovative-company-perks-for-attracting-top-talent.html">Attracting talent with unique benefits</a>
 </p>
 
@@ -930,34 +932,30 @@ Yes, an LLC can engage in joint ventures or strategic partnerships to collaborat
 <summary>Learn More...</summary>
 <br>
 
-<b>i. Types of Partnerships
+<b>i. Types of Partnerships</b>
 <ul>
     <li>Joint ventures: Temporary collaboration between businesses for a specific project or goal.</li>
     <li>Strategic partnerships: Long-term alliances for mutual growth and shared objectives.</li>
 </ul>
-<a href="url">text</a>
+<a href="https://www.businessnewsdaily.com/4619-partnership-types.html">Types of business partnerships</a>
 
-[Types of business partnerships](https://www.businessnewsdaily.com/4619-partnership-types.html)
-
-<b>ii. Benefits
-
+<b>ii. Benefits</b>
+<ul>
 1.  Access to new markets and customers.
 2.  Sharing resources, expertise, and technology.
 3.  Risk reduction through shared investments.
-<a href="url">text</a>
+<a href="https://hbr.org/2010/12/ciscos-partnering-strategy-a-p">Cisco's successful partnership strategy</a>
 
-[Cisco's successful partnership strategy](https://hbr.org/2010/12/ciscos-partnering-strategy-a-p)
-
-<b>iii. Establishing a Partnership
-
+<b>iii. Establishing a Partnership</b>
+<ul>
 1.  Identify potential partners that align with your goals and values.
 2.  Develop clear agreements outlining responsibilities, profit-sharing, and exit strategies.
 3.  Foster open communication and trust to ensure long-term success.
-<a href="url">text</a>
+<a href="https://www.forbes.com/sites/allbusiness/2018/05/26/how-to-form-business-partnerships/?sh=6f4a85dd6e68">Forming successful partnerships</a>
 
-[Forming successful partnerships](https://www.forbes.com/sites/allbusiness/2018/05/26/how-to-form-business-partnerships/?sh=6f4a85dd6e68)
+[]()
 
-<b>iv. Practical Tips & Examples
+<b>iv. Practical Tips & Examples</b>
 
 <a href="url">text</a>
 [Spotify](https://www.spotify.com/) partnered with <a href="url">text</a>
@@ -979,47 +977,43 @@ LLCs should carefully assess strategic fit, conduct thorough due diligence, nego
 <summary>Learn More...</summary>
 <br>
 
-<b>1. Assessing Strategic Fit
-
+<b>1. Assessing Strategic Fit</b>
+<ul>
 1.  Identify potential targets or buyers that align with your business goals.
 2.  Evaluate the financial and operational synergies of a merger or acquisition.
 <a href="url">text</a>
 
 [Assessing M&A strategic fit](https://hbr.org/2016/12/the-big-idea-the-new-ma-playbook)
 
-<b>2. Conducting Due Diligence
-
+<b>2. Conducting Due Diligence</b>
+<ul>
 1.  Investigate the target company's financials, operations, and legal compliance.
 2.  Identify potential risks and opportunities associated with the transaction.
 <a href="url">text</a>
 
 [Due diligence checklist](https://www.axial.net/forum/comprehensive-due-diligence-checklist/)
 
-<b>3. Negotiating Terms
-
+<b>3. Negotiating Terms</b>
+<ul>
 1.  Determine the appropriate deal structure (e.g., stock purchase, asset purchase).
 2.  Establish valuation and pricing based on financial analysis.
 <a href="url">text</a>
 
 [Negotiating M&A deals](https://corporatefinanceinstitute.com/resources/knowledge/deals/negotiation-tactics-for-mergers-and-acquisitions/)
 
-<b>4. Integration or Separation Planning
-
+<b>4. Integration or Separation Planning</b>
+<ul>
 1.  Develop a detailed plan for integrating or separating businesses post-closing.
 2.  Communicate effectively with employees, customers, and stakeholders throughout the process.
-<a href="url">text</a>
+<a href="https://www.bain.com/insights/post-merger-integration-report/">M&A integration best practices</a>
 
-[M&A integration best practices](https://www.bain.com/insights/post-merger-integration-report/)
 
-<b>Practical Tips & Examples
-<a href="url">text</a>
-
-[Microsoft's acquisition of LinkedIn](https://news.microsoft.com/2016/06/13/microsoft-to-acquire-linkedin/) in 2016 is an example of a successful merger that supported both companies' growth and expansion strategies.
+<b>Practical Tips & Examples</b>
+<a href="https://news.microsoft.com/2016/06/13/microsoft-to-acquire-linkedin/">Microsoft's acquisition of LinkedIn</a>
+in 2016 is an example of a successful merger that supported both companies' growth and expansion strategies.
 
 Engage experienced legal and financial advisors to support your LLC in navigating the complexities of mergers, acquisitions, or divestitures.
-<a href="url">text</a>
-
-[M\&A advisory services](https://www.intralinks.com/blog/2018/08/what-are-ma-advisory-services)
+<a href="https://www.intralinks.com/blog/2018/08/what-are-ma-advisory-services">M&A advisory services</a>
 </details>
 
 ### Can an LLC create a subsidiary or spin-off company to explore new business opportunities?
@@ -1030,24 +1024,27 @@ Yes, an LLC can absolutely create a subsidiary or spin-off company to pursue new
 <br>
 
 <b>i. Benefits of Creating Subsidiaries or Spin-offs</b>
-
-1.  Protect the parent LLC from risks associated with new ventures.
-2.  Separate distinct business operations or industries.
-3.  Attract investments or partnerships specific to the new venture.
+<ul>
+    <li>Protect the parent LLC from risks associated with new ventures.</li>
+    <li>Separate distinct business operations or industries.</li>
+    <li>Attract investments or partnerships specific to the new venture.</li>
+</ul>
 <a href="https://smallbusiness.chron.com/advantages-disadvantages-subsidiary-company-36122.html">Reasons for subsidiaries and spin-offs</a>
 
 <b>ii. Establishing a Subsidiary</b>
-
-1.  Choose the appropriate legal structure (e.g., another LLC, corporation).
-2.  Register the subsidiary with the relevant state authorities.
-3.  Ensure compliance with tax and regulatory requirements.
+<ul>
+    <li>Choose the appropriate legal structure (e.g., another LLC, corporation).</li>
+    <li>Register the subsidiary with the relevant state authorities.</li>
+    <li>Ensure compliance with tax and regulatory requirements.</li>
+</ul>
 <a href="https://www.upcounsel.com/how-to-create-an-subsidiary-as-an-llc">Creating an LLC subsidiary</a>
 
 <b>iii. Creating a Spin-off Company</b>
-
-1.  Identify the assets, operations, and employees to be transferred to the spin-off.
-2.  Develop a detailed plan for separating and transitioning resources.
-3.  Communicate effectively with stakeholders throughout the process.
+<ul>
+    <li>Identify the assets, operations, and employees to be transferred to the spin-off.</li>
+    <li>Develop a detailed plan for separating and transitioning resources.</li>
+    <li>Communicate effectively with stakeholders throughout the process.</li>
+</ul>
 <a href="https://corporatefinanceinstitute.com/resources/knowledge/strategy/spinoff-divestiture-process/">Spin-off process</a>
 
 <b>Practical Tips & Examples</b>
@@ -1096,39 +1093,39 @@ Identify potential risks, assess their impact, prioritize them, and implement st
 <b>1. Risk Identification</b>
 
 This section describes the process of identifying possible risks through brainstorming sessions, reviewing past experiences, and analyzing industry reports and competitors.
-
-1.  Conduct brainstorming sessions with team members to identify possible risks.
-2.  Review past experiences, industry reports, and competitor analysis for insights.
+<ul>
+<li>Conduct brainstorming sessions with team members to identify possible risks.
+<li>Review past experiences, industry reports, and competitor analysis for insights.
 
 <b>2. Risk Assessment</b>
 
 This section explains how to evaluate the likelihood of each identified risk occurring and determine its potential impact on your business, including financial, operational, and reputational consequences.
-
-1.  Evaluate the likelihood of each risk occurring.
-2.  Determine the potential impact on your business (financial, operational, reputational).
+<ul>
+<li>Evaluate the likelihood of each risk occurring.
+<li>Determine the potential impact on your business (financial, operational, reputational).
 
 <b>3. Risk Prioritization</b>
 
 This section outlines the process of ranking risks based on their probability and impact, allowing you to focus on addressing high-priority risks first.
-
-1.  Rank risks based on their probability and impact.
-2.  Focus on addressing high-priority risks first.
+<ul>
+<li>Rank risks based on their probability and impact.
+<li>Focus on addressing high-priority risks first.
 
 <b>4. Risk Mitigation Strategies</b>
 
 This section offers guidance on developing action plans to prevent or minimize the impact of identified risks, transferring risks through insurance or contractual agreements, and establishing contingency plans for unexpected events.
-
-1.  Develop action plans to prevent or minimize the impact of identified risks.
-2.  Consider transferring risks through insurance or contractual agreements.
-3.  Establish contingency plans for unexpected events.
+<ul>
+    <li>Develop action plans to prevent or minimize the impact of identified risks.
+    <li>Consider transferring risks through insurance or contractual agreements.
+    <li>Establish contingency plans for unexpected events.
 
 <b>5. Monitoring & Review</b>
 
 This section highlights the importance of assigning responsibility for monitoring specific risks to team members and regularly reviewing and updating the risk management plan as needed.
-
-1.  Assign responsibility for monitoring specific risks to team members.
-2. Regularly review the risk management plan and update it as needed.
-
+<ul>
+    <li>Assign responsibility for monitoring specific risks to team members.
+    <li>Regularly review the risk management plan and update it as needed.
+</ul>
 <b>Practical Tips & Examples</b>
 
 <a href="https://www.wsj.com/articles/uber-discloses-financials-shows-sales-growth-outweighed-by-losses-11549638000">Uber</a>, which was structured as an LLC before its IPO, faced various operational, legal, and financial risks but managed them through proactive planning and adaptation.
@@ -1150,41 +1147,41 @@ Consider obtaining general liability, professional liability, workers' compensat
 <b>i. General Liability Insurance</b>
 
 This section describes how general liability insurance covers bodily injury, property damage, and personal injury claims, making it essential for most businesses.
-
-1.  Covers bodily injury, property damage, and personal injury claims.
-2.  Essential for most businesses regardless of industry or size.
-
+<ul>
+    <li>Covers bodily injury, property damage, and personal injury claims.
+    <li>Essential for most businesses regardless of industry or size.
+</ul>
 <b>ii. Professional Liability Insurance (Errors & Omissions)</b>
 
-This section highlights the importance of professional liability insurance in protecting against negligence claims for service-based businesses like consultants or accountants.
-
-1.  Protects against negligence claims resulting from mistakes or failure to perform services.
-2.  Particularly important for service-based businesses like consultants or accountants.
-
+Professional liability insurance protects against negligence claims for service-based businesses like consultants or accountants.
+<ul>
+    <li>Protects against negligence claims resulting from mistakes or failure to perform services.
+    <li>Particularly important for service-based businesses like consultants or accountants.
+</ul>
 <b>iii. Workers' Compensation Insurance</b>
 
-This section explains that workers' compensation insurance is required in most states for businesses with employees and covers work-related medical expenses and lost wages.
-
-1.  Required in most states if you have employees.
-2.  Covers medical expenses and lost wages due to work-related injuries or illnesses.
-
+Workers' compensation insurance is required in most states for businesses with employees and covers work-related medical expenses and lost wages.
+<ul>
+    <li>Required in most states if you have employees.
+    <li>Covers medical expenses and lost wages due to work-related injuries or illnesses.
+</ul>
 <b>iv. Property Insurance</b>
 
-This section outlines how property insurance protects a business's physical assets from damage or loss, and the potential benefits of business interruption coverage for lost income during temporary closures.
-
-1.  Protects physical assets like buildings, equipment, and inventory from damage or loss.
-2.  Consider business interruption coverage for lost income during temporary closures.
-
+Property insurance protects a business's physical assets from damage or loss, and the potential benefits of business interruption coverage for lost income during temporary closures.
+<ul>
+    <li>Protects physical assets like buildings, equipment, and inventory from damage or loss.
+    <li>Consider business interruption coverage for lost income during temporary closures.
+</ul>
 <b>v. Cyber Liability Insurance</b>
 
 This section discusses the importance of cyber liability insurance in covering financial losses due to data breaches or other cyber incidents for businesses handling sensitive customer information or relying heavily on digital systems.
-
-1.  Covers financial losses due to data breaches or other cyber incidents.
-2.  Important for businesses that handle sensitive customer information or rely heavily on digital systems.
-
+<ul>
+    <li>Covers financial losses due to data breaches or other cyber incidents.
+    <li>Important for businesses that handle sensitive customer information or rely heavily on digital systems.
+</ul>
 <b>Examples & Practical Tips</b>
 
-<a href="https://www.dropbox.com/">Dropbox</a>
+<a href="https://www.dropbox.com/">Dropbox</a>
 , a file hosting service structured as an LLC before going public, has various insurance policies in place to protect against risks such as data breaches and intellectual property disputes.
 
 Work with a knowledgeable insurance agent who can help customize coverage based on your LLC's unique needs and risk profile. Regularly review and update your policies as your business grows or circumstances change.
