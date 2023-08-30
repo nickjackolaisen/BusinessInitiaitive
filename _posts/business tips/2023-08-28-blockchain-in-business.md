@@ -58,7 +58,6 @@ Blockchain technology has its roots in the early 1990s, but it wasn't until 2008
 <figcaption>The history of blockchain technology showcases its rapid development and adoption across multiple sectors, driven by its potential to revolutionize data security and decentralization.</figcaption>
 </center>
 
-
 ## Beyond Digital Currency: Blockchain Applications in Tomorrow's Business Landscape
 
 Blockchain technology has emerged as a transformative force in the contemporary business landscape. Its decentralized, secure, and transparent nature offers numerous benefits that are increasingly being recognized and harnessed by various industries. Here are some key ways blockchain technology is impacting modern businesses:
@@ -181,8 +180,11 @@ There are three main types of blockchain networks, each with distinct features a
 
 ### 1. Public Blockchains
 
-Public blockchains are open, decentralized networks that anyone can join and participate in. They allow users to read, write, and audit transactions without requiring permission from a central authority. Some key features of public blockchains include:
+Public blockchains are open, decentralized networks that anyone can join and participate in. 
 
+They allow users to read, write, and audit transactions without requiring permission from a central authority. 
+
+Key features of public blockchains include:
 -   **Decentralization**: Public blockchains are maintained by a large number of nodes distributed across the globe, ensuring that no single entity has control over the network.
 -   **Permissionless**: Anyone can join the network and contribute to the consensus process, either by mining (in Proof of Work systems) or staking (in Proof of Stake systems).
 -   **Transparency**: All transactions on public blockchains are visible to everyone in the network, fostering trust and accountability.
@@ -191,8 +193,11 @@ Examples of public blockchains include Bitcoin, Ethereum, and Litecoin. These ne
 
 ### 2. Private Blockchains
 
-Private blockchains are closed networks where access is restricted to specific participants who have been granted permission. They offer greater control over the network but sacrifice some decentralization in the process. Key features of private blockchains include:
+Private blockchains are closed networks where access is restricted to specific participants who have been granted permission. 
 
+They offer greater control over the network but sacrifice some decentralization in the process. 
+
+Key features of private blockchains include:
 -   **Centralized control**: A central authority or organization manages the network and determines who can participate in it.
 -   **Permissioned**: Access to the network is granted only to approved participants who meet specific criteria set by the controlling entity.
 -   **Enhanced privacy**: Transactions in private blockchains may not be publicly visible, offering increased privacy for users.
@@ -201,8 +206,11 @@ Private blockchains are often used by businesses and organizations looking to le
 
 ### 3. Consortium Blockchains
 
-Consortium blockchains, also known as federated blockchains, are a hybrid between public and private blockchains. They are controlled by a group of pre-selected organizations or entities that share the responsibility of maintaining the network and validating transactions. Characteristics of consortium blockchains include:
+Consortium blockchains, also known as federated blockchains, are a hybrid between public and private blockchains. 
 
+They are controlled by a group of pre-selected organizations or entities that share the responsibility of maintaining the network and validating transactions. 
+
+Characteristics of consortium blockchains include:
 -   **Shared control**: Multiple trusted entities collaborate to maintain the network, ensuring that no single organization has complete control.
 -   **Permissioned**: Access to the network is restricted to authorized participants who have been vetted by the controlling entities.
 -   **Efficiency**: Consortium blockchains often have faster transaction processing times and lower energy consumption compared to public blockchains.
@@ -269,17 +277,33 @@ Blockchain technology's versatility allows it to be applied across multiple busi
 
 The advent of blockchain technology has revolutionized the financial sector, paving the way for innovative applications such as:
 
--   **Digital currencies (e.g., Bitcoin, Ethereum)**: Decentralized digital currencies, also known as cryptocurrencies, provide an alternative form of payment and have gained widespread adoption ([source](https://www.statista.com/statistics/647374/worldwide-blockchain-wallet-users/)). As of Q2 2021, there are over 70 million blockchain wallet users worldwide ([source](https://www.statista.com/statistics/647374/worldwide-blockchain-wallet-users/)).
--   **Cross-border payments**: Blockchain enables faster, cheaper, and more secure international transactions without the need for intermediaries ([source](https://www.worldbank.org/en/topic/remittances)). In 2020, global remittances reached \$540 billion despite the COVID-19 pandemic's economic impact ([source](https://www.worldbank.org/en/news/press-release/2021/05/12/covid-19-crisis-through-a-migration-lens)).
--   **Trade finance**: Blockchain can streamline trade finance processes by reducing paperwork and automating transactions, making them more efficient and transparent ([source](https://www2.deloitte.com/content/dam/Deloitte/ch/Documents/innovation/ch-en-innovation-deloitte-blockchain-app-in-trade-finance.pdf)). According to a Deloitte study, blockchain has the potential to reduce operational costs in trade finance by 50% to 70% ([source](https://www2.deloitte.com/content/dam/Deloitte/ch/Documents/innovation/ch-en-innovation-deloitte-blockchain-app-in-trade-finance.pdf)).
+-   **Digital currencies (e.g., Bitcoin, Ethereum)**: Decentralized digital currencies, also known as cryptocurrencies, provide an alternative form of payment and have gained widespread adoption ([source](https://www.statista.com/statistics/647374/worldwide-blockchain-wallet-users/)). 
+
+As of Q2 2021, there are over 70 million blockchain wallet users worldwide ([source](https://www.statista.com/statistics/647374/worldwide-blockchain-wallet-users/)).
+
+-   **Cross-border payments**: Blockchain enables faster, cheaper, and more secure international transactions without the need for intermediaries ([source](https://www.worldbank.org/en/topic/remittances)). 
+
+In 2020, global remittances reached \$540 billion despite the COVID-19 pandemic's economic impact ([source](https://www.worldbank.org/en/news/press-release/2021/05/12/covid-19-crisis-through-a-migration-lens)).
+
+-   **Trade finance**: Blockchain can streamline trade finance processes by reducing paperwork and automating transactions, making them more efficient and transparent ([source](https://www2.deloitte.com/content/dam/Deloitte/ch/Documents/innovation/ch-en-innovation-deloitte-blockchain-app-in-trade-finance.pdf)). 
+
+According to a Deloitte study, blockchain has the potential to reduce operational costs in trade finance by 50% to 70% ([source](https://www2.deloitte.com/content/dam/Deloitte/ch/Documents/innovation/ch-en-innovation-deloitte-blockchain-app-in-trade-finance.pdf)).
 
 ### 2. Supply Chain Management
 
 The transformative power of blockchain technology in enhancing supply chain management has gained significant recognition. Its diverse applications include:
 
--   **Provenance tracking**: Tracking the movement of goods from their origin to the final consumer ensures transparency and accountability throughout the supply chain ([source](https://www.ibm.com/blockchain/solutions/food-trust)). Walmart, for instance, has been using IBM's Food Trust blockchain to trace products from over 25 food suppliers, reducing the time taken to trace food items from 7 days to 2.2 seconds ([source](https://www.ibm.com/case-studies/walmart-food-trust)).
--   **Quality assurance**: Blockchain can help maintain quality control by recording important information about products at each stage of the supply chain ([source](https://www.accenture.com/_acnmedia/pdf-56/accenture-strategy-blockchains-supply-chains-grow-up.pdf)). A World Economic Forum study found that 30% of companies are actively piloting blockchain in their supply chains for improved traceability and transparency ([source](https://www.weforum.org/reports/inclusive-deployment-of-blockchain-case-studies-and-learnings-from-the-united-arab-emirates)).
--   **Reduction of fraud**: The immutable nature of blockchain makes it difficult to tamper with data or counterfeit goods, minimizing fraud within the supply chain ([source](https://ieeexplore.ieee.org/document/8475561)). The global cost of counterfeit and pirated goods is estimated at \$1.7 trillion annually, highlighting the need for blockchain-based solutions to combat fraud in supply chains ([source](https://iccwbo.org/media-wall/news-speeches/global-impacts-counterfeiting-piracy-reach-us4-2-trillion-2022/)).
+-   **Provenance tracking**: Tracking the movement of goods from their origin to the final consumer ensures transparency and accountability throughout the supply chain ([source](https://www.ibm.com/blockchain/solutions/food-trust)). 
+
+Walmart, for instance, has been using IBM's Food Trust blockchain to trace products from over 25 food suppliers, reducing the time taken to trace food items from 7 days to 2.2 seconds ([source](https://www.ibm.com/case-studies/walmart-food-trust)).
+
+-   **Quality assurance**: Blockchain can help maintain quality control by recording important information about products at each stage of the supply chain ([source](https://www.accenture.com/_acnmedia/pdf-56/accenture-strategy-blockchains-supply-chains-grow-up.pdf)). 
+
+A World Economic Forum study found that 30% of companies are actively piloting blockchain in their supply chains for improved traceability and transparency ([source](https://www.weforum.org/reports/inclusive-deployment-of-blockchain-case-studies-and-learnings-from-the-united-arab-emirates)).
+
+-   **Reduction of fraud**: The immutable nature of blockchain makes it difficult to tamper with data or counterfeit goods, minimizing fraud within the supply chain ([source](https://ieeexplore.ieee.org/document/8475561)). 
+
+The global cost of counterfeit and pirated goods is estimated at \$1.7 trillion annually, highlighting the need for blockchain-based solutions to combat fraud in supply chains ([source](https://iccwbo.org/media-wall/news-speeches/global-impacts-counterfeiting-piracy-reach-us4-2-trillion-2022/)).
 
 ### 3. Real Estate
 
@@ -289,17 +313,33 @@ The real estate sector stands on the cusp of a major transformation, as blockcha
 <img alt="blockchain real estate" src="/images/content/real-estate.png" style="width: 63%; height: 63%">
 </center> 
 
--   **Property ownership verification**: A blockchain-based land registry can provide a secure and transparent record of property ownership, simplifying the verification process ([source](https://www.mckinsey.com/~/media/mckinsey/industries/capital%20projects%20and%20infrastructure/our%20insights/blockchain%20in%20construction%20a%20blueprint%20for%20disruption/blockchain-in-construction-a-blueprint-for-disruption.pdf)). In countries like Georgia and Sweden, pilot projects have successfully demonstrated the benefits of blockchain for land registries ([source](https://www.mckinsey.com/~/media/mckinsey/industries/capital%20projects%20and%20infrastructure/our%20insights/blockchain%20in%20construction%20a%20blueprint%20for%20disruption/blockchain-in-construction-a-blueprint-for-disruption.pdf)).
--   **Tokenization of assets**: Tokenizing real estate assets on the blockchain can enable fractional ownership and make property investment more accessible ([source](https://www.pwc.de/en/real-estate/assets/pwc-blockchain-tokenization-of-real-estate.pdf)). The global real estate market is estimated to be worth \$228 trillion, indicating the vast potential for tokenization in this sector ([source](https://www.savills.co.uk/research_articles/229130/210665-0)).
--   **Streamlined transactions**: Using smart contracts for real estate transactions can automate processes, reduce paperwork, and lower costs ([source](https://www.jbs.cam.ac.uk/fileadmin/user_upload/research/workingpapers/wp1901.pdf)). In 2017, a \$1.6 million property transaction in New York City was the first real estate deal to be completed using Ethereum smart contracts ([source](https://www.forbes.com/sites/omribarzilay/2017/09/08/from-crypto-to-cash-first-ever-real-estate-sale-using-ethereum-leads-the-way/#35f4dd6f3d11)). 
+-   **Property ownership verification**: A blockchain-based land registry can provide a secure and transparent record of property ownership, simplifying the verification process ([source](https://www.mckinsey.com/~/media/mckinsey/industries/capital%20projects%20and%20infrastructure/our%20insights/blockchain%20in%20construction%20a%20blueprint%20for%20disruption/blockchain-in-construction-a-blueprint-for-disruption.pdf)). 
+
+In countries like Georgia and Sweden, pilot projects have successfully demonstrated the benefits of blockchain for land registries ([source](https://www.mckinsey.com/~/media/mckinsey/industries/capital%20projects%20and%20infrastructure/our%20insights/blockchain%20in%20construction%20a%20blueprint%20for%20disruption/blockchain-in-construction-a-blueprint-for-disruption.pdf)).
+
+-   **Tokenization of assets**: Tokenizing real estate assets on the blockchain can enable fractional ownership and make property investment more accessible ([source](https://www.pwc.de/en/real-estate/assets/pwc-blockchain-tokenization-of-real-estate.pdf)). 
+
+The global real estate market is estimated to be worth $228 trillion, indicating the vast potential for tokenization in this sector ([source](https://www.savills.co.uk/research_articles/229130/210665-0)).
+
+-   **Streamlined transactions**: Using smart contracts for real estate transactions can automate processes, reduce paperwork, and lower costs ([source](https://www.jbs.cam.ac.uk/fileadmin/user_upload/research/workingpapers/wp1901.pdf)). 
+
+In 2017, a $1.6 million property transaction in New York City was the first real estate deal to be completed using Ethereum smart contracts ([source](https://www.forbes.com/sites/omribarzilay/2017/09/08/from-crypto-to-cash-first-ever-real-estate-sale-using-ethereum-leads-the-way/#35f4dd6f3d11)). 
 
 ### 4. Healthcare
 
 The potential of blockchain technology in the healthcare sector is vast and multifaceted. Some of its key applications include:
 
--   **Patient data management**: A decentralized patient record system can enhance data security, interoperability, and accessibility while maintaining privacy ([source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6682312/)). Research estimates that improved data sharing could save the US healthcare system up to \$1.9 billion annually ([source](https://pubmed.ncbi.nlm.nih.gov/28736725/)).
--   **Drug supply chain traceability**: Blockchain can ensure the authenticity and safety of pharmaceutical products by tracking them throughout the supply chain ([source](https://www.accenture.com/_acnmedia/PDF-71/Accenture-Pioneering-Blockchain-Secure-Supply-Chain.pdf)). The World Health Organization (WHO) estimates that up to 10% of medicines worldwide are counterfeit, emphasizing the need for blockchain-based traceability solutions ([source](https://www.accenture.com/_acnmedia/PDF-71/Accenture-Pioneering-Blockchain-Secure-Supply-Chain.pdf)).
--   **Clinical trial management**: Blockchain can improve clinical trial management by streamlining data collection, maintaining data integrity, and ensuring transparency ([source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6022997/)). A study found that only 20% of clinical trials are completed on time, with delays costing up to \$8 million per day, highlighting the potential benefits of blockchain in this area ([source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6022997/)).
+-   **Patient data management**: A decentralized patient record system can enhance data security, interoperability, and accessibility while maintaining privacy ([source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6682312/)). 
+
+Research estimates that improved data sharing could save the US healthcare system up to \$1.9 billion annually ([source](https://pubmed.ncbi.nlm.nih.gov/28736725/)).
+
+-   **Drug supply chain traceability**: Blockchain can ensure the authenticity and safety of pharmaceutical products by tracking them throughout the supply chain ([source](https://www.accenture.com/_acnmedia/PDF-71/Accenture-Pioneering-Blockchain-Secure-Supply-Chain.pdf)). 
+
+The World Health Organization (WHO) estimates that up to 10% of medicines worldwide are counterfeit, emphasizing the need for blockchain-based traceability solutions ([source](https://www.accenture.com/_acnmedia/PDF-71/Accenture-Pioneering-Blockchain-Secure-Supply-Chain.pdf)).
+
+-   **Clinical trial management**: Blockchain can improve clinical trial management by streamlining data collection, maintaining data integrity, and ensuring transparency ([source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6022997/)). 
+
+A study found that only 20% of clinical trials are completed on time, with delays costing up to \$8 million per day, highlighting the potential benefits of blockchain in this area ([source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6022997/)).
 
 ### 5. Insurance
 
@@ -311,9 +351,17 @@ Blockchain technology holds the potential to revolutionize the insurance industr
 
 Some key areas where this technology can make a significant impact include:
 
--   **Fraud detection and prevention**: The transparent and immutable nature of blockchain can help detect and prevent fraudulent activities in insurance claims ([source](https://www.mckinsey.com/~/media/McKinsey/Industries/Financial%20Services/Our%20Insights/Blockchain%20in%20Insurance%20-%20Opportunity%20or%20Threat/Blockchain_PoV_July2016.ashx)). According to the Federal Bureau of Investigation (FBI), insurance fraud (excluding healthcare) costs more than \$40 billion per year in the United States ([source](https://www.fbi.gov/stats-services/publications/insurance-fraud)). Blockchain technology could play a significant role in combating this issue.
--   **Claims management**: Smart contracts can automate claims processing, reducing manual intervention and improving efficiency ([source](https://www2.deloitte.com/content/dam/Deloitte/ch/Documents/innovation/ch-en-innovation-deloitte-blockchain-app-in-insurance.pdf)). The global insurance claims management market is expected to reach \$14.7 billion by 2026, with blockchain solutions potentially driving part of this growth ([source](https://www.globenewswire.com/news-release/2021/03/03/2185599/28124/en/Global-14-7-Billion-Insurance-Claims-Management-Markets-to-2026.html)).
--   **Risk assessment**: Blockchain can enable more accurate risk assessment by providing secure and transparent access to relevant data across multiple parties ([source](https://ieeexplore.ieee.org/document/8475561)). The global risk management market is projected to reach \$18.5 billion by 2021, showcasing the potential for blockchain applications in this sector ([source](https://www.marketsandmarkets.com/Market-Reports/operational-risk-management-market-114734962.html)).
+-   **Fraud detection and prevention**: The transparent and immutable nature of blockchain can help detect and prevent fraudulent activities in insurance claims ([source](https://www.mckinsey.com/~/media/McKinsey/Industries/Financial%20Services/Our%20Insights/Blockchain%20in%20Insurance%20-%20Opportunity%20or%20Threat/Blockchain_PoV_July2016.ashx)). 
+
+According to the Federal Bureau of Investigation (FBI), insurance fraud (excluding healthcare) costs more than \$40 billion per year in the United States ([source](https://www.fbi.gov/stats-services/publications/insurance-fraud)). Blockchain technology could play a significant role in combating this issue.
+
+-   **Claims management**: Smart contracts can automate claims processing, reducing manual intervention and improving efficiency ([source](https://www2.deloitte.com/content/dam/Deloitte/ch/Documents/innovation/ch-en-innovation-deloitte-blockchain-app-in-insurance.pdf)). 
+
+The global insurance claims management market is expected to reach \$14.7 billion by 2026, with blockchain solutions potentially driving part of this growth ([source](https://www.globenewswire.com/news-release/2021/03/03/2185599/28124/en/Global-14-7-Billion-Insurance-Claims-Management-Markets-to-2026.html)).
+
+-   **Risk assessment**: Blockchain can enable more accurate risk assessment by providing secure and transparent access to relevant data across multiple parties ([source](https://ieeexplore.ieee.org/document/8475561)). 
+
+The global risk management market is projected to reach \$18.5 billion by 2021, showcasing the potential for blockchain applications in this sector ([source](https://www.marketsandmarkets.com/Market-Reports/operational-risk-management-market-114734962.html)).
 
 In conclusion, blockchain technology has far-reaching applications across various business sectors, revolutionizing traditional practices and offering numerous benefits.
 
@@ -325,8 +373,13 @@ While blockchain technology offers numerous benefits, it also faces certain chal
 
 As blockchain networks grow, they face scalability issues that impact their performance:
 
--   **Limited transaction throughput**: Existing public blockchains like Bitcoin and Ethereum have limited transaction processing capacity. For example, Bitcoin can process around 7 transactions per second (tps), while Ethereum handles around 30 tps. In comparison, Visa can handle up to 65,000 tps ([source](https://www.coindesk.com/bitcoin-ethereum-scaling)).
--   **Energy consumption**: Proof of Work (PoW) consensus mechanisms used in some blockchains, such as Bitcoin, are energy-intensive and contribute to environmental concerns. In November 2021, the Cambridge Centre for Alternative Finance estimated that Bitcoin's annual energy consumption was around 115 TWh, which is comparable to the energy consumption of a small country like the Netherlands ([source](https://cbeci.org/)).
+-   **Limited transaction throughput**: Existing public blockchains like Bitcoin and Ethereum have limited transaction processing capacity. 
+
+For example, Bitcoin can process around 7 transactions per second (tps), while Ethereum handles around 30 tps. In comparison, Visa can handle up to 65,000 tps ([source](https://www.coindesk.com/bitcoin-ethereum-scaling)).
+
+-   **Energy consumption**: Proof of Work (PoW) consensus mechanisms used in some blockchains, such as Bitcoin, are energy-intensive and contribute to environmental concerns. 
+
+In November 2021, the Cambridge Centre for Alternative Finance estimated that Bitcoin's annual energy consumption was around 115 TWh, which is comparable to the energy consumption of a small country like the Netherlands ([source](https://cbeci.org/)).
 
 Several solutions are being developed to address these scalability issues, including layer 2 solutions like the Lightning Network and alternative consensus mechanisms like Proof of Stake (PoS).
 
@@ -334,8 +387,13 @@ Several solutions are being developed to address these scalability issues, inclu
 
 The regulatory landscape surrounding blockchain technology is still evolving, resulting in challenges for businesses and users:
 
--   **Legal uncertainty**: As regulators grapple with the implications of blockchain technology, there is a lack of clear legal frameworks and guidelines in many jurisdictions. For example, cryptocurrency regulations vary significantly across countries, with some embracing the technology while others impose strict restrictions or outright bans ([source](https://library.oapen.org/bitstream/handle/20.500.12657/42584/9789004439210_webready_content_text.pdf)).
--   **Compliance challenges**: Businesses implementing blockchain solutions must navigate complex regulatory requirements related to data privacy, cross-border transactions, and anti-money laundering (AML) measures. A PwC survey found that 48% of companies exploring blockchain cited regulatory uncertainty as a barrier to adoption ([source](https://www.pwc.com/gx/en/issues/blockchain/blockchain-in-business.html)).
+-   **Legal uncertainty**: As regulators grapple with the implications of blockchain technology, there is a lack of clear legal frameworks and guidelines in many jurisdictions. 
+
+For example, cryptocurrency regulations vary significantly across countries, with some embracing the technology while others impose strict restrictions or outright bans ([source](https://library.oapen.org/bitstream/handle/20.500.12657/42584/9789004439210_webready_content_text.pdf)).
+
+-   **Compliance challenges**: Businesses implementing blockchain solutions must navigate complex regulatory requirements related to data privacy, cross-border transactions, and anti-money laundering (AML) measures. 
+
+A PwC survey found that 48% of companies exploring blockchain cited regulatory uncertainty as a barrier to adoption ([source](https://www.pwc.com/gx/en/issues/blockchain/blockchain-in-business.html)).
 
 As the technology matures, regulators worldwide are expected to develop more comprehensive and harmonized legal frameworks.
 
@@ -343,8 +401,15 @@ As the technology matures, regulators worldwide are expected to develop more com
 
 Despite its inherent security features, blockchain technology is not immune to threats and privacy concerns:
 
--   **Vulnerability to attacks**: While blockchains are generally secure, they can be susceptible to attacks like 51% attacks (where a single entity gains control of the majority of the network's mining power) or smart contract vulnerabilities. In January 2019, Ethereum Classic suffered a 51% attack that resulted in the theft of over \$1 million worth of cryptocurrency ([source](https://www.coindesk.com/ethereum-classic-51-attack-blockchain-history)).
--   **Data protection issues**: Ensuring data privacy on public blockchains can be challenging, as transactions are often visible to all network participants. This raises concerns about complying with privacy regulations like the General Data Protection Regulation (GDPR). For instance, GDPR's "right to be forgotten" contradicts the immutability principle of blockchain technology ([source](https://iapp.org/media/pdf/resource_center/blockchain_and_the_gdpr.pdf)).
+-   **Vulnerability to attacks**: While blockchains are generally secure, they can be susceptible to attacks like 51% attacks (where a single entity gains control of the majority of the network's mining power) or smart contract vulnerabilities. 
+
+In January 2019, Ethereum Classic suffered a 51% attack that resulted in the theft of over \$1 million worth of cryptocurrency ([source](https://www.coindesk.com/ethereum-classic-51-attack-blockchain-history)).
+
+-   **Data protection issues**: Ensuring data privacy on public blockchains can be challenging, as transactions are often visible to all network participants. 
+
+This raises concerns about complying with privacy regulations like the General Data Protection Regulation (GDPR). 
+
+For instance, GDPR's "right to be forgotten" contradicts the immutability principle of blockchain technology ([source](https://iapp.org/media/pdf/resource_center/blockchain_and_the_gdpr.pdf)).
 
 Efforts are underway to develop more robust security measures and privacy-preserving techniques for blockchain networks, such as zero-knowledge proofs and confidential transactions.
 
@@ -354,13 +419,17 @@ In conclusion, addressing these challenges and concerns is crucial for the succe
 
 ### 1. Walmart's Food Traceability Solution
 
-Walmart, one of the world's largest retailers, has implemented a blockchain-based food traceability solution to enhance the transparency and efficiency of its supply chain. In partnership with IBM, Walmart developed the [IBM Food Trust](https://www.ibm.com/blockchain/solutions/food-trust) platform, which uses blockchain technology to track food products from their origin to store shelves. 
+Walmart, one of the world's largest retailers, has implemented a blockchain-based food traceability solution to enhance the transparency and efficiency of its supply chain. 
+
+In partnership with IBM, Walmart developed the [IBM Food Trust](https://www.ibm.com/blockchain/solutions/food-trust) platform, which uses blockchain technology to track food products from their origin to store shelves. 
 
 <center>
 <img alt="blockchains in practice" src="/images/content/ibm-city-building.png" style="width: 63%; height: 63%">
 </center>
 
-The system helps improve food safety by enabling faster identification and removal of contaminated products, reducing the risk of foodborne illnesses. Walmart's blockchain initiative has demonstrated significant improvements in traceability, reducing the time taken to trace food items from 7 days to just 2.2 seconds ([source](https://www.ibm.com/case-studies/walmart-food-trust)).
+The system helps improve food safety by enabling faster identification and removal of contaminated products, reducing the risk of foodborne illnesses. 
+
+Walmart's blockchain initiative has demonstrated significant improvements in traceability, reducing the time taken to trace food items from 7 days to just 2.2 seconds ([source](https://www.ibm.com/case-studies/walmart-food-trust)).
 
 ### 2. De Beers' Diamond Supply Chain Tracking
 
@@ -370,17 +439,23 @@ De Beers, the world's largest diamond producer, has utilized blockchain technolo
 <img alt="blockchain diamonds" src="/images/content/diamond-investments.png" style="width: 63%; height: 63%">
 </center>
 
-By providing a tamper-proof digital record of diamonds' provenance and ownership history, Tracr helps combat issues such as conflict diamonds and counterfeiting. The platform has been successfully piloted with over 100 high-value diamonds tracked across the supply chain ([source](https://www.debeersgroup.com/media/company-news/2018/tracr-announces-successful-conclusion-of-blockchain-pilot)).
+By providing a tamper-proof digital record of diamonds' provenance and ownership history, Tracr helps combat issues such as conflict diamonds and counterfeiting. 
+
+The platform has been successfully piloted with over 100 high-value diamonds tracked across the supply chain ([source](https://www.debeersgroup.com/media/company-news/2018/tracr-announces-successful-conclusion-of-blockchain-pilot)).
 
 ### 3. Maersk's Blockchain-Based Shipping Platform
 
-Maersk, the world's largest shipping company, has partnered with IBM to create a blockchain-based shipping platform called [TradeLens](https://www.tradelens.com/). The platform aims to streamline the global shipping industry by digitizing and automating documentation processes, enhancing transparency, and promoting collaboration among supply chain participants. 
+Maersk, the world's largest shipping company, has partnered with IBM to create a blockchain-based shipping platform called [TradeLens](https://www.tradelens.com/). 
+
+The platform aims to streamline the global shipping industry by digitizing and automating documentation processes, enhancing transparency, and promoting collaboration among supply chain participants. 
 
 <center>
 <img alt="blockchain shipping" src="/images/content/maersk-shipping.png" style="width: 63%; height: 63%">
 </center>
 
-TradeLens provides real-time access to shipping data, enabling more efficient tracking of cargo movements and reducing the potential for errors and fraud. Since its launch in 2018, TradeLens has attracted over 100 participants, including carriers, ports, terminal operators, and customs authorities, and has processed millions of shipping events ([source](https://www.ibm.com/case-studies/maersk-blockchain-supply-chain)).
+TradeLens provides real-time access to shipping data, enabling more efficient tracking of cargo movements and reducing the potential for errors and fraud.
+
+Since its launch in 2018, TradeLens has attracted over 100 participants, including carriers, ports, terminal operators, and customs authorities, and has processed millions of shipping events ([source](https://www.ibm.com/case-studies/maersk-blockchain-supply-chain)).
 
 These successful implementations demonstrate the potential of blockchain technology to transform various industries by improving efficiency, transparency, and security in their respective supply chains.
 
