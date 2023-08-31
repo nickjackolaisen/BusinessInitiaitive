@@ -29,9 +29,11 @@ So let's embark on this exciting journey together and unlock new opportunities f
 <img alt="blockchain tech" src="/images/content/future-city-technology.png" style="width: 63%; height: 63%">
 </center>
 
+
+
 ## Unlock Blockchain Technology
 
-Blockchain is a decentralized, distributed ledger technology that securely records transactions across multiple nodes. It operates as a series of connected blocks, each containing a list of transactions. 
+Blockchain is a decentralized, <a href="#distributed-ledger">distributed ledger</a> technology that securely records transactions across multiple nodes. It operates as a series of connected blocks, each containing a list of transactions. 
 
 When new transactions occur, they are added to the most recent block. Once a block reaches its maximum capacity, a new block is created and connected to the previous one, forming a chain.
 
@@ -111,7 +113,7 @@ Embracing blockchain technology can provide businesses with a competitive edge, 
 ## Understanding the Core Components of Blockchain Technology
 
 Blockchain technology is built upon three fundamental components that work together to create a secure, decentralized, and efficient system. 
-
+<a href="#distributed-ledger">
 These core components are:
 -   Distributed Ledger, 
 -   Cryptography, 
@@ -141,9 +143,7 @@ Each user has a public key (akin to an account number) that is visible to everyo
 
 Transactions are signed with the private key, providing proof of ownership without revealing the user's identity.
 
--   **Hash functions:** 
-
-A hash function takes an input (such as transaction data) and produces a fixed-length output called a hash. Any change in input data will result in a completely different hash. This property makes hashes useful for verifying data integrity. 
+-   **Hash functions:** A hash function takes an input (such as transaction data) and produces a fixed-length output called a hash. Any change in input data will result in a completely different hash. This property makes hashes useful for verifying data integrity. 
 
 In a blockchain, each block contains a unique hash that depends on its contents and the hash of the previous block, creating a secure chain of blocks.
 
@@ -186,7 +186,9 @@ They allow users to read, write, and audit transactions without requiring permis
 
 Key features of public blockchains include:
 -   **Decentralization**: Public blockchains are maintained by a large number of nodes distributed across the globe, ensuring that no single entity has control over the network.
+
 -   **Permissionless**: Anyone can join the network and contribute to the consensus process, either by mining (in Proof of Work systems) or staking (in Proof of Stake systems).
+
 -   **Transparency**: All transactions on public blockchains are visible to everyone in the network, fostering trust and accountability.
 
 Examples of public blockchains include Bitcoin, Ethereum, and Litecoin. These networks are primarily used for decentralized digital currencies and open-source decentralized applications (dApps).
@@ -199,7 +201,9 @@ They offer greater control over the network but sacrifice some decentralization 
 
 Key features of private blockchains include:
 -   **Centralized control**: A central authority or organization manages the network and determines who can participate in it.
+
 -   **Permissioned**: Access to the network is granted only to approved participants who meet specific criteria set by the controlling entity.
+
 -   **Enhanced privacy**: Transactions in private blockchains may not be publicly visible, offering increased privacy for users.
 
 Private blockchains are often used by businesses and organizations looking to leverage blockchain technology while retaining control over their data and network participants. Examples include Hyperledger Fabric and R3 Corda.
@@ -212,7 +216,9 @@ They are controlled by a group of pre-selected organizations or entities that sh
 
 Characteristics of consortium blockchains include:
 -   **Shared control**: Multiple trusted entities collaborate to maintain the network, ensuring that no single organization has complete control.
+
 -   **Permissioned**: Access to the network is restricted to authorized participants who have been vetted by the controlling entities.
+
 -   **Efficiency**: Consortium blockchains often have faster transaction processing times and lower energy consumption compared to public blockchains.
 
 Consortium blockchains are commonly used in sectors where multiple organizations need to collaborate and share information securely, such as finance, supply chain management, and healthcare. Examples include Quorum and Ripple.
@@ -232,6 +238,7 @@ Blockchain technology offers numerous advantages that can revolutionize the way 
 Blockchain's unique characteristics contribute to its robust security features:
 
 -   **Cryptographic protection**: Transactions are secured using cryptographic techniques such as public-key cryptography and digital signatures, ensuring data confidentiality and integrity.
+
 -   **Decentralization**: Data is stored across a distributed network of nodes, making it resistant to tampering or single points of failure. This reduces the risk of hacks and data breaches.
 
 By leveraging these features, businesses can protect sensitive information and build trust with their customers.
@@ -241,6 +248,7 @@ By leveraging these features, businesses can protect sensitive information and b
 Blockchain technology streamlines various processes, leading to improved efficiency and speed:
 
 -   **Automation through smart contracts**: These programmable contracts execute predefined actions when specific conditions are met. Smart contracts can automate processes such as payments, contract enforcement, and supply chain management.
+
 -   **Streamlined processes**: By eliminating intermediaries and enabling peer-to-peer transactions, blockchain networks can accelerate processes like cross-border payments, trade finance, and document verification.
 
 These efficiency improvements can result in faster operations, reduced turnaround times, and increased productivity for businesses.
@@ -250,6 +258,7 @@ These efficiency improvements can result in faster operations, reduced turnaroun
 Blockchain technology enhances traceability and transparency through its immutable ledger:
 
 -   **Immutable ledger**: Once a transaction is recorded on the blockchain, it cannot be altered or removed. This ensures a permanent record of all transactions that can be easily audited.
+
 -   **Auditability**: The transparent nature of blockchain allows for real-time tracking of assets and transactions by all network participants. This facilitates better decision-making and promotes trust among stakeholders.
 
 Businesses can leverage these features to improve supply chain traceability, ensure regulatory compliance, prevent fraud, and enhance overall accountability.
@@ -259,6 +268,7 @@ Businesses can leverage these features to improve supply chain traceability, ens
 Implementing blockchain technology can lead to significant cost savings for businesses:
 
 -   **Elimination of intermediaries**: Blockchain enables direct transactions between parties, removing the need for intermediaries like banks or notaries. This reduces transaction fees and other associated costs.
+
 -   **Automated processes**: Automation through smart contracts and streamlined processes can reduce manual intervention and administrative overhead, leading to lower operational costs.
 
 By adopting blockchain solutions, businesses can optimize their financial operations, minimize expenses, and ultimately increase profitability.
@@ -368,6 +378,10 @@ In conclusion, blockchain technology has far-reaching applications across variou
 ## Challenges and Concerns in Implementing Blockchain Technology
 
 While blockchain technology offers numerous benefits, it also faces certain challenges and concerns that need to be addressed for widespread adoption.
+
+<center>
+<img alt="obstacles" src="/images/content/obstacles.png" style="width: 63%; height: 63%">
+</center>
 
 ### 1. Scalability
 
