@@ -14,7 +14,7 @@ It operates as a shared database that is both transparent and tamper-proof, allo
 
 {% include takeaway-box.html bullet1="<b>Define Objectives and Assemble a Team</b> Outline your goals for integrating blockchain and form a team of experts, including developers, project managers, and industry specialists." bullet2="<b>Research and Design</b> Conduct market research on existing solutions, choose the appropriate consensus mechanism, and design your blockchain architecture, considering factors like scalability and security." bullet3="<b>Develop Smart Contracts and Ensure Compliance</b> Create tailored smart contracts, if applicable, and consult legal experts to ensure regulatory compliance within your jurisdiction." bullet4="<b>Deploy and Educate Stakeholders</b> Deploy your blockchain solution in a controlled environment, then educate stakeholders, including employees and customers, about its benefits and usage." bullet5="<b>Continuously Iterate and Improve</b> Evaluate your solution's performance, gather feedback, and stay informed about advancements in blockchain technology to remain competitive in the long term."%}
 
-## Blockchain Benefits for your Company
+## Blockchain Benefits for Your Company
 
 -   **Transparency**: Blockchain technology provides an unprecedented level of transparency, as all parties can access and verify the transaction history.
 
@@ -90,10 +90,10 @@ Regularly evaluate your blockchain solution's performance, gather feedback from 
 
 Stay informed about advancements in blockchain technology to ensure your business remains competitive in the long term.
 
-## Identifying Use Cases for Your Business
+## How Are Businesses Using Blockchain?
 
 <center>
-<img alt="blockchain platofmr" src="/images/content/btc-eth-blockchain.png" style="width: 63%; height: 63%">
+<img alt="blockchain business" src="/images/content/blockchain-handshake.png" style="width: 63%; height: 63%">
 </center>
 
 To effectively implement blockchain technology, identify the specific use cases that are most relevant to your business. 
@@ -110,12 +110,12 @@ Examples of common use cases include:
 
 -  **Voting Systems**: Ensuring secure, transparent, and tamper-proof voting processes.
 
-## Selecting the Right Blockchain Platform
+## Select the Right Blockchain Platform
 
 Once you've identified the use cases for your business, choose a suitable blockchain platform that meets your specific needs. 
 
 <center>
-<img alt="blockchain platofmr" src="/images/content/btc-eth-blockchain.png" style="width: 63%; height: 63%">
+<img alt="blockchain platoform" src="/images/content/btc-eth-blockchain.png" style="width: 63%; height: 63%">
 </center>
 
 Some popular platforms include:
@@ -158,7 +158,7 @@ This process may involve:
 3.  **Monitoring performance**: Continuously monitor the performance of your blockchain implementation to identify areas for improvement and optimize its effectiveness.
 4.  **Adapting to change**: As the blockchain landscape evolves, be prepared to adapt your implementation to stay ahead of the competition and leverage new opportunities.
 
-## Real-World Examples of Blockchain Implementation in Major Companies
+## Real Life Examples of Blockchain Implementation by Major Companies
 
 By examining these examples from major companies across various industries, it becomes evident that blockchain technology can offer significant benefits when integrated into existing business operations. 
 
@@ -176,7 +176,7 @@ The company's initiative, [IBM Food Trust](https://www.ibm.com/blockchain/soluti
 
 This platform improves traceability, transparency, and efficiency in the food supply chain while reducing the risk of contamination and fraud.
 
-### Walmart: Product Traceability
+### Walmart: Product Tracking
 
 <center>
 <img alt="blockchain walmart" src="/images/content/walmart-crypto.png" style="width: 63%; height: 63%">
@@ -200,7 +200,7 @@ TradeLens fosters transparency and real-time information exchange among parties 
 
 As a result, it streamlines documentation processes while reducing costs associated with manual paperwork.
 
-### De Beers: Diamond Tracking and Authentication
+### De Beers: Diamond Authentication and Tracking
 
 <center>
 <img alt="blockchain de bers" src="/images/content/diamond-investments.png" style="width: 63%; height: 63%">
