@@ -1,10 +1,11 @@
 ---
-title: "LLC Frequently Asked Questions (FAQs) for 2023"
+title: "Answers to General LLC FAQs for 2023"
 layout: post
 date: 2023-08-29
 uptate_date: 2023-08-30
 author: jack_nicholaisen
 summary: "Unlock the secrets to LLC formation! Our guide answers top questions, simplifies processes, & sets you on the path to success. Discover more today!"
+image: /images/posts-headers/faq-llc-general-header.png
 permalink: /faqs/llc/general-questions/
 ---
 
