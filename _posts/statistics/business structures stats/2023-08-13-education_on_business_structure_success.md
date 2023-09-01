@@ -182,7 +182,7 @@ Let's assess your company's needs and develop an education strategies today to p
 ## Sources
 
 -   [National Bureau of Economic Research](https://www.nber.org/papers/w22501)
--   [Global Entrepreneurship Monitor](https://www.gemconsortium.org/report/gem-2020-2021-global-report)
+-   [Global Entrepreneurship Monitor](https://www.gemconsortium.org/report/gem-20202021-global-report)
 -   [Journal of Business Venturing](https://www.sciencedirect.com/science/article/pii/S0883902618306778)
 -   [Academy of Management Journal](https://journals.aom.org/doi/10.5465/amj.2013.1063)
 -   [Journal of Corporate Finance](https://www.sciencedirect.com/science/article/pii/S0929119913000663)

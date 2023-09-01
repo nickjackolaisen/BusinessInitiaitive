@@ -33,7 +33,7 @@ Before developing a corporate strategy, it's essential to assess your company's 
 
 **Solutions**:
 
--   [SWOT analysis template](https://www.smartsheet.com/swot-analysis-template)
+-   [Consuct a SWOT analysis](businessinitiative.org/business-tips/swot-analysis/)
 -   [StrengthsFinder assessment](https://www.gallup.com/cliftonstrengths/en/strengthsfinder.aspx)
 
 ### Weaknesses:
