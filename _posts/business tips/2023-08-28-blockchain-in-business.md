@@ -29,8 +29,6 @@ So let's embark on this exciting journey together and unlock new opportunities f
 <img alt="blockchain tech" src="/images/content/future-city-technology.png" style="width: 63%; height: 63%">
 </center>
 
-
-
 ## Unlock Blockchain Technology
 
 Blockchain is a decentralized, <a href="#distributed-ledger">distributed ledger</a> technology that securely records transactions across multiple nodes. It operates as a series of connected blocks, each containing a list of transactions. 

@@ -232,8 +232,6 @@ By following these practical steps, you can unlock the potential of blockchain t
 
 Reach out to us using our [contact form](https://www.businessinitiative.org/contact/) and let's get started on revolutionizing your operations.
 
-Sign up now and join the growing community of businesses that are harnessing the power of blockchain for a more secure, transparent, and efficient future. [Subscribe here](https://www.businessinitiative.com/subscribe).
-
 Send Business Initiative a message <a href="https://twitter.com/intent/tweet?screen_name=BisInitiative&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @BisInitiative</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Stay ahead of the curve by subscribing to our newsletter, where we share the latest advancements in blockchain technology, industry insights, and practical implementation tips. 

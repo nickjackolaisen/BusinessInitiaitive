@@ -233,10 +233,10 @@ You can learn more about our services by [contacting us directly](https://www.bu
 
 ## Sources
 
--   [Limited Liability Company (LLC) Definition | Investopedia](https://www.investopedia.com/terms/l/llc.asp)
+-   [Limited Liability Company (LLC) Definition - Investopedia](https://www.investopedia.com/terms/l/llc.asp)
 -   [Why Choose an LLC? - FindLaw](https://smallbusiness.findlaw.com/incorporation-and-legal-structures/why-choose-an-llc.html)
--   [LLC vs. Corporation: Which Is Right for Your Business? | LegalZoom](https://www.legalzoom.com/articles/llc-vs-corporation-which-is-right-for-your-business)
--   [How to Start an LLC: A Comprehensive Guide | Incfile](https://www.incfile.com/how-to-start-an-llc)
+-   [LLC vs. Corporation: Which Is Right for Your Business? - LegalZoom](https://www.legalzoom.com/articles/llc-vs-corporation-which-is-right-for-your-business)
+-   [How to Start an LLC: A Comprehensive Guide - Incfile](https://www.incfile.com/how-to-start-an-llc)
 -   [North Star Consulting](https://www.example.com/northstarconsulting)
 -   [Learn about why you should Trademark your business name and logo.](https://www.entrepreneur.com/article/225701)
 -   [Learn why LLCs are preferred for government contracts.](https://www.llcuniversity.com/llc-for-government-contracts/)
