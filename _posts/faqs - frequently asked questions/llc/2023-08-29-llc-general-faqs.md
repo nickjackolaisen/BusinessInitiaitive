@@ -1115,7 +1115,7 @@ Consult legal advisors when creating subsidiaries or spin-offs to ensure proper 
 ## Legal and Liability Protection
 
 ### How does an LLC protect personal assets from business liabilities?
-An LLC provides limited liability protection, separating your personal assets from business debts and obligations. <a href="https://www.nolo.com/legal-encyclopedia/limited-liability-protection-llcs-a-50-state-guide.html">LLC asset protection</a>
+An LLC provides limited liability protection, separating your personal assets from business debts and obligations. <a href="https://www.nolo.com/legal-encyclopedia/limited-liability-protection-llcs-a-50-state-guide.html">LLC asset protection</a>
 
 <details>
 <summary>Learn More...</summary>
@@ -1135,9 +1135,9 @@ However, limited liability protection can be lost if the LLC fails to maintain p
 <p>
 To maintain limited liability protection, ensure your LLC follows all state regulations, keeps accurate records, maintains a separate bank account for business transactions, and avoids commingling personal and business finances.
 
-In the case of <a href="https://law.justia.com/cases/california/court-of-appeal/2018/a150235.html">Alphabet Energy Inc. v. Crosby Valve LLC</a>, a California appellate court upheld limited liability protection for an LLC member because the member did not engage in wrongful conduct or misuse the LLC structure.
+In the case of <a href="https://law.justia.com/cases/california/court-of-appeal/2018/a150235.html">Alphabet Energy Inc. v. Crosby Valve LLC</a>, a California appellate court upheld limited liability protection for an LLC member because the member did not engage in wrongful conduct or misuse the LLC structure.
 
-<a href="https://www.corporatedirect.com/asset-protection/limited-liability-company-llc/">Comprehensive guide on LLC asset protection</a>
+<a href="https://www.corporatedirect.com/asset-protection/limited-liability-company-llc/">Comprehensive guide on LLC asset protection</a>
 </p>
 </details>
 
