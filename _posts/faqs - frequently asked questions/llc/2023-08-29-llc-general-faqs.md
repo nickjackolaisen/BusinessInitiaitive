@@ -1142,7 +1142,7 @@ In the case of <a href="https://law.justia.com/cases/california/court-of-appeal/
 </details>
 
 ### How do I develop a risk management plan for my LLC?
-Identify potential risks, assess their impact, prioritize them, and implement strategies to mitigate or manage them. Regularly review and update the plan.<a href="https://www.score.org/resource/how-create-risk-management-plan">Creating a risk management plan</a>
+Identify potential risks, assess their impact, prioritize them, and implement strategies to mitigate or manage them. Regularly review and update the plan.<a href="https://www.score.org/resource/how-create-risk-management-plan">Creating a risk management plan</a>
 
 <details>
 <summary>Learn More...</summary>
@@ -1196,19 +1196,19 @@ This section highlights the importance of assigning responsibility for monitorin
 
 <b>Practical Tips & Examples</b>
 <p>
-<a href="https://www.wsj.com/articles/uber-discloses-financials-shows-sales-growth-outweighed-by-losses-11549638000">Uber</a>, which was structured as an LLC before its IPO, faced various operational, legal, and financial risks but managed them through proactive planning and adaptation.
+<a href="https://www.wsj.com/articles/uber-discloses-financials-shows-sales-growth-outweighed-by-losses-11549638000">Uber</a>, which was structured as an LLC before its IPO, faced various operational, legal, and financial risks but managed them through proactive planning and adaptation.
 
 
-Use tools like <a href="https://www.smartsheet.com/free-risk-assessment-matrix-templates">risk assessment templates</a> or <a href="https://www.capterra.com/risk-management-software/">risk management software</a> to help organize your process.
+Use tools like <a href="https://www.smartsheet.com/free-risk-assessment-matrix-templates">risk assessment templates</a> or <a href="https://www.capterra.com/risk-management-software/">risk management software</a> to help organize your process.
 
-<a href="https://www.business.qld.gov.au/running-business/growing-business/benchmarking/risk-management">Risk management guide for small businesses</a>
+<a href="https://www.business.qld.gov.au/running-business/growing-business/benchmarking/risk-management">Risk management guide for small businesses</a>
 </p>
 </details>
 <a id="10">
 
 ### What types of insurance coverage should an LLC consider obtaining to protect against potential liabilities?
 Consider obtaining general liability, professional liability, workers' compensation, property, and cyber liability insurance. Tailor coverage based on your LLC's specific needs. 
-<a href="https://www.sba.gov/business-guide/manage-your-business/get-business-insurance">Types of business insurance</a>
+<a href="https://www.sba.gov/business-guide/manage-your-business/get-business-insurance">Types of business insurance</a>
 
 <details>
 <summary>Learn More...</summary>
@@ -1266,7 +1266,7 @@ This section discusses the importance of cyber liability insurance in covering f
 
 Work with a knowledgeable insurance agent who can help customize coverage based on your LLC's unique needs and risk profile. Regularly review and update your policies as your business grows or circumstances change.
 
-<a href="https://www.businessnewsdaily.com/4686-small-business-insurance.html">Guide to choosing business insurance</a>
+<a href="https://www.businessnewsdaily.com/4686-small-business-insurance.html">Guide to choosing business insurance</a>
 </p>
 </details>
 
@@ -1311,7 +1311,7 @@ Create a professionally designed website, optimize it for search engines, and ma
 </ul>
 </p>
 
-D. Content Marketing & Blogging</b>
+<b>D. Content Marketing & Blogging</b>
 <p>
 <ul>
     <li>Develop high-quality blog posts addressing industry topics or customer pain points.</li>
@@ -1328,13 +1328,9 @@ D. Content Marketing & Blogging</b>
 
 <b>F. Practical Tips</b>
 <p>
-Consider using tools like <a href="https://www.squarespace.com/">Squarespace</a>
- or 
-<a href="https://wordpress.org/">WordPress</a>
- for website creation, 
-<a href="https://analytics.google.com/">Google Analytics</a> for performance tracking, and 
-<a href="https://hootsuite.com/">Hootsuite</a> for social media management.
-
+Consider using tools like <a href="https://www.squarespace.com/">Squarespace</a> or <a href="https://wordpress.org/">WordPress</a> for website creation, <a href="https://analytics.google.com/">Google Analytics</a> for performance tracking, and <a href="https://hootsuite.com/">Hootsuite</a> for social media management.
+</p>
+<p>
 <a href="https://neilpatel.com/blog/online-presence/">Step-by-step guide to building an online presence</a>
 </p>
 </details>
@@ -1353,6 +1349,8 @@ Define your target audience, set marketing objectives, select the right channels
     <li>Identify your ideal customer profile based on demographics, psychographics, and behavior.</li>
     <li>Develop customer personas to better understand their needs and preferences.</li>
 </ul>
+</p>
+<p>
 <a href="https://blog.hubspot.com/marketing/buyer-persona-research">Creating customer personas</a>
 </p>
 
@@ -1362,6 +1360,8 @@ Define your target audience, set marketing objectives, select the right channels
     <li>Establish specific, measurable, achievable, relevant, and time-bound (SMART) goals.</li>
     <li>Align marketing objectives with your LLC's overall business goals.</li>
 </ul>
+</p>
+<p>
 <a href="https://www.mindtools.com/pages/article/smart-goals.htm">SMART goal setting</a>
 </p>
 
@@ -1371,6 +1371,8 @@ Define your target audience, set marketing objectives, select the right channels
     <li>Choose the most effective channels for reaching your target audience (e.g., social media, email marketing, SEO).</li>
     <li>Allocate resources based on channel performance and potential ROI.</li>
 </ul>
+</p>
+<p>
 <a href="https://neilpatel.com/blog/choose-the-right-digital-marketing-channel/">Choosing marketing channels</a>
 </p>
 
@@ -1380,6 +1382,8 @@ Define your target audience, set marketing objectives, select the right channels
     <li>Develop content that resonates with your target audience and showcases your expertise.</li>
     <li>Use a mix of formats (e.g., blog posts, videos, infographics) to engage users.</li>
 </ul>
+</p>
+<p>
 <a href="https://optinmonster.com/content-marketing-strategy-guide/">Content marketing tips</a>
 </p>
 
