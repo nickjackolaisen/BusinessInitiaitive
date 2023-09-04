@@ -278,6 +278,8 @@ We also encourage you to explore these additional resources for further reading 
 -  [PESTLE Analysis: What Is PESTLE Analysis? A Tool for Business Analysis](https://pestleanalysis.com/what-is-pestle-analysis/)
 -  [QuickMBA: Porter's Five Forces - A Model for Industry Analysis](http://www.quickmba.com/strategy/porter.shtml)
 
+{% include author-box.html%}
+
 <br>
 
 **Share this article** with your colleagues and connections to spread the knowledge and help others benefit from these powerful strategies, too.
