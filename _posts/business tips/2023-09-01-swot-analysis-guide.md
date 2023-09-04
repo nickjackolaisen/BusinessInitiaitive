@@ -60,9 +60,9 @@ Over time, this framework evolved into the modern SWOT analysis that we know tod
 
 It has since become a widely used technique for assessing a company's position within its industry and guiding strategic planning efforts.
 
-<p><b>➤ MORE: </b> <a href="files/swot-analysis-template.pdf" download="swot-analysis-template.pdf">Download our SWOT Analysis Template for FREE!</a></p>
+<p><b>➤ MORE: </b> <a href="/files/swot-analysis-template.pdf" download="swot-analysis-template.pdf">Download our SWOT Analysis Template for FREE!</a></p>
 
-<a href="files/swot-analysis-template.pdf" target="_blank">Download our SWOT Analysis Template for FREE!</a>
+<a href="/files/swot-analysis-template.pdf" target="_blank">Download our SWOT Analysis Template for FREE!</a>
 
 ## Components of the SWOT Analysis
 
