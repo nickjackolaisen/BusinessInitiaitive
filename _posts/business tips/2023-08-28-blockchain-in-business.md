@@ -67,6 +67,7 @@ Blockchain technology has its roots in the early 1990s, but it wasn't until 2008
 <img alt="blockchain history and events" src="/images/content/blockchain-events.png" style="width: 125%; height: 125%">
 <figcaption>The history of blockchain technology showcases its rapid development and adoption across multiple sectors, driven by its potential to revolutionize data security and decentralization.</figcaption>
 </center>
+
 <a id=“introduction-to-blockchain”> 
 
 ## Beyond Digital Currency: Blockchain Applications in Tomorrow's Business Landscape
@@ -114,6 +115,7 @@ This opens up new opportunities for innovative business models that prioritize u
 Tokenization involves converting physical or digital assets into digital tokens that represent ownership rights. 
 
 By leveraging blockchain technology, businesses can tokenize real estate properties, intellectual property rights, or even company shares. This process provides increased liquidity, fractional ownership opportunities, and easier transferability of assets.
+
 <a id=“how-blockchain-works”> 
 
 The importance of blockchain in the modern business landscape is undeniable as it continues to disrupt traditional practices with its unique capabilities. 
@@ -170,6 +172,7 @@ As there is no central authority, a consensus protocol ensures that all nodes co
 There are several consensus mechanisms used in different blockchain networks, such as:
 
 -   **Proof of Work (PoW):** Utilized by Bitcoin, PoW requires nodes (called miners) to solve complex mathematical puzzles to validate transactions and add a new block. The first miner to solve the puzzle gets rewarded with cryptocurrency.
+
 <a id=“preparing-your-business-for-blockchain-adoption”>
 
 -   **Proof of Stake (PoS):** In PoS, validators are chosen based on the number of tokens they hold (their stake) and then take turns validating transactions. This method is more energy-efficient than PoW and is used by networks like Ethereum 2.0 and Cardano.
@@ -229,6 +232,7 @@ Characteristics of consortium blockchains include:
 -   **Shared control**: Multiple trusted entities collaborate to maintain the network, ensuring that no single organization has complete control.
 
 -   **Permissioned**: Access to the network is restricted to authorized participants who have been vetted by the controlling entities.
+
 <a id=“benefits-of-blockchain-in-business”> 
 
 -   **Efficiency**: Consortium blockchains often have faster transaction processing times and lower energy consumption compared to public blockchains.
@@ -280,6 +284,7 @@ Businesses can leverage these features to improve supply chain traceability, ens
 Implementing blockchain technology can lead to significant cost savings for businesses:
 
 -   **Elimination of intermediaries**: Blockchain enables direct transactions between parties, removing the need for intermediaries like banks or notaries. This reduces transaction fees and other associated costs.
+
 <a id=“preparing-your-business-for-blockchain-adoption”>
 
 -   **Automated processes**: Automation through smart contracts and streamlined processes can reduce manual intervention and administrative overhead, leading to lower operational costs.
@@ -381,6 +386,7 @@ According to the Federal Bureau of Investigation (FBI), insurance fraud (excludi
 -   **Claims management**: Smart contracts can automate claims processing, reducing manual intervention and improving efficiency ([source](https://www2.deloitte.com/content/dam/Deloitte/ch/Documents/innovation/ch-en-innovation-deloitte-blockchain-app-in-insurance.pdf)). 
 
 The global insurance claims management market is expected to reach \$14.7 billion by 2026, with blockchain solutions potentially driving part of this growth ([source](https://www.globenewswire.com/news-release/2021/03/03/2185599/28124/en/Global-14-7-Billion-Insurance-Claims-Management-Markets-to-2026.html)).
+
 <a id=“challenges-and-limitations-of-blockchain”> 
 
 -   **Risk assessment**: Blockchain can enable more accurate risk assessment by providing secure and transparent access to relevant data across multiple parties ([source](https://ieeexplore.ieee.org/document/8475561)). 
@@ -434,9 +440,9 @@ Despite its inherent security features, blockchain technology is not immune to t
 In January 2019, Ethereum Classic suffered a 51% attack that resulted in the theft of over \$1 million worth of cryptocurrency ([source](https://www.coindesk.com/ethereum-classic-51-attack-blockchain-history)).
 
 -   **Data protection issues**: Ensuring data privacy on public blockchains can be challenging, as transactions are often visible to all network participants. 
+<a id=“real-world-use-cases-and-industry-examples”> 
 
 This raises concerns about complying with privacy regulations like the General Data Protection Regulation (GDPR). 
-<a id=“real-world-use-cases-and-industry-examples”> 
 
 For instance, GDPR's "right to be forgotten" contradicts the immutability principle of blockchain technology ([source](https://iapp.org/media/pdf/resource_center/blockchain_and_the_gdpr.pdf)).
 
@@ -481,9 +487,9 @@ The platform aims to streamline the global shipping industry by digitizing and a
 <center>
 <img alt="blockchain shipping" src="/images/content/maersk-shipping.png" style="width: 63%; height: 63%">
 </center>
+<a id=“embracing-the-future-of-business”> 
 
 TradeLens provides real-time access to shipping data, enabling more efficient tracking of cargo movements and reducing the potential for errors and fraud.
-<a id=“embracing-the-future-of-business”> 
 
 Since its launch in 2018, TradeLens has attracted over 100 participants, including carriers, ports, terminal operators, and customs authorities, and has processed millions of shipping events ([source](https://www.ibm.com/case-studies/maersk-blockchain-supply-chain)).
 
