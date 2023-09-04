@@ -29,7 +29,7 @@ layout: default
   <br>
   {% if page.author %}
   {% assign user = site.users[page.author] %}
-    By: <a href="{{ user.web }}">{{ user.name }}</a>
+    By: <img src="{{user.image}}" style="border-radius: 50%; float: left;" width="50" height="50"> <a href="{{ user.web }}">{{ user.name }}</a>
   {% endif %}
   <span class="post-meta small">
   {% if site.show_sharing_icons %}
@@ -60,6 +60,7 @@ layout: default
 {% if site.show_post_footers %}
   {% include post_footer.html %}
 {% endif %}
+
 
 {% if site.disqus_shortname %}
   <div id="disqus_thread"></div>
