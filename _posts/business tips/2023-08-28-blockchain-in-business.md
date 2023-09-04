@@ -546,7 +546,3 @@ Stay up-to-date with the latest developments in the blockchain industry by subsc
 -   [De Beers Tracr Announcement](https://www.debeersgroup.com/media/company-news/2018/tracr-announces-successful-conclusion-of-blockchain-pilot))
 -   [IBM TradeLens Case Study](https://www.ibm.com/case-studies/maersk-blockchain-supply-chain)
 
-<br> DISCLAIMER:
-
-“Business Initiative” is for general educational purposes only. “Business Initiative” does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making binding decisions regarding starting, operating, and growing your business. Use external resources independently of “Business Initiative.” It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.
-

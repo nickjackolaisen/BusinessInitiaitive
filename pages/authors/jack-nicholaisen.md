@@ -2,8 +2,9 @@
 layout: page
 title: Jack Nicholaisen
 permalink: /authors/jack-nicholaisen/
-tags: jack nicholaisen owner business initiative
+tags: jack nicholaisen owner founder business initiative
 ---
+
 Hello, my name is Jack. 
 <p>
 I started <a href="https://www.businessinitiative.org/"> Business Initiative</a> in 2020 (Formerly llcpalace.com). This came after I had wanted to start my own LLC for a clothing business and was disappointed in how complicated and unclear the information was online about limited liabilty companies. 
