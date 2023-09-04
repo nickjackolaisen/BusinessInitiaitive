@@ -31,6 +31,7 @@ layout: default
   {% assign user = site.users[page.author] %}
     By: <img src="{{ user.image }}" style="border-radius: 50%; float: left;" width="50" height="50"> <a href="{{ user.web }}">{{ user.name }}</a>
   {% endif %}
+  <br>
   <span class="post-meta small">
   {% if site.show_sharing_icons %}
   {% include share_buttons.html %}

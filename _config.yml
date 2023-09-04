@@ -30,6 +30,7 @@ users:
     name: Jack Nicholaisen
     email: jack.nicholaisen@yahoo.com
     web: https://twitter.com/NeshamaJack
+    image: /images/jack-nicholaisen-business-initiative.jpeg
   firstname_lastname:
     name: First Last
     email: name@company.com
