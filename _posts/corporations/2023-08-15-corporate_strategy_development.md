@@ -2,6 +2,7 @@
 title: "Corporate Strategy Development | Crafting an Unbeatable Business Plan"
 layout: post
 date: 2023-08-15
+update_date: 2023-09-04
 author: jack_nicholaisen
 summary: "Learn how to create a powerful corporate strategy to drive your company's growth and success. In this comprehensive guide, we'll take you through the process of developing a winning business plan, from assessing your current situation to adapting your strategy for long-term success. Don't miss out on these valuable insights and practical tips that will help you achieve your strategic goals. Read on and unlock your business's full potential!"
 permalink: /corporation/strategy-development/
@@ -39,7 +40,7 @@ When designing your plan, ask yourself the following questions:
 
 **Solutions**:
 
--   [Consuct a SWOT analysis](https://businessinitiative.org/business-tips/swot-analysis/)
+-   [Conduct a SWOT analysis](https://businessinitiative.org/business-tips/swot-analysis/)
 -   [StrengthsFinder assessment](https://www.gallup.com/cliftonstrengths/en/strengthsfinder.aspx)
 
 ### Weaknesses:
