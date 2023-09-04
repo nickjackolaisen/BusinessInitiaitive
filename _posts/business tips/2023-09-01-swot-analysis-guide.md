@@ -60,9 +60,7 @@ Over time, this framework evolved into the modern SWOT analysis that we know tod
 
 It has since become a widely used technique for assessing a company's position within its industry and guiding strategic planning efforts.
 
-<p><b>➤ MORE: </b> <a href="/files/swot-analysis-template.pdf" download="swot-analysis-template.pdf">Download our SWOT Analysis Template for FREE!</a></p>
-
-<a href="/files/swot-analysis-template.pdf" target="_blank">Download our SWOT Analysis Template for FREE!</a>
+<p><b>➤ MORE: </b><a href="/files/swot-analysis-template.pdf" target="_blank" name="Business Initiative SWOT Analysis Template">Download our SWOT Analysis Template for FREE!</a></p>
 
 ## Components of the SWOT Analysis
 
@@ -220,7 +218,7 @@ Develop plans to address identified weaknesses and mitigate potential threats. T
 
 **5. Rank items by importance**: Prioritize factors within each SWOT category based on their potential impact on the organization's objectives. This can help identify key strategic priorities and inform decision-making processes.
 
-<p><b>➤ Take Initiative! </b> <a href="files/swot-analysis-template.pdf" download="swot-analysis-template.pdf">Download our SWOT Analysis Template for FREE!</a></p>
+<p><b>➤ Take Initiative! </b><a href="/files/swot-analysis-template.pdf" target="_blank" name="Business Initiative SWOT Analysis Template">Download our SWOT Analysis Template for FREE!</a></p>
 
 ## Tips for Using SWOT Analysis Effectively
 

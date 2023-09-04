@@ -21,7 +21,13 @@ Let's get going...
 
 ## Assessing Your Company's Current Situation
 
-Before developing a corporate strategy, it's essential to assess your company's current situation. This involves analyzing your internal strengths and weaknesses, as well as external opportunities and threats. A popular tool for this analysis is the SWOT framework. When designing your plan, ask yourself the following questions:
+Before developing a corporate strategy, it's essential to assess your company's current situation. This involves analyzing your internal strengths and weaknesses, as well as external opportunities and threats. 
+
+A popular tool for this analysis is the SWOT framework. 
+
+<p><b>➤ MORE: </b> <a href="/files/swot-analysis-template.pdf" target="_blank" name="Business Initiative SWOT Analysis Template">Download our SWOT Analysis Template for FREE!</a></p>
+
+When designing your plan, ask yourself the following questions:
 
 ### Strengths:
 
@@ -33,7 +39,7 @@ Before developing a corporate strategy, it's essential to assess your company's 
 
 **Solutions**:
 
--   [Consuct a SWOT analysis](businessinitiative.org/business-tips/swot-analysis/)
+-   [Consuct a SWOT analysis](https://businessinitiative.org/business-tips/swot-analysis/)
 -   [StrengthsFinder assessment](https://www.gallup.com/cliftonstrengths/en/strengthsfinder.aspx)
 
 ### Weaknesses:
@@ -46,7 +52,8 @@ Before developing a corporate strategy, it's essential to assess your company's 
 
 **Solutions**:
 
--   [SWOT analysis template](https://www.smartsheet.com/swot-analysis-template)
+
+-   <a href="/files/swot-analysis-template.pdf" target="_blank" name="Business Initiative SWOT Analysis Template">SWOT analysis template</a>
 -   [Employee feedback software](https://www.officevibe.com/)
 -   [Customer feedback software](https://www.qualtrics.com/core-xm/customer-experience/)
 
@@ -78,7 +85,7 @@ Before developing a corporate strategy, it's essential to assess your company's 
 -   [Competitive analysis tools](https://www.semrush.com/)
 -   [Legal research tools](https://www.lexisnexis.com/en-us/products/lexis-advance.page)
 
-By conducting a thorough SWOT analysis, you can gain valuable insights into your company's current position and identify areas for improvement. For an in-depth guide on performing a SWOT analysis, check out [this article](https://www.businessnewsdaily.com/4245-swot-analysis.html).
+By conducting a thorough SWOT analysis, you can gain valuable insights into your company's current position and identify areas for improvement. For an in-depth guide on performing a SWOT analysis, check out [this article](https://businessinitiative.org/business-tips/swot-analysis/).
 
 ## Setting Strategic Objectives and Goals
 
