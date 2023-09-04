@@ -62,6 +62,8 @@ It has since become a widely used technique for assessing a company's position w
 
 <p><b>➤ MORE: </b> <a href="files/swot-analysis-template.pdf" download="swot-analysis-template.pdf">Download our SWOT Analysis Template for FREE!</a></p>
 
+<a href="files/swot-analysis-template.pdf" target="_blank">Download our SWOT Analysis Template for FREE!</a>
+
 ## Components of the SWOT Analysis
 
 ### Strengths
