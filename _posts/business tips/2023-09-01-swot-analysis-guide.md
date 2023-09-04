@@ -280,4 +280,4 @@ We also encourage you to explore these additional resources for further reading 
 
 **Share this article** with your colleagues and connections to spread the knowledge and help others benefit from these powerful strategies, too.
 
-{% include author-box.html%}
+{% include author-box.html %}
