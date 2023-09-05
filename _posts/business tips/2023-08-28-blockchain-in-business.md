@@ -125,7 +125,7 @@ Embracing blockchain technology can provide businesses with a competitive edge, 
 ## Understanding the Core Components of Blockchain Technology
 
 Blockchain technology is built upon three fundamental components that work together to create a secure, decentralized, and efficient system. 
-<a href="#distributed-ledger">
+<a id="distributed-ledger">
 These core components are:
 -   Distributed Ledger, 
 -   Cryptography, 
