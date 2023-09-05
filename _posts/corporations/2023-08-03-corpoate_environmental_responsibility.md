@@ -158,9 +158,18 @@ Join us in this journey towards a more sustainable future!
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
-## Sources:
+<details>
+<summary><b>Sources</b></summary>
+<br>
+<ul>
+<li><a href="https://www.carbontrust.com/resources/tools/carbon-footprinting-tools">Carbon Trust</a></li>
+<li><a href="https://www.ikea.com/us/en/this-is-ikea/sustainable-everyday/">IKEA</a></li>
+<li><a href="https://www.patagonia.com/worn-wear.html">Patagonia</a></li>
+<li><a href="https://www.un.org/sustainabledevelopment/sustainable-development-goals/">United Nations</a></li>
+</ul>
+</details>
 
--   [Carbon Trust](https://www.carbontrust.com/resources/tools/carbon-footprinting-tools)
--   [IKEA](https://www.ikea.com/us/en/this-is-ikea/sustainable-everyday/)
--   [Patagonia](https://www.patagonia.com/worn-wear.html)
--   [United Nations](https://www.un.org/sustainabledevelopment/sustainable-development-goals/)
+
+
+
+

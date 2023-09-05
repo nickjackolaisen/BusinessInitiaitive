@@ -2,7 +2,7 @@
 layout: post
 title: "Sole Proprietorship vs LLC: Pros and Cons"
 date: 2023-06-31
-update_date: 2023-08-29
+update_date: 2023-09-05
 author: jack_nicholaisen
 summary: A complete comparison of the various pros and cons of both Sole Proprietorships and Limited Liability Companies.  
 image: /images/posts-headers/sole-proprietorship-vs-llc-pros-cons-header.png
@@ -287,6 +287,4 @@ Business Initiative wants your entrepreneurial journey to be successful. Join ou
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
-<br>DISCLAIMER:
-
-"Business Initiative" is for general educational purposes only. "Business Initiative" does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making any binding decisions when it comes to starting, operating, and growing your business. External resources should be used independently of "Business Initiative". It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.
+{% include author-box.html %}

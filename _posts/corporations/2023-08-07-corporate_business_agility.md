@@ -149,15 +149,19 @@ Let's set up a time to discuss your situation and how it can be optimized...
 
 {% include author-box.html %}
 
-## Sources**:
-
--   [Agile Manifesto](https://agilemanifesto.org/)
--   [Scaled Agile Framework](https://www.scaledagileframework.com/)
--   [Scrum Alliance](https://www.scrumalliance.org/)
--   [Agile Alliance](https://www.agilealliance.org/)
--   [Lean Enterprise Institute](https://www.lean.org/)
--   [Netflix: A Case Study in Corporate Agility](https://www.forbes.com/sites/gregsatell/2020/08/01/netflix-a-case-study-in-agility/?sh=1c95c5881f2f)
--   [Amazon's Agile Journey](https://www.agilealliance.org/resources/experience-reports/amazons-agile-journey/)
--   [How Spotify Balances Employee Autonomy and Accountability](https://hbr.org/2018/07/how-spotify-balances-employee-autonomy-and-accountability)
+<details>
+<summary><b>Sources</b></summary>
+<br>
+<ul>
+<li><a href="https://agilemanifesto.org/">Agile Manifesto</a></li>
+<li><a href="https://www.scaledagileframework.com/">Scaled Agile Framework</a></li>
+<li><a href="https://www.scrumalliance.org/">Scrum Alliance</a></li>
+<li><a href="https://www.agilealliance.org/">Agile Alliance</a></li>
+<li><a href="https://www.lean.org/">Lean Enterprise Institute</a></li>
+<li><a href="https://www.forbes.com/sites/gregsatell/2020/08/01/netflix-a-case-study-in-agility/?sh=1c95c5881f2f">Netflix: A Case Study in Corporate Agility</a></li>
+<li><a href="https://www.agilealliance.org/resources/experience-reports/amazons-agile-journey/">Amazon's Agile Journey</a></li>
+<li><a href="https://hbr.org/2018/07/how-spotify-balances-employee-autonomy-and-accountability">How Spotify Balances Employee Autonomy and Accountability</a></li>
+</ul>
+</details>
 
 Share this article with your colleagues and start building a more adaptive and resilient organization today!

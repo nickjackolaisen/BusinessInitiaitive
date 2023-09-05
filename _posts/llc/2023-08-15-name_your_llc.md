@@ -2,7 +2,7 @@
 title: "How to Name Your LLC - Requirements, Changes, and Tips for Success"
 layout: post
 date: 2023-08-15
-update_date: 2023-08-22
+update_date: 2023-09-05
 author: jack_nicholaisen
 summary: "Picking the perfect name for your LLC can be a daunting task, but with the right guidance, it doesn't have to be. Learn about naming rules, regulations, and branding strategies in our comprehensive guide. Dive in, and let's find a unique and legally compliant name that will set your business up for success!"
 image: /images/posts-headers/name-your-llc-header.png
@@ -169,14 +169,20 @@ Check us out [@BisInitiative](https://twitter.com/BisInitiative)!
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
-## Sources
+{% include author-box.html %}
 
--   [Naming an LLC: Rules and Requirements](https://www.bizfilings.com/toolkit/research-topics/incorporating-your-business/naming-an-llc-rules-and-requirements)
--   [How to Name Your Business: 10 Things You Need to Know](https://www.businessnewsdaily.com/14127-how-to-name-your-business.html)
--   [USPTO: Trademark Search](https://www.uspto.gov/trademarks)
--   [Warby Parker: Our Story](https://www.warbyparker.com/history)
--   [Blue Apron: About Us](https://www.blueapron.com/pages/about-us)
+<details>
+<summary><b>Sources</b</summary>
+<br>
+<ul>
+<li><a href="https://www.bizfilings.com/toolkit/research-topics/incorporating-your-business/naming-an-llc-rules-and-requirements">Naming an LLC: Rules and Requirements</a></li>
+<li><a href="https://www.businessnewsdaily.com/14127-how-to-name-your-business.html">How to Name Your Business: 10 Things You Need to Know</a></li>
+<li><a href="https://www.uspto.gov/trademarks">USPTO: Trademark Search</a></li>
+<li><a href="https://www.warbyparker.com/history">Warby Parker: Our Story</a></li>
+<li><a href="https://www.blueapron.com/pages/about-us">Blue Apron: About Us</a></li>
+</ul>
+</details>
 
-<br> DISCLAIMER:
 
-“Business Initiative” is for general educational purposes only. “Business Initiative” does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making binding decisions regarding starting, operating, and growing your business. Use external resources independently of “Business Initiative.” It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.
+
+

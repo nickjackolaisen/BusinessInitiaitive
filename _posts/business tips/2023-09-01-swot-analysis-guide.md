@@ -264,6 +264,15 @@ Plus, sign up for our email newsletter to stay informed about the latest industr
 
 {% include author-box.html %}
 
+<b>Additional Resources</b>
+<p>We also encourage you to explore these extra tools for further reading and research on SWOT analysis:</p>
+<a href="https://www.mindtools.com/pages/article/newTMC_05.htm">MindTools: SWOT Analysis</a> - Discover New Opportunities, Manage and Eliminate Threats
+<br>
+<a href="https://pestleanalysis.com/what-is-pestle-analysis/">PESTLE Analysis: What Is PESTLE Analysis?</a> A Tool for Business Analysis
+<br>
+<a href="http://www.quickmba.com/strategy/porter.shtml">QuickMBA: Porter's Five Forces</a> - A Model for Industry Analysis
+<br>
+
 <details>
 <summary><b>Sources</b></summary>
 <br>
@@ -278,15 +287,6 @@ In this article, we've referenced various sources to support our discussion abou
 <li><a href="https://www.amazon.com/">Amazon</a></li>
 </ul>
 </details>
-
-<b>Additional Resources</b>
-<p>We also encourage you to explore these additional resources for further reading and research on SWOT analysis:</p>
-<a href="https://www.mindtools.com/pages/article/newTMC_05.htm">MindTools: SWOT Analysis</a> - Discover New Opportunities, Manage and Eliminate Threats
-<br>
-<a href="https://pestleanalysis.com/what-is-pestle-analysis/">PESTLE Analysis: What Is PESTLE Analysis?</a> A Tool for Business Analysis
-<br>
-<a href="http://www.quickmba.com/strategy/porter.shtml">QuickMBA: Porter's Five Forces</a> - A Model for Industry Analysis
-<br>
 
 
 **Share this article** with your colleagues and connections to spread the knowledge and help others benefit from these powerful strategies, too.

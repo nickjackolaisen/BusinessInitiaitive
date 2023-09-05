@@ -2,7 +2,7 @@
 layout: post
 title: How To Form Your Own Multi Member LLC in 2023
 date: 2023-07-03
-update_date: 2023-08-29
+update_date: 2023-09-05
 author: jack_nicholaisen
 summary: "Unlock your business potential with our data-driven insights, tailored pricing plans, and top-notch consulting services. Experience growth like never before. Read it now!"
 permalink: /multi-member-llc/registration/
@@ -25,10 +25,29 @@ Exact requirements vary from state to state.
 
 You can find your state’s LLC requirements on your Secretary of State’s (SoS) website. They tell you how to acquire and submit the necessary documentation. Just make sure you’re looking at the requirements of the state where you plan on conducting business. 
 
+## Table of Contents
+
+
+1. <a href="#articles-of-organization">Articles of Organization</a> - Learn how to create and file the legal document that establishes your business as an LLC, providing you with liability protection.
+
+2. <a href="#registered-agent">Registered Agent</a> - Understand the role of a registered agent in your LLC and how they can help you stay compliant with state requirements.
+
+3. <a href="#operation-agreement">Operation Agreement</a> - Discover the importance of an operating agreement in outlining your LLC's structure, management, and financial arrangements.
+<a id="articles-of-organization">
+4. <a href="#ein-employer-identification-number">EIN (Employer Identification Number)</a> - Find out how to obtain an EIN for your LLC, which is essential for tax reporting and hiring employees.
+
+5. <a href="#business-bank-account">Business Bank Account</a> - Learn the benefits of opening a separate bank account for your LLC, including easier financial management and legal protection.
+
+6. <a href="#industry-specific-licenses">Industry-Specific Licenses</a> - Explore the various licenses and permits required for your specific industry, ensuring your business operates legally.
+
+7. <a href="#employee-regulations">Employee Regulations</a> - Familiarize yourself with the regulations governing employees, helping you maintain a compliant and fair workplace.
+
+8. <a href="#maintenance">Maintenance</a> - Understand the ongoing requirements for maintaining your LLC, such as annual reports and tax filings, to keep your business in good standing.
+
 ## Articles of Organization ##
 
 You need to write out an Articles of Organization for your LLC and submit it to the Secretary of State where your LLC is operating. 
-
+<a id="registered-agent">
 To figure out who this is and their office address, simply go to your state's official government website. 
 
 One part of your Articles of Organization involves coming up with a unique business name. A unique business name may extend to your county or to your state. It all depends on your state's laws and regulations surrounding business names and trademarks. 
@@ -36,7 +55,7 @@ One part of your Articles of Organization involves coming up with a unique busin
 To find out if the name you want is already taken, you can conduct a free business name search using your SoS's website. There are also plenty of third-party companies you can use to conduct a business name search. 
 
 We recommend using your Secretary of State’s website first and then double checking using other resources just to make sure you’ve got your bases covered. 
-
+<a id="operation-agreement">
 In most states, you can submit your Articles of Organization online. If you’re unable to do it online you can submit copies of your documents by mail. Just make sure you send the copy and not the original. 
 
 ## Registered Agent ##
@@ -69,6 +88,7 @@ The Operation Agreement includes (but is not limited to):
 *   How and when members are paid,
 *   What happens if a member leaves, 
 *   How to resolve disagreements between members, 
+<a id="ein-employer-identification-number">
 *   How assets are divided if your LLC dissolves, 
 *   A statement acknowledging that your OA meets your states requirements and laws, 
 *   A statement acknowledging that your LLC is officially registered once all the required documents have been submitted to the state (plus dates when they were accepted),
@@ -86,13 +106,13 @@ While writing your Operation Agreement you should be careful using any online te
 Think of an EIN as an ID number for your business. EIN stands for Employer Identification Number.
 
 The name implies your business has employees, however, you need one regardless of whether or not your LLC has employees. Your EIN allows you to complete the registration process, pay taxes, and get special certifications and licenses for your business.
-
+<a id="business-bank-account">
 Obtaining an EIN is very easy and inexpensive. You can do it online, by mail, phone, or even fax (though we’re not quite sure why that’s even an option these days). 
 
 You can submit an EIN application for free on the IRS website. [Apply for your EIN Here Now!](https://www.irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online)  
 
 Once you’ve been approved by the state, **you get your EIN**. 
-
+<a id="industry-specific-licenses">
 In a few states, you need some additional information to fill out the EIN form. [HERE](https://www.irs.gov/businesses/small-businesses-self-employed/state-government-websites) are links to every state’s government website. Just a fair warning though, these are government websites after all. Some of the links listed are old or broken. 
 
 You can anyways use [Google](https://www.google.com/) (or [DuckDuckGo](https://duckduckgo.com/)) to find your state’s current website. 
@@ -108,7 +128,7 @@ You can only do this after receiving your EIN. Just like you need a Social Secur
 You’ve got to be verified to begin selling the quality products and services you specialize in. 
 
 You need the right permits, licenses, certifications, etc. to conduct business in your field. 
-
+<a id="employee-regulations">
 What you need depends on what you’re selling, what your local and state laws are, as well as any government regulation in your industry. For this reason, double-check with your secretary of state, city, and county commerce offices and get the necessary paperwork in order. 
 
 Here are two huge reasons to be legally recognized in your industry. 
@@ -118,7 +138,7 @@ The first: Your business probably won’t be so successful if your potential cus
 The second: You will be fined, imprisoned, and/or lose your business by breaking the law.
 
 It’s simple. 
-
+<a id="maintenance">
 Take classes. Get trained. Gain experience. Follow (and surpass) your industry guidelines.
 
 ## Employee Regulations ##
@@ -141,6 +161,4 @@ Want to learn how to measure the vital aspects of your business?
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
-<br>DISCLAIMER:
-
-“Business Initiative” is for general educational purposes only. “Business Initiative” does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making any binding decisions when it comes to starting, operating, and growing your business. External resources should be used independently of “Business Initiative”. It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.
+{% include author-box.html %}
