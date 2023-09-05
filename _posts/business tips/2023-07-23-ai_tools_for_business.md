@@ -260,3 +260,5 @@ security applications.
 95. [**Datorama Marketing Intelligence Platform**](https://www.datorama.com/marketing-intelligence-platform/): Offers a centralized platform for analyzing marketing data from multiple sources using AI algorithms, providing actionable insights for improving campaign performance.
 
 By embracing these practical applications of artificial intelligence in your small business strategy, you can enhance efficiency, improve customer experiences, and stay ahead in an increasingly competitive market landscape.
+
+{% include author-box.html %}

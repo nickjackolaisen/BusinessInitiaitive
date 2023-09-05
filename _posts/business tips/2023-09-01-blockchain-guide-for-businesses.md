@@ -2,6 +2,7 @@
 title: "10 Step Guide to Integrate Blockchain into Your Business"
 layout: post
 date: 2023-09-01
+update_date: 2023-09-05
 author: jack_nicholaisen
 summary: "Blockchain is a secure, decentralized ledger tech that records & verifies transactions. It's a transparent, tamper-proof shared database for real-time updates."
 image: /images/posts-headers/blockchain-guide-header.png
@@ -238,6 +239,4 @@ Stay ahead of the curve by subscribing to our newsletter, where we share the lat
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
-<br> DISCLAIMER:
-
-“Business Initiative” is for general educational purposes only. “Business Initiative” does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making binding decisions regarding starting, operating, and growing your business. Use external resources independently of “Business Initiative.” It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.
+{% include author-box.html %}

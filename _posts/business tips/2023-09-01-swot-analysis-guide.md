@@ -262,6 +262,8 @@ Plus, sign up for our email newsletter to stay informed about the latest industr
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
+{% include author-box.html %}
+
 ## Sources and Additional Resources
 
 In this article, we've referenced various sources to support our discussion about SWOT analysis. Below is a list of all the links mentioned in the text:
@@ -279,5 +281,3 @@ We also encourage you to explore these additional resources for further reading 
 -  [QuickMBA: Porter's Five Forces - A Model for Industry Analysis](http://www.quickmba.com/strategy/porter.shtml)
 
 **Share this article** with your colleagues and connections to spread the knowledge and help others benefit from these powerful strategies, too.
-
-{% include author-box.html %}

@@ -2,7 +2,7 @@
 title: "Asset Protection Strategies for Small Business Owners"
 layout: post
 date: 2023-07-10
-update_date: 2023-08-22
+update_date: 2023-09-05
 author: jack_nicholaisen
 summary: Want to safeguard your hard-earned business assets? Read this insightful guide. By exploring the various asset protection strategies, entrepreneurs can ensure their businesses continue to thrive in turbulent times. Don't miss out on these valuable tips that could make all the difference for your company's financial security and long-term success.
 image: /images/posts-headers/small-business-asset-protection.png
@@ -117,13 +117,12 @@ Don't leave your company's future to chance...
 
 [Contact us today](https://www.businessinitiative.org/contact/) to ensure its continued growth and prosperity.
 
-## Sources
-
-1.  [Forbes: Zoom Sued For Allegedly Failing To Disclose Privacy, Security Flaws](https://www.forbes.com/sites/kateoflahertyuk/2020/06/05/zooms-security-nightmare-just-got-worse-but-heres-the-reality/?sh=152563482131)
-2.  [New York Times: Lehman Files for Bankruptcy; Merrill Is Sold](https://www.nytimes.com/2008/09/15/business/15lehman.html)
-3.  [Wall Street Journal: Oil Tycoon's Divorce Settlement Nears Record](https://www.wsj.com/articles/continental-resources-ceo-ordered-to-pay-ex-wife-nearly-1-billion-1415652005)
-
-
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
 {% include author-box.html %}
+
+## Sources
+
+-  [Forbes: Zoom Sued For Allegedly Failing To Disclose Privacy, Security Flaws](https://www.forbes.com/sites/kateoflahertyuk/2020/06/05/zooms-security-nightmare-just-got-worse-but-heres-the-reality/?sh=152563482131)
+-  [New York Times: Lehman Files for Bankruptcy; Merrill Is Sold](https://www.nytimes.com/2008/09/15/business/15lehman.html)
+-  [Wall Street Journal: Oil Tycoon's Divorce Settlement Nears Record](https://www.wsj.com/articles/continental-resources-ceo-ordered-to-pay-ex-wife-nearly-1-billion-1415652005)

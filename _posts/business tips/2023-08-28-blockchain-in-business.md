@@ -515,6 +515,8 @@ Stay up-to-date with the latest developments in the blockchain industry by subsc
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
+{% include author-box.html %}
+
 ## Sources
 
 -   [World Economic Forum: Inclusive Deployment of Blockchain](https://www.weforum.org/reports/inclusive-deployment-of-blockchain-case-studies-and-learnings-from-the-united-arab-emirates)
@@ -544,5 +546,3 @@ Stay up-to-date with the latest developments in the blockchain industry by subsc
 -   [IBM Food Trust Case Study](https://www.ibm.com/case-studies/walmart-food-trust)
 -   [De Beers Tracr Announcement](https://www.debeersgroup.com/media/company-news/2018/tracr-announces-successful-conclusion-of-blockchain-pilot))
 -   [IBM TradeLens Case Study](https://www.ibm.com/case-studies/maersk-blockchain-supply-chain)
-
-{% include author-box.html %}

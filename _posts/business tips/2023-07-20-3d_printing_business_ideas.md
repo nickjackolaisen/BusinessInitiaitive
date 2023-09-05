@@ -1987,3 +1987,8 @@ Remember, the key to success lies in your creativity, determination, and adaptab
 So go ahead...
 
 Dive into the world of 3D printing and start making a difference in your chosen niche today!
+
+<script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
+
+{% include author-box.html %}
+
