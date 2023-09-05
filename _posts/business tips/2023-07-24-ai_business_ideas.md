@@ -1408,17 +1408,21 @@ Now is the perfect time to take action and explore the possibilities that AI has
 
 {% include author-box.html %}
 
-## Sources
-
-1.  [McKinsey Global Institute](https://www.mckinsey.com/mgi/overview): McKinsey Global Institute is a leading research organization that provides insights and analysis on various topics, including the impact of artificial intelligence on industries and economies.
-2.  [Gartner](https://www.gartner.com/en): Gartner is a global research and advisory firm providing insights, advice, and tools for leaders in IT, finance, HR, customer service and support, legal and compliance, marketing, sales, and supply chain functions.
-3.  [Forrester Research](https://go.forrester.com/): Forrester Research is a market research company that provides advice on existing and potential impacts of technology to its clients and the public.
-4.  [IBM Watson Blog](https://www.ibm.com/blogs/watson/): The IBM Watson Blog offers insights into the latest developments in artificial intelligence technologies and their applications across various industries.
-5.  [MIT Technology Review](https://www.technologyreview.com/): MIT Technology Review is a magazine published by the Massachusetts Institute of Technology which covers emerging technologies in various fields such as AI, biotechnology, computing, energy, materials sciences etc.
-6.  [Google AI Blog](https://ai.googleblog.com/): The Google AI Blog features updates on projects related to artificial intelligence developed by Google researchers.
-7.  [DeepMind Blog](https://deepmind.com/blog): DeepMind's blog shares news about their latest advancements in artificial intelligence research and applications.
-8.  [OpenAI Blog](https://openai.com/blog/): OpenAI's blog provides updates on their research progress towards building safe and beneficial artificial general intelligence (AGI).
-9.  [NVIDIA AI Blog](https://blogs.nvidia.com/blog/category/deep-learning-ai/): NVIDIA's AI blog covers deep learning innovations in areas like computer vision, natural language processing, and reinforcement learning.
-10. [VentureBeat AI](https://venturebeat.com/category/ai/): VentureBeat is a technology news platform that covers a wide range of topics, including AI, providing insights into the latest trends and developments in the field.
-11. [AI Magazine](https://www.aaai.org/Magazine/magazine.php): AI Magazine is published by the Association for the Advancement of Artificial Intelligence (AAAI) and offers articles on research, applications, and perspectives in artificial intelligence.
-12. [Neural Information Processing Systems (NeurIPS)](https://neurips.cc/): NeurIPS is an annual conference on neural information processing systems that presents cutting-edge research in artificial intelligence and machine learning.
+<details>
+<summary><b>Sources</b></summary>
+<br>
+<ul>
+<li><a href="https://www.mckinsey.com/mgi/overview">McKinsey Global Institute</a>: McKinsey Global Institute is a leading research organization that provides insights and analysis on various topics, including the impact of artificial intelligence on industries and economies.</li>
+<li><a href="https://www.gartner.com/en">Gartner</a>: Gartner is a global research and advisory firm providing insights, advice, and tools for leaders in IT, finance, HR, customer service and support, legal and compliance, marketing, sales, and supply chain functions.</li>
+<li><a href="https://go.forrester.com/">Forrester Research</a>: Forrester Research is a market research company that provides advice on existing and potential impacts of technology to its clients and the public.</li>
+<li><a href="https://www.ibm.com/blogs/watson/">IBM Watson Blog</a>: The IBM Watson Blog offers insights into the latest developments in artificial intelligence technologies and their applications across various industries.</li>
+<li><a href="https://www.technologyreview.com/">MIT Technology Review</a>: MIT Technology Review is a magazine published by the Massachusetts Institute of Technology which covers emerging technologies in various fields such as AI, biotechnology, computing, energy, materials sciences etc.</li>
+<li><a href="https://ai.googleblog.com/">Google AI Blog</a>: The Google AI Blog features updates on projects related to artificial intelligence developed by Google researchers.</li>
+<li><a href="https://deepmind.com/blog">DeepMind Blog</a>: DeepMind's blog shares news about their latest advancements in artificial intelligence research and applications.</li>
+<li><a href="https://openai.com/blog/">OpenAI Blog</a>: OpenAI's blog provides updates on their research progress towards building safe and beneficial artificial general intelligence (AGI).</li>
+<li><a href="https://blogs.nvidia.com/blog/category/deep-learning-ai/">NVIDIA AI Blog</a>: NVIDIA's AI blog covers deep learning innovations in areas like computer vision, natural language processing, and reinforcement learning.</li>
+<li><a href="https://venturebeat.com/category/ai/">VentureBeat AI</a>: VentureBeat is a technology news platform that covers a wide range of topics, including AI, providing insights into the latest trends and developments in the field.</li>
+<li><a href="https://www.aaai.org/Magazine/magazine.php">AI Magazine</a>: AI Magazine is published by the Association for the Advancement of Artificial Intelligence (AAAI) and offers articles on research, applications, and perspectives in artificial intelligence.</li>
+<li><a href="https://neurips.cc/">Neural Information Processing Systems (NeurIPS)</a>: NeurIPS is an annual conference on neural information processing systems that presents cutting-edge research in artificial intelligence and machine learning.</li>
+</ul>
+</details>

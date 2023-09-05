@@ -520,7 +520,6 @@ Stay up-to-date with the latest developments in the blockchain industry by subsc
 <details>
 <summary><b>Sources</b></summary>
 <br>
-
 <ul>
 <li><a href="https://www.weforum.org/reports/inclusive-deployment-of-blockchain-case-studies-and-learnings-from-the-united-arab-emirates">World Economic Forum: Inclusive Deployment of Blockchain</a></li>
 <li><a href="https://ieeexplore.ieee.org/document/8475561">IEEE Xplore: Blockchain for Supply Chains</a></li>

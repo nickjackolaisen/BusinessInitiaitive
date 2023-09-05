@@ -124,9 +124,9 @@ Don't leave your company's future to chance...
 <details>
 <summary><b>Sources</b></summary>
 <br>
-
--   <a href="https://www.forbes.com/sites/kateoflahertyuk/2020/06/05/zooms-security-nightmare-just-got-worse-but-heres-the-reality/?sh=152563482131">Forbes: Zoom Sued For Allegedly Failing To Disclose Privacy, Security Flaws</a>
--   <a href="https://www.nytimes.com/2008/09/15/business/15lehman.html">New York Times: Lehman Files for Bankruptcy; Merrill Is Sold</a>
--   <a href="https://www.wsj.com/articles/continental-resources-ceo-ordered-to-pay-ex-wife-nearly-1-billion-1415652005">Wall Street Journal: Oil Tycoon's Divorce Settlement Nears Record</a>
-
+<ul>
+<li><a href="https://www.forbes.com/sites/kateoflahertyuk/2020/06/05/zooms-security-nightmare-just-got-worse-but-heres-the-reality/?sh=152563482131">Forbes: Zoom Sued For Allegedly Failing To Disclose Privacy, Security Flaws</a></li>
+<li><a href="https://www.nytimes.com/2008/09/15/business/15lehman.html">New York Times: Lehman Files for Bankruptcy; Merrill Is Sold</a></li>
+<li><a href="https://www.wsj.com/articles/continental-resources-ceo-ordered-to-pay-ex-wife-nearly-1-billion-1415652005">Wall Street Journal: Oil Tycoon's Divorce Settlement Nears Record</a></li>
+</ul>
 </details>

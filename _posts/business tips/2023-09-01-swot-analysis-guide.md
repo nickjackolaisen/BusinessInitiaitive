@@ -264,20 +264,29 @@ Plus, sign up for our email newsletter to stay informed about the latest industr
 
 {% include author-box.html %}
 
-## Sources and Additional Resources
-
+<details>
+<summary><b>Sources</b></summary>
+<br>
+<p>
 In this article, we've referenced various sources to support our discussion about SWOT analysis. Below is a list of all the links mentioned in the text:
+</p>
+<ul>
+<li><a href="https://www.forbes.com/sites/innovatorsdna/2018/08/14/the-worlds-most-innovative-companies-2018/#4f13b9e67c6a">Forbes: Most Innovative Companies 2018</a></li>
+<li><a href="https://hbr.org/2012/10/big-data-the-management-revolution">Harvard Business Review: Big Data - The Management Revolution</a></li>
+<li><a href="https://www.apple.com/">Apple Inc.</a></li>
+<li><a href="https://www.starbucks.com/">Starbucks</a></li>
+<li><a href="https://www.amazon.com/">Amazon</a></li>
+</ul>
+</details>
 
--  [Forbes: Most Innovative Companies 2018](https://www.forbes.com/sites/innovatorsdna/2018/08/14/the-worlds-most-innovative-companies-2018/#4f13b9e67c6a)
--  [Harvard Business Review: Big Data - The Management Revolution](https://hbr.org/2012/10/big-data-the-management-revolution)
--  [Apple Inc.](https://www.apple.com/)
--  [Starbucks](https://www.starbucks.com/)
--  [Amazon](https://www.amazon.com/)
+<b>Additional Resources</b>
+<p>We also encourage you to explore these additional resources for further reading and research on SWOT analysis:</p>
+<a href="https://www.mindtools.com/pages/article/newTMC_05.htm">MindTools: SWOT Analysis</a> - Discover New Opportunities, Manage and Eliminate Threats
+<br>
+<a href="https://pestleanalysis.com/what-is-pestle-analysis/">PESTLE Analysis: What Is PESTLE Analysis?</a> A Tool for Business Analysis
+<br>
+<a href="http://www.quickmba.com/strategy/porter.shtml">QuickMBA: Porter's Five Forces</a> - A Model for Industry Analysis
+<br>
 
-We also encourage you to explore these additional resources for further reading and research on SWOT analysis:
-
--  [MindTools: SWOT Analysis - Discover New Opportunities, Manage and Eliminate Threats](https://www.mindtools.com/pages/article/newTMC_05.htm)
--  [PESTLE Analysis: What Is PESTLE Analysis? A Tool for Business Analysis](https://pestleanalysis.com/what-is-pestle-analysis/)
--  [QuickMBA: Porter's Five Forces - A Model for Industry Analysis](http://www.quickmba.com/strategy/porter.shtml)
 
 **Share this article** with your colleagues and connections to spread the knowledge and help others benefit from these powerful strategies, too.
