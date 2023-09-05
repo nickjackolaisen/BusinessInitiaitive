@@ -2,7 +2,7 @@
 title: "Reputation Management - Protect and Enhance Your Corporation's Image"
 layout: post
 date: 2023-08-07
-update_date: 2023-08-29
+update_date: 2023-09-05
 author: jack_nicholaisen
 summary: "Protect your corporation's image in the digital age with reputation management strategies. Learn actionable tips to enhance your online presence NOW!"
 permalink: /corporation/reputation-management/
@@ -111,6 +111,8 @@ or
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
+{% include author-box.html %}
+
 ## Sources
 
 -   [Forbes: Reputation Management: Why It's Important and How to Do It](https://www.forbes.com/sites/forbesagencycouncil/2020/09/25/reputation-management-why-its-important-and-how-to-do-it/?sh=6f52a3fa1c52)
@@ -121,7 +123,3 @@ or
 -   [Reputology](https://www.reputology.com/)
 -   [Brand24](https://brand24.com/)
 -   [Reputation.com](https://reputation.com/)
-
-<br> DISCLAIMER:
-
-“Business Initiative” is for general educational purposes only. “Business Initiative” does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making binding decisions regarding starting, operating, and growing your business. Use external resources independently of “Business Initiative.” It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.

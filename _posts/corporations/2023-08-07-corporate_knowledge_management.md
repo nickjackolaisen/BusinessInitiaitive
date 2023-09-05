@@ -2,6 +2,7 @@
 title: "Knowledge Management | Channeling the Power of Organizational Knowledge in Your Corporation"
 layout: post
 date: 2023-08-07
+update_date: 2023-09-05
 author: jack_nicholaisen
 summary: "Are you struggling with capturing, sharing, and leveraging your organization's knowledge? If so, you're not alone. Many companies struggle to effectively manage their knowledge, which can lead to inefficiencies, missed opportunities, and even failure."
 permalink: /corporation/knowledge-management/
@@ -102,6 +103,8 @@ So, take the time to invest in knowledge management for your organization's long
 [Contact Business Initiative](https://www.businessinitiative.org/contact/) if you have any questions!
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
+
+{% include author-box.html %}
 
 ## Sources
 

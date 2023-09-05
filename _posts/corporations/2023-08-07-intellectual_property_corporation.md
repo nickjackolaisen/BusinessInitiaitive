@@ -2,6 +2,7 @@
 title: "Intellectual Property Strategies - Protecting & Monetizing Your Corporation's Innovations"
 layout: post
 date: 2023-08-07
+update_date: 2023-09-05
 author: jack_nicholaisen
 summary: "Are you an entrepreneur or business owner looking to drive innovation, create competitive advantages, and ensure long-term business success? Then protecting and monetizing your intellectual property (IP) is crucial. In this article, we will discuss the importance of corporate IP strategies and provide insights into protecting and monetizing your company's innovations."
 permalink: /corporation/intellectual-property/
@@ -152,6 +153,8 @@ or
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
+{% include author-box.html %}
+
 ## Sources
 
 -   [United States Patent and Trademark Office](https://www.uspto.gov/)
@@ -172,9 +175,3 @@ or
 -   [Cease-and-Desist Letter Template](https://www.rocketlawyer.com/form/cease-and-desist-letter.rl)
 -   [IP Litigation Guide](https://www.uspto.gov/sites/default/files/documents/IPLitigationGuide.pdf)
 -   [IP Litigation Attorneys Directory](https://www.aipla.org/resources2/directories/ip-litigation-attorneys-directory)
-
-
-
-<br> DISCLAIMER:
-
-“Business Initiative” is for general educational purposes only. “Business Initiative” does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making binding decisions regarding starting, operating, and growing your business. Use external resources independently of “Business Initiative.” It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.

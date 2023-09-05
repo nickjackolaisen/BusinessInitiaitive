@@ -2,6 +2,7 @@
 title: "Use Your Corporation's Social Media Presence to Boost Brand Perception and Customer Engagement"
 layout: post
 date: 2023-08-07
+update_date: 2023-09-05
 author: jack_nicholaisen
 summary: "Are you looking to build a strong online presence for your company? Social media platforms are the perfect tools to help you engage with your audience, build brand awareness, and ultimately drive sales. In this article, we'll explore the impact of corporate social media presence on brand perception and customer engagement, and provide actionable tips and tricks to help you build an authentic and consistent brand image."
 permalink: /corporation/social-media/
@@ -161,6 +162,8 @@ By following these tips and staying up-to-date with the latest trends, you can s
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
+{% include author-box.html %}
+
 ## Sources
 
 By referring back to these sources, you can keep up with the latest trends and best practices in social media marketing.
@@ -178,9 +181,3 @@ By referring back to these sources, you can keep up with the latest trends and b
 -   [Marketing Land](https://martech.org/welcome-to-marketing-land/)
 -   [Social Media Examiner](https://www.socialmediaexaminer.com/)
 -   [HubSpot Blog](https://blog.hubspot.com/)
-
-
-
-<br> DISCLAIMER:
-
-“Business Initiative” is for general educational purposes only. “Business Initiative” does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making binding decisions regarding starting, operating, and growing your business. Use external resources independently of “Business Initiative.” It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.

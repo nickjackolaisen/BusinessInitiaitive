@@ -2,7 +2,7 @@
 title: "Corporate Crisis Management - Preparing for and Responding to Unforeseen Challenges"
 layout: post
 date: 2023-08-14
-update_date: 2023-08-29
+update_date: 2023-09-05
 author: jack_nicholaisen
 summary: "Learn to shield your business from challenges with our crisis management guide. Get tips for identifying risks, planning, and ensuring resilience. ACT NOW!"
 permalink: /corporation/crisis-management/
@@ -157,10 +157,8 @@ Don't leave your business vulnerable...
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
+{% include author-box.html %}
+
 ## Sources
 
 -  [The Guardian: BP boss admits job on line over Gulf oil spill](https://www.theguardian.com/business/2010/jun/02/bp-chief-executive-tony-hayward-gulf-oil-spill)
-
-<br> DISCLAIMER:
-
-“Business Initiative” is for general educational purposes only. “Business Initiative” does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making binding decisions regarding starting, operating, and growing your business. Use external resources independently of “Business Initiative.” It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.

@@ -2,7 +2,7 @@
 title: "Business Agility for Corporations - Adapt and Stay Ahead of the Competition"
 layout: post
 date: 2023-08-07
-update_date: 2023-08-18
+update_date: 2023-09-05
 author: jack_nicholaisen
 summary: "Dive into the world of corporate agility and learn how to foster a nimble and adaptive organization. This article covers everything from creating a culture of adaptability to implementing agile management practices, with practical tips and famous examples to help you stay ahead of the competition. Don't miss out on these valuable insights – Read THIS and transform your business today!"
 permalink: /corporation/business-agility/
@@ -146,6 +146,8 @@ Let's set up a time to discuss your situation and how it can be optimized...
 [Schedule a consultation call NOW!](https://calendly.com/businessinitiative/30-minute-consultation-call)
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
+
+{% include author-box.html %}
 
 ## Sources**:
 

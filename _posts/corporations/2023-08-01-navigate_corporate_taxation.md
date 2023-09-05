@@ -2,6 +2,7 @@
 title: "29 Strategies to Minimize Your Company's Tax Burden - Navigating Corporate Taxation"
 layout: post
 date: 2023-08-01
+update_date: 2023-09-05
 author: jack_nicholaisen
 summary: "Are you an entrepreneur or business owner looking to optimize your company's financial performance? Discover the secrets to minimizing tax liabilities while staying compliant in this comprehensive guide. Don't let taxes hold your business back – read on to unlock your company's full potential!"
 permalink: /corporation/tax-strategies/
@@ -257,6 +258,8 @@ Don't let taxes hold your business back....
 Implement these strategies and unlock your company's full potential...
 
 START TODAY by seeking professional tax advice and begin navigating the world of corporate taxation with confidence!
+
+{% include author-box.html %}
 
 ## Sources
 

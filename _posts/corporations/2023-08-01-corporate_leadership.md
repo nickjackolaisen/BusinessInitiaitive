@@ -2,7 +2,7 @@
 title: "19 Types of Corporate Leadership - Choosing the Right Style for Your Business"
 layout: post
 date: 2023-08-01
-update_date: 2023-08-29
+update_date: 2023-09-05
 author: jack_nicholaisen
 summary: "Discover the secrets to effective management and employee motivation by understanding different corporate leadership styles. Learn how to select and adapt the right approach for your unique business to achieve success. Don't miss out on this valuable opportunity; read on to unlock your company's true potential!"
 permalink: /corporation/corporate-leadership/
@@ -236,6 +236,8 @@ Understanding and implementing an appropriate leadership style is essential for 
 Don't miss out on this valuable opportunity to enhance your leadership skills and drive your business towards success. 
 
 Act now by applying the insights and tips shared in this article!
+
+{% include author-box.html %}
 
 ## Sources
 

@@ -2,7 +2,7 @@
 title: "Outsourcing Strategies - Maximize Your Corporation's Efficiency and Cost Savings"
 layout: post
 date: 2023-08-07
-update_date: 2023-08-29
+update_date: 2023-09-05
 author: jack_nicholaisen
 summary: "Maximize efficiency & cost savings with outsourcing. Delegate tasks to third parties, focus on core competencies & growth. Learn tips & examples HERE!"
 permalink: /corporation/outsourcing-strategy/
@@ -104,13 +104,11 @@ Debating whether or not your corporation may be fit for outsourcing some of your
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
+{% include author-box.html %}
+
 ## Sources
 
 -   [Forbes: The Pros and Cons of Outsourcing](https://www.forbes.com/sites/allbusiness/2018/07/11/the-pros-and-cons-of-outsourcing/?sh=5c8f3e5e5609)
 -   [Entrepreneur: The Benefits of Outsourcing for Small Businesses](https://www.entrepreneur.com/article/290881)
 -   [Harvard Business Review: Global Business Speaks English](https://hbr.org/2012/05/global-business-speaks-english)
 -   [Deloitte: Outsourcing Survey Report](https://www2.deloitte.com/content/dam/Deloitte/global/Documents/Operations/deloitte-global-outsourcing-survey-2016.pdf)
-
-<br> DISCLAIMER:
-
-“Business Initiative” is for general educational purposes only. “Business Initiative” does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making binding decisions regarding starting, operating, and growing your business. Use external resources independently of “Business Initiative.” It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.

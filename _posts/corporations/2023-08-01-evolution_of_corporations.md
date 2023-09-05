@@ -2,6 +2,7 @@
 title: "The Evolution of Corporate Structures - From Sole Proprietorships to Multinationals"
 layout: post
 date: 2023-08-01
+update_date: 2023-09-05
 author: jack_nicholaisen
 summary: "Discover the fascinating journey of corporate structures, from humble sole proprietorships to multinational giants! Take a deep dive into the historical development and significance of various business models for modern entrepreneurs. Don't miss the opportunity to learn practical lessons, tips, and tricks for choosing the right corporate structure for your business. Read on to gain an edge in today's competitive world!"
 permalink: /corporation/heirachy-and-evolution/
@@ -187,16 +188,18 @@ Don't miss the opportunity to learn from the past and shape your business for su
 
 Equip yourself with the knowledge and tools necessary to choose the right corporate structure for your unique venture and set your business on the path to success!
 
+{% include author-box.html %}
+
 ## Sources
 
-[Code of Hammurabi](https://avalon.law.yale.edu/ancient/hamframe.asp)
-[Medici Family](https://www.britannica.com/topic/House-of-Medici)
-[Dutch East India Company](https://www.britannica.com/topic/Dutch-East-India-Company)
-[British East India Company](https://www.britannica.com/topic/English-East-India-Company)
-[South Sea Company](https://www.britannica.com/topic/South-Sea-Company)
-[Limited Liability Act of 1855](https://www.legislation.gov.uk/ukpga/Vict/18-19/133/contents)
-[Standard Oil](https://www.britannica.com/topic/Standard-Oil)
-[United Fruit Company](https://www.britannica.com/topic/United-Fruit-Company)
-[Apple Inc.](https://www.britannica.com/topic/Apple-Inc)
-[Toyota Motor Corporation](https://www.britannica.com/topic/Toyota-Motor-Corporation)
-[Nestlé S.A.](https://www.britannica.com/topic/Nestle-SA)
+-   [Code of Hammurabi](https://avalon.law.yale.edu/ancient/hamframe.asp)
+-   [Medici Family](https://www.britannica.com/topic/House-of-Medici)
+-   [Dutch East India Company](https://www.britannica.com/topic/Dutch-East-India-Company)
+-   [British East India Company](https://www.britannica.com/topic/English-East-India-Company)
+-   [South Sea Company](https://www.britannica.com/topic/South-Sea-Company)
+-   [Limited Liability Act of 1855](https://www.legislation.gov.uk/ukpga/Vict/18-19/133/contents)
+-   [Standard Oil](https://www.britannica.com/topic/Standard-Oil)
+-   [United Fruit Company](https://www.britannica.com/topic/United-Fruit-Company)
+-   [Apple Inc.](https://www.britannica.com/topic/Apple-Inc)
+-   [Toyota Motor Corporation](https://www.britannica.com/topic/Toyota-Motor-Corporation)
+-   [Nestlé S.A.](https://www.britannica.com/topic/Nestle-SA)
