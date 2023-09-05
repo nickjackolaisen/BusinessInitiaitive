@@ -2,6 +2,7 @@
 title: "How Much Do Small Businesses Pay in Taxes? | 2023"
 layout: post
 date: 2023-06-26
+update_date: 2023-09-05
 author: jack_nicholaisen
 summary: Are you struggling to understand the complex tax system? Discover the percentage of small businesses that pay taxes and learn about the various types of taxes your business may be subject to. By reading this article and utilizing the resources provided by BusinessInitiative.com, you'll gain a better understanding of how to navigate the tax system and avoid any penalties or fines.
 permalink: /stats/small-businesses/how-much-do-small-businesses-pay-in-taxes/
@@ -94,8 +95,10 @@ Are you feeling overwhelmed by the various types of taxes your small business ha
 <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/businessinitiative/30-minute-consultation-call'});return false;">Book a FREE consultation with us today and get started!</a><!-- Calendly link widget end -->
 </p>
 
+{% include author-box.html %}
+
 Sources:
 
-1.  [IRS](https://www.irs.gov/statistics/irs-taxpayer-compliance-and-burden-research)
-2.  [National Small Business Association: 2023 Economic Report and 2018 Mid-Year Economic Report](https://www.nsba.biz/surveys)
-3.  [Small Business Administration](https://www.sba.gov/federal-tax-responsibilities)
+-   [IRS](https://www.irs.gov/statistics/irs-taxpayer-compliance-and-burden-research)
+-   [National Small Business Association: 2023 Economic Report and 2018 Mid-Year Economic Report](https://www.nsba.biz/surveys)
+-   [Small Business Administration](https://www.sba.gov/federal-tax-responsibilities)
