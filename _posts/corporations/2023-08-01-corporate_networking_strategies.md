@@ -174,8 +174,12 @@ So, get out there and start networking!
 
 {% include author-box.html %}
 
-## Sources
-
--   [Forbes](https://www.forbes.com/sites/ashleystahl/2018/08/15/the-power-of-networking-for-business-success/?sh=78ae87c82f0d)
--   [Entrepreneur](https://www.entrepreneur.com/article/297899)
--   [Harvard Business Review](https://hbr.org/2016/05/5-ways-to-network-more-meaningfully)
+<details>
+<summary><b>Sources</b></summary>
+<br>
+<ul>
+<li><a href="https://www.forbes.com/sites/ashleystahl/2018/08/15/the-power-of-networking-for-business-success/?sh=78ae87c82f0d">Forbes</a></li>
+<li><a href="https://www.entrepreneur.com/article/297899">Entrepreneur</a></li>
+<li><a href="https://hbr.org/2016/05/5-ways-to-network-more-meaningfully">Harvard Business Review</a></li>
+</ul>
+</details>

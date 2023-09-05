@@ -99,9 +99,15 @@ If you are an entrepreneur looking for ways to drive business growth, consider f
 By following the tips and advice outlined in this article, you can identify potential partners, form and structure partnerships, and manage partnership relationships for long-term success.
 
 {% include author-box.html %}
+ 
+<details>
+<summary><b>Sources</b></summary>
+<br>
+<ul>
+<li><a href="https://www.forbes.com/sites/forbestechcouncil/2023/03/08/the-keys-to-2023-strategic-partnerships-scalable-integration-and-digital-transformation/?sh=5ef834d6448e">Forbes</a></li>
+<li><a href="https://www.inc.com/john-discala/5-reasons-why-you-should-team-up-with-another-business.html">Inc.</a></li>
+<li><a href="https://hbr.org/2022/07/what-makes-innovation-partnerships-succeed">Harvard Business Review</a></li>
+</ul>
+</details>
 
-## Sources
 
-[Forbes](https://www.forbes.com/sites/forbestechcouncil/2023/03/08/the-keys-to-2023-strategic-partnerships-scalable-integration-and-digital-transformation/?sh=5ef834d6448e)
-[Inc.](https://www.inc.com/john-discala/5-reasons-why-you-should-team-up-with-another-business.html)
-[Harvard Business Review](https://hbr.org/2022/07/what-makes-innovation-partnerships-succeed)

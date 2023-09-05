@@ -261,9 +261,18 @@ START TODAY by seeking professional tax advice and begin navigating the world of
 
 {% include author-box.html %}
 
-## Sources
 
-[IRS - Business Taxes](https://www.irs.gov/businesses/small-businesses-self-employed/business-taxes)
-[Investopedia - Corporate Tax](https://www.investopedia.com/terms/c/corporatetax.asp)
-[Forbes - Top Tax Strategies For Small Business Owners](https://www.forbes.com/sites/theyec/2020/10/29/top-tax-strategies-for-small-business-owners)
-[Tax Policy Center - International Corporate Taxation](https://www.taxpolicycenter.org/briefing-book/how-does-us-corporate-income-tax-rate-compare-other-countries)
+<details>
+<summary><b>Sources</b></summary>
+<br>
+<ul>
+<li><a href="https://www.irs.gov/businesses/small-businesses-self-employed/business-taxes">IRS - Business Taxes</a></li>
+<li><a href="https://www.investopedia.com/terms/c/corporatetax.asp">Investopedia - Corporate Tax</a></li>
+<li><a href="https://www.forbes.com/sites/theyec/2020/10/29/top-tax-strategies-for-small-business-owners">Forbes - Top Tax Strategies For Small Business Owners</a></li>
+<li><a href="https://www.taxpolicycenter.org/briefing-book/how-does-us-corporate-income-tax-rate-compare-other-countries">Tax Policy Center - International Corporate Taxation</a></li>
+</ul>
+</details>
+
+
+
+

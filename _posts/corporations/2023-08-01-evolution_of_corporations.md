@@ -190,16 +190,20 @@ Equip yourself with the knowledge and tools necessary to choose the right corpor
 
 {% include author-box.html %}
 
-## Sources
-
--   [Code of Hammurabi](https://avalon.law.yale.edu/ancient/hamframe.asp)
--   [Medici Family](https://www.britannica.com/topic/House-of-Medici)
--   [Dutch East India Company](https://www.britannica.com/topic/Dutch-East-India-Company)
--   [British East India Company](https://www.britannica.com/topic/English-East-India-Company)
--   [South Sea Company](https://www.britannica.com/topic/South-Sea-Company)
--   [Limited Liability Act of 1855](https://www.legislation.gov.uk/ukpga/Vict/18-19/133/contents)
--   [Standard Oil](https://www.britannica.com/topic/Standard-Oil)
--   [United Fruit Company](https://www.britannica.com/topic/United-Fruit-Company)
--   [Apple Inc.](https://www.britannica.com/topic/Apple-Inc)
--   [Toyota Motor Corporation](https://www.britannica.com/topic/Toyota-Motor-Corporation)
--   [Nestlé S.A.](https://www.britannica.com/topic/Nestle-SA)
+<details>
+<summary><b>Sources</b></summary>
+<br>
+<ul>
+<li><a href="https://avalon.law.yale.edu/ancient/hamframe.asp">Code of Hammurabi</a></li>
+<li><a href="https://www.britannica.com/topic/House-of-Medici">Medici Family</a></li>
+<li><a href="https://www.britannica.com/topic/Dutch-East-India-Company">Dutch East India Company</a></li>
+<li><a href="https://www.britannica.com/topic/English-East-India-Company">British East India Company</a></li>
+<li><a href="https://www.britannica.com/topic/South-Sea-Company">South Sea Company</a></li>
+<li><a href="https://www.legislation.gov.uk/ukpga/Vict/18-19/133/contents">Limited Liability Act of 1855</a></li>
+<li><a href="https://www.britannica.com/topic/Standard-Oil">Standard Oil</a></li>
+<li><a href="https://www.britannica.com/topic/United-Fruit-Company">United Fruit Company</a></li>
+<li><a href="https://www.britannica.com/topic/Apple-Inc">Apple Inc.</a></li>
+<li><a href="https://www.britannica.com/topic/Toyota-Motor-Corporation">Toyota Motor Corporation</a></li>
+<li><a href="https://www.britannica.com/topic/Nestle-SA">Nestlé S.A.</a></li>
+</ul>
+</details>
