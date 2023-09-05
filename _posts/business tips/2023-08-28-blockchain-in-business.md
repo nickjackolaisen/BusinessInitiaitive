@@ -546,3 +546,4 @@ Stay up-to-date with the latest developments in the blockchain industry by subsc
 -   [De Beers Tracr Announcement](https://www.debeersgroup.com/media/company-news/2018/tracr-announces-successful-conclusion-of-blockchain-pilot))
 -   [IBM TradeLens Case Study](https://www.ibm.com/case-studies/maersk-blockchain-supply-chain)
 
+{% include author-box.html %}
