@@ -2,7 +2,7 @@
 title: "Sole Proprietorship Facts, Stats, & FAQs for 2023"
 layout: post
 date: 2023-07-05
-update_date: 2023-08-29
+update_date: 2023-09-05
 author: jack_nicholaisen
 summary: "Unlock your business potential with our data-driven insights, expert consulting, and tailored pricing. Elevate success today!" 
 image: /images/posts-headers/sole-proprietorship-facts-stats-faqs-header.png
@@ -264,3 +264,4 @@ Just as the Sole Proprietorship is nothing without a sole proprietor to manage a
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
+{% include author-box.html %}

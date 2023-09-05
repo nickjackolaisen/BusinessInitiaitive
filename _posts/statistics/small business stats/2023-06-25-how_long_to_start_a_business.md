@@ -2,6 +2,7 @@
 title: "How Long does it Take to Start a Small Business?"
 layout: post
 date: 2023-06-25
+update_date: 2023-09-05
 author: jack_nicholaisen
 summary: Starting a small business is a dream for many. Whether as a passion project or an income stream, building a business can be an exciting and rewarding journey. However, a common question people have is, How long does it take to start a small business? The answer depends on several factors, including the type of business, the location, your level of experience, and the resources available to you.
 permalink: /stats/how-long-does-it-take-to-start-a-business/
@@ -47,6 +48,8 @@ In conclusion, the time it takes to start a small business varies depending on s
 
 Sources:
 
-1.  “[How to Start a Business: The Complete Guide](https://fitsmallbusiness.com/how-to-start-your-own-business/)” by Fit Small Business
-2.  “[How to Start a Business in 15 Steps](https://www.nerdwallet.com/article/small-business/how-to-start-a-business?trk\\_location=ssrp\\\&trk\\_query=start%20a%20business\\\&trk\\_page=1\\\&trk\\_position=4)” by NerdWallet
-3.  “[How to Start a Business: A Step-by-Step Guide](https://www.businessnewsdaily.com/4686-how-to-start-a-business.html)” by Business News Daily
+-  “[How to Start a Business: The Complete Guide](https://fitsmallbusiness.com/how-to-start-your-own-business/)” by Fit Small Business
+-  “[How to Start a Business in 15 Steps](https://www.nerdwallet.com/article/small-business/how-to-start-a-business?trk\\_location=ssrp\\\&trk\\_query=start%20a%20business\\\&trk\\_page=1\\\&trk\\_position=4)” by NerdWallet
+-  “[How to Start a Business: A Step-by-Step Guide](https://www.businessnewsdaily.com/4686-how-to-start-a-business.html)” by Business News Daily
+
+{% include author-box.html %}
