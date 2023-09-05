@@ -521,33 +521,33 @@ Stay up-to-date with the latest developments in the blockchain industry by subsc
 <summary><b>Sources</b></summary>
 <br>
 
--   [World Economic Forum: Inclusive Deployment of Blockchain](https://www.weforum.org/reports/inclusive-deployment-of-blockchain-case-studies-and-learnings-from-the-united-arab-emirates)
--   [IEEE Xplore: Blockchain for Supply Chains](https://ieeexplore.ieee.org/document/8475561)
--   [International Chamber of Commerce: Global Impacts of Counterfeiting and Piracy](https://iccwbo.org/media-wall/news-speeches/global-impacts-counterfeiting-piracy-reach-us4-2-trillion-2022/)
--   [McKinsey & Company: Blockchain in Construction - A Blueprint for Disruption](https://www.mckinsey.com/~/media/mckinsey/industries/capital%20projects%20and%20infrastructure/our%20insights/blockchain%20in%20construction%20a%20blueprint%20for%20disruption/blockchain-in-construction-a-blueprint-for-disruption.pdf)
--   [PwC: Blockchain Tokenization of Real Estate](https://www.pwc.de/en/real-estate/assets/pwc-blockchain-tokenization-of-real-estate.pdf)
--   [Savills World Research: Global Real Estate Market Size](https://www.savills.co.uk/research_articles/229130/210665-0)
--   [Cambridge Judge Business School Working Paper: Smart Contracts and Real Estate Transactions](https://www.jbs.cam.ac.uk/fileadmin/user_upload/research/workingpapers/wp1901.pdf)
--   [Forbes: From Crypto to Cash - First Ever Real Estate Sale Using Ethereum](https://www.forbes.com/sites/omribarzilay/2017/09/08/from-crypto-to-cash-first-ever-real-estate-sale-using-ethereum-leads-the-way/#35f4dd6f3d11)
--   [National Center for Biotechnology Information: Blockchain for Healthcare](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6682312/)
--   [PubMed: Potential Savings from Data Sharing in Healthcare](https://pubmed.ncbi.nlm.nih.gov/28736725/)
--   [Accenture: Pioneering Blockchain to Secure Supply Chain](https://www.accenture.com/_acnmedia/PDF-71/Accenture-Pioneering-Blockchain-Secure-Supply-Chain.pdf)
--   [National Center for Biotechnology Information: Blockchain in Clinical Trials](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6022997/)
--   [McKinsey & Company: Blockchain in Insurance - Opportunity or Threat?](https://www.mckinsey.com/~/media/McKinsey/Industries/Financial%20Services/Our%20Insights/Blockchain%20in%20Insurance%20-%20Opportunity%20or%20Threat/Blockchain_PoV_July2016.ashx)
--   [FBI: Insurance Fraud Statistics](https://www.fbi.gov/stats-services/publications/insurance-fraud)
--   [Deloitte: Blockchain Applications in Insurance](https://www2.deloitte.com/content/dam/Deloitte/ch/Documents/innovation/ch-en-innovation-deloitte-blockchain-app-in-insurance.pdf)
--   [GlobeNewswire: Global Insurance Claims Management Markets Report 2021](https://www.globenewswire.com/news-release/2021/03/03/2185599/28124/en/Global-14-7-Billion-Insurance-Claims-Management-Markets-to-2026.html)
--   [IEEE Xplore: Blockchain for Risk Management](https://ieeexplore.ieee.org/document/8475561)
--   [MarketsandMarkets: Operational Risk Management Market](https://www.marketsandmarkets.com/Market-Reports/operational-risk-management-market-114734962.html)
--   [Coindesk: Scaling Bitcoin and Ethereum](https://www.coindesk.com/bitcoin-ethereum-scaling)
--   [Cambridge Centre for Alternative Finance: Bitcoin Energy Consumption Index](https://cbeci.org/)
--   [Open Access Book: Blockchain and the GDPR](https://library.oapen.org/bitstream/handle/20.500.12657/42584/9789004439210_webready_content_text.pdf)
--   [PwC Global Blockchain Survey 2018](https://www.pwc.com/gx/en/issues/blockchain/blockchain-in-business.html)
--   [IAPP: Blockchain and the GDPR - Reconciling Privacy Rights with Distributed Ledgers?](https://iapp.org/media/pdf/resource_center/blockchain_and_the_gdpr.pdf)
--   [CoinDesk: Ethereum Classic 51% Attack](https://www.coindesk.com/ethereum-classic-51-attack-blockchain-history)
--   [IBM Food Trust Case Study](https://www.ibm.com/case-studies/walmart-food-trust)
--   [De Beers Tracr Announcement](https://www.debeersgroup.com/media/company-news/2018/tracr-announces-successful-conclusion-of-blockchain-pilot))
--   [IBM TradeLens Case Study](https://www.ibm.com/case-studies/maersk-blockchain-supply-chain)
+-   <a href="https://www.weforum.org/reports/inclusive-deployment-of-blockchain-case-studies-and-learnings-from-the-united-arab-emirates">World Economic Forum: Inclusive Deployment of Blockchain</a>
+-   <a href="https://ieeexplore.ieee.org/document/8475561">IEEE Xplore: Blockchain for Supply Chains</a>
+-   <a href="https://iccwbo.org/media-wall/news-speeches/global-impacts-counterfeiting-piracy-reach-us4-2-trillion-2022/">International Chamber of Commerce: Global Impacts of Counterfeiting and Piracy</a>
+-   <a href="https://www.mckinsey.com/~/media/mckinsey/industries/capital%20projects%20and%20infrastructure/our%20insights/blockchain%20in%20construction%20a%20blueprint%20for%20disruption/blockchain-in-construction-a-blueprint-for-disruption.pdf">McKinsey & Company: Blockchain in Construction - A Blueprint for Disruption</a>
+-   <a href="https://www.pwc.de/en/real-estate/assets/pwc-blockchain-tokenization-of-real-estate.pdf">PwC: Blockchain Tokenization of Real Estate</a>
+-   <a href="https://www.savills.co.uk/research_articles/229130/210665-0">Savills World Research: Global Real Estate Market Size</a>
+-   <a href="https://www.jbs.cam.ac.uk/fileadmin/user_upload/research/workingpapers/wp1901.pdf">Cambridge Judge Business School Working Paper: Smart Contracts and Real Estate Transactions</a>
+-   <a href="https://www.forbes.com/sites/omribarzilay/2017/09/08/from-crypto-to-cash-first-ever-real-estate-sale-using-ethereum-leads-the-way/#35f4dd6f3d11">Forbes: From Crypto to Cash - First Ever Real Estate Sale Using Ethereum</a>
+-   <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6682312/">National Center for Biotechnology Information: Blockchain for Healthcare</a>
+-   <a href="https://pubmed.ncbi.nlm.nih.gov/28736725/">PubMed: Potential Savings from Data Sharing in Healthcare</a>
+-   <a href="https://www.accenture.com/_acnmedia/PDF-71/Accenture-Pioneering-Blockchain-Secure-Supply-Chain.pdf">Accenture: Pioneering Blockchain to Secure Supply Chain</a>
+-   <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6022997/">National Center for Biotechnology Information: Blockchain in Clinical Trials</a>
+-   <a href="https://www.mckinsey.com/~/media/McKinsey/Industries/Financial%20Services/Our%20Insights/Blockchain%20in%20Insurance%20-%20Opportunity%20or%20Threat/Blockchain_PoV_July2016.ashx">McKinsey & Company: Blockchain in Insurance - Opportunity or Threat?</a>
+-   <a href="https://www.fbi.gov/stats-services/publications/insurance-fraud">FBI: Insurance Fraud Statistics</a>
+-   <a href="https://www2.deloitte.com/content/dam/Deloitte/ch/Documents/innovation/ch-en-innovation-deloitte-blockchain-app-in-insurance.pdf">Deloitte: Blockchain Applications in Insurance</a>
+-   <a href="https://www.globenewswire.com/news-release/2021/03/03/2185599/28124/en/Global-14-7-Billion-Insurance-Claims-Management-Markets-to-2026.html">GlobeNewswire: Global Insurance Claims Management Markets Report 2021</a>
+-   <a href="https://ieeexplore.ieee.org/document/8475561">IEEE Xplore: Blockchain for Risk Management</a>
+-   <a href="https://www.marketsandmarkets.com/Market-Reports/operational-risk-management-market-114734962.html">MarketsandMarkets: Operational Risk Management Market</a>
+-   <a href="https://www.coindesk.com/bitcoin-ethereum-scaling">Coindesk: Scaling Bitcoin and Ethereum</a>
+-   <a href="https://cbeci.org/">Cambridge Centre for Alternative Finance: Bitcoin Energy Consumption Index</a>
+-   <a href="https://library.oapen.org/bitstream/handle/20.500.12657/42584/9789004439210_webready_content_text.pdf">Open Access Book: Blockchain and the GDPR</a>
+-   <a href="https://www.pwc.com/gx/en/issues/blockchain/blockchain-in-business.html">PwC Global Blockchain Survey 2018</a>
+-   <a href="https://iapp.org/media/pdf/resource_center/blockchain_and_the_gdpr.pdf">IAPP: Blockchain and the GDPR - Reconciling Privacy Rights with Distributed Ledgers?</a>
+-   <a href="https://www.coindesk.com/ethereum-classic-51-attack-blockchain-history">CoinDesk: Ethereum Classic 51% Attack</a>
+-   <a href="https://www.ibm.com/case-studies/walmart-food-trust">IBM Food Trust Case Study</a>
+-   <a href="https://www.debeersgroup.com/media/company-news/2018/tracr-announces-successful-conclusion-of-blockchain-pilot">De Beers Tracr Announcement</a>
+-   <a href="https://www.ibm.com/case-studies/maersk-blockchain-supply-chain">IBM TradeLens Case Study</a>
 
 </details>
 
