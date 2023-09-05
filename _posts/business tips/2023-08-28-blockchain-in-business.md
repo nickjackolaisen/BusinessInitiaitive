@@ -68,7 +68,7 @@ Blockchain technology has its roots in the early 1990s, but it wasn't until 2008
 <figcaption>The history of blockchain technology showcases its rapid development and adoption across multiple sectors, driven by its potential to revolutionize data security and decentralization.</figcaption>
 </center>
 
-<a id=“introduction-to-blockchain”> 
+<a id=“introduction-to-blockchain”></a> 
 
 ## Beyond Digital Currency: Blockchain Applications in Tomorrow's Business Landscape
 
