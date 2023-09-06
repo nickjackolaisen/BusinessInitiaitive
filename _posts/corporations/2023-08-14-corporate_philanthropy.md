@@ -2,6 +2,7 @@
 title: "Corporate Philanthropy - How Giving Back Drives Business Success"
 layout: post
 date: 2023-08-14
+update-date: 2023-09-06
 author: jack_nicholaisen
 summary: "Discover the power of corporate philanthropy and how it can drive your business to new heights. Explore insights into developing and implementing effective philanthropic initiatives and learn actionable advice on aligning your company's values with its philanthropic goals. Don't miss out on this comprehensive guide to giving back while boosting your business success. Read on and unlock the full potential of corporate philanthropy today!"
 permalink: /corporation/philanthropy/
@@ -15,7 +16,7 @@ Corporate philanthropy can take many forms, from direct financial contributions 
 
 By aligning philanthropic initiatives with a company's values and goals, they can enhance their brand image, attract and retain customers, improve employee morale and engagement, and even increase profits.
 
-In this article, we will explore the benefits of corporate philanthropy in more detail and provide actionable advice on how to develop and implement effective philanthropic programs that will benefit both your business and the community it serves.
+{% include takeaway-box.html bullet1="<b>Align philanthropy with core values:</b> Ensure your company's charitable efforts genuinely reflect its values, resonating with customers and strengthening brand identity." bullet2="<b>Engage employees:</b> Involve employees in philanthropic initiatives to boost morale, improve job satisfaction, and foster a sense of purpose." bullet3="<b>Measure impact and refine strategies:</b> Track outcomes, make data-driven decisions, and regularly adjust strategies to optimize results and maximize impact." bullet4="<b>Leverage partnerships:</b> Collaborate with non-profits, businesses, or community groups to expand your philanthropic activities and achieve more significant results." bullet5="<b>Communicate successes transparently:</b> Share stories of your company's philanthropic initiatives, including challenges and lessons learned, showcasing authenticity and commitment to social responsibility."%}
 
 So if you're looking to take your business to new heights while making a positive impact on society...
 
@@ -185,22 +186,35 @@ Don't wait...
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
-## Sources
+<details>
+<summary><b>Sources</b></summary>
+<br>
+<ul>
+<li><a href="https://www.toms.com/our-giving/">TOMS Shoes Giving</a></li>
 
--   [TOMS Shoes Giving](https://www.toms.com/our-giving/)
--   [Deloitte's 2017 Volunteer Impact Research](https://www2.deloitte.com/content/dam/Deloitte/us/Documents/about-deloitte/us-2017-deloitte-volunteer-impact-research.pdf)
--   [2017 Cone Communications CSR Study](http://www.conecomm.com/2017-cone-communications-csr-study-pdf)
--   [How to Set SMART Goals](https://www.investopedia.com/terms/s/smart-goals.asp)
--   [SMART Goals Worksheet](https://www.smartsheet.com/free-smart-goals-worksheet)
--   [How to Create a Budget](https://www.thebalance.com/how-to-create-a-budget-1289587)
--   [Costs of Starting a Nonprofit](https://www.thebalancesmb.com/costs-of-starting-a-nonprofit-2501953)
--   [How to Develop a Strategic Plan](https://www.thebalancesmb.com/how-to-develop-a-strategic-plan-2948000)
--   [Strategic Planning Worksheet](https://www.smartsheet.com/free-strategic-planning-templates)
--   [How to Create a Communication Plan](https://www.thebalancesmb.com/how-to-create-a-communication-plan-2951688)
--   [Social Media Strategy Template](https://www.smartsheet.com/free-social-media-templates)
--   [How to Measure the Impact of Your Philanthropy](https://www.philanthropy.com/article/How-to-Measure-the-Impact-of/243330)
--   [Continuous Improvement Template](https://www.smartsheet.com/free-continuous-improvement-template)
+<li><a href="https://www2.deloitte.com/content/dam/Deloitte/us/Documents/about-deloitte/us-2017-deloitte-volunteer-impact-research.pdf">Deloitte's 2017 Volunteer Impact Research</a></li>
 
-<br> DISCLAIMER:
+<li><a href="http://www.conecomm.com/2017-cone-communications-csr-study-pdf">2017 Cone Communications CSR Study</a></li>
 
-“Business Initiative” is for general educational purposes only. “Business Initiative” does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making binding decisions regarding starting, operating, and growing your business. Use external resources independently of “Business Initiative.” It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.
+<li><a href="https://www.investopedia.com/terms/s/smart-goals.asp">How to Set SMART Goals</a></li>
+
+<li><a href="https://www.smartsheet.com/free-smart-goals-worksheet">SMART Goals Worksheet</a></li>
+
+<li><a href="https://www.thebalance.com/how-to-create-a-budget-1289587">How to Create a Budget</a></li>
+
+<li><a href="https://www.thebalancesmb.com/costs-of-starting-a-nonprofit-2501953">Costs of Starting a Nonprofit</a></li>
+
+<li><a href="https://www.thebalancesmb.com/how-to-develop-a-strategic-plan-2948000">How to Develop a Strategic Plan</a></li>
+
+<li><a href="https://www.smartsheet.com/free-strategic-planning-templates">Strategic Planning Worksheet</a></li>
+
+<li><a href="https://www.thebalancesmb.com/how-to-create-a-communication-plan-2951688">How to Create a Communication Plan</a></li>
+
+<li><a href="https://www.smartsheet.com/free-social-media-templates">Social Media Strategy Template</a></li>
+
+<li><a href="https://www.philanthropy.com/article/How-to-Measure-the-Impact-of/243330">How to Measure the Impact of Your Philanthropy</a></li>
+
+<li><a href="https://www.smartsheet.com/free-continuous-improvement-template">Continuous Improvement Template</a></li>
+
+</ul>
+</details>

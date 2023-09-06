@@ -2,7 +2,7 @@
 title: "Reputation Management - Protect and Enhance Your Corporation's Image"
 layout: post
 date: 2023-08-07
-update_date: 2023-09-05
+update_date: 2023-09-06
 author: jack_nicholaisen
 summary: "Protect your corporation's image in the digital age with reputation management strategies. Learn actionable tips to enhance your online presence NOW!"
 permalink: /corporation/reputation-management/
@@ -111,15 +111,17 @@ or
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
-{% include author-box.html %}
-
-## Sources
-
--   [Forbes: Reputation Management: Why It's Important and How to Do It](https://www.forbes.com/sites/forbesagencycouncil/2020/09/25/reputation-management-why-its-important-and-how-to-do-it/?sh=6f52a3fa1c52)
--   [Harvard Business Review: The Value of Corporate Reputation](https://hbr.org/2001/01/the-value-of-corporate-reputation)
--   [Glassdoor: How to Manage Your Company's Reputation on Glassdoor](https://www.glassdoor.com/employers/blog/how-to-manage-your-companys-reputation-on-glassdoor/)
--   [Entrepreneur](https://www.entrepreneur.com/article/283832)
--   [Mention](https://mention.com/en/)
--   [Reputology](https://www.reputology.com/)
--   [Brand24](https://brand24.com/)
--   [Reputation.com](https://reputation.com/)
+<details>
+<summary><b>Sources</b></summary>
+<br>
+<ul>
+<li><a href="https://www.forbes.com/sites/forbesagencycouncil/2020/09/25/reputation-management-why-its-important-and-how-to-do-it/?sh=6f52a3fa1c52">Forbes: Reputation Management: Why It's Important and How to Do It</a></li>
+<li><a href="https://hbr.org/2001/01/the-value-of-corporate-reputation">Harvard Business Review: The Value of Corporate Reputation</a></li>
+<li><a href="https://www.glassdoor.com/employers/blog/how-to-manage-your-companys-reputation-on-glassdoor/">Glassdoor: How to Manage Your Company's Reputation on Glassdoor</a></li>
+<li><a href="https://www.entrepreneur.com/article/283832">Entrepreneur</a></li>
+<li><a href="Mention">https://mention.com/en/</a></li>
+<li><a href="https://www.reputology.com/">Reputology</a></li>
+<li><a href="https://brand24.com/">Brand24</a></li>
+<li><a href="https://reputation.com/">Reputation.com</a></li>
+</ul>
+</details>

@@ -2,7 +2,7 @@
 title: "Use Your Corporation's Social Media Presence to Boost Brand Perception and Customer Engagement"
 layout: post
 date: 2023-08-07
-update_date: 2023-09-05
+update_date: 2023-09-06
 author: jack_nicholaisen
 summary: "Are you looking to build a strong online presence for your company? Social media platforms are the perfect tools to help you engage with your audience, build brand awareness, and ultimately drive sales. In this article, we'll explore the impact of corporate social media presence on brand perception and customer engagement, and provide actionable tips and tricks to help you build an authentic and consistent brand image."
 permalink: /corporation/social-media/
@@ -162,22 +162,29 @@ By following these tips and staying up-to-date with the latest trends, you can s
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
-{% include author-box.html %}
+<details>
+<summary><b>Sources:</b> By referring back to these sources, you can keep up with the latest trends and best practices in social media marketing.</summary>
+<br>
+<ul>
+<li><a href="https://blog.hootsuite.com/social-media-for-business/">Hootsuite</a></li>
+<li><a href="https://www.hootsuite.com/products/insights">Hootsuite Insights</a></li>
+<li><a href="https://analytics.google.com/analytics/web/provision/#/provision">Google Analytics</a></li>
+<li><a href="https://sproutsocial.com/">Sprout Social</a></li>
+<li><a href="https://buffer.com/analyze">Buffer Analyze</a></li>
+<li><a href="https://www.brandwatch.com/">Brandwatch</a></li>
+<li><a href="https://www.socialmediatoday.com/">Social Media Today</a></li>
+<li><a href="https://buffer.com/resources/">Buffer Blog</a></li>
+<li><a href="https://blog.hootsuite.com/">Hootsuite Blog</a></li>
+<li><a href="https://sproutsocial.com/insights/">Sprout Social Insights</a></li>
+<li><a href="https://martech.org/welcome-to-marketing-land/">Marketing Land</a></li>
+<li><a href="https://www.socialmediaexaminer.com/">Social Media Examiner</a></li>
+<li><a href="https://blog.hubspot.com/">HubSpot Blog</a></li>
+</ul>
+</details>
 
-## Sources
 
-By referring back to these sources, you can keep up with the latest trends and best practices in social media marketing.
 
--   [Hootsuite](https://blog.hootsuite.com/social-media-for-business/)
--   [Hootsuite Insights](https://www.hootsuite.com/products/insights)
--   [Google Analytics](https://analytics.google.com/analytics/web/provision/#/provision)
--   [Sprout Social](https://sproutsocial.com/)
--   [Buffer Analyze](https://buffer.com/analyze)
--   [Brandwatch](https://www.brandwatch.com/)
--   [Social Media Today](https://www.socialmediatoday.com/)
--   [Buffer Blog](https://buffer.com/resources/)
--   [Hootsuite Blog](https://blog.hootsuite.com/)
--   [Sprout Social Insights](https://sproutsocial.com/insights/)
--   [Marketing Land](https://martech.org/welcome-to-marketing-land/)
--   [Social Media Examiner](https://www.socialmediaexaminer.com/)
--   [HubSpot Blog](https://blog.hubspot.com/)
+
+
+
+

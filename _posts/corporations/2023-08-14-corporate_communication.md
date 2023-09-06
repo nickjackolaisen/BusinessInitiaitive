@@ -2,7 +2,7 @@
 title: "39+ Communication Tools Your Business Needs to Embrace The Digital Transformation"
 layout: post
 date: 2023-08-14
-update_date: 2023-09-05
+update_date: 2023-09-06
 author: jack_nicholaisen
 summary: "Discover the future of corporate communication in the digital age, and learn how to leverage digital tools and platforms for more effective collaboration. This article offers insights on embracing social media, content marketing, and ensuring data privacy and security. Don't miss out on this opportunity to stay ahead of the curve and boost your business success– READ THIS to unlock the secrets of the future of corporate communication!"
 permalink: /corporation/communicaiton-tools/
@@ -174,7 +174,7 @@ To create engaging content for your audience, consider the following tips:
 
 -   **Use storytelling**: Share your brand's story and values, and connect with your audience on a personal level.
 
-<p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/corporation/storytelling/"> Become a MASTER Storyteller and build your brand!</a></p>
+<p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/corporation/storytelling/"  target="_blank"> Become a MASTER Storyteller and build your brand!</a></p>
 
 -   **Be consistent**: Establish a content calendar, and maintain a consistent posting schedule to keep your audience engaged.
 
@@ -234,31 +234,32 @@ Don't wait another minute...
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
-{% include author-box.html %}
-
-## Sources
-
-These links provide access to various digital marketing, social networking, and communication tools that can help businesses streamline their processes, boost productivity, and improve customer engagement. By leveraging these tools effectively, you can stay ahead of the competition in today's fast-paced digital world.
-
--   [Microsoft Teams](https://www.microsoft.com/en/microsoft-teams/group-chat-software)
--   [Cisco](https://www.cisco.com/)
--   [IBM Collaboration Solutions for Teams](https://www.ibm.com/blogs/watson/2017/02/ibm-collaboration-solutions-teams/)
--   [Elon Musk's Twitter and Tesla Stock](https://www.businessinsider.com/elon-musks-twitter-tesla-stock-2020-5)
--   [Asana](https://asana.com/)
--   [Trello](https://trello.com/en)
--   [Basecamp](https://trello.com/en)
--   [Grammarly](http://grammarly.com/)
--   [Hemingway Editor](http://grammarly.com/)
--   [BuzzSumo](http://buzzsumo.com/)
--   [Adobe Creative Suite](http://adobe.com/creativecloud.html)
--   [Sketch](http://sketch.com/)
--   [Figma](https://www.figma.com/)
--   [Shopify](https://www.shopify.com/)
--   [WooCommerce](https://woocommerce.com/)
--   [BigCommerce](https://www.bigcommerce.co.uk/)
--   [Google Data Studio](http://datastudio.google.com)
--   [Hotjar](http://hotjar.com/)
--   [Mixpanel](http://mixpanel.com/)
--   [Zendesk](http://zendesk.com/)
--   [Freshdesk](https://freshdesk.com/)
--   [Intercom](https://www.intercom.com/)
+<details>
+<summary><b>Sources:</b> These links provide access to various digital marketing, social networking, and communication tools that can help businesses streamline their processes, boost productivity, and improve customer engagement. By leveraging these tools effectively, you can stay ahead of the competition in today's fast-paced digital world.
+</summary>
+<br>
+<ul>
+<li><a href="https://www.microsoft.com/en/microsoft-teams/group-chat-software">Microsoft Teams</a></li>
+<li><a href="https://www.cisco.com/">Cisco</a></li>
+<li><a href="https://www.ibm.com/blogs/watson/2017/02/ibm-collaboration-solutions-teams/">IBM Collaboration Solutions for Teams</a></li>
+<li><a href="https://www.businessinsider.com/elon-musks-twitter-tesla-stock-2020-5">Elon Musk's Twitter and Tesla Stock</a></li>
+<li><a href="https://asana.com/">Asana</a></li>
+<li><a href="https://trello.com/en">Trello</a></li>
+<li><a href="https://basecamp.com/">Basecamp</a></li>
+<li><a href="http://grammarly.com/">Grammarly</a></li>
+<li><a href="http://grammarly.com/">Hemingway Editor</a></li>
+<li><a href="http://buzzsumo.com/">BuzzSumo</a></li>
+<li><a href="http://adobe.com/creativecloud.html">Adobe Creative Suite</a></li>
+<li><a href="http://sketch.com/">Sketch</a></li>
+<li><a href="https://www.figma.com/">Figma</a></li>
+<li><a href="https://www.shopify.com/">Shopify</a></li>
+<li><a href="https://woocommerce.com/">WooCommerce</a></li>
+<li><a href="https://www.bigcommerce.co.uk/">BigCommerce</a></li>
+<li><a href="http://datastudio.google.com">Google Data Studio</a></li>
+<li><a href="http://hotjar.com/">Hotjar</a></li>
+<li><a href="http://mixpanel.com/">Mixpanel</a></li>
+<li><a href="http://zendesk.com/">Zendesk</a></li>
+<li><a href="https://freshdesk.com/">Freshdesk</a></li>
+<li><a href="https://www.intercom.com/">Intercom</a></li>
+</ul>
+</details>

@@ -2,7 +2,7 @@
 title: "Corporate Ethics and Compliance - Building Trust and Avoiding Legal Pitfalls"
 layout: post
 date: 2023-08-14
-update_date: 2023-08-29
+update_date: 2023-09-06
 author: jack_nicholaisen
 summary: "Discover the secret to building trust with stakeholders and steering clear of legal troubles with our in-depth guide on corporate ethics and compliance. Learn from real-life examples and gain practical tips to create a strong ethical culture in your business. Ignite your journey towards success now—read on!"
 permalink: /corporation/ethics-and-compliance/
@@ -132,16 +132,16 @@ Let us help you build a strong ethical foundation for your business today.
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
-## Sources
-
--   [Creating a code of conduct](https://www.ethicalsystems.org/content/creating-code-conduct-0)
--   [The benefits of strong corporate ethics](https://hbswk.hbs.edu/item/the-benefits-of-a-strong-corporate-ethics-program)
--   [Ethics and compliance training](https://www.complianceweek.com/thought-leadership/6-keys-to-creating-an-effective-ethics-and-compliance-training-program/28914.article)
--   [Ethics & Compliance Initiative](https://www.ethics.org/ethics-compliance-initiative-releases-new-study-on-the-state-of-ethics-and-compliance-in-the-workplace/)
--   [Salesforce](https://www.salesforce.com/company/ethics-and-values/)
--   [Microsoft](https://www.ethisphere.com/worlds-most-ethical-companies/)
--   [Patagonia](https://www.patagonia.com/our-mission.html)
-
-<br> DISCLAIMER:
-
-“Business Initiative” is for general educational purposes only. “Business Initiative” does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making binding decisions regarding starting, operating, and growing your business. Use external resources independently of “Business Initiative.” It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.
+<details>
+<summary><b>Sources</b></summary>
+<br>
+<ul>
+<li><a href="https://www.ethicalsystems.org/content/creating-code-conduct-0">Creating a code of conduct</a></li>
+<li><a href="https://hbswk.hbs.edu/item/the-benefits-of-a-strong-corporate-ethics-program">The benefits of strong corporate ethics</a></li>
+<li><a href="https://www.complianceweek.com/thought-leadership/6-keys-to-creating-an-effective-ethics-and-compliance-training-program/28914.article">Ethics and compliance training</a></li>
+<li><a href="https://www.ethics.org/ethics-compliance-initiative-releases-new-study-on-the-state-of-ethics-and-compliance-in-the-workplace/">Ethics & Compliance Initiative</a></li>
+<li><a href="https://www.salesforce.com/company/ethics-and-values/">Salesforce</a></li>
+<li><a href="https://www.ethisphere.com/worlds-most-ethical-companies/">Microsoft</a></li>
+<li><a href="https://www.patagonia.com/our-mission.html">Patagonia</a></li>
+</ul>
+</details>

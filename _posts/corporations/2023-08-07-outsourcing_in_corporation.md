@@ -2,7 +2,7 @@
 title: "Outsourcing Strategies - Maximize Your Corporation's Efficiency and Cost Savings"
 layout: post
 date: 2023-08-07
-update_date: 2023-09-05
+update_date: 2023-09-06
 author: jack_nicholaisen
 summary: "Maximize efficiency & cost savings with outsourcing. Delegate tasks to third parties, focus on core competencies & growth. Learn tips & examples HERE!"
 permalink: /corporation/outsourcing-strategy/
@@ -46,7 +46,7 @@ Another risk is the potential for **data breaches or security lapses**. When out
 
 One more potential downside to outsourcing is **communication barriers**. When working with a third-party provider, there may be language or cultural differences that can create misunderstandings and hinder effective communication. This can result in delays, errors, and decreased efficiency.
 
-<p><b>➤ Take Initiative: </b> <a href="https://www.businessinitiative.org/corporation/communicaiton-tools/"> Boost your business's communication ability with are 31+ tools</a></p>
+<p><b>➤ Take Initiative: </b> <a href="https://www.businessinitiative.org/corporation/communicaiton-tools/"  target="_blank"> Boost your business's communication ability with are 31+ tools</a></p>
 
 
 Additionally, outsourcing can lead to **loss of institutional knowledge**. When tasks are outsourced to external providers, the in-house team may lose valuable knowledge and expertise about those functions. If the business decides to bring those tasks back in-house in the future, they may need to invest resources into relearning processes or hiring new staff with the necessary skills.
@@ -104,11 +104,13 @@ Debating whether or not your corporation may be fit for outsourcing some of your
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
-{% include author-box.html %}
-
-## Sources
-
--   [Forbes: The Pros and Cons of Outsourcing](https://www.forbes.com/sites/allbusiness/2018/07/11/the-pros-and-cons-of-outsourcing/?sh=5c8f3e5e5609)
--   [Entrepreneur: The Benefits of Outsourcing for Small Businesses](https://www.entrepreneur.com/article/290881)
--   [Harvard Business Review: Global Business Speaks English](https://hbr.org/2012/05/global-business-speaks-english)
--   [Deloitte: Outsourcing Survey Report](https://www2.deloitte.com/content/dam/Deloitte/global/Documents/Operations/deloitte-global-outsourcing-survey-2016.pdf)
+<details>
+<summary><b>Sources</b></summary>
+<br>
+<ul>
+<li><a href="https://www.forbes.com/sites/allbusiness/2018/07/11/the-pros-and-cons-of-outsourcing/?sh=5c8f3e5e5609">Forbes: The Pros and Cons of Outsourcing</a></li>
+<li><a href="https://www.entrepreneur.com/article/290881">Entrepreneur: The Benefits of Outsourcing for Small Businesses</a></li>
+<li><a href="https://hbr.org/2012/05/global-business-speaks-english">Harvard Business Review: Global Business Speaks English</a></li>
+<li><a href="https://www2.deloitte.com/content/dam/Deloitte/global/Documents/Operations/deloitte-global-outsourcing-survey-2016.pdf">Deloitte: Outsourcing Survey Report</a></li>
+</ul>
+</details>

@@ -2,7 +2,7 @@
 title: "Corporate Crisis Management - Preparing for and Responding to Unforeseen Challenges"
 layout: post
 date: 2023-08-14
-update_date: 2023-09-05
+update_date: 2023-09-06
 author: jack_nicholaisen
 summary: "Learn to shield your business from challenges with our crisis management guide. Get tips for identifying risks, planning, and ensuring resilience. ACT NOW!"
 permalink: /corporation/crisis-management/
@@ -113,7 +113,7 @@ Once the immediate crisis is resolved, it's crucial to conduct a post-crisis rev
 
 By learning from each crisis, your organization can continue to improve its crisis management capabilities.
 
-<p><b>➤ Take Initiative: </b> <a href="https://www.businessinitiative.org/corporation/reputation-management/"> Protect your company's image in the event of a crisis with THIS guide</a></p>
+<p><b>➤ Take Initiative: </b> <a href="https://www.businessinitiative.org/corporation/reputation-management/"  target="_blank"> Protect your company's image in the event of a crisis with THIS guide</a></p>
 
 ## Building Resilience Through Crisis Management
 
@@ -157,8 +157,12 @@ Don't leave your business vulnerable...
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
-{% include author-box.html %}
+<details>
+<summary><b>Sources</b></summary>
+<br>
+<ul>
+<li><a href="https://www.theguardian.com/business/2010/jun/02/bp-chief-executive-tony-hayward-gulf-oil-spill">The Guardian: BP boss admits job on line over Gulf oil spill</a></li>
+</ul>
+</details>
 
-## Sources
 
--  [The Guardian: BP boss admits job on line over Gulf oil spill](https://www.theguardian.com/business/2010/jun/02/bp-chief-executive-tony-hayward-gulf-oil-spill)
