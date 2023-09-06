@@ -48,6 +48,7 @@ You can find your state’s LLC requirements on your Secretary of State’s (SoS
 
 You need to write out an Articles of Organization for your LLC and submit it to the Secretary of State where your LLC is operating. 
 <a id="registered-agent">
+
 To figure out who this is and their office address, simply go to your state's official government website. 
 
 One part of your Articles of Organization involves coming up with a unique business name. A unique business name may extend to your county or to your state. It all depends on your state's laws and regulations surrounding business names and trademarks. 
@@ -56,6 +57,7 @@ To find out if the name you want is already taken, you can conduct a free busine
 
 We recommend using your Secretary of State’s website first and then double checking using other resources just to make sure you’ve got your bases covered. 
 <a id="operation-agreement">
+
 In most states, you can submit your Articles of Organization online. If you’re unable to do it online you can submit copies of your documents by mail. Just make sure you send the copy and not the original. 
 
 ## Registered Agent ##
@@ -89,6 +91,7 @@ The Operation Agreement includes (but is not limited to):
 *   What happens if a member leaves, 
 *   How to resolve disagreements between members, 
 <a id="ein-employer-identification-number">
+
 *   How assets are divided if your LLC dissolves, 
 *   A statement acknowledging that your OA meets your states requirements and laws, 
 *   A statement acknowledging that your LLC is officially registered once all the required documents have been submitted to the state (plus dates when they were accepted),
@@ -107,12 +110,14 @@ Think of an EIN as an ID number for your business. EIN stands for Employer Ident
 
 The name implies your business has employees, however, you need one regardless of whether or not your LLC has employees. Your EIN allows you to complete the registration process, pay taxes, and get special certifications and licenses for your business.
 <a id="business-bank-account">
+
 Obtaining an EIN is very easy and inexpensive. You can do it online, by mail, phone, or even fax (though we’re not quite sure why that’s even an option these days). 
 
 You can submit an EIN application for free on the IRS website. [Apply for your EIN Here Now!](https://www.irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online)  
 
 Once you’ve been approved by the state, **you get your EIN**. 
 <a id="industry-specific-licenses">
+
 In a few states, you need some additional information to fill out the EIN form. [HERE](https://www.irs.gov/businesses/small-businesses-self-employed/state-government-websites) are links to every state’s government website. Just a fair warning though, these are government websites after all. Some of the links listed are old or broken. 
 
 You can anyways use [Google](https://www.google.com/) (or [DuckDuckGo](https://duckduckgo.com/)) to find your state’s current website. 
@@ -129,6 +134,7 @@ You’ve got to be verified to begin selling the quality products and services y
 
 You need the right permits, licenses, certifications, etc. to conduct business in your field. 
 <a id="employee-regulations">
+
 What you need depends on what you’re selling, what your local and state laws are, as well as any government regulation in your industry. For this reason, double-check with your secretary of state, city, and county commerce offices and get the necessary paperwork in order. 
 
 Here are two huge reasons to be legally recognized in your industry. 
@@ -139,6 +145,7 @@ The second: You will be fined, imprisoned, and/or lose your business by breaking
 
 It’s simple. 
 <a id="maintenance">
+
 Take classes. Get trained. Gain experience. Follow (and surpass) your industry guidelines.
 
 ## Employee Regulations ##

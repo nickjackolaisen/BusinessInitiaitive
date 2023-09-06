@@ -126,6 +126,7 @@ Embracing blockchain technology can provide businesses with a competitive edge, 
 
 Blockchain technology is built upon three fundamental components that work together to create a secure, decentralized, and efficient system. 
 <a id="distributed-ledger">
+
 These core components are:
 -   Distributed Ledger, 
 -   Cryptography, 
@@ -484,6 +485,7 @@ Maersk, the world's largest shipping company, has partnered with IBM to create a
 
 The platform aims to streamline the global shipping industry by digitizing and automating documentation processes, enhancing transparency, and promoting collaboration among supply chain participants. 
 <a id="embracing-the-future-of-business">
+
 <center>
 <img alt="blockchain shipping" src="/images/content/maersk-shipping.png" style="width: 63%; height: 63%">
 </center>
