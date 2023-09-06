@@ -153,25 +153,28 @@ or
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
-{% include author-box.html %}
-
-## Sources
-
--   [United States Patent and Trademark Office](https://www.uspto.gov/)
--   [Harvard Business Review](https://hbr.org/)
--   [Forbes](https://www.forbes.com/)
--   [USPTO Patent Search](https://www.uspto.gov/patents-application-process/search-patents)
--   [USPTO Trademark Search](https://www.uspto.gov/trademarks-application-process/search-trademark-database)
--   [Copyright Office Records Search](https://cocatalog.loc.gov/cgi-bin/Pwebrecon.cgi?DB=local\&PAGE=First)
--   [IP Valuation Calculator](https://www.ipwatchdog.com/patent-valuation-calculator/)
--   [Patent Value Estimator](https://www.patentvaluepredictor.com/)
--   [Trademark Valuation Calculator](https://www.intangibleassetfinance.com/trademark-valuation-calculator/)
--   [IP Policy Generator](https://www.ipwatchdog.com/ip-policies/)
--   [IP Protection Checklist](https://www.wipo.int/sme/en/documents/ip_checklist.html)
--   [Employee IP Training Resources](https://www.uspto.gov/learning-and-resources/ip-policy/training-resources)
--   [Google Alerts](https://www.google.com/alerts)
--   [IP Watchdog Patent Search](https://www.ipwatchdog.com/patent-search/)
--   [Trademark Monitoring Services](https://www.thomsondawson.com/trademark-monitoring)
--   [Cease-and-Desist Letter Template](https://www.rocketlawyer.com/form/cease-and-desist-letter.rl)
--   [IP Litigation Guide](https://www.uspto.gov/sites/default/files/documents/IPLitigationGuide.pdf)
--   [IP Litigation Attorneys Directory](https://www.aipla.org/resources2/directories/ip-litigation-attorneys-directory)
+<details>
+<summary><b>Sources</b></summary>
+<br>
+<ul>
+<li><a href="https://www.uspto.gov/">United States Patent and Trademark Office</a></li>
+<li><a href="https://hbr.org/">Harvard Business Review</a></li>
+<li><a href="https://www.forbes.com/">Forbes</a></li>
+<li><a href="https://www.uspto.gov/patents-application-process/search-patents">USPTO Patent Search</a></li>
+<li><a href="https://www.uspto.gov/trademarks-application-process/search-trademark-database">USPTO Trademark Search</a></li>
+<li><a href="https://cocatalog.loc.gov/cgi-bin/Pwebrecon.cgi?DB=local\&PAGE=First">Copyright Office Records Search</a></li>
+<li><a href="https://www.ipwatchdog.com/patent-valuation-calculator/">IP Valuation Calculator</a></li>
+<li><a href="https://www.patentvaluepredictor.com/">Patent Value Estimator</a></li>
+<li><a href="https://www.intangibleassetfinance.com/trademark-valuation-calculator/">Trademark Valuation Calculator</a></li>
+<li><a href="https://www.ipwatchdog.com/ip-policies/">IP Policy Generator</a></li>
+<li><a href="https://www.wipo.int/sme/en/documents/ip_checklist.html">IP Protection Checklist</a></li>
+<li><a href="https://www.uspto.gov/learning-and-resources/ip-policy/
+training-resources">Employee IP Training Resources</a></li>
+<li><a href="https://www.google.com/alerts">Google Alerts</a></li>
+<li><a href="https://www.ipwatchdog.com/patent-search/">IP Watchdog Patent Search</a></li>
+<li><a href="https://www.thomsondawson.com/trademark-monitoring">Trademark Monitoring Services</a></li>
+<li><a href="https://www.rocketlawyer.com/form/cease-and-desist-letter.rl">Cease-and-Desist Letter Template</a></li>
+<li><a href="https://www.uspto.gov/sites/default/files/documents/IPLitigationGuide.pdf">IP Litigation Guide</a></li>
+<li><a href="https://www.aipla.org/resources2/directories/ip-litigation-attorneys-directory">IP Litigation Attorneys Directory</a></li>
+</ul>
+</details>

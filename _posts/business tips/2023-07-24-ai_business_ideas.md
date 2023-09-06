@@ -1406,8 +1406,6 @@ Now is the perfect time to take action and explore the possibilities that AI has
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
-{% include author-box.html %}
-
 <details>
 <summary><b>Sources</b></summary>
 <br>

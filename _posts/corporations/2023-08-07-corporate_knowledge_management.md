@@ -2,7 +2,7 @@
 title: "Knowledge Management | Channeling the Power of Organizational Knowledge in Your Corporation"
 layout: post
 date: 2023-08-07
-update_date: 2023-09-05
+update_date: 2023-09-06
 author: jack_nicholaisen
 summary: "Are you struggling with capturing, sharing, and leveraging your organization's knowledge? If so, you're not alone. Many companies struggle to effectively manage their knowledge, which can lead to inefficiencies, missed opportunities, and even failure."
 permalink: /corporation/knowledge-management/
@@ -104,11 +104,13 @@ So, take the time to invest in knowledge management for your organization's long
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
-{% include author-box.html %}
-
-## Sources
-
--   [Harvard Business Review: The Strategic Value of Knowledge Management](https://hbr.org/2016/04/the-strategic-value-of-knowledge-management)
--   [Forbes: The Benefits of Effective Knowledge Management](https://www.forbes.com/sites/forbestechcouncil/2020/02/04/the-benefits-of-effective-knowledge-management/?sh=7babc7d96f3c)
--   [McKinsey & Company: The Value of Knowledge Management](https://www.mckinsey.com/business-functions/organization/our-insights/the-value-of-knowledge-management#)
--   [Knowledge Management Online: Knowledge Management Systems](https://www.knowledge-management-online.com/knowledge-management-systems/)
+<details>
+<summary><b>Sources</b></summary>
+<br>
+<ul>
+<li><a href="https://hbr.org/2016/04/the-strategic-value-of-knowledge-management">Harvard Business Review: The Strategic Value of Knowledge Management</a></li>
+<li><a href="https://www.forbes.com/sites/forbestechcouncil/2020/02/04/the-benefits-of-effective-knowledge-management/?sh=7babc7d96f3c">Forbes: The Benefits of Effective Knowledge Management</a></li>
+<li><a href="https://www.mckinsey.com/business-functions/organization/our-insights/the-value-of-knowledge-management#">McKinsey & Company: The Value of Knowledge Management</a></li>
+<li><a href="https://www.knowledge-management-online.com/knowledge-management-systems/">Knowledge Management Online: Knowledge Management Systems</a></li>
+</ul>
+</details>

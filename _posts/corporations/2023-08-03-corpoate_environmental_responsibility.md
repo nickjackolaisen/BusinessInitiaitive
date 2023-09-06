@@ -168,8 +168,3 @@ Join us in this journey towards a more sustainable future!
 <li><a href="https://www.un.org/sustainabledevelopment/sustainable-development-goals/">United Nations</a></li>
 </ul>
 </details>
-
-
-
-
-

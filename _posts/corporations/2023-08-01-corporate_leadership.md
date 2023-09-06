@@ -237,8 +237,6 @@ Don't miss out on this valuable opportunity to enhance your leadership skills an
 
 Act now by applying the insights and tips shared in this article!
 
-{% include author-box.html %}
-
 <details>
 <summary><b>Sources</b></summary>
 <br>
@@ -249,7 +247,3 @@ Act now by applying the insights and tips shared in this article!
 <li><a href="https://www.businessinsider.com/leadership-styles-around-the-world-2015-6">Business Insider: 7 Leadership Styles Showcased by World Leaders</a></li>
 </ul>
 </details>
-
-
-
-

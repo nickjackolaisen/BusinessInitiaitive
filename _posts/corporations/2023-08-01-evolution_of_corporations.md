@@ -188,8 +188,6 @@ Don't miss the opportunity to learn from the past and shape your business for su
 
 Equip yourself with the knowledge and tools necessary to choose the right corporate structure for your unique venture and set your business on the path to success!
 
-{% include author-box.html %}
-
 <details>
 <summary><b>Sources</b></summary>
 <br>

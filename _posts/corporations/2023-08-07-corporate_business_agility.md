@@ -147,8 +147,6 @@ Let's set up a time to discuss your situation and how it can be optimized...
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
-{% include author-box.html %}
-
 <details>
 <summary><b>Sources</b></summary>
 <br>
@@ -164,4 +162,4 @@ Let's set up a time to discuss your situation and how it can be optimized...
 </ul>
 </details>
 
-Share this article with your colleagues and start building a more adaptive and resilient organization today!
+<b>Share this article</b> with your colleagues and start building a more adaptive and resilient organization today!

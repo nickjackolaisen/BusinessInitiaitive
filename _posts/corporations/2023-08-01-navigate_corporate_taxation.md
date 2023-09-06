@@ -259,9 +259,6 @@ Implement these strategies and unlock your company's full potential...
 
 START TODAY by seeking professional tax advice and begin navigating the world of corporate taxation with confidence!
 
-{% include author-box.html %}
-
-
 <details>
 <summary><b>Sources</b></summary>
 <br>
@@ -272,7 +269,4 @@ START TODAY by seeking professional tax advice and begin navigating the world of
 <li><a href="https://www.taxpolicycenter.org/briefing-book/how-does-us-corporate-income-tax-rate-compare-other-countries">Tax Policy Center - International Corporate Taxation</a></li>
 </ul>
 </details>
-
-
-
 

@@ -167,5 +167,3 @@ As the saying goes: “**If it’s measurable, it’s manageable”**
 Want to learn how to measure the vital aspects of your business?
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
-
-{% include author-box.html %}

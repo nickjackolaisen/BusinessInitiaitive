@@ -172,8 +172,6 @@ By attending events, leveraging online networking platforms, and building and ma
 
 So, get out there and start networking!
 
-{% include author-box.html %}
-
 <details>
 <summary><b>Sources</b></summary>
 <br>

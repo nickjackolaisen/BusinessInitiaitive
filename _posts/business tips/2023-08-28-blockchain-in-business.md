@@ -517,8 +517,6 @@ Stay up-to-date with the latest developments in the blockchain industry by subsc
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
-{% include author-box.html %}
-
 <details>
 <summary><b>Sources</b></summary>
 <br>
@@ -553,4 +551,3 @@ Stay up-to-date with the latest developments in the blockchain industry by subsc
 
 </ul>
 </details>
-

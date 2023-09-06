@@ -239,4 +239,3 @@ Stay ahead of the curve by subscribing to our newsletter, where we share the lat
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
-{% include author-box.html %}

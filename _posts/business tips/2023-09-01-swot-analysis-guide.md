@@ -22,7 +22,7 @@ So why wait?
 
 Unleash the power of SWOT Analysis and transform your business today!
 
-{% include takeaway-box.html bullet1="<b>Understand the purpose</b> SWOT analysis is a strategic planning tool that helps businesses make informed decisions by evaluating internal and external factors that may impact their success." bullet2="<b>Be honest and thorough</b> When conducting a SWOT analysis, it's crucial to be objective, honest, and critical in assessing your business' strengths, weaknesses, opportunities, and threats. This will lead to more accurate results and actionable insights." bullet3="<b>Prioritize and focus</b> Not all findings in your SWOT analysis carry equal weight. Analyze the results to identify which factors are most significant for your business' growth or improvement and prioritize them accordingly." bullet4="<b>Leverage strengths and address weaknesses</b> Use the insights from your SWOT analysis to capitalize on your business' strengths while working on addressing its weaknesses. This will help create a competitive advantage in the market." bullet5="<b>Monitor changes</b> The business environment is constantly changing; therefore, it's essential to conduct regular SWOT analyses to stay updated with new developments or challenges that may affect your organization's performance."%}
+{% include takeaway-box.html bullet1="<b>Understand the purpose:</b> SWOT analysis is a strategic planning tool that helps businesses make informed decisions by evaluating internal and external factors that may impact their success." bullet2="<b>Be honest and thorough:</b> When conducting a SWOT analysis, it's crucial to be objective, honest, and critical in assessing your business' strengths, weaknesses, opportunities, and threats. This will lead to more accurate results and actionable insights." bullet3="<b>Prioritize and focus:</b> Not all findings in your SWOT analysis carry equal weight. Analyze the results to identify which factors are most significant for your business' growth or improvement and prioritize them accordingly." bullet4="<b>Leverage strengths and address weaknesses:</b> Use the insights from your SWOT analysis to capitalize on your business' strengths while working on addressing its weaknesses. This will help create a competitive advantage in the market." bullet5="<b>Monitor changes:</b> The business environment is constantly changing; therefore, it's essential to conduct regular SWOT analyses to stay updated with new developments or challenges that may affect your organization's performance."%}
 
 ## Purpose and Benefits of Conducting a SWOT Analysis
 
@@ -261,8 +261,6 @@ Reach out <a href="https://twitter.com/intent/tweet?screen_name=BisInitiative&re
 Plus, sign up for our email newsletter to stay informed about the latest industry insights and valuable resources.
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
-
-{% include author-box.html %}
 
 <b>Additional Resources</b>
 <p>We also encourage you to explore these extra tools for further reading and research on SWOT analysis:</p>

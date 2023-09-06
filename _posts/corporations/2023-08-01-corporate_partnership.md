@@ -97,8 +97,6 @@ In conclusion, forming strategic partnerships can be a powerful tool for driving
 If you are an entrepreneur looking for ways to drive business growth, consider forming strategic partnerships with other businesses.
 
 By following the tips and advice outlined in this article, you can identify potential partners, form and structure partnerships, and manage partnership relationships for long-term success.
-
-{% include author-box.html %}
  
 <details>
 <summary><b>Sources</b></summary>
@@ -109,5 +107,3 @@ By following the tips and advice outlined in this article, you can identify pote
 <li><a href="https://hbr.org/2022/07/what-makes-innovation-partnerships-succeed">Harvard Business Review</a></li>
 </ul>
 </details>
-
-

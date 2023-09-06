@@ -57,11 +57,11 @@ layout: default
   {{ content }}
 </article>
 
-{% include author-box.html %}
-
 {% if site.show_sharing_icons %}
   {% include share_buttons.html %}
 {% endif %}
+
+{% include author-box.html %}
 
 {% if site.show_post_footers %}
   {% include post_footer.html %}
