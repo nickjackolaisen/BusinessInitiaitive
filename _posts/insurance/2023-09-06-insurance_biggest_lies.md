@@ -259,6 +259,7 @@ Stay informed and up-to-date on the latest in business by subscribing to our mon
 You'll receive expert insights, tips, and valuable resources straight to your inbox.
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
+<br>
 
 For real-time updates and industry highlights, follow us on X (Twitter)<a href="https://twitter.com/intent/tweet?screen_name=BisInitiative&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-size="large" data-show-count="false">Tweet to @BisInitiative</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>. 
 
