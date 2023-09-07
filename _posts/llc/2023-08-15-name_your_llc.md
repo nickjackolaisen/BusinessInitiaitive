@@ -34,7 +34,6 @@ Keep reading to learn more...
 
 5.  <a href="#changing-your-llcs-name-steps-and-procedures">Changing Your LLC's Name: Steps and Procedures</a>
 
-
 ## Naming Rules and Regulations
 
 Before you start brainstorming names for your LLC, it's essential to understand the rules and regulations governing LLC names. 
