@@ -1,0 +1,42 @@
+<div class="table-of-contents">
+    <h3 style="margin-left: 17px;"><img style="width: 35px;margin-right: 12px;" src="/images/icons/table-of-contents-icon.png" alt="table of contents">Table of Contents</h3>
+    <ol type="1">
+      <li>{{ include.bullet1 }}</li>
+      <li>{{ include.bullet2 }}</li>
+      <li>{{ include.bullet3 }}</li>
+      {% if bullet4 %}
+      <li>{{ include.bullet4 }}</li>
+      {% endif %}
+      {% if bullet5 %}
+      <li>{{ include.bullet5 }}</li>
+      {% endif %}
+      {% if bullet6 %}
+      <li>{{ include.bullet6 }}</li>
+      {% endif %}
+      {% if bullet7 %}
+      <li>{{ include.bullet7 }}</li>
+      {% endif %}
+      {% if bullet8 %}
+      <li>{{ include.bullet8 }}</li>
+      {% endif %}
+    </ol>
+  </div>
+
+<style>
+
+.takeaway-box {
+    margin-bottom: 45px;
+    padding: .5rem 1rem 1rem;
+    border: 5px solid #799b5b;
+    box-shadow: .5rem .5rem 0 #00273f;
+    margin-top: 30px;
+}
+  
+.takeaway-box li {
+    margin-bottom: 12px;
+}
+  
+.takeaway-box ul {
+    line-height: 1.8em;
+}
+</style>  

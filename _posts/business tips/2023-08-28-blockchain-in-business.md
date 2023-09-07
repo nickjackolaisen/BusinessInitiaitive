@@ -2,7 +2,7 @@
 title: "Blockchain Technology in Business - Prepare Your Business for the Future"
 layout: post
 date: 2023-08-28
-update_date: 2023-09-05
+update_date: 2023-09-07
 author: jack_nicholaisen
 summary: "Discover how blockchain technology is revolutionizing the business world in our latest article. Learn about its applications, benefits, and potential impact on various industries. Don't miss out on this opportunity to stay ahead of the curve by understanding the transformative power of blockchain technology." 
 image: /images/posts-headers/blockchain-in-business-header.png
@@ -21,15 +21,7 @@ Throughout this article, you'll discover how blockchain offers enhanced security
 
 We will also discuss real-world examples of companies leveraging the power of blockchain to streamline operations and create innovative solutions.
 
-## Table of Contents
-
-1.  <a href="#introduction-to-blockchain">Introduction to Blockchain</a> - Get acquainted with the concept of blockchain and understand its significance in today's world.
-2.  <a href="#how-blockchain-works">How Blockchain Works</a> - Learn the mechanics behind blockchain technology and how it ensures secure and transparent transactions.
-3.  <a href="#benefits-of-blockchain-in-business">Benefits of Blockchain in Business</a> - Discover the advantages of implementing blockchain in various business sectors and how it can revolutionize operations.
-4.  <a href="#challenges-and-limitations-of-blockchain">Challenges and Limitations of Blockchain</a> - Explore the potential obstacles and constraints of blockchain technology to make informed decisions.
-5.  <a href="#real-world-use-cases-and-industry-examples">Real-World Use Cases and Industry Examples</a> - Gain insights from real-life applications of blockchain across different industries and how they've benefited from it.
-6.  <a href="#preparing-your-business-for-blockchain-adoption">Preparing Your Business for Blockchain Adoption</a> - Learn the steps to prepare your business for a smooth transition to blockchain technology and maximize its potential.
-7.  <a href="#embracing-the-future-of-business">Embracing the Future of Business</a> - Understand the importance of adapting to blockchain technology and how it can shape the future of your business.
+{% include table-of-contents.html bullet1="<b><a href="#introduction-to-blockchain">Introduction to Blockchain</a></b> - Get acquainted with the concept of blockchain and understand its significance in today's world." bullet2="<b><a href="#how-blockchain-works">How Blockchain Works</a></b> - Learn the mechanics behind blockchain technology and how it ensures secure and transparent transactions." bullet3="<b><a href="#benefits-of-blockchain-in-business">Benefits of Blockchain in Business</a></b> - Discover the advantages of implementing blockchain in various business sectors and how it can revolutionize operations." bullet4="<b><a href="#challenges-and-limitations-of-blockchain">Challenges and Limitations of Blockchain</a></b> - Explore the potential obstacles and constraints of blockchain technology to make informed decisions." bullet5="<b><a href="#real-world-use-cases-and-industry-examples">Real-World Use Cases and Industry Examples</a></b> - Gain insights from real-life applications of blockchain across different industries and how they've benefited from it." bullet6="<b><a href="#preparing-your-business-for-blockchain-adoption">Preparing Your Business for Blockchain Adoption</a></b> - Learn the steps to prepare your business for a smooth transition to blockchain technology and maximize its potential." bullet7="<b><a href="#embracing-the-future-of-business">Embracing the Future of Business</a></b> - Understand the importance of adapting to blockchain technology and how it can shape the future of your business."%}
 
 By understanding these concepts and their practical implications, you'll be better equipped to harness the benefits of blockchain technology in your own business endeavors.
 

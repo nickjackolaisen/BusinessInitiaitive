@@ -13,11 +13,13 @@ As a company passionate about the world of business, we strive to provide valuab
 
 Our primary goal is to empower those who seek to create a positive impact in their communities and the world, by helping them turn their innovative ideas into successful ventures with.
 
-Business Initiative is the path of least resistance.
+**Business Initiative is the path of least resistance.**
 
 ## Our Purpose
 
-At Business Initiative, we recognize the challenges faced by entrepreneurs, especially when it comes to accessing the necessary resources, knowledge, and networks required to establish and scale their businesses. We believe that by providing the right tools and support, we can contribute to the creation of sustainable businesses that, in turn, foster economic growth and social progress.
+At Business Initiative, we recognize the challenges faced by entrepreneurs, especially when it comes to accessing the necessary resources, knowledge, and networks required to establish and scale their businesses. 
+
+We believe that by providing the right tools and support, we can contribute to the creation of sustainable businesses that, in turn, foster economic growth and social progress.
 
 ### Empowering Entrepreneurs
 
