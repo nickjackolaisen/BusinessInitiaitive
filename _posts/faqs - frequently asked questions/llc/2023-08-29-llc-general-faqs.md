@@ -21,7 +21,7 @@ So why wait?
 
 **Dive in now and unlock the full potential of your future LLC!**
 
-Use this list of categories:
+## Table of Contents 
 
 **1. <a href="#1">LLC Basics</a>**
 
