@@ -2,6 +2,7 @@
 layout: post
 title: "LLC Operating Agreements | Why You Need One and What to Include"
 date: 2023-08-09
+update_date: 2023-09-07
 author: jack_nicholaisen
 summary: "Discover the crucial elements of an LLC operating agreement and why it's a must-have for your business. Unlock the secrets to drafting an effective agreement and avoid common pitfalls. Don't miss out on this comprehensive guide – read on to secure your business's future success!"
 permalink: /llc/operating-agreement/purpose/
@@ -27,7 +28,7 @@ An LLC operating agreement serves several vital purposes:
 
 Consider the case of [Gatz Properties, LLC v. Auriga Capital Corp.](https://www.courtlistener.com/opinion/3129041/gatz-properties-llc-v-auriga-capital-corp/), where the absence of a well-drafted operating agreement led to a lengthy and costly legal battle. Had the parties involved created a comprehensive agreement, they could have avoided this dispute altogether.
 
-<p><b>➤ TAKE INITIATIVE: </b> <a href="https://www.businessinitiative.org/llc/operating-agreement/drafting/"> Maximize your Operating Agreement</a></p>
+<p><b>➤ TAKE INITIATIVE: </b> <a href="https://www.businessinitiative.org/llc/operating-agreement/drafting/" target="_blank"> Maximize your Operating Agreement</a></p>
 
 ## Management Structure
 
@@ -99,7 +100,7 @@ Disagreements among members are inevitable, but a well-written operating agreeme
 
 4.  **Consider the future**: Address potential scenarios, such as adding new members, the death or incapacity of a member, or the dissolution of the company.
 
-<p><b>➤ TAKE INITIATIVE: </b> <a href="https://www.businessinitiative.org/llc/operating-agreement/step-by-step-process/">Follow our step-by-step process to craft the optimal Operating Agreement</a></p>
+<p><b>➤ TAKE INITIATIVE: </b> <a href="https://www.businessinitiative.org/llc/operating-agreement/step-by-step-process/" target="_blank">Follow our step-by-step process to craft the optimal Operating Agreement</a></p>
 
 ## In Summary...
 
@@ -117,12 +118,21 @@ Ask any questions you might have directly [HERE](https://www.businessinitiative.
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
-<br> DISCLAIMER:
+<br>
 
-“Business Initiative” is for general educational purposes only. “Business Initiative” does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making binding decisions regarding starting, operating, and growing your business. Use external resources independently of “Business Initiative.” It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.
+<details>
+<summary><b>Sources</b></summary>
+<br>
 
-## Sources
+<ul>
+<li><a href="https://www.courtlistener.com/opinion/3129041/gatz-properties-llc-v-auriga-capital-corp/">Gatz Properties, LLC v. Auriga Capital Corp.</a></li>
 
--   [Gatz Properties, LLC v. Auriga Capital Corp.](https://www.courtlistener.com/opinion/3129041/gatz-properties-llc-v-auriga-capital-corp/)
--   [Fisk Ventures, LLC v. Segal](https://casetext.com/case/fisk-ventures-llc-v-segal)
--   [Directory of Business Lawyers - American Bar Association](https://www.americanbar.org/groups/business_law/resources/directory_of_business_lawyers/)
+<li><a href="https://casetext.com/case/fisk-ventures-llc-v-segal">Fisk Ventures, LLC v. Segal</a></li>
+
+<li><a href="https://www.americanbar.org/groups/business_law/resources/directory_of_business_lawyers/">Directory of Business Lawyers - American Bar Association</a></li>
+
+</ul>
+
+</details>
+
+

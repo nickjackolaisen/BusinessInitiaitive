@@ -2,6 +2,7 @@
 title: "The Ultimate Guide to Drafting a Solid LLC Operating Agreement: Expert Tips and Best Practices"
 layout: post
 date: 2023-08-07
+update_date: 2023-09-07
 author: jack_nicholaisen
 summary: "Do you want to ensure the success and stability of your new business? Discover the importance of a well-drafted LLC operating agreement and learn expert tips to create a comprehensive and effective document. Don't leave your business's future to chance – read it to unlock the secrets to drafting an LLC operating agreement that works for you."
 permalink: /llc/operating-agreement/drafting/
@@ -117,11 +118,18 @@ Take the time to draft a clear and enforceable operating agreement that works fo
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
-## Sources
+<details>
+<summary><b>Sources</b></summary>
+<br>
 
--   [Fisker Automotive's Epic Failure](https://www.forbes.com/sites/gregsatell/2013/05/27/a-look-inside-fisker-automotives-epic-failure/?sh=3d32fd1b7e30)
--   [How Zynga Went from Fastest Growing to Also-Ran](https://www.inc.com/eric-schurenberg/how-zynga-went-from-fastest-growing-to-also-ran.html)
+<ul>
+<li><a href="https://www.forbes.com/sites/gregsatell/2013/05/27/a-look-inside-fisker-automotives-epic-failure/?sh=3d32fd1b7e30">Fisker Automotive's Epic Failure</a></li>
 
-<br>DISCLAIMER:
+<li><a href="https://www.inc.com/eric-schurenberg/how-zynga-went-from-fastest-growing-to-also-ran.html">How Zynga Went from Fastest Growing to Also-Ran</a></li>
 
-“Business Initiative” is for general educational purposes only. “Business Initiative” does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making binding decisions regarding starting, operating, and growing your business. Use external resources independently of “Business Initiative.” It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.
+</ul>
+
+</details>
+
+
+

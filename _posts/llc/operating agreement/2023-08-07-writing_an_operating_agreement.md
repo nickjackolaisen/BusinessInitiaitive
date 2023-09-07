@@ -9,7 +9,9 @@ permalink: /llc/operating-agreement/step-by-step-process/
 
 ## How to Write an Operating Agreement for your Limited Liability Company
 
-An operating agreement is a legal document that outlines the ownership and operating procedures of a limited liability company (LLC). It is an essential document that every LLC should have. In this article, we will provide you with a step-by-step checklist on how to write an operating agreement for your LLC.
+An operating agreement is a legal document that outlines the ownership and operating procedures of a limited liability company (LLC). 
+
+It is an essential document that every LLC should have. In this article, we will provide you with a step-by-step checklist on how to write an operating agreement for your LLC.
 
 ### Step 1: Gather Information
 
