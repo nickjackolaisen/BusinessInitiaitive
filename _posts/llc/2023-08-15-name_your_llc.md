@@ -189,7 +189,7 @@ Check us out [@BisInitiative](https://twitter.com/BisInitiative)!
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
 <details>
-<summary><b>Sources</b</summary>
+<summary><b>Sources</b></summary>
 <br>
 <ul>
 <li><a href="https://www.bizfilings.com/toolkit/research-topics/incorporating-your-business/naming-an-llc-rules-and-requirements">Naming an LLC: Rules and Requirements</a></li>
