@@ -2,6 +2,7 @@
 layout: post
 title: The Multi Member LLC - Build Bigger and Better with a Team
 date: 2023-07-01
+update_date: 2023-09-07
 author: jack_nicholaisen
 summary: A deep dive into the different components and tax options of Multi-Member LLCs (including how to register your own MMLLC and pay yourself from it)
 permalink: /multi-member-llc/
@@ -48,10 +49,6 @@ If your answer is yes, stop reading.
 Business Initiative wants you to know your options and all that comes with them, for better or worse, so you can take the initiative and begin actualizing your vision.
 
 How else would you want to begin your journey to securing financial independence?
-
-<br>DISCLAIMER:
-
-"Business Initiative" is for general educational purposes only. "Business Initiative" does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making any binding decisions when it comes to starting, operating, and growing your business. External resources should be used independently of "Business Initiative". It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.
 
 ## LLC Owners (Members) ##
 
@@ -165,10 +162,6 @@ You definitely don’t want that.
 
 Just run an ethical, morally clean, legitimate, law-abiding company and you should be fine. You should only worry about losing your protection if you try cheating the system instead of using the system and its various loopholes for your benefit.
 
-<br>DISCLAIMER:
-
-"Business Initiative" is for general educational purposes only. "Business Initiative" does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making any binding decisions when it comes to starting, operating, and growing your business. External resources should be used independently of "Business Initiative". It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.
-
 ## Management ##
 
 A Multi Member LLC gives you the flexibility to arrange the management hierarchy to best suit your business’s needs. Since you’re sharing ownership with other members, you all have to decide together how you want the LLC managed. 
@@ -222,7 +215,7 @@ Here is what you need to get together and complete to register your LLC:
 *   Employee Regulations
 *   Maintenance
 
-<p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/multi-member-llc/registration/"> Click here to learn about each of these requirements</a></p>
+<p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/multi-member-llc/registration/" target="_blank"> Click here to learn about each of these requirements</a></p>
 
 When all of these are in order you will be the proud operator of **your very own LLC**. 
 
@@ -321,7 +314,7 @@ If real estate is your LLC’s main source of profits you have to submit a speci
 
 Getting paid from your MMLLC is as easy as transferring money from the business’s bank account to personal accounts. What follows is a basic breakdown of this process. 
 
-<p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/paying-yourself-llc/"> Here's a Step-by-Step Guide to Getting Paid</a></p>
+<p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/paying-yourself-llc/" target="_blank"> Here's a Step-by-Step Guide to Getting Paid</a></p>
 
 Your LLC is required to have its own business bank account in the first place. Your LLC’s bank account is necessary for your legal and financial protections to be effective. 
 
@@ -432,8 +425,3 @@ Good Luck!
 That being said… 
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
-
-
-<br>DISCLAIMER:
-
-"Business Initiative" is for general educational purposes only. "Business Initiative" does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making any binding decisions when it comes to starting, operating, and growing your business. External resources should be used independently of "Business Initiative". It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.

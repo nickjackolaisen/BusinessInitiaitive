@@ -131,6 +131,7 @@ Even though upgrading to a Corporate Tax Status means paying [Double Taxation](h
     style="width: 63%; height: 63%" />
 </center>
 </figure>
+
 Double Taxation incentivizes owners to recirculate Dividends within the company. By keeping this money in the business, you are not taxed a second time. Dividends left in the business’s account are still subject to Income Tax, even when nobody claims the money.
 
 ### C-Corp Requirements ##
@@ -176,8 +177,3 @@ Once you’re all set up with your C-Corp you’ll use an [1120 Form](https://ww
 <p><b>➤ MORE: </b> <a href="https://www.irs.gov/instructions/i1120"> Filing taxes as a C-Corporation.</a></p>
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
-
-<br>DISCLAIMER:
-
-“Business Initiative” is for general educational purposes only. “Business Initiative” does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making binding decisions regarding starting, operating, and growing your business. Use external resources independently of “Business Initiative.” It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.
-

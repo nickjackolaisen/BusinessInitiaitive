@@ -2,6 +2,7 @@
 title: "LLC Tax Policies in 2023: A State-by-State Guide to Corporate Tax"
 layout: post
 date: 2023-07-01
+update_date: 2023-09-07
 author: jack_nicholaisen
 summary: Although LLCs are normally exempt from Corporate Tax, there are currently TEN states where Limited Liability Companies are subject to Corporate Tax.
 permalink: /corporate-tax-on-llcs/
@@ -17,7 +18,9 @@ LLCs offer the simplicity of a Partnership and the tax benefits of a Corporation
 
 Below, we provide a comprehensive list of every state in the United States (including D.C.) and whether or not they automatically apply Corporate Tax (or similar taxes) on LLCs. 
 
-It's important to note that state tax laws can change from time to time. Therefore, it's always a good idea to check with the relevant office for the most updated information on their Corporate Tax laws. Links have conveniently been provided so you can find more information about LLCs and the various taxes your business may be subject to.
+It's important to note that state tax laws can change from time to time. Therefore, it's always a good idea to check with the relevant office for the most updated information on their Corporate Tax laws. 
+
+Links have conveniently been provided so you can find more information about LLCs and the various taxes your business may be subject to.
 
 ## States WITH Corporate Tax for LLCs
 
@@ -126,7 +129,3 @@ It's important to note that while these states do not have Corporate Tax for LLC
 **40. Wisconsin:** [Wisconsin Department of Revenue](hhttps://www.revenue.wi.gov/pages/home.aspx)
 
 **41. Wyoming:** [Wyoming Business Council](https://wyomingbusiness.org/)
-
-<br>DISCLAIMER:
-
-“Business Initiative” is for general educational purposes only. “Business Initiative” does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making binding decisions regarding starting, operating, and growing your business. Use external resources independently of “Business Initiative.” It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.
