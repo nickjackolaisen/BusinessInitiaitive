@@ -15,7 +15,7 @@ According to the 2020 US Census from 2020, there were **826,915 Sole Proprietors
 
 ## What percentage of businesses are Sole Proprietorships?
 
-Based on this, **10.34% of US Businesses are Sole Proprietorships.**
+Based on this, **10.34% of US businesses are Sole Proprietorships in the US.**
 
 **Source:** *Census Table-CB2000CBP     Dataset-CBP2020   Data Released-May 26, 2022*
 
@@ -193,22 +193,30 @@ Based on their wikipedia page, Cargill brought in a **net profit of $4.93 Billio
 Sole Proprietorships are limited to one owner who doubles as the main operator.
     
 ####  2. Business Assets are Personal Assets
-This type of business doesn’t separate between the business and it’s owner. This goes for everything in the business including all profits and liability.  Whatever the sole proprietor makes from the business is immediately catalogued as personal gains. If the business takes on any risk or liability in the form of debts, the responsibility falls completely on the owner to pay it back. The unfortunate reality is if the owner is unable to pay back loans from their business and it’s profits, the owner then has to pay out of pocket. This means [the bank can come after the owner’s personal assets and property](https://www.businessinitiative.org/sole-proprietorship-vs-llc/) in order to repay what is owed.		
+This type of business doesn’t separate between the business and it’s owner. This goes for everything in the business including all profits and liability.  Whatever the sole proprietor makes from the business is immediately catalogued as personal gains. 
+
+If the business takes on any risk or liability in the form of debts, the responsibility falls completely on the owner to pay it back. The unfortunate reality is if the owner is unable to pay back loans from their business and it’s profits, the owner then has to pay out of pocket. This means [the bank can come after the owner’s personal assets and property](https://www.businessinitiative.org/sole-proprietorship-vs-llc/) in order to repay what is owed.		
     
 ####  3. Total Control
-Since the owner is viewed as the business from a legal standpoint, they have full control over every aspect of the business. All decisions are made by the sole proprietor. However, this is a bit of a double edged sword. On the one hand the owner gets all the credit and praise when things are going well and business is booming. On the flip side, the owner is at fault should the business take any losses or make mistakes. 
+Since the owner is viewed as the business from a legal standpoint, they have full control over every aspect of the business. All decisions are made by the sole proprietor. However, this is a bit of a double edged sword. 
+
+On the one hand the owner gets all the credit and praise when things are going well and business is booming. On the flip side, the owner is at fault should the business take any losses or make mistakes. 
 
 <p><b>➤ Take Initiative: </b> <a href="https://www.businessinitiative.org/sole-proprietorship/examples/"> Start your very own Sole Proprietorship TODAY!</a></p>
     
 ####  4. Informal Business Structure
-As the simplest business entity, Sole Proprietorships are not registered with the state. All it takes to [start one](https://www.businessinitiative.org/sole-proprietorship/examples/) is to make money providing a service or product under your legal name. This gets you out of having to file paperwork with your local government and pay registration, filing fees, and annual maintenance costs. All of which have to be done when operating an LLC or Corporation. 
+As the simplest business entity, Sole Proprietorships are not registered with the state. All it takes to [start one](https://www.businessinitiative.org/sole-proprietorship/examples/) is to make money providing a service or product under your legal name. 
+
+This gets you out of having to file paperwork with your local government and pay registration, filing fees, and annual maintenance costs. All of which have to be done when operating an LLC or Corporation. 
 
 <center>
 <img alt="informal business structure" src="/images/content/woman-worker.png" style="width: 63%; height: 63%">
 </center>
     
 ####  5. Pass-Through Taxation
-The money sole proprietors make is “passed-through” to their personal account. This streamlines the entire taxation process. All the owner has to do is account for any profits or losses on their personal income tax return. The only additional piece of paperwork one has to complete is the [1040-SC Form](https://www.irs.gov/pub/irs-pdf/f1040sc.pdf). Just attach this to the [federal tax return](https://www.irs.gov/pub/irs-pdf/f1040.pdf) you are probably already familiar with and complete every year.  
+The money sole proprietors make is “passed-through” to their personal account. This streamlines the entire taxation process. All the owner has to do is account for any profits or losses on their personal income tax return. 
+
+The only additional piece of paperwork one has to complete is the [1040-SC Form](https://www.irs.gov/pub/irs-pdf/f1040sc.pdf). Just attach this to the [federal tax return](https://www.irs.gov/pub/irs-pdf/f1040.pdf) you are probably already familiar with and complete every year.  
 
 ## How long do small businesses last?
 
