@@ -2,7 +2,7 @@
 title: "How to Name Your LLC - Tips, Rules, Requirements, & Name Changes"
 layout: post
 date: 2023-08-15
-update_date: 2023-09-07
+update_date: 2023-09-08
 author: jack_nicholaisen
 summary: "Picking the perfect name for your LLC can be a daunting task, but with the right guidance, it doesn't have to be. Learn about naming rules, regulations, and branding strategies in our comprehensive guide. Dive in, and let's find a unique and legally compliant name that will set your business up for success!"
 image: /images/posts-headers/name-your-llc-header.png
