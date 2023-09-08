@@ -2,6 +2,7 @@
 title: "The Impact of Business Structure on Access to Capital"
 layout: post
 date: 2023-08-01
+update_date: 2023-09-08
 author: jack_nicholaisen
 summary: "Discover the impact of your business's structure on its ability to access capital, such as loans and investments, in this in-depth statistical review. Entrepreneurs and business owners can learn how their choice of structure may influence their funding options and gain valuable insights to guide their decisions. Don't miss out on this essential information – read on to ensure your business thrives!"
 permalink: /stats/business-structures/funding/
@@ -12,6 +13,8 @@ Access to capital is a critical aspect of any business's growth and expansion. W
 But did you know that the structure of your business can significantly impact your access to capital? 
 
 In this article, we'll delve into the relationship between business structure and access to capital, examining the factors that influence funding options and industry-specific trends. 
+
+{% include takeaway-box.html bullet1="<b>Business structure affects funding options:</b> The legal structure of your business (sole proprietorship, partnership, corporation) can determine the types and amounts of funding you can access." bullet2="<b>Corporations attract more investments:</b> Incorporating your business often makes it easier to attract investors and raise capital through selling shares." bullet3="<b>Partnerships can pool resources:</b> Forming a partnership allows you to combine financial resources and creditworthiness with other partners, increasing your chances of obtaining loans." bullet4="<b>Sole proprietorships face challenges:</b> As a sole proprietor, you may face limited funding options and higher interest rates due to personal liability for business debts." bullet5="<b>Research and plan ahead:</b> Understand the implications of each business structure on funding opportunities, and choose the one that best aligns with your long-term goals and growth strategy."%}
 
 Armed with this knowledge, you'll be better equipped to make informed decisions for your business's future.
 
