@@ -1,5 +1,5 @@
 ---
-title: "How to Name Your LLC - Tips, Rules, Requirements, Name Changes, and Best Practices for Success"
+title: "How to Name Your LLC - Tips, Rules, Requirements, & Name Changes"
 layout: post
 date: 2023-08-15
 update_date: 2023-09-07
