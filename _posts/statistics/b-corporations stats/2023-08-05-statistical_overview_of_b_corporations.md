@@ -2,7 +2,7 @@
 title: "The Numbers Behind B Corps - Growth, Social, Environmental, Financial Stats"
 layout: post
 date: 2023-08-05
-update_date: 2023-08-20
+update_date: 2023-09-08
 author: jack_nicholaisen
 summary: "Discover the growth and impact of B Corps, a hybrid between traditional corporations and non-profit organizations. This article explores growth trends, social and environmental impact, and success factors that make B Corps an exciting and viable business structure for entrepreneurs and business owners. Dive into the numbers and learn about the potential advantages of becoming a B Corp!"
 image: /images/posts-headers/b-corp-statistics-header.png
@@ -157,22 +157,29 @@ Together, we can redefine what it means to be a successful business in the 21st 
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
-## Sources:
+<details>
+<summary><b>Sources</b></summary>
+<br>
+<ul>
+<li><a href="https://bcorporation.net/directory">B Corporation Directory</a></li>
+<li><a href="https://b-analytics.net/bcorp-data">B Analytics: B Corp Data</a></li>
+<li><a href="https://www.bcorporation.eu/about-b-lab/country-partner/b-lab-europe">B Lab Europe</a></li>
+<li><a href="https://bcorporation.net/news/new-research-shows-b-corps-are-outperforming-their-peers">New Research Shows B Corps Are Outperforming Their Peers</a></li>
+<li><a href="https://bthechange.com/b-corps-commit-to-net-zero-climate-ambition-in-advance-of-cop26-9a8f9da5b8f6">B Corps Commit to Net Zero Climate Ambition in Advance of COP26</a></li>
+<li><a href="https://bcorporation.net/">B Corporation Website</a></li>
+<li><a href="https://bcorporation.net/news/new-research-shows-b-corps-are-outperforming-their-peers">New Research Shows B Corps Are Outperforming Their Peers</a></li>
+<li><a href="https://real-leaders.com/the-100-most-innovative-and-impactful-b-corps-in-2021/">The 100 Most Innovative and Impactful B Corps in 2021</a></li>
+<li><a href="https://bcorporation.net/">B Corporation Website</a></li>
+<li><a href="https://bcorporation.net/news/new-research-shows-b-corps-are-outperforming-their-peers">Bcorporation.net</a></li>
+<li><a href="https://www.sbs.ox.ac.uk/research/ideas-impact/publications/better-business-report">University of Oxford Said Business School</a></li>
+<li><a href="https://www.patagonia.com/homepage-mission-statement.html">Patagonia.com</a></li>
+<li><a href="https://bcorporation.net/news/b-corps-lead-the-way-in-measuring-and-reducing-carbon-footprints">B Corporation</a></li>
+<li><a href="https://www.haas.berkeley.edu/wp-content/uploads/Haas-School-Berkeley-Study-Shows-Certified-B-Corporations-Outperform-Traditional-Firms-in-Social-and-Environmental-Impact.pdf">Berkley</a></li>
+<li><a href="https://bcorporation.net/news/new-data-shows-b-corps-leading-the-way-on-gender-equity">B Corporation</a></li>
+<li><a href="https://www.warbyparker.com/buy-a-pair-give-a-pair">Warby Parker</a></li>
+<li><a href="https://real-leaders.com/the-100-most-innovative-and-impactful-b-corps-in-2021/">Real-leaders.com</a></li>
+</ul>
+</details>
 
--   [B Corporation Directory](https://bcorporation.net/directory)
--   [B Analytics: B Corp Data](https://b-analytics.net/bcorp-data)
--   [B Lab Europe](https://www.bcorporation.eu/about-b-lab/country-partner/b-lab-europe)
--   [New Research Shows B Corps Are Outperforming Their Peers](https://bcorporation.net/news/new-research-shows-b-corps-are-outperforming-their-peers)
--   [B Corps Commit to Net Zero Climate Ambition in Advance of COP26](https://bthechange.com/b-corps-commit-to-net-zero-climate-ambition-in-advance-of-cop26-9a8f9da5b8f6)
--   [B Corporation Website](https://bcorporation.net/)
--   [New Research Shows B Corps Are Outperforming Their Peers](https://bcorporation.net/news/new-research-shows-b-corps-are-outperforming-their-peers)
--   [The 100 Most Innovative and Impactful B Corps in 2021](https://real-leaders.com/the-100-most-innovative-and-impactful-b-corps-in-2021/)
--   [B Corporation Website](https://bcorporation.net/)
--   [Bcorporation.net](https://bcorporation.net/news/new-research-shows-b-corps-are-outperforming-their-peers)
--   [University of Oxford Said Business School](https://www.sbs.ox.ac.uk/research/ideas-impact/publications/better-business-report)
--   [Patagonia.com](https://www.patagonia.com/homepage-mission-statement.html)
--   [B Corporation](https://bcorporation.net/news/b-corps-lead-the-way-in-measuring-and-reducing-carbon-footprints)
--   [Berkley](https://www.haas.berkeley.edu/wp-content/uploads/Haas-School-Berkeley-Study-Shows-Certified-B-Corporations-Outperform-Traditional-Firms-in-Social-and-Environmental-Impact.pdf)
--   [B Corporation](https://bcorporation.net/news/new-data-shows-b-corps-leading-the-way-on-gender-equity)
--   [Warby Parker](https://www.warbyparker.com/buy-a-pair-give-a-pair)
--   [Real-leaders.com](https://real-leaders.com/the-100-most-innovative-and-impactful-b-corps-in-2021/)
+
+
