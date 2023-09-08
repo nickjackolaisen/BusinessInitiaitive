@@ -187,7 +187,7 @@ Based on their wikipedia page, Cargill brought in a **net profit of $4.93 Billio
 
 **Source:** [Statista](https://www.statista.com/statistics/274778/revenue-and-profit-of-cargill-agricultural-company/)
 
-## What are 5 characteristics of a Sole Proprietorship?
+## 5 Facts About Sole Proprietorships?
 
 ####  1. Single Owner Business
 Sole Proprietorships are limited to one owner who doubles as the main operator.
