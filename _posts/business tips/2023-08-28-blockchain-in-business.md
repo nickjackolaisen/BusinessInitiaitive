@@ -22,7 +22,7 @@ Throughout this article, you'll discover how blockchain offers enhanced security
 We will also discuss real-world examples of companies leveraging the power of blockchain to streamline operations and create innovative solutions.
 
 {% include table-of-contents-box.html 
-bullet1=<a href="#introduction-to-blockchain">Introduction to Blockchain</a>"<b>Introduction to Blockchain</b> - Get acquainted with the concept of blockchain and understand its significance in today's world." 
+bullet1="<b>Introduction to Blockchain Tech</b> - Get acquainted with the concept of blockchain and understand its significance in today's world." 
 bullet2="<b>How Blockchain Works</b> - Learn the mechanics behind blockchain technology and how it ensures secure and transparent transactions." 
 bullet3="<b>Benefits of Blockchain in Business</b> - Discover the advantages of implementing blockchain in various business sectors and how it can revolutionize operations." 
 bullet4="<b>Challenges and Limitations of Blockchain</b> - Explore the potential obstacles and constraints of blockchain technology to make informed decisions." 
