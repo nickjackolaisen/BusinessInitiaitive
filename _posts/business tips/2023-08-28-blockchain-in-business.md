@@ -2,7 +2,7 @@
 title: "Blockchain Technology in Business - Prepare Your Business for the Future"
 layout: post
 date: 2023-08-28
-update_date: 2023-09-07
+update_date: 2023-09-08
 author: jack_nicholaisen
 summary: "Discover how blockchain technology is revolutionizing the business world in our latest article. Learn about its applications, benefits, and potential impact on various industries. Don't miss out on this opportunity to stay ahead of the curve by understanding the transformative power of blockchain technology." 
 image: /images/posts-headers/blockchain-in-business-header.png
