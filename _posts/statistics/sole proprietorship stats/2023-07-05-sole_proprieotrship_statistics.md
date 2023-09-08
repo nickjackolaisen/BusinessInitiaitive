@@ -2,7 +2,7 @@
 title: "Sole Proprietorship Facts, Stats, & FAQs for 2023"
 layout: post
 date: 2023-07-05
-update_date: 2023-09-05
+update_date: 2023-09-08
 author: jack_nicholaisen
 summary: "Unlock your business potential with our data-driven insights, expert consulting, and tailored pricing. Elevate success today!" 
 image: /images/posts-headers/sole-proprietorship-facts-stats-faqs-header.png
@@ -15,9 +15,11 @@ According to the 2020 US Census from 2020, there were **826,915 Sole Proprietors
 
 ## What percentage of businesses are Sole Proprietorships?
 
-Based on this, **10.34% of US businesses are Sole Proprietorships in the US.**
+Based on this, **10.34% percent of businesses are Sole Proprietorships in the United States.**
 
 **Source:** *Census Table-CB2000CBP     Dataset-CBP2020   Data Released-May 26, 2022*
+
+{% include takeaway-box.html bullet1="<b>Sole proprietorship advantages:</b> Sole proprietorships offer simplicity, low start-up costs, and full control over business decisions." bullet2="<b>Tax implications:</b> Owners of sole proprietorships report their business income and expenses on their personal tax returns, which can simplify tax filing." bullet3="<b>Legal liability:</b> Sole proprietors are personally responsible for all debts and liabilities associated with their businesses, making it important to consider risk management strategies." bullet4="<b>Growth potential:</b> Expanding a sole proprietorship may require additional financing or partnerships; consider the long-term goals of your business when choosing this structure." bullet5="<b>Alternatives to consider:</b> While sole proprietorships are common, other options like limited liability companies (LLCs) or corporations may better suit certain entrepreneurs' needs and provide additional legal protection."%}
 
 <center>
 <img alt="sole proprietorship growth" src="/images/content/market-growth.png" style="width: 63%; height: 63%">
