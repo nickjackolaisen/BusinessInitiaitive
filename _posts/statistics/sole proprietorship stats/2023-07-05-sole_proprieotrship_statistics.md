@@ -282,16 +282,15 @@ Just as the Sole Proprietorship is nothing without a sole proprietor to manage a
 ## FAQs - Answers to Frequently Asked Questions About Sole Proprietorships
 
 <details>
-<summary><h3>What is a sole proprietorship?</h3></summary>
+<h3>What is a sole proprietorship?</h3>
 <br>
 <p>
 A sole proprietorship is a type of business structure where an individual operates as both the owner and operator of the business. In this structure, the owner is personally responsible for all assets, liabilities, and taxes associated with the business.
 </p>
 </details>
 
-
+<h3>How common are sole proprietorships?</h3>
 <details>
-<summary><h3>How common are sole proprietorships?</h3></summary>
 <br>
 <p>
 According to the <a href="https://www.sba.gov/sites/default/files/advocacy/2018-Small-Business-Profiles-US.pdf">U.S. Small Business Administration (SBA)</a>, sole proprietorships account for approximately 73% of all businesses in the United States.
