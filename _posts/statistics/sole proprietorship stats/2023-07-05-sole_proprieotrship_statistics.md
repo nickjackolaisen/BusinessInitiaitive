@@ -281,8 +281,9 @@ Just as the Sole Proprietorship is nothing without a sole proprietor to manage a
 
 ## FAQs - Answers to Frequently Asked Questions About Sole Proprietorships
 
-<details>
 <h3>What is a sole proprietorship?</h3>
+<details>
+<summary>Reveal the answer!</summary>
 <br>
 <p>
 A sole proprietorship is a type of business structure where an individual operates as both the owner and operator of the business. In this structure, the owner is personally responsible for all assets, liabilities, and taxes associated with the business.
@@ -291,15 +292,16 @@ A sole proprietorship is a type of business structure where an individual operat
 
 <h3>How common are sole proprietorships?</h3>
 <details>
+<summary>Reveal the answer!</summary>
 <br>
 <p>
 According to the <a href="https://www.sba.gov/sites/default/files/advocacy/2018-Small-Business-Profiles-US.pdf">U.S. Small Business Administration (SBA)</a>, sole proprietorships account for approximately 73% of all businesses in the United States.
 </p>
 </details>
 
-
+<h3>What are the benefits of choosing a sole proprietorship business structure?</h3>
 <details>
-<summary><h3>What are the benefits of choosing a sole proprietorship business structure?</h3></summary>
+<summary>Reveal the answer!</summary>
 <br>
 <ol type="1">
 <li>Simplicity: Setting up a sole proprietorship is relatively easy, with minimal paperwork and low startup costs.</li>
@@ -308,9 +310,9 @@ According to the <a href="https://www.sba.gov/sites/default/files/advocacy/2018-
 </ol>
 </details>
 
-
+<h3>What are the disadvantages of a sole proprietorship?</h3>
 <details>
-<summary><h3>What are the disadvantages of a sole proprietorship?</h3></summary>
+<summary>Reveal the answer!</summary>
 <br>
 <ol type="1">
 <li>Personal liability: As the owner, you are personally responsible for all debts and legal liabilities incurred by the business.</li>
@@ -319,17 +321,16 @@ According to the <a href="https://www.sba.gov/sites/default/files/advocacy/2018-
 </ol>
 </details>
 
-
+<h3>What are the tax implications of a sole proprietorship?</h3>
 <details>
-<summary><h3>What are the tax implications of a sole proprietorship?</h3></summary>
+<summary>Reveal the answer!</summary>
 <br>
 <p>In a sole proprietorship, business income and expenses are reported on the owner's personal tax return using Schedule C. The owner is subject to self-employment taxes, which include Social Security and Medicare taxes, and these are calculated using Schedule SE.</p>
 </details>
 
-
+<h3>How are sole proprietorships different from other business structures?</h3>
 <details>
-<summary><h3>How are sole proprietorships different from other business structures?
-</h3></summary>
+<summary>Reveal the answer!</summary>
 <br>
 <b>Partnership</b>
   <p>A partnership involves two or more people sharing ownership and management responsibilities, as well as profits and losses. In contrast, a sole proprietorship has only one owner who assumes all responsibilities.</p>
@@ -341,16 +342,16 @@ According to the <a href="https://www.sba.gov/sites/default/files/advocacy/2018-
   <p>A corporation is a separate legal entity that offers liability protection for its owners (shareholders) but is subject to double taxation (corporate income tax and personal income tax on dividends). A sole proprietorship, on the other hand, is not a separate legal entity and is subject to single taxation (personal income tax).</p>
 </details>
 
-
+<h3>What are the statistics on sole proprietorship success rates?</h3>
 <details>
-<summary><h3>What are the statistics on sole proprietorship success rates?</h3></summary>
+<summary>Reveal the answer!</summary>
 <br>
 <p>According to the <a href="https://www.bls.gov/bdm/entrepreneurship/entrepreneurship.htm">Bureau of Labor Statistics</a>, approximately <b>20% of sole proprietorships fail within the first year</b>, while around 50% fail within the first five years. However, these statistics vary depending on the industry and the specific circumstances of each business.</p>
 </details>
 
-
+<h3>What industries are common for sole proprietorships?</h3>
 <details>
-<summary><h3>What industries are common for sole proprietorships?</h3></summary>
+<summary>Reveal the answer!</summary>
 <br>
 <p>Popular industries for sole proprietorships include:</p>
 <ol type="1">
@@ -363,8 +364,9 @@ According to the <a href="https://www.sba.gov/sites/default/files/advocacy/2018-
 </ol>
 </details>
 
+<h3>How do I dissolve a sole proprietorship?</h3>
 <details>
-<summary><h3>How do I dissolve a sole proprietorship?</h3></summary>
+<summary>Reveal the answer!</summary>
 <br>
 <p>To dissolve a sole proprietorship, you must:</p>
 <ol type="1">
@@ -377,44 +379,46 @@ According to the <a href="https://www.sba.gov/sites/default/files/advocacy/2018-
 </ol>
 </details>
 
-
+<h3>What is the average income of a sole proprietor?</h3>
 <details>
-<summary><h3>What is the average income of a sole proprietor?</h3></summary>
+<summary>Reveal the answer!</summary>
 <br>
 <p>According to data from the <a href="https://www.irs.gov/statistics/soi-tax-stats-sole-proprietorship-returns">Internal Revenue Service (IRS)</a>, the average annual net income for a sole proprietor in the United States was approximately $47,000 in 2019.</p>
 </details>
 
-
+<h3>How do sole proprietorships contribute to the economy?</h3>
 <details>
-<summary><h3>How do sole proprietorships contribute to the economy?</h3></summary>
+<summary>Reveal the answer!</summary>
 <br>
 <p>Sole proprietorships play an essential role in the U.S. economy by providing employment opportunities, promoting innovation, and contributing to local communities. In 2019, sole proprietorships reported total receipts of over $1.4 trillion <a href="https://www.irs.gov/statistics/soi-tax-stats-sole-proprietorship-returns">IRS</a>.</p>
 </details>
 
-
+<h3>What percentage of women-owned businesses are sole proprietorships?</h3>
 <details>
-<summary><h3>What percentage of women-owned businesses are sole proprietorships?</h3></summary>
+<summary>Reveal the answer!</summary>
 <br>
 <p>According to the National Association of Women Business Owners <a href="https://www.nawbo.org/resources/women-business-owner-statistics">(NAWBO)</a>, nearly 90% of women-owned businesses are classified as sole proprietorships.</p>
 </details>
 
+<h3>How has the number of sole proprietorships changed over time?</h3>
 <details>
-<summary><h3>How has the number of sole proprietorships changed over time?</h3></summary>
+<summary>Reveal the answer!</summary>
 <br>
 <p>The number of sole proprietorships has been steadily increasing over the past two decades. According to data from <a href="https://www.statista.com/statistics/542181/us-number-of-sole-proprietorship-establishments/">Statista</a>, there were approximately 23 million registered sole proprietorships in the United States in 1997; this number increased to around 26 million by 2020.
 </p>
 </details>
 
-
+<h3>What is the survival rate of minority-owned sole proprietorships compared to non-minority-owned businesses?</h3>
 <details>
-<summary><h3>What is the survival rate of minority-owned sole proprietorships compared to non-minority-owned businesses?</h3></summary>
+<summary>Reveal the answer!</summary>
 <br>
 <p>Research conducted by the <a href="https://archive.mbda.gov/sites/default/files/migrated/files-attachments/Failuretolaunch_0.pdf">Minority Business Development Agency (MBDA)</a> indicates that minority-owned businesses have a lower survival rate than non-minority-owned businesses overall.</p>
 <p>However, this research does not differentiate between sole proprietorships and other business structures, so it is unclear whether the same trend applies specifically to minority-owned sole proprietorships.</p>
 </details>
 
+<h3>Are there any tax deductions specific to sole proprietorships?</h3>
 <details>
-<summary><h3>Are there any tax deductions specific to sole proprietorships?</h3></summary>
+<summary>Reveal the answer!</summary>
 <br>
 <p>While there aren't deductions exclusive to sole proprietorships, there are several tax deductions that can benefit these businesses.</p>
 <p>Some common deductions include:</p>
