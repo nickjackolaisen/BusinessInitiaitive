@@ -358,8 +358,4 @@ The money you spend on insurance premiums may seem like an unnecessary expense w
 
 However, if a situation arises when you need the insurance coverage, you’ll be glad you made the right decision to protect your assets. 
 
-<br>DISCLAIMER: 
-
 Speak with your insurance provider and take a look at what options are available. Every business is different. Take the time to speak with insurance professionals to come up with the best coverage and deductibles to meet your specific needs. 
-
-“Business Initiative” is for general educational purposes only. “Business Initiative” does not offer any legal or financial advice. Anyone considering starting a business or purchasing insurance should speak with a lawyer, business professional, financial advisor, and tax expert before making binding decisions regarding starting, operating, and growing your business. Use external resources independently of “Business Initiative.” It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.
