@@ -2,9 +2,9 @@
 layout: post
 title: "What Does LLC Mean in Business and How Do They Work?"
 date: 2023-07-03
-update_date: 2023-09-08
+update_date: 2023-09-12
 author: jack_nicholaisen
-summary: LLC stands for Limited Liability Company. Read this to find out how you can use one to fast-track your success.
+summary: LLC stands for Limited Liability Company. Read this to find out how using one can put you on the fast-track to success.
 tags: what llc mean, what do llc means, what does being an llc mean	 
 image: /images/posts-headers/what-does-llc-mean-header.png
 permalink: /what-does-llc-mean/
@@ -21,6 +21,22 @@ Since LLCs are so flexible and simple to use, it’s no surprise that there are 
 {% include takeaway-box.html bullet1="<b>Limited Liability Protection</b> As an LLC owner, your personal assets are protected from business debts and lawsuits. This is a crucial safety net for entrepreneurs starting a new venture." bullet2="<b>Flexible Taxation</b> The default pass-through taxation allows LLC owners to report profits and losses on their personal tax returns, but you can also choose to be taxed as a corporation if it's more advantageous for your situation." bullet3="<b>Customizable Management Structure</b> You have the freedom to set up your LLC's management structure in a way that works best for you and your business partners, whether it's member-managed or manager-managed." bullet4="<b>Ease of Formation and Operation</b> Starting an LLC is generally less complex than forming a corporation, with fewer regulatory requirements and paperwork involved. This makes it an appealing option for many small business owners." bullet5="<b>Scalability and Versatility</b> LLCs offer entrepreneurs the ability to grow their businesses without sacrificing flexibility or control over decision-making processes. Whether you're starting as a solo entrepreneur or with multiple partners, an LLC adapts to your needs as your business evolves.
 "%}
 
+## Table of Contents
+
+**1. <a href="#what-is-llc">What is an LLC and how does it work to protect you?</a>**
+
+**2. <a href="#llc-structure">LLC Structure</a>**
+
+**3. <a href="#articles-of-organization-operating-agreement">Articles of Organization and Operation Agreement</a>**
+
+**4. <a href="#llc-voting-rights">LLC Voting Rights</a>**
+ 
+**5. <a href="#how-do-owners-get-paid">How Do Owners Get Paid?</a>**
+
+**6. <a href="#registering-an-llc">Registering an LLC</a>**
+
+**7. <a href="#llc-comparison">LLCs Compared to Other Entities</a>**
+
 ## What Does Being an LLC Mean?
 
 Being the LLC Owner, you’re in the driver’s seat. You hold the wheel. 
@@ -34,6 +50,7 @@ You arrange the management how you want.
 You decide how much and how often you want to get paid. 
 
 The LLC is the easiest, legally recognized business entity to operate. 
+<a id="what-is-llc"> 
 
 Professionals and novices alike prefer LLCs because of the combination of simplicity and the authority they offer. 
 
@@ -62,6 +79,7 @@ The technical terms for these are Undercapitalizing and Piercing the Corporate V
 Undercapitalization is when you underfund the company, ruining its ability to pay back debts. Piercing the Veil is when you fail to distinguish between business and personal.
 
 If you’ve done either of these, your limited liability protection may be waived. Should this happen, you’d now be personally responsible to cover your business’s debts and legal disputes. 
+<a id="llc-structure"> 
 
 This means your private assets and investments are made vulnerable. In other words, the lawyers and courts can come and take your personal belongings. 
 
@@ -108,6 +126,7 @@ LLCs offer a wide range of management options. You can do anything from hiring t
 1.  Internal Management  
     
 2.  External Management
+<a id="articles-of-organization-operating-agreement"> 
 
 If you want your LLC managed from the inside, you or a fellow Owner (Member) oversees operations. This gives you direct say over how your LLC runs. 
 
@@ -134,6 +153,7 @@ For your Articles of Organization, you’ll need the following:
 -   The name and address of your LLC’s registered agent who will receive the required paperwork and forms from the government. This will be your point of contact to your State.    
     
 -   The unique name of your LLC and the address of its main location/headquarters. 
+<a id="llc-voting-rights"> 
 
 The Articles of Organization identify your LLC’s focus and general structure. This document doesn’t require full Member approval because it is the LLC itself.
 
@@ -152,6 +172,7 @@ The influence a Member has over the decision-making process is typically relativ
 As an example, you and a buddy have an awesome idea for an LLC. All that’s needed is a source of funding to kick things off. 
 
 Luckily, you both have a wealthy friend who wants to see you all succeed. You and your friend decide to bring the third friend (rich guy) on board. 
+<a id="how-do-owners-get-paid"> 
 
 The three of you collectively decide that since he is taking on all the risk to see you and your buddy’s dreams come true, he gets 51% ownership while you and your friend each receive 24.5% ownership. 
 
@@ -174,6 +195,7 @@ The two options you are likely to choose from are:
 1.   Owners Draws      
     
 2.   Unique Payment Plan
+<a id="registering-an-llc">
 
 Draws are taken proportionally to each Members’ initial investment in the LLC. The greater a member’s percentage of company ownership, the more that member is paid. 
 
@@ -196,6 +218,7 @@ Complete the necessary paperwork and LLC registration forms and file them with y
 When you come up with the best way to run your company and set it up, write it all out as an Operating Agreement. You can see Operational Agreements as a way of documenting your plan of action and outlining the various details of your LLC.
 
 One of the first steps you’ll take in registering your LLC:
+<a id="llc-comparison"> 
 
 Apply for a Federal Tax ID Number, commonly known as an Employee Identification Number (EIN). 
 
@@ -259,3 +282,7 @@ Sure, LLCs are a great way to begin your entrepreneurial pursuits but you should
 It could never be easier with so many companies providing services to help entrepreneurs set up LLCs. 
 
 **We wish much success for you and your business.**
+
+<script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
+<br>
+
