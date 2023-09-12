@@ -4,6 +4,7 @@ layout: post
 date: 2023-09-12
 author: jack_nicholaisen
 summary: "Discover key insights into LLC dissolution and winding up procedures with our categorized Q&A guide. Get answers to all your crucial questions in one place!"
+image: /images/posts-headers/faq-llc-dissolution-header.png
 permalink: /faqs/llc/dissolution-and-winding-up/
 ---
 
@@ -28,8 +29,6 @@ Now, dive into this invaluable resource and let us help you navigate the complex
 Put this information into practice and ensure a smooth transition as you close this business chapter and open up bigger and better projects. 
 
 Happy reading!
-
---
 
 **1. <a href="#dissolution-process">Dissolution Process and Steps</a>**
 
