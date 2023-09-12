@@ -30,6 +30,8 @@ Put this information into practice and ensure a smooth transition as you close t
 
 Happy reading!
 
+## Table of Contents
+
 **1. <a href="#dissolution-process">Dissolution Process and Steps</a>**
 
 **2. <a href="#assets-liabilities-financial-responsibility">Assets, Liabilities, and Financial Responsibilities</a>**

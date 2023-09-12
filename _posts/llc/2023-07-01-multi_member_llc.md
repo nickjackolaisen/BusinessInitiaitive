@@ -19,9 +19,27 @@ There are two types of LLCs:
 
 The key difference between them is the number of owners. That's all.
 
-Multi Member Limited Liability Companies have two or more owners while Single Member LLCs are limited to only one owner (two if you’re married). 
-
 The Owners, or “Members”, as they're sometimes called, share control over the business’s operations and influence in the decision-making process. 
+
+{% include takeaway-box.html bullet1="<b>Multi-Member LLCs offer liability protection and tax flexibility</b>, combining the best of Corporations and Partnerships for your business entity." bullet2="<b>MMLLCs require at least two members</b>, while Single-Member LLCs are designed for solo entrepreneurs." bullet3="<b>Registering an MMLLC involves state-specific processes</b>, so research your local requirements before proceeding." bullet4="<b>Tax options for MMLLCs include default pass-through taxation or electing corporate taxation</b> to optimize your financial strategy." bullet5="<b>Paying yourself from an MMLLC can be done through distributions or a guaranteed payment system</b>,depending on your company's structure and goals."%}
+
+## Table of Contents
+
+**1. <a href="#mmllc-owners">LLC Owners (Members)</a>**
+  
+**2.<a href="#mmllc-proteciton">Multi Member LLC Protection</a>**
+
+**3. <a href="#mmllc-managemet">Managing Your MMLLC</a>**
+
+**4. <a href="#mmllc-registration">LLC Registration Requirements</a>**
+
+**5. <a href="#mmllc-tax-filings">How Does a Multi Member LLC File Taxes?</a>**
+
+**6. <a href="#paying-yourself-from-mmllc">How to Pay Yourself from Your Multi Member LLC</a>**
+
+**7. <a href="#mmllc-maintenance">LLC Maintenance</a>**
+
+**8. <a href="#is-mmllc-best-for-you">Is a Multi Member LLC the Best Business Entity for Me?</a>**
 
 You want the business entity best suited for your personal and professional goals, right? 
 
@@ -39,6 +57,7 @@ The number of members affects:
 Don’t worry, all of these fundamentals (and more) are broken down in this article.
 
 Going with a Multi Member LLC is great since it is tailored to fit your group’s personal and professional goals.
+<a id="mmllc-owners"> 
 
 The Multi Member LLC is legally recognized in every state. They are usually operated by families, married couples, groups of friends, and businesses where shared ownership makes the most sense.
 
@@ -75,6 +94,7 @@ It’s easier if your business is a Multi Member LLC. Each individual’s share 
 Keep in mind, LLCs are some of the most versatile business entities out there. It’s not just one way or the other. You should use this flexibility to your benefit. 
 
 For instance, all of the members could each form their own Single Member LLC and then collaborate from there. You could even bundle these SMLLCs together under one Multi Member LLC. 
+<a id="mmllc-proteciton">   
 
 You can even be the sole owner of an MMLLC by including your marriage partner, a family member, or a friend as another member. Setting it up as a Multi Member LLC, even if the other member isn’t heavily involved in the business, gives you added protection. 
 
@@ -151,6 +171,7 @@ The protection offered by your MMLLC is only effective so long as you and the re
 Your protections become void if any member starts playing games with the money, like trying to avoid taxes for example. This is called Piercing the Corporate Veil. 
 
 Another way you lose protection is if the LLC takes on so many loans or so much credit, that it becomes impossible to pay off. This is called Undercapitalization. 
+<a id="mmllc-managemet"> 
 
 If your LLC becomes undercapitalized, banks (or whoever your company owes money to) can take an LLC member’s personal property to pay back outstanding debts. 
 
@@ -162,7 +183,7 @@ You definitely don’t want that.
 
 Just run an ethical, morally clean, legitimate, law-abiding company and you should be fine. You should only worry about losing your protection if you try cheating the system instead of using the system and its various loopholes for your benefit.
 
-## Management ##
+## Managing Your MMLLC ##
 
 A Multi Member LLC gives you the flexibility to arrange the management hierarchy to best suit your business’s needs. Since you’re sharing ownership with other members, you all have to decide together how you want the LLC managed. 
 
@@ -193,6 +214,7 @@ All the owners are _passively_ involved in the operations of the LLC. It’s gre
 If you want your company to be Manager-Managed you have to say so in your Articles of Organization (a document which is submitted when registering your LLC).
 
 ### Voting Rights ###
+<a id="mmllc-registration"> 
 
 Whichever management system you use, every owner must be included in the larger, more significant business matters. These are issues concerning contracts, loans, restructuring, product/service updates, agreements, etc.
 
@@ -203,6 +225,7 @@ The Operating Agreement details the procedures for different situations you may 
 By following the procedures detailed in this document, you will be able to resolve confusion easily and make decisions effortlessly. This just goes to show how important it is to have an organized Operating Agreement.
 
 ## LLC Registration Requirements ##
+<a id="mmllc-tax-filings"> 
 
 Here is what you need to get together and complete to register your LLC:
 
@@ -301,6 +324,7 @@ Self-Employment Tax applies to guaranteed payments which you get paid for your a
 Wherever you find yourself living and doing business, don’t let this crazy system stop you from gaining financial independence and freedom from the rat race. Start your business with the right goal in mind and any obstacle will become insignificant relative to your vision. 
 
 #### LLC Combinations ####
+<a id="paying-yourself-from-mmllc"> 
 
 We mentioned earlier you can combine Single and Multi Member LLCs to your advantage. 
 
@@ -325,6 +349,7 @@ This is all written in your Articles of Operation and your Operating Agreement w
 Whether or not you keep your LLC as Default or upgrade it to an S-Corp, you will most likely get your money from the LLC using direct wire transfers or checks. 
 
 If you upgrade and go the S-Corp route, you and the other owners get paid through a combination of Salaries and Dividends. This slight difference complicates the payout process. 
+<a id="mmllc-maintenance"> 
 
 Here’s how Salaries compare to Dividends when it comes to getting paid:
 
@@ -340,6 +365,7 @@ Here’s how Salaries compare to Dividends when it comes to getting paid:
 When you’re established and actually running your business instead of setting it up,  there are maintenance guidelines you have to follow. If any of these requirements are neglected, your LLC protections will be voided. 
 
 It’s standard protocol. 
+<a id="is-mmllc-best-for-you"> 
 
 *   Keep your LLC’s licenses, member information, registration status, and taxes up to date. 
 *   File annual, and, in some states, quarterly reports to update the government on your business’s movements. 
@@ -406,7 +432,7 @@ You don’t have to do it by yourself either if you don’t want to.
 
 There are plenty of companies in all 50 states specializing in helping entrepreneurs, like yourself, register LLCs and other business entities. 
 
-Using these resources is the best thing you can do for yourself and your business. After all, they register businesses for a living. It speeds up the process and there is no confusion about which forms or licenses your need. 
+Using these resources is the best thing you can do for yourself and your business. After all, they register businesses for a living. It speeds up the process and there is no confusion about which forms or licenses your need.
 
 They know what to do. 
 
