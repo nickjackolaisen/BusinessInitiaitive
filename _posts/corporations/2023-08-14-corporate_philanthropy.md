@@ -2,7 +2,7 @@
 title: "Corporate Philanthropy - How Giving Back Drives Business Success"
 layout: post
 date: 2023-08-14
-update-date: 2023-09-13
+update_date: 2023-09-13
 author: jack_nicholaisen
 summary: "Discover corporate philanthropy's power to elevate your business. Learn to develop effective initiatives and align company values. Unlock its potential today!"
 permalink: /corporation/philanthropy/
