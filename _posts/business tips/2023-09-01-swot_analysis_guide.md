@@ -2,9 +2,10 @@
 title: "SWOT Analysis: Everything You NEED to Know"
 layout: post
 date: 2023-09-01
-update_date: 2023-09-12
+update_date: 2023-09-13
 author: jack_nicholaisen
 summary: "Unlock your business potential with our SWOT guide. Begin identifying opportunities, tackling challenges, and enhancing strategic decisions in your business!"
+image: /images/posts-headers/swot-analysis-header.png
 permalink: /business-tips/swot-analysis/
 ---
 

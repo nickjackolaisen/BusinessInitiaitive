@@ -747,7 +747,7 @@ Yes, an LLC can be reinstated after dissolution by filing necessary paperwork an
 </ul>
 <p>The specific requirements and process for reinstating an LLC vary by state. 
 <br>
-For more information on reinstating an LLC in your state, visit [your state's Secretary of State website](https://ballotpedia.org/List_of_secretaries_of_state_of_the_American_states).
+For more information on reinstating an LLC in your state, visit <a href="https://ballotpedia.org/List_of_secretaries_of_state_of_the_American_states">your state's Secretary of State website</a>.
 </p>
 </details>
 
