@@ -2,7 +2,7 @@
 title: "Corporate Social Responsibility | Balancing Profit and Purpose"
 layout: post
 date: 2023-08-14
-update_date: 2023-09-06
+update_date: 2023-09-13
 author: jack_nicholaisen
 summary: "Discover how to balance profit & purpose with CSR. Embrace its benefits, integrate it into your strategy, and learn from success of others TODAY!"
 permalink: /corporation/corporate-social-responsibility/
@@ -145,30 +145,17 @@ Don't hesitate to reach out to us at any time...
 Together, we can create a more sustainable and responsible future for your business and the world.
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
-
-
+<br>
 <details>
 <summary><b>Sources</b></summary>
 <br>
-
 <ul>
-<li><a href="https://www.conecomm.com/research-blog/2017-csr-study">Cone Communications CSR Study</a></li>
-
-<li><a href="https://www.nielsen.com/us/en/insights/article/2018/global-consumers-seek-companies-that-care-about-environmental-issues/">Nielsen Global Responsibility Report</a></li>
-
-<li><a href="https://www.globalreporting.org/">Global Reporting Initiative</a></li>
-
-<li><a href="https://www.sasb.org/">Sustainability Accounting Standards Board</a></li>
-
-<li><a href="https://www.unilever.com/sustainable-living/">Unilever Sustainable Living Plan</a></li>
-
-<li><a href="https://www.patagonia.com/one-percent-for-the-planet.html">Patagonia 1% for the Planet</a></li>
-
-<li><a href="https://www.starbucks.com/responsibility/sourcing/coffee">Starbucks Coffee and Farmer Equity (C.A.F.E.) Practices</a></li>
+    <li><a href="https://www.conecomm.com/research-blog/2017-csr-study">Cone Communications CSR Study</a></li>
+    <li><a href="https://www.nielsen.com/us/en/insights/article/2018/global-consumers-seek-companies-that-care-about-environmental-issues/">Nielsen Global Responsibility Report</a></li>
+    <li><a href="https://www.globalreporting.org/">Global Reporting Initiative</a></li>
+    <li><a href="https://www.sasb.org/">Sustainability Accounting Standards Board</a></li>
+    <li><a href="https://www.unilever.com/sustainable-living/">Unilever Sustainable Living Plan</a></li>
+    <li><a href="https://www.patagonia.com/one-percent-for-the-planet.html">Patagonia 1% for the Planet</a></li>
+    <li><a href="https://www.starbucks.com/responsibility/sourcing/coffee">Starbucks Coffee and Farmer Equity (C.A.F.E.) Practices</a></li>
 </ul>
-
 </details>
-
-
-
-

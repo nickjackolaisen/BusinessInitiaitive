@@ -2,7 +2,7 @@
 title: "Reputation Management - Protect and Enhance Your Corporation's Image"
 layout: post
 date: 2023-08-07
-update_date: 2023-09-06
+update_date: 2023-09-13
 author: jack_nicholaisen
 summary: "Protect your corporation's image in the digital age with reputation management strategies. Learn actionable tips to enhance your online presence NOW!"
 permalink: /corporation/reputation-management/

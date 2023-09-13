@@ -686,18 +686,19 @@ Unresolved disputes can be handled through negotiation, mediation, arbitration, 
 <p>During the dissolution process, unresolved disputes among LLC members can be addressed using various methods:
 </p>
 <ul>
-    <li><b>Negotiation**: Members can attempt to resolve disputes by discussing their issues and finding a mutually acceptable solution.
+    <li><b>Negotiation:</b> Members can attempt to resolve disputes by discussing their issues and finding a mutually acceptable solution.
     </li>
-    <li><b>Mediation**: A neutral third party can be hired to facilitate communication between disputing parties and help them reach a resolution.
+    <li><b>Mediation:</b> A neutral third party can be hired to facilitate communication between disputing parties and help them reach a resolution.
     </li>
-    <li><b>Arbitration**: An independent arbitrator can be appointed to review the dispute and make a binding decision. Arbitration clauses may be included in the operating agreement.
+    <li><b>Arbitration:</b> An independent arbitrator can be appointed to review the dispute and make a binding decision. Arbitration clauses may be included in the operating agreement.
     </li>
-    <li><b>Litigation**: If all else fails, members can take their disputes to court, where a judge will hear the case and make a legally binding decision.
+    <li><b>Litigation:</b> If all else fails, members can take their disputes to court, where a judge will hear the case and make a legally binding decision.
     </li>
 </ul>
 <p>It is essential to consult with an attorney experienced in business disputes to determine the best course of action for your specific situation.
 </p>
 </details>
+
 <a id="reinstatement-name-preservation"> 
 
 ### How do I handle any potential disputes or disagreements among members regarding the decision to dissolve an LLC?
@@ -749,6 +750,7 @@ Yes, an LLC can be reinstated after dissolution by filing necessary paperwork an
 For more information on reinstating an LLC in your state, visit [your state's Secretary of State website](https://ballotpedia.org/List_of_secretaries_of_state_of_the_American_states).
 </p>
 </details>
+
 <a id="communicaiton-transition"> 
 
 ### How do I preserve my LLC's business name if I decide to dissolve and later reinstate the LLC?

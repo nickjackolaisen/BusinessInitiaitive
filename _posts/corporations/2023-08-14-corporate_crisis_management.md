@@ -2,7 +2,7 @@
 title: "Corporate Crisis Management - Preparing for and Responding to Unforeseen Challenges"
 layout: post
 date: 2023-08-14
-update_date: 2023-09-06
+update_date: 2023-09-13
 author: jack_nicholaisen
 summary: "Learn to shield your business from challenges with our crisis management guide. Get tips for identifying risks, planning, and ensuring resilience. ACT NOW!"
 permalink: /corporation/crisis-management/
@@ -156,7 +156,7 @@ Don't leave your business vulnerable...
 [Reach out here](https://www.businessinitiative.org/contact/) or send Business Initiative a message [@BisInitiative on X](https://twitter.com/BisInitiative)
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
-
+<br>
 <details>
 <summary><b>Sources</b></summary>
 <br>

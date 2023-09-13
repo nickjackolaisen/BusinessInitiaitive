@@ -2,7 +2,7 @@
 title: "Outsourcing Strategies - Maximize Your Corporation's Efficiency and Cost Savings"
 layout: post
 date: 2023-08-07
-update_date: 2023-09-06
+update_date: 2023-09-13
 author: jack_nicholaisen
 summary: "Maximize efficiency & cost savings with outsourcing. Delegate tasks to third parties, focus on core competencies & growth. Learn tips & examples HERE!"
 permalink: /corporation/outsourcing-strategy/
