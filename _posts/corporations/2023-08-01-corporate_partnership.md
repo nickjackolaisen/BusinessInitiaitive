@@ -4,7 +4,7 @@ layout: post
 date: 2023-08-01
 update_date: 2023-09-13
 author: jack_nicholaisen
-summary: "Explore corporate partnerships for business growth: access new markets, reduce costs, and drive innovation. Boost success with the right partners!"
+summary: "Explore corporate partnerships for business growth... Access New Markets, Reduce Costs, and Drive Innovation. Boost success with the right partners!"
 permalink: /corporation/corporate-partnerships/
 ---
 

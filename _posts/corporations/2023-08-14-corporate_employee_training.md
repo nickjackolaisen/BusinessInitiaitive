@@ -4,7 +4,7 @@ layout: post
 date: 2023-08-14
 update_date: 2023-09-13
 author: jack_nicholaisen
-summary: "Boost business success with employee investment! Explore corporate training for retention & performance. Learn effective strategies. Don't miss out!"
+summary: "Boost business success with employee investment! Explore corporate training for retention and performance. Learn effective strategies. Don't miss out!"
 permalink: /corporation/employee-training-programs/
 ---
 

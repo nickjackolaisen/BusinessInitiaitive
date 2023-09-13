@@ -84,7 +84,7 @@ For example, if your business is forced to close temporarily due to a hurricane 
 ####    14.	Business Crime Insurance and Equipment Breakdown Insurance
 Although you have the option of getting business crime insurance or equipment breakdown insurance by themselves, you can also choose to use them as add-ons to supplement an existing policy you own.
 
-## In Comclusion...
+## In Conclusion...
 
 The goal is to get maximum coverage and protection at a minimal cost to your company. 
 

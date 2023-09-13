@@ -4,7 +4,7 @@ layout: post
 date: 2023-08-14
 update_date: 2023-09-13
 author: jack_nicholaisen
-summary: "Explore corporate globalization challenges & opportunities in our article. Get practical tips for international business success. Embrace global growth!"
+summary: "Explore corporate globalization challenges and opportunities in our article. Get practical tips for international business success. Embrace global growth!"
 permalink: /corporation/globalization/
 ---
 

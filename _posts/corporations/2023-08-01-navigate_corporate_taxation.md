@@ -4,7 +4,7 @@ layout: post
 date: 2023-08-01
 update_date: 2023-09-13
 author: jack_nicholaisen
-summary: "Boost your business's financial performance! Learn to minimize tax liabilities & stay compliant in our guide. Unlock your company's potential!"
+summary: "Boost your business's financial performance! Learn to minimize tax liabilities and stay compliant in our guide. Unlock your company's potential!"
 permalink: /corporation/tax-strategies/
 ---
 

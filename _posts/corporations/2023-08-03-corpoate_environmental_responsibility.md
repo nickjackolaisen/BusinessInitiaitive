@@ -4,7 +4,7 @@ layout: post
 date: 2023-08-03
 update_date: 2023-09-13
 author: jack_nicholaisen
-summary: "Seeking eco-friendly business? Improve reputation & sustainability with our tips on green practices, employee engagement & stakeholder communication."
+summary: "Seeking eco-friendly business? Improve reputation and sustainability with our tips on green practices, employee engagement, and stakeholder communication."
 permalink: /corporation/environmental-responsbility/
 ---
 

@@ -4,7 +4,7 @@ layout: post
 date: 2023-09-10
 update_date: 2023-09-13
 author: jack_nicholaisen
-summary: "Boost efficiency & patient care with 17 innovative home healthcare solutions. Unlock new revenue in this game-changing guide!"
+summary: "Boost efficiency and patient care with 17 innovative home healthcare solutions. Unlock new revenue in this game-changing guide!"
 permalink: /business-tips/home-healthcare-solutions/
 ---
 
