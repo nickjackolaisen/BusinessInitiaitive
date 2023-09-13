@@ -2,8 +2,9 @@
 title: 20 Tactics to CUT Your Business Insurance Costs
 layout: post
 date: 2023-07-01
+update_date: 2023-09-13
 author: jack_nicholaisen
-summary: Although business can carry inherent risk, there are a few steps you can take to lower risk. By implementing the methods outlined here you will be able to prevent damage and loss to your business. 
+summary: "Lower business risk with these steps to prevent damage and loss, ensuring a safer venture." 
 permalink: /lower-your-business-insurance-costs/
 ---
 

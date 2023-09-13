@@ -2,9 +2,9 @@
 title: "A Comprehensive Guide to Tracking Your Marketing KPIs and Building an Engaged Audience Across Multiple Platforms"
 layout: post
 date: 2023-08-05
-update_date: 2023-09-07
+update_date: 2023-09-13
 author: jack_nicholaisen
-summary: "Are you tired of guessing whether your business is successful or not? Do you want to measure your progress and know exactly what works and what doesn't? Look no further than our guide on analytics. In this article, we will take you through the steps of setting up measurable goals, tracking metrics, analyzing data, and making informed decisions based on your findings. Don't leave your business success up to chance - let us help you take control today."
+summary: "Tired of guessing your business success? Learn to set goals, track metrics, analyze data, and make informed decisions with our analytics guide."
 permalink: /llc/marketing/measuring-success/
 ---
 

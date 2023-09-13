@@ -2,9 +2,9 @@
 title: "Intellectual Property Strategies - Protecting & Monetizing Your Corporation's Innovations"
 layout: post
 date: 2023-08-07
-update_date: 2023-09-05
+update_date: 2023-09-13
 author: jack_nicholaisen
-summary: "Are you an entrepreneur or business owner looking to drive innovation, create competitive advantages, and ensure long-term business success? Then protecting and monetizing your intellectual property (IP) is crucial. In this article, we will discuss the importance of corporate IP strategies and provide insights into protecting and monetizing your company's innovations."
+summary: "Drive innovation and success by protecting and monetizing your IP. Learn the importance of corporate IP strategies and safeguard your company's ideas."
 permalink: /corporation/intellectual-property/
 ---
 

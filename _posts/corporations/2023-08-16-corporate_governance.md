@@ -2,7 +2,7 @@
 title: "The In's and Out's of Corporate Governance | Best Practices for Ensuring Accountability and Transparency"
 layout: post
 date: 2023-08-16
-update_date: 2023-08-29
+update_date: 2023-09-13
 author: jack_nicholaisen
 summary: "Unlock corporate governance secrets with our guide. Learn from case studies & tips for a transparent company. Elevate your business! Read HERE!"
 permalink: /corporation/corporate-governance/
@@ -248,18 +248,18 @@ You can also reach us through our [contact page](https://www.businessinitiative.
 We look forward to hearing from you!
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
-
-## Sources
-
--   [OECD Principles of Corporate Governance](https://www.oecd.org/corporate/oecd-principles-of-corporate-governance-2015-9789264236883-en.htm)
--   [Harvard Law School Forum on Corporate Governance](https://corpgov.law.harvard.edu/)
--   [Institute of Directors - Corporate Governance Guidance and Principles](https://www.iod.com/services/information-and-advice/resources-and-factsheets/details/corporate-governance-guidance-and-principles)
--   [Global Reporting Initiative](https://www.globalreporting.org/)
--   [Transparency International - Business Integrity](https://www.transparency.org/en/business-integrity)
--   [Harvard Business Review](https://hbr.org/2018/09/johnson-johnsons-tylenol-crisis)
--   [MSCI](https://www.msci.com/documents/10199/04b6e2f0-d1e4-4a5f-ab9d-fae3b4f9941c)
--   [Forbes](https://www.forbes.com/companies/microsoft/?list=worlds-best-employers/#1b2f5d6a7e4c)
-
-<br> DISCLAIMER:
-
-“Business Initiative” is for general educational purposes only. “Business Initiative” does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making binding decisions regarding starting, operating, and growing your business. Use external resources independently of “Business Initiative.” It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.
+<br>
+<details>
+<summary><b>Sources</b></summary>
+<br>
+<ul>
+    <li><a href="https://www.oecd.org/corporate/oecd-principles-of-corporate-governance-2015-9789264236883-en.htm">OECD Principles of Corporate Governance</a></li>
+    <li><a href="https://corpgov.law.harvard.edu/">Harvard Law School Forum on Corporate Governance</a></li>
+    <li><a href="https://www.iod.com/services/information-and-advice/resources-and-factsheets/details/corporate-governance-guidance-and-principles">Institute of Directors - Corporate Governance Guidance and Principles</a></li>
+    <li><a href="https://www.globalreporting.org/">Global Reporting Initiative</a></li>
+    <li><a href="https://www.transparency.org/en/business-integrity">Transparency International - Business Integrity</a></li>
+    <li><a href="https://hbr.org/2018/09/johnson-johnsons-tylenol-crisis">Harvard Business Review</a></li>
+    <li><a href="https://www.msci.com/documents/10199/04b6e2f0-d1e4-4a5f-ab9d-fae3b4f9941c">MSCI</a></li>
+    <li><a href="https://www.forbes.com/companies/microsoft/?list=worlds-best-employers/#1b2f5d6a7e4c">Forbes</a></li>
+</ul>
+</details>

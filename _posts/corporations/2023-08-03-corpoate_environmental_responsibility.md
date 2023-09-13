@@ -2,9 +2,9 @@
 title: "13 Strategies for Corporate Environmental Responsibility - Reducing Your Company's Environmental Impact"
 layout: post
 date: 2023-08-03
-update_date: 2023-09-05
+update_date: 2023-09-13
 author: jack_nicholaisen
-summary: "Are you looking to reduce your company's environmental impact? Do you want to improve your reputation and contribute to a more sustainable future? In this article, we provide actionable insights into corporate environmental responsibility, including tips for implementing sustainable business practices, engaging employees in environmental initiatives, and communicating your efforts to stakeholders. Join us on this journey towards a more sustainable future!"
+summary: "Seeking eco-friendly business? Improve reputation & sustainability with our tips on green practices, employee engagement & stakeholder communication."
 permalink: /corporation/environmental-responsbility/
 ---
 

@@ -2,9 +2,9 @@
 title: "Asset Protection Strategies for Small Business Owners"
 layout: post
 date: 2023-07-10
-update_date: 2023-09-05
+update_date: 2023-09-13
 author: jack_nicholaisen
-summary: Want to safeguard your hard-earned business assets? Read this insightful guide. By exploring the various asset protection strategies, entrepreneurs can ensure their businesses continue to thrive in turbulent times. Don't miss out on these valuable tips that could make all the difference for your company's financial security and long-term success.
+summary: "Safeguard your assets with this guide. Explore strategies for business success in turbulent times. Secure your company's financial future."
 image: /images/posts-headers/small-business-asset-protection.png
 permalink: /business-tips/asset-protection/
 ---

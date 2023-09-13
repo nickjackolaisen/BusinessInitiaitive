@@ -2,9 +2,9 @@
 title: "Use Your Corporation's Social Media Presence to Boost Brand Perception and Customer Engagement"
 layout: post
 date: 2023-08-07
-update_date: 2023-09-06
+update_date: 2023-09-13
 author: jack_nicholaisen
-summary: "Are you looking to build a strong online presence for your company? Social media platforms are the perfect tools to help you engage with your audience, build brand awareness, and ultimately drive sales. In this article, we'll explore the impact of corporate social media presence on brand perception and customer engagement, and provide actionable tips and tricks to help you build an authentic and consistent brand image."
+summary: "Build a strong online presence with social media to engage audiences, boost brand awareness, and drive sales."
 permalink: /corporation/social-media/
 ---
 

@@ -4,7 +4,7 @@ layout: post
 date: 2023-07-23
 update_date: 2023-09-05
 author: jack_nicholaisen
-summary: "Unlock the true potential of your business with any one of these 95+ AI tools designed to streamline operations, boost revenue, and save precious time. As an entrepreneur or aspiring business owner, don't miss out on the opportunity to harness cutting-edge technology that can elevate your success. Dive into this comprehensive article and start implementing these powerful AI solutions today!"
+summary: "Unlock your business potential with 95+ AI tools to streamline operations, boost revenue, and save time. Harness technology for success today!"
 image: /images/posts-headers/ai-tools.png
 permalink: /business-tips/ai-tools-for-business/
 ---

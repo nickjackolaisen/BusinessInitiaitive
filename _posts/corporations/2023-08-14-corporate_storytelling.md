@@ -2,8 +2,9 @@
 title: "Use Storytelling to Build Brand Loyalty and Drive Sales in Your Corporation"
 layout: post
 date: 2023-08-14
+update_date: 2023-09-13
 author: jack_nicholaisen
-summary: "Discover the power of corporate storytelling and its impact on building brand loyalty and driving sales for your business. Dive into insights on crafting compelling narratives, incorporating storytelling into marketing efforts, and more. Let this article be your guide to unlocking the potential of storytelling for your business success. Ready to captivate your audience, build deeper connections, and boost sales? Keep reading!"
+summary: "Discover corporate storytelling's power to build brand loyalty, drive sales, and captivate audiences for business success."
 permalink: /corporation/storytelling/
 ---
 
@@ -181,22 +182,22 @@ Let us help you tell your brand's story and connect with your audience in a mean
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
-## Sources
-
--   [Apple's "Think Different" campaign](https://www.youtube.com/watch?v=nmwXdGm89Tk)
--   [Nike's "Just Do It" campaign](https://www.youtube.com/watch?v=WYP9AGtLvRg)
--   [Zappos' commitment to customer service](https://www.zappos.com/about/our-unique-culture)
--   [Airbnb's core values](https://www.airbnb.com/values)
--   [Patagonia's "Don't Buy This Jacket" campaign](https://www.patagonia.com/environmentalism/footprint-dont-buy-this-jacket.html) 
--   [Tesla's mission statement](https://www.tesla.com/about)
--   [Google's vision statement](https://www.google.com/about/)
--   [Apple's customer experience strategy](https://www.apple.com/customer-experience/)
--   [HubSpot's guide to content marketing in 2021](https://blog.hubspot.com/marketing/content-marketing-guide)
--   [Wistia's ultimate guide to video marketing](https://wistia.com/learn/marketing/video-marketing-guide)
--   [Campaign Monitor's ultimate guide to email marketing](https://www.campaignmonitor.com/resources/guides/the-ultimate-guide-to-email-marketing/)
--   [PR Daily's ultimate guide to public relations in 2021](https://www.prdaily.com/the-ultimate-guide-to-public-relations-in-2021/)
-
-<br> DISCLAIMER:
-
-“Business Initiative” is for general educational purposes only. “Business Initiative” does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making binding decisions regarding starting, operating, and growing your business. Use external resources independently of “Business Initiative.” It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.
+<details>
+<summary><b>Sources</b></summary>
+<br>
+<ul>
+    <li><a href="https://www.youtube.com/watch?v=nmwXdGm89Tk">Apple's "Think Different" campaign</a></li>
+    <li><a href="https://www.youtube.com/watch?v=WYP9AGtLvRg">Nike's "Just Do It" campaign</a></li>
+    <li><a href="https://www.zappos.com/about/our-unique-culture">Zappos' commitment to customer service</a></li>
+    <li><a href="https://www.airbnb.com/values">Airbnb's core values</a></li>
+    <li><a href="https://www.patagonia.com/environmentalism/footprint-dont-buy-this-jacket.html">Patagonia's "Don't Buy This Jacket" campaign</a></li>
+    <li><a href="https://www.tesla.com/about">Tesla's mission statement</a></li>
+    <li><a href="https://www.google.com/about/">Google's vision statement</a></li>
+    <li><a href="https://www.apple.com/customer-experience/">Apple's customer experience strategy</a></li>
+    <li><a href="https://blog.hubspot.com/marketing/content-marketing-guide">HubSpot's guide to content marketing in 2021</a></li>
+    <li><a href="https://wistia.com/learn/marketing/video-marketing-guide">Wistia's ultimate guide to video marketing</a></li>
+    <li><a href="https://www.campaignmonitor.com/resources/guides/the-ultimate-guide-to-email-marketing/">Campaign Monitor's ultimate guide to email marketing</a></li>
+    <li><a href="https://www.prdaily.com/the-ultimate-guide-to-public-relations-in-2021/">PR Daily's ultimate guide to public relations in 2021</a></li>
+</ul>
+</details>
 

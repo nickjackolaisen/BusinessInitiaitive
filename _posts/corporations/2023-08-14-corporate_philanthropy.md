@@ -2,9 +2,9 @@
 title: "Corporate Philanthropy - How Giving Back Drives Business Success"
 layout: post
 date: 2023-08-14
-update-date: 2023-09-06
+update-date: 2023-09-13
 author: jack_nicholaisen
-summary: "Discover the power of corporate philanthropy and how it can drive your business to new heights. Explore insights into developing and implementing effective philanthropic initiatives and learn actionable advice on aligning your company's values with its philanthropic goals. Don't miss out on this comprehensive guide to giving back while boosting your business success. Read on and unlock the full potential of corporate philanthropy today!"
+summary: "Discover corporate philanthropy's power to elevate your business. Learn to develop effective initiatives and align company values. Unlock its potential today!"
 permalink: /corporation/philanthropy/
 ---
 
@@ -191,30 +191,17 @@ Don't wait...
 <br>
 <ul>
 <li><a href="https://www.toms.com/our-giving/">TOMS Shoes Giving</a></li>
-
 <li><a href="https://www2.deloitte.com/content/dam/Deloitte/us/Documents/about-deloitte/us-2017-deloitte-volunteer-impact-research.pdf">Deloitte's 2017 Volunteer Impact Research</a></li>
-
 <li><a href="http://www.conecomm.com/2017-cone-communications-csr-study-pdf">2017 Cone Communications CSR Study</a></li>
-
 <li><a href="https://www.investopedia.com/terms/s/smart-goals.asp">How to Set SMART Goals</a></li>
-
 <li><a href="https://www.smartsheet.com/free-smart-goals-worksheet">SMART Goals Worksheet</a></li>
-
 <li><a href="https://www.thebalance.com/how-to-create-a-budget-1289587">How to Create a Budget</a></li>
-
 <li><a href="https://www.thebalancesmb.com/costs-of-starting-a-nonprofit-2501953">Costs of Starting a Nonprofit</a></li>
-
 <li><a href="https://www.thebalancesmb.com/how-to-develop-a-strategic-plan-2948000">How to Develop a Strategic Plan</a></li>
-
 <li><a href="https://www.smartsheet.com/free-strategic-planning-templates">Strategic Planning Worksheet</a></li>
-
 <li><a href="https://www.thebalancesmb.com/how-to-create-a-communication-plan-2951688">How to Create a Communication Plan</a></li>
-
 <li><a href="https://www.smartsheet.com/free-social-media-templates">Social Media Strategy Template</a></li>
-
 <li><a href="https://www.philanthropy.com/article/How-to-Measure-the-Impact-of/243330">How to Measure the Impact of Your Philanthropy</a></li>
-
 <li><a href="https://www.smartsheet.com/free-continuous-improvement-template">Continuous Improvement Template</a></li>
-
 </ul>
 </details>

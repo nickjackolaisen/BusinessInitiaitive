@@ -2,8 +2,9 @@
 title: "13 Ideas to Create a Sustainability Strategy for Your Business"
 layout: post
 date: 2023-08-14
+update_date: 2023-09-13
 author: jack_nicholaisen
-summary: "Corporate sustainability is increasingly important. This article provides insights into developing, implementing, and measuring effective sustainability strategies. It offers practical lessons for entrepreneurs and business owners to remain competitive and ensure long-term success. Don't miss out on the opportunity to learn how to make a positive impact on your business and the world around you – read on!"
+summary: "Corporate sustainability matters. Learn to develop, implement, and measure strategies for long-term success and positive impact. Read on!"
 permalink: /corporation/sustainability-strategies/
 ---
 
@@ -155,30 +156,31 @@ Don't hesitate to reach out to us for more information on how we can help your b
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
-## Sources
+<details>
+<summary><b>Sources</b></summary>
+<br>
+<ul>
+    <li><a href="https://www.unilever.com/sustainable-living/">Unilever Sustainable Living Plan</a></li>
+    <li><a href="https://www.patagonia.com/our-footprint/">Patagonia's Environmental & Social Initiatives</a></li>
+    <li><a href="https://www.ikea.com/gb/en/this-is-ikea/sustainable-everyday/">IKEA's Sustainability Strategy</a></li>
+    <li><a href="https://www2.deloitte.com/content/dam/Deloitte/global/Documents/About-Deloitte/gx-cr-responsible-business.pdf">Deloitte - The Business Case for Corporate Social Responsibility</a></li>
+    <li><a href="https://www.worldbank.org/en/topic/sustainabledevelopment/brief/sustainable-cost-savings">World Bank - Sustainable Cost Savings</a></li>
+    <li><a href="https://hbr.org/2016/10/the-comprehensive-business-case-for-sustainability">Harvard Business Review - The Comprehensive Business Case for Sustainability</a></li>
+    <li><a href="https://www.accenture.com/us-en/insights/strategy/sustainability-driven-innovation">Accenture - Sustainability-Driven Innovation</a></li>
+    <li><a href="https://www.forbes.com/sites/forbescontentmarketing/2018/10/17/how-sustainability-is-driving-employee-engagement/">Forbes - How Sustainability Is Driving Employee Engagement</a></li>
+    <li><a href="https://www.globalreporting.org/standards/gri-standards-toolkit/materiality/">GRI - Materiality Assessment</a></li>
+    <li><a href="https://www.projectsmart.co.uk/smart-goals.php">SMART Criteria - Project Smart</a></li>
+    <li><a href="https://www2.deloitte.com/content/dam/Deloitte/xe/Documents/About-Deloitte/mepovdocuments/mepov8/dtme_mepov8_Integrating_sustainability.pdf">Deloitte - Integrating Sustainability into Business Strategy</a></li>
+    <li><a href="https://www.ey.com/en_gl/assurance/sustainability/making-sustainability-a-key-responsibility">EY - Making Sustainability a Key Responsibility</a></li>
+    <li><a href="https://www.bain.com/insights/sustainability-action-plan/">Bain & Company - Developing a Sustainability Action Plan</a></li>
+    <li><a href="https://www.sustainabilityconsortium.org/sustainability-roadmap/">The Sustainability Consortium's "Sustainability Roadmap"</a></li>
+    <li><a href="https://www.globalreporting.org/how-to-use-the-gri-standards/">The Global Reporting Initiative's "How-to Guide on Sustainability Reporting"</a></li>
+    <li><a href="https://www.unglobalcompact.org/library/5">The United Nations Global Compact's "Guide to Corporate Sustainability"</a></li>
+    <li><a href="https://www.bsr.org/en/our-insights/blog-view/sustainability-key-performance-indicators-six-recommendations-for-executives">KPIs for Sustainability - BSR</a></li>
+    <li><a href="https://www.pwc.com/gx/en/services/sustainability/publications/adapting-your-sustainability-strategy.html">PwC - Adapting Sustainability Strategy</a></li>
+    <li><a href="https://sustainability.com/our-work/insights/sustainability-narrative/">Sustainability Narrative - SustainAbility</a></li>
+    <li><a href="https://www.globalreporting.org/how-to-use-the-gri-standards/communicating-sustainability/">GRI - Communicating Sustainability</a></li>
+    <li><a href="https://www.bsr.org/en/our-insights/report-view/engaging-stakeholders-on-sustainability">BSR - Engaging Stakeholders on Sustainability</a></li>
+</ul>
+</details>
 
--   [Unilever Sustainable Living Plan](https://www.unilever.com/sustainable-living/)
--   [Patagonia's Environmental & Social Initiatives](https://www.patagonia.com/our-footprint/)
--   [IKEA's Sustainability Strategy](https://www.ikea.com/gb/en/this-is-ikea/sustainable-everyday/)
--   [Deloitte - The Business Case for Corporate Social Responsibility](https://www2.deloitte.com/content/dam/Deloitte/global/Documents/About-Deloitte/gx-cr-responsible-business.pdf)
--   [World Bank - Sustainable Cost Savings](https://www.worldbank.org/en/topic/sustainabledevelopment/brief/sustainable-cost-savings)
--   [Harvard Business Review - The Comprehensive Business Case for Sustainability](https://hbr.org/2016/10/the-comprehensive-business-case-for-sustainability)
--   [Accenture - Sustainability-Driven Innovation](https://www.accenture.com/us-en/insights/strategy/sustainability-driven-innovation)
--   [Forbes - How Sustainability Is Driving Employee Engagement](https://www.forbes.com/sites/forbescontentmarketing/2018/10/17/how-sustainability-is-driving-employee-engagement/)
--   [GRI - Materiality Assessment](https://www.globalreporting.org/standards/gri-standards-toolkit/materiality/)
--   [SMART Criteria - Project Smart](https://www.projectsmart.co.uk/smart-goals.php)
--   [Deloitte - Integrating Sustainability into Business Strategy](https://www2.deloitte.com/content/dam/Deloitte/xe/Documents/About-Deloitte/mepovdocuments/mepov8/dtme_mepov8_Integrating_sustainability.pdf)
--   [EY - Making Sustainability a Key Responsibility](https://www.ey.com/en_gl/assurance/sustainability/making-sustainability-a-key-responsibility)
--   [Bain & Company - Developing a Sustainability Action Plan](https://www.bain.com/insights/sustainability-action-plan/)
--   [The Sustainability Consortium's "Sustainability Roadmap"](https://www.sustainabilityconsortium.org/sustainability-roadmap/)
--   [The Global Reporting Initiative's "How-to Guide on Sustainability Reporting"](https://www.globalreporting.org/how-to-use-the-gri-standards/)
--   [The United Nations Global Compact's "Guide to Corporate Sustainability"](https://www.unglobalcompact.org/library/5)
--   [KPIs for Sustainability - BSR](https://www.bsr.org/en/our-insights/blog-view/sustainability-key-performance-indicators-six-recommendations-for-executives)
--   [PwC - Adapting Sustainability Strategy](https://www.pwc.com/gx/en/services/sustainability/publications/adapting-your-sustainability-strategy.html)
--   [Sustainability Narrative - SustainAbility](https://sustainability.com/our-work/insights/sustainability-narrative/)
--   [GRI - Communicating Sustainability](https://www.globalreporting.org/how-to-use-the-gri-standards/communicating-sustainability/)
--   [BSR - Engaging Stakeholders on Sustainability](https://www.bsr.org/en/our-insights/report-view/engaging-stakeholders-on-sustainability)
-
-<br> DISCLAIMER:
-
-“Business Initiative” is for general educational purposes only. “Business Initiative” does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making binding decisions regarding starting, operating, and growing your business. Use external resources independently of “Business Initiative.” It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.

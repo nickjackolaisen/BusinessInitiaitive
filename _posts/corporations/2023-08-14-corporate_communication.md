@@ -2,9 +2,9 @@
 title: "39+ Communication Tools Your Business Needs to Embrace The Digital Transformation"
 layout: post
 date: 2023-08-14
-update_date: 2023-09-06
+update_date: 2023-09-13
 author: jack_nicholaisen
-summary: "Discover the future of corporate communication in the digital age, and learn how to leverage digital tools and platforms for more effective collaboration. This article offers insights on embracing social media, content marketing, and ensuring data privacy and security. Don't miss out on this opportunity to stay ahead of the curve and boost your business success– READ THIS to unlock the secrets of the future of corporate communication!"
+summary: "Discover digital corporate communication for effective collaboration. Embrace social media, content marketing, and data privacy. Boost success!"
 permalink: /corporation/communicaiton-tools/
 ---
 

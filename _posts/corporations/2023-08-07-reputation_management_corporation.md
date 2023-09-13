@@ -119,7 +119,7 @@ or
 <li><a href="https://hbr.org/2001/01/the-value-of-corporate-reputation">Harvard Business Review: The Value of Corporate Reputation</a></li>
 <li><a href="https://www.glassdoor.com/employers/blog/how-to-manage-your-companys-reputation-on-glassdoor/">Glassdoor: How to Manage Your Company's Reputation on Glassdoor</a></li>
 <li><a href="https://www.entrepreneur.com/article/283832">Entrepreneur</a></li>
-<li><a href="Mention">https://mention.com/en/</a></li>
+<li><a href="https://mention.com/en/">Mention</a></li>
 <li><a href="https://www.reputology.com/">Reputology</a></li>
 <li><a href="https://brand24.com/">Brand24</a></li>
 <li><a href="https://reputation.com/">Reputation.com</a></li>

@@ -2,9 +2,9 @@
 title: "19 Corporate Networking Strategies | Building Valuable Connections for Business Growth"
 layout: post
 date: 2023-08-01
-update_date: 2023-09-05
+update_date: 2023-09-13
 author: jack_nicholaisen
-summary: "Are you an entrepreneur or business owner looking to grow your business? You've definitely heard the phrase, 'It's not what you know, it's who you know.' Networking is an essential part of growing your business, and building a strong professional network can help you gain new insights, access valuable resources, and create opportunities for business growth."
+summary: "Entrepreneur? Grow your business through networking! Build a strong network for insights, resources, and growth opportunities."
 image: /images/posts-headers/corporate-networking-strategies.png
 permalink: /corporation/networking-strategies/
 ---

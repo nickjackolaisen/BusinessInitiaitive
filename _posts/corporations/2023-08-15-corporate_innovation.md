@@ -2,8 +2,9 @@
 title: "The Role of Corporate Innovation in Driving Business Growth"
 layout: post
 date: 2023-08-15
+update_date: 2023-09-13
 author: jack_nicholaisen
-summary: "Discover the importance of corporate innovation for business growth and gain valuable insights into fostering a culture of innovation within your organization. Revolutionize your business by unlocking employee creativity and establishing an innovation pipeline. Don't miss out on this opportunity to stay ahead of the competition – read on to learn actionable tips and tricks for driving long-term success!"
+summary: "Unlock corporate innovation for growth, foster a creative culture, and stay ahead with tips for long-term success!"
 permalink: /corporation/innovation/
 ---
 
@@ -117,19 +118,19 @@ You can also reach out with any questions via our [contact page](https://www.bus
 Let's work together to drive long-term growth and success for your business.
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
-
-## Sources
-
--   [Forbes: The Importance of Innovation in Driving Business Growth](https://www.forbes.com/sites/theyec/2018/04/30/the-importance-of-innovation-in-driving-business-growth/?sh=4a8d0c4d73a2)
--   [Harvard Business Review: 10 Ways to Encourage a Culture of Innovation](https://hbr.org/2019/11/10-ways-to-encourage-a-culture-of-innovation)
--   [Inc: 7 Ways to Foster a Culture of Innovation](https://www.inc.com/young-entrepreneur-council/7-ways-to-foster-a-culture-of-innovation.html)
--   [McKinsey & Company: The Eight Essentials of Innovation](https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/the-eight-essentials-of-innovation)
--   [Strategy+Business: Creating a Culture of Innovation](https://www.strategy-business.com/article/Creating-a-Culture-of-Innovation)
--   [McKinsey & Company](https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/the-eight-essentials-of-innovation) 
--   [PwC](https://www.pwc.com/us/en/services/growth-company-services/library/innovation-growth.html)
-
-<br> DISCLAIMER:
-
-“Business Initiative” is for general educational purposes only. “Business Initiative” does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making binding decisions regarding starting, operating, and growing your business. Use external resources independently of “Business Initiative.” It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.
-
-Share this article with your team and start fostering a culture of innovation today!
+<br>
+<details>
+<summary><b>Sources</b></summary>
+<br>
+<ul>
+    <li><a href="https://www.forbes.com/sites/theyec/2018/04/30/the-importance-of-innovation-in-driving-business-growth/?sh=4a8d0c4d73a2">Forbes: The Importance of Innovation in Driving Business Growth</a></li>
+    <li><a href="https://hbr.org/2019/11/10-ways-to-encourage-a-culture-of-innovation">Harvard Business Review: 10 Ways to Encourage a Culture of Innovation</a></li>
+    <li><a href="https://www.inc.com/young-entrepreneur-council/7-ways-to-foster-a-culture-of-innovation.html">Inc: 7 Ways to Foster a Culture of Innovation</a></li>
+    <li><a href="https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/the-eight-essentials-of-innovation">McKinsey & Company: The Eight Essentials of Innovation</a></li>
+    <li><a href="https://www.strategy-business.com/article/Creating-a-Culture-of-Innovation">Strategy+Business: Creating a Culture of Innovation</a></li>
+    <li><a href="https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/the-eight-essentials-of-innovation">McKinsey & Company</a></li>
+    <li><a href="https://www.pwc.com/us/en/services/growth-company-services/library/innovation-growth.html">PwC</a></li>
+</ul>
+</details>
+<br>
+<b>Share this article</b> with your team and start fostering a culture of innovation today!

@@ -2,6 +2,7 @@
 title: "The 19 Biggest Lies from New Insurance Industry Ads - Debunking Misinformation"
 layout: post
 date: 2023-09-06
+update_date: 2023-09-13
 author: jack_nicholaisen
 summary: "Discover the truth behind new insurance industry ads as we debunk their biggest lies and misinformation. Arm yourself with facts and make informed decisions."
 permalink: /thebiggestliesfromnewinsuranceindustryads/
@@ -260,11 +261,10 @@ You'll receive expert insights, tips, and valuable resources straight to your in
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 <br>
-
-For real-time updates and industry highlights, follow us on X (Twitter)<a href="https://twitter.com/intent/tweet?screen_name=BisInitiative&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-size="large" data-show-count="false">Tweet to @BisInitiative</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>. 
-
 Join the conversation as we continue to demystify the world of insurance together.
-
+<br>
+For real-time updates and industry highlights, follow us on X (Twitter)<a href="https://twitter.com/intent/tweet?screen_name=BisInitiative&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-size="large" data-show-count="false">Tweet to @BisInitiative</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>. 
+<br>
 <details>
 <summary><b>Sources</b></summary>
 <br>

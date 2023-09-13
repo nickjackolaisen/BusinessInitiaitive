@@ -2,9 +2,9 @@
 title: "Corporate Ethics and Compliance - Building Trust and Avoiding Legal Pitfalls"
 layout: post
 date: 2023-08-14
-update_date: 2023-09-06
+update_date: 2023-09-13
 author: jack_nicholaisen
-summary: "Discover the secret to building trust with stakeholders and steering clear of legal troubles with our in-depth guide on corporate ethics and compliance. Learn from real-life examples and gain practical tips to create a strong ethical culture in your business. Ignite your journey towards success now—read on!"
+summary: "Unlock the secret to trust-building & avoiding legal issues with our guide on corporate ethics. Strengthen your business's ethical culture today!"
 permalink: /corporation/ethics-and-compliance/
 ---
 

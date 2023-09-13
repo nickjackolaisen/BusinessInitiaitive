@@ -2,9 +2,9 @@
 title: "The Advantages and Challenges of Corporate Globalization - Is International Business Right for You?"
 layout: post
 date: 2023-08-14
-update_date: 2023-09-06
+update_date: 2023-09-13
 author: jack_nicholaisen
-summary: "Discover the possibilities and challenges of corporate globalization with this comprehensive, up-to-date article! We dive deep into the intricacies of expanding your business into international markets, providing you with practical tips and actionable strategies to ensure success. Don't let the world pass you by – read on to embrace the opportunities of globalization and propel your business forward!"
+summary: "Explore corporate globalization challenges & opportunities in our article. Get practical tips for international business success. Embrace global growth!"
 permalink: /corporation/globalization/
 ---
 

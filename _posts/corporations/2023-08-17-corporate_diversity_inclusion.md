@@ -2,8 +2,9 @@
 title: "Embracing Corporate Diversity and Inclusion - Strategies for a More Equitable Workplace"
 layout: post
 date: 2023-08-17
+update_date: 2023-09-13
 author: jack_nicholaisen
-summary: "Looking to create a more equitable and inclusive workplace? Embracing corporate diversity and inclusion is critical for businesses to thrive in today's globalized world. In this article, we will explore why diversity and inclusion are important, how you can assess your company's efforts, and offer practical strategies for creating a more inclusive workplace culture."
+summary: "Create an equitable workplace: embrace diversity and inclusion for business success. Assess efforts and apply practical strategies."
 permalink: /corporation/corporate-diversity-and-inclusion/
 ---
 
@@ -133,23 +134,25 @@ Contact us today through [our website's contact page](https://www.businessinitia
 Let us help you unlock the full potential of your workforce and position your business for success in today's global marketplace.
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
+<br>
+<details>
+<summary><b>Sources</b></summary>
+<br>
+<ul>
+    <li><a href="https://www.forbes.com/sites/forbescoachescouncil/2018/06/01/the-business-case-for-diversity-in-the-workplace-is-now-overwhelming/?sh=1f1a5a7e3b7d">"The Business Case for Diversity in the Workplace is Now Overwhelming"</a></li>
+    <li><a href="https://www.catalyst.org/research/why-diversity-and-inclusion-matter-quick-take/">"Why Diversity and Inclusion Matter: Quick Take"</a></li>
+    <li><a href="https://www.apple.com/diversity/">"Diversity and Inclusion"</a></li>
+    <li><a href="https://www.theguardian.com/technology/2016/jan/06/intel-diversity-in-tech-warm-line-workers">"Intel's Plan to Increase Diversity in Tech: A WarmLine for Workers"</a></li>
+    <li><a href="https://www.nber.org/papers/w9873">National Bureau of Economic Research</a></li>
+    <li><a href="https://hbr.org/2017/04/why-structured-interviews-are-so-predictive">Harvard Business Review</a></li>
+    <li><a href="https://www2.deloitte.com/us/en/insights/deloitte-review/issue-21/diversity-and-inclusion-at-work-eight-powerful-truths.html">Deloitte</a></li>
+    <li><a href="https://www.shrm.org/hr-today/trends-and-forecasting/research-and-surveys/Documents/2019-Employee-Benefits-Survey-Report.pdf">Society for Human Resource Management</a></li>
+    <li><a href="https://www.hrc.org/resources/corporate-equality-index">Human Rights Campaign</a></li>
+    <li><a href="https://hbr.org/2016/07/how-to-design-a-bias-free-organization">Harvard Business Review</a></li>
+    <li><a href="https://www.forbes.com/sites/forbestechcouncil/2019/06/03/how-intel-is-making-diversity-and-inclusion-more-than-just-buzzwords/?sh=1d4d6e7b4d7d">Forbes</a></li>
+    <li><a href="https://www.shrm.org/resourcesandtools/hr-topics/behavioral-competencies/global-and-cultural-effectiveness/pages/diversity-inclusion-training-managers.aspx">The Society for Human Resource Management</a></li>
+    <li><a href="https://hbr.org/2018/07/the-business-case-for-diversity">Harvard Business Review</a></li>
+    <li><a href="https://www.diversitybestpractices.com/benchmarking-toolkit/american-express-bluework">American Express: BlueWork</a></li>
+</ul>
+</details>
 
-## Sources
-
--   ["The Business Case for Diversity in the Workplace is Now Overwhelming"](https://www.forbes.com/sites/forbescoachescouncil/2018/06/01/the-business-case-for-diversity-in-the-workplace-is-now-overwhelming/?sh=1f1a5a7e3b7d)
--   ["Why Diversity and Inclusion Matter: Quick Take"](https://www.catalyst.org/research/why-diversity-and-inclusion-matter-quick-take/)
--   ["Diversity and Inclusion"](https://www.apple.com/diversity/)
--   ["Intel's Plan to Increase Diversity in Tech: A WarmLine for Workers"](https://www.theguardian.com/technology/2016/jan/06/intel-diversity-in-tech-warm-line-workers)
--   [National Bureau of Economic Research](https://www.nber.org/papers/w9873)
--   [Harvard Business Review](https://hbr.org/2017/04/why-structured-interviews-are-so-predictive)
--   [Deloitte](https://www2.deloitte.com/us/en/insights/deloitte-review/issue-21/diversity-and-inclusion-at-work-eight-powerful-truths.html)
--   [Society for Human Resource Management](https://www.shrm.org/hr-today/trends-and-forecasting/research-and-surveys/Documents/2019-Employee-Benefits-Survey-Report.pdf)
--   [Human Rights Campaign](https://www.hrc.org/resources/corporate-equality-index)
--   [Harvard Business Review](https://hbr.org/2016/07/how-to-design-a-bias-free-organization)
--   [Forbes](https://www.forbes.com/sites/forbestechcouncil/2019/06/03/how-intel-is-making-diversity-and-inclusion-more-than-just-buzzwords/?sh=1d4d6e7b4d7d)
--   [The Society for Human Resource Management](https://www.shrm.org/resourcesandtools/hr-topics/behavioral-competencies/global-and-cultural-effectiveness/pages/diversity-inclusion-training-managers.aspx)
--   [Harvard Business Review](https://hbr.org/2018/07/the-business-case-for-diversity)
--   [American Express: BlueWork](https://www.diversitybestpractices.com/benchmarking-toolkit/american-express-bluework)
-<br> DISCLAIMER:
-
-“Business Initiative” is for general educational purposes only. “Business Initiative” does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making binding decisions regarding starting, operating, and growing your business. Use external resources independently of “Business Initiative.” It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.

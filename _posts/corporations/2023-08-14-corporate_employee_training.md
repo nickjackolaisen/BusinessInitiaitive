@@ -2,9 +2,9 @@
 title: "How to Use Corporate Training and Development to Boost Employee Retention and Performance?"
 layout: post
 date: 2023-08-14
-update_date: 2023-09-06
+update_date: 2023-09-13
 author: jack_nicholaisen
-summary: "Elevate your business success by investing in your employees! Discover the importance of corporate training and development programs for employee retention and performance, and learn practical strategies for implementing effective training initiatives. Don't miss out on this game-changing article!"
+summary: "Boost business success with employee investment! Explore corporate training for retention & performance. Learn effective strategies. Don't miss out!"
 permalink: /corporation/employee-training-programs/
 ---
 

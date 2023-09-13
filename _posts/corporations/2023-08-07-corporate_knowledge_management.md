@@ -2,9 +2,9 @@
 title: "Knowledge Management | Channeling the Power of Organizational Knowledge in Your Corporation"
 layout: post
 date: 2023-08-07
-update_date: 2023-09-06
+update_date: 2023-09-13
 author: jack_nicholaisen
-summary: "Are you struggling with capturing, sharing, and leveraging your organization's knowledge? If so, you're not alone. Many companies struggle to effectively manage their knowledge, which can lead to inefficiencies, missed opportunities, and even failure."
+summary: "Struggling with managing your organization's knowledge? You're not alone. Inefficient knowledge management can lead to missed opportunities and failure."
 permalink: /corporation/knowledge-management/
 ---
 

@@ -2,8 +2,9 @@
 title: "The Power of Corporate Culture - Building a Positive and Productive Workplace"
 layout: post
 date: 2023-08-16
+update_date: 2023-09-13
 author: jack_nicholaisen
-summary: "Discover how corporate culture can make or break your company's success. In this article, we'll delve into the importance of a strong corporate culture, offering actionable strategies for fostering a positive and productive work environment. Don't miss this opportunity to learn valuable tips for enhancing employee satisfaction, boosting productivity, and achieving long-term business success. Read on to unlock the power of your company's culture!"
+summary: "Discover the power of corporate culture for success. Learn strategies for a positive work environment, boosting productivity & employee satisfaction."
 permalink: /corporation/corporate-culture/
 ---
 
@@ -189,20 +190,20 @@ Reach out to us via [our contact page](https://www.businessinitiative.org/contac
 We're here to support you at every stage of your journey towards long-term business success.
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
-
-## Sources:
-
--   [Google's Innovative Work Culture](https://www.businessinsider.com/google-office-facts-2016-4)
--   [Southwest Airlines' Corporate Culture](https://www.forbes.com/sites/greatspeculations/2016/10/17/southwest-airlines-competitive-advantage-shows-in-operating-margins/?sh=71f9e3e25b83)
--   [Amazon's Core Values](https://www.aboutamazon.com/our-company/our-leadership-principles)
--   [Tesla's Mission Statement](https://www.tesla.com/about)
--   [Glassdoor](https://www.glassdoor.com/research/job-seekers-attitudes-toward-company-culture/)
--   [University of Warwick](https://www2.warwick.ac.uk/newsandevents/pressreleases/new\\_study\\_shows/)
--   [Gallup](https://www.gallup.com/workplace/236927/employee-engagement-drives-growth.aspx)
--   [Google](https://www.businessinsider.com/google-culture-2014-2)
-
-<br> DISCLAIMER:
-
-“Business Initiative” is for general educational purposes only. “Business Initiative” does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making binding decisions regarding starting, operating, and growing your business. Use external resources independently of “Business Initiative.” It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.
-
-Share this article with your fellow entrepreneurs and business owners, and start building a positive and productive corporate culture today!
+<br>
+<details>
+<summary><b>Sources</b></summary>
+<br>
+<ul>
+    <li><a href="https://www.businessinsider.com/google-office-facts-2016-4">Google's Innovative Work Culture</a></li>
+    <li><a href="https://www.forbes.com/sites/greatspeculations/2016/10/17/southwest-airlines-competitive-advantage-shows-in-operating-margins/?sh=71f9e3e25b83">Southwest Airlines' Corporate Culture</a></li>
+    <li><a href="https://www.aboutamazon.com/our-company/our-leadership-principles">Amazon's Core Values</a></li>
+    <li><a href="https://www.tesla.com/about">Tesla's Mission Statement</a></li>
+    <li><a href="https://www.glassdoor.com/research/job-seekers-attitudes-toward-company-culture/">Glassdoor</a></li>
+    <li><a href="https://www2.warwick.ac.uk/newsandevents/pressreleases/new\\_study\\_shows/">University of Warwick</a></li>
+    <li><a href="https://www.gallup.com/workplace/236927/employee-engagement-drives-growth.aspx">Gallup</a></li>
+    <li><a href="https://www.businessinsider.com/google-culture-2014-2">Google</a></li>
+</ul>
+</details>
+<br>
+<b>Share this article</b> with your fellow entrepreneurs and business owners, and start building a positive and productive corporate culture today!

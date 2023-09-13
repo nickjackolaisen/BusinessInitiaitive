@@ -2,9 +2,9 @@
 title: "23 Popular Employee Wellness Programs to Use in Your Business | Benefits and Best Practices"
 layout: post
 date: 2023-08-14
-update_date: 2023-08-29
+update_date: 2023-09-13
 author: jack_nicholaisen
-summary: "Are you looking for ways to improve employee productivity, reduce healthcare costs, and boost your business's bottom line? If so, it's time to consider investing in a corporate wellness program. These initiatives are on the rise, and for good reason. In this article, we'll explore the benefits of workplace wellness programs and provide best practices for designing and implementing effective initiatives that meet the needs and interests of your employees."
+summary: "Boost employee productivity & reduce costs with corporate wellness programs. Explore benefits & best practices for effective initiatives."
 permalink: /corporation/wellness-programs/
 ---
 
@@ -184,15 +184,15 @@ Let us help you invest in your employees' well-being and achieve long-term busin
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
-## Sources
-
--   [Centers for Disease Control and Prevention. (2021). Workplace Health Promotion](https://www.cdc.gov/workplacehealthpromotion/index.html)
--   ["Why Wellness Programs are on the Rise," Forbes](https://www.forbes.com/sites/forbestechcouncil/2021/03/05/why-wellness-programs-are-on-the-rise/?sh=7eebb3fd6e44)
--   ["The Benefits of Corporate Wellness Programs," Harvard Business Review](https://hbr.org/2010/12/the-benefits-of-corporate-wellness-programs)
--   [Harvard Business Review. (2019). The Business Case for Corporate Wellness Programs](https://hbr.org/2019/05/the-business-case-for-corporate-wellness-programs)
--   [Society for Human Resource Management. (2021). Workplace Wellness Programs](https://www.shrm.org/resourcesandtools/tools-and-samples/toolkits/pages/workplacewellnessprograms.aspx)
--   ["Google's Employee Wellness Program," CNBC](https://www.cnbc.com/2018/10/26/heres-what-google-offers-employees-to-stay-healthy.html)
-
-<br> DISCLAIMER:
-
-“Business Initiative” is for general educational purposes only. “Business Initiative” does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making binding decisions regarding starting, operating, and growing your business. Use external resources independently of “Business Initiative.” It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.
+<details>
+<summary><b>Sources</b></summary>
+<br>
+<ul>
+    <li><a href="https://www.cdc.gov/workplacehealthpromotion/index.html">Centers for Disease Control and Prevention. (2021). Workplace Health Promotion</a></li>
+    <li><a href="https://www.forbes.com/sites/forbestechcouncil/2021/03/05/why-wellness-programs-are-on-the-rise/?sh=7eebb3fd6e44">"Why Wellness Programs are on the Rise," Forbes</a></li>
+    <li><a href="https://hbr.org/2010/12/the-benefits-of-corporate-wellness-programs">"The Benefits of Corporate Wellness Programs," Harvard Business Review</a></li>
+    <li><a href="https://hbr.org/2019/05/the-business-case-for-corporate-wellness-programs">Harvard Business Review. (2019). The Business Case for Corporate Wellness Programs</a></li>
+    <li><a href="https://www.shrm.org/resourcesandtools/tools-and-samples/toolkits/pages/workplacewellnessprograms.aspx">Society for Human Resource Management. (2021). Workplace Wellness Programs</a></li>
+    <li><a href="https://www.cnbc.com/2018/10/26/heres-what-google-offers-employees-to-stay-healthy.html">"Google's Employee Wellness Program," CNBC</a></li>
+</ul>
+</details>

@@ -2,8 +2,9 @@
 title: "Ultimate Guide to Create Killer Corporate Branding in Today's Competitive Marketplace"
 layout: post
 date: 2023-08-15
+update_date: 2023-09-13
 author: jack_nicholaisen
-summary: "Discover the crucial role corporate branding plays in today's fiercely competitive marketplace. Uncover insights into developing a powerful and consistent brand identity that drives long-term business success. Don't miss out on actionable tips and tricks to elevate your brand – read on to give your business the edge it deserves!"
+summary: "Explore corporate branding's role in a competitive market. Develop a strong brand identity for long-term success. Elevate your brand with our tips!"
 permalink: /corporation/branding-guide/
 ---
 
@@ -241,12 +242,12 @@ Follow us on social media [@BisInitiative](https://www.twitter.com/BisInitiative
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
-## Sources
-
--   [Forbes - Why Brand Building Is Important](https://www.forbes.com/sites/scottdavis/2012/06/05/why-brand-building-is-important/?sh=69d3cdc457d2)
--   [Harvard Business Review - The Role of Brands in Markets](https://hbr.org/2016/09/the-role-of-brands-in-markets)
--   [Entrepreneur - 7 Reasons Why Branding Matters](https://www.entrepreneur.com/article/354388)
-
-<br> DISCLAIMER:
-
-“Business Initiative” is for general educational purposes only. “Business Initiative” does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making binding decisions regarding starting, operating, and growing your business. Use external resources independently of “Business Initiative.” It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.
+<details>
+<summary><b>Sources</b></summary>
+<br>
+<ul>
+    <li><a href="https://www.forbes.com/sites/scottdavis/2012/06/05/why-brand-building-is-important/?sh=69d3cdc457d2">Forbes - Why Brand Building Is Important</a></li>
+    <li><a href="https://hbr.org/2016/09/the-role-of-brands-in-markets">Harvard Business Review - The Role of Brands in Markets</a></li>
+    <li><a href="https://www.entrepreneur.com/article/354388">Entrepreneur - 7 Reasons Why Branding Matters</a></li>
+</ul>
+</details>
