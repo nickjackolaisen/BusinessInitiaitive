@@ -2,7 +2,7 @@
 title: "Sole Proprietorship Facts, Stats, & FAQs for 2023"
 layout: post
 date: 2023-07-05
-update_date: 2023-09-10
+update_date: 2023-09-19
 author: jack_nicholaisen
 summary: "Unlock your business potential with our data-driven insights, expert consulting, and tailored pricing. Elevate success today!" 
 image: /images/posts-headers/sole-proprietorship-facts-stats-faqs-header.png
@@ -15,9 +15,9 @@ According to the 2020 US Census from 2020, there were **826,915 Sole Proprietors
 
 ## What percentage of businesses are Sole Proprietorships?
 
-Based on this, **10.34% percent of businesses are Sole Proprietorships in the United States.**
+Based on this, **10.34% percent of businesses are Sole Proprietorships in the United States.** It's clear from this fact alone that a significant portion of people enjoy being sole proprietors in the US. It should come as no surprise since they are the easiest, cheapest, and fastest business for someone to start. [Source](https://data.census.gov/table?g=040XX00US29&tid=CBP2020.CB2000CBP)
 
-**Source:** *Census Table-CB2000CBP     Dataset-CBP2020   Data Released-May 26, 2022*
+<p><b>➤ TAKE INITIATIVE: </b> <a href="https://www.businessinitiative.org/sole-proprietorship/examples/" target="_blank">Here are some examples use can use to start your own Sole Proprietorship</a></p>
 
 {% include takeaway-box.html bullet1="<b>Sole proprietorship advantages:</b> Sole proprietorships offer simplicity, low start-up costs, and full control over business decisions." bullet2="<b>Tax implications:</b> Owners of sole proprietorships report their business income and expenses on their personal tax returns, which can simplify tax filing." bullet3="<b>Legal liability:</b> Sole proprietors are personally responsible for all debts and liabilities associated with their businesses, making it important to consider risk management strategies." bullet4="<b>Growth potential:</b> Expanding a sole proprietorship may require additional financing or partnerships; consider the long-term goals of your business when choosing this structure." bullet5="<b>Alternatives to consider:</b> While sole proprietorships are common, other options like limited liability companies (LLCs) or corporations may better suit certain entrepreneurs' needs and provide additional legal protection."%}
 
