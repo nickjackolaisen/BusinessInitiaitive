@@ -5,6 +5,8 @@ permalink: /whoweare/
 tags: about us, who we are, what is business initiative, business registration, llc, corporaiton, taxes, limited liability company
 ---
 
+## What is Business Initiative?
+
 Welcome to Business Initiative, a platform dedicated to fostering the growth of entrepreneurs and their companies. 
 
 We specialize in LLC formation and can also help aspiring business owners set up partnerships, corporations, and other business entities.
@@ -13,7 +15,7 @@ As a company passionate about the world of business, we strive to provide valuab
 
 Our primary goal is to empower those who seek to create a positive impact in their communities and the world, by helping them turn their innovative ideas into successful ventures with.
 
-**Business Initiative is the path of least resistance.**
+**Business Initiative is your path of least resistance.**
 
 ## Our Purpose
 
