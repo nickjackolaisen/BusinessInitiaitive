@@ -2,9 +2,9 @@
 title: "The Ultimate Guide to Drafting a Solid LLC Operating Agreement: Expert Tips and Best Practices"
 layout: post
 date: 2023-08-07
-update_date: 2023-09-07
+update_date: 2023-09-20
 author: jack_nicholaisen
-summary: "Do you want to ensure the success and stability of your new business? Discover the importance of a well-drafted LLC operating agreement and learn expert tips to create a comprehensive and effective document. Don't leave your business's future to chance – read it to unlock the secrets to drafting an LLC operating agreement that works for you."
+summary: "Ensure your business success with a well-drafted LLC operating agreement. Discover expert tips for an effective document. Unlock the secrets today."
 permalink: /llc/operating-agreement/drafting/
 ---
 
@@ -121,15 +121,9 @@ Take the time to draft a clear and enforceable operating agreement that works fo
 <details>
 <summary><b>Sources</b></summary>
 <br>
-
 <ul>
-<li><a href="https://www.forbes.com/sites/gregsatell/2013/05/27/a-look-inside-fisker-automotives-epic-failure/?sh=3d32fd1b7e30">Fisker Automotive's Epic Failure</a></li>
-
-<li><a href="https://www.inc.com/eric-schurenberg/how-zynga-went-from-fastest-growing-to-also-ran.html">How Zynga Went from Fastest Growing to Also-Ran</a></li>
-
+    <li><a href="https://www.forbes.com/sites/gregsatell/2013/05/27/a-look-inside-fisker-automotives-epic-failure/?sh=3d32fd1b7e30">Fisker Automotive's Epic Failure</a></li>
+    <li><a href="https://www.inc.com/eric-schurenberg/how-zynga-went-from-fastest-growing-to-also-ran.html">How Zynga Went from Fastest Growing to Also-Ran</a></li>
 </ul>
-
 </details>
-
-
 

@@ -2,9 +2,9 @@
 layout: post
 title: "LLC Operating Agreements | Why You Need One and What to Include"
 date: 2023-08-09
-update_date: 2023-09-07
+update_date: 2023-09-20
 author: jack_nicholaisen
-summary: "Discover the crucial elements of an LLC operating agreement and why it's a must-have for your business. Unlock the secrets to drafting an effective agreement and avoid common pitfalls. Don't miss out on this comprehensive guide – read on to secure your business's future success!"
+summary: "Explore vital LLC operating agreement elements for success. Learn to draft effectively & dodge pitfalls. Secure your business's future now!"
 permalink: /llc/operating-agreement/purpose/
 ---
 
@@ -119,20 +119,14 @@ Ask any questions you might have directly [HERE](https://www.businessinitiative.
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
 <br>
-
 <details>
 <summary><b>Sources</b></summary>
 <br>
-
 <ul>
-<li><a href="https://www.courtlistener.com/opinion/3129041/gatz-properties-llc-v-auriga-capital-corp/">Gatz Properties, LLC v. Auriga Capital Corp.</a></li>
-
-<li><a href="https://casetext.com/case/fisk-ventures-llc-v-segal">Fisk Ventures, LLC v. Segal</a></li>
-
-<li><a href="https://www.americanbar.org/groups/business_law/resources/directory_of_business_lawyers/">Directory of Business Lawyers - American Bar Association</a></li>
-
+    <li><a href="https://www.courtlistener.com/opinion/3129041/gatz-properties-llc-v-auriga-capital-corp/">Gatz Properties, LLC v. Auriga Capital Corp.</a></li>
+    <li><a href="https://casetext.com/case/fisk-ventures-llc-v-segal">Fisk Ventures, LLC v. Segal</a></li>
+    <li><a href="https://www.americanbar.org/groups/business_law/resources/directory_of_business_lawyers/">Directory of Business Lawyers - American Bar Association</a></li>
 </ul>
-
 </details>
 
 

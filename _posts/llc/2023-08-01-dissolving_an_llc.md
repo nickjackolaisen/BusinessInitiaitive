@@ -2,8 +2,9 @@
 title: "Dissolving an LLC - A Step-by-Step Guide to Closing Your Business"
 layout: post
 date: 2023-08-01
+update_date: 2023-09-20
 author: jack_nicholaisen
-summary: "Are you considering closing your LLC? Discover everything you need to know about dissolving an LLC, from legal and financial considerations to practical tips for a smooth process. Empower yourself with the knowledge to successfully navigate this complex process by reading our comprehensive guide. Don't miss out, dive in now!"
+summary: "Considering closing your LLC? Learn legal, financial, and practical tips for dissolving it in our comprehensive guide. Dive in now!"
 permalink: /llc/dissolving-process/
 ---
 
@@ -77,9 +78,13 @@ To avoid any tax-related issues, it is essential to consult with a tax professio
 
 ## Asset Distribution
 
-After all debts are settled, the remaining assets must be distributed among the members. The distribution process typically follows the guidelines set forth in the operating agreement or state law. 
+After all debts are settled, the remaining assets must be distributed among the members. 
 
-Assets may include cash, property, or other tangible assets. It is important to document the distribution process and retain records for tax and legal purposes.
+The distribution process typically follows the guidelines set forth in the operating agreement or state law. 
+
+Assets may include cash, property, or other tangible assets. 
+
+It is important to document the distribution process and retain records for tax and legal purposes.
 
 ## Practical Lessons: Tips for a Smooth Dissolution Process
 
@@ -103,11 +108,17 @@ Give yourself ample time to complete the dissolution process, as it can take sev
 
 ### Toys "R" Us
 
-In 2018, the iconic toy retailer filed for bankruptcy and began liquidating its assets, ultimately dissolving its business. The company struggled with mounting debt and competition from e-commerce giants like Amazon. The Toys "R" Us case highlights the importance of adapting to changing market conditions and managing debt.
+In 2018, the iconic toy retailer filed for bankruptcy and began liquidating its assets, ultimately dissolving its business. 
+
+The company struggled with mounting debt and competition from e-commerce giants like Amazon. 
+
+The Toys "R" Us case highlights the importance of adapting to changing market conditions and managing debt.
 
 ### Blockbuster Video
 
-Once a dominant force in the video rental industry, Blockbuster filed for bankruptcy in 2010 and subsequently closed its remaining stores. The rise of digital streaming services like Netflix led to the company's demise, illustrating the need to evolve with technological advancements and consumer preferences.
+Once a dominant force in the video rental industry, Blockbuster filed for bankruptcy in 2010 and subsequently closed its remaining stores. 
+
+The rise of digital streaming services like Netflix led to the company's demise, illustrating the need to evolve with technological advancements and consumer preferences.
 
 ## Key Takeaways
 
@@ -121,14 +132,18 @@ Now that you've read our comprehensive guide, you're better equipped to close yo
 
 If you learned something from this article, share it with your fellow entrepreneurs!
 
-## Sources
+<br>
+<details>
+<summary><b>Sources</b></summary>
+<br>
+<ul>
+    <li><a href="https://www.irs.gov/businesses/small-businesses-self-employed/closing-a-business">IRS: Closing a Business</a></li>
+    <li><a href="https://www.nolo.com/legal-encyclopedia/how-to-dissolve-llc.html">NOLO: How to Dissolve an LLC</a></li>
+    <li><a href="https://www.sba.gov/business-guide/manage-your-business/close-or-sell-your-business">U.S. Small Business Administration: Closing Your Business</a></li>
+    <li><a href="https://www.forbes.com/sites/adamhartung/2018/03/22/how-bad-decisions-brought-toys-r-us-to-its-demise/?sh=1e61b6b84f5a">Forbes: The Fall of Toys 'R' Us</a></li>
+    <li><a href="https://www.cnbc.com/2017/08/04/blockbusters-rise-and-fall-the-inside-story.html">CNBC: Blockbuster's rise and fall</a></li>
+</ul>
+</details>
 
-[IRS: Closing a Business](https://www.irs.gov/businesses/small-businesses-self-employed/closing-a-business)
 
-[NOLO: How to Dissolve an LLC](https://www.nolo.com/legal-encyclopedia/how-to-dissolve-llc.html)
 
-[U.S. Small Business Administration: Closing Your Business](https://www.sba.gov/business-guide/manage-your-business/close-or-sell-your-business)
-
-[Forbes: The Fall of Toys 'R' Us](https://www.forbes.com/sites/adamhartung/2018/03/22/how-bad-decisions-brought-toys-r-us-to-its-demise/?sh=1e61b6b84f5a)
-
-[CNBC: Blockbuster's rise and fall](https://www.cnbc.com/2017/08/04/blockbusters-rise-and-fall-the-inside-story.html)

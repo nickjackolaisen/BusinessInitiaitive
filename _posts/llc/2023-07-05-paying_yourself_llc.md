@@ -332,12 +332,5 @@ Good Luck!
 Oh, and before we forget... 
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
-
-<br>DISCLAIMER:
-
-Some states have special rules and regulations that have to be followed when it comes to how LLCs are set up and how their Members are paid. Certain states require that you have multiple people to form the LLC in the first place, in which case the Single-Member option is off the table. There are also some tricks to working the rules like setting up in one state initially and then expanding operations to other states with harder regulations. We’ll save the tax breaks and loopholes for another time.
-
-This is why it’s imperative to speak with financial advisors, lawyers, and business professions especially when getting your business up and running. It also wouldn’t be a bad idea to stay in touch with them regularly as you build your business and it blossoms.
-
-"Business Initiative" is for general educational purposes only. "Business Initiative" does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making any binding decisions when it comes to starting, operating, and growing your business. External resources should be used independently of "Business Initiative". It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.
+<br>
 
