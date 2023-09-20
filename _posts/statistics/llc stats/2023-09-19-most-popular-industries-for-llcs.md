@@ -1,5 +1,5 @@
 ---
-title: "10 Most Popular Industries for LLC Formation"
+title: "The 10 Most Popular Industries for LLC Formation"
 layout: post
 date: 2023-09-19
 author: jack_nicholaisen
@@ -205,7 +205,7 @@ Here we will explore the top industries in various regions across the United Sta
 
 <center>
 <img alt="northeastern united states" src="/images/content/region/northeastern-us.png" style="width: 63%; height: 63%">
-Courtesy <a href="https://en.wikipedia.org/wiki/Northeastern_United_States" target="_blank">Wikipedia</a>
+<h5>Courtesy <a href="https://en.wikipedia.org/wiki/Northeastern_United_States" target="_blank">Wikipedia</a></h5>
 </center>
 
 The Northeast region, home to major cities like New York City and Boston, has a strong focus on technology and finance. 
@@ -224,7 +224,7 @@ Source: [PwC MoneyTree Report](https://www.pwc.com/us/en/moneytree-report.html)
 
 <center>
 <img alt="midwestern united states" src="/images/content/region/midwestern-us.png" style="width: 63%; height: 63%">
-Courtesy <a href="https://en.wikipedia.org/wiki/Midwestern_United_States" target="_blank">Wikipedia</a>
+<p>Courtesy <a href="https://en.wikipedia.org/wiki/Midwestern_United_States" target="_blank">Wikipedia</a></p>
 </center>
 
 The Midwest is known for its manufacturing prowess and agricultural production. 
@@ -243,7 +243,7 @@ Source: [U.S. Department of Commerce](https://www.selectusa.gov/industries)
 
 <center>
 <img alt="southern united states" src="/images/content/region/southern-us.png" style="width: 63%; height: 63%">
-Courtesy <a href="https://en.wikipedia.org/wiki/Southern_United_States" target="_blank">Wikipedia</a>
+<h4>Courtesy <a href="https://en.wikipedia.org/wiki/Southern_United_States" target="_blank">Wikipedia</a></h4>
 </center>
 
 The South boasts a thriving healthcare sector due to its aging population and growing demand for medical services. 
@@ -262,7 +262,7 @@ Source: [Bureau of Economic Analysis](https://www.bea.gov/data/gdp/gdp-industry)
 
 <center>
 <img alt="western united states" src="/images/content/region/western-us.png" style="width: 63%; height: 63%">
-Courtesy <a href="https://en.wikipedia.org/wiki/Western_American_English" target="_blank">Wikipedia</a>
+<h3>Courtesy <a href="https://en.wikipedia.org/wiki/Western_American_English" target="_blank">Wikipedia</a></h3>
 </center>
 
 The West Coast is synonymous with innovation and entertainment. 
