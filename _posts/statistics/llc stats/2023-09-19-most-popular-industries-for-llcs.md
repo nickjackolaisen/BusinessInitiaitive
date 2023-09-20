@@ -153,6 +153,13 @@ This section provides a comparative analysis of the industry breakdown for LLC f
 
 -   ### North America
 
+<center>
+<img alt="north america map" src="/images/content/region/north-america.png" style="width: 63%; height: 63%">
+<p>
+Courtesy <a href="https://gisgeography.com/world-atlas/" target="_blank">GIS Geography</a>
+</p>
+</center>
+
 In North America, **e-commerce and real estate** continue to dominate the landscape for LLC formations. 
 
 The United States, in particular, has a well-developed e-commerce infrastructure that fosters growth in this sector ([U.S. Census Bureau](https://www.census.gov/retail/index.html)). 
@@ -160,6 +167,13 @@ The United States, in particular, has a well-developed e-commerce infrastructure
 In Canada, the natural resource sector also plays a significant role in driving LLC formations due to its abundant resources and global demand ([Natural Resources Canada](https://www.nrcan.gc.ca/our-natural-resources/18091)).
 
 -   ### Europe
+
+<center>
+<img alt="europe map" src="/images/content/region/europe.png" style="width: 63%; height: 63%">
+<p>
+Courtesy <a href="https://gisgeography.com/world-atlas/" target="_blank">GIS Geography</a>
+</p>
+</center>
 
 Europe's diverse business landscape sees a higher concentration of LLCs in industries like **consulting, marketing & advertising, and software development**. 
 
@@ -169,6 +183,13 @@ Additionally, tourism-related businesses such as event planning are prevalent in
 
 -   ### Asia-Pacific
 
+<center>
+<img alt="asia map" src="/images/content/region/asia.png" style="width: 63%; height: 63%">
+<p>
+Courtesy <a href="https://gisgeography.com/world-atlas/" target="_blank">GIS Geography</a>
+</p>
+</center>
+
 The Asia-Pacific region is known for its rapid technological advancements and manufacturing prowess. 
 
 As a result, there is a noticeable trend towards LLC formations in industries related to **technology (e.g., software development) and manufacturing** ([World Bank](https://data.worldbank.org/indicator/NV.MNF.TECH.ZS.UN?view=chart)). 
@@ -177,6 +198,13 @@ Furthermore, the growing middle class across Asia has spurred growth in **health
 
 -   ### Latin America
 
+<center>
+<img alt="south america map" src="/images/content/region/south-america.png" style="width: 63%; height: 63%">
+<p>
+Courtesy <a href="https://gisgeography.com/world-atlas/" target="_blank">GIS Geography</a>
+</p>
+</center>
+
 In Latin America, industries such as **construction & home improvement and food & beverage** have seen significant growth in LLC formations. 
 
 The region has experienced increased urbanization, leading to a demand for new infrastructure and housing projects ([United Nations](https://www.un.org/development/desa/en/news/population/world-urbanization-prospects-2018.html)). 
@@ -184,6 +212,13 @@ The region has experienced increased urbanization, leading to a demand for new i
 Additionally, the rich culinary traditions of countries like Mexico, Brazil, and Argentina contribute to the popularity of food & beverage businesses.
 
 -   ### Middle East & Africa
+
+<center>
+<img alt="africa map" src="/images/content/region/africa.png" style="width: 63%; height: 63%">
+<p>
+Courtesy <a href="https://gisgeography.com/world-atlas/" target="_blank">GIS Geography</a>
+</p>
+</center>
 
 The Middle East and Africa region is characterized by a high concentration of LLCs in industries related to **energy (particularly oil and gas) and construction**. 
 
@@ -204,8 +239,10 @@ Here we will explore the top industries in various regions across the United Sta
 -   ### Northeast: Technology & Finance
 
 <center>
-<img alt="northeastern united states" src="/images/content/region/northeastern-us.png" style="width: 63%; height: 63%">
-<h5>Courtesy <a href="https://en.wikipedia.org/wiki/Northeastern_United_States" target="_blank">Wikipedia</a></h5>
+<img alt="northeastern united states map" src="/images/content/region/northeastern-us.png" style="width: 63%; height: 63%">
+<p>
+Courtesy <a href="https://en.wikipedia.org/wiki/Northeastern_United_States" target="_blank">Wikipedia</a>
+</p>
 </center>
 
 The Northeast region, home to major cities like New York City and Boston, has a strong focus on technology and finance. 
@@ -223,8 +260,10 @@ Source: [PwC MoneyTree Report](https://www.pwc.com/us/en/moneytree-report.html)
 -   ### Midwest: Manufacturing & Agriculture
 
 <center>
-<img alt="midwestern united states" src="/images/content/region/midwestern-us.png" style="width: 63%; height: 63%">
-<p>Courtesy <a href="https://en.wikipedia.org/wiki/Midwestern_United_States" target="_blank">Wikipedia</a></p>
+<img alt="midwestern united states map" src="/images/content/region/midwestern-us.png" style="width: 63%; height: 63%">
+<p>
+Courtesy <a href="https://en.wikipedia.org/wiki/Midwestern_United_States" target="_blank">Wikipedia</a>
+</p>
 </center>
 
 The Midwest is known for its manufacturing prowess and agricultural production. 
@@ -242,8 +281,10 @@ Source: [U.S. Department of Commerce](https://www.selectusa.gov/industries)
 -   ### South: Healthcare & Tourism
 
 <center>
-<img alt="southern united states" src="/images/content/region/southern-us.png" style="width: 63%; height: 63%">
-<h4>Courtesy <a href="https://en.wikipedia.org/wiki/Southern_United_States" target="_blank">Wikipedia</a></h4>
+<img alt="southern united states map" src="/images/content/region/southern-us.png" style="width: 63%; height: 63%">
+<p>
+Courtesy <a href="https://en.wikipedia.org/wiki/Southern_United_States" target="_blank">Wikipedia</a>
+</p>
 </center>
 
 The South boasts a thriving healthcare sector due to its aging population and growing demand for medical services. 
@@ -261,8 +302,10 @@ Source: [Bureau of Economic Analysis](https://www.bea.gov/data/gdp/gdp-industry)
 -   ### West: Technology & Entertainment
 
 <center>
-<img alt="western united states" src="/images/content/region/western-us.png" style="width: 63%; height: 63%">
-<h3>Courtesy <a href="https://en.wikipedia.org/wiki/Western_American_English" target="_blank">Wikipedia</a></h3>
+<img alt="western united states map" src="/images/content/region/western-us.png" style="width: 63%; height: 63%">
+<p>
+Courtesy <a href="https://en.wikipedia.org/wiki/Western_American_English" target="_blank">Wikipedia</a>
+</p>
 </center>
 
 The West Coast is synonymous with innovation and entertainment. 
