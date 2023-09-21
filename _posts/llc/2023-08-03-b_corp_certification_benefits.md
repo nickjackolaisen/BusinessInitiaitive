@@ -2,8 +2,9 @@
 title: "The Benefits of B Corp Certification for Your LLC - Balancing Profit and Purpose"
 layout: post
 date: 2023-08-03
+update_date: 2023-09-21
 author: jack_nicholaisen
-summary: "Discover the transformative power of B Corp certification for your LLC and learn how it can help you balance profit and purpose. Unlock the potential of your business to drive positive change in the world, while reaping significant benefits for your company. Don't miss this opportunity to elevate your business to new heights - read on to learn more!"
+summary: "Discover B Corp certification for your LLC, balancing profit & purpose. Unlock potential, drive change, and elevate your business. Learn more!"
 permalink: /llc/b-corp-certification/
 ---
 
@@ -135,16 +136,17 @@ Take the first step towards B Corp certification by completing the [B Impact Ass
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
 
-## Sources
+<br>
+<details>
+<summary><b>Sources</b></summary>
+<br>
+<ul>
+    <li><a href="https://bcorporation.net/">B Lab</a></li>
+    <li><a href="https://bimpactassessment.net/">B Impact Assessment</a></li>
+    <li><a href="https://bcorporation.net/certification">Certification Fee</a></li>
+    <li><a href="https://www.patagonia.com/home/">Patagonia</a></li>
+    <li><a href="https://www.benjerry.com/">Ben & Jerry's</a></li>
+    <li><a href="https://www.eileenfisher.com/">Eileen Fisher</a></li>
+</ul>
+</details>
 
-[B Lab](https://bcorporation.net/)
-
-[B Impact Assessment](https://bimpactassessment.net/)
-
-[Certification Fee](https://bcorporation.net/certification)
-
-[Patagonia](https://www.patagonia.com/home/)
-
-[Ben & Jerry's](https://www.benjerry.com/)
-
-[Eileen Fisher](https://www.eileenfisher.com/)

@@ -2,8 +2,9 @@
 title: "How to Convert Your Sole Proprietorship or Partnership into an LLC"
 layout: post
 date: 2023-08-03
+update_date: 2023-09-21
 author: jack_nicholaisen
-summary: "Discover the benefits of converting your sole proprietorship or partnership into an LLC. Learn the legal steps, tax implications, and practical tips for a smooth transition. Don't miss this essential guide to taking your business to the next level – Read it NOW!"
+summary: "Explore converting your business to an LLC. Learn legal steps, tax implications, and tips for a smooth transition. Read our essential guide now!"
 permalink: /llc/converting-sole-proprietorships-partnerships/
 ---
 
@@ -131,12 +132,15 @@ Don't wait any longer...
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
-## Sources
+<br>
+<details>
+<summary><b>Sources</b></summary>
+<br>
+<ul>
+    <li><a href="https://www.irs.gov/businesses/small-businesses-self-employed/limited-liability-company-llc">IRS: Limited Liability Company (LLC)</a></li>
+    <li><a href="https://www.sba.gov/business-guide/launch-your-business/choose-business-structure">SBA: Choose a business structure</a></li>
+    <li><a href="https://www.nolo.com/legal-encyclopedia/converting-sole-proprietorship-llc.html">NOLO: Converting a Sole Proprietorship to an LLC</a></li>
+    <li><a href="https://www.rocketlawyer.com/business-and-contracts/starting-a-business/partnership-to-llc">Rocket Lawyer: How to Convert a Partnership to an LLC</a></li>
+</ul>
+</details>
 
-[IRS: Limited Liability Company (LLC)](https://www.irs.gov/businesses/small-businesses-self-employed/limited-liability-company-llc)
-
-[SBA: Choose a business structure](https://www.sba.gov/business-guide/launch-your-business/choose-business-structure)
-
-[NOLO: Converting a Sole Proprietorship to an LLC](https://www.nolo.com/legal-encyclopedia/converting-sole-proprietorship-llc.html)
-
-[Rocket Lawyer: How to Convert a Partnership to an LLC](https://www.rocketlawyer.com/business-and-contracts/starting-a-business/partnership-to-llc)

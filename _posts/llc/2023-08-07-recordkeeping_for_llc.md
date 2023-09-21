@@ -2,8 +2,9 @@
 title: "The Ins and Outs of LLC Recordkeeping | What Documents to Keep and Why"
 layout: post
 date: 2023-08-07
+update_date: 2023-09-21
 author: jack_nicholaisen
-summary: "Are you an LLC owner looking to stay organized and legally compliant? Look no further! In this comprehensive article, we'll dive deep into the essential documents you need to keep, why they're important, and practical lessons on organizing and storing them. Don't miss out on this vital information; read on and master the ins and outs of LLC recordkeeping today!"
+summary: "LLC owner? Stay organized & compliant! Learn essential documents, their importance, and organization tips. Master LLC recordkeeping now!"
 permalink: /llc/recordkeeping/
 ---
 
@@ -127,7 +128,14 @@ Start implementing these best practices for LLC record-keeping now and secure th
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
 
-## Sources
+<br>
+<details>
+<summary><b>Sources</b></summary>
+<br>
+<p></p>    
+<ul>
+    <li><a href="https://www.investopedia.com/updates/enron-scandal-summary/">Investopedia - Enron Scandal: The Fall of a Wall Street Darling</a></li>
+    <li><a href="https://www.inc.com/jeremy-quittner/zenefits-founders-feud.html">Inc. - Zenefits Founders' Legal Battle Highlights the Importance of a Clear Operating Agreement</a></li>
+</ul>
+</details>
 
--  [Investopedia - Enron Scandal: The Fall of a Wall Street Darling](https://www.investopedia.com/updates/enron-scandal-summary/)
--  [Inc. - Zenefits Founders' Legal Battle Highlights the Importance of a Clear Operating Agreement](https://www.inc.com/jeremy-quittner/zenefits-founders-feud.html)

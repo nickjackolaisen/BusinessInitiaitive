@@ -2,8 +2,9 @@
 title: "Protecting Your Intellectual Property as an LLC Owner"
 layout: post
 date: 2023-08-09
+update_date: 2023-09-21
 author: jack_nicholaisen
-summary: "Unlock the secrets to safeguarding your intellectual property within an LLC structure! Dive into this comprehensive guide that covers types of intellectual property, registration processes, enforcement strategies, and practical tips for entrepreneurs and business owners. Don't let your brilliant ideas slip away – secure your success now!"
+summary: "Discover secrets to protect your intellectual property in an LLC! Learn types, registration, enforcement, and tips for success. Don't let ideas slip away!"
 permalink: /llc/intellectual-property/
 ---
 
@@ -114,14 +115,18 @@ or
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
-<br> DISCLAIMER:
+<br>
+<details>
+<summary><b>Sources</b></summary>
+<br>
+<p></p>
+<ul>
+    <li><a href="https://www.uspto.gov/patents/basics">USPTO Patent Filing Information</a></li>
+    <li><a href="https://www.uspto.gov/trademarks/basics">USPTO Trademark Filing Information</a></li>
+    <li><a href="https://www.copyright.gov/registration">U.S. Copyright Office Registration Information</a></li>
+    <li><a href="https://www.uspto.gov/learning-and-resources/official-gazette">Official Gazette</a></li>
+    <li><a href="https://www.copyright.gov/registration/">U.S. Copyright Office's online portal</a></li>
+</ul>
+</details>
 
-“Business Initiative” is for general educational purposes only. “Business Initiative” does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making binding decisions regarding starting, operating, and growing your business. Use external resources independently of “Business Initiative.” It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.
 
-## Sources
-
--  [USPTO Patent Filing Information](https://www.uspto.gov/patents/basics)
--  [USPTO Trademark Filing Information](https://www.uspto.gov/trademarks/basics)
--  [U.S. Copyright Office Registration Information](https://www.copyright.gov/registration)
--  [Official Gazette](https://www.uspto.gov/learning-and-resources/official-gazette)
--  [U.S. Copyright Office's online portal](https://www.copyright.gov/registration/)

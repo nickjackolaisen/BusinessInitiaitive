@@ -2,8 +2,9 @@
 title: "The Impact of LLC Ownership on Your Personal Credit Score"
 layout: post
 date: 2023-08-07
+update_date: 2023-09-21
 author: jack_nicholaisen
-summary: "Discover how LLC ownership can impact your personal credit score, and learn essential strategies to protect your financial future. Don't let your business venture jeopardize your personal credit – find out what you need to know in this in-depth article. Empower yourself and secure your financial well-being with this article!"
+summary: "Learn how LLC ownership affects your credit score and protect your financial future. Secure your well-being with our article!"
 permalink: /llc/personal-credit-score/
 ---
 
@@ -108,8 +109,15 @@ By understanding the potential risks like these and implementing strategies to m
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
-## Sources
+<br>
+<details>
+<summary><b>Sources</b></summary>
+<br>
+<ul>
+    <li><a href="https://www.experian.com/blogs/ask-experian/how-does-my-business-credit-affect-my-personal-credit/">Experian: How Does My Business Credit Affect My Personal Credit?</a></li>
+    <li><a href="https://www.nerdwallet.com/article/small-business/business-structure-personal-credit">NerdWallet: How Your Business Structure Affects Your Personal Credit</a></li>
+    <li><a href="https://www.annualcreditreport.com/index.action">AnnualCreditReport.com</a></li>
 
--   [Experian: How Does My Business Credit Affect My Personal Credit?](https://www.experian.com/blogs/ask-experian/how-does-my-business-credit-affect-my-personal-credit/)
--   [NerdWallet: How Your Business Structure Affects Your Personal Credit](https://www.nerdwallet.com/article/small-business/business-structure-personal-credit)
--   [AnnualCreditReport.com](https://www.annualcreditreport.com/index.action)
+</ul>
+</details>
+

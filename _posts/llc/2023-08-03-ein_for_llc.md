@@ -2,8 +2,9 @@
 title: "The Role of EINs for Your LLC - Obtaining and Managing Your Tax ID Number"
 layout: post
 date: 2023-08-03
+update_date: 2023-09-21
 author: jack_nicholaisen
-summary: "Discover the importance of an Employer Identification Number (EIN) for your LLC and learn how to obtain and manage it effectively. Empower your business with the right knowledge and tools to streamline your tax and legal obligations. Don't miss out on this essential guide for entrepreneurs and business owners alike – Check it out HERE!"
+summary: "Learn the importance of an EIN for your LLC. Get tips on obtaining & managing it for tax & legal ease. Essential guide for entrepreneurs. Check it out!"
 permalink: /llc/what-is-an-ein-number/
 ---
 
@@ -133,12 +134,16 @@ By following the steps outlined in this article, you can confidently obtain and 
 
 [Reach out so we can help you start your EIN application today!](https://calendly.com/businessinitiative/30-minute-consultation-call)
 
-## Sources
+<br>
+<details>
+<summary><b>Sources</b></summary>
+<br>
+<ul>
+    <li><a href="https://www.irs.gov/businesses/small-businesses-self-employed/do-you-need-an-ein">IRS - Do You Need an EIN?</a></li>
+    <li><a href="https://www.irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online">IRS - Apply for an Employer Identification Number (EIN) Online</a></li>
+    <li><a href="https://www.irs.gov/pub/irs-pdf/fss4.pdf">IRS - Form SS-4</a></li>
+    <li><a href="https://www.irs.gov/pub/irs-pdf/f8822b.pdf">IRS - Form 8822-B</a></li>
+</ul>
+</details>
 
-[IRS - Do You Need an EIN?](https://www.irs.gov/businesses/small-businesses-self-employed/do-you-need-an-ein)
 
-[IRS - Apply for an Employer Identification Number (EIN) Online](https://www.irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online)
-
-[IRS - Form SS-4](https://www.irs.gov/pub/irs-pdf/fss4.pdf)
-
-[IRS - Form 8822-B](https://www.irs.gov/pub/irs-pdf/f8822b.pdf)
