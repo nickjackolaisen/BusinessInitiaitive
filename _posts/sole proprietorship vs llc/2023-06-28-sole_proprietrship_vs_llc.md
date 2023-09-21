@@ -4,7 +4,7 @@ title: Sole Proprietorship vs LLC
 date: 2023-06-28
 update_date: 2023-09-21
 author: jack_nicholaisen
-summary: The details of Sole Proprietorships and Limited Liability Companies - Why is one better than the other? 
+summary: "The details of Sole Proprietorships and Limited Liability Companies - Why is one better than the other?" 
 permalink: /sole-proprietorship-vs-llc/
 tags: sole proprietorship vs llc vs dba, what is a sole proprietorship vs llc, benefits of sole proprietorship vs llc, what is sole proprietorship vs llc, sole proprietorship vs llc tax benefits, sole proprietorship vs llc taxes, advantages of sole proprietorship vs llc, tax benefits of sole proprietorship vs llc, taxes for sole proprietorship vs llc
 ---
