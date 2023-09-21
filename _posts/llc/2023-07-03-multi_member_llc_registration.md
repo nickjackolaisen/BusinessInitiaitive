@@ -6,6 +6,7 @@ update_date: 2023-09-05
 author: jack_nicholaisen
 summary: "Unlock your business potential with our data-driven insights, tailored pricing plans, and top-notch consulting services. Experience growth like never before. Read it now!"
 permalink: /multi-member-llc/registration/
+tags: how to create a multi member llc
 ---
 
 In this article, we layout what you need to file to make your very own Multi Member LLC.

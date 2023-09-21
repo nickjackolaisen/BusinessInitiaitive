@@ -7,6 +7,7 @@ author: jack_nicholaisen
 summary: "Unlock your business potential with our data-driven insights, expert consulting, and tailored pricing. Elevate success today!" 
 image: /images/posts-headers/sole-proprietorship-facts-stats-faqs-header.png
 permalink: /stats/sole-proprietorship-statistics/
+tags: number of sole proprietorships in the united states, largest sole proprietorships in the world, sole proprietors in the us, 
 ---
 
 ## What is the number of Sole Proprietorships in the United States?

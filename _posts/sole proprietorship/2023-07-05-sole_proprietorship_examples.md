@@ -5,6 +5,7 @@ date: 2023-07-05
 author: jack_nicholaisen
 summary: Here are a few examples of Sole Proprietorships to get the ideas flowing. Check it out and understand why Sole Proprietorships are so popular.
 permalink: /sole-proprietorship/examples/
+tags: sole proprietors in the us
 ---
 
 Hopefully, you don’t enjoy the 9-5 grind, dependence, and working for a boss. 
@@ -383,7 +384,3 @@ All-in-all Sole Proprietorships are very very easy. They’re popular because th
 **START**. 
 
 On behalf of Business Inititiative, we wish you much success.
-
-<br>DISCLAIMER:
-
-"Business Initiative" is for general educational purposes only. "Business Initiative" does not offer any legal or financial advice. Anyone considering starting a business should speak with a lawyer, business professional, financial advisor, and tax expert before making any binding decisions when it comes to starting, operating, and growing your business. External resources should be used independently of "Business Initiative". It is the responsibility of every reader to seek legal and financial advice from legal and financial professionals.

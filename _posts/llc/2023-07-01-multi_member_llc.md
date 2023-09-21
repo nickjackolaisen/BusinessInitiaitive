@@ -6,6 +6,7 @@ update_date: 2023-09-07
 author: jack_nicholaisen
 summary: A deep dive into the different components and tax options of Multi-Member LLCs (including how to register your own MMLLC and pay yourself from it)
 permalink: /multi-member-llc/
+tags: how to create a multi member llc
 ---
 
 Limited Liability Companies receive liability protections similar to Corporations while paying taxes like Partnerships. 

@@ -2,7 +2,7 @@
 layout: page
 title: "Business Initiative: Empowering Entrepreneurs"
 permalink: /whoweare/
-tags: about us, who we are, what is business initiative, business registration, llc, corporaiton, taxes, limited liability company
+tags: about us, who we are, what is business initiative, business registration, llc, corporaiton, taxes, limited liability company, what is a business initiative
 ---
 
 ## What is Business Initiative?

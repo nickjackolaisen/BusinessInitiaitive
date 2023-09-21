@@ -7,6 +7,7 @@ author: jack_nicholaisen
 summary: "Unlock your business potential with our SWOT guide. Begin identifying opportunities, tackling challenges, and enhancing strategic decisions in your business!"
 image: /images/posts-headers/swot-analysis-header.png
 permalink: /business-tips/swot-analysis/
+tags: swot analysis is implemented to fine tune strategies
 ---
 
 SWOT analysis is a strategic planning tool that helps businesses identify their **Strengths, Weaknesses, Opportunities, and Threats**.

@@ -6,6 +6,7 @@ update_date: 2023-08-29
 author: jack_nicholaisen
 summary: "Discover success secrets of family-owned businesses and apply insights for smarter decisions and improved growth in your venture."
 permalink: /stats/small-businesses/family-owned-businesses/
+tags: family owned business statistics, 
 ---
 
 Running a family-owned business is a long-standing tradition in many cultures and economies. These businesses are often founded and managed by family members who share a common vision and passion for their enterprise. 
