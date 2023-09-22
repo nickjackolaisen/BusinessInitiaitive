@@ -6,7 +6,7 @@ update_date: 2023-09-21
 author: jack_nicholaisen
 summary: "Here are a few examples of Sole Proprietorships to get the ideas flowing. Check it out and understand why Sole Proprietorships are so popular."
 permalink: /sole-proprietorship/examples/
-tags: sole proprietors in the us
+tags: sole proprietors in the us, successful sole proprietorship
 ---
 
 Hopefully, you don’t enjoy the 9-5 grind, dependence, and working for a boss. 
