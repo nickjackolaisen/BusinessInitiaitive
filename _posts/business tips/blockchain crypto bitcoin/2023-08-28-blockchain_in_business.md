@@ -2,7 +2,7 @@
 title: "Blockchain Technology in Business - Prepare Your Business for the Future"
 layout: post
 date: 2023-08-28
-update_date: 2023-09-13
+update_date: 2023-09-27
 author: jack_nicholaisen
 summary: "Explore blockchain's impact on business in our article. Learn applications, benefits, and industry effects. Stay ahead with blockchain knowledge." 
 image: /images/posts-headers/blockchain-in-business-header.png
