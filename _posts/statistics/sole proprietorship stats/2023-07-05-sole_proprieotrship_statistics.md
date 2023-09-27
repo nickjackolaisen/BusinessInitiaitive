@@ -2,7 +2,7 @@
 title: "Sole Proprietorship Facts, Stats, & FAQs for 2023"
 layout: post
 date: 2023-07-05
-update_date: 2023-09-19
+update_date: 2023-09-27
 author: jack_nicholaisen
 summary: "Unlock your business potential with our data-driven insights, expert consulting, and tailored pricing. Elevate success today!" 
 image: /images/posts-headers/sole-proprietorship-facts-stats-faqs-header.png
@@ -12,11 +12,17 @@ tags: number of sole proprietorships in the united states, largest sole propriet
 
 ## What is the number of Sole Proprietorships in the United States?
 
-According to the 2020 US Census from 2020, there were **826,915 Sole Proprietorships in the US**. Compare this to the total 8,000,178 Business establishments in the US. 
+According to the 2020 US Census from 2020, there were **826,915 Sole Proprietorships in the US**. 
+
+Compare this to the total **8,000,178** Business establishments in the US. 
 
 ## What percentage of businesses are Sole Proprietorships?
 
-Based on this, **10.34% percent of businesses are Sole Proprietorships in the United States.** It's clear from this fact alone that a significant portion of people enjoy being sole proprietors in the US. It should come as no surprise since they are the easiest, cheapest, and fastest business for someone to start. [Source](https://data.census.gov/table?g=040XX00US29&tid=CBP2020.CB2000CBP)
+Based on this, **10.34% percent of businesses are Sole Proprietorships in the United States.** 
+
+It's clear from this fact alone that a significant portion of people enjoy being sole proprietors in the US. 
+
+It should come as no surprise since they are the easiest, cheapest, and fastest business for someone to start. [Source](https://data.census.gov/table?g=040XX00US29&tid=CBP2020.CB2000CBP)
 
 <p><b>➤ TAKE INITIATIVE: </b> <a href="https://www.businessinitiative.org/sole-proprietorship/examples/" target="_blank">Here are some examples use can use to start your own Sole Proprietorship</a></p>
 
@@ -111,7 +117,9 @@ Without any liability protections, any massively successful sole proprietor woul
 
 ## Why are Sole Proprietorships the MOST popular business entity?
 
-As the simplest business entity to both set up and operate, it is no wonder why so many people opt for Sole Proprietorships as opposed to going through the headache of registering a business with your state. Other, more complicated businesses (LLCs and Corporations) require a lot of upkeep and annual registration fees. 
+As the simplest business entity to both set up and operate, it is no wonder why so many people opt for Sole Proprietorships as opposed to going through the headache of registering a business with your state. 
+
+Other, more complicated businesses (LLCs and Corporations) require a lot of upkeep and annual registration fees. 
 
 Honestly, the best part of a Sole Proprietorship is getting out of having to file stacks of paperwork and deal with government bureaucracy. 
 
@@ -121,14 +129,21 @@ Honestly, the best part of a Sole Proprietorship is getting out of having to fil
 
 The main pitfall of starting a Sole Proprietorship is the limitations on what you can and cannot do. 
 
-For instance, it can be extremely difficult to secure funding as an unregistered, unrecognized business. To put it in modern tongue... you don't have any clout while operating as a Sole Proprietor. 
+For instance, it can be extremely difficult to secure funding as an unregistered, unrecognized business. 
 
-It's also important to consider the amount of liability you take on as a Sole Proprietor. Any debts or liability falls directly on you. Like it out not, you are "solely" responsible for every aspect of your business. 
+To put it in modern tongue... 
 
-Banks can't give you a business loan or business credit cards because, legally speaking, you don't have a business. You are just making money under your name by providing goods and services. There is no entity and no liability protection.
+You don't have any clout while operating as a Sole Proprietor. 
+
+It's also important to consider the amount of liability you take on as a Sole Proprietor. 
+
+Any debts or liability falls directly on you. Like it out not, you are "solely" responsible for every aspect of your business. 
+
+Banks can't give you a business loan or business credit cards because, legally speaking, you don't have a business. 
+
+You are just making money under your name by providing goods and services. There is no entity and no liability protection.
 
 <p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/sole-proprietorship/disadvantages/" target="_blank"> What else is wrong with being a Sole Proprietor? </a></p>
-
 
 ## What are 3 trade offs of running a Sole Proprietorship?
 
@@ -138,31 +153,63 @@ Banks can't give you a business loan or business credit cards because, legally s
 
 #### 1.	Protection
 		
-The single worst aspect of the Sole Proprietorship as a business entity is it’s complete lack of liability protection.  In a nutshell, this means sole proprietors have to stick with  low- or no-risk businesses. If something goes wrong and the business gets sued or owes money to creditors, [the sole proprietor is liable to pay out of pocket](https://www.businessinitiative.org/sole-proprietorship-vs-llc/pros-and-cons/) for all legal and business fees. 
+The single worst aspect of the Sole Proprietorship as a business entity is it’s complete lack of liability protection.  
+
+In a nutshell, this means sole proprietors have to stick with  low- or no-risk businesses. 
+
+If something goes wrong and the business gets sued or owes money to creditors, [the sole proprietor is liable to pay out of pocket](https://www.businessinitiative.org/sole-proprietorship-vs-llc/pros-and-cons/) for all legal and business fees. 
 		
-Not only does this personally affect the owner of the business, it also has a massive impact on their ability to secure funding. If a Sole Proprietor wants to take out a loan, they cannot go to the bank and take out a business loan, they have to take out a personal loan. If the Sole Proprietor decides to try and find private investors, they simply won’t risk more capital than what the sole proprietor is worth. 
+Not only does this personally affect the owner of the business, it also has a massive impact on their ability to secure funding. 
+
+If a Sole Proprietor wants to take out a loan, they cannot go to the bank and take out a business loan, they have to take out a personal loan. 
+
+If the Sole Proprietor decides to try and find private investors, they simply won’t risk more capital than what the sole proprietor is worth. 
 		
 Due to their lack of protection Sole Proprietors are heavily restricted to what they sell and how they go about getting their business up and running. 
 
 #### 2.	Tax Options
 
-If you are looking for a variable taxation structure to fit your business needs, stay away from the Sole Proprietorship. You would be better off setting up an LLC, [S-Corp, C-Corp](https://www.businessinitiative.org/s-corp-vs-c-corp/), or Corporation. 
+If you are looking for a variable taxation structure to fit your business needs, stay away from the Sole Proprietorship. 
+
+You would be better off setting up an LLC, [S-Corp, C-Corp](https://www.businessinitiative.org/s-corp-vs-c-corp/), or Corporation. 
 		
-Sole Proprietorships have one standardized tax setup: The Pass-Through Process. With this setup all of the business’s profits are automatically “passed” on to the owner’s personal account. Any profits (or losses) coming from the Sole Proprietorship are declared on the [1040-SC Form](https://www.irs.gov/pub/irs-pdf/f1040sc.pdf). This is attached to the [federal tax return](https://www.irs.gov/pub/irs-pdf/f1040.pdf) and you’re good to go. 
+Sole Proprietorships have one standardized tax setup: 
 
-With a Sole Proprietorship you are paying Self-Employment tax in addiction to the usual federal, state, and local income taxes based on where you live. Self-Employment tax is the IRS’s fancy name for when they combine Social Security and Medicare taxes. 
+**The Pass-Through Process**
+ 
+With this setup all of the business’s profits are automatically “passed” on to the owner’s personal account. 
 
-The main difference between this standardized process and those of LLCs, S-Corps, C-Corps, and Corporations is these more complex business entities provide you the ability to split and mix these taxes in different ways. These state-registered entities allow for tax optimization but with the simplified Sole Proprietorship you are stuck with the default tax structure. 
+Any profits (or losses) coming from the Sole Proprietorship are declared on the [1040-SC Form](https://www.irs.gov/pub/irs-pdf/f1040sc.pdf). 
+
+This is attached to the [federal tax return](https://www.irs.gov/pub/irs-pdf/f1040.pdf) and you’re good to go. 
+
+With a Sole Proprietorship you are paying Self-Employment tax in addiction to the usual federal, state, and local income taxes based on where you live. 
+
+Self-Employment tax is the IRS’s fancy name for when they combine Social Security and Medicare taxes. 
+
+The main difference between this standardized process and those of LLCs, S-Corps, C-Corps, and Corporations is these more complex business entities provide you the ability to split and mix these taxes in different ways. 
+
+These state-registered entities allow for tax optimization but with the simplified Sole Proprietorship you are stuck with the default tax structure. 
 
 #### 3.	Management Options
 
-In a Sole Proprietorship you lose the ability to structure the business how you want. You don’t have a choice on whether you want to be actively or passively involved in the business like you could with an LLC or Corporation. 
+In a Sole Proprietorship you lose the ability to structure the business how you want. 
+
+You don’t have a choice on whether you want to be actively or passively involved in the business like you could with an LLC or Corporation. 
 		
-The more complex businesses give you the option to be more hands-on and involved in the day-to-day decision making in the company. They provide you the ability to be totally hands-off and hire a management team to do all the nitty-gritty work for you. You would still be involved in all major company decisions either way. 
+The more complex businesses give you the option to be more hands-on and involved in the day-to-day decision making in the company. 
+
+They provide you the ability to be totally hands-off and hire a management team to do all the nitty-gritty work for you. You would still be involved in all major company decisions either way. 
 
 Having a management team allows you to take a step back and focus on the big picture vision instead of losing sight and getting distracted with all the little things which inevitably come up.
 
-This is not the case in a Sole Proprietorship. In stead of getting the chance to be hands-off, you have to be all hands on deck. Sole Proprietorships only exist if the owner, the sole proprietor, is actively managing and operating the business themselves. Sole proprietors can hire employees if they want, but the owner have to be a part of all decisions, both short- and long-term. 
+This is not the case in a Sole Proprietorship. 
+
+In stead of getting the chance to be hands-off, you have to be all hands on deck. 
+
+Sole Proprietorships only exist if the owner, the sole proprietor, is actively managing and operating the business themselves. 
+
+Sole proprietors can hire employees if they want, but the owner have to be a part of all decisions, both short- and long-term. 
 
 <p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/what-does-llc-mean/" target="_blank"> Why are LLCs so popular? </a></p>
 
@@ -176,7 +223,9 @@ Sole Proprietorships last until one of three events occur…
 
 **3.**  The owner has the option of selling the components of the business like their tools, inventory, or equipment and is therefore unable to continue business operations.
 
-Being that the Sole Proprietorship is the simplest business entity, it is completely reliant on the owner and their ability to keep their business up and running. As soon as the owner dies or stops doing business, the Sole Proprietorship dissolves. 
+Being that the Sole Proprietorship is the simplest business entity, it is completely reliant on the owner and their ability to keep their business up and running. 
+
+As soon as the owner dies or stops doing business, the Sole Proprietorship dissolves. 
 
 ## What is the richest privately owned company?
 
@@ -184,13 +233,17 @@ Although Sole Proprietorships are known to be better for side-hustles and small,
 
 With that being said…
 
-**Cargill is the biggest privately owned corporation in America coming in at an annual revenue of $165 Billion**, according to their [2022 Annual Report](https://www.cargill.com/doc/1432215917376/2022-cargill-annual-report.pdf). This food production giant was started way back in 1865 and currently employees 155,000 workers worldwide.
+**Cargill is the biggest privately owned corporation in America coming in at an annual revenue of $165 Billion**, according to their [2022 Annual Report](https://www.cargill.com/doc/1432215917376/2022-cargill-annual-report.pdf). 
+
+This food production giant was started way back in 1865 and currently employees 155,000 workers worldwide.
 
 <center>
 <img alt="cargill headquarters" src="/images/content/cargill-headquarters.png" style="width: 63%; height: 63%">
 </center>
 
-Based on their wikipedia page, Cargill brought in a **net profit of $4.93 Billion in 2021**, after material costs and taxes. Being a private company, Cargill  restricts access to their financial reports. Here is what they've released so far:
+Based on their wikipedia page, Cargill brought in a **net profit of $4.93 Billion in 2021**, after material costs and taxes. 
+
+Being a private company, Cargill  restricts access to their financial reports. Here is what they've released so far:
 
 <img alt="Cargill’s annual revenue compared to their annual profits between 2010 and 2021" src="/images/cargill-revenue-profit-2010-2021.png"/>
 
@@ -198,38 +251,66 @@ Based on their wikipedia page, Cargill brought in a **net profit of $4.93 Billio
 
 ## 5 Facts About Sole Proprietorships?
 
-####  1. Single Owner Business
+###  1. Single Owner Business
+
 Sole Proprietorships are limited to one owner who doubles as the main operator.
     
-####  2. Business Assets are Personal Assets
-This type of business doesn’t separate between the business and it’s owner. This goes for everything in the business including all profits and liability.  Whatever the sole proprietor makes from the business is immediately catalogued as personal gains. 
+###  2. Business Assets are Personal Assets
 
-If the business takes on any risk or liability in the form of debts, the responsibility falls completely on the owner to pay it back. The unfortunate reality is if the owner is unable to pay back loans from their business and it’s profits, the owner then has to pay out of pocket. This means [the bank can come after the owner’s personal assets and property](https://www.businessinitiative.org/sole-proprietorship-vs-llc/) in order to repay what is owed.		
+This type of business doesn’t separate between the business and it’s owner. 
+
+This goes for everything in the business including all profits and liability.  
+
+Whatever the sole proprietor makes from the business is immediately catalogued as personal gains. 
+
+If the business takes on any risk or liability in the form of debts, the responsibility falls completely on the owner to pay it back. 
+
+The unfortunate reality is if the owner is unable to pay back loans from their business and it’s profits, the owner then has to pay out of pocket. 
+
+This means [the bank can come after the owner’s personal assets and property](https://www.businessinitiative.org/sole-proprietorship-vs-llc/) in order to repay what is owed.		
     
-####  3. Total Control
-Since the owner is viewed as the business from a legal standpoint, they have full control over every aspect of the business. All decisions are made by the sole proprietor. However, this is a bit of a double edged sword. 
+###  3. Total Control
+Since the owner is viewed as the business from a legal standpoint, they have full control over every aspect of the business. All decisions are made by the sole proprietor. 
 
-On the one hand the owner gets all the credit and praise when things are going well and business is booming. On the flip side, the owner is at fault should the business take any losses or make mistakes. 
+However, this is a bit of a double edged sword. 
+
+On the one hand the owner gets all the credit and praise when things are going well and business is booming. 
+
+On the flip side, the owner is at fault should the business take any losses or make mistakes. 
 
 <p><b>➤ Take Initiative: </b> <a href="https://www.businessinitiative.org/sole-proprietorship/examples/" target="_blank"> Start your very own Sole Proprietorship TODAY!</a></p>
     
-####  4. Informal Business Structure
-As the simplest business entity, Sole Proprietorships are not registered with the state. All it takes to [start one](https://www.businessinitiative.org/sole-proprietorship/examples/) is to make money providing a service or product under your legal name. 
+###  4. Informal Business Structure
+As the simplest business entity, Sole Proprietorships are not registered with the state. 
 
-This gets you out of having to file paperwork with your local government and pay registration, filing fees, and annual maintenance costs. All of which have to be done when operating an LLC or Corporation. 
+All it takes to [start one](https://www.businessinitiative.org/sole-proprietorship/examples/) is to make money providing a service or product under your legal name. 
+
+This gets you out of having to file paperwork with your local government and pay registration, filing fees, and annual maintenance costs. 
+
+All of which have to be done when operating an LLC or Corporation. 
 
 <center>
 <img alt="informal business structure" src="/images/content/woman-worker.png" style="width: 63%; height: 63%">
 </center>
     
-####  5. Pass-Through Taxation
-The money sole proprietors make is “passed-through” to their personal account. This streamlines the entire taxation process. All the owner has to do is account for any profits or losses on their personal income tax return. 
+###  5. Pass-Through Taxation
+The money sole proprietors make is “passed-through” to their personal account. 
 
-The only additional piece of paperwork one has to complete is the [1040-SC Form](https://www.irs.gov/pub/irs-pdf/f1040sc.pdf). Just attach this to the [federal tax return](https://www.irs.gov/pub/irs-pdf/f1040.pdf) you are probably already familiar with and complete every year.  
+This streamlines the entire taxation process. 
+
+All the owner has to do is account for any profits or losses on their personal income tax return. 
+
+The only additional piece of paperwork one has to complete is the [1040-SC Form](https://www.irs.gov/pub/irs-pdf/f1040sc.pdf). 
+
+Just attach this to the [federal tax return](https://www.irs.gov/pub/irs-pdf/f1040.pdf) you are probably already familiar with and complete every year.  
 
 ## How long do small businesses last?
 
-The lifetime of a small business depends on many factors. Variables like the market, the state of the economy, and a business’s profit margins can all have a massive impact on the sustainability of a particular business. A company could also loose their customer base to a competitor or just die out because a newer or better version becomes available.
+The lifetime of a small business depends on many factors. 
+
+Variables like the market, the state of the economy, and a business’s profit margins can all have a massive impact on the sustainability of a particular business. 
+
+A company could also loose their customer base to a competitor or just die out because a newer or better version becomes available.
 
 Most small business last until one of two events occur:
 
@@ -237,9 +318,13 @@ Most small business last until one of two events occur:
 
 **2. The small business grows and expands to the point where it is no longer called a small business.** 
 
-Let’s say you have a family owned auto repair shop and in comes a franchise location for a large corporate auto repair service. Unless your small business can beat their prices and perform repairs better than your corporate competitor, the odds are stacked against you. But…
+Let’s say you have a family owned auto repair shop and in comes a franchise location for a large corporate auto repair service. 
 
-Maybe you and your mechanics have developed some groundbreaking technique to clean oil or change brakes or install new spark plugs better than the mainstream approach. Your customer base could grow to the point where you begin expanding your business and opening up new locations. 
+Unless your small business can beat their prices and perform repairs better than your corporate competitor, the odds are stacked against you. But…
+
+Maybe you and your mechanics have developed some groundbreaking technique to clean oil or change brakes or install new spark plugs better than the mainstream approach. 
+
+Your customer base could grow to the point where you begin expanding your business and opening up new locations. 
 
 Now your small business isn't so small anymore.
 
@@ -249,15 +334,25 @@ Now your small business isn't so small anymore.
 <img alt="disadvantages" src="/images/content/the-grind.png" style="width: 63%; height: 63%">
 </center>
 
-**1.**  Sole proprietors are **fully responsible** for all aspects of their business. Total liability prevents owners from taking the risks necessary for some businesses to flourish.
+**1.**  Sole proprietors are **fully responsible** for all aspects of their business. 
 
-**2.**  As the simplest business entity, [owners are limited](https://www.businessinitiative.org/sole-proprietorship/disadvantages/) to one taxation method: The Pass-Through Process. There are **no tax breaks** available for Sole Proprietorships like there are for LLCs and Corporations. 
+Total liability prevents owners from taking the risks necessary for some businesses to flourish.
 
-**3.**  Without having to register with the state, Sole Proprietorships are **generally viewed as inferior businesses** compared to LLCs and Corporations. This makes finding investors and establishing yourself as a credible business much more difficult than if you had an LLC or Corporation. 
+**2.**  As the simplest business entity, [owners are limited](https://www.businessinitiative.org/sole-proprietorship/disadvantages/) to one taxation method: **The Pass-Through Process**. 
+
+There are **no tax breaks** available for Sole Proprietorships like there are for LLCs and Corporations. 
+
+**3.**  Without having to register with the state, Sole Proprietorships are **generally viewed as inferior businesses** compared to LLCs and Corporations. 
+
+This makes finding investors and establishing yourself as a credible business much more difficult than if you had an LLC or Corporation. 
 
 **4.  You cannot set up a business bank account** because Sole Proprietorships are technically viewed as unofficial business entities. 
 
-**5.**  Although they are relatively [easy to dissolve](https://www.businessinitiative.org/sole-proprietorship/advantages/), **selling a Sole Proprietorship is extremely difficult**. You cannot sell the Sole Proprietorship as an entity because, from a legal point-of-view, its not a business entity. The only way to sell the business is to sell the individual components, materials, and anything else necessary to the manufacture of the products or the ability to provide the services you sell. 
+**5.**  Although they are relatively [easy to dissolve](https://www.businessinitiative.org/sole-proprietorship/advantages/), **selling a Sole Proprietorship is extremely difficult**. 
+
+You cannot sell the Sole Proprietorship as an entity because, from a legal point-of-view, its not a business entity.
+
+The only way to sell the business is to sell the individual components, materials, and anything else necessary to the manufacture of the products or the ability to provide the services you sell. 
 
 <p><b>➤ DISCOVER: </b> <a href="https://www.businessinitiative.org/sole-proprietorship/disadvantages/" target="_blank"> Why you should avoid Sole Proprietorships like the plague.  </a></p>
 
@@ -275,7 +370,9 @@ No, Sole Proprietorship entities will end when one of the following events occur
 
 **3.**	The sole proprietor dies.
 
-In a Sole Proprietorship the owner is [legally viewed as the business itself](https://www.businessinitiative.org/sole-proprietorship/disadvantages/). If the owner is no longer present or is unable to continue providing their services or selling their goods then the Sole Proprietorship simply dissolves. 
+In a Sole Proprietorship the owner is [legally viewed as the business itself](https://www.businessinitiative.org/sole-proprietorship/disadvantages/). 
+
+If the owner is no longer present or is unable to continue providing their services or selling their goods then the Sole Proprietorship simply dissolves. 
 
 Just as the Sole Proprietorship is nothing without a sole proprietor to manage and operate the business, so to the business isn’t a business if it’s not productive. 
 
@@ -287,7 +384,10 @@ Just as the Sole Proprietorship is nothing without a sole proprietor to manage a
 <summary>Reveal the answer!</summary>
 <br>
 <p>
-A sole proprietorship is a type of business structure where an individual operates as both the owner and operator of the business. In this structure, the owner is personally responsible for all assets, liabilities, and taxes associated with the business.
+A sole proprietorship is a type of business structure where an individual operates as both the owner and operator of the business. 
+</p>
+<p>
+In this structure, the owner is personally responsible for all assets, liabilities, and taxes associated with the business.
 </p>
 </details>
 
@@ -326,7 +426,8 @@ According to the <a href="https://www.sba.gov/sites/default/files/advocacy/2018-
 <details>
 <summary>Reveal the answer!</summary>
 <br>
-<p>In a sole proprietorship, business income and expenses are reported on the owner's personal tax return using Schedule C. The owner is subject to self-employment taxes, which include Social Security and Medicare taxes, and these are calculated using Schedule SE.</p>
+<p>In a sole proprietorship, business income and expenses are reported on the owner's personal tax return using Schedule C. </p>
+<p>The owner is subject to self-employment taxes, which include Social Security and Medicare taxes, and these are calculated using Schedule SE.</p>
 </details>
 
 <h3>How are sole proprietorships different from other business structures?</h3>
@@ -334,20 +435,25 @@ According to the <a href="https://www.sba.gov/sites/default/files/advocacy/2018-
 <summary>Reveal the answer!</summary>
 <br>
 <b>Partnership</b>
-  <p>A partnership involves two or more people sharing ownership and management responsibilities, as well as profits and losses. In contrast, a sole proprietorship has only one owner who assumes all responsibilities.</p>
+  <p>A partnership involves two or more people sharing ownership and management responsibilities, as well as profits and losses. </p>
+  <p>In contrast, a sole proprietorship has only one owner who assumes all responsibilities.</p>
 <br>
 <b>Limited Liability Company (LLC)</b>
-  <p>An LLC is a hybrid business structure that combines the simplicity of a sole proprietorship with the liability protection of a corporation. Unlike a sole proprietorship, the owner's personal assets are protected from the business's debts and liabilities.</p>
+  <p>An LLC is a hybrid business structure that combines the simplicity of a sole proprietorship with the liability protection of a corporation. </p>
+  <p>Unlike a sole proprietorship, the owner's personal assets are protected from the business's debts and liabilities.</p>
 <br>
 <b>Corporation</b>
-  <p>A corporation is a separate legal entity that offers liability protection for its owners (shareholders) but is subject to double taxation (corporate income tax and personal income tax on dividends). A sole proprietorship, on the other hand, is not a separate legal entity and is subject to single taxation (personal income tax).</p>
+  <p>A corporation is a separate legal entity that offers liability protection for its owners (shareholders) but is subject to double taxation (corporate income tax and personal income tax on dividends).</p>
+  <p> A sole proprietorship, on the other hand, is not a separate legal entity and is subject to single taxation (personal income tax).</p>
 </details>
 
 <h3>What are the statistics on sole proprietorship success rates?</h3>
 <details>
 <summary>Reveal the answer!</summary>
 <br>
-<p>According to the <a href="https://www.bls.gov/bdm/entrepreneurship/entrepreneurship.htm">Bureau of Labor Statistics</a>, approximately <b>20% of sole proprietorships fail within the first year</b>, while around 50% fail within the first five years. However, these statistics vary depending on the industry and the specific circumstances of each business.</p>
+<p>According to the <a href="https://www.bls.gov/bdm/entrepreneurship/entrepreneurship.htm">Bureau of Labor Statistics</a>, approximately <b>20% of sole proprietorships fail within the first year</b>, while around 50% fail within the first five years.
+</p>
+<p> However, these statistics vary depending on the industry and the specific circumstances of each business.</p>
 </details>
 
 <h3>What industries are common for sole proprietorships?</h3>
@@ -391,7 +497,9 @@ According to the <a href="https://www.sba.gov/sites/default/files/advocacy/2018-
 <details>
 <summary>Reveal the answer!</summary>
 <br>
-<p>Sole proprietorships play an essential role in the U.S. economy by providing employment opportunities, promoting innovation, and contributing to local communities. In 2019, sole proprietorships reported total receipts of over $1.4 trillion <a href="https://www.irs.gov/statistics/soi-tax-stats-sole-proprietorship-returns">IRS</a>.</p>
+<p>Sole proprietorships play an essential role in the U.S. economy by providing employment opportunities, promoting innovation, and contributing to local communities.
+</p>
+<p> In 2019, sole proprietorships reported total receipts of over $1.4 trillion <a href="https://www.irs.gov/statistics/soi-tax-stats-sole-proprietorship-returns">IRS</a>.</p>
 </details>
 
 <h3>What percentage of women-owned businesses are sole proprietorships?</h3>
@@ -440,11 +548,12 @@ According to the <a href="https://www.sba.gov/sites/default/files/advocacy/2018-
 <summary><b>Sources</b></summary>
 <br>
 <ul>
-<li>U.S. Small Business Administration (SBA): <a href="https://www.sba.gov/sites/default/files/advocacy/2018-Small-Business-Profiles-US.pdf">2018 Small Business Profile</a></li>
-<li>Bureau of Labor Statistics: <a href="https://www.bls.gov/bdm/entrepreneurship/entrepreneurship.htm">Entrepreneurship and the U.S. Economy</a></li>
-<li>Internal Revenue Service (IRS): <a href="https://www.irs.gov/statistics/soi-tax-stats-sole-proprietorship-returns">Sole Proprietorship Returns</a></li>
-<li>National Association of Women Business Owners (NAWBO): <a href="https://www.nawbo.org/resources/women-business-owner-statistics">Women Business Owner Statistics</a></li>
-<li>Statista: <a href="https://www.statista.com/statistics/542181/us-number-of-sole-proprietorship-establishments/">Number of sole proprietorship establishments in the United States from 1997 to 2020</a></li>
-<li>Minority Business Development Agency (MBDA): <a href="https://archive.mbda.gov/sites/default/files/migrated/files-attachments/Failuretolaunch_0.pdf">Failure to Launch: The Institutional Causes of Minority Entrepreneurship</a></li>
+  <li>U.S. Small Business Administration (SBA): <a href="https://www.sba.gov/sites/default/files/advocacy/2018-Small-Business-Profiles-US.pdf">2018 Small Business Profile</a></li>
+  <li>Bureau of Labor Statistics: <a href="https://www.bls.gov/bdm/entrepreneurship/entrepreneurship.htm">Entrepreneurship and the U.S. Economy</a></li>
+  <li>Internal Revenue Service (IRS): <a href="https://www.irs.gov/statistics/soi-tax-stats-sole-proprietorship-returns">Sole Proprietorship Returns</a></li>
+  <li>National Association of Women Business Owners (NAWBO): <a href="https://www.nawbo.org/resources/women-business-owner-statistics">Women Business Owner Statistics</a></li>
+  <li>Statista: <a href="https://www.statista.com/statistics/542181/us-number-of-sole-proprietorship-establishments/">Number of sole proprietorship establishments in the United States from 1997 to 2020</a></li>
+  <li>Minority Business Development Agency (MBDA): <a href="https://archive.mbda.gov/sites/default/files/migrated/files-attachments/Failuretolaunch_0.pdf">Failure to Launch: The Institutional Causes of Minority Entrepreneurship</a></li>
 </ul>
 </details>
+

@@ -2,14 +2,16 @@
 title: "What Percentage of Small Businesses are Family-Owned?"
 layout: post
 date: 2023-08-01
-update_date: 2023-08-29
+update_date: 2023-09-27
 author: jack_nicholaisen
 summary: "Discover success secrets of family-owned businesses and apply insights for smarter decisions and improved growth in your venture."
 permalink: /stats/small-businesses/family-owned-businesses/
 tags: family owned business statistics, 
 ---
 
-Running a family-owned business is a long-standing tradition in many cultures and economies. These businesses are often founded and managed by family members who share a common vision and passion for their enterprise. 
+Running a family-owned business is a long-standing tradition in many cultures and economies. 
+
+These businesses are often founded and managed by family members who share a common vision and passion for their enterprise. 
 
 The family-owned business model differs from other types of businesses in several ways, including decision-making processes, leadership styles, and the degree of personal investment in the company's success. 
 
@@ -21,7 +23,9 @@ Let's dive in...
 
 According to the Family Owned Business Institute at Grand Valley State University, **family-owned businesses account for approximately 90% of all businesses in the United States, and 35% of Fortune 500 companies are family-owned or controlled.**
 
-Additionally, The Family Business Alliance reports that **family-owned businesses generate 64% of the U.S. GDP, employ 62% of the workforce, and account for 78% of all new job creation.** These statistics demonstrate the significant impact family-owned businesses have on the economy as well as their popularity.
+Additionally, The Family Business Alliance reports that **family-owned businesses generate 64% of the U.S. GDP, employ 62% of the workforce, and account for 78% of all new job creation.** 
+
+These statistics demonstrate the significant impact family-owned businesses have on the economy as well as their popularity.
 
 ## Benefits of Family-Owned Businesses
 
@@ -35,7 +39,7 @@ Family members often have a deep understanding of the business's values and visi
 
 Family-owned businesses tend to prioritize long-term success over short-term gains, which can lead to more sustainable growth and stability.
 
-<p><b>➤ Take Initiative: </b> <a href="https://www.businessinitiative.org/llc/benefits-for-small-businesses/"> 15 reasons why your small business should have an LLC</a></p>
+<p><b>➤ Take Initiative: </b> <a href="https://www.businessinitiative.org/llc/benefits-for-small-businesses/" target="_blank"> 15 reasons why your small business should have an LLC</a></p>
 
 -   ### Loyalty and commitment
 
@@ -99,13 +103,22 @@ Let Business Initiative help guide you on the path to long-lasting success in th
 
 [Contact us](https://www.businessinitiative.org/contact/) and unlock your business's full potential!
 
-## Sources:
-
-Please note that these sources provide valuable insights into the prevalence, benefits, and challenges of family-owned businesses, as well as examples of successful family-owned companies. It is essential to consult multiple sources for an accurate understanding of this complex topic and to stay up-to-date with the latest research and trends in the field.
-
-1.  Family Owned Business Institute at Grand Valley State University: [Family-Owned Business Facts](https://www.gvsu.edu/fobi/family-owned-business-facts-25.htm)
-2.  Family Business Alliance: [Family Business Statistics](https://familybusinessalliance.com/family-business-statistics/)
-3.  Conway Center for Family Business: [Family Business Facts](https://www.familybusinesscenter.com/resources/family-business-facts/)
-4.  Forbes: [The World's Largest Family-Owned Businesses](https://www.forbes.com/sites/niallmccarthy/2016/11/23/the-worlds-largest-family-owned-businesses-infographic/?sh=4a5f8d7e4c7b)
-
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
+
+<br>
+<details>
+<summary><b>Sources</b></summary>
+<br>
+<p>
+Please note that these sources provide valuable insights into the prevalence, benefits, and challenges of family-owned businesses, as well as examples of successful family-owned companies. 
+</p>
+<p>
+It is essential to consult multiple sources for an accurate understanding of this complex topic and to stay up-to-date with the latest research and trends in the field.
+</p>
+<ul>
+    <li>Family Owned Business Institute at Grand Valley State University: <a href="https://www.gvsu.edu/fobi/family-owned-business-facts-25.htm">Family-Owned Business Facts</a></li>
+    <li>Family Business Alliance: <a href="https://familybusinessalliance.com/family-business-statistics/">Family Business Statistics</a></li>
+    <li>Conway Center for Family Business: <a href="https://www.familybusinesscenter.com/resources/family-business-facts/">Family Business Facts</a></li>
+    <li>Forbes: <a href="https://www.forbes.com/sites/niallmccarthy/2016/11/23/the-worlds-largest-family-owned-businesses-infographic/?sh=4a5f8d7e4c7b">The World's Largest Family-Owned Businesses</a></li>
+</ul>
+</details>

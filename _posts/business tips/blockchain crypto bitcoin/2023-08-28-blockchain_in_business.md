@@ -22,19 +22,7 @@ Throughout this article, you'll discover how blockchain offers enhanced security
 
 We will also discuss real-world examples of companies leveraging the power of blockchain to streamline operations and create innovative solutions.
 
-{% include table-of-contents-box.html 
-bullet1tag="#brief-history"
-bullet1="Who Invented Blockchain?"
-bullet2tag="#beyond-digital-currency"
-bullet2="Blockchain Business Ideas of The Future"
-bullet3tag="#core-components"
-bullet3="What is a Node in Blockchain?"
-bullet4tag="#benefits"
-bullet4="The Advantages of Using Blockchain Technology?"
-bullet5tag="#blockchain-applicaitons"
-bullet5="Blockchain Business Model" 
-bullet6tag="#successful-implementations"
-bullet6="Blockchain Technology Companies" %}
+{% include table-of-contents-box.html bullet1tag="#brief-history" bullet1="Who Invented Blockchain?" bullet2tag="#beyond-digital-currency" bullet2="Blockchain Business Ideas of The Future" bullet3tag="#core-components" bullet3="What is a Node in Blockchain?" bullet4tag="#benefits" bullet4="The Advantages of Using Blockchain Technology?" bullet5tag="#blockchain-applicaitons" bullet5="Blockchain Business Model"  bullet6tag="#successful-implementations" bullet6="Blockchain Technology Companies" %}
 
 By understanding these concepts and their practical implications, you'll be better equipped to harness the benefits of blockchain technology in your own business endeavors.
 
@@ -77,41 +65,52 @@ Blockchain technology has its roots in the early 1990s, but it wasn't until 2008
 
 ## Beyond Digital Currency: Blockchain Applications in Tomorrow's Business Landscape
 
-Blockchain technology has emerged as a transformative force in the contemporary business landscape. Its decentralized, secure, and transparent nature offers numerous benefits that are increasingly being recognized and harnessed by various industries. Here are some key ways blockchain technology is impacting modern businesses:
+Blockchain technology has emerged as a transformative force in the contemporary business landscape. 
 
--   **Supply Chain Management**: 
+Its decentralized, secure, and transparent nature offers numerous benefits that are increasingly being recognized and harnessed by various industries. 
+
+Here are some key ways blockchain technology is impacting modern businesses:
+
+-   ### Supply Chain Management: 
+
 Blockchain technology can significantly improve supply chain management by providing end-to-end visibility, traceability, transparency, and accountability. 
 
 Through a decentralized ledger, businesses can track products from their origin to the final consumer, ensuring authenticity, identifying bottlenecks, and preventing fraud or counterfeit goods from entering the market.
 
--   **Smart Contracts**: 
+-   ### Smart Contracts: 
+
 These self-executing contracts with embedded rules can automate various business processes, reducing manual intervention and increasing efficiency. 
 
 Smart contracts automatically execute actions when predefined conditions are met, eliminating intermediaries and reducing costs associated with contract enforcement. 
 
 They have applications in industries like insurance, real estate, and finance, streamlining operations such as payment processing, legal agreements, and insurance claims.
 
--   **Financial Transactions**: 
+-   ### Financial Transactions: 
+
 Blockchain technology enables faster and cheaper cross-border transactions without intermediaries, lowering fees and improving cash flow for businesses. 
 
 Additionally, it facilitates more secure and efficient trade finance solutions by reducing paperwork and automating processes.
 
--   **Data Security & Privacy**: 
+-   ### Data Security & Privacy: 
+
 The decentralized nature of blockchain ensures that data is stored across multiple nodes, making it highly resistant to hacks or data breaches. 
 
 This enhanced security can help protect sensitive business information and maintain customer trust.
 
--   **Decentralized Finance (DeFi):** 
+-   ### Decentralized Finance (DeFi):
+
 Decentralized finance (DeFi) utilizes blockchain technology to create an open-source financial ecosystem without relying on traditional banks or financial institutions. 
 
 DeFi allows businesses to access loans, earn interest on deposits, trade assets, and manage risk through decentralized platforms.
 
--   **Identity Management**: 
+-   ### Identity Management: 
+
 Blockchain technology enables secure digital identity management for individuals and businesses by allowing them to store their identity data on a decentralized network. 
 
 This approach helps prevent identity theft, streamlines KYC (Know Your Customer) processes, and bolsters data privacy, enhancing privacy protection while simplifying identity verification for various business transactions.
 
--   **Decentralized Applications (dApps)**: 
+-   ### Decentralized Applications (dApps): 
+
 Businesses can develop dApps on blockchain platforms to provide decentralized services that are not controlled by a single entity. 
 
 This opens up new opportunities for innovative business models that prioritize user privacy and control.
@@ -120,7 +119,9 @@ This opens up new opportunities for innovative business models that prioritize u
 -   **Tokenization of Assets:** 
 Tokenization involves converting physical or digital assets into digital tokens that represent ownership rights. 
 
-By leveraging blockchain technology, businesses can tokenize real estate properties, intellectual property rights, or even company shares. This process provides increased liquidity, fractional ownership opportunities, and easier transferability of assets.
+By leveraging blockchain technology, businesses can tokenize real estate properties, intellectual property rights, or even company shares. 
+
+This process provides increased liquidity, fractional ownership opportunities, and easier transferability of assets.
 
 The importance of blockchain in the modern business landscape is undeniable as it continues to disrupt traditional practices with its unique capabilities. 
 
@@ -160,7 +161,9 @@ Each user has a public key (akin to an account number) that is visible to everyo
 
 Transactions are signed with the private key, providing proof of ownership without revealing the user's identity.
 
--   **Hash functions:** A hash function takes an input (such as transaction data) and produces a fixed-length output called a hash. Any change in input data will result in a completely different hash. This property makes hashes useful for verifying data integrity. 
+-   **Hash functions:** A hash function takes an input (such as transaction data) and produces a fixed-length output called a hash. 
+
+Any change in input data will result in a completely different hash. This property makes hashes useful for verifying data integrity. 
 
 In a blockchain, each block contains a unique hash that depends on its contents and the hash of the previous block, creating a secure chain of blocks.
 
@@ -176,11 +179,17 @@ As there is no central authority, a consensus protocol ensures that all nodes co
 
 There are several consensus mechanisms used in different blockchain networks, such as:
 
--   **Proof of Work (PoW):** Utilized by Bitcoin, PoW requires nodes (called miners) to solve complex mathematical puzzles to validate transactions and add a new block. The first miner to solve the puzzle gets rewarded with cryptocurrency.
+-   **Proof of Work (PoW):** Utilized by Bitcoin, PoW requires nodes (called miners) to solve complex mathematical puzzles to validate transactions and add a new block. 
 
--   **Proof of Stake (PoS):** In PoS, validators are chosen based on the number of tokens they hold (their stake) and then take turns validating transactions. This method is more energy-efficient than PoW and is used by networks like Ethereum 2.0 and Cardano.
+The first miner to solve the puzzle gets rewarded with cryptocurrency.
 
--   **Delegated Proof of Stake (DPoS):** DPoS involves token holders voting for a limited number of delegates who are responsible for validating transactions and maintaining the network. This approach aims to improve scalability and efficiency.
+-   **Proof of Stake (PoS):** In PoS, validators are chosen based on the number of tokens they hold (their stake) and then take turns validating transactions. 
+
+This method is more energy-efficient than PoW and is used by networks like Ethereum 2.0 and Cardano.
+
+-   **Delegated Proof of Stake (DPoS):** DPoS involves token holders voting for a limited number of delegates who are responsible for validating transactions and maintaining the network. 
+
+This approach aims to improve scalability and efficiency.
 
 These core components work in tandem to create the secure, decentralized, and transparent nature of blockchain technology, making it suitable for a wide range of applications across various industries.
 
@@ -217,6 +226,7 @@ Private blockchains are closed networks where access is restricted to specific p
 They offer greater control over the network but sacrifice some decentralization in the process. 
 
 Key features of private blockchains include:
+
 -   **Centralized control**: A central authority or organization manages the network and determines who can participate in it.
 
 -   **Permissioned**: Access to the network is granted only to approved participants who meet specific criteria set by the controlling entity.
@@ -313,7 +323,7 @@ As of Q2 2021, there are over 70 million blockchain wallet users worldwide ([sou
 
 -   **Cross-border payments**: Blockchain enables faster, cheaper, and more secure international transactions without the need for intermediaries ([source](https://www.worldbank.org/en/topic/remittances)). 
 
-In 2020, global remittances reached \$540 billion despite the COVID-19 pandemic's economic impact ([source](https://www.worldbank.org/en/news/press-release/2021/05/12/covid-19-crisis-through-a-migration-lens)).
+In 2020, global remittances reached $540 billion despite the COVID-19 pandemic's economic impact ([source](https://www.worldbank.org/en/news/press-release/2021/05/12/covid-19-crisis-through-a-migration-lens)).
 
 -   **Trade finance**: Blockchain can streamline trade finance processes by reducing paperwork and automating transactions, making them more efficient and transparent ([source](https://www2.deloitte.com/content/dam/Deloitte/ch/Documents/innovation/ch-en-innovation-deloitte-blockchain-app-in-trade-finance.pdf)). 
 
@@ -333,7 +343,7 @@ A World Economic Forum study found that 30% of companies are actively piloting b
 
 -   **Reduction of fraud**: The immutable nature of blockchain makes it difficult to tamper with data or counterfeit goods, minimizing fraud within the supply chain ([source](https://ieeexplore.ieee.org/document/8475561)). 
 
-The global cost of counterfeit and pirated goods is estimated at \$1.7 trillion annually, highlighting the need for blockchain-based solutions to combat fraud in supply chains ([source](https://iccwbo.org/media-wall/news-speeches/global-impacts-counterfeiting-piracy-reach-us4-2-trillion-2022/)).
+The global cost of counterfeit and pirated goods is estimated at $1.7 trillion annually, highlighting the need for blockchain-based solutions to combat fraud in supply chains ([source](https://iccwbo.org/media-wall/news-speeches/global-impacts-counterfeiting-piracy-reach-us4-2-trillion-2022/)).
 
 ### 3. Real Estate
 
@@ -361,7 +371,7 @@ The potential of blockchain technology in the healthcare sector is vast and mult
 
 -   **Patient data management**: A decentralized patient record system can enhance data security, interoperability, and accessibility while maintaining privacy ([source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6682312/)). 
 
-Research estimates that improved data sharing could save the US healthcare system up to \$1.9 billion annually ([source](https://pubmed.ncbi.nlm.nih.gov/28736725/)).
+Research estimates that improved data sharing could save the US healthcare system up to $1.9 billion annually ([source](https://pubmed.ncbi.nlm.nih.gov/28736725/)).
 
 -   **Drug supply chain traceability**: Blockchain can ensure the authenticity and safety of pharmaceutical products by tracking them throughout the supply chain ([source](https://www.accenture.com/_acnmedia/PDF-71/Accenture-Pioneering-Blockchain-Secure-Supply-Chain.pdf)). 
 
@@ -369,7 +379,7 @@ The World Health Organization (WHO) estimates that up to 10% of medicines worldw
 
 -   **Clinical trial management**: Blockchain can improve clinical trial management by streamlining data collection, maintaining data integrity, and ensuring transparency ([source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6022997/)). 
 
-A study found that only 20% of clinical trials are completed on time, with delays costing up to \$8 million per day, highlighting the potential benefits of blockchain in this area ([source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6022997/)).
+A study found that only 20% of clinical trials are completed on time, with delays costing up to $8 million per day, highlighting the potential benefits of blockchain in this area ([source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6022997/)).
 
 ### 5. Insurance
 
@@ -383,15 +393,15 @@ Some key areas where this technology can make a significant impact include:
 
 -   **Fraud detection and prevention**: The transparent and immutable nature of blockchain can help detect and prevent fraudulent activities in insurance claims ([source](https://www.mckinsey.com/~/media/McKinsey/Industries/Financial%20Services/Our%20Insights/Blockchain%20in%20Insurance%20-%20Opportunity%20or%20Threat/Blockchain_PoV_July2016.ashx)). 
 
-According to the Federal Bureau of Investigation (FBI), insurance fraud (excluding healthcare) costs more than \$40 billion per year in the United States ([source](https://www.fbi.gov/stats-services/publications/insurance-fraud)). Blockchain technology could play a significant role in combating this issue.
+According to the Federal Bureau of Investigation (FBI), insurance fraud (excluding healthcare) costs more than $40 billion per year in the United States ([source](https://www.fbi.gov/stats-services/publications/insurance-fraud)). Blockchain technology could play a significant role in combating this issue.
 
 -   **Claims management**: Smart contracts can automate claims processing, reducing manual intervention and improving efficiency ([source](https://www2.deloitte.com/content/dam/Deloitte/ch/Documents/innovation/ch-en-innovation-deloitte-blockchain-app-in-insurance.pdf)). 
 
-The global insurance claims management market is expected to reach \$14.7 billion by 2026, with blockchain solutions potentially driving part of this growth ([source](https://www.globenewswire.com/news-release/2021/03/03/2185599/28124/en/Global-14-7-Billion-Insurance-Claims-Management-Markets-to-2026.html)).
+The global insurance claims management market is expected to reach $14.7 billion by 2026, with blockchain solutions potentially driving part of this growth ([source](https://www.globenewswire.com/news-release/2021/03/03/2185599/28124/en/Global-14-7-Billion-Insurance-Claims-Management-Markets-to-2026.html)).
 
 -   **Risk assessment**: Blockchain can enable more accurate risk assessment by providing secure and transparent access to relevant data across multiple parties ([source](https://ieeexplore.ieee.org/document/8475561)). 
 
-The global risk management market is projected to reach \$18.5 billion by 2021, showcasing the potential for blockchain applications in this sector ([source](https://www.marketsandmarkets.com/Market-Reports/operational-risk-management-market-114734962.html)).
+The global risk management market is projected to reach $18.5 billion by 2021, showcasing the potential for blockchain applications in this sector ([source](https://www.marketsandmarkets.com/Market-Reports/operational-risk-management-market-114734962.html)).
 
 In conclusion, blockchain technology has far-reaching applications across various business sectors, revolutionizing traditional practices and offering numerous benefits.
 
@@ -437,7 +447,7 @@ Despite its inherent security features, blockchain technology is not immune to t
 
 -   **Vulnerability to attacks**: While blockchains are generally secure, they can be susceptible to attacks like 51% attacks (where a single entity gains control of the majority of the network's mining power) or smart contract vulnerabilities. 
 
-In January 2019, Ethereum Classic suffered a 51% attack that resulted in the theft of over \$1 million worth of cryptocurrency ([source](https://www.coindesk.com/ethereum-classic-51-attack-blockchain-history)).
+In January 2019, Ethereum Classic suffered a 51% attack that resulted in the theft of over $1 million worth of cryptocurrency ([source](https://www.coindesk.com/ethereum-classic-51-attack-blockchain-history)).
 <a id="successful-implementations"> 
 
 -   **Data protection issues**: Ensuring data privacy on public blockchains can be challenging, as transactions are often visible to all network participants. 
@@ -519,33 +529,32 @@ Stay up-to-date with the latest developments in the blockchain industry by subsc
 <summary><b>Sources</b></summary>
 <br>
 <ul>
-<li><a href="https://www.weforum.org/reports/inclusive-deployment-of-blockchain-case-studies-and-learnings-from-the-united-arab-emirates">World Economic Forum: Inclusive Deployment of Blockchain</a></li>
-<li><a href="https://ieeexplore.ieee.org/document/8475561">IEEE Xplore: Blockchain for Supply Chains</a></li>
-<li><a href="https://iccwbo.org/media-wall/news-speeches/global-impacts-counterfeiting-piracy-reach-us4-2-trillion-2022/">International Chamber of Commerce: Global Impacts of Counterfeiting and Piracy</a></li>
-<li><a href="https://www.mckinsey.com/~/media/mckinsey/industries/capital%20projects%20and%20infrastructure/our%20insights/blockchain%20in%20construction%20a%20blueprint%20for%20disruption/blockchain-in-construction-a-blueprint-for-disruption.pdf">McKinsey & Company: Blockchain in Construction - A Blueprint for Disruption</a></li>
-<li><a href="https://www.pwc.de/en/real-estate/assets/pwc-blockchain-tokenization-of-real-estate.pdf">PwC: Blockchain Tokenization of Real Estate</a></li>
-<li><a href="https://www.savills.co.uk/research_articles/229130/210665-0">Savills World Research: Global Real Estate Market Size</a></li>
-<li><a href="https://www.jbs.cam.ac.uk/fileadmin/user_upload/research/workingpapers/wp1901.pdf">Cambridge Judge Business School Working Paper: Smart Contracts and Real Estate Transactions</a></li>
-<li><a href="https://www.forbes.com/sites/omribarzilay/2017/09/08/from-crypto-to-cash-first-ever-real-estate-sale-using-ethereum-leads-the-way/#35f4dd6f3d11">Forbes: From Crypto to Cash - First Ever Real Estate Sale Using Ethereum</a></li>
-<li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6682312/">National Center for Biotechnology Information: Blockchain for Healthcare</a></li>
-<li><a href="https://pubmed.ncbi.nlm.nih.gov/28736725/">PubMed: Potential Savings from Data Sharing in Healthcare</a></li>
-<li><a href="https://www.accenture.com/_acnmedia/PDF-71/Accenture-Pioneering-Blockchain-Secure-Supply-Chain.pdf">Accenture: Pioneering Blockchain to Secure Supply Chain</a></li>
-<li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6022997/">National Center for Biotechnology Information: Blockchain in Clinical Trials</a></li>
-<li><a href="https://www.mckinsey.com/~/media/McKinsey/Industries/Financial%20Services/Our%20Insights/Blockchain%20in%20Insurance%20-%20Opportunity%20or%20Threat/Blockchain_PoV_July2016.ashx">McKinsey & Company: Blockchain in Insurance - Opportunity or Threat?</a></li>
-<li><a href="https://www.fbi.gov/stats-services/publications/insurance-fraud">FBI: Insurance Fraud Statistics</a></li>
-<li><a href="https://www2.deloitte.com/content/dam/Deloitte/ch/Documents/innovation/ch-en-innovation-deloitte-blockchain-app-in-insurance.pdf">Deloitte: Blockchain Applications in Insurance</a></li>
-<li><a href="https://www.globenewswire.com/news-release/2021/03/03/2185599/28124/en/Global-14-7-Billion-Insurance-Claims-Management-Markets-to-2026.html">GlobeNewswire: Global Insurance Claims Management Markets Report 2021</a></li>
-<li><a href="https://ieeexplore.ieee.org/document/8475561">IEEE Xplore: Blockchain for Risk Management</a></li>
-<li><a href="https://www.marketsandmarkets.com/Market-Reports/operational-risk-management-market-114734962.html">MarketsandMarkets: Operational Risk Management Market</a></li>
-<li><a href="https://www.coindesk.com/bitcoin-ethereum-scaling">Coindesk: Scaling Bitcoin and Ethereum</a></li>
-<li><a href="https://cbeci.org/">Cambridge Centre for Alternative Finance: Bitcoin Energy Consumption Index</a></li>
-<li><a href="https://library.oapen.org/bitstream/handle/20.500.12657/42584/9789004439210_webready_content_text.pdf">Open Access Book: Blockchain and the GDPR</a></li>
-<li><a href="https://www.pwc.com/gx/en/issues/blockchain/blockchain-in-business.html">PwC Global Blockchain Survey 2018</a></li>
-<li><a href="https://iapp.org/media/pdf/resource_center/blockchain_and_the_gdpr.pdf">IAPP: Blockchain and the GDPR - Reconciling Privacy Rights with Distributed Ledgers?</a></li>
-<li><a href="https://www.coindesk.com/ethereum-classic-51-attack-blockchain-history">CoinDesk: Ethereum Classic 51% Attack</a></li>
-<li><a href="https://www.ibm.com/case-studies/walmart-food-trust">IBM Food Trust Case Study</a></li>
-<li><a href="https://www.debeersgroup.com/media/company-news/2018/tracr-announces-successful-conclusion-of-blockchain-pilot">De Beers Tracr Announcement</a></li>
-<li><a href="https://www.ibm.com/case-studies/maersk-blockchain-supply-chain">IBM TradeLens Case Study</a></li>
-
+    <li><a href="https://www.weforum.org/reports/inclusive-deployment-of-blockchain-case-studies-and-learnings-from-the-united-arab-emirates">World Economic Forum: Inclusive Deployment of Blockchain</a></li>
+    <li><a href="https://ieeexplore.ieee.org/document/8475561">IEEE Xplore: Blockchain for Supply Chains</a></li>
+    <li><a href="https://iccwbo.org/media-wall/news-speeches/global-impacts-counterfeiting-piracy-reach-us4-2-trillion-2022/">International Chamber of Commerce: Global Impacts of Counterfeiting and Piracy</a></li>
+    <li><a href="https://www.mckinsey.com/~/media/mckinsey/industries/capital%20projects%20and%20infrastructure/our%20insights/blockchain%20in%20construction%20a%20blueprint%20for%20disruption/blockchain-in-construction-a-blueprint-for-disruption.pdf">McKinsey & Company: Blockchain in Construction - A Blueprint for Disruption</a></li>
+    <li><a href="https://www.pwc.de/en/real-estate/assets/pwc-blockchain-tokenization-of-real-estate.pdf">PwC: Blockchain Tokenization of Real Estate</a></li>
+    <li><a href="https://www.savills.co.uk/research_articles/229130/210665-0">Savills World Research: Global Real Estate Market Size</a></li>
+    <li><a href="https://www.jbs.cam.ac.uk/fileadmin/user_upload/research/workingpapers/wp1901.pdf">Cambridge Judge Business School Working Paper: Smart Contracts and Real Estate Transactions</a></li>
+    <li><a href="https://www.forbes.com/sites/omribarzilay/2017/09/08/from-crypto-to-cash-first-ever-real-estate-sale-using-ethereum-leads-the-way/#35f4dd6f3d11">Forbes: From Crypto to Cash - First Ever Real Estate Sale Using Ethereum</a></li>
+    <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6682312/">National Center for Biotechnology Information: Blockchain for Healthcare</a></li>
+    <li><a href="https://pubmed.ncbi.nlm.nih.gov/28736725/">PubMed: Potential Savings from Data Sharing in Healthcare</a></li>
+    <li><a href="https://www.accenture.com/_acnmedia/PDF-71/Accenture-Pioneering-Blockchain-Secure-Supply-Chain.pdf">Accenture: Pioneering Blockchain to Secure Supply Chain</a></li>
+    <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6022997/">National Center for Biotechnology Information: Blockchain in Clinical Trials</a></li>
+    <li><a href="https://www.mckinsey.com/~/media/McKinsey/Industries/Financial%20Services/Our%20Insights/Blockchain%20in%20Insurance%20-%20Opportunity%20or%20Threat/Blockchain_PoV_July2016.ashx">McKinsey & Company: Blockchain in Insurance - Opportunity or Threat?</a></li>
+    <li><a href="https://www.fbi.gov/stats-services/publications/insurance-fraud">FBI: Insurance Fraud Statistics</a></li>
+    <li><a href="https://www2.deloitte.com/content/dam/Deloitte/ch/Documents/innovation/ch-en-innovation-deloitte-blockchain-app-in-insurance.pdf">Deloitte: Blockchain Applications in Insurance</a></li>
+    <li><a href="https://www.globenewswire.com/news-release/2021/03/03/2185599/28124/en/Global-14-7-Billion-Insurance-Claims-Management-Markets-to-2026.html">GlobeNewswire: Global Insurance Claims Management Markets Report 2021</a></li>
+    <li><a href="https://ieeexplore.ieee.org/document/8475561">IEEE Xplore: Blockchain for Risk Management</a></li>
+    <li><a href="https://www.marketsandmarkets.com/Market-Reports/operational-risk-management-market-114734962.html">MarketsandMarkets: Operational Risk Management Market</a></li>
+    <li><a href="https://www.coindesk.com/bitcoin-ethereum-scaling">Coindesk: Scaling Bitcoin and Ethereum</a></li>
+    <li><a href="https://cbeci.org/">Cambridge Centre for Alternative Finance: Bitcoin Energy Consumption Index</a></li>
+    <li><a href="https://library.oapen.org/bitstream/handle/20.500.12657/42584/9789004439210_webready_content_text.pdf">Open Access Book: Blockchain and the GDPR</a></li>
+    <li><a href="https://www.pwc.com/gx/en/issues/blockchain/blockchain-in-business.html">PwC Global Blockchain Survey 2018</a></li>
+    <li><a href="https://iapp.org/media/pdf/resource_center/blockchain_and_the_gdpr.pdf">IAPP: Blockchain and the GDPR - Reconciling Privacy Rights with Distributed Ledgers?</a></li>
+    <li><a href="https://www.coindesk.com/ethereum-classic-51-attack-blockchain-history">CoinDesk: Ethereum Classic 51% Attack</a></li>
+    <li><a href="https://www.ibm.com/case-studies/walmart-food-trust">IBM Food Trust Case Study</a></li>
+    <li><a href="https://www.debeersgroup.com/media/company-news/2018/tracr-announces-successful-conclusion-of-blockchain-pilot">De Beers Tracr Announcement</a></li>
+    <li><a href="https://www.ibm.com/case-studies/maersk-blockchain-supply-chain">IBM TradeLens Case Study</a></li>
 </ul>
 </details>
