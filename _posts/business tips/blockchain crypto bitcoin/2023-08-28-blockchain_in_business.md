@@ -22,12 +22,12 @@ Throughout this article, you'll discover how blockchain offers enhanced security
 We will also discuss real-world examples of companies leveraging the power of blockchain to streamline operations and create innovative solutions.
 
 {% include table-of-contents-box.html 
-link1=<a href="#1">ClickHere</a>
-link2=<a href="#2">ClickHere</a> 
-link3=<a href="#3">ClickHere</a>
-link4=<a href="#4">ClickHere</a>
-link5=<a href="#5">ClickHere</a>
-link6=<a href="#6">ClickHere</a> %}
+bullet1=<a href="#1">ClickHere</a>
+bullet2=<a href="#2">ClickHere</a> 
+bullet3=<a href="#3">ClickHere</a>
+bullet4=<a href="#4">ClickHere</a>
+bullet5=<a href="#5">ClickHere</a>
+bullet6=<a href="#6">ClickHere</a> %}
 
 
 <a id="1"> 
