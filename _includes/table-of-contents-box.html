@@ -2,13 +2,24 @@
 <div class="table-of-contents-box">
   
     <h3 style="margin-left: 17px;"><img style="width: 35px;margin-right: 12px;" src="/images/icons/table-of-contents-icon.png" alt="table of contents">Table of Contents</h3>
-    <ul>
-      <li>{{ include.bullet1 }}</li>
-      <li>{{ include.bullet2 }}</li>
-      <li>{{ include.bullet3 }}</li>
-      <li>{{ include.bullet4 }}</li>
-      <li>{{ include.bullet5 }}</li>
-    </ul>
+    <table>
+      <tr>
+        <td>
+          <ul>
+            <li>{{ include.link1 }}{{ include.bullet1 }}</li>
+            <li>{{ include.link2 }}{{ include.bullet2 }}</li>
+            <li>{{ include.link3 }}{{ include.bullet3 }}</li>
+          </ul>
+        </td>
+        <td>
+          <ul>
+            <li>{{ include.link4 }}{{ include.bullet4 }}</li>
+            <li>{{ include.link5 }}{{ include.bullet5 }}</li>
+            <li>{{ include.link6 }}{{ include.bullet6 }}</li>
+          </ul>
+        </td>
+      </tr>
+      </table>
   </div>
 </center>
 
@@ -31,3 +42,7 @@
     line-height: 1.8em;
 }
 </style>  
+
+
+
+

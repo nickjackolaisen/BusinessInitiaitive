@@ -22,11 +22,26 @@ Throughout this article, you'll discover how blockchain offers enhanced security
 We will also discuss real-world examples of companies leveraging the power of blockchain to streamline operations and create innovative solutions.
 
 {% include table-of-contents-box.html 
-bullet1="<b>Introduction to Blockchain Tech</b> - Get acquainted with the concept of blockchain and understand its significance in today's world." 
+link1=<a href="#1">ClickHere</a>
+bullet1="<b>Introduction to Blockchain Tech</b> - Get acquainted with the concept of blockchain and understand its significance in today's world."
+link2=<a href="#2">ClickHere</a> 
 bullet2="<b>How Blockchain Works</b> - Learn the mechanics behind blockchain technology and how it ensures secure and transparent transactions." 
+link3=<a href="#3">ClickHere</a>
 bullet3="<b>Benefits of Blockchain in Business</b> - Discover the advantages of implementing blockchain in various business sectors and how it can revolutionize operations." 
+link4=<a href="#4">ClickHere</a>
 bullet4="<b>Challenges and Limitations of Blockchain</b> - Explore the potential obstacles and constraints of blockchain technology to make informed decisions." 
-bullet5="<b>Real-World Use Cases and Industry Examples</b> - Gain insights from real-life applications of blockchain across different industries and how they've benefited from it."%}
+link5=<a href="#5">ClickHere</a>
+bullet5="<b>Real-World Use Cases and Industry Examples</b> - Gain insights from real-life applications of blockchain across different industries and how they've benefited from it."
+link6=<a href="#6">ClickHere</a>
+bullet6="category 6"%}
+
+
+<a id="1"> 
+<a id="2"> 
+<a id="3"> 
+<a id="4"> 
+<a id="5"> 
+<a id="6"> 
 
 By understanding these concepts and their practical implications, you'll be better equipped to harness the benefits of blockchain technology in your own business endeavors.
 
