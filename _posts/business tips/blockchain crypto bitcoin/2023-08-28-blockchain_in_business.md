@@ -23,17 +23,11 @@ We will also discuss real-world examples of companies leveraging the power of bl
 
 {% include table-of-contents-box.html 
 link1=<a href="#1">ClickHere</a>
-bullet1="<b>Introduction to Blockchain Tech</b> - Get acquainted with the concept of blockchain and understand its significance in today's world."
 link2=<a href="#2">ClickHere</a> 
-bullet2="<b>How Blockchain Works</b> - Learn the mechanics behind blockchain technology and how it ensures secure and transparent transactions." 
 link3=<a href="#3">ClickHere</a>
-bullet3="<b>Benefits of Blockchain in Business</b> - Discover the advantages of implementing blockchain in various business sectors and how it can revolutionize operations." 
 link4=<a href="#4">ClickHere</a>
-bullet4="<b>Challenges and Limitations of Blockchain</b> - Explore the potential obstacles and constraints of blockchain technology to make informed decisions." 
 link5=<a href="#5">ClickHere</a>
-bullet5="<b>Real-World Use Cases and Industry Examples</b> - Gain insights from real-life applications of blockchain across different industries and how they've benefited from it."
-link6=<a href="#6">ClickHere</a>
-bullet6="category 6"%}
+link6=<a href="#6">ClickHere</a> %}
 
 
 <a id="1"> 
