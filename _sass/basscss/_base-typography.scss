@@ -33,6 +33,10 @@ ul {
   padding-left: $space-3;
 }
 
+ul {
+  list-style-image: url(/images/icons/bi-bullet.png);
+}
+
 pre,
 code,
 samp {
