@@ -6,16 +6,50 @@
       <tr>
         <td>
           <ul>
-            <li>{{ include.bullet1 }}</li>
-            <li>{{ include.bullet2 }}</li>
-            <li>{{ include.bullet3 }}</li>
+            {% if include.bullet1 %}
+            <li>
+                <a href="{{ include.bullet1tag }}">{{ include.bullet1 }}</a>
+            </li>
+            {% endif %}
+            {% if include.bullet2 %}
+            <li>
+                <a href="{{ include.bullet2tag }}">{{ include.bullet2 }}</a>
+            </li>
+            {% endif %}
+            {% if include.bullet3 %}
+            <li>
+                <a href="{{ include.bullet3tag }}">{{ include.bullet3 }}</a>
+            </li>
+            {% endif %}
+            {% if include.bullet4 %}
+            <li>
+                <a href="{{ include.bullet4tag }}">{{ include.bullet4 }}</a>
+            </li>
+            {% endif %}
           </ul>
         </td>
         <td>
           <ul>
-            <li>{{ include.bullet4 }}</li>
-            <li>{{ include.bullet5 }}</li>
-            <li>{{ include.bullet6 }}</li>
+            {% if include.bullet5 %}
+            <li>
+            <a href="{{ include.bullet5tag }}">{{ include.bullet5 }}</a>
+            </li>
+            {% endif %}
+            {% if include.bullet6 %}
+            <li>
+                <a href="{{ include.bullet6tag }}">{{ include.bullet6 }}</a>
+            </li>
+            {% endif %}
+            {% if include.bullet7 %}
+            <li>
+                <a href="{{ include.bullet7tag }}">{{ include.bullet7 }}</a>
+            </li>
+            {% endif %}
+            {% if include.bullet8 %}
+            <li>
+                <a href="{{ include.bullet8tag }}">{{ include.bullet8 }}</a>
+            </li>
+            {% endif %}
           </ul>
         </td>
       </tr>
@@ -42,7 +76,5 @@
     line-height: 1.8em;
 }
 </style>  
-
-
-
+  
 

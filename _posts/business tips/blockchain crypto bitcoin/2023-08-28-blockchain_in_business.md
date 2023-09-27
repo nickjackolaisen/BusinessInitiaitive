@@ -2,11 +2,12 @@
 title: "Blockchain Technology in Business - Prepare Your Business for the Future"
 layout: post
 date: 2023-08-28
-update_date: 2023-09-27
+update_date: 2023-09-26
 author: jack_nicholaisen
 summary: "Explore blockchain's impact on business in our article. Learn applications, benefits, and industry effects. Stay ahead with blockchain knowledge." 
 image: /images/posts-headers/blockchain-in-business-header.png
 permalink: /business-tips/blockchain-technology/
+tags: block chain business, blockchain business models,
 ---
 
 Welcome to the world of blockchain technology and its potential impact on businesses across various industries. 
@@ -22,27 +23,26 @@ Throughout this article, you'll discover how blockchain offers enhanced security
 We will also discuss real-world examples of companies leveraging the power of blockchain to streamline operations and create innovative solutions.
 
 {% include table-of-contents-box.html 
-bullet1=words
-bullet2= go
-bullet3= here
-bullet4= I
-bullet5= want 
-bullet6= links %}
+bullet1tag="#brief-history"
+bullet1="Who Invented Blockchain?"
+bullet2tag="#beyond-digital-currency"
+bullet2="Blockchain Business Ideas of The Future"
+bullet3tag="#core-components"
+bullet3="What is a Node in Blockchain?"
+bullet5tag="#benefits"
+bullet5="The Advantages of Using Blockchain Technology?"
+bullet6tag="#blockchain-applicaitons"
+bullet6="Blockchain Business Model" 
+bullet7tag="#successful-implementations"
+bullet7="Blockchain Technology Companies" %}
 
-<a href="#1">ClickHere</a>
-<a href="#2">ClickHere</a>
-<a href="#3">ClickHere</a>
-<a href="#4">ClickHere</a>
-<a href="#5">ClickHere</a>
-<a href="#6">ClickHere</a>
+<a id="brief-history"> 
+<a id="beyond-digital-currency"> 
+<a id="core-components"> 
+<a id="benefits"> 
+<a id="blockchain-applicaitons"> 
+<a id="successful-implementations"> 
 
-
-<a id="1"> 
-<a id="2"> 
-<a id="3"> 
-<a id="4"> 
-<a id="5"> 
-<a id="6"> 
 
 By understanding these concepts and their practical implications, you'll be better equipped to harness the benefits of blockchain technology in your own business endeavors.
 
