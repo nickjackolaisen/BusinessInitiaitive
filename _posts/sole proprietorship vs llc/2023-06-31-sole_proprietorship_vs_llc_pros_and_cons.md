@@ -2,7 +2,7 @@
 layout: post
 title: "Sole Proprietorship vs LLC: Pros and Cons"
 date: 2023-06-31
-update_date: 2023-09-21
+update_date: 2023-09-27
 author: jack_nicholaisen
 summary: "A complete comparison of the various pros and cons of both Sole Proprietorships and Limited Liability Companies."  
 image: /images/posts-headers/sole-proprietorship-vs-llc-pros-cons-header.png
@@ -20,6 +20,8 @@ When you’re the boss…
 *   You control how much you get paid.  
 *   You can replicate your system once you build it.
 
+{% include takeaway-box.html bullet1="A sole proprietorship is best for those who want to start a business quickly and have complete control over the decision-making process." bullet2="An LLC offers personal asset protection and limited liability, making it a better option for those who want to protect their personal assets while starting a business." bullet3="Both types of businesses require registration with the state, but an LLC requires more paperwork and fees than a sole proprietorship." bullet4="Taxes for both types of businesses are based on personal income tax rates, but an LLC has more flexibility in how it can be taxed." bullet5="The choice between a sole proprietorship and an LLC ultimately depends on your specific business needs and goals, so it's important to do your research and consult with a professional before making a decision." %}
+
 Many entrepreneurs start with a Sole Proprietorship or Limited Liability Company (LLC) because they are the easiest bases to start with and build on.  
 
 Sole Proprietorships and LLCs share a few basic characteristics but they differ largely in how you can optimize them and the protections you receive. 
@@ -27,6 +29,10 @@ Sole Proprietorships and LLCs share a few basic characteristics but they differ 
 Keep reading… 
 
 In this article, you’ll find a clear breakdown of the pros and cons of the most popular business entities in America right now.
+
+{% include table-of-contents-box.html bullet1tag="#llc-pros" bullet1="Benefits of LLC" bullet2tag="#sole-proprietorship-pros" bullet2="Benefits of Sole Proprietorship" bullet3tag="#which-is-better" bullet3="Which One is Right for You?" bullet4tag="#llc-cons" bullet4="Downside of LLC" bullet5tag="#sole-proprietorship-cons" bullet5="Disadvantagses of Sole Proprietorships" %}
+
+<a id="llc-pros"> 
 
 When you see what’s available and understand the implications of each setup, you'll know which type of business best fits your budget and your goals.
 
@@ -132,6 +138,7 @@ As a general rule of thumb: 
 *   The owners of a Manager Managed LLC are _passively_ involved in daily operations
 
 With so much variation in the LLC’s management, your distribution of ownership can be biased. 
+<a id="sole-proprietorship-pros"> 
 
 While most founders divvy up ownership based on each member’s initial investment, some leave room to account for each member’s continual contribution to the LLC.
 
@@ -188,6 +195,7 @@ With everything being personal, paying taxes is as simple as including your busi
 </center>
 
 This is the beauty of the Pass-Through Process. 
+<a id="llc-con"> 
 
 Your business taxes are “passed” on to you. 
 
@@ -257,6 +265,7 @@ Upgraded LLCs, a.k.a. S- and C-Corps, have even more requirements you have to fo
 ### Self-Employment Tax ###
 
 By running a profitable business you are called self-employed, even if it’s only a side hustle.
+<a id="sole-proprietorship-cons"> 
 
 In a regular 9-to-5 your employer automatically takes Social Security and Medicare taxes from your paycheck or salary before you even get paid. 
 
@@ -335,6 +344,7 @@ On the other hand, Phil can use a DBA and name his business: “Aspen Flooring a
 Which one sounds more professional?
 
 DBAs give you credibility, and branding opportunities, and protect your identity. 
+<a id="which-is-better"> 
 
 Most states don’t require DBAs. 
 
