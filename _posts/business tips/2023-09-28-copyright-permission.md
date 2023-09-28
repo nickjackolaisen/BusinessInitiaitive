@@ -163,7 +163,6 @@ It's also important to follow the terms of the agreement carefully to avoid any 
 Getting copyright permission for music can be more complicated than other types of content. 
 
 This is because there are often multiple copyright holders involved in the creation and distribution of a song. 
-
 <br>
 <details>
 <summary><b>Click here for details...</b></summary>
@@ -223,7 +222,6 @@ Here are some helpful links related to obtaining copyright permission for music:
 ## How to Get Copyright Permission for YouTube Videos?
 
 If you want to use someone else's YouTube video in your own content, you will need to obtain permission from the video's creator or owner. 
-
 <br>
 <details>
 <summary><b>Click here for details...</b></summary>
@@ -261,7 +259,6 @@ Here are some helpful links related to obtaining copyright permission for YouTub
 Images are one of the most commonly used forms of digital content online. 
 
 However, just like with other types of content, images are often protected by copyright law. 
-
 <br>
 <details>
 <summary><b>Click here for details...</b></summary>
@@ -339,7 +336,6 @@ Here are some helpful links related to obtaining copyright permission for inform
 Getting copyright permission can be a complex process, but it's important to respect the rights of copyright owners. 
 
 Whether you're using copyrighted material for personal or commercial purposes, it's important to obtain proper copyright approval before doing so.
-
 
 By following these steps, you can ensure that you are using someone else's work **legally and ethically**. 
 

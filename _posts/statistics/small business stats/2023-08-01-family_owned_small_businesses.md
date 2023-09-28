@@ -2,7 +2,7 @@
 title: "What Percentage of Small Businesses are Family-Owned?"
 layout: post
 date: 2023-08-01
-update_date: 2023-09-27
+update_date: 2023-09-28
 author: jack_nicholaisen
 summary: "Discover success secrets of family-owned businesses and apply insights for smarter decisions and improved growth in your venture."
 permalink: /stats/small-businesses/family-owned-businesses/
@@ -15,15 +15,23 @@ These businesses are often founded and managed by family members who share a com
 
 The family-owned business model differs from other types of businesses in several ways, including decision-making processes, leadership styles, and the degree of personal investment in the company's success. 
 
+{% include takeaway-box.html bullet1="Family-owned businesses have a long-standing tradition and are often founded and managed by family members who share a common vision and passion for their enterprise." bullet2="Family-owned businesses can offer unique benefits, such as strong relationships with customers, suppliers, and employees, but also face challenges related to succession planning and family dynamics." bullet3="According to recent statistics, approximately 90% of all businesses in the United States are family-owned or controlled by families." bullet4="Family-owned businesses that prioritize communication, transparency, and formal governance structures tend to perform better than those that do not." bullet5="Entrepreneurs considering starting or taking over a family business should carefully consider the potential benefits and challenges before making a decision." %}
+
 In this article, we will explore the prevalence of family-owned small businesses, the benefits and disadvantages of this business model, and some of the many examples of successful family-owned businesses.
 
+<p><b>➤ Need personalized assistance? </b> <a href="https://calendly.com/businessinitiative/30-minute-consultation-call" target="_blank"> Book a FREE Consultation Today!</a></p>
+
 Let's dive in...
+<a id="percentage"> 
+
+{% include table-of-contents-box.html bullet1tag="#percentage" bullet1="Percentage of Family Owned Businesses" bullet2tag="#benefits" bullet2="Benefits" bullet3tag="#disadvantages" bullet3="Disadvantages" bullet4tag="#famous-examples" bullet4="Famous Examples" bullet5tag="#summary" bullet5="Summary" %}
 
 ## Percentage of Family-Owned Small Businesses
 
 According to the Family Owned Business Institute at Grand Valley State University, **family-owned businesses account for approximately 90% of all businesses in the United States, and 35% of Fortune 500 companies are family-owned or controlled.**
 
 Additionally, The Family Business Alliance reports that **family-owned businesses generate 64% of the U.S. GDP, employ 62% of the workforce, and account for 78% of all new job creation.** 
+<a id="benefits"> 
 
 These statistics demonstrate the significant impact family-owned businesses have on the economy as well as their popularity.
 
@@ -31,25 +39,26 @@ These statistics demonstrate the significant impact family-owned businesses have
 
 There are many benefits to operating a family-owned business, including:
 
--   ### Shared values and vision
+### 1. Shared values and vision
 
 Family members often have a deep understanding of the business's values and vision, ensuring that the company remains true to its founding principles as it grows and evolves.
 
--   ### Long-term perspective
+### 2. Long-term perspective
 
 Family-owned businesses tend to prioritize long-term success over short-term gains, which can lead to more sustainable growth and stability.
 
 <p><b>➤ Take Initiative: </b> <a href="https://www.businessinitiative.org/llc/benefits-for-small-businesses/" target="_blank"> 15 reasons why your small business should have an LLC</a></p>
 
--   ### Loyalty and commitment
+### 3. Loyalty and commitment
 
 Family members are typically highly committed to the success of the business and are often willing to make personal sacrifices to ensure its continued growth and prosperity.
 
--   ### Flexibility and adaptability
+### 4. Flexibility and adaptability
 
 Family-owned businesses can often make decisions and implement changes more quickly than larger corporations, allowing them to adapt to changing market conditions or seize new opportunities.
+<a id="disadvantages"> 
 
--   ### Strong relationships with employees and customers
+### 5. Strong relationships with employees and customers
 
 Family-owned businesses often have strong, long-lasting relationships with their employees and customers, which can lead to increased loyalty, satisfaction, and repeat business.
 
@@ -57,19 +66,20 @@ Family-owned businesses often have strong, long-lasting relationships with their
 
 Despite their many advantages, family-owned businesses also face unique challenges, such as:
 
--   ### Nepotism and favoritism
+### 1. Nepotism and favoritism
 
 Family-owned businesses may prioritize hiring and promoting family members over more qualified candidates, which can lead to resentment among non-family employees and limit the company's ability to recruit top talent.
 
--   ### Succession planning
+### 2. Succession planning
 
 Transitioning leadership from one generation to the next can be a complex and emotional process, as family members may have differing opinions on the future direction of the business or who should assume leadership roles.
 
--   ### Conflict resolution
+### 3. Conflict resolution
 
 Disagreements between family members can sometimes escalate and become more personal than professional, leading to strained relationships and potentially harming the business.
+<a id="famous-examples"> 
 
--   ### Limited access to capital
+### 4. Limited access to capital
 
 Family-owned businesses may have more difficulty securing financing from external sources, as they may be perceived as higher-risk investments or may be unwilling to give up control to outside investors.
 
@@ -82,6 +92,7 @@ Despite the potential challenges, many family-owned businesses have become highl
 2.  [Ford Motor Company](https://www.ford.com/) - Established by Henry Ford in 1903, Ford remains one of the world's leading automobile manufacturers and is still controlled by the Ford family.
 
 3.  [Mars, Incorporated](https://www.mars.com/) - The global confectionery and pet food giant was founded by Frank Mars in 1911 and is currently owned and operated by the Mars family.
+<a id="summary"> 
 
 4.  [Roche Holding AG](https://www.roche.com/) - The Swiss multinational healthcare company was founded by Fritz Hoffmann-La Roche in 1896 and remains controlled by the Hoffmann and Oeri families.
 
@@ -122,3 +133,4 @@ It is essential to consult multiple sources for an accurate understanding of thi
     <li>Forbes: <a href="https://www.forbes.com/sites/niallmccarthy/2016/11/23/the-worlds-largest-family-owned-businesses-infographic/?sh=4a5f8d7e4c7b">The World's Largest Family-Owned Businesses</a></li>
 </ul>
 </details>
+

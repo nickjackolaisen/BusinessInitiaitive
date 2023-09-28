@@ -2,37 +2,40 @@
 layout: post
 title: 7 Partnership Disadvantages They Tried Keeping Secret
 date: 2023-06-29
-update_date: 2023-09-21
+update_date: 2023-09-28
 author: jack_nicholaisen
 summary: "Although they may be simple and cheap, some people avoid Partnerships like the Bubonic Plague. Read this to discover why!"
 permalink: /partnership/disadvantages/
+tags: disadvantages of a partnership, disadvantages of partnership, cons of a partnership, disadvantage of partnership, disadvantage of partnership in business, what are the disadvantages of a partnership
 ---
 
 Here are the seven ways Partnerships fail:
 
-1.  They don’t offer **limited liability protection**
+**1.**  They don’t offer **limited liability protection**
 
-2.  You get **less control** over the business
+**2.**  You get **less control** over the business
 
-3.  Partners pay **Self-Employment tax**
+**3.**  Partners pay **Self-Employment tax**
 
-4.  You're **liable for your partner's actions**
+**4.**  You're **liable for your partner's actions**
 
-5.  There is an **increased chance of arguments**
+**5.**  There is an **increased chance of arguments**
 
-6.  It is **difficult to dissolve** a Partnership
+**6.**  It is **difficult to dissolve** a Partnership
 
-7.  It’s **tough to change ownership**
+**7.**  It’s **tough to change ownership**
 
 With all of their drawbacks, it might be hard to believe: 
 
-Starting a Partnership may be your best option. 
+**Starting a Partnership may be your best option.**
 
 It comes down to whether you want to make more money working with a team of highly skilled individuals or if you want more control working on your own.
 
+{% include takeaway-box.html bullet1="Partnerships do not offer limited liability protection, and partners are liable for each other's actions, which means that a partner's mistake can cost you." bullet2="Partnerships require more communication and trust than other business structures, but they can be difficult to dissolve if things don't work out." bullet3="If you're considering a partnership, it's important to think about your personal goals and values as well as your business goals and values." bullet4="There are tax implications to partnerships that many entrepreneurs may not be aware of, including self-employment taxes." bullet5="Despite the disadvantages of partnerships, they can still be a viable option for some entrepreneurs who prioritize shared decision-making and collaboration over individual control." %}
+
 To make the right decision, you should understand if a Partnership aligns with your goals and vision. 
 
-At the very least, look at what makes Partnerships [excellent](https://www.businessinitiative.org/partnership/advantages/) and terrible. 
+At the very least, take a look at what makes Partnerships [excellent](https://www.businessinitiative.org/partnership/advantages/) and terrible. 
 
 If you’re unfamiliar with Partnerships, the Fundamentals of Partnerships are included at the end of this article.  
 
