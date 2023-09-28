@@ -23,6 +23,8 @@ In this article, we'll explore how to get you that coppyright approval...
 
 {% include table-of-contents-box.html bullet1tag="#what-is-copyright" bullet1="What is Copyright?" bullet2tag="#identify-owner" bullet2="Step 1: Find the Owner" bullet3tag="#contact-owner" bullet3="Step 2: Contact the Owner" bullet4tag="#negotiations" bullet4="Step 3: Negotiating Terms of Use" bullet5tag="#agreement" bullet5="Step 4: Contractual Agreement" bullet6tag="#faqs" bullet6="FAQs - Frequently Asked Questions" %}
 
+<p><b>➤ Need personalized assistance? </b> <a href="https://calendly.com/businessinitiative/30-minute-consultation-call" target="_blank"> Book a FREE Consultation Today!</a></p>
+
 ## When Do You Need to Acquire Copyright Approval
 
 When it comes to using copyrighted content, obtaining permission from the copyright owner is crucial. 
@@ -45,8 +47,6 @@ It protects both parties involved and promotes a culture of respect for intellec
 ## Understand Copyright Law
 
 Before you start seeking permission to use someone else's work, it's important to understand the basics of copyright law. 
-
-<p><b>➤ Need personalized assistance? </b> <a href="https://calendly.com/businessinitiative/30-minute-consultation-call" target="_blank"> Book a FREE Consultation Today!</a></p>
 
 Here are some key points to keep in mind:
 
