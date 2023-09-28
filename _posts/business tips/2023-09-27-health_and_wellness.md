@@ -76,6 +76,8 @@ By setting an example and taking part in wellness initiatives, leaders can creat
 
 ## Why is Health and Wellness so Important?
 
+A growing body of research suggests that investing in employee health and wellness can have significant benefits for businesses.
+
 According to [a study](https://www.cdc.gov/workplacehealthpromotion/tools-resources/workplace-health/employee-health-wellness.htm) by the Centers for Disease Control and Prevention, productivity losses related to personal and family health problems cost U.S. employers $1,685 per employee per year, or $225.8 billion annually.
 
 [Another study](https://hbr.org/2010/12/whats-the-hard-return-on-employee-wellness-programs) found that companies with effective health and wellness programs have 11% higher revenue per employee than those that don't prioritize employee well-being.
@@ -83,8 +85,6 @@ According to [a study](https://www.cdc.gov/workplacehealthpromotion/tools-resour
 Investing in your employees' health can also lead to significant healthcare savings.
 
 For instance, Johnson & Johnson found that its corporate wellness program saved the company $250 million on healthcare costs over a decade.
-
-A growing body of research suggests that investing in employee health and wellness can have significant benefits for businesses.
 <a id="practical-ideas"> 
 
 For example, [a study](https://journals.lww.com/joem/Abstract/2010/08000/Comprehensive\\_Worksite\\_Health\\_Promotion\\_and.6.aspx) published by the Journal of Occupational and Environmental Medicine found that companies with comprehensive wellness programs experienced an average of 25% fewer sick days than those without such programs.
