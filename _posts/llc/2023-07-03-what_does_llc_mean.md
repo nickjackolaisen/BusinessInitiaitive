@@ -2,7 +2,7 @@
 layout: post
 title: "What Does LLC Mean in Business and How Do They Work?"
 date: 2023-07-03
-update_date: 2023-09-21
+update_date: 2023-09-27
 author: jack_nicholaisen
 summary: LLC stands for Limited Liability Company. Read this to find out how using one can put you on the fast-track to success.
 image: /images/posts-headers/what-does-llc-mean-header.png
@@ -21,21 +21,7 @@ Since LLCs are so flexible and simple to use, it’s no surprise that there are 
 {% include takeaway-box.html bullet1="<b>Limited Liability Protection:</b> As an LLC owner, your personal assets are protected from business debts and lawsuits. This is a crucial safety net for entrepreneurs starting a new venture." bullet2="<b>Flexible Taxation:</b> The default pass-through taxation allows LLC owners to report profits and losses on their personal tax returns, but you can also choose to be taxed as a corporation if it's more advantageous for your situation." bullet3="<b>Customizable Management Structure:</b> You have the freedom to set up your LLC's management structure in a way that works best for you and your business partners, whether it's member-managed or manager-managed." bullet4="<b>Ease of Formation and Operation:</b> Starting an LLC is generally less complex than forming a corporation, with fewer regulatory requirements and paperwork involved. This makes it an appealing option for many small business owners." bullet5="<b>Scalability and Versatility:</b> LLCs offer entrepreneurs the ability to grow their businesses without sacrificing flexibility or control over decision-making processes. Whether you're starting as a solo entrepreneur or with multiple partners, an LLC adapts to your needs as your business evolves.
 "%}
 
-## Table of Contents
-
-**1. <a href="#what-is-llc">What is an LLC and how does it work to protect you?</a>**
-
-**2. <a href="#llc-structure">LLC Structure</a>**
-
-**3. <a href="#articles-of-organization-operating-agreement">Articles of Organization and Operation Agreement</a>**
-
-**4. <a href="#llc-voting-rights">LLC Voting Rights</a>**
- 
-**5. <a href="#how-do-owners-get-paid">How Do Owners Get Paid?</a>**
-
-**6. <a href="#registering-an-llc">Registering an LLC</a>**
-
-**7. <a href="#llc-comparison">LLCs Compared to Other Entities</a>**
+{% include table-of-contents-box.html bullet1tag="#what-is-llc" bullet1="What is an LLC and how does it work to protect you?" bullet2tag="#articles-of-organization-operating-agreement" bullet2="Articles of Organization and Operation Agreement" bullet3tag="#llc-voting-rights" bullet3="LLC Voting Rights" bullet4tag="#how-do-owners-get-paid" bullet4="How Do Owners Get Paid?" bullet5tag="#registering-an-llc" bullet5="Registering an LLC" bullet6tag="#llc-comparison" bullet6="LLCs Compared to Other Entities" %}
 
 ## What Does Being an LLC Mean?
 
@@ -79,7 +65,6 @@ The technical terms for these are Undercapitalizing and Piercing the Corporate V
 Undercapitalization is when you underfund the company, ruining its ability to pay back debts. Piercing the Veil is when you fail to distinguish between business and personal.
 
 If you’ve done either of these, your limited liability protection may be waived. Should this happen, you’d now be personally responsible to cover your business’s debts and legal disputes. 
-<a id="llc-structure"> 
 
 This means your private assets and investments are made vulnerable. In other words, the lawyers and courts can come and take your personal belongings. 
 
