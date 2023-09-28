@@ -7,7 +7,7 @@ author: jack_nicholaisen
 summary: "A complete comparison of the various pros and cons of both Sole Proprietorships and Limited Liability Companies."  
 image: /images/posts-headers/sole-proprietorship-vs-llc-pros-cons-header.png
 permalink: /sole-proprietorship-vs-llc/pros-and-cons/
-tags: pros and cons of sole proprietorship vs llc, 
+tags: pros and cons of sole proprietorship vs llc, pros and cons of llc vs sole proprietorship, llc vs sole proprietorship pros and cons, sole proprietorship vs llc pros and cons, llc versus sole proprietorship pros and cons
 ---
 
 In today’s world, you need financial independence if you want to secure your freedom, provide for your family and community, and live your life to the fullest. 
