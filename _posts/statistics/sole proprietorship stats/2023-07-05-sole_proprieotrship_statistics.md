@@ -9,12 +9,13 @@ image: /images/posts-headers/sole-proprietorship-facts-stats-faqs-header.png
 permalink: /stats/sole-proprietorship-statistics/
 tags: number of sole proprietorships in the united states, largest sole proprietorships in the world, sole proprietors in the us, successful sole proprietorship
 ---
+<a id="number"> 
 
 ## What is the number of Sole Proprietorships in the United States?
 
 According to the 2020 US Census from 2020, there were **826,915 Sole Proprietorships in the US**. 
 
-Compare this to the total **8,000,178** Business establishments in the US. 
+Compare this to the total **8,000,178** Business establishments in the US. [Source](https://data.census.gov/table?g=040XX00US29&tid=CBP2020.CB2000CBP)
 
 ## What percentage of businesses are Sole Proprietorships?
 
@@ -24,9 +25,12 @@ It's clear from this fact alone that a significant portion of people enjoy being
 
 It should come as no surprise since they are the easiest, cheapest, and fastest business for someone to start. [Source](https://data.census.gov/table?g=040XX00US29&tid=CBP2020.CB2000CBP)
 
+{% include takeaway-box.html bullet1="<b>Sole proprietorship advantages:</b> Sole proprietorships offer simplicity, low start-up costs, and full control over business decisions." bullet2="<b>Tax implications:</b> Owners of sole proprietorships report their business income and expenses on their personal tax returns, which can simplify tax filing." bullet3="<b>Legal liability:</b> Sole proprietors are personally responsible for all debts and liabilities associated with their businesses, making it important to consider risk management strategies." bullet4="<b>Growth potential:</b> Expanding a sole proprietorship may require additional financing or partnerships; consider the long-term goals of your business when choosing this structure." bullet5="<b>Alternatives to consider:</b> While sole proprietorships are common, other options like limited liability companies (LLCs) or corporations may better suit certain entrepreneurs' needs and provide additional legal protection."%}
+
 <p><b>➤ TAKE INITIATIVE: </b> <a href="https://www.businessinitiative.org/sole-proprietorship/examples/" target="_blank">Here are some examples use can use to start your own Sole Proprietorship</a></p>
 
-{% include takeaway-box.html bullet1="<b>Sole proprietorship advantages:</b> Sole proprietorships offer simplicity, low start-up costs, and full control over business decisions." bullet2="<b>Tax implications:</b> Owners of sole proprietorships report their business income and expenses on their personal tax returns, which can simplify tax filing." bullet3="<b>Legal liability:</b> Sole proprietors are personally responsible for all debts and liabilities associated with their businesses, making it important to consider risk management strategies." bullet4="<b>Growth potential:</b> Expanding a sole proprietorship may require additional financing or partnerships; consider the long-term goals of your business when choosing this structure." bullet5="<b>Alternatives to consider:</b> While sole proprietorships are common, other options like limited liability companies (LLCs) or corporations may better suit certain entrepreneurs' needs and provide additional legal protection."%}
+{% include table-of-contents-box.html bullet1tag="#number" bullet1="Number of Sole Proprietorships in US" bullet2tag="#largest" bullet2="Largest Sole Proprietorship" bullet3tag="#benefits" bullet3="Benefits of Sole Proprietorships" bullet4tag="#disadvantages" bullet4="Disadvantages of Sole Proprietorships" bullet5tag="#lifetime" bullet5="Lifetime of the Sole Proprietorship" bullet6tag="#faqs" bullet6="FAQs - Frequently Asked Questions" %}
+<a id="largest"> 
 
 <center>
 <img alt="sole proprietorship growth" src="/images/content/market-growth.png" style="width: 63%; height: 63%">
@@ -100,6 +104,8 @@ Without any liability protections, any massively successful sole proprietor woul
   </tr>
   </table>
 
+<a id="benefits"> 
+
 **Sources:** 
 *IRS, Statistics of Income Division, Sole Proprietorship Returns 2019, November 2021. IRS, Statistics of Income Division, Sole Proprietorship Returns 2018, September 2020. IRS, Statistics of Income Division, Sole Proprietorship Returns 2017, September 2019. IRS, Statistics of Income Division, Sole Proprietorship Returns 2016, August 2018. IRS, Statistics of Income Division, Sole Proprietorship Returns 2015, July 2017.*
 
@@ -125,7 +131,7 @@ Honestly, the best part of a Sole Proprietorship is getting out of having to fil
 
 <p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/sole-proprietorship/advantages/" target="_blank"> Have a deeper look at the Sole Proprietorship's greatest attributes. </a></p>
 
-## What is a major weakness of the Sole Proprietorship?
+## What is a Major Weakness of the Sole Proprietorship?
 
 The main pitfall of starting a Sole Proprietorship is the limitations on what you can and cannot do. 
 
@@ -206,6 +212,7 @@ Having a management team allows you to take a step back and focus on the big pic
 This is not the case in a Sole Proprietorship. 
 
 In stead of getting the chance to be hands-off, you have to be all hands on deck. 
+<a id="lifetime"> 
 
 Sole Proprietorships only exist if the owner, the sole proprietor, is actively managing and operating the business themselves. 
 
@@ -321,6 +328,7 @@ Most small business last until one of two events occur:
 Let’s say you have a family owned auto repair shop and in comes a franchise location for a large corporate auto repair service. 
 
 Unless your small business can beat their prices and perform repairs better than your corporate competitor, the odds are stacked against you. But…
+<a id="disadvantages"> 
 
 Maybe you and your mechanics have developed some groundbreaking technique to clean oil or change brakes or install new spark plugs better than the mainstream approach. 
 
@@ -369,13 +377,13 @@ No, Sole Proprietorship entities will end when one of the following events occur
 **2.**	The sole proprietor chooses to stop running the business.
 
 **3.**	The sole proprietor dies.
+<a id="faqs"> 
 
 In a Sole Proprietorship the owner is [legally viewed as the business itself](https://www.businessinitiative.org/sole-proprietorship/disadvantages/). 
 
 If the owner is no longer present or is unable to continue providing their services or selling their goods then the Sole Proprietorship simply dissolves. 
 
 Just as the Sole Proprietorship is nothing without a sole proprietor to manage and operate the business, so to the business isn’t a business if it’s not productive. 
-
 
 ## FAQs - Answers to Frequently Asked Questions About Sole Proprietorships
 
