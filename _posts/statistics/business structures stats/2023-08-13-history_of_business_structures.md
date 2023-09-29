@@ -56,7 +56,7 @@ However, limited partnerships continue to be a popular choice for certain indust
 
 In recent years, there has been a growing interest in social responsibility and sustainability among businesses. 
 
-This has led to the emergence of [benefit corporations](https://benefitcorp.net/what-is-a-benefit-corporation), which are legally required to pursue both financial and social or environmental goals. 
+This has led to the emergence of benefit corporations, which are legally required to pursue both financial and social or environmental goals. 
 
 [In 2021, there were over 4,000 certified B Corporations worldwide](https://bcorporation.net/directory).
 
@@ -189,7 +189,6 @@ To stay informed and be prepared for the future of business, subscribe to our ne
     <li><a href="https://www.investopedia.com/ask/answers/011915/which-is-more-popular-llcs-or-corporations.asp">The Popularity of LLCs</a></li>
     <li><a href="https://www.sos.state.tx.us/corp/annrep.shtml">2021 Entity Formations Report</a></li>
     <li><a href="https://www.jstor.org/stable/1123347">The Decline of General Partnerships</a></li>
-    <li><a href="https://benefitcorp.net/what-is-a-benefit-corporation">Benefit Corporation, "What is a Benefit Corporation?"</a></li>
     <li><a href="https://bcorporation.net/directory">B Lab, "Certified B Corporations: Global Directory,"</a></li>
     <li><a href="https://www.forbes.com/sites/forbestechcouncil/2020/01/28/how-technology-is-changing-the-way-we-do-business/?sh=25e8d7a54f3c">Forbes, "How Technology Is Changing The Way We Do Business,"</a></li>
     <li><a href="https://hbr.org/2017/01/how-blockchain-could-change-the-nature-of-trust">Harvard Business Review, "How Blockchain Could Change the Nature of Trust,"</a></li>

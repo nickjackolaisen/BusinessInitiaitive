@@ -44,7 +44,7 @@ In addition, **the number of B Corps with more than 100 employees has doubled si
 
 Other regions have also seen impressive growth rates. 
 
-In Asia, for example, the **number of B Corps grew by over 300% between 2016 and 2020** ([source](https://www.bcorporation.asia/about-b-lab/our-story)). 
+In Asia, for example, the **number of B Corps grew by over 300% between 2016 and 2020** ([source](https://www.bcorpasia.org/about-b-corp-asia)). 
 
 Similarly, Africa has experienced a surge in B Corps, with a **five-fold increase** between 2015 and 2020 ([source](https://b-analytics.net/bcorp-data)).
 

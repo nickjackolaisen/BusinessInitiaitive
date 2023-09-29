@@ -125,7 +125,7 @@ Ask any questions you might have directly [HERE](https://www.businessinitiative.
 <ul>
     <li><a href="https://www.courtlistener.com/opinion/3129041/gatz-properties-llc-v-auriga-capital-corp/">Gatz Properties, LLC v. Auriga Capital Corp.</a></li>
     <li><a href="https://casetext.com/case/fisk-ventures-llc-v-segal">Fisk Ventures, LLC v. Segal</a></li>
-    <li><a href="https://www.americanbar.org/groups/business_law/resources/directory_of_business_lawyers/">Directory of Business Lawyers - American Bar Association</a></li>
+    <li><a href="https://www.americanbar.org/">Directory of Business Lawyers - American Bar Association</a></li>
 </ul>
 </details>
 

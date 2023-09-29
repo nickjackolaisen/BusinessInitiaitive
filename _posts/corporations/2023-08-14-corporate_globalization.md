@@ -134,7 +134,7 @@ You can reach us at [here](https://www.businessinitiative.org/contact/) or by se
 
 <li><a href="https://www.ikea.com">IKEA Group</a></li>
 
-<li><a href="https://www.walmart.com">Walmart Inc.</a></li>
+<li><a href="https://www.walmart.com/">Walmart Inc.</a></li>
 
 <li><a href="https://www.google.com">Google LLC</a></li>
 </ul>

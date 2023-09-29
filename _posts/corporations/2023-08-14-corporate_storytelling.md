@@ -58,7 +58,7 @@ For example, [Coca-Cola's "Share a Coke" campaign](https://www.coca-colacompany.
 
 Storytelling isn't just for external audiences - it can also benefit businesses internally by improving employee engagement and morale. By sharing stories that highlight the company's values and mission, employees can feel more connected to the organization and motivated to perform at their best.
 
-One example of this is [Zappos' commitment to customer service](https://www.zappos.com/about/our-unique-culture), which is reinforced through storytelling in employee training programs and company events. By emphasizing the importance of going above and beyond for customers, Zappos has built a culture of exceptional service that sets them apart from other retailers.
+One example of this is [Zappos' commitment to customer service](https://www.zappos.com/), which is reinforced through storytelling in employee training programs and company events. By emphasizing the importance of going above and beyond for customers, Zappos has built a culture of exceptional service that sets them apart from other retailers.
 
 -   ### Enhanced Brand Perception
 
@@ -152,7 +152,7 @@ Email marketing is a powerful way to connect with your audience and drive sales 
 
 Examples of storytelling in email marketing include: sharing customer success stories, highlighting your brand's values and purpose, and providing behind-the-scenes glimpses into your business.
 
-To learn more about email marketing, check out this guide from Campaign Monitor: [The Ultimate Guide to Email Marketing](https://www.campaignmonitor.com/resources/guides/the-ultimate-guide-to-email-marketing/).
+To learn more about email marketing, check out this guide from Campaign Monitor: [The Ultimate Guide to Email Marketing](https://www.campaignmonitor.com/).
 
 -   ### Public Relations:
 
@@ -188,7 +188,7 @@ Let us help you tell your brand's story and connect with your audience in a mean
 <ul>
     <li><a href="https://www.youtube.com/watch?v=nmwXdGm89Tk">Apple's "Think Different" campaign</a></li>
     <li><a href="https://www.youtube.com/watch?v=WYP9AGtLvRg">Nike's "Just Do It" campaign</a></li>
-    <li><a href="https://www.zappos.com/about/our-unique-culture">Zappos' commitment to customer service</a></li>
+    <li><a href="https://www.zappos.com/">Zappos' commitment to customer service</a></li>
     <li><a href="https://www.airbnb.com/values">Airbnb's core values</a></li>
     <li><a href="https://www.patagonia.com/environmentalism/footprint-dont-buy-this-jacket.html">Patagonia's "Don't Buy This Jacket" campaign</a></li>
     <li><a href="https://www.tesla.com/about">Tesla's mission statement</a></li>
@@ -196,7 +196,7 @@ Let us help you tell your brand's story and connect with your audience in a mean
     <li><a href="https://www.apple.com/customer-experience/">Apple's customer experience strategy</a></li>
     <li><a href="https://blog.hubspot.com/marketing/content-marketing-guide">HubSpot's guide to content marketing in 2021</a></li>
     <li><a href="https://wistia.com/learn/marketing/video-marketing-guide">Wistia's ultimate guide to video marketing</a></li>
-    <li><a href="https://www.campaignmonitor.com/resources/guides/the-ultimate-guide-to-email-marketing/">Campaign Monitor's ultimate guide to email marketing</a></li>
+    <li><a href="https://www.campaignmonitor.com/">Campaign Monitor's ultimate guide to email marketing</a></li>
     <li><a href="https://www.prdaily.com/the-ultimate-guide-to-public-relations-in-2021/">PR Daily's ultimate guide to public relations in 2021</a></li>
 </ul>
 </details>

@@ -531,7 +531,6 @@ Stay up-to-date with the latest developments in the blockchain industry by subsc
 <ul>
     <li><a href="https://www.weforum.org/reports/inclusive-deployment-of-blockchain-case-studies-and-learnings-from-the-united-arab-emirates">World Economic Forum: Inclusive Deployment of Blockchain</a></li>
     <li><a href="https://ieeexplore.ieee.org/document/8475561">IEEE Xplore: Blockchain for Supply Chains</a></li>
-    <li><a href="https://iccwbo.org/media-wall/news-speeches/global-impacts-counterfeiting-piracy-reach-us4-2-trillion-2022/">International Chamber of Commerce: Global Impacts of Counterfeiting and Piracy</a></li>
     <li><a href="https://www.mckinsey.com/~/media/mckinsey/industries/capital%20projects%20and%20infrastructure/our%20insights/blockchain%20in%20construction%20a%20blueprint%20for%20disruption/blockchain-in-construction-a-blueprint-for-disruption.pdf">McKinsey & Company: Blockchain in Construction - A Blueprint for Disruption</a></li>
     <li><a href="https://www.pwc.de/en/real-estate/assets/pwc-blockchain-tokenization-of-real-estate.pdf">PwC: Blockchain Tokenization of Real Estate</a></li>
     <li><a href="https://www.savills.co.uk/research_articles/229130/210665-0">Savills World Research: Global Real Estate Market Size</a></li>

@@ -268,7 +268,6 @@ Don't let the challenges of M&A hold you back from achieving your strategic goal
     <li><a href="https://hbr.org/topic/mergers-and-acquisitions">Harvard Business Review: Mergers & Acquisitions</a></li>
     <li><a href="https://www2.deloitte.com/us/en/pages/mergers-and-acquisitions/topics/mergers-and-acquisitions.html">Deloitte: Mergers & Acquisitions</a></li>
     <li><a href="https://www.pwc.com/us/en/services/deals/mergers-acquisitions.html">PwC: Mergers & Acquisitions</a></li>
-    <li><a href="https://www.entrepreneur.com/article/318577">Entrepreneur</a></li>
     <li><a href="https://hbr.org/2018/07/how-to-conduct-due-diligence-on-a-potential-business-partner">Harvard Business Review</a></li>
     <li><a href="https://www.thebalancesmb.com/how-to-conduct-due-diligence-2948494">The Balance Small Business</a></li>
 </ul>

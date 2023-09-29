@@ -190,7 +190,7 @@ Construction businesses often adopt the [limited liability company (LLC)](https:
 
 ### 11. Healthcare: 
 
-Healthcare businesses often choose the [professional corporation structure](https://www.investopedia.com/terms/p/professionalcorporation.asp) to protect themselves from personal liability and to facilitate collaboration among healthcare professionals.
+Healthcare businesses often choose the professional corporation structure to protect themselves from personal liability and to facilitate collaboration among healthcare professionals.
 
 ### 12. Transportation: 
 

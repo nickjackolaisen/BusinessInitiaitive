@@ -140,7 +140,6 @@ Let us help you unlock the full potential of your workforce and position your bu
 <br>
 <ul>
     <li><a href="https://www.forbes.com/sites/forbescoachescouncil/2018/06/01/the-business-case-for-diversity-in-the-workplace-is-now-overwhelming/?sh=1f1a5a7e3b7d">"The Business Case for Diversity in the Workplace is Now Overwhelming"</a></li>
-    <li><a href="https://www.catalyst.org/research/why-diversity-and-inclusion-matter-quick-take/">"Why Diversity and Inclusion Matter: Quick Take"</a></li>
     <li><a href="https://www.apple.com/diversity/">"Diversity and Inclusion"</a></li>
     <li><a href="https://www.theguardian.com/technology/2016/jan/06/intel-diversity-in-tech-warm-line-workers">"Intel's Plan to Increase Diversity in Tech: A WarmLine for Workers"</a></li>
     <li><a href="https://www.nber.org/papers/w9873">National Bureau of Economic Research</a></li>
