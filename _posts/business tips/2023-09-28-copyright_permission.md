@@ -2,6 +2,7 @@
 title: "How to Get Copyright Permission - The RIGHT Way"
 layout: post
 date: 2023-09-28
+update_date: 2023-10-10
 author: jack_nicholaisen
 summary: "Learn how to legally use copyrighted content by obtaining permission from the owner. Follow this guide to get copyright authorization in a digital age."
 image: /images/posts-headers/copyright-permission-header.png
@@ -15,7 +16,7 @@ However, it's important to remember that most of the content we come across is p
 
 Copyright is a legal concept that gives the creator of an original work exclusive rights to its use and distribution. 
 
-{% include takeaway-box.html bullet1="Copyright law protects original works of authorship, including literary, dramatic, musical, and artistic works, as well as software and other digital content." bullet2="To use someone else's copyrighted work legally, you must obtain permission from the owner or an authorized representative." bullet3="There are two types of copyright permissions: exclusive and non-exclusive. Exclusive permission grants the licensee the sole right to use the copyrighted work, while non-exclusive permission allows multiple parties to use the work." bullet4="In order to obtain copyright permission, you must first identify the owner of the copyrighted work and contact them directly or through a licensing agency." bullet5="It's important to keep accurate records of all copyright permissions obtained in case of any legal disputes or challenges in the future." %}
+{% include takeaway-box.html bullet1="Copyright law protects original works, including digital content." bullet2="Permission is required to use someone else's copyrighted work." bullet3="Two types of permission: exclusive and non-exclusive." bullet4="Identify the owner and contact them or a licensing agency for permission." bullet5="Keep accurate records of permissions obtained in case of legal disputes." %}
 
 This means that if you want to use someone else's work, you need to obtain permission from the copyright owner. 
 
