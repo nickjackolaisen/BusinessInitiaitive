@@ -10,7 +10,7 @@ permalink: /tools/calculator/customer-acquisition-costs/
 This represents the cost of acquiring a new customer. It is an important metric because it helps businesses understand how much they need to spend on marketing and sales to acquire new customers, and whether these costs are sustainable over the long term.
 
 
-<body>
+<body style="text-align:center">
     <div class="calculator">
         <h2>Customer Acquisition Cost (CAC) Calculator</h2>
         <div class="input-group">
@@ -40,7 +40,6 @@ This represents the cost of acquiring a new customer. It is an important metric 
 <style>
         body {
             font-family: Arial, sans-serif;
-            text-align: center;
             margin: 50px;
         }
 
