@@ -7,7 +7,9 @@ summary: "Use this calculator to find out where your business can improve it's s
 permalink: /tools/calculator/lead-to-sale-conversion-rate/
 ---
 
-This represents the percentage of leads that result in a sale. It is an important metric because it helps businesses understand how effective their sales processes are and where they can make improvements.
+This represents the percentage of leads that result in a sale. 
+
+It is an important metric because it helps businesses understand how effective their sales processes are and where they can make improvements.
 
 <body>
     <div class="calculator">

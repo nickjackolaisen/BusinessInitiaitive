@@ -7,16 +7,20 @@ summary: "Price Elasticity of Demand is the measure of the responsiveness of the
 permalink: /tools/calculator/price-elasticity-of-demand/
 ---
 
-It is calculated using the formula: `PED = (Q2 - Q1) / ((Q2 + Q1) / 2) / ((P2 - P1) / ((P2 + P1) / 2))`, where `Q1` is the initial quantity demanded, `Q2` is the new quantity demanded, `P1` is the initial price, and `P2` is the new price.
+Price elasticity is calculated using the following formula: 
 
-<!DOCTYPE html>
-<html lang="en">
+PED = (Q2 - Q1) / ((Q2 + Q1) / 2) / ((P2 - P1) / ((P2 + P1) / 2))
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Price Elasticity of Demand Calculator</title>
-    <style>
+Q1 is the initial quantity demanded, 
+
+Q2 is the new quantity demanded, 
+
+P1 is the initial price, 
+
+and P2 is the new price.
+
+
+<style>
         body {
             font-family: Arial, sans-serif;
             text-align: center;
@@ -41,8 +45,7 @@ It is calculated using the formula: `PED = (Q2 - Q1) / ((Q2 + Q1) / 2) / ((P2 - 
         .result {
             font-weight: bold;
         }
-    </style>
-</head>
+</style>
 
 <body>
     <div class="calculator">
@@ -81,7 +84,5 @@ It is calculated using the formula: `PED = (Q2 - Q1) / ((Q2 + Q1) / 2) / ((P2 - 
         }
     </script>
 </body>
-
-</html>
 
 

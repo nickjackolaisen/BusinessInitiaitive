@@ -3,11 +3,12 @@ title: "How to Calculate Customer Acquisiton Costs (CAC)"
 layout: post
 date: 2023-10-15
 author: jack_nicholaisen
-summary: "Price Elasticity of Demand is the measure of the responsiveness of the quantity demanded to a change in price." 
+summary: "This represents the cost of acquiring a new customer." 
 permalink: /tools/calculator/customer-acquisition-costs/
 ---
 
-This represents the cost of acquiring a new customer. It is an important metric because it helps businesses understand how much they need to spend on marketing and sales to acquire new customers, and whether these costs are sustainable over the long term.
+
+CAC is an important metric because it helps businesses understand how much they need to spend on marketing and sales to acquire new customers, and whether these costs are sustainable over the long term.
 
 
 <body style="text-align:center">
