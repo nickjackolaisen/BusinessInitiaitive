@@ -9,35 +9,8 @@ permalink: /tools/calculator/customer-lifetime-value/
 
 LTV is an important metric because it helps businesses understand the overall value of their customer base and make decisions about how much to invest in retaining customers.
 
-<style>
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            margin: 50px;
-        }
-
-        .calculator {
-            width: 300px;
-            margin: 0 auto;
-        }
-
-        .input-group {
-            margin-bottom: 10px;
-        }
-
-        input[type="number"] {
-            width: 100%;
-            padding: 8px;
-            box-sizing: border-box;
-        }
-
-        .result {
-            font-weight: bold;
-        }
-</style>
-
 <body>
-    <div class="calculator">
+    <div class="calculator" style="text-align:center">
         <h2>Customer Lifetime Value (LTV) Calculator</h2>
         <div class="input-group">
             <label for="avgPurchaseValue">Average Purchase Value ($):</label>
@@ -72,4 +45,31 @@ LTV is an important metric because it helps businesses understand the overall va
         }
     </script>
 </body>
+<style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 50px;
+        }
+
+        .calculator {
+            width: 300px;
+            margin: 0 auto;
+        }
+
+        .input-group {
+            margin-bottom: 10px;
+        }
+
+        input[type="number"] {
+            width: 100%;
+            padding: 8px;
+            box-sizing: border-box;
+        }
+
+        .result {
+            font-weight: bold;
+        }
+</style>
+
+
 

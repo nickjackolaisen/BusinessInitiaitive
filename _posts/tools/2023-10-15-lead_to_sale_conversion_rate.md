@@ -12,7 +12,7 @@ This represents the percentage of leads that result in a sale.
 It is an important metric because it helps businesses understand how effective their sales processes are and where they can make improvements.
 
 <body>
-    <div class="calculator">
+    <div class="calculator" style="text-align:center">
         <h2>Lead-to-Sale Conversion Rate Calculator</h2>
         <div class="input-group">
             <label for="leads">Number of Leads:</label>
@@ -37,12 +37,9 @@ It is an important metric because it helps businesses understand how effective t
         }
     </script>
 </body>
-
-
 <style>
         body {
             font-family: Arial, sans-serif;
-            text-align: center;
             margin: 50px;
         }
 

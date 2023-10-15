@@ -19,36 +19,8 @@ P1 is the initial price,
 
 and P2 is the new price.
 
-
-<style>
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            margin: 50px;
-        }
-
-        .calculator {
-            width: 300px;
-            margin: 0 auto;
-        }
-
-        .input-group {
-            margin-bottom: 10px;
-        }
-
-        input[type="number"] {
-            width: 100%;
-            padding: 8px;
-            box-sizing: border-box;
-        }
-
-        .result {
-            font-weight: bold;
-        }
-</style>
-
 <body>
-    <div class="calculator">
+    <div class="calculator" style="text-align:center">
         <h2>Price Elasticity of Demand Calculator</h2>
         <div class="input-group">
             <label for="initialPrice">Initial Price:</label>
@@ -84,5 +56,31 @@ and P2 is the new price.
         }
     </script>
 </body>
+<style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 50px;
+        }
+
+        .calculator {
+            width: 300px;
+            margin: 0 auto;
+        }
+
+        .input-group {
+            margin-bottom: 10px;
+        }
+
+        input[type="number"] {
+            width: 100%;
+            padding: 8px;
+            box-sizing: border-box;
+        }
+
+        .result {
+            font-weight: bold;
+        }
+</style>
+
 
 
