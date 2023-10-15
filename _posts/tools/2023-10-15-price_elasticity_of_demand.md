@@ -1,13 +1,13 @@
 ---
 title: "How to Calculate the Price Elasticity of Demand"
 layout: post
-date: 2023-10-16
+date: 2023-10-15
 author: jack_nicholaisen
 summary: "Price Elasticity of Demand is the measure of the responsiveness of the quantity demanded to a change in price." 
 permalink: /tools/calculator/price-elasticity-of-demand/
 ---
 
- It is calculated using the formula: `PED = (Q2 - Q1) / ((Q2 + Q1) / 2) / ((P2 - P1) / ((P2 + P1) / 2))`, where `Q1` is the initial quantity demanded, `Q2` is the new quantity demanded, `P1` is the initial price, and `P2` is the new price.
+It is calculated using the formula: `PED = (Q2 - Q1) / ((Q2 + Q1) / 2) / ((P2 - P1) / ((P2 + P1) / 2))`, where `Q1` is the initial quantity demanded, `Q2` is the new quantity demanded, `P1` is the initial price, and `P2` is the new price.
 
 <!DOCTYPE html>
 <html lang="en">
