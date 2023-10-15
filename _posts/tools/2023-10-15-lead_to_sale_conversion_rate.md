@@ -1,46 +1,13 @@
 ---
-title: "How to Calculate the Lead-to-Sale Conversion Rate"
+title: "How to Calculate Your Lead-to-Sale Conversion Rate"
 layout: post
 date: 2023-10-15
 author: jack_nicholaisen
-summary: "Price Elasticity of Demand is the measure of the responsiveness of the quantity demanded to a change in price." 
+summary: "Use this calculator to find out where your business can improve it's sales procedures." 
 permalink: /tools/calculator/lead-to-sale-conversion-rate/
 ---
 
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lead-to-Sale Conversion Rate Calculator</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            margin: 50px;
-        }
-
-        .calculator {
-            width: 300px;
-            margin: 0 auto;
-        }
-
-        .input-group {
-            margin-bottom: 10px;
-        }
-
-        input[type="number"] {
-            width: 100%;
-            padding: 8px;
-            box-sizing: border-box;
-        }
-
-        .result {
-            font-weight: bold;
-        }
-    </style>
-</head>
+This represents the percentage of leads that result in a sale. It is an important metric because it helps businesses understand how effective their sales processes are and where they can make improvements.
 
 <body>
     <div class="calculator">
@@ -69,4 +36,30 @@ permalink: /tools/calculator/lead-to-sale-conversion-rate/
     </script>
 </body>
 
-</html>
+
+<style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 50px;
+        }
+
+        .calculator {
+            width: 300px;
+            margin: 0 auto;
+        }
+
+        .input-group {
+            margin-bottom: 10px;
+        }
+
+        input[type="number"] {
+            width: 100%;
+            padding: 8px;
+            box-sizing: border-box;
+        }
+
+        .result {
+            font-weight: bold;
+        }
+</style>
