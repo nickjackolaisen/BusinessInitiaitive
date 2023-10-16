@@ -1,23 +1,27 @@
 ---
-title: "How to Calculate the Price Elasticity of Demand"
+title: "Price Elasticity of Demand Calculator for Business"
 layout: post
 date: 2023-10-15
+update_date: 2023-10-16
 author: jack_nicholaisen
-summary: "Price Elasticity of Demand is the measure of the responsiveness of the quantity demanded to a change in price." 
+summary: "Discover the power of price elasticity of demand and how it can impact your business decisions. Read on for insights and practical tips." 
+image: /images/posts-headers/price-elasticity-of-demand-header.png
 permalink: /tools/calculator/price-elasticity-of-demand/
 ---
 
-Price elasticity is calculated using the following formula: 
+Price elasticity of demand is a concept that businesses must understand in order to price their products effectively.
 
-PED = (Q2 - Q1) / ((Q2 + Q1) / 2) / ((P2 - P1) / ((P2 + P1) / 2))
+This measure can also be useful for businesses when they are planning their marketing and advertising strategies. 
 
-Q1 is the initial quantity demanded, 
+In this article, we will explore the definition of price elasticity of demand and how it can be used to benefit businesses.
 
-Q2 is the new quantity demanded, 
+## Definition of Price Elasticity of Demand
 
-P1 is the initial price, 
+Price elasticity of demand is a measure of how responsive consumers are to changes in the price of a product. 
 
-and P2 is the new price.
+When a product has high price elasticity of demand, it means that a small change in the price of the product will lead to a large change in the quantity demanded by consumers. 
+
+When a product has low price elasticity of demand, it means that a change in price will not significantly affect the demand for the product.
 
 <body>
     <div class="calculator" style="text-align:center">
@@ -82,5 +86,50 @@ and P2 is the new price.
         }
 </style>
 
+## How Price Elasticity of Demand is Useful for Businesses
+
+Understanding price elasticity of demand is important for businesses for a number of reasons. 
+
+**Firstly**, it can help businesses to set the optimal price for their products. 
+
+By calculating the price elasticity of demand for a product, a business can determine the level of demand for the product at different price points. 
+
+This can help the business to price their products in a way that maximizes profits.
+
+**Secondly**, price elasticity of demand can be useful for businesses when they are planning their marketing and advertising strategies. 
+
+By understanding the level of demand for a product at different price points, a business can determine the level of advertising and marketing that is required to sell the product. 
+
+For example, if a product has high price elasticity of demand, it may require more advertising and marketing efforts to sell the product at a higher price point.
+
+## When and How to Use Price Elasticity of Demand Effectively
+
+Price elasticity of demand is most effective when it is used in conjunction with other measures of consumer behavior. 
+
+For example, a business may also want to consider consumer income levels, consumer preferences, and competitor pricing when they are setting the price for their products.
+
+It is also important for businesses to regularly review the price elasticity of demand for their products. 
+
+Consumer behavior can change over time, and so businesses need to ensure that they are staying up-to-date with changes in demand for their products.
+
+## In Summary...
+
+Price elasticity of demand is a vital concept for businesses to understand. 
+
+By understanding the level of demand for their products at different price points, businesses can set the optimal price for their products and plan their marketing and advertising strategies more effectively. 
+
+It is important for businesses to regularly review the price elasticity of demand for their products and to use it in conjunction with other measures of consumer behavior.
+
+<br>
+<details>
+<summary><b>Sources</b></summary>
+<br>
+<ul>
+    <li><a href="https://www.investopedia.com/terms/p/priceelasticity.asp">Investopedia: Price Elasticity of Demand</a></li>
+    <li><a href="https://www.khanacademy.org/economics-finance-domain/microeconomics/elasticity-tutorial/price-elasticity-tutorial/a/price-elasticity-of-demand-and-total-revenue">Khan Academy: Price Elasticity of Demand and Total Revenue</a></li>
+    <li><a href="https://www.thebalancesmb.com/how-to-calculate-price-elasticity-of-demand-393115">The Balance Small Business: How to Calculate Price Elasticity of Demand</a></li>
+    <li><a href="https://hbr.org/2014/10/the-right-way-to-manage-unprofitable-customers">Harvard Business Review: The Right Way to Manage Unprofitable Customers</a></li>
+</ul>
+</details>
 
 
