@@ -5,7 +5,7 @@ date: 2023-10-16
 author: jack_nicholaisen
 summary: "Integrating e-commerce into your business can be challenging. Check out these 15 practical ideas for success in the digital age and stay ahead of emerging trends."
 image: /images/posts-headers/integrating-e-commerce-header.png
-permalink: /business-tips/copyright-permission/
+permalink: /business-tips/integrating-e-commerce/
 tags: e-comm, e commerce, using e-commerce in business, how to apply e-commerce
 ---
 
