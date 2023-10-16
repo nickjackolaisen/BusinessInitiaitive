@@ -40,7 +40,6 @@ CAC is an important metric because it helps businesses understand how much they 
 
 <style>
         body {
-            font-family: Arial, sans-serif;
             margin: 50px;
         }
 
@@ -59,9 +58,13 @@ CAC is an important metric because it helps businesses understand how much they 
             box-sizing: border-box;
         }
 
+        button {
+            color: #0063A0;
+        }
         .result {
             font-weight: bold;
         }
+
 </style>
 
 
