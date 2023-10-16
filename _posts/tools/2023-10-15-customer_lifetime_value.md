@@ -45,9 +45,9 @@ LTV is an important metric because it helps businesses understand the overall va
         }
     </script>
 </body>
+
 <style>
         body {
-            font-family: Arial, sans-serif;
             margin: 50px;
         }
 

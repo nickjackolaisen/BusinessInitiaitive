@@ -60,9 +60,9 @@ When a product has low price elasticity of demand, it means that a change in pri
         }
     </script>
 </body>
+
 <style>
         body {
-            font-family: Arial, sans-serif;
             margin: 50px;
         }
 

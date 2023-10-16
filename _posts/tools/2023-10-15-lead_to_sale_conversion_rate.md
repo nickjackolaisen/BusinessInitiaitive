@@ -37,9 +37,9 @@ It is an important metric because it helps businesses understand how effective t
         }
     </script>
 </body>
+
 <style>
         body {
-            font-family: Arial, sans-serif;
             margin: 50px;
         }
 
@@ -61,4 +61,5 @@ It is an important metric because it helps businesses understand how effective t
         .result {
             font-weight: bold;
         }
+
 </style>
