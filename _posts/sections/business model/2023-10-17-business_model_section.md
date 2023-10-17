@@ -83,7 +83,7 @@ So...
 
 Take some time and develop a strong business model - it could be the key to unlocking your company's full potential in today's competitive landscape.
 
-## Business Models
+## <a href="/business-model/choosing-the-best-business-model/" target="_blank">Business Models</a>
 
 When it comes to developing a business model, there are several different types to choose from. 
 
@@ -123,6 +123,10 @@ This model is popular for peer-to-peer marketplaces, such as Airbnb and Uber.
 <a id="monetization"> 
 
 As reported by [Business Insider](https://www.businessinsider.com/airbnb-revenue-growth-2019-11), Airbnb's revenue was $3.4 billion in 2019, with a net income of $219 million.
+
+<p>
+<b>➤ MORE: </b> <a href="/business-model/choosing-the-best-business-model/" target="_blank">Learn how to select your ideal business model!</a>
+</p>
 
 ## Monetization
 
