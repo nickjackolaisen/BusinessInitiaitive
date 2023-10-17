@@ -128,7 +128,7 @@ As reported by [Business Insider](https://www.businessinsider.com/airbnb-revenue
 <b>➤ MORE: </b> <a href="/business-model/choosing-the-best-business-model/" target="_blank">Learn how to select your ideal business model!</a>
 </p>
 
-## Monetization
+## <a href="/business-model/monetization/" target="_blank">Monetization</a>
 
 Once you have chosen a business model, the next step is to figure out how to monetize your product or service. 
 
@@ -158,6 +158,10 @@ This model is popular for **SaaS companies, media companies, and other businesse
 <a id="scalability"> 
 
 As reported by [Forbes](https://www.forbes.com/sites/forbestechcouncil/2021/01/29/the-future-of-e-learning-five-predictions-for-2021-and-beyond/?sh=14a12e784c78), the subscription e-learning market is expected to reach $325 billion by 2025.
+
+<p>
+<b>➤ MORE: </b> <a href="/business-model/monetization/" target="_blank">Learn how to properly monetize your business and maximize revenue!</a>
+</p>
 
 ## Scalability
 
