@@ -30,13 +30,13 @@ Keep reading to gain a better understanding of what it takes to start and run a 
 <img alt="number of owners in an llc" src="/images/content/future-city-technology.png" title="Entreprenural Journey" style="width: 63%; height: 63%">
 </center>
 
-1.  The majority of LLCs (64%) have only one member, according to the IRS. [Source](https://www.irs.gov/businesses/small-businesses-self-employed/limited-liability-company-llc)
+-  The majority of LLCs (64%) have only one member, according to the IRS. [Source](https://www.irs.gov/businesses/small-businesses-self-employed/limited-liability-company-llc)
 
 The fact that such a large majority of LLCs have only one owner or member suggests that LLCs are often preferred by entrepreneurs and small business owners who prefer to have complete control over their company's operations.
 
-2.  About 23% of LLCs have two members. [Source](https://www.irs.gov/businesses/small-businesses-self-employed/limited-liability-company-llc)
+-  About 23% of LLCs have two members. [Source](https://www.irs.gov/businesses/small-businesses-self-employed/limited-liability-company-llc)
 
-3.  Only 13% of LLCs have three or more members. [Source](https://www.irs.gov/businesses/small-businesses-self-employed/limited-liability-company-llc)
+-  Only 13% of LLCs have three or more members. [Source](https://www.irs.gov/businesses/small-businesses-self-employed/limited-liability-company-llc)
 <a id="revenue-employees"> 
 
 The low percentage of LLCs with three or more members suggests that LLCs are not commonly used as a way for groups of individuals to start a business together, but rather as a way for individuals to own and operate a business on their own.
@@ -51,27 +51,26 @@ These statistics can be useful if you are an entrepreneur or small business owne
 
 They provide insight into what to expect in terms of revenue and staffing levels.
 
-
-2.  40% of LLCs have less than $50,000 in annual revenue. [Source](https://www.irs.gov/businesses/small-businesses-self-employed/limited-liability-company-llc)
+-  40% of LLCs have less than $50,000 in annual revenue. [Source](https://www.irs.gov/businesses/small-businesses-self-employed/limited-liability-company-llc)
 
 The data shows that a significant portion of LLCs generate less than $50,000 in annual revenue, suggesting that many LLCs are small businesses or startups. 
 
-3.  The average revenue for an LLC is $569,512 per year. (source: [Guidant Financial](https://www.guidantfinancial.com/small-business-trends/))
+-  The average revenue for an LLC is $569,512 per year. (source: [Guidant Financial](https://www.guidantfinancial.com/small-business-trends/))
 
-4.  Only 4% of LLCs have more than $1 million in annual revenue. [Source](https://www.irs.gov/businesses/small-businesses-self-employed/limited-liability-company-llc)
+-  Only 4% of LLCs have more than $1 million in annual revenue. [Source](https://www.irs.gov/businesses/small-businesses-self-employed/limited-liability-company-llc)
 
 The low percentage of LLCs with more than $1 million in annual revenue highlights the fact that while there are certainly successful LLCs out there, most LLCs are likely to be smaller businesses with more modest revenue streams. 
 
-5.  The median number of employees for LLCs is 1. [Source](https://www.irs.gov/businesses/small-businesses-self-employed/limited-liability-company-llc)
+-  The median number of employees for LLCs is 1. [Source](https://www.irs.gov/businesses/small-businesses-self-employed/limited-liability-company-llc)
 
-6.  The average number of employees at an LLC is 4. (source: [Guidant Financial](https://www.guidantfinancial.com/small-business-trends/))
+-  The average number of employees at an LLC is 4. (source: [Guidant Financial](https://www.guidantfinancial.com/small-business-trends/))
 
 The fact that the median number of employees for LLCs is only one indicates that many LLCs are likely to be solo ventures. 
 
 However, it's worth noting that the average number of employees for LLCs is four, which suggests that while many LLCs may start out as solo ventures, they may eventually expand and hire additional staff. 
 <a id="small-businesses"> 
 
-7.  Only 12% of LLCs have more than one employee. [Source](https://www.irs.gov/businesses/small-businesses-self-employed/limited-liability-company-llc)
+-  Only 12% of LLCs have more than one employee. [Source](https://www.irs.gov/businesses/small-businesses-self-employed/limited-liability-company-llc)
 
 ## The Percentage of LLCs That Are Classified as Small Businesses
 
@@ -81,15 +80,15 @@ However, it's worth noting that the average number of employees for LLCs is four
 
 These statistics can be useful for entrepreneurs and small business owners who are considering forming an LLC, as they provide context on how this type of business entity fits into the broader landscape of small businesses.
 
-1.  96% of LLCs are considered small businesses, with less than 500 employees. [Source](https://advocacy.sba.gov/wp-content/uploads/2021/12/Small-Business-FAQ-Revised-December-2021.pdf)
+-  96% of LLCs are considered small businesses, with less than 500 employees. [Source](https://advocacy.sba.gov/wp-content/uploads/2021/12/Small-Business-FAQ-Revised-December-2021.pdf)
 
 The fact that 96% of LLCs are considered small businesses highlights the popularity of this type of business entity among entrepreneurs and small business owners.
 
-2.  85% of LLCs have no employees other than the owner. [Source](https://www.nolo.com/legal-encyclopedia/llc-faqs)
+-  85% of LLCs have no employees other than the owner. [Source](https://www.nolo.com/legal-encyclopedia/llc-faqs)
 
 Being that 85% of LLCs have no employees other than the owner suggests that many LLCs are likely to be solo ventures.
 
-3.  55% of small businesses are home-based, which many LLCs are. [Source](https://www.guidantfinancial.com/small-business-trends/)
+-  55% of small businesses are home-based, which many LLCs are. [Source](https://www.guidantfinancial.com/small-business-trends/)
 
 It's worth noting that many home-based businesses are also LLCs, with 55% of small businesses being home-based according to the data we found. 
 <a id="growth-strategies"> 
@@ -104,19 +103,19 @@ This suggests that LLCs may be particularly well-suited for entrepreneurs who wa
 
 These statistics provide valuable insights for entrepreneurs and small business owners who are looking to grow their LLCs, as they offer evidence-based strategies for success.
 
-1.  LLCs that have a clear business plan are more likely to succeed and grow. [Source](https://www.sba.gov/business-guide/plan-your-business/write-your-business-plan)
+-  LLCs that have a clear business plan are more likely to succeed and grow. [Source](https://www.sba.gov/business-guide/plan-your-business/write-your-business-plan)
 
 The data shows that having a clear business plan is crucial for success and growth, as it provides a roadmap for achieving goals and making decisions.
 
-2.  LLCs that invest in marketing and advertising have a higher chance of increasing revenue. [Source](https://www.inc.com/guides/2010/04/first-advertising-campaign.html)
+-  LLCs that invest in marketing and advertising have a higher chance of increasing revenue. [Source](https://www.inc.com/guides/2010/04/first-advertising-campaign.html)
 
 Investing in marketing and advertising is also important, as it can help LLCs reach a wider audience and increase revenue.
 
-3.  LLCs that leverage technology to streamline operations can grow faster than those that don't. [Source](https://www.forbes.com/advisor/business/software/best-crm-small-business/)
+-  LLCs that leverage technology to streamline operations can grow faster than those that don't. [Source](https://www.forbes.com/advisor/business/software/best-crm-small-business/)
 
 Leveraging technology is another effective strategy, as it can streamline operations and help LLCs work more efficiently.
 
-4.  LLCs that expand their product or service offerings can increase their customer base and revenue. [Source](https://www.investopedia.com/articles/pf/08/small-business-million.asp)
+-  LLCs that expand their product or service offerings can increase their customer base and revenue. [Source](https://www.investopedia.com/articles/pf/08/small-business-million.asp)
 <a id="impact-of-llc-size"> 
 
 Finally, expanding product or service offerings is a proven way to increase customer base and revenue. 
@@ -131,29 +130,29 @@ These statistics provide valuable insights for entrepreneurs and small business 
 
 By understanding the advantages and disadvantages of different sizes of LLCs, businesses can make informed decisions that align with their goals and priorities.
 
-1.  Smaller LLCs are often more agile and able to respond quickly to changes in the market. [Source](https://www.forbes.com/sites/forbesbusinesscouncil/2019/10/16/the-drawbacks-and-upsides-of-being-a-small-business/?sh=7bc6b2097494)
+-  Smaller LLCs are often more agile and able to respond quickly to changes in the market. [Source](https://www.forbes.com/sites/forbesbusinesscouncil/2019/10/16/the-drawbacks-and-upsides-of-being-a-small-business/?sh=7bc6b2097494)
 
 The data shows that smaller LLCs may be more agile and profitable in the short term, but may have difficulty securing financing and face lower economies of scale.
 
-2.  Larger LLCs often have more resources and can invest more heavily in research and development. [Source](https://www.inc.com/encyclopedia/research-and-development.html)
+-  Larger LLCs often have more resources and can invest more heavily in research and development. [Source](https://www.inc.com/encyclopedia/research-and-development.html)
 
-3.  LLCs with more employees may have more complex HR and management needs. [Source](https://www.thebalancemoney.com/limited-liability-company-101-2951252)
+-  LLCs with more employees may have more complex HR and management needs. [Source](https://www.thebalancemoney.com/limited-liability-company-101-2951252)
 
-4.  Smaller LLCs may have lower overhead costs and be more profitable in the short term. [Source](https://www.inc.com/guides/2010/10/tips-for-calculating-your-gross-margin.html)
+-  Smaller LLCs may have lower overhead costs and be more profitable in the short term. [Source](https://www.inc.com/guides/2010/10/tips-for-calculating-your-gross-margin.html)
 
-5.  Larger LLCs may have more opportunities for economies of scale and long-term growth. [Source](https://www.investopedia.com/articles/pf/08/small-business-million.asp)
+-  Larger LLCs may have more opportunities for economies of scale and long-term growth. [Source](https://www.investopedia.com/articles/pf/08/small-business-million.asp)
 
 Larger LLCs may have more resources and opportunities for long-term growth, but may face greater complexity in HR and management needs, as well as potential liability issues.
 
-6.  The size of an LLC can impact its ability to secure financing. Smaller LLCs may have more difficulty securing funding from traditional lenders. [Source](https://www.nerdwallet.com/best/small-business/small-business-franchise-loans)
+-  The size of an LLC can impact its ability to secure financing. Smaller LLCs may have more difficulty securing funding from traditional lenders. [Source](https://www.nerdwallet.com/best/small-business/small-business-franchise-loans)
 
-7.  Larger LLCs may be more attractive to investors and have more opportunities for venture capital funding. [Source](https://www.investopedia.com/terms/s/startup-capital.asp)
+-  Larger LLCs may be more attractive to investors and have more opportunities for venture capital funding. [Source](https://www.investopedia.com/terms/s/startup-capital.asp)
 
-8.  The size of an LLC can impact its tax obligations and filing requirements. [Source](https://www.irs.gov/businesses/small-businesses-self-employed/limited-liability-company-llc)
+-  The size of an LLC can impact its tax obligations and filing requirements. [Source](https://www.irs.gov/businesses/small-businesses-self-employed/limited-liability-company-llc)
 
-9.  The size of an LLC can impact its liability protection. Larger LLCs may face greater potential liability due to the increased complexity of their operations. [Source](https://www.nolo.com/legal-encyclopedia/llc-faqs)
+-  The size of an LLC can impact its liability protection. Larger LLCs may face greater potential liability due to the increased complexity of their operations. [Source](https://www.nolo.com/legal-encyclopedia/llc-faqs)
 
-10. Smaller LLCs may benefit from the simplicity and flexibility of the LLC structure. Larger LLCs may need to consider other business structures, such as a corporation or partnership. [Source](https://www.thebalancemoney.com/limited-liability-company-101-2951252)
+- Smaller LLCs may benefit from the simplicity and flexibility of the LLC structure. Larger LLCs may need to consider other business structures, such as a corporation or partnership. [Source](https://www.thebalancemoney.com/limited-liability-company-101-2951252)
 
 ## In Summary...
 
@@ -194,7 +193,6 @@ By understanding these key points, you can make better informed decisions about 
 
 <h3>Is there a minimum or maximum size for an LLC?</h3>
 <p>No, there is no minimum or maximum size for an LLC.</p>
-<br>
 <details>
 <summary><b>Learn more...</b></summary>
 <br>
@@ -203,7 +201,6 @@ By understanding these key points, you can make better informed decisions about 
 
 <h3>Do larger LLCs have more legal requirements than smaller ones?</h3>
 <p>Yes, larger LLCs may have more legal requirements than smaller ones.</p>
-<br>
 <details>
 <summary><b>Learn more...</b></summary>
 <br>
@@ -212,7 +209,6 @@ By understanding these key points, you can make better informed decisions about 
 
 <h3>Can a small LLC compete with larger companies in the same industry?</h3>
 <p>Yes, a small LLC can compete with larger companies in the same industry.</p>
-<br>
 <details>
 <summary><b>Learn more...</b></summary>
 <br>
@@ -221,7 +217,6 @@ By understanding these key points, you can make better informed decisions about 
 
 <h3>Are there any tax benefits to being a smaller LLC?</h3>
 <p>Yes, there may be tax benefits to being a smaller LLC.</p>
-<br>
 <details>
 <summary><b>Learn more...</b></summary>
 <br>
@@ -230,11 +225,11 @@ By understanding these key points, you can make better informed decisions about 
 
 <h3>Can a small LLC grow into a larger one over time?</h3>
 <p>Yes, a small LLC can grow into a larger one over time.</p>
-<br>
 <details>
 <summary><b>Learn more...</b></summary>
 <br>
-<p>Many successful companies started as small businesses and grew over time. For example, Apple, Amazon, and Google all started as small companies in garages or dorm rooms. As a small LLC gains more customers and revenue, it may need to hire more employees or take on more investors to continue growing.</p>
+<p>Many successful companies started as small businesses and grew over time. For example, Apple, Amazon, and Google all started as small companies in garages or dorm rooms.</p>
+<p>As a small LLC gains more customers and revenue, it may need to hire more employees or take on more investors to continue growing.</p>
 </details>
 
 ## Research and Methodology
