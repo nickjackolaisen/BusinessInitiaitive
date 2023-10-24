@@ -5,7 +5,7 @@ date: 2023-08-07
 update_date: 2023-09-22
 author: jack_nicholaisen
 summary: "Curious how technology can boost your business? We'll explore its adoption and impact on LLCs, partnerships, and industry trends for your growth and success."
-permalink: /stats/business-structures/technology/
+permalink: /statistics/business-structures/technology/
 --- 
 
 In today's rapidly changing business landscape, the adoption of technology has become essential for businesses of all sizes and structures to thrive. 

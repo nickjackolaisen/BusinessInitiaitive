@@ -5,7 +5,7 @@ date: 2023-06-26
 update_date: 2023-09-27
 author: jack_nicholaisen
 summary: "Learn about 7 tax deductions for small businesses to save money on taxes."
-permalink: /stats/small-businesses/tax-deductions/
+permalink: /statistics/small-businesses/tax-deductions/
 ---
 
 As a small business owner, it's important to take advantage of every possible tax deduction available to you. 

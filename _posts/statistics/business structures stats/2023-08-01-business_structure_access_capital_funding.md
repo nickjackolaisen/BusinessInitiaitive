@@ -5,7 +5,7 @@ date: 2023-08-01
 update_date: 2023-09-21
 author: jack_nicholaisen
 summary: "Explore how business structure affects capital access in our review. Learn how structure choice impacts funding options for success. Don't miss out!"
-permalink: /stats/business-structures/funding/
+permalink: /statistics/business-structures/funding/
 ---
 
 Access to capital is a critical aspect of any business's growth and expansion. 

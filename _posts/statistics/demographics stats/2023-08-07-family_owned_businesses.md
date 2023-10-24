@@ -5,7 +5,7 @@ date: 2023-08-07
 update_date: 2023-09-27
 author: jack_nicholaisen
 summary: "Explore family-owned businesses' success rates, longevity, and growth factors. Gain insights to navigate unique challenges and benefits."
-permalink: /stats/demographics/family-owned/
+permalink: /statistics/demographics/family-owned/
 --- 
 
 Family-owned businesses have long been a cornerstone of the global economy. 

@@ -5,7 +5,7 @@ date: 2023-07-03
 update_date: 2023-09-27
 author: jack_nicholaisen
 summary: "Identify the common obstacles and pitfalls small businesses face. Develop effective strategies to build a successful business by learning from others' mistakes."
-permalink: /stats/small-businesses/reasons-why-businesses-fail/
+permalink: /statistics/small-businesses/reasons-why-businesses-fail/
 ---
 
 The journey of entrepreneurship is fraught with challenges, but the rewards can be significant for those who persevere. 

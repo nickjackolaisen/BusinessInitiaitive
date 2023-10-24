@@ -5,7 +5,7 @@ date: 2023-08-01
 update_date: 2023-09-22
 author: jack_nicholaisen
 summary: "Explore franchise success in various businesses. Uncover growth secrets and factors influencing success. Gain insights for your franchise journey!"
-permalink: /stats/business-structures/franchise-success/
+permalink: /statistics/business-structures/franchise-success/
 ---
 
 Franchising is an increasingly popular business model for entrepreneurs and business owners looking to expand their reach and tap into the power of well-established brands. 

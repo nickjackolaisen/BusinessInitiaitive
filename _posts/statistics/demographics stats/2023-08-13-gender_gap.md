@@ -5,7 +5,7 @@ date: 2023-08-13
 update_date: 2023-09-27
 author: jack_nicholaisen
 summary: "The gender gap in business ownership persists. Here we examine gender distribution in business, factors influencing ownership, and success rates."
-permalink: /stats/demographics/gender-gap/
+permalink: /statistics/demographics/gender-gap/
 ---
 
 The gender gap in business ownership is a prevalent issue that affects the economic potential of many countries around the world. 

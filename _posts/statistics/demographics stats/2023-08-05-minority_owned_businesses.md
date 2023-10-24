@@ -5,7 +5,7 @@ date: 2023-08-05
 update_date: 2023-09-27
 author: jack_nicholaisen
 summary: "Learn about growth trends and challenges facing minority-owned businesses. Gain insights to support these ventures."
-permalink: /stats/demographics/minority-owned-businesses/
+permalink: /statistics/demographics/minority-owned-businesses/
 ---
 
 In recent years, minority-owned businesses have been on the rise, contributing significantly to the economy and job creation. 

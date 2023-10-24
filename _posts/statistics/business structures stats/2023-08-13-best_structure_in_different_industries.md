@@ -5,7 +5,7 @@ date: 2023-08-13
 update_date: 2023-09-22
 author: jack_nicholaisen
 summary: "Learn about business structure trends, success rates, and factors influencing choice by industry. Make an informed decision for your business."
-permalink: /stats/business-structures/industry-success/
+permalink: /statistics/business-structures/industry-success/
 ---
 
 The choice of a business structure is a crucial decision that can significantly impact the success of a business. 

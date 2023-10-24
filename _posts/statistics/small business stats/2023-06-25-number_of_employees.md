@@ -5,7 +5,7 @@ date: 2023-06-25
 update_date: 2023-09-21
 author: jack_nicholaisen
 summary: "Explore avg. employee numbers in small businesses across industries. Discover how you measure up & gain a competitive edge!"
-permalink: /stats/number-of-employees-in-a-small-business/
+permalink: /statistics/number-of-employees-in-a-small-business/
 tags: how many employees does a small business have,
 ---
 

@@ -5,7 +5,7 @@ date: 2023-08-05
 update_date: 2023-09-22
 author: jack_nicholaisen
 summary: "Explore how economic cycles affect business structures. Learn factors influencing choice and industry trends in this insightful analysis."
-permalink: /stats/business-structures/economic-cycles/
+permalink: /statistics/business-structures/economic-cycles/
 ---
 
 Economic cycles are a fundamental aspect of the global economy, with periods of growth, stagnation, and recession shaping the financial landscape. 

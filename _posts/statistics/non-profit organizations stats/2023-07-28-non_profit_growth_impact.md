@@ -6,7 +6,7 @@ update_date: 2023-09-27
 author: jack_nicholaisen
 summary: "Explore non-profits' growth in different sectors, with data and stats. Learn success factors, challenges, and opportunities to join the social impact world!"
 image: /images/posts-headers/non-profit-growth.png
-permalink: /stats/non-profit-growth-impact/
+permalink: /statistics/non-profit-growth-impact/
 ---
 
 Non-profit organizations play a critical role in our society by addressing social, environmental, and economic issues. 

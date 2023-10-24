@@ -5,7 +5,7 @@ date: 2023-08-01
 update_date: 2023-09-27
 author: jack_nicholaisen
 summary: "Discover how age affects business ownership and success across industries & compare business success rates between the rookie and the weathered veteran!"
-permalink: /stats/demographics/age-distribution/
+permalink: /statistics/demographics/age-distribution/
 --- 
 
 The entrepreneurial landscape has evolved significantly over the past few decades, with new advancements in technology and changes in society opening up opportunities for people of all ages to start and grow their own businesses. 

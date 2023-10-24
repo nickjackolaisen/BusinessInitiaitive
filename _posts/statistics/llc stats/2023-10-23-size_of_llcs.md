@@ -4,8 +4,8 @@ layout: post
 date: 2023-10-23
 author: jack_nicholaisen
 summary: "Discover the impact of the size of LLCs has on business operations, profitability, and growth. Learn about number of owners, size, employees, and more." 
-permalink: /stats/llc/size/
 image: /images/posts-headers/llc-stats-size-header.png
+permalink: /statistics/llc/size/
 tags: size of llcs, what is the average size of an llc, facts about llc, llc statistics
 ---
 

@@ -5,7 +5,7 @@ date: 2023-08-05
 update_date: 2023-09-22
 author: jack_nicholaisen
 summary: "Explore how regulations impact businesses. Stay informed, make strategic choices with our analysis of trends. Dive in now!"
-permalink: /stats/business-structures/government-regulation/
+permalink: /statistics/business-structures/government-regulation/
 ---
 
 In today's dynamic and ever-changing business environment, entrepreneurs and business owners must navigate a complex web of government regulations. 

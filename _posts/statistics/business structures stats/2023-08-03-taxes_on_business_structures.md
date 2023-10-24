@@ -5,7 +5,7 @@ date: 2023-08-03
 update_date: 2023-09-22
 author: jack_nicholaisen
 summary: "Explore tax implications of business structures like corporations & LLCs. Make informed decisions to maximize benefits & minimize liabilities."
-permalink: /stats/business-structures/tax-implications/
+permalink: /statistics/business-structures/tax-implications/
 ---
 
 For entrepreneurs and business owners, one of the most critical decisions they make is choosing the right business structure. 

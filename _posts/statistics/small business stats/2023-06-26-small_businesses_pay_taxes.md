@@ -5,7 +5,7 @@ date: 2023-06-26
 update_date: 2023-09-27
 author: jack_nicholaisen
 summary: "Learn about small business taxes and how to navigate the system with BusinessInitiative.com. Avoid penalties and fines."
-permalink: /stats/small-businesses/how-much-do-small-businesses-pay-in-taxes/
+permalink: /statistics/small-businesses/how-much-do-small-businesses-pay-in-taxes/
 ---
 
 ## What percentage of small businesses pay taxes?

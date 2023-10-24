@@ -5,7 +5,7 @@ date: 2023-08-05
 update_date: 2023-09-22
 author: jack_nicholaisen
 summary: "Explore how your company's structure affects innovation. Learn about industry-specific trends and factors that foster innovation and growth in your business."
-permalink: /stats/business-structures/innovation/
+permalink: /statistics/business-structures/innovation/
 ---
 
 In the ever-changing world of business, innovation is the driving force behind success and long-term growth. 

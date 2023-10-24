@@ -5,7 +5,7 @@ date: 2023-06-28
 update_date: 2023-09-27
 author: jack_nicholaisen
 summary: "Knowing the small business tax rate is crucial for entrepreneurs. This article provides valuable info on taxes and how to stay ahead."
-permalink: /stats/small-businesses/average-tax-rate/
+permalink: /statistics/small-businesses/average-tax-rate/
 ---
 
 The average tax rate that small businesses pay can vary greatly depending on the industry, location, and size of the business. 

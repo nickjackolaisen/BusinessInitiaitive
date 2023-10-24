@@ -5,7 +5,7 @@ date: 2023-08-07
 update_date: 2023-09-22
 author: jack_nicholaisen
 summary: "Learn about business structures' social impact, including non-profits and B Corps. Make informed decisions based on industry trends. Make a difference now!"
-permalink: /stats/business-structures/social-impact/
+permalink: /statistics/business-structures/social-impact/
 --- 
 
 In today's business world, there is an increasing focus on the social impact of companies. 

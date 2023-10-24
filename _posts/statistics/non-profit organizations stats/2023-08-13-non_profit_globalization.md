@@ -5,7 +5,7 @@ date: 2023-08-13
 update_date: 2023-09-27
 author: jack_nicholaisen
 summary: "Learn about non-profits' global impact, challenges, and solutions. Don't miss this opportunity to understand their world—read it HERE!"
-permalink: /stats/non-profit/international-growth/
+permalink: /statistics/non-profit/international-growth/
 ---
 
 In recent years, non-profit organizations have extended their reach and influence on a global scale. 

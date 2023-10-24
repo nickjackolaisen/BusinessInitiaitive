@@ -5,7 +5,7 @@ date: 2023-08-13
 update_date: 2023-09-22
 author: jack_nicholaisen
 summary: "Learn how education can boost business success. Discover key factors and propel your business to new heights. Don't miss out – start reading NOW!"
-permalink: /stats/business-structures/education/
+permalink: /statistics/business-structures/education/
 ---
 
 Education is often considered a crucial factor in personal development, but what about its impact on the world of business? 

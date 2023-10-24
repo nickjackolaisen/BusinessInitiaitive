@@ -5,7 +5,7 @@ date: 2023-07-06
 update_date: 2023-09-27
 author: jack_nicholaisen
 summary: "Learn about health insurance costs for small business owners. Discover factors that influence pricing and get tips to save on premiums. Make savvy decisions to keep employees healthy and costs in check."
-permalink: /stats/small-businesses/health-insurance/
+permalink: /statistics/small-businesses/health-insurance/
 ---
 
 As a small business owner, offering health insurance to your employees can be a game-changer. 

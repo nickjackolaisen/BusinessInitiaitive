@@ -5,7 +5,7 @@ date: 2023-08-07
 update_date: 2023-09-22
 author: jack_nicholaisen
 summary: "Learn about the environmental impact of business structures like corporations and non-profits. Discover how you can become an eco-conscious leader!"
-permalink: /stats/business-structures/environmental-impact/
+permalink: /statistics/business-structures/environmental-impact/
 --- 
 
 In the age of climate change and environmental awareness, many entrepreneurs and business owners are reevaluating their impact on the planet. 

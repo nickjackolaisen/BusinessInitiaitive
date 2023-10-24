@@ -5,7 +5,7 @@ date: 2023-08-13
 update_date: 2023-09-22
 author: jack_nicholaisen
 summary: "Learn about business financial performance, including profitability and growth rates. Make informed decisions with this essential guide for entrepreneurs!"
-permalink: /stats/business-structures/financial-performance/
+permalink: /statistics/business-structures/financial-performance/
 ---
 
 In the world of business, entrepreneurs and owners face a critical decision when it comes to choosing the right business structure. 

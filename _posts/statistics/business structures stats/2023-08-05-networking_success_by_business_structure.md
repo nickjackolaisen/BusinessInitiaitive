@@ -5,7 +5,7 @@ date: 2023-08-05
 update_date: 2023-09-22
 author: jack_nicholaisen
 summary: "Learn how networking can impact your business. Discover industry trends and stats. Unleash your business's potential. Read on to learn more!"
-permalink: /stats/business-structures/networking/
+permalink: /statistics/business-structures/networking/
 ---
 
 Networking has long been touted as a critical component of business success, and for a good reason. 

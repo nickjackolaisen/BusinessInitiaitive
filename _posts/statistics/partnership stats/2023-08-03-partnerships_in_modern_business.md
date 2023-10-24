@@ -5,7 +5,7 @@ date: 2023-08-03
 update_date: 2023-09-27
 author: jack_nicholaisen
 summary: "Discover the formation rates, success rates, and pros and cons of partnerships. Make an informed decision for your entrepreneurial journey."
-permalink: /stats/partnerships/modern-business/
+permalink: /statistics/partnerships/modern-business/
 ---
 
 In the ever-changing landscape of modern business, entrepreneurs are always looking for the most effective ways to achieve success. 

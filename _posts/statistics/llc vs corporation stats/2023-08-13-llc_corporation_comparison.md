@@ -5,7 +5,7 @@ date: 2023-08-13
 update_date: 2023-09-27
 author: jack_nicholaisen
 summary: "Trying to choose between a corporation or LLC? Compare pros and cons to make the best decision for your business. Don't miss out!"
-permalink: /stats/llc-vs-corporation/comparison/
+permalink: /statistics/llc-vs-corporation/comparison/
 ---
 
 Choosing the right business structure is crucial for the success of any enterprise. 

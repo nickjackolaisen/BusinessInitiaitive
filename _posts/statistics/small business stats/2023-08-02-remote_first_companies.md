@@ -5,7 +5,7 @@ date: 2023-08-02
 update_date: 2023-09-27
 author: jack_nicholaisen
 summary: "Discover remote-first business analysis, structures, and success factors. Gain insights and trends for your venture. Unlock secrets to thrive remotely HERE!"
-permalink: /stats/remote-first-companies/
+permalink: /statistics/remote-first-companies/
 ---
 
 In recent years, the remote-first business model has gained significant traction, with more companies embracing the flexibility and cost savings associated with remote work. 

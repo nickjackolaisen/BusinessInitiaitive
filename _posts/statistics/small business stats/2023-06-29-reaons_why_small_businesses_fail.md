@@ -5,7 +5,7 @@ date: 2023-06-29
 update_date: 2023-09-27
 author: jack_nicholaisen
 summary: "Exploring small business failure rates in the first year and how to increase your chances of success."
-permalink: /stats/small-business-failure-rate/
+permalink: /statistics/small-business-failure-rate/
 ---
 
 Starting a small business is a dream for many people, but the harsh reality is that it's not an easy feat. 

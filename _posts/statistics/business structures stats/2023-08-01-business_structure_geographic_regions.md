@@ -5,7 +5,7 @@ date: 2023-08-01
 update_date: 2023-09-22
 author: jack_nicholaisen
 summary: "Explore US regional trends and factors for business success. Learn industry-specific insights and pick the best structure for your location. Unlock secrets now!"
-permalink: /stats/business-structures/geographic-region/
+permalink: /statistics/business-structures/geographic-region/
 ---
 
 The business world is diverse and ever-changing, and the ways in which businesses are structured have a profound impact on their success. 

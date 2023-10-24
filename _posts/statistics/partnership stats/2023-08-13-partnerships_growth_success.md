@@ -5,7 +5,7 @@ date: 2023-08-13
 update_date: 2023-09-27
 author: jack_nicholaisen
 summary: "Learn about partnerships in business. Explore formation/success rates, pros/cons. Is it right for you? Read our data-driven article!"
-permalink: /stats/partnerships/success/
+permalink: /statistics/partnerships/success/
 ---
 
 In the ever-evolving world of business, partnerships have become a prevalent choice for entrepreneurs. 

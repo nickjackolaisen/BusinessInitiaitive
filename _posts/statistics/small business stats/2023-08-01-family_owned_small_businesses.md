@@ -5,7 +5,7 @@ date: 2023-08-01
 update_date: 2023-09-28
 author: jack_nicholaisen
 summary: "Discover success secrets of family-owned businesses and apply insights for smarter decisions and improved growth in your venture."
-permalink: /stats/small-businesses/family-owned-businesses/
+permalink: /statistics/small-businesses/family-owned-businesses/
 tags: family owned business statistics, 
 ---
 

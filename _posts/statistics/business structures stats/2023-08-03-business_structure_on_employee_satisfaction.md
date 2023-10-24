@@ -5,7 +5,7 @@ date: 2023-08-03
 update_date: 2023-09-22
 author: jack_nicholaisen
 summary: "Uncover the link between business structures & employee satisfaction. Boost retention with industry trends & informed decisions. Optimize your business today!"
-permalink: /stats/business-structures/employee-satisfaction/
+permalink: /statistics/business-structures/employee-satisfaction/
 ---
 
 Employee satisfaction plays a vital role in the success of any business. 

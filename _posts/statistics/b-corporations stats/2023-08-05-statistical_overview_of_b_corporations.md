@@ -6,7 +6,7 @@ update_date: 2023-09-21
 author: jack_nicholaisen
 summary: "Explore B Corps' growth, impact, and success factors. Uncover their potential advantages for entrepreneurs and business owners!"
 image: /images/posts-headers/b-corp-statistics-header.png
-permalink: /stats/b-corp/overview/
+permalink: /statistics/b-corp/overview/
 ---
 
 In today's business landscape, more and more entrepreneurs are seeking to balance profit with purpose. 

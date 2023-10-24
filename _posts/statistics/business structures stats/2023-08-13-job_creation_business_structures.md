@@ -5,7 +5,7 @@ date: 2023-08-13
 update_date: 2023-09-22
 author: jack_nicholaisen
 summary: "Learn how business structures impact job creation rates. Discover strategies for entrepreneurs to maximize their impact. Don't miss out - check it out now!"
-permalink: /stats/business-structures/job-creation/
+permalink: /statistics/business-structures/job-creation/
 --- 
 
 In the modern economy, job creation is a critical measure of a country's economic health and entrepreneurial success. 

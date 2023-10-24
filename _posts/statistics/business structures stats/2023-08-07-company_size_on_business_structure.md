@@ -5,7 +5,7 @@ date: 2023-08-07
 update_date: 2023-09-22
 author: jack_nicholaisen
 summary: "Discover the link between business structures and size. Learn industry-specific trends and choose the best structure for your venture."
-permalink: /stats/business-structures/company-size/
+permalink: /statistics/business-structures/company-size/
 --- 
 
 Choosing the right business structure is a crucial decision for entrepreneurs and business owners. 

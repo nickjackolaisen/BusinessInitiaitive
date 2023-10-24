@@ -5,7 +5,7 @@ date: 2023-06-27
 update-date: 2023-09-27
 author: jack_nicholaisen
 summary: "Small business owners, curious about your state's support for small businesses? Check out our article on the top 10 states with the most small businesses."
-permalink: /stats/states-with-most-small-businesses/
+permalink: /statistics/states-with-most-small-businesses/
 ---
 
 Small businesses are the backbone of the United States economy, creating jobs and driving growth. 

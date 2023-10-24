@@ -6,7 +6,7 @@ update_date: 2023-09-27
 author: jack_nicholaisen
 summary: "Starting a small business is a dream for many, but its duration depends on factors like type, location, experience, and resources."
 image: /images/posts-headers/how-long-start-business-header.png
-permalink: /stats/how-long-does-it-take-to-start-a-business/
+permalink: /statistics/how-long-does-it-take-to-start-a-business/
 ---
 
 On average, it can take anywhere from **three to six months** to [start a small business](https://www.businessinitiative.org/sole-proprietorship/examples/). 

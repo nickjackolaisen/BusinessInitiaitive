@@ -5,7 +5,7 @@ date: 2023-08-13
 update_date: 2023-09-22
 author: jack_nicholaisen
 summary: "Discover the history of business entities and how they've shaped entrepreneurship. Explore growth factors and the future of business. CLICK TO READ NOW!"
-permalink: /stats/business-structures/history/
+permalink: /statistics/business-structures/history/
 ---
 
 The history of business structures is a tale of innovation, adaptation, and resilience. 
