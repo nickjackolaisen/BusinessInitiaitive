@@ -163,7 +163,7 @@ As reported by [Forbes](https://www.forbes.com/sites/forbestechcouncil/2021/01/2
 <b>➤ MORE: </b> <a href="/business-model/monetization/" target="_blank">Learn how to properly monetize your business and maximize revenue!</a>
 </p>
 
-## Scalability
+## <a href="/business-model/scalability/" target="_blank">Scalability</a>
 
 Another important consideration when developing a business model is scalability. 
 
@@ -178,7 +178,11 @@ Key factors that can limit your business's scalability include:
 
 🔑 The resources required to deliver your product or service
 
-## Ability to Pivot
+<p>
+<b>➤ MORE: </b> <a href="/business-model/scalability/" target="_blank">Fast track your business growth by using scalability strategies in your business model!</a>
+</p>
+
+## <a href="/business-model/pivoting-in-business/" target="_blank">Ability to Pivot</a>
 
 Finally, it's important to consider your business's ability to pivot. 
 
@@ -194,6 +198,10 @@ Key factors that can impact your ability to pivot include:
 <a id="conclusion"> 
 
 By considering these key elements of developing a business model, you can create a blueprint for success that will help you grow and thrive over time.
+
+<p>
+<b>➤ MORE: </b> <a href="/business-model/pivoting-in-business/" target="_blank">When is the best time for a business to pivot?</a>
+</p>
 
 ## In Summary...
 
