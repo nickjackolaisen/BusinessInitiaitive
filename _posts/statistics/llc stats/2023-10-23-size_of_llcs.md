@@ -24,7 +24,7 @@ By reading this article, you'll learn about the most common industries for LLCs,
 
 Keep reading to gain a better understanding of what it takes to start and run a successful LLC.
 
-## The Most Common Number of Owners or Members in LLCs
+## What is the most common number of owners or members in LLCs?
 
 <center>
 <img alt="number of owners in an llc" src="/images/content/future-city-technology.png" title="Entreprenural Journey" style="width: 63%; height: 63%">
@@ -41,7 +41,7 @@ The fact that such a large majority of LLCs have only one owner or member sugges
 
 The low percentage of LLCs with three or more members suggests that LLCs are not commonly used as a way for groups of individuals to start a business together, but rather as a way for individuals to own and operate a business on their own.
 
-## The Most Common Sizes of LLCs in Terms of Revenue and Number of Employees
+## What are the Most Common Sizes of LLCs?
 
 <center>
 <img alt="revenue and employees" src="/images/content/funny-workers.png" title="Employees in an LLC" style="width: 63%; height: 63%">
@@ -50,6 +50,8 @@ The low percentage of LLCs with three or more members suggests that LLCs are not
 These statistics can be useful if you are an entrepreneur or small business owners who is considering forming an LLC. 
 
 They provide insight into what to expect in terms of revenue and staffing levels.
+
+### How much money do LLCs make?
 
 -  40% of LLCs have less than $50,000 in annual revenue. [Source](https://www.irs.gov/businesses/small-businesses-self-employed/limited-liability-company-llc)
 
@@ -60,6 +62,12 @@ The data shows that a significant portion of LLCs generate less than $50,000 in 
 -  Only 4% of LLCs have more than $1 million in annual revenue. [Source](https://www.irs.gov/businesses/small-businesses-self-employed/limited-liability-company-llc)
 
 The low percentage of LLCs with more than $1 million in annual revenue highlights the fact that while there are certainly successful LLCs out there, most LLCs are likely to be smaller businesses with more modest revenue streams. 
+
+### How many employees do LLCs have?
+
+-  85% of LLCs have no employees other than the owner. [Source](https://www.nolo.com/legal-encyclopedia/llc-faqs)
+
+Being that 85% of LLCs have no employees other than the owner suggests that many LLCs are likely to be solo ventures.
 
 -  The median number of employees for LLCs is 1. [Source](https://www.irs.gov/businesses/small-businesses-self-employed/limited-liability-company-llc)
 
@@ -72,7 +80,7 @@ However, it's worth noting that the average number of employees for LLCs is four
 
 -  Only 12% of LLCs have more than one employee. [Source](https://www.irs.gov/businesses/small-businesses-self-employed/limited-liability-company-llc)
 
-## The Percentage of LLCs That Are Classified as Small Businesses
+## What Percentage of LLCs are Small Businesses?
 
 <center>
 <img alt="llc small business" src="/images/content/small-business-at-night.png" title="Small Business Big Potential" style="width: 63%; height: 63%">
@@ -84,10 +92,6 @@ These statistics can be useful for entrepreneurs and small business owners who a
 
 The fact that 96% of LLCs are considered small businesses highlights the popularity of this type of business entity among entrepreneurs and small business owners.
 
--  85% of LLCs have no employees other than the owner. [Source](https://www.nolo.com/legal-encyclopedia/llc-faqs)
-
-Being that 85% of LLCs have no employees other than the owner suggests that many LLCs are likely to be solo ventures.
-
 -  55% of small businesses are home-based, which many LLCs are. [Source](https://www.guidantfinancial.com/small-business-trends/)
 
 It's worth noting that many home-based businesses are also LLCs, with 55% of small businesses being home-based according to the data we found. 
@@ -95,13 +99,13 @@ It's worth noting that many home-based businesses are also LLCs, with 55% of sma
 
 This suggests that LLCs may be particularly well-suited for entrepreneurs who want to start a business from home, as they offer liability protection and flexibility without requiring a physical storefront or office space. 
 
-## The Most Effective Strategies Used by LLCs to Scale Their Operations and Increase Their Size
+## What are the most effective strategies used by LLCs to scale their operations and increase their size?
 
 <center>
 <img alt="brainstorming and strategizing" src="/images/content/entreprenural-journey.png" title="Strategies for LLC Size" style="width: 63%; height: 63%">
 </center>
 
-These statistics provide valuable insights for entrepreneurs and small business owners who are looking to grow their LLCs, as they offer evidence-based strategies for success.
+The following statistics provide valuable insights for entrepreneurs and small business owners who are looking to grow their LLCs, as they offer evidence-based strategies for success.
 
 -  LLCs that have a clear business plan are more likely to succeed and grow. [Source](https://www.sba.gov/business-guide/plan-your-business/write-your-business-plan)
 
