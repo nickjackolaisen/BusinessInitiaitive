@@ -2,7 +2,7 @@
 title: "Ultimate Guide to Create Killer Corporate Branding in Today's Competitive Marketplace"
 layout: post
 date: 2023-08-15
-update_date: 2023-09-13
+update_date: 2023-10-30
 author: jack_nicholaisen
 summary: "Explore corporate branding's role in a competitive market. Develop a strong brand identity for long-term success. Elevate your brand with our tips!"
 permalink: /corporation/branding-guide/
@@ -43,6 +43,8 @@ Consistently deliver high-quality products or services that align with your bran
 A strong brand can command a premium price, as customers are often willing to pay more for products or services associated with a reputable company.
 
 Focus on delivering exceptional customer experiences and consistently meeting or exceeding customer expectations. Use premium materials and packaging to reinforce the quality of your products or services.
+
+<p><b>➤ MORE: </b><a href="/files/picking-the-perfect-price-point.pdf" target="_blank" name="Business Initiative Picking the Perfect Price Point">Download our FREE guide to Pick the Perfect Price Point!</a></p>
 
 -   **Increased trust:**
 
