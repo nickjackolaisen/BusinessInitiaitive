@@ -74,7 +74,7 @@ For example, if you borrow $10,000 at a 5% annual interest rate for two years, t
   </form>
   </div>
 
-  <div id="result"></div>
+  <div class="result" id="result" style="text-align:center"></div>
 
 <script>
   function calculateSimpleInterest(principal, rate, time) {
@@ -153,7 +153,7 @@ Here's the HTML code for a compound interest calculator:
   </form>
   </div>
 
-  <div id="result"></div>
+  <div class="result" id="result" style="text-align:center"></div>
 
 <script>
 function calculateCompoundInterest(principal, rate, time, compoundsPerPeriod) {
