@@ -143,7 +143,7 @@ Here's the HTML code for a compound interest calculator:
     <label for="principal">Principal:</label>
     <input type="number" id="principal" step="0.01" placeholder="Enter principal amount">
     <label for="rate">Interest Rate (%):</label>
-    <input type="number" id="rate" step="0.01" placeholder="Enter interest rate">
+    <input type="number" id="rate" step="0.01" placeholder="Enter interest rate (percentage)">
     <label for="time">Time (years):</label>
     <input type="number" id="time" step="0.01" placeholder="Enter time in years">
     <label for="compoundsPerPeriod">Compounds per Period:</label>
@@ -156,7 +156,7 @@ Here's the HTML code for a compound interest calculator:
 
 <script>
 function calculateCompoundInterest(principal, rate, time, compoundsPerPeriod) {
-  const factor = Math.pow(1 + (rate / (100 * compoundsPerPeriod)),(compoundsPerPeriod * time));
+  const factor = Math.pow((1 + ((rate/100) / compoundsPerPeriod))),(compoundsPerPeriod * time));
   const compoundInterest = principal * factor - principal;
   return compoundInterest;
 }
@@ -364,62 +364,5 @@ Take action now and unlock your full potential as a savvy entrepreneur with mast
 
 
 
-
-# Sliding Scale Graph for Simple vs Compound Interest
-
-To generate a sliding scale graph, we'll need to input the following variables:
-
--   Initial principle (P)
--   Interest rate (r)
--   Timeframe (t)
--   Rate of compounding (n) - this will be set to 1 for simple interest
-
-Let's start with a simple interest calculation:
-
-```python
-def simple_interest(P, r, t):
-    return P * (1 + (r * t))
-```
-
-Now, let's create a compound interest function:
-
-```python
-def compound_interest(P, r, t, n):
-    return P * (1 + (r / n)) ** (n * t)
-```
-
-We can now create a function that generates a graph for a sliding scale of the interest rate (r):
-
-```python
-import matplotlib.pyplot as plt
-
-def sliding_scale_graph(P, r_start, r_end, t, n):
-    # Set up the x-axis values (interest rates)
-    x_values = list(range(r_start, r_end+1))
-    
-    # Set up the y-axis values (interest values)
-    simple_values = []
-    compound_values = []
-    for r in x_values:
-        simple_values.append(simple_interest(P, r, t))
-        compound_values.append(compound_interest(P, r, t, n))
-    
-    # Plot the graph
-    plt.plot(x_values, simple_values, label='Simple Interest')
-    plt.plot(x_values, compound_values, label='Compound Interest')
-    plt.xlabel('Interest Rate')
-    plt.ylabel('Total Value')
-    plt.title('Simple vs Compound Interest over {} Years'.format(t))
-    plt.legend()
-    plt.show()
-```
-
-We can now call the function with our desired values:
-
-```python
-sliding_scale_graph(1000, 1, 10, 10, 12)
-```
-
-This will generate a graph that compares simple and compound interest over a 10 year timeframe, with a starting interest rate of 1% and an ending interest rate of 10%, and a compounding rate of 12. The initial principle is set to $1000.
 
 
