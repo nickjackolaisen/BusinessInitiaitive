@@ -73,7 +73,7 @@ For example, if you borrow $10,000 at a 5% annual interest rate for two years, t
     <button type ="button" id ="calculateBtn">Calculate Compound Interest</button>
   </form>
   </div>
-
+<br>
   <div class="result" id="result" style="text-align:center"></div>
 
 <script>
@@ -116,8 +116,7 @@ document.getElementById('calculateBtn').addEventListener('click', () => {
             font-weight: bold;
         }
 </style>
-
-To use this JavaScript code in your HTML file, create an HTML form with input fields for principal, rate, and time. Then add a button element with the ID `calculateBtn`, and a container element with the ID `result`. Include the above JavaScript code in a script tag or external JS file linked to your HTML document.
+<br>
 
 ### Compound Interest
 
@@ -175,6 +174,7 @@ document.getElementById('calculateBtn').addEventListener('click', () => {
     alert("Please enter valid numbers for all fields.");
   }
 });
+
 </script>
 </body>
 <style>
@@ -198,7 +198,8 @@ document.getElementById('calculateBtn').addEventListener('click', () => {
         }
 </style>
 
-This HTML code creates a compound interest calculator using an HTML form with input fields for principal, interest rate, time in years, and the number of compounds per period. A button element with the ID `calculateBtn` is used to trigger the calculation when clicked. The result is displayed in a container element with the ID `result`. The JavaScript code provided earlier in this document is included within a script tag at the bottom of the body section. You can also choose to include it as an external JS file by commenting out the inline script tag and uncommenting the line that links to an external JS file (adjusting the filename as needed).
+
+
 <a id="interest-rates"> 
 
 ## How do Interest Rates Work and How do They Affect Your Business?
