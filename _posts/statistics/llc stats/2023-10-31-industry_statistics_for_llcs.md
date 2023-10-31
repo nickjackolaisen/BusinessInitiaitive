@@ -1,5 +1,5 @@
 ---
-title: "NUMBER Industry Statistics for LLCs to Help You Know Where the Money is at"
+title: "53+ Industry Statistics for LLCs to Help You Know Where the Money is at"
 layout: post
 date: 2023-10-31
 author: jack_nicholaisen
@@ -23,9 +23,11 @@ As a business owner or entrepreneur looking to start an LLC or grow your existin
 
 This knowledge can help you make informed decisions about which industry or sector to focus on and how to position yourself for success within that space.
 
+{% include table-of-contents-box.html bullet1tag="#most-popular" bullet1="Most Popular Industries for LLCs" bullet2tag="#women-minority-veteran" bullet2="Women, Minority, and Veteran Owned LLCs" bullet3tag="#most-profitable" bullet3="Most Profitable Industries for LLCs" bullet4tag="#trends" bullet4="Trends, Competition, and Innovation" bullet5tag="#mistakes" bullet5="Common Mistakes of Different Industuries" bullet6tag="#faqs" bullet6="FAQs" %}
+
 So whether you're just starting out or looking to improve your current LLC's performance, keep reading to learn more about the statistics related to industries for LLCs.
 
-
+<a id="most-popular"> 
 
 ## Most Popular Industries and Sectors for LLCs
 
@@ -35,29 +37,28 @@ In this section, we will explore the most common industries or sectors represent
 
 By gaining a deeper understanding of these industries, you can better position yourself for success and make informed decisions about where to invest your time and resources.
 
-
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-<canvas id="myChart" width="400" height="200"></canvas>
+<canvas id="myChart" width="400" height="300"></canvas>
 <script>
     var categories = [
-    "Professional, Scientific, and Technical Services",
+    "Professional, Scientific, & Technical Services",
     "Construction",
-    "Health Care and Social Assistance",
+    "Health Care & Social Assistance",
     "Retail Trade",
-    "Accommodation and Food Services",
+    "Accommodation & Food Services",
     "Other Services (except Public Administration)",
-    "Administrative Support, Waste Management, and Remediation Services",
-    "Real Estate and Rental and Leasing",
+    "Administrative Support, Waste Management, & Remediation Services",
+    "Real Estate, Rental, & Leasing",
     "Wholesale Trade",
-    "Finance and Insurance",
+    "Finance & Insurance",
     "Manufacturing",
-    "Transportation and Warehousing",
-    "Arts, Entertainment, and Recreation",
+    "Transportation & Warehousing",
+    "Arts, Entertainment, & Recreation",
     "Information",
     "Educational Services",
-    "Agriculture, Forestry, Fishing and Hunting",
-    "Management of Companies and Enterprises",
-    "Mining, Quarrying, and Oil and Gas Extraction",
+    "Agriculture, Forestry, Fishing, & Hunting",
+    "Management of Companies & Enterprises",
+    "Mining, Quarrying, and Oil & Gas Extraction",
     "Industries not classified",
     "Utilities"
     ];
@@ -108,169 +109,350 @@ var myChart = new Chart(ctx, {
 
 <br>
 
-Let's look at these industries in more detail..
+<p><b>Source:</b> <a href="https://www.census.gov/data/tables/2020/econ/susb/2020-susb-annual.html" target="_blank" >Census.gov 2020 County Business Patterns</a>
 
-Professional, Scientific, and Technical Services	16.73
-Construction	14.21
-Health Care and Social Assistance	11.37
-Retail Trade	10.47
-Accommodation and Food Services	7.46
-Other Services (except Public Administration)	6.82
-Administrative and Support and Waste Management and Remediation Services	6.08
-Real Estate and Rental and Leasing	5.81
-Wholesale Trade	4.79
-Finance and Insurance	4.07
-Manufacturing	3.78
-Transportation and Warehousing	3.54
-Arts, Entertainment, and Recreation	1.92
-Information	1.29
-Educational Services	1.16
-Agriculture, Forestry, Fishing and Hunting	0.35
-Management of Companies and Enterprises	0.27
-Mining, Quarrying, and Oil and Gas Extraction	0.26
-Industries not classified	0.05
-Utilities	0.04
+<a href="/files/2020-county-business-patterns.xlsx" target="_blank" name="">Download the original source document from census.gov HERE</a></p>
 
 
-### Retail
+Let's have a look at exactly what each of these industries and sectors really are in more detail..
 
-1.  Retail - 14% of LLCs in the US are in the retail industry. [Source](https://www.incfile.com/blog/post/common-llc-industries/) XXXX
+### Professional, Scientific, & Technical Services - 16.73%
 
-2.  Retail businesses sell consumer goods to the public, either through physical storefronts or online platforms. Some examples of well-known retail companies include Walmart, Amazon, and Target. [Source](https://www.incfile.com/blog/post/common-llc-industries/) XXXX
+The Professional, Scientific, and Technical Services sector is made up of businesses that provide professional, scientific, and technical services to others. 
 
-### Healthcare
+These services require a lot of expertise and training. Businesses in this sector specialize in different areas and provide services to clients in different industries, and sometimes to households. 
 
-3.  Healthcare - 10% of LLCs in the US are in the healthcare industry. [Source](https://www.incfile.com/blog/post/common-llc-industries/)
-4.  This includes businesses that provide medical services, such as hospitals, clinics, and private practices, as well as companies that manufacture medical equipment and pharmaceuticals. Some notable healthcare companies include Johnson & Johnson, Pfizer, and UnitedHealth Group. [Source](https://www.incfile.com/blog/post/common-llc-industries/)
+These services include things like legal advice and representation, accounting and payroll services, engineering and design services, computer services, consulting, research, advertising, photography, translation, interpretation, and veterinary services.
 
-### Technology
+Notable companies in this sector include Deloitte, McKinsey & Company, Accenture, Apple, Google, and Microsoft.
 
-5.  Technology - 9% of LLCs in the US are in the technology industry. [Source](https://www.incfile.com/blog/post/common-llc-industries/)
-6.  This includes businesses that develop software, hardware, and other technological products or services. Some examples of popular tech companies include Apple, Google, and Microsoft. [Source](https://www.incfile.com/blog/post/common-llc-industries/)
+[Source](https://www.bls.gov/iag/tgs/iag54.htm)
 
-### Construction
+### Construction - 14.21%
 
-7.  Construction - 8% of LLCs in the US are in the construction industry. [Source](https://www.incfile.com/blog/post/common-llc-industries/)
-8.  Construction businesses build and maintain structures such as buildings, bridges, and roads. Some well-known construction companies include Bechtel Corporation, Fluor Corporation, and Kiewit Corporation. [Source](https://www.incfile.com/blog/post/common-llc-industries/)
+The construction industry is all about building, fixing, and maintaining things like roads and buildings. 
 
-### Real Estate
+It's important for a country's development and sustainability. 
 
-9.  Real Estate - 7% of LLCs in the US are in the real estate industry. [Source](https://www.incfile.com/blog/post/common-llc-industries/)
-10. Real estate businesses buy, sell, and lease properties such as homes, offices, and commercial buildings. Some notable real estate companies include CBRE Group, Jones Lang LaSalle, and Simon Property Group. [Source](https://www.incfile.com/blog/post/common-llc-industries/)
+But, it also creates a lot of waste. 
 
-### Professional Services
-11. Professional Services - 6% of LLCs in the US are in the professional services industry. [Source](https://www.incfile.com/blog/post/common-llc-industries/)
-12. This includes businesses that provide specialized services such as consulting, accounting, and legal advice. Some examples of well-known professional services companies include Accenture, Deloitte, and McKinsey & Company. [Source](https://www.incfile.com/blog/post/common-llc-industries/)
+This chapter talks about the different kinds of waste the construction industry produces and where it comes from. 
 
-### Food & Beverage
+It also suggests ways to make less waste in the first place. 
 
-13. Food and Beverage - 5% of LLCs in the US are in the food and beverage industry. [Source](https://www.incfile.com/blog/post/common-llc-industries/)
-14. This includes businesses that produce and sell food and drinks, such as restaurants, breweries, and grocery stores. Some notable food and beverage companies include Coca-Cola, McDonald's, and Nestle. [Source](https://www.incfile.com/blog/post/common-llc-industries/)
+Some well-known construction companies include Bechtel Corporation, Fluor Corporation, and Kiewit Corporation.
 
-### Finance & Insurance
+[Source](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/construction-industry)
 
-15. Finance and Insurance - 4% of LLCs in the US are in the finance and insurance industry. [Source](https://www.incfile.com/blog/post/common-llc-industries/)
-16. This includes businesses that provide financial services such as banking, investment management, and insurance. Some examples of well-known finance and insurance companies include JPMorgan Chase, Berkshire Hathaway, and Goldman Sachs. [Source](https://www.incfile.com/blog/post/common-llc-industries/)
-17. Manufacturing - 4% of LLCs in the US are in the manufacturing industry. [Source](https://www.incfile.com/blog/post/common-llc-industries/)
+### Health Care and Social Assistance	11.37
 
-### Manufacturing
+The Health Care and Social Assistance sector helps people with their health and social needs. 
 
-18. Manufacturing businesses produce goods such as cars, electronics, and textiles. Some notable manufacturing companies include General Electric, Ford Motor Company, and Boeing. [Source](https://www.incfile.com/blog/post/common-llc-industries/)
+Some places in this sector only provide medical care, while others provide both medical care and social assistance. 
 
-### Arts & Entertainment
+Some only provide social assistance. 
 
-19. Arts and Entertainment - 3% of LLCs in the US are in the arts and entertainment industry. [Source](https://www.incfile.com/blog/post/common-llc-industries/)
-20. This includes businesses involved in creating, producing, and distributing artistic and cultural content such as movies, music, and books. Some examples of well-known arts and entertainment companies include Disney, Sony, and WarnerMedia. [Source](https://www.incfile.com/blog/post/common-llc-industries/)
+People who work in this sector are trained professionals. 
 
-### Administrative & Support Services
-21. Administrative and Support Services - 4% of LLCs in the US are in the administrative and support services industry. [Source](https://www.sba.gov/sites/default/files/advocacy/2018-Small-Business-Profiles-US.pdf)
-22. This includes businesses that provide support services to other companies, such as office administration, cleaning, and security. Some notable administrative and support services companies include ADP, Cintas, and Securitas AB. [Source](https://www.sba.gov/sites/default/files/advocacy/2018-Small-Business-Profiles-US.pdf)
+They have the skills to help you with your health or social needs. 
 
-### Educational Services
-23. Educational Services - 3% of LLCs in the US are in the educational services industry. [Source](https://www.sba.gov/sites/default/files/advocacy/2018-Small-Business-Profiles-US.pdf)
-24. This includes businesses that provide education and training to individuals or organizations, such as schools, universities, and corporate training programs. Some examples of well-known educational services companies include Pearson Education, Apollo Group, and DeVry Education Group. [Source](https://www.sba.gov/sites/default/files/advocacy/2018-Small-Business-Profiles-US.pdf)
+Different industries in this sector are based on the education of the people who work there.
 
-### Wholesale Trade
+Some notable healthcare companies include Johnson & Johnson, Pfizer, and UnitedHealth Group. 
 
-25. Wholesale Trade - 3% of LLCs in the US are in the wholesale trade industry. [Source](https://www.sba.gov/sites/default/files/advocacy/2018-Small-Business-Profiles-US.pdf)
-26. This includes businesses that sell goods to other businesses rather than directly to consumers. Some notable wholesale trade companies include Sysco Corporation, McKesson Corporation, and Cardinal Health. [Source](https://www.sba.gov/sites/default/files/advocacy/2018-Small-Business-Profiles-US.pdf)
+[Source](https://www.bls.gov/iag/tgs/iag62.htm)
 
-### Transportation & Warehousing
+### Retail Trade - 10.47%
 
-27. Transportation and Warehousing - 2% of LLCs in the US are in the transportation and warehousing industry. [Source](https://www.sba.gov/sites/default/files/advocacy/2018-Small-Business-Profiles-US.pdf)
-28. This includes businesses involved in transporting goods or storing them for later distribution. Some examples of well-known transportation and warehousing companies include FedEx, UPS, and Union Pacific Corporation. [Source](https://www.sba.gov/sites/default/files/advocacy/2018-Small-Business-Profiles-US.pdf)
+The Retail Trade sector includes businesses that sell stuff and offer services related to selling stuff. Retailers sell things to regular people in small quantities. 
 
-### Agriculture, Forestry, Fishing, & Hunting
+There are two types of retailers: **store** and **nonstore**.
 
-29. Agriculture, Forestry, Fishing, and Hunting - 1% of LLCs in the US are in the agriculture, forestry, fishing, and hunting industry. [Source](https://www.sba.gov/sites/default/files/advocacy/2018-Small-Business-Profiles-US.pdf)
-30. This includes businesses involved in cultivating crops or raising animals for food or other purposes. Some notable agriculture, forestry, fishing, and hunting companies include Archer Daniels Midland Company, Tyson Foods, and Weyerhaeuser Company. [Source](https://www.sba.gov/sites/default/files/advocacy/2018-Small-Business-Profiles-US.pdf)
+**1.  Store retailers** have physical locations that attract a lot of customers. 
 
-### Mining, Quarrying, & Oil and Gas Extraction
+They advertise using TV, radio, and newspapers. 
 
-31. Mining, Quarrying, and Oil and Gas Extraction - 1% of LLCs in the US are in the mining, quarrying, and oil and gas extraction industry. [Source](https://www.sba.gov/sites/default/files/advocacy/2018-Small-Business-Profiles-US.pdf)
-32. This includes businesses involved in extracting natural resources such as coal, oil, or minerals from the earth. Some examples of well-known mining, quarrying, and oil and gas extraction companies include ExxonMobil, Chevron Corporation, and Freeport-McMoRan. [Source](https://www.sba.gov/sites/default/files/advocacy/2018-Small-Business-Profiles-US.pdf)
+They sell things to people for personal or household use, and sometimes to businesses too. Some store retailers also offer services like repairs.
 
-### Accommodation & Food Services
+**2.  Nonstore retailers** sell things to the public too, but they don't have physical locations. 
 
-33. Accommodation and Food Services - 1% of LLCs in the US are in the accommodation and food services industry. [Source](https://www.sba.gov/sites/default/files/advocacy/2018-Small-Business-Profiles-US.pdf)
-34. This includes businesses that provide lodging or food services to customers, such as hotels, restaurants, and catering companies. Some notable accommodation and food services companies include Marriott International, Hilton Worldwide Holdings Inc., and Yum! Brands Inc.
+Instead, they use methods like infomercials, catalogs, and door-to-door sales to reach customers.
 
-### Other Services (excluding Public Administration)
+Some examples of well-known retail companies include Walmart, Amazon, and Target.
 
-35. Other Services (excluding Public Administration) - 1% of LLCs in the US are in other services (except public administration) industry. [Source](https://www.sba.gov/sites/default/files/advocacy/2018-Small-Business-Profiles-US.pdf) 
-36. This industry includes a wide range of businesses such as equipment repair, personal care services, and religious organizations. [Source](https://www.sba.gov/sites/default/files/advocacy/2018-Small-Business-Profiles-US.pdf)
+[Source](https://www.bls.gov/iag/tgs/iag44-45.htm)
 
-### Information
+### Accommodation & Food Services - 7.46%
 
-37. Information - 1% of LLCs in the US are in the information industry. [Source](https://www.sba.gov/sites/default/files/advocacy/2018-Small-Business-Profiles-US.pdf)
-38. This industry includes businesses involved in publishing, broadcasting, software development, and data processing. Notable companies in this industry include Google and Facebook. [Source](https://www.sba.gov/sites/default/files/advocacy/2018-Small-Business-Profiles-US.pdf)
+The Accommodation and Food Services sector includes businesses that provide a place to stay and food to eat. 
 
-### Professional, Scientific, & Technical Services
+This sector includes places that offer both lodging and food because they're often found together. 
 
-39. Professional, Scientific, and Technical Services - 1% of LLCs in the US are in the professional, scientific, and technical services industry. [Source](https://www.sba.gov/sites/default/files/advocacy/2018-Small-Business-Profiles-US.pdf)
-40. This industry includes businesses that provide specialized services such as legal advice, accounting, consulting, engineering, and scientific research and development. Notable companies in this industry include Deloitte and McKinsey & Company. [Source](https://www.sba.gov/sites/default/files/advocacy/2018-Small-Business-Profiles-US.pdf)
+Some notable accommodation and food services companies includes hotels, restaurants, and catering companies like  Marriott International, Hilton Worldwide Holdings Inc., and Yum! Brands Inc.
 
+[Source](https://www.bls.gov/iag/tgs/iag72.htm)
 
+### Other Services (excluding Public Administration) - 6.82%
 
-It's important to note that these percentages may vary depending on different sources of data, definitions of industries, and other factors.
+The Other Services sector includes businesses that provide services not covered by other categories. 
+
+This sector includes companies that repair equipment and machinery, religious organizations, charities, and businesses that provide cleaning, laundry, personal care, pet care, photo printing, temporary parking, and dating services.
+
+[Source](https://www.bls.gov/iag/tgs/iag81.htm)
+
+### Administrative, Support, Waste Management & Remediation Services - 6.08%
+
+The Administrative and Support and Waste Management and Remediation Services sector includes businesses that help other organizations with everyday tasks. 
+
+Many businesses do these tasks themselves, but some hire others to do them. 
+
+The businesses in this sector specialize in different tasks and serve clients in many industries, and sometimes even households. 
+
+The tasks include things like office work, hiring people, preparing documents, cleaning, and getting rid of waste.
+
+Some notable administrative and support services companies include ADP, Cintas, and Securitas AB.
+
+[Source](https://www.bls.gov/iag/tgs/iag56.htm)
+
+### Real Estate and Rental and Leasing - 5.81%
+
+The Real Estate and Rental and Leasing sector includes businesses that rent or lease things to others, like real estate and equipment. 
+
+It also includes businesses that manage, buy or sell real estate for others. 
+
+This sector is made up of three main industries: real estate rentals (including REITs), equipment rentals (like cars and computers), and rentals of non-copyrighted things.
+
+Some notable real estate companies include CBRE Group, Jones Lang LaSalle, and Simon Property Group.
+
+[Source](https://www.bls.gov/iag/tgs/iag53.htm)
+
+### Wholesale Trade - 4.79%
+
+The Wholesale Trade sector sells stuff in large quantities without changing it. 
+
+They also provide services to help sell the stuff. 
+
+The stuff they sell comes from farming, mining, manufacturing, and publishing.
+
+Wholesalers sell to other businesses, not to regular people. 
+
+They work from a warehouse or office, not a store. 
+
+They don't usually advertise to the public. 
+
+Customers find them through phone calls, meetings, or special ads. 
+
+They keep selling to the same customers over time.
+
+Some notable wholesale trade companies include Sysco Corporation, McKesson Corporation, and Cardinal Health.
+
+[Source](https://www.bls.gov/iag/tgs/iag42.htm)
+
+### Finance & Insurance - 4.07%
+
+The Finance and Insurance sector includes businesses that do financial stuff, like moving money around and selling insurance. 
+
+There are three main types of activities:
+
+1.  Businesses that take money from people and use it to make loans or buy investments. 
+
+This is called financial intermediation.
+
+2.  Businesses that sell insurance and collect money from people to cover potential losses. 
+
+They invest that money and use it to pay out claims.
+
+3.  Businesses that help other businesses with financial stuff, insurance, and employee benefits.
+
+The people who control the money supply are also included in this sector.
+
+Some examples of well-known finance and insurance companies include JPMorgan Chase, Berkshire Hathaway, and Goldman Sachs.
+
+[Source](https://www.bls.gov/IAG/TGS/iag52.htm)
+
+### Manufacturing - 3.78%
+
+The Manufacturing sector makes new things by changing materials or substances. 
+
+They use machines and equipment to do this. 
+
+Some places make things by hand or in a worker's home, like bakeries or custom tailors, and they are also part of this sector. 
+
+Manufacturing places can make things themselves or have someone else do it for them.
+
+Some notable manufacturing companies include General Electric, Ford Motor Company, and Boeing.
+
+[Source](https://www.bls.gov/iag/tgs/iag31-33.htm)
+
+### Transportation & Warehousing - 3.54%
+
+The Transportation and Warehousing sector includes businesses that move people or things, store goods, provide scenic tours, or help with transportation. 
+
+They use different types of transportation equipment depending on whether they're traveling by air, rail, water, road, or pipeline.
+
+Some examples of well-known transportation and warehousing companies include FedEx, UPS, and Union Pacific Corporation.
+
+[Source](https://www.bls.gov/iag/tgs/iag48-49.htm)
+
+### Arts, Entertainment, and Recreation	- 1.92 %
+
+The Arts, Entertainment, and Recreation industry has lots of different businesses that offer things to do for fun. 
+
+This includes places that put on shows or events, places that have historical or educational things to see, and places where you can do activities or hobbies. 
+
+Some businesses that offer these things are in other industries.
+
+Prime examples of well-known arts and entertainment companies include Disney, Sony, and WarnerMedia.
+
+[Source](https://www.bls.gov/iag/tgs/iag71.htm)
+
+### Information - 1.29%
+
+The information sector has many parts, like companies that make software or publish books online, plus movie and music makers, TV and radio stations, phone and internet companies, and businesses that help us find things online.
+
+This sector has three types of companies: 
+
+(1) those that make and share information and cultural products, 
+
+(2) those that help us send and get these things, plus data and messages, and 
+
+(3) those that work with data.
+
+Notable companies in this industry include Google and Facebook.
+
+[Source](https://www.bls.gov/iag/tgs/iag51.htm)
+
+### Educational Services - 1.16%
+
+The Educational Services sector includes places that teach a lot of different things. 
+
+These places can be schools, colleges, universities, or training centers. 
+
+They can be run by people who want to make money or by the government. 
+
+Sometimes they also offer food and housing.
+
+Teachers or instructors explain things and help students learn. 
+
+You can learn in many different places, like at school, work, or even at home using the internet. 
+
+Sometimes they even use simulators to help you learn. 
+
+Teachers can also adapt to students' needs, like using sign language for students who can't hear. 
+
+All of these places have one thing in common: they use teachers who know what they're talking about to help you learn.
+
+Some examples of well-known educational services companies include Pearson Education, Apollo Group, and DeVry Education Group.
+
+[Source](https://www.bls.gov/iag/tgs/iag61.htm)
+
+### Agriculture, Forestry, Fishing, & Hunting - 0.35%
+
+The Agriculture, Forestry, Fishing and Hunting sector includes places where people grow crops, raise animals, cut down trees for wood, and catch fish and other animals from a farm, ranch, or the wild.
+
+These places are called farms, ranches, dairies, greenhouses, nurseries, orchards, or hatcheries. 
+
+A farm can be one piece of land or many separate pieces of land. 
+
+Sometimes the land is owned by the farmer and sometimes it's rented. 
+
+The farm can be run by the farmer alone, with family members or employees, or by a business. 
+
+If a landowner has tenants or renters who farm the land, that land is also considered a farm.
+
+Some popular agriculture, forestry, fishing, and hunting companies include Archer Daniels Midland Company, Tyson Foods, and Weyerhaeuser Company.
+
+[Source](https://www.bls.gov/iag/tgs/iag11.htm)
+
+### Management of Companies and Enterprises	- 0.27%
+
+The Management of Companies and Enterprises sector includes two types of businesses. 
+
+The first type owns a controlling interest in other companies or influences their decisions. 
+
+The second type manages the operations of a company, including planning and decision-making. 
+
+These businesses perform important tasks that are usually done by other companies. 
+
+By doing all these tasks in one place, they save money. [Source](https://www.bls.gov/iag/tgs/iag55.htm)
+
+### Mining, Quarrying, and Oil and Gas Extraction - 0.26%
+
+The Mining industry involves getting minerals out of the ground, like coal and oil. 
+
+It includes things like digging mines and drilling wells, as well as processing the minerals to make them useful.
+
+Some examples of well-known mining, quarrying, and oil and gas extraction companies include ExxonMobil, Chevron Corporation, and Freeport-McMoRan.
+
+[Source](https://www.bls.gov/iag/tgs/iag21.htm)
+
+### Industries not classified - 0.05%
+
+This sector includes all other businesses which don't fit into any of the other categories in our list.
+
+### Utilities - 0.04%
+
+The Utilities sector provides important services like electricity, gas, steam, water, and sewage removal. 
+
+The specific activities provided by each utility vary: 
+
+Electricity involves making, sending, and delivering power; 
+
+Gas involves delivering it; 
+
+Steam involves making and/or delivering it; 
+
+Water involves cleaning and delivering it; 
+
+Sewage removal involves collecting, cleaning, and disposing of waste through sewers and treatment facilities.
+
+[Source](https://www.bls.gov/iag/tgs/iag22.htm)
+
+<a id="women-minority-veteran"> 
 
 ## Percentage of LLCs Owned by Women, Minorities, and Veterans in Different Industries
 
-Women, minorities, and veterans have been historically underrepresented in entrepreneurship. However, the number of businesses owned by these groups has been steadily increasing in recent years. According to a report by the Small Business Administration (SBA), women-owned businesses account for 42% of all businesses in the United States, minority-owned businesses make up 29%, and veteran-owned businesses represent 9%. In this section, we will explore the percentage of LLCs owned by women, minorities, and veterans in different industries.
+Women, minorities, and veterans have been historically underrepresented in entrepreneurship. 
 
-1.  Women-owned LLCs - The number of women-owned LLCs in the US increased by 58% from 2007 to 2018. [Source](https://www.nwbc.gov/research/women-owned-businesses-small-business-lending-united-states-2017)
+However, the number of businesses owned by these groups has been steadily increasing in recent years. 
 
-2.  Women-owned LLCs in Construction - Women own 9% of construction LLCs in the US. [Source](https://www.uschamber.com/co/good-company/launch-pad/women-owned-businesses-construction)
+According to a report by the Small Business Administration (SBA), women-owned businesses account for 42% of all businesses in the United States, minority-owned businesses make up 29%, and veteran-owned businesses represent 9%. 
 
-3.  Women-owned LLCs in Technology - Women own 11.6% of tech LLCs in the US. [Source](https://www.nationalcenter.org/PressReleases-WomenOwnedBiz2018.html)
+In this section, we will explore the percentage of LLCs owned by women, minorities, and veterans in different industries.
 
-4.  Women-owned LLCs in Finance - The number of women-owned financial and insurance LLCs increased by 31% from 2007 to 2018. [Source](https://www.nwbc.gov/research/women-owned-businesses-small-business-lending-united-states-2017)
+### Women Owned LLCs
 
-5.  Women-owned LLCs in Retail - Women own 20% of retail LLCs in the US. [Source](https://www.forbes.com/sites/geristengel/2019/08/13/the-state-of-women-owned-businesses-2019/#3ac0d8c82766)
+- The number of women-owned LLCs in the US increased by 58% from 2007 to 2018. [Source](https://www.nwbc.gov/research/women-owned-businesses-small-business-lending-united-states-2017)
 
-6.  Women-owned LLCs in Healthcare - Women own 29% of healthcare and social assistance LLCs in the US. [Source](https://www.sba.gov/blog/women-entrepreneurs-health-care-industry)
+- Women own 9% of construction LLCs in the US. [Source](https://www.uschamber.com/co/good-company/launch-pad/women-owned-businesses-construction)
+
+- Women own 11.6% of tech LLCs in the US. [Source](https://www.nationalcenter.org/PressReleases-WomenOwnedBiz2018.html)
+
+- The number of women-owned financial and insurance LLCs increased by 31% from 2007 to 2018. [Source](https://www.nwbc.gov/research/women-owned-businesses-small-business-lending-united-states-2017)
+
+- Women own 20% of retail LLCs in the US. [Source](https://www.forbes.com/sites/geristengel/2019/08/13/the-state-of-women-owned-businesses-2019/#3ac0d8c82766)
+
+- Women own 29% of healthcare and social assistance LLCs in the US. [Source](https://www.sba.gov/blog/women-entrepreneurs-health-care-industry)
 
 It is worth noting that while the number of women-owned LLCs has been increasing across different industries, women still face significant challenges in accessing capital and resources for their businesses.
 
+### Minority Owned LLCs
 
+- 18% of all LLCs in the US are minority-owned. [Source](https://www.incfile.com/blog/post/business-diversity-statistics/)
 
-1.  Minority-owned LLCs - 18% of all LLCs in the US are minority-owned. [Source](https://www.incfile.com/blog/post/business-diversity-statistics/)
+- 12% of technology LLCs in the US are minority-owned. [Source](https://www.incfile.com/blog/post/business-diversity-statistics/)
 
-2.  Minority-owned LLCs in Technology - 12% of technology LLCs in the US are minority-owned. [Source](https://www.incfile.com/blog/post/business-diversity-statistics/)
+- 35% of construction LLCs in the US are minority-owned. [Source](https://www.uschamber.com/co/good-company/launch-pad/minority-owned-businesses-construction)
 
-3.  Minority-owned LLCs in Construction - 35% of construction LLCs in the US are minority-owned. [Source](https://www.uschamber.com/co/good-company/launch-pad/minority-owned-businesses-construction)
+- 23% of healthcare and social assistance LLCs in the US are minority-owned. [Source](https://www.sba.gov/blog/industries-where-minority-owned-businesses-are-growing-fastest)
 
-4.  Minority-owned LLCs in Healthcare - 23% of healthcare and social assistance LLCs in the US are minority-owned. [Source](https://www.sba.gov/blog/industries-where-minority-owned-businesses-are-growing-fastest)
+- 15% of retail LLCs in the US are minority-owned. [Source](https://www.inc.com/guadalupe-gonzalez/2019-inc5000-diversity-report.html)
 
-5.  Minority-owned LLCs in Retail - 15% of retail LLCs in the US are minority-owned. [Source](https://www.inc.com/guadalupe-gonzalez/2019-inc5000-diversity-report.html)
-
-6.  Minority-owned LLCs in Professional, Scientific, and Technical Services - 20% of professional, scientific, and technical services LLCs in the US are minority-owned. [Source](https://www.inc.com/guadalupe-gonzalez/2019-inc5000-diversity-report.html)
+- 20% of professional, scientific, and technical services LLCs in the US are minority-owned. [Source](https://www.inc.com/guadalupe-gonzalez/2019-inc5000-diversity-report.html)
 
 It is important to note that while the number of minority-owned LLCs is growing, there is still a significant gap between the total number of businesses and the number of businesses owned by minorities. Additionally, minority-owned businesses often face unique challenges related to accessing capital, resources, and opportunities for growth.
 
-
-
-
+### Veteran Owned LLCs
 
 1.  Veteran-owned LLCs - There are over 2.5 million veteran-owned LLCs in the US. [Source](https://www.sba.gov/sites/default/files/Advocacy-2018-Vetrepreneur-Infographic.pdf)
 
@@ -285,6 +467,8 @@ It is important to note that while the number of minority-owned LLCs is growing,
 6.  Veteran-owned LLCs in Accommodation and Food Services - Veterans own over 12% of accommodation and food services LLCs in the US. [Source](https://www.sba.gov/blog/veterans-own-9-million-small-businesses-us)
 
 It's worth noting that veterans often face unique challenges when starting and running a business, but there are many resources available to help them succeed.
+
+<a id="most-profitable"> 
 
 ## Most Profitable Industries or Sectors for LLCs, Based on Revenue and Growth Rate
 
@@ -330,6 +514,8 @@ It's worth noting that while these industries had high growth rates in 2020, thi
 
 7.  **The real estate industry has the highest rate of LLC usage compared to other industries** [**Source**](https://www.nar.realtor/research-and-statistics/research-reports/realtors-and-their-business/the-business-of-real-estate)
 
+<a id="trends"> 
+
 ## Impact of Industry Trends, Competition, and Innovation on LLC Performance and Success
 
 As an LLC owner or potential entrepreneur, it's important to keep up with industry trends, competition, and innovation. These factors can significantly impact the success and performance of your business. In this section, we'll explore how industry trends, competition, and innovation can affect LLCs and offer some tips on how to stay ahead of the curve.
@@ -356,6 +542,8 @@ As an LLC owner or potential entrepreneur, it's important to keep up with indust
 
 11. Impact of COVID-19 - 86% of small businesses have been negatively impacted by the COVID-19 pandemic. [Source](https://www.cnbc.com/2020/08/10/nearly-60percent-of-small-business-closures-are-now-permanent-yelp-says.html)
 
+<a id="mistakes"> 
+
 ## Most Common Mistakes Made by LLCs in Different Industries and How to Avoid Them
 
 Starting and running an LLC is not easy, but avoiding common mistakes can help increase the chances of success. In this section, we'll explore some of the most common mistakes made by LLCs in different industries and provide tips on how to avoid them. By learning from the experiences of others, you can position your LLC for growth and long-term success.
@@ -378,6 +566,9 @@ In conclusion, as an LLC owner or potential entrepreneur, staying up to date on 
 By using this information to inform your business decisions, you can increase your chances of success and avoid costly mistakes. Don't hesitate to seek professional advice when necessary and stay informed about updates in your industry.
 
 If you're looking for additional guidance or support with starting or running your LLC, schedule a consultation call with Business Initiative today or use our contact form to get in touch. And don't forget to subscribe to our newsletter and follow us on Twitter for more valuable insights and resources!
+
+<a id="faqs"> 
+
 
 ## FAQs - Frequently Asked Questions About LLCs in Various Industries
 
@@ -423,7 +614,7 @@ By keeping these FAQs in mind and staying informed about industry trends, compet
 ### Q: Which industries have the highest LLC usage?
 
 1.  A: Real estate has the highest rate of LLC usage.
-2.  A: The real estate industry has the highest rate of LLC usage compared to other industries, as it provides liability protection and tax benefits for property owners. According to the National Association of Realtors, LLCs are widely used in this industry for holding and managing properties. [**Source**](https://www.nar.realtor/research-and-statistics/research-reports/realtors-and-their-business/the-business-of-real-estate)
+2.  A: The real estate industry has the highest rate of LLC usage compared to other industries, as it provides liability protection and tax benefits for property owners.
 
 ### Q: How can I stay ahead of industry trends, competition, and innovation?
 
