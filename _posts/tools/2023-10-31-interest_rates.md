@@ -200,11 +200,54 @@ document.getElementById('calculateBtn').addEventListener('click', () => {
 
 
 
-<a id="interest-rates"> 
+
+<form id="compoundInterestForm">
+    <label for="principal">Principal:</label>
+    <input type="number" id="principal" step="0.01" placeholder="Enter principal amount">
+    <label for="rate">Interest Rate (%):</label>
+    <input type="number" id="rate" step="0.01" placeholder="Enter interest rate">
+    <label for="time">Time (years):</label>
+    <input type="number" id="time" step="0.01" placeholder="Enter time in years">
+    <label for="compoundsPerPeriod">Compounds per Period:</label>
+    <input type="number" id ="compoundsPerPeriod" step ="1" placeholder ="Enter compounds per period">
+    <button type ="button" id ="calculateBtn">Calculate Compound Interest</button>
+  </form>
+
+  <div id ="result"></div>
+
+<script>
+function calculateCompoundInterest(principal, rate, time, compoundsPerPeriod) {
+  const factor = Math.pow(1 + (rate / (100 * compoundsPerPeriod)), compoundsPerPeriod * time);
+  const compoundInterest = principal * factor - principal;
+  return compoundInterest;
+}
+
+document.getElementById('calculateBtn').addEventListener('click', () => {
+  const principal = parseFloat(document.getElementById('principal').value);
+  const rate = parseFloat(document.getElementById('rate').value);
+  const time = parseFloat(document.getElementById('time').value);
+  const compoundsPerPeriod = parseInt(document.getElementById('compoundsPerPeriod').value);
+
+  if (!isNaN(principal) && !isNaN(rate) && !isNaN(time) && !isNaN(compoundsPerPeriod)) {
+    const compoundInterest = calculateCompoundInterest(principal, rate, time, compoundsPerPeriod);
+    document.getElementById('result').innerText = `Compound Interest: ${compoundInterest.toFixed(2)}`;
+  } else {
+    alert("Please enter valid numbers for all fields.");
+  }
+});
+</script>
+</body>
+
+
+
+
+
+
 
 ## How do Interest Rates Work and How do They Affect Your Business?
 
 Interest rates are an essential factor in the world of finance and have a significant impact on your business. 
+<a id="interest-rates"> 
 
 They determine the cost of borrowing money and the return on investment when lending money or investing in various financial instruments.
 
