@@ -27,7 +27,6 @@ So whether you're just starting out or looking to improve your current LLC's per
 
 
 
-
 ## Most Popular Industries and Sectors for LLCs
 
 As an entrepreneur or business owner, choosing the right industry or sector to focus on for your LLC can make a significant impact on your success. 
@@ -38,7 +37,7 @@ By gaining a deeper understanding of these industries, you can better position y
 
 
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-<canvas id="myChart" width="400" height="400"></canvas>
+<canvas id="myChart" width="400" height="200"></canvas>
 <script>
     var categories = [
     "Professional, Scientific, and Technical Services",
@@ -92,8 +91,8 @@ var myChart = new Chart(ctx, {
         datasets: [{
             label: 'Percentage',
             data: percentages,
-            backgroundColor: 'rgba(75, 192, 192, 0.2)', // Color of the bars
-            borderColor: 'rgba(75, 192, 192, 1)', // Border color of the bars
+            backgroundColor: 'rgba(98, 158, 45, 0.2)', // Color of the bars
+            borderColor: 'rgba(98, 158, 45, 1)', // Border color of the bars
             borderWidth: 1 // Width of the border
         }]
     },
@@ -107,63 +106,31 @@ var myChart = new Chart(ctx, {
 });
 </script>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-??????????????????/
-???????????????????
-
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-<canvas id="myChart" width="400" height="200"></canvas>
-
-<script>
-    var ctx = document.getElementById('myChart').getContext('2d');
-
-    var data = {
-        labels: [
-            'Retail', 'Healthcare', 'Technology', 'Construction', 'Real Estate', 'Professional Services',
-            'Food and Beverage', 'Finance and Insurance', 'Manufacturing', 'Arts and Entertainment',
-            'Admin and Support Services', 'Educational Services', 'Wholesale Trade', 'Transportation and Warehousing',
-            'Agriculture, Forestry, Fishing', 'Mining, Quarrying, Oil and Gas Extraction',
-            'Accommodation and Food Services', 'Other Services', 'Information', 'Professional, Scientific, Technical Services'
-        ],
-        datasets: [{
-            label: 'Percentage of LLCs in US by Industry',
-            data: [14, 10, 9, 8, 7, 6, 5, 4, 4, 3, 4, 3, 3, 2, 1, 1, 1, 1, 1, 1],
-            backgroundColor: 'rgba(75, 192, 192, 0.2)',
-            borderColor: 'rgba(75, 192, 192, 1)',
-            borderWidth: 1
-        }]
-    };
-
-    var options = {
-        scales: {
-            y: {
-                beginAtZero: true
-            }
-        }
-    };
-
-    var myChart = new Chart(ctx, {
-        type: 'bar',
-        data: data,
-        options: options
-    });
-</script>
-
 <br>
 
 Let's look at these industries in more detail..
+
+Professional, Scientific, and Technical Services	16.73
+Construction	14.21
+Health Care and Social Assistance	11.37
+Retail Trade	10.47
+Accommodation and Food Services	7.46
+Other Services (except Public Administration)	6.82
+Administrative and Support and Waste Management and Remediation Services	6.08
+Real Estate and Rental and Leasing	5.81
+Wholesale Trade	4.79
+Finance and Insurance	4.07
+Manufacturing	3.78
+Transportation and Warehousing	3.54
+Arts, Entertainment, and Recreation	1.92
+Information	1.29
+Educational Services	1.16
+Agriculture, Forestry, Fishing and Hunting	0.35
+Management of Companies and Enterprises	0.27
+Mining, Quarrying, and Oil and Gas Extraction	0.26
+Industries not classified	0.05
+Utilities	0.04
+
 
 ### Retail
 
