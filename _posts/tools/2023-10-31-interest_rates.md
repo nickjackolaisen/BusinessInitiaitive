@@ -60,8 +60,24 @@ Simple Interest = Principal × Interest Rate × Time
 
 For example, if you borrow $10,000 at a 5% annual interest rate for two years, the total amount of interest paid would be $1,000 ($10,000 × 0.05 × 2).
 
-```javascript
-function calculateSimpleInterest(principal, rate, time) {
+<body>
+  <h3>Simple Interest Calculator</h3>
+
+<form id="simpleInterestForm">
+    <label for="principal">Principal:</label>
+    <input type="number" id="principal" step="0.01" placeholder="Enter principal amount">
+    <label for="rate">Interest Rate (%):</label>
+    <input type="number" id="rate" step="0.01" placeholder="Enter interest rate">
+    <label for="time">Time (years):</label>
+    <input type="number" id="time" step="0.01" placeholder="Enter time in years">
+    <button type ="button" id ="calculateBtn">Calculate Compound Interest</button>
+
+  </form>
+  
+  <div id ="result"></div>
+
+<script>
+  function calculateSimpleInterest(principal, rate, time) {
   const interest = principal * (rate / 100) * time;
   return interest;
 }
@@ -78,7 +94,8 @@ document.getElementById('calculateBtn').addEventListener('click', () => {
     alert("Please enter valid numbers for all fields.");
   }
 });
-```
+</script>
+</body>
 
 To use this JavaScript code in your HTML file, create an HTML form with input fields for principal, rate, and time. Then add a button element with the ID `calculateBtn`, and a container element with the ID `result`. Include the above JavaScript code in a script tag or external JS file linked to your HTML document.
 
@@ -98,38 +115,24 @@ Using the same example as above, if the $10,000 loan had a 5% annual interest ra
 
 Here's the HTML code for a compound interest calculator:
 
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Compound Interest Calculator</title>
-</head>
+
 <body>
-  <h1>Compound Interest Calculator</h1>
+  <h3>Compound Interest Calculator</h3>
 
   <form id="compoundInterestForm">
     <label for="principal">Principal:</label>
     <input type="number" id="principal" step="0.01" placeholder="Enter principal amount">
-
     <label for="rate">Interest Rate (%):</label>
     <input type="number" id="rate" step="0.01" placeholder="Enter interest rate">
-
     <label for="time">Time (years):</label>
     <input type="number" id="time" step="0.01" placeholder="Enter time in years">
-
     <label for="compoundsPerPeriod">Compounds per Period:</label>
     <input type="number" id ="compoundsPerPeriod" step ="1" placeholder ="Enter compounds per period">
-
     <button type ="button" id ="calculateBtn">Calculate Compound Interest</button>
   </form>
 
   <div id ="result"></div>
 
-  <!-- Include the JavaScript code below or link to an external JS file -->
-  <!--<script src="./compoundInterestCalculator.js"></script>-->
-  
 <script>
 function calculateCompoundInterest(principal, rate, time, compoundsPerPeriod) {
   const factor = Math.pow(1 + (rate / (100 * compoundsPerPeriod)), compoundsPerPeriod * time);
@@ -153,8 +156,7 @@ document.getElementById('calculateBtn').addEventListener('click', () => {
 </script>
 
 </body>
-</html>
-```
+
 
 This HTML code creates a compound interest calculator using an HTML form with input fields for principal, interest rate, time in years, and the number of compounds per period. A button element with the ID `calculateBtn` is used to trigger the calculation when clicked. The result is displayed in a container element with the ID `result`. The JavaScript code provided earlier in this document is included within a script tag at the bottom of the body section. You can also choose to include it as an external JS file by commenting out the inline script tag and uncommenting the line that links to an external JS file (adjusting the filename as needed).
 <a id="interest-rates"> 
@@ -178,19 +180,19 @@ As a business owner, it's crucial to monitor interest rate trends and understand
 
 Several factors can affect interest rates, including:
 
-**1.  Inflation**: 
+**1.  Inflation:**
 
 Central banks often adjust interest rates to control inflation. 
 
 When inflation is high, central banks may raise interest rates to encourage saving and discourage borrowing, thus reducing the amount of money in circulation.
 
-**2.  Economic Growth**: 
+**2.  Economic Growth:**
 
 A strong economy may lead to higher interest rates, as businesses and consumers are more likely to borrow and invest. 
 
 Conversely, weak economic growth may result in lower interest rates to stimulate borrowing and investment.
 
-**3.  Government Policies**: 
+**3.  Government Policies:**
 
 Fiscal and monetary policies implemented by governments and central banks can directly impact interest rates. 
 <a id="loans"> 
@@ -221,13 +223,11 @@ In such cases, it's essential to carefully evaluate your investment options and 
 
 Understanding interest and interest rates is crucial for making well-informed financial decisions as a business owner. 
 
-By mastering the concepts of simple and compound interest, monitoring interest rate trends, and evaluating the impact of interest rates on loans and investments, you can make more strategic decisions that contribute to your business's long-term success.
+When you master the concepts of simple and compound interest, monitoring interest rate trends, and evaluating the impact of interest rates on loans and investments, you can make more strategic decisions that contribute to your business's long-term success.
 
-\---
+Applying this information in a practical sense enables you to secure favorable loan terms, identify lucrative investment opportunities, and optimize your cash flow management. 
 
-In conclusion, this comprehensive guide on interest and interest rates equips you with the knowledge necessary to make informed financial decisions that can significantly impact your business's success. By understanding the fundamentals of simple and compound interest, monitoring market trends, and strategically utilizing interest rates for loans and investments, you gain a competitive edge in managing your business's finances.
-
-Applying this information in a practical sense enables you to secure favorable loan terms, identify lucrative investment opportunities, and optimize your cash flow management. Ultimately, this empowers you to drive sustainable growth and profitability for your business.
+Ultimately, this empowers you to drive sustainable growth and profitability for your business.
 
 Don't miss out on the opportunity to leverage this knowledge for your business's benefit! [Schedule a consultation call](https://calendly.com/businessinitiative/30-minute-consultation-call) with our Business Initiative experts today or [use our contact form](https://www.businessinitiative.org/contact/) to get personalized advice tailored to your unique financial needs.
 
@@ -263,7 +263,7 @@ Take action now and unlock your full potential as a savvy entrepreneur with mast
 <p>Year 2: $11,025,</p>
 <p>Year 3: $11,576.25,</p>
 <p>...</p>
-<p>Year 5: $12,763</p>
+<p>Year 5: <b>$12,763</b>, and that growth is only to increace exponentially every year whereas simple interest is linear.</p>
 </details>
 
 <h3>How do central banks influence interest rates?</h3>
@@ -301,8 +301,8 @@ Take action now and unlock your full potential as a savvy entrepreneur with mast
 <p>It's essential to periodically reassess your current loans and compare available options in the market.</p>
 <p>Refinancing may be beneficial under several circumstances:</p>
 <ol type="1">
-    <li><b>1.  Lower Interest Rates:</b> If market interest rates have dropped since securing your original loan or if your creditworthiness has improved, you might qualify for a lower interest rate that reduces your overall borrowing costs.</li>
-    <li><b>2.  Improved Loan Terms:</b> You may find loans with better repayment terms or more flexible conditions, such as the option to make additional principal payments without penalty.</li>
+    <li><b>Lower Interest Rates:</b> If market interest rates have dropped since securing your original loan or if your creditworthiness has improved, you might qualify for a lower interest rate that reduces your overall borrowing costs.</li>
+    <li><b>Improved Loan Terms:</b> You may find loans with better repayment terms or more flexible conditions, such as the option to make additional principal payments without penalty.</li>
 </ol>
 <p>However, refinancing may not always be advantageous.</p>
 <p>Be mindful of any prepayment penalties or fees associated with refinancing and weigh these costs against potential savings before making a decision.</p>
@@ -315,7 +315,7 @@ Take action now and unlock your full potential as a savvy entrepreneur with mast
 <br>
 <p>Harnessing the power of compound interest can significantly enhance your business's investment returns over time.</p> 
 <p>By reinvesting earnings or savings into interest-bearing accounts or assets, you allow your profits to generate additional returns—leading to exponential growth in value.</p>
-<p>For instance, if you invest $10,000 at an annual 8% return compounded monthly for five years, your investment would grow to approximately $14,898—a gain of nearly $4,898 due primarily to compounding's effect.</p>
+<p>For instance, if you invest $10,000 at an annual 8% return compounded monthly for five years, your investment would grow to approximately $14,898 — a gain of nearly $4,898 due primarily to compounding's effect.</p>
 <p>By strategically utilizing compound interest in investments like savings accounts, bonds, stocks, or real estate, businesses can maximize their long-term financial growth potential.</p>
 </details>
 
