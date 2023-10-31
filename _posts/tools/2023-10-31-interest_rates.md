@@ -62,7 +62,7 @@ For example, if you borrow $10,000 at a 5% annual interest rate for two years, t
 
 <body>
   <h3>Simple Interest Calculator</h3>
-
+<div class="calculator" style="text-align:center">
 <form id="simpleInterestForm">
     <label for="principal">Principal:</label>
     <input type="number" id="principal" step="0.01" placeholder="Enter principal amount">
@@ -71,9 +71,8 @@ For example, if you borrow $10,000 at a 5% annual interest rate for two years, t
     <label for="time">Time (years):</label>
     <input type="number" id="time" step="0.01" placeholder="Enter time in years">
     <button type ="button" id ="calculateBtn">Calculate Compound Interest</button>
-
   </form>
-  
+  </div>
   <div id ="result"></div>
 
 <script>
@@ -96,6 +95,26 @@ document.getElementById('calculateBtn').addEventListener('click', () => {
 });
 </script>
 </body>
+<style>
+        body {
+            margin: 50px;
+        }
+        .calculator {
+            width: 300px;
+            margin: 0 auto;
+        }
+        .input-group {
+            margin-bottom: 10px;
+        }
+        input[type="number"] {
+            width: 100%;
+            padding: 8px;
+            box-sizing: border-box;
+        }
+        .result {
+            font-weight: bold;
+        }
+</style>
 
 To use this JavaScript code in your HTML file, create an HTML form with input fields for principal, rate, and time. Then add a button element with the ID `calculateBtn`, and a container element with the ID `result`. Include the above JavaScript code in a script tag or external JS file linked to your HTML document.
 
@@ -119,6 +138,7 @@ Here's the HTML code for a compound interest calculator:
 <body>
   <h3>Compound Interest Calculator</h3>
 
+  <div class="calculator" style="text-align:center">
   <form id="compoundInterestForm">
     <label for="principal">Principal:</label>
     <input type="number" id="principal" step="0.01" placeholder="Enter principal amount">
@@ -130,7 +150,7 @@ Here's the HTML code for a compound interest calculator:
     <input type="number" id ="compoundsPerPeriod" step ="1" placeholder ="Enter compounds per period">
     <button type ="button" id ="calculateBtn">Calculate Compound Interest</button>
   </form>
-
+  </div>
   <div id ="result"></div>
 
 <script>
@@ -154,9 +174,27 @@ document.getElementById('calculateBtn').addEventListener('click', () => {
   }
 });
 </script>
-
 </body>
-
+<style>
+        body {
+            margin: 50px;
+        }
+        .calculator {
+            width: 300px;
+            margin: 0 auto;
+        }
+        .input-group {
+            margin-bottom: 10px;
+        }
+        input[type="number"] {
+            width: 100%;
+            padding: 8px;
+            box-sizing: border-box;
+        }
+        .result {
+            font-weight: bold;
+        }
+</style>
 
 This HTML code creates a compound interest calculator using an HTML form with input fields for principal, interest rate, time in years, and the number of compounds per period. A button element with the ID `calculateBtn` is used to trigger the calculation when clicked. The result is displayed in a container element with the ID `result`. The JavaScript code provided earlier in this document is included within a script tag at the bottom of the body section. You can also choose to include it as an external JS file by commenting out the inline script tag and uncommenting the line that links to an external JS file (adjusting the filename as needed).
 <a id="interest-rates"> 

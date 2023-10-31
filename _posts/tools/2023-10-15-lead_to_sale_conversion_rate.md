@@ -25,17 +25,14 @@ It is an important metric because it helps businesses understand how effective t
         <button onclick="calculateConversionRate()">Calculate</button>
         <div class="result" id="result"></div>
     </div>
-
     <script>
         function calculateConversionRate() {
             var leads = document.getElementById("leads").value;
             var sales = document.getElementById("sales").value;
-
             var conversionRate = (sales / leads) * 100;
-
             document.getElementById("result").textContent = "Lead-to-Sale Conversion Rate: " + conversionRate.toFixed(2) + "%";
         }
-    </script>
+</script>
 </body>
 
 <style>
