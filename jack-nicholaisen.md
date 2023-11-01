@@ -12,7 +12,7 @@ I started <a href="https://www.businessinitiative.org/"> Business Initiative</a>
 <p>Since then I have spent the last 4 years researching everything there is to know about this business structure and other types of businesses. I have dug through all of the mess of information and am presenting it in the most clear and organized way to help others in their entrepreneurial journies. 
 </p>
 <p>
-Here is a little bit about my background and experiences:
+Here is a little bit about my background and a few of my experiences:
 </p>
 <p>
 I achieved the rank of Eagle Scout from Troop 236. <a href="https://www.miamitownship.com/DocumentCenter/View/912/Eagle-Scout-Nicholaisen?bidId="> Here is my Eagle Project</a>
@@ -23,3 +23,9 @@ I spent a year abroad as a foreign-exchange student in Ussel France. <a href="ht
 <p>
 Attended Milwaukee School of Engineering (MSOE) and rowed on the <a href="https://msoeraiders.com/sports/mens-rowing/roster/jack-nicholaisen/2585">Raiders Varsity Crew Team</a>
 </p>
+<p>
+I am learning in Jerusalem, Israel at Yeshiva Aish HaTorah. When I am not working on Business Initiative I am learning Jewish Law. I guess that's what piqued my interest in learning about business law and trying to simplify all of the complicated rules and terminology. I must say it's a lot easier in English than it is in 2000 year old Aramaic.
+</p>
+
+Follow me on X (Twitter) <a href="https://twitter.com/NeshamaJack">@NeshamaJack</a>
+
