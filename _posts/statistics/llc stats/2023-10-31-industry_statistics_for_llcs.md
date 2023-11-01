@@ -639,7 +639,7 @@ And don't forget to subscribe to our newsletter and follow us on Twitter for mor
 <p>In addition to these, there are specific mistakes that are more prevalent in different industries such as not conducting thorough due diligence before purchasing a property in real estate or not having proper licensing and certifications in finance and insurance.</p>
 </details>
 
-<h3>How does competition affect small businesses?<h3>
+<h3>How does competition affect small businesses?</h3>
 <p>Competition is one of the biggest challenges faced by small businesses.</p>
 <p>Small businesses face an average of 29 competitors in the US alone, according to SmallBizGenius.net.</p>
 <p>Poor customer service is also cited as a top reason customers switch to competitors.</p>
@@ -696,6 +696,8 @@ And don't forget to subscribe to our newsletter and follow us on Twitter for mor
 <p>Regularly monitoring the market for potential infringements is also important, as well as taking appropriate legal action if necessary to enforce your rights.</p>
 <p><a href="https://www.fool.com/the-blueprint/technology-business-mistakes/">Source</a></p>
 </details>
+
+<br>
 
 ## Research and Methodology
 
