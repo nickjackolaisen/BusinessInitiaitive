@@ -25,17 +25,14 @@ CAC is an important metric because it helps businesses understand how much they 
         <button onclick="calculateCAC()">Calculate</button>
         <div class="result" id="result"></div>
     </div>
-
-    <script>
+ <script>
         function calculateCAC() {
             var expenses = document.getElementById("expenses").value;
             var customers = document.getElementById("customers").value;
-
             var cac = expenses / customers;
-
-            document.getElementById("result").textContent = "Customer Acquisition Cost (CAC): $" + cac.toFixed(2);
-        }
-    </script>
+            document.getElementById("result").textContent = "Customer Acquisition Cost (CAC): $" + cac.toFixed(2); 
+        }    
+</script>
 </body>
 
 <style>
@@ -65,7 +62,6 @@ CAC is an important metric because it helps businesses understand how much they 
         .result {
             font-weight: bold;
         }
-
 </style>
 
 

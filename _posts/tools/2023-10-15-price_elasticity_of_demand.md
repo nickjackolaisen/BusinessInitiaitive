@@ -45,20 +45,17 @@ When a product has low price elasticity of demand, it means that a change in pri
         <button onclick="calculateElasticity()">Calculate</button>
         <div class="result" id="result"></div>
     </div>
-
-    <script>
+<script>
         function calculateElasticity() {
             var initialPrice = document.getElementById("initialPrice").value;
             var finalPrice = document.getElementById("finalPrice").value;
             var initialQuantity = document.getElementById("initialQuantity").value;
             var finalQuantity = document.getElementById("finalQuantity").value;
-
             var elasticity = ((finalQuantity - initialQuantity) / ((finalQuantity + initialQuantity) / 2)) /
                 ((finalPrice - initialPrice) / ((finalPrice + initialPrice) / 2));
-
             document.getElementById("result").textContent = "Price Elasticity of Demand: " + elasticity.toFixed(2);
         }
-    </script>
+</script>
 </body>
 
 <style>

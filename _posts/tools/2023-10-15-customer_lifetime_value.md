@@ -31,19 +31,16 @@ LTV is an important metric because it helps businesses understand the overall va
         <button onclick="calculateLTV()">Calculate</button>
         <div class="result" id="result"></div>
     </div>
-
-    <script>
+<script>
         function calculateLTV() {
             var avgPurchaseValue = document.getElementById("avgPurchaseValue").value;
             var avgPurchaseFrequency = document.getElementById("avgPurchaseFrequency").value;
             var avgCustomerLifespan = document.getElementById("avgCustomerLifespan").value;
             var avgGrossMargin = document.getElementById("avgGrossMargin").value;
-
             var ltv = (avgPurchaseValue * avgPurchaseFrequency * avgCustomerLifespan * (avgGrossMargin / 100));
-
             document.getElementById("result").textContent = "Customer Lifetime Value (LTV): $" + ltv.toFixed(2);
         }
-    </script>
+</script>
 </body>
 
 <style>
