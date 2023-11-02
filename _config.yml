@@ -1,8 +1,4 @@
-<<<<<<< HEAD
--# Site settings
-=======
 # Site settings
->>>>>>> parent of 0520b0f (Attempt at 301 redirect and new stats page llc employee stats)
 title:       Business Initiative
 email:       nickjackolaisen@gmail.com
 author:      Jack Nicholaisen
@@ -142,7 +138,6 @@ sass:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-redirect-from
 # https://github.com/jekyll/jekyll/issues/2938
 exclude:
   - Gemfile
