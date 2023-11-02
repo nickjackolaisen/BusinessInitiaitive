@@ -156,7 +156,7 @@ Here's the HTML code for a compound interest calculator:
 
 <script>
 function calculateCompoundInterest(principal, rate, time, compoundsPerPeriod) {
-  const factor = Math.pow((1 + ((rate/100) / compoundsPerPeriod))),(compoundsPerPeriod * time));
+  const factor = Math.pow((1 + ((rate/100) / compoundsPerPeriod)),compoundsPerPeriod * time);
   const compoundInterest = principal * factor - principal;
   return compoundInterest;
 }
@@ -236,7 +236,6 @@ document.getElementById('calculateBtn').addEventListener('click', () => {
   }
 });
 </script>
-</body>
 
 
 
