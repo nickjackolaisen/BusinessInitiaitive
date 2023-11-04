@@ -22,7 +22,7 @@ To easily compute the internal rate of return, you can use our simple calculator
 Just input the initial investment and cash flows for each period, then click "Calculate."
 
 <body>
-    <h2>Internal Rate of Return Calculator</h1>
+    <h3>Internal Rate of Return Calculator</h3>
     <form id="irr-calculator">
         <label for="initial-investment">Initial Investment:</label>
         <input type="number" id="initial-investment" required><br><br>
@@ -30,7 +30,7 @@ Just input the initial investment and cash flows for each period, then click "Ca
         <input type="text" id="cash-flows" placeholder="Example: 1000,2000,3000" required><br><br>
         <button type="button" onclick="calculateIRR()">Calculate</button>
     </form>
-    <h2>Internal Rate of Return: <span id="result"></span>%</h2>
+    <h3>Internal Rate of Return: <span id="result"></span>%</h3>
     <script>
         function calculateIRR() {
             const initialInvestment = parseFloat(document.getElementById("initial-investment").value);
