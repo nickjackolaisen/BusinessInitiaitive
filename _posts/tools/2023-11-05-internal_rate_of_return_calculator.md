@@ -2,6 +2,7 @@
 title: "Calculate Your Investment's Profitability with Our Internal Rate of Return Calculator - A Valuable Tool for Investors"
 layout: post
 date: 2023-11-05
+uopdate_date: 2023-11-06
 author: jack_nicholaisen
 summary: "Looking for a way to calculate your investment's profitability? Our Internal Rate of Return Calculator is just what you need!" 
 permalink: /tools/calculator/internal-rate-of-return/
@@ -77,7 +78,6 @@ Just input the initial investment and cash flows for each period, then click "Ca
             font-weight: bold;
         }
 </style>
-</html>
 
 ## Why is Internal Rate of Return Important?
 
