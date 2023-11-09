@@ -1,8 +1,8 @@
 ---
-title: "Calculate Your Investment's Profitability with Our Internal Rate of Return Calculator - A Valuable Tool for Investors"
+title: "Internal Rate of Return Calculator - Evaluate Your Investment's Profitability"
 layout: post
 date: 2023-11-05
-uopdate_date: 2023-11-06
+uopdate_date: 2023-11-09
 author: jack_nicholaisen
 summary: "Looking for a way to calculate your investment's profitability? Our Internal Rate of Return Calculator is just what you need!" 
 permalink: /tools/calculator/internal-rate-of-return/
@@ -78,6 +78,54 @@ Just input the initial investment and cash flows for each period, then click "Ca
             font-weight: bold;
         }
 </style>
+
+
+
+
+<h2>Internal Rate of Return Calculator</h2>
+  <script>
+    function calculateIRR() {
+      var initialInvestment = parseFloat(document.getElementById("initialInvestment").value);
+      var cashInflows = document.getElementById("cashInflows").value.split(",");
+      var cashFlows = [];
+      // Parse cash inflows and add initial investment as negative cash flow at the beginning
+      cashFlows.push(-initialInvestment);
+      for (var i = 0; i < cashInflows.length; i++) {
+        cashFlows.push(parseFloat(cashInflows[i]));
+      }
+      // Calculate IRR using Newton-Raphson method
+      var irr = 0.1; // Initial guess for IRR
+      var maxIterations = 1000;
+      var tolerance = 0.00001;
+      for (var i = 0; i < maxIterations; i++) {
+        var npv = 0;
+        var npvDerivative = 0;
+        for (var j = 0; j < cashFlows.length; j++) {
+          npv += cashFlows[j] / Math.pow(1 + irr, j);
+          npvDerivative -= j * cashFlows[j] / Math.pow(1 + irr, j + 1);
+        }
+        // Update IRR using Newton-Raphson method
+        irr = irr - npv / npvDerivative;
+        // Check for convergence
+        if (Math.abs(npv) < tolerance) {
+          break;
+        }
+      }
+      // Display the calculated IRR
+      document.getElementById("result").innerHTML = "Internal Rate of Return (IRR): " + (irr * 100).toFixed(2) + "%";
+    }
+  </script>
+<body>
+  <h3>Internal Rate of Return Calculator</h3>
+  <label for="initialInvestment">Initial Investment:</label>
+  <input type="number" id="initialInvestment" required><br>
+  <label for="cashInflows">Cash Inflows (comma-separated):</label>
+  <input type="text" id="cashInflows" placeholder="e.g., 10000,20000,15000" required><br>
+  <button onclick="calculateIRR()">Calculate IRR</button><br><br>
+  <div id="result"></div>
+</body>
+</html>
+
 
 ## Why is Internal Rate of Return Important?
 

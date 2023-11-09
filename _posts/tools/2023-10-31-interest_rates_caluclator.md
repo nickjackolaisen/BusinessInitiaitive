@@ -1,7 +1,8 @@
 ---
-title: "The Initiave Guide to Interest and Interest Rates for Business Owners"
+title: "Interest and Interest Rate Calculator for Entrepreneurs & Business Owners"
 layout: post
 date: 2023-10-31
+update_date: 2023-11-09
 author: jack_nicholaisen
 summary: "Boost your business success by mastering interest rates! Learn all about simple & compound interest in our comprehensive guide. 📈💼" 
 permalink: /tools/calculator/interest-and-interest-rates/

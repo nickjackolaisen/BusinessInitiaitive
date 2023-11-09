@@ -2,10 +2,11 @@
 title: "The Time Value of Money - The Initiative Guide to Understanding Present Value, Future Value, Net Present Value, & Internal Rate of Return"
 layout: post
 date: 2023-11-03
+update_date: 2023-11-09
 author: jack_nicholaisen
 summary: "Understand the worth of your investments with our guide to present value, future value, net present value, and internal rate of return."
 image: /images/posts-headers/time-value-of-money-header.png
-permalink: /business-tips/time-value-of-money/
+permalink: /section/time-value-of-money/
 tags: how to calculate present value, how to calculate future value, how to calculate net present value, how to calculate internal rate of return, what is present value, what is future value, what is net present value, what is internal rate of return, what is the time value of money, how to calculate the time value of money
 ---
 

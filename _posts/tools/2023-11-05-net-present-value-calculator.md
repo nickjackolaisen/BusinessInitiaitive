@@ -1,8 +1,8 @@
 ---
-title: "Net Present Value - Maximize Your Investment Potential"
+title: "Net Present Value Calculator- Maximize Your Investment Potential"
 layout: post
 date: 2023-11-05
-uopdate_date: 2023-11-06
+uopdate_date: 2023-11-09
 author: jack_nicholaisen
 summary: "Learn to calculate profitability with Net Present Value! Maximize your investment potential with this comprehensive guide. #NPV #InvestmentTips" 
 permalink: /tools/calculator/net-present-value/
