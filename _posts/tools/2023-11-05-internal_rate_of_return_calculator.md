@@ -58,7 +58,7 @@ Just input the initial investment and cash flows for each period, then click "Ca
   <h3>Internal Rate of Return Calculator</h3>
   <label for="initialInvestment">Initial Investment:</label>
   <input type="number" id="initialInvestment" required><br>
-  <label for="cashInflows">Cash Inflows (comma-separated):</label>
+  <label for="cashInflows">Cash Inflow for each period (comma-separated):</label>
   <input type="text" id="cashInflows" placeholder="e.g., 10000,20000,15000" required><br>
   <button onclick="calculateIRR()">Calculate IRR</button><br><br>
   <div id="result"></div>
