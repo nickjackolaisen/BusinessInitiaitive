@@ -22,68 +22,7 @@ To easily compute the internal rate of return, you can use our simple calculator
 
 Just input the initial investment and cash flows for each period, then click "Calculate."
 
-<body>
-    <h3>Internal Rate of Return Calculator</h3>
-    <form id="irr-calculator">
-        <label for="initial-investment">Initial Investment:</label>
-        <input type="number" id="initial-investment" required><br><br>
-        <label for="cash-flows">Cash Flows (comma-separated):</label>
-        <input type="text" id="cash-flows" placeholder="Example: 1000,2000,3000" required><br><br>
-        <button type="button" onclick="calculateIRR()">Calculate</button>
-    </form>
-    <h3>Internal Rate of Return: <span id="result"></span>%</h3>
-    <script>
-        function calculateIRR() {
-            const initialInvestment = parseFloat(document.getElementById("initial-investment").value);
-            const cashFlowsStr = document.getElementById("cash-flows").value;
-            const cashFlowsArr = cashFlowsStr.split(",").map(Number);
-            let lowerBound = 0;
-            let upperBound = 1;
-            let guessRate = (lowerBound + upperBound) / 2;
-            let npv;
-            do {
-                npv = -initialInvestment;
-                for (let i = 0; i < cashFlowsArr.length; i++) {
-                    npv += cashFlowsArr[i] / Math.pow(1 + guessRate, i + 1);
-                }
-                if (npv > 0) {
-                    lowerBound = guessRate;
-                } else {
-                    upperBound = guessRate;
-                }
-                guessRate = (lowerBound + upperBound) / 2;
-            } while (Math.abs(npv) > 1e-6);
-            const irr = guessRate * 100;
-            document.getElementById("result-irr").textContent = irr.toFixed(2);
-        }
-    </script>
-</body>
-<style>
-        body {
-            margin: 50px;
-        }
-        .calculator {
-            width: 300px;
-            margin: 0 auto;
-        }
-        .input-group {
-            margin-bottom: 10px;
-        }
-        input[type="number"] {
-            width: 100%;
-            padding: 8px;
-            box-sizing: border-box;
-        }
-        .result {
-            font-weight: bold;
-        }
-</style>
-
-
-
-
-<h2>Internal Rate of Return Calculator</h2>
-  <script>
+<script>
     function calculateIRR() {
       var initialInvestment = parseFloat(document.getElementById("initialInvestment").value);
       var cashInflows = document.getElementById("cashInflows").value.split(",");
@@ -114,7 +53,7 @@ Just input the initial investment and cash flows for each period, then click "Ca
       // Display the calculated IRR
       document.getElementById("result").innerHTML = "Internal Rate of Return (IRR): " + (irr * 100).toFixed(2) + "%";
     }
-  </script>
+</script>
 <body>
   <h3>Internal Rate of Return Calculator</h3>
   <label for="initialInvestment">Initial Investment:</label>
@@ -124,8 +63,26 @@ Just input the initial investment and cash flows for each period, then click "Ca
   <button onclick="calculateIRR()">Calculate IRR</button><br><br>
   <div id="result"></div>
 </body>
-</html>
-
+<style>
+        body {
+            margin: 50px;
+        }
+        .calculator {
+            width: 300px;
+            margin: 0 auto;
+        }
+        .input-group {
+            margin-bottom: 10px;
+        }
+        input[type="number"] {
+            width: 100%;
+            padding: 8px;
+            box-sizing: border-box;
+        }
+        .result {
+            font-weight: bold;
+        }
+</style>
 
 ## Why is Internal Rate of Return Important?
 
