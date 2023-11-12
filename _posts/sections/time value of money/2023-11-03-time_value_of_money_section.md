@@ -2,7 +2,7 @@
 title: "The Time Value of Money - The Initiative Guide to Understanding Present Value, Future Value, Net Present Value, & Internal Rate of Return"
 layout: post
 date: 2023-11-03
-update_date: 2023-11-09
+update_date: 2023-11-12
 author: jack_nicholaisen
 summary: "Understand the worth of your investments with our guide to present value, future value, net present value, and internal rate of return."
 image: /images/posts-headers/time-value-of-money-header.png
@@ -48,11 +48,15 @@ Present value represents the current worth of an amount of money that will be re
 
 PV can be calculated using the formula: 
 
-$PV = \frac{FV}{(1 + r)^n}$
+PV = FV / (1 + r)^n
 
-- $FV$ is the future value, 
-- $r$ is the interest rate, and 
-- $n$ is the number of periods.
+- FV is the future value, 
+- r is the interest rate, and 
+- n is the number of periods.
+
+<p>
+<b>➤ Try it out! </b> <a href="/tools/calculator/present-value/" target="_blank">Use Business Initiative's FREE Present Value Calculator</a>
+</p>
 
 ### 🔑  Future Value (FV):
 
@@ -60,11 +64,15 @@ Future value refers to the projected worth of an investment or cash flow at a sp
 
 FV can be calculated using the formula: 
 
-$FV = PV \times (1 + r)^n$
+FV = PV * (1 + r)^n
 
-- $PV$ is the present value, 
-- $r$ is the interest rate, and 
-- $n$ is the number of periods.
+- PV is the present value, 
+- r is the interest rate, and 
+- n is the number of periods.
+
+<p>
+<b>➤ Try it out! </b> <a href="/tools/calculator/future-value/" target="_blank">Use Business Initiative's FREE Future Value Calculator</a>
+</p>
 
 ### 🔑  Net Present Value (NPV):
 
@@ -74,13 +82,23 @@ It calculates the difference between the present value of cash inflows and outfl
 
 A positive NPV indicates a profitable investment, while a negative NPV suggests a loss.
 
-### 🔑  Internal Rate of Return (IRR):
+<p>
+<b>➤ Try it out! </b> <a href="/tools/calculator/net-present-value/" target="_blank">Use Business Initiative's FREE Net Present Value Calculator</a>
+</p>
+
+<h3><a href="/time-value-of-money/internal-rate-of-return/" target="_blank">🔑  Internal Rate of Return (IRR):</a></h3>
 
 The IRR is the interest rate at which the net present value of a project or investment becomes zero. 
 
 In other words, it's the break-even rate of return that an investor can expect from an investment. 
 
 IRR is useful for comparing different investment opportunities and identifying the most favorable one.
+
+<a href="/time-value-of-money/internal-rate-of-return/" target="_blank">Learn more...</a>
+
+<p>
+<b>➤ Try it out! </b> <a href="/tools/calculator/internal-rate-of-return/" target="_blank">Use Business Initiative's FREE Internal Rate of Return Calculator</a>
+</p>
 
 ### Real-Life Applications: Making Informed Financial Decisions
 

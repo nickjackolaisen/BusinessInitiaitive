@@ -55,7 +55,6 @@ Just input the initial investment and cash flows for each period, then click "Ca
     }
 </script>
 <body>
-  <h3>Internal Rate of Return Calculator</h3>
   <label for="initialInvestment">Initial Investment:</label>
   <input type="number" id="initialInvestment" required><br>
   <label for="cashInflows">Cash Inflow for each period (comma-separated):</label>
