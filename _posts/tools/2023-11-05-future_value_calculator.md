@@ -71,6 +71,118 @@ By calculating the future value of an investment, you can determine how much it 
 
 This information can help you make informed decisions about how to allocate your resources to achieve your financial goals.
 
+
+<body>
+  <h1>Investment Calculator</h1>
+  <label for="principal">Principal (Initial Investment):</label>
+  <input type="number" id="principal" placeholder="Enter initial investment"><br><br>
+  <label for="interestRate">Interest Rate (%):</label>
+  <input type="number" id="interestRate" placeholder="Enter interest rate"><br><br>
+  <label for="periods">Number of Periods:</label>
+  <input type="number" id="periods" placeholder="Enter number of periods"><br><br>
+  <label for="deposit">Periodic Deposit:</label>
+  <input type="number" id="deposit" placeholder="Enter periodic deposit amount"><br><br>
+  <label for="depositTiming">Deposit Timing:</label>
+  <select id="depositTiming">
+    <option value="end">End of Period</option>
+    <option value="start">Beginning of Period</option>
+  </select><br><br>
+  <button onclick="calculate()">Calculate</button><br><br>
+  <div id="chartContainer">
+    <canvas id="investmentChart"></canvas>
+  </div>
+  <script src="script.js"></script>
+</body>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+function calculate() {
+  const principal = parseFloat(document.getElementById('principal').value);
+  const interestRate = parseFloat(document.getElementById('interestRate').value) / 100;
+  const periods = parseInt(document.getElementById('periods').value);
+  const deposit = parseFloat(document.getElementById('deposit').value);
+  const depositTiming = document.getElementById('depositTiming').value;
+  let totalValue = principal;
+  let accumulatedInterest = 0;
+  let accumulatedDeposits = 0;
+  const data = [];
+  for (let i = 1; i <= periods; i++) {
+    let interest = totalValue * interestRate;
+    if (depositTiming === 'end') {
+      totalValue += interest + deposit;
+      accumulatedInterest += interest;
+      accumulatedDeposits += deposit;
+    } else {
+      totalValue += deposit + interest;
+      accumulatedInterest += interest;
+      accumulatedDeposits += deposit;
+    }
+    data.push({
+      period: i,
+      principal: principal,
+      accumulatedInterest: accumulatedInterest,
+      accumulatedDeposits: accumulatedDeposits,
+    });
+  }
+  // Rendering the chart
+  renderChart(data);
+}
+function renderChart(data) {
+  const periods = data.map(item => item.period);
+  const principalData = data.map(item => item.principal);
+  const interestData = data.map(item => item.accumulatedInterest);
+  const depositData = data.map(item => item.accumulatedDeposits);
+  const ctx = document.getElementById('investmentChart').getContext('2d');
+  const myChart = new Chart(ctx, {
+    type: 'bar',
+    data: {
+      labels: periods,
+      datasets: [
+        {
+          label: 'Initial Principle',
+          data: principalData,
+          backgroundColor: 'rgba(54, 162, 235, 0.5)',
+        },
+        {
+          label: 'Accumulated Interest',
+          data: interestData,
+          backgroundColor: 'rgba(255, 99, 132, 0.5)',
+        },
+        {
+          label: 'Accumulated Deposits',
+          data: depositData,
+          backgroundColor: 'rgba(75, 192, 192, 0.5)',
+        },
+      ],
+    },
+    options: {
+      scales: {
+        x: {
+          title: {
+            display: true,
+            text: 'Periods',
+          },
+          stacked: true,
+        },
+        y: {
+          title: {
+            display: true,
+            text: 'Value of Investment',
+          },
+          stacked: true,
+        },
+      },
+    },
+  });
+}
+</script>
+<style>
+    #chartContainer {
+      width: 600px;
+      margin: 20px auto;
+    }
+</style>
+
+
 ## How to Calculate Future Value
 
 To calculate the future value of an investment, you need to consider several factors, including:
