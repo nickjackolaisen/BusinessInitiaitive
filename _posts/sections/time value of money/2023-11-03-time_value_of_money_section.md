@@ -58,7 +58,7 @@ PV = FV / (1 + r)^n
 <b>➤ Try it out! </b> <a href="/tools/calculator/present-value/" target="_blank">Use Business Initiative's FREE Present Value Calculator</a>
 </p>
 
-### 🔑  Future Value (FV):
+<h3><a href="/time-value-of-money/future-value/" target="_blank">🔑  Future Value (FV):</a></h3>
 
 Future value refers to the projected worth of an investment or cash flow at a specific point in the future, based on a given rate of return. 
 
@@ -69,6 +69,8 @@ FV = PV * (1 + r)^n
 - PV is the present value, 
 - r is the interest rate, and 
 - n is the number of periods.
+
+<a href="/time-value-of-money/future-value/" target="_blank">Learn more...</a>
 
 <p>
 <b>➤ Try it out! </b> <a href="/tools/calculator/future-value/" target="_blank">Use Business Initiative's FREE Future Value Calculator</a>
