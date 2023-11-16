@@ -1,7 +1,7 @@
 ---
 title: "What is Future Value and How You can Use it to Maximize Returns and Secure Your Financial Future"
 layout: post
-date: 2023-11-16
+date: 2023-11-15
 author: jack_nicholaisen
 summary: "Learn how to calculate the future value of your investments with our comprehensive guide. Maximize your returns and secure your financial future today!"
 image: /images/posts-headers/time-value-of-money-fv-header.png

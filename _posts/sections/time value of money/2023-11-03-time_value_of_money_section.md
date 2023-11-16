@@ -2,7 +2,7 @@
 title: "The Time Value of Money - The Initiative Guide to Understanding Present Value, Future Value, Net Present Value, & Internal Rate of Return"
 layout: post
 date: 2023-11-03
-update_date: 2023-11-12
+update_date: 2023-11-15
 author: jack_nicholaisen
 summary: "Understand the worth of your investments with our guide to present value, future value, net present value, and internal rate of return."
 image: /images/posts-headers/time-value-of-money-header.png
@@ -34,9 +34,26 @@ So sit back, relax, and let's dive into the world of finance together!
 The time value of money (TVM) is a fundamental concept in finance that acknowledges the fact that a dollar today is worth more than a dollar tomorrow. 
 
 This principle is based on the idea that money can be invested to earn interest or returns over time, making it more valuable now rather than later. 
-<a id="fundementals"> 
 
 Understanding TVM is crucial for making informed financial decisions, whether it's for personal investments or business endeavors.
+
+## Practical Use of These Concepts in Financial Decision-Making
+
+Understanding these concepts is critical for making informed financial decisions. 
+
+For example, knowing how to calculate PV and FV can help you decide whether to invest in a particular opportunity or save your money for a future date. 
+<a id="individuals-and-businesses"> 
+
+Similarly, knowing how to calculate NPV and IRR can help you evaluate the profitability of different investment opportunities and choose the one that best fits your goals and risk tolerance.
+
+## Importance of the Time Value of Money Concept for Individuals and Businesses
+
+Finally, understanding the time value of money is essential for both **individuals** and **businesses**. 
+<a id="fundementals"> 
+
+**For individuals**, it can help them make better decisions about saving for retirement, buying a house, or investing in stocks. 
+
+**For businesses**, it can help them evaluate different projects and investments and choose the ones that are most likely to generate a positive return on investment.
 
 ## Exploring Key Fundementals: Present Value, Future Value, Net Present Value, and Internal Rate of Return
 
@@ -117,6 +134,60 @@ For example:
 
 By mastering the time value of money and its related concepts, you'll be better equipped to make informed financial decisions that optimize your wealth and secure your financial future.
 
+## Importance of PV, FV, NPV, and IRR
+
+PV and FV are essential concepts in finance that help us understand the time value of money. 
+
+By discounting future cash flows to their present value (PV), we can compare them with current cash flows and make informed decisions about investments and savings. 
+
+FV, on the other hand, helps us understand how much an investment will be worth in the future based on its current value and the expected rate of return.
+
+NPV and IRR are also crucial concepts in finance that help us evaluate the profitability of an investment. 
+
+NPV calculates the difference between an investment's cash inflows and outflows in today's dollars, while IRR represents the expected rate of return for an investment.
+
+## The Role of Technology in Present and Future Value Calculations
+
+As technology advances, so do the tools available for present and future value calculations. 
+
+Financial calculators and software have become increasingly accessible and user-friendly, allowing individuals to make informed financial decisions without needing a degree in finance.
+
+Online resources such as Investopedia, Khan Academy, and Coursera offer free courses on financial topics including present and future value calculations. 
+
+These courses provide a comprehensive overview of the concepts involved, as well as interactive exercises to practice applying them.
+
+One example of a popular financial calculator is the HP 12C, which has been widely used by professionals in the finance industry since its release in 1981. 
+
+This calculator can perform complex financial calculations including present value, future value, net present value, internal rate of return, and annuity payments.
+
+Accuracy is key when using any tool or software for financial calculations. 
+
+It's important to double-check all inputs and assumptions before making any decisions based on the results. 
+
+Even small errors can lead to significant discrepancies in the final calculation.
+
+Overall, technology has made present and future value calculations more accessible and easier to perform for both individuals and businesses alike. 
+
+However, it's important to remember that these tools are only as accurate as the inputs provided. 
+
+Careful consideration should be given to all factors involved before making any major financial decision.
+
+### Future Value vs. Inflation
+
+When planning for long-term financial goals such as retirement or college savings accounts, one important factor to consider is inflation. 
+
+Inflation refers to the increase in prices of goods and services over time. 
+
+As inflation rises over time, it reduces your purchasing power and makes it more difficult to achieve your financial goals.
+
+To account for inflation when calculating future values of investments or savings accounts we use a modified formula:
+
+FV = PV x (1 + i - inflation)^n
+
+where FV is future value; PV is present value; i is interest rate; inflation refers to annualized rate of general inflation; and n represents number of periods.
+
+By accounting for inflation in our calculation of future values using this modified formula we can make sure that our future financial goals are achievable despite rising costs due to inflation.
+
 ## The Importance of NPV in Evaluating Business Projects
 
 When you're deciding whether to invest in a new project, NPV is a really helpful tool. 
@@ -137,6 +208,18 @@ The company calculated an NPV of $500 million for this investment, indicating th
 
 At the end of the day, understanding how to use NPV in practice is critical for making sound financial decisions that maximize profitability and create long-term value for businesses.
 
+## Limitations of Net Present Value
+
+While NPV is a useful tool for evaluating investments and projects, it does have its limitations. One major limitation is that it relies heavily on the accuracy of cash flow estimates. 
+
+If cash flow estimates are inaccurate, the resulting NPV calculation may be misleading.
+
+Another limitation of NPV is that it can be sensitive to changes in discount rate. 
+
+A small change in the discount rate can lead to significant changes in the calculated NPV, which can make it difficult to compare projects with different discount rates.
+
+Despite these limitations, NPV remains an important tool for financial decision-making due to its ability to consider the time value of money and account for all cash flows involved in an investment or project.
+
 ## Limitations of IRR
 
 IRR is a useful way to compare investments, but it has some problems.
@@ -149,35 +232,6 @@ So, you shouldn't rely only on IRR to make investment decisions.
 <a id="practical-application"> 
 
 You should also use other tools like NPV or payback period analysis for instance.
-
-## Importance and Applications of PV, FV, NPV, and IRR
-
-PV and FV are essential concepts in finance that help us understand the time value of money. 
-
-By discounting future cash flows to their present value (PV), we can compare them with current cash flows and make informed decisions about investments and savings. 
-
-FV, on the other hand, helps us understand how much an investment will be worth in the future based on its current value and the expected rate of return.
-
-NPV and IRR are also crucial concepts in finance that help us evaluate the profitability of an investment. 
-
-NPV calculates the difference between an investment's cash inflows and outflows in today's dollars, while IRR represents the expected rate of return for an investment.
-
-## Practical Use of These Concepts in Financial Decision-Making
-
-Understanding these concepts is critical for making informed financial decisions. 
-
-For example, knowing how to calculate PV and FV can help you decide whether to invest in a particular opportunity or save your money for a future date. 
-<a id="individuals-and-businesses"> 
-
-Similarly, knowing how to calculate NPV and IRR can help you evaluate the profitability of different investment opportunities and choose the one that best fits your goals and risk tolerance.
-
-## Importance of the Time Value of Money Concept for Individuals and Businesses
-
-Finally, understanding the time value of money is essential for both **individuals** and **businesses**. 
-
-**For individuals**, it can help them make better decisions about saving for retirement, buying a house, or investing in stocks. 
-
-**For businesses**, it can help them evaluate different projects and investments and choose the ones that are most likely to generate a positive return on investment.
 
 ## In Summary...
 
@@ -222,13 +276,14 @@ Here are some common questions people have about present value, future value, ne
 <p>The time value of money recognizes that money can be invested to earn interest or returns over time, making it more valuable now rather than later.</p>
 <p>This principle has significant implications for financial decision-making and can impact everything from saving for retirement to evaluating business projects.</p>
 </details>
+
 <h3>How do I calculate present value?</h3>
 <p>Present value represents the current worth of an amount of money that will be received in the future, discounted by a specific rate of return (or interest rate).</p>
 <details>
 <summary><b>Learn more...</b></summary>
 <br>
 <p>Calculating PV involves discounting future cash flows to their present value based on an expected rate of return.</p>
-<p>To calculate PV, use this formula: $PV = \frac{FV}{(1 + r)^n}$.</p>
+<p>To calculate PV, use this formula: PV = FV / (1 + r)^n.</p>
 <p>This calculation helps us compare different investment opportunities and determine whether they are worthwhile.</p>
 </details>
 
@@ -268,6 +323,23 @@ Here are some common questions people have about present value, future value, ne
 <p>Understanding PV, FV, NPV, and IRR can help individuals and businesses make better choices about investing, saving, and spending their money.</p>
 <p>For example, they can help us calculate the true cost of taking out a loan or mortgage, understand the potential returns of different investment opportunities such as stocks or bonds, and even evaluate the financial viability of business projects such as expansions or new product launches.</p>
 <p>Real-world examples include Coca-Cola's use of NPV analysis when investing in China between 2009-2011.</p>
+</details>
+
+<br>
+<details>
+<summary><b>Sources & Additional Information</b></summary>
+<br>
+<ul>
+    <li><a href="https://www.calculatorsoup.com/calculators/financial/present-value-calculator.php">Present Value Calculator</a></li>
+    <li><a href="https://www.calculatorsoup.com/calculators/financial/future-value-calculator.php">Future Value Calculator</a></li>
+    <li><a href="https://www.usinflationcalculator.com/">Inflation Calculator</a></li>
+    <li><a href="https://www.investopedia.com/terms/n/npv.asp">Investopedia article on Net Present Value</a></li>
+    <li><a href="https://www.investopedia.com/">Investopedia</a></li>
+    <li><a href="https://www.khanacademy.org/">Khan Academy</a></li>
+    <li><a href="https://www.coursera.org/">Coursera</a></li>
+    <li><a href="https://www.hp.com/us-en/shop/tech-takes/how-to-use-an-hp12c-financial-calculator">HP 12C Calculator</a></li>
+    <li><a href="https://www.forbes.com/sites/tomanderson/2018/11/13/the-importance-of-data-entry-for-financial-modeling/?sh=4dfdc6e34b7a">Importance of Accurate Inputs</a></li>
+</ul>
 </details>
 
 
