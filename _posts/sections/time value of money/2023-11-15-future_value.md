@@ -64,6 +64,10 @@ Where:
 -   r = Interest Rate
 -   n = Number of Periods
 
+<p>
+<b>➤ Try it out! </b> <a href="/tools/calculator/present-value/" target="_blank">Use Business Initiative's FREE Present Value Calculator</a>
+</p>
+
 ## 4 Step Process: How to Calculate Future Value?
 
 **1.**  Determine the present value (PV) of the investment. This is the initial amount of money you invest.

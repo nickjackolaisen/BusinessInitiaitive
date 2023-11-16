@@ -59,7 +59,7 @@ Finally, understanding the time value of money is essential for both **individua
 
 To fully grasp the time value of money, it's essential to learn about its main concepts:
 
-### 🔑  Present Value (PV):
+<h3><a href="/time-value-of-money/present-value/" target="_blank">🔑  Present Value (PV):</a></h3>
 
 Present value represents the current worth of an amount of money that will be received in the future, discounted by a specific rate of return (or interest rate). 
 
@@ -70,6 +70,8 @@ PV = FV / (1 + r)^n
 - FV is the future value, 
 - r is the interest rate, and 
 - n is the number of periods.
+
+<a href="/time-value-of-money/present-value/" target="_blank">Learn more...</a>
 
 <p>
 <b>➤ Try it out! </b> <a href="/tools/calculator/present-value/" target="_blank">Use Business Initiative's FREE Present Value Calculator</a>
@@ -184,7 +186,11 @@ To account for inflation when calculating future values of investments or saving
 
 FV = PV x (1 + i - inflation)^n
 
-where FV is future value; PV is present value; i is interest rate; inflation refers to annualized rate of general inflation; and n represents number of periods.
+- FV is future value
+- PV is present value
+- i is interest rate
+- Inflation refers to annualized rate of general inflation
+- n represents number of periods
 
 By accounting for inflation in our calculation of future values using this modified formula we can make sure that our future financial goals are achievable despite rising costs due to inflation.
 
