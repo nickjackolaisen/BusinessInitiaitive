@@ -95,13 +95,15 @@ FV = PV * (1 + r)^n
 <b>➤ Try it out! </b> <a href="/tools/calculator/future-value/" target="_blank">Use Business Initiative's FREE Future Value Calculator</a>
 </p>
 
-### 🔑  Net Present Value (NPV):
+<h3><a href="/time-value-of-money/net-present-value/" target="_blank">🔑  Net Present Value (NPV):</a></h3>
 
 NPV is a financial metric used to evaluate the profitability of an investment or project. 
 
-It calculates the difference between the present value of cash inflows and outflows over a period of time and helps determine if an investment is worthwhile. 
+It calculates the difference between the present value of cash inflows and outflows over a period of time and helps determine if an investment is worthwhile.
 
 A positive NPV indicates a profitable investment, while a negative NPV suggests a loss.
+
+<a href="/time-value-of-money/net-present-value/" target="_blank">Learn more...</a>
 
 <p>
 <b>➤ Try it out! </b> <a href="/tools/calculator/net-present-value/" target="_blank">Use Business Initiative's FREE Net Present Value Calculator</a>

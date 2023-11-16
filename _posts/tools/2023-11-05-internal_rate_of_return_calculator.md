@@ -16,6 +16,8 @@ It is the discount rate at which the net present value (NPV) of an investment's 
 
 In simpler terms, IRR represents the percentage rate earned on each dollar invested for each period it is invested.
 
+<a href="/time-value-of-money/internal-rate-of-return/" target="_blank">Find out how using Interal Rate of Return can enure your next investment is the goldmine you think it is!</a>
+
 ## Internal Rate of Return Calculator
 
 To easily compute the internal rate of return, you can use our simple calculator. 

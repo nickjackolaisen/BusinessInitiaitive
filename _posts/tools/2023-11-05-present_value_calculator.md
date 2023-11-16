@@ -14,6 +14,8 @@ Present value is a financial concept that helps individuals and businesses deter
 
 It is an essential tool for making informed financial decisions.
 
+<a href="/time-value-of-money/present-value/" target="_blank">Learn more about to properly use Present Value in your business</a>
+
 ## Present Value Calculator
 
 To easily compute the present value, you can use this simple calculator. 

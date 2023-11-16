@@ -121,13 +121,33 @@ PV = $1,276.28 / (1 + 0.05)^5 = $1,000
 
 So the present value of your investment would be $1,000.
 
-**An additional example** to make this more clear, if you receive a payment of $10,000 five years from now and the discount rate is 5%, then your present value would be:
+## Examples of Present Value
+
+To better understand how present value works, let's consider a few examples.
+
+If you receive a payment of $10,000 five years from now and the discount rate is 5%, then your present value would be:
 
 PV = $10,000 / (1 + 0.05)^5
 
 PV = **$7,835.27**
 
 This means that if you were to invest $7,835.27 today at a 5% annual interest rate, it would grow to $10,000 in five years.
+
+**As another example**, suppose you have the option to receive $10,000 in two years or $8,000 today. 
+
+The discount rate is 5%. Using the formula for calculating present value, we can determine which option is more valuable.
+
+PV = FV / (1 + r)^n
+
+where PV is the present value, FV is the future value, r is the discount rate, and n is the time period.
+
+Using this formula, we can calculate that the present value of receiving $10,000 in two years at a 5% discount rate is approximately $9,070. 
+
+On the other hand, the present value of receiving $8,000 today is exactly $8,000. 
+
+Therefore, it would be more advantageous to choose to receive $8,000 today rather than waiting for two years to receive $10,000.
+
+This simple example demonstrates how understanding present value calculations can help individuals make better financial decisions.
 
 By following these steps and understanding how interest rates and time periods impact present value, you'll be better equipped to make informed financial decisions that maximize your wealth and secure your long-term financial goals.
 

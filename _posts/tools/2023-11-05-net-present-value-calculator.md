@@ -14,6 +14,8 @@ Net Present Value (NPV) is a financial tool used to determine the present value 
 
 In other words, it helps investors calculate the current value of an investment based on its expected future earnings.
 
+<a href="/time-value-of-money/net-present-value/" target="_blank">Explore the vast ways Net Present Value can be used to boost your business growth!</a>
+
 ## Net Present Value Calculator
 
 To easily compute the net present value, you can use this simple calculator. 

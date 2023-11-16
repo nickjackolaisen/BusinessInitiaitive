@@ -239,6 +239,8 @@ NPV ≈ $1,337,000
 
 With a positive NPV of approximately $1.34 million, the project is expected to be profitable and may be worth pursuing for the construction company.
 
+<a href="/time-value-of-money/net-present-value/" target="_blank">Discover NPV can help you evaluate your next investment</a>
+
 ### Estimating returns on investments:
 
 Businesses also use future value calculations to estimate the returns on their investments. 
