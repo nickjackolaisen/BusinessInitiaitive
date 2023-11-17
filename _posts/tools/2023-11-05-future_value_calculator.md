@@ -197,6 +197,157 @@ To calculate the future value of an investment, you need to consider several fac
 
 Using these variables, you can use a formula or an online calculator to determine the estimated future value of your investment.
 
+
+
+<h3>Investment Calculator</h3>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <style>
+    #result-box {
+      width: 300px;
+      margin: 20px auto;
+      padding: 10px;
+      border: 1px solid #ccc;
+      text-align: center;
+    }
+    canvas {
+      display: block;
+      margin: 20px auto;
+      max-width: 600px;
+    }
+  </style>
+</head>
+<body>
+  <div>
+    <label for="principle">Principle (Initial Investment):</label>
+    <input type="number" id="principle" required><br><br>
+    <label for="interestRate">Interest Rate (%):</label>
+    <input type="number" id="interestRate" step="0.01" required><br><br>
+    <label for="periods">Number of Periods:</label>
+    <input type="number" id="periods" required><br><br>
+    <label for="deposit">Periodic Deposit:</label>
+    <input type="number" id="deposit" required><br><br>
+    <label for="depositType">Deposit at:</label>
+    <select id="depositType">
+      <option value="end">End of Period</option>
+      <option value="start">Beginning of Period</option>
+    </select><br><br>
+    <button onclick="calculate()">Calculate</button>
+  </div>
+
+  <div id="result-box">
+    <h2>Future Value</h2>
+    <p id="futureValue"></p>
+  </div>
+
+  <canvas id="barChart"></canvas>
+
+  <script>
+    function calculate() {
+      const principle = parseFloat(document.getElementById('principle').value);
+      const interestRate = parseFloat(document.getElementById('interestRate').value);
+      const periods = parseInt(document.getElementById('periods').value);
+      const deposit = parseFloat(document.getElementById('deposit').value);
+      const depositType = document.getElementById('depositType').value;
+
+      const data = [];
+      let totalValue = principle;
+      let interest, totalDeposits;
+
+      for (let i = 1; i <= periods; i++) {
+        interest = (totalValue * interestRate) / 100;
+
+        if (depositType === 'end') {
+          totalValue += deposit;
+          totalDeposits = deposit * periods;
+        } else {
+          totalValue += deposit;
+          if (i !== periods) {
+            totalDeposits = deposit * (periods - 1);
+          } else {
+            totalDeposits = deposit * periods;
+          }
+        }
+
+        totalValue += interest;
+        data.push({
+          period: i,
+          principle,
+          interest,
+          deposits: totalDeposits,
+          total: totalValue,
+        });
+      }
+
+      displayResult(totalValue);
+      createChart(data);
+    }
+
+    function displayResult(value) {
+      const resultBox = document.getElementById('result-box');
+      const futureValueParagraph = document.getElementById('futureValue');
+      futureValueParagraph.textContent = `$${value.toFixed(2)}`;
+      resultBox.style.display = 'block';
+    }
+
+    function createChart(data) {
+      const ctx = document.getElementById('barChart').getContext('2d');
+
+      const periods = data.map(item => item.period);
+      const principles = data.map(item => item.principle);
+      const interests = data.map(item => item.interest);
+      const deposits = data.map(item => item.deposits);
+      const totals = data.map(item => item.total);
+
+      const chart = new Chart(ctx, {
+        type: 'bar',
+        data: {
+          labels: periods,
+          datasets: [
+            {
+              label: 'Principle',
+              data: principles,
+              backgroundColor: 'rgba(54, 162, 235, 0.5)',
+            },
+            {
+              label: 'Interest',
+              data: interests,
+              backgroundColor: 'rgba(255, 99, 132, 0.5)',
+            },
+            {
+              label: 'Deposits',
+              data: deposits,
+              backgroundColor: 'rgba(75, 192, 192, 0.5)',
+            },
+            {
+              label: 'Total',
+              data: totals,
+              backgroundColor: 'rgba(153, 102, 255, 0.5)',
+            },
+          ],
+        },
+        options: {
+          scales: {
+            x: {
+              title: {
+                display: true,
+                text: 'Periods',
+              },
+              stacked: true,
+            },
+            y: {
+              title: {
+                display: true,
+                text: 'Value of Investment',
+              },
+              stacked: true,
+            },
+          },
+        },
+      });
+    }
+  </script>
+</body>
+
 ## Tips for Using Future Value Properly
 
 When using future value calculations to make financial decisions, it's important to keep in mind that they are estimates based on assumptions about interest rates and other factors. 
