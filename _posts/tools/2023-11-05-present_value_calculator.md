@@ -103,8 +103,8 @@ This information allows you to compare the potential return on investment with o
   <div id="presentValueResult" style="border: 1px solid black; padding: 10px;"></div>
   
   <!-- Chart Canvas -->
-  <canvas id="pieChart" width="400" height="400"></canvas>
-  <canvas id="barChart" width="400" height="400"></canvas>
+  <canvas id="pieChart" width="20%" height="auto"></canvas>
+  <canvas id="barChart" width="70%" height="auto"></canvas>
   
   <script>
     // Function to calculate present value of future money

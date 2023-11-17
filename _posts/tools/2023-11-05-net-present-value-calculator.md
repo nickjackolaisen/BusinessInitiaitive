@@ -93,6 +93,99 @@ NPV is important because it helps investors make informed decisions about whethe
 
 By calculating the NPV, investors can weigh the potential risks and rewards associated with an investment and determine its overall profitability.
 
+
+<h3>NPV Calculator</h3>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<style>
+    #result {
+      border: 1px solid #ccc;
+      padding: 10px;
+      margin-top: 20px;
+      width: 300px;
+    }
+    canvas {
+      margin-top: 20px;
+    }
+</style>
+
+<h3>Net Present Value Calculator</h3>
+
+<form id="npvForm">
+  <label for="interestRate">Interest Rate (Discount Rate):</label>
+  <input type="number" id="interestRate" step="any" required><br><br>
+
+  <label for="compounds">Compounds Per Period:</label>
+  <input type="number" id="compounds" required><br><br>
+
+  <label for="cashflows">Cashflows:</label>
+  <select id="cashflows">
+    <option value="beginning">Apply Cashflows at Beginning</option>
+    <option value="end">Apply Cashflows at End</option>
+  </select><br><br>
+
+  <label for="numLines">Number of Cashflow Lines:</label>
+  <input type="number" id="numLines" required><br><br>
+
+  <button type="button" onclick="calculateNPV()">Calculate NPV</button>
+</form>
+
+<div id="result"></div>
+<canvas id="npvChart" width="400" height="200"></canvas>
+
+<script>
+  function calculateNPV() {
+    const interestRate = parseFloat(document.getElementById('interestRate').value);
+    const compounds = parseInt(document.getElementById('compounds').value);
+    const cashflowType = document.getElementById('cashflows').value;
+    const numLines = parseInt(document.getElementById('numLines').value);
+
+    let cashflows = [];
+    for (let i = 0; i < numLines; i++) {
+      cashflows.push(parseFloat(prompt(`Enter Cashflow ${i + 1}:`)));
+    }
+
+    let npv = 0;
+    for (let i = 0; i < cashflows.length; i++) {
+      if (cashflowType === 'beginning') {
+        npv += cashflows[i] / Math.pow(1 + interestRate / compounds, i + 1);
+      } else {
+        npv += cashflows[i] / Math.pow(1 + interestRate / compounds, i);
+      }
+    }
+
+    const resultDiv = document.getElementById('result');
+    resultDiv.innerHTML = `<p>Net Present Value: $${npv.toFixed(2)}</p>`;
+
+    const ctx = document.getElementById('npvChart').getContext('2d');
+    const labels = [];
+    for (let i = 0; i < numLines; i++) {
+      labels.push(`Year ${i}`);
+    }
+
+    const chart = new Chart(ctx, {
+      type: 'bar',
+      data: {
+        labels: labels,
+        datasets: [{
+          label: 'Cashflows',
+          data: cashflows,
+          backgroundColor: 'rgba(54, 162, 235, 0.5)',
+          borderColor: 'rgba(54, 162, 235, 1)',
+          borderWidth: 1
+        }]
+      },
+      options: {
+        scales: {
+          y: {
+            beginAtZero: true
+          }
+        }
+      }
+    });
+  }
+</script>
+
+
 ## How to Use Net Present Value Properly
 
 To use NPV properly, you first need to gather all relevant data related to your investment, including initial costs, expected cash flows, and discount rate. 
