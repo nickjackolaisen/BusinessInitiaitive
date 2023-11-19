@@ -22,44 +22,62 @@ To easily compute the present value, you can use this simple calculator.
 
 Just input the necessary values and click "Calculate."
 
-<h3>Present Value Calculator</h3>
-  <!-- Link Chart.js library -->
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-<style>
+
+  <h3>Present Value Calculator</h3>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <style>
     /* CSS for styling purposes */
+    #calculator {
+      width: 600px;
+      margin: 0 auto;
+      text-align: center;
+      border: 1px solid #ccc;
+      padding: 20px;
+      margin-top: 20px;
+    }
     #result {
       width: 300px;
       height: 50px;
       border: 1px solid #000;
-      margin-bottom: 20px;
+      margin: 20px auto;
       padding: 10px;
     }
     #charts {
       display: flex;
       justify-content: space-between;
+      margin: 0 auto;
+      width: 100%;
+      max-width: 1000px;
     }
     canvas {
       margin-top: 20px;
+      width: 48%;
+      height: auto;
     }
-</style>
+  </style>
+</head>
 <body>
-  <h1>Present Value Calculator</h1>
-  <label for="futureValue">Future Value:</label>
-  <input type="number" id="futureValue"><br><br>
-  
-  <label for="periods">Number of Periods:</label>
-  <input type="number" id="periods"><br><br>
-  
-  <label for="interestRate">Interest Rate (%):</label>
-  <input type="number" id="interestRate"><br><br>
-  
-  <button onclick="calculatePresentValue()">Calculate</button>
-  
-  <div id="result"></div>
+  <div id="calculator">
+    <h1>Present Value Calculator</h1>
+    <div id="userInputs">
+      <label for="futureValue">Future Value:</label>
+      <input type="number" id="futureValue"><br><br>
+      
+      <label for="periods">Number of Periods:</label>
+      <input type="number" id="periods"><br><br>
+      
+      <label for="interestRate">Interest Rate (%):</label>
+      <input type="number" id="interestRate"><br><br>
+      
+      <button onclick="calculatePresentValue()">Calculate</button>
+    </div>
+    
+    <div id="result"></div>
+  </div>
   
   <div id="charts">
-    <canvas id="barChart" width="200" height="150"></canvas>
-    <canvas id="pieChart" width="200" height="150"></canvas>
+    <canvas id="barChart"></canvas>
+    <canvas id="pieChart"></canvas>
   </div>
 
   <script src="script.js"></script>
@@ -76,7 +94,7 @@ function calculatePresentValue() {
   const presentValue = futureValue / Math.pow((1 + interestRate), periods);
 
   // Display present value
-  document.getElementById('result').innerHTML = `Present Value: ${presentValue.toFixed(2)}`;
+  document.getElementById('result').innerHTML = `<p>Present Value: ${presentValue.toFixed(2)}</p>`;
 
   // Chart data
   const initialPrincipal = [];
@@ -142,6 +160,7 @@ function calculatePresentValue() {
   });
 }
 </script>
+
 
 ## Why is Present Value Important?
 
