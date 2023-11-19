@@ -22,8 +22,6 @@ To easily compute the present value, you can use this simple calculator.
 
 Just input the necessary values and click "Calculate."
 
-
-  <h3>Present Value Calculator</h3>
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <style>
     /* CSS for styling purposes */
@@ -46,8 +44,7 @@ Just input the necessary values and click "Calculate."
       display: flex;
       justify-content: space-between;
       margin: 0 auto;
-      width: 100%;
-      max-width: 1000px;
+      width: 70%;
     }
     canvas {
       margin-top: 20px;
@@ -55,23 +52,19 @@ Just input the necessary values and click "Calculate."
       height: auto;
     }
   </style>
-</head>
+
 <body>
   <div id="calculator">
-    <h1>Present Value Calculator</h1>
+    <h3>Present Value Calculator</h3>
     <div id="userInputs">
       <label for="futureValue">Future Value:</label>
       <input type="number" id="futureValue"><br><br>
-      
       <label for="periods">Number of Periods:</label>
       <input type="number" id="periods"><br><br>
-      
       <label for="interestRate">Interest Rate (%):</label>
       <input type="number" id="interestRate"><br><br>
-      
       <button onclick="calculatePresentValue()">Calculate</button>
     </div>
-    
     <div id="result"></div>
   </div>
   
