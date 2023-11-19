@@ -22,21 +22,7 @@ To easily compute the present value, you can use this simple calculator.
 
 Just input the necessary values and click "Calculate."
 
-<h3>Present Value Calculator</h3>
-  <style>
-    .calculator {
-      margin: 20px auto;
-      padding: 20px;
-      border: 1px solid #ccc;
-      width: 300px;
-      text-align: left; /* Align inputs to the left */
-    }
-    input[type="number"],
-    input[type="text"] {
-      width: calc(100% - 12px); /* Adjusting input width */
-      margin-bottom: 10px;
-      padding: 5px;
-    }
+<style>
     #result {
       margin-top: 20px;
       border: 1px solid #ccc;
@@ -49,21 +35,16 @@ Just input the necessary values and click "Calculate."
     #result p {
       font-weight: bold; /* Make the result bold */
     }
-  </style>
+</style>
 <body>
-<div class="calculator">
-  <h2>Present Value Calculator</h2>
   <label for="futureValue">Future Value:</label>
   <input type="number" id="futureValue" placeholder="Enter Future Value"><br>
-
   <label for="periods">Number of Periods:</label>
   <input type="number" id="periods" placeholder="Enter Number of Periods"><br>
-
   <label for="interestRate">Interest Rate (%):</label>
   <input type="number" id="interestRate" placeholder="Enter Interest Rate"><br>
 
   <button onclick="calculatePresentValue()">Calculate</button>
-</div>
 
 <div id="result"></div>
 </body>

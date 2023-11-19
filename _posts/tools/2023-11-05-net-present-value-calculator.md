@@ -42,9 +42,6 @@ Just input the necessary values and click "Calculate."
     }
   </style>
 <body>
-
-<div id="calculator">
-  <h2>Net Present Value Calculator</h2>
   <label for="interestRate">Interest Rate (discount rate):</label>
   <input type="number" id="interestRate" step="0.01" placeholder="Interest Rate (%)"><br><br>
 
@@ -61,7 +58,6 @@ Just input the necessary values and click "Calculate."
   <input type="number" id="numLines" placeholder="Number of Lines"><br><br>
 
   <button onclick="calculateNPV()">Calculate NPV</button>
-</div>
 
 <div id="resultBox">
   <h2>Net Present Value Result</h2>

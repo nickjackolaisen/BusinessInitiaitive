@@ -27,15 +27,6 @@ Just input the initial investment and cash flows for each period, then click "Ca
 
   <h3>Internal Rate of Return (IRR) Calculator</h3>
   <style>
-    body {
-      font-family: Arial, sans-serif;
-      text-align: center;
-    }
-    #input-container {
-      text-align: left;
-      margin: 20px auto;
-      width: 300px;
-    }
     #result-box {
       width: 300px;
       margin: 20px auto;
@@ -46,7 +37,6 @@ Just input the initial investment and cash flows for each period, then click "Ca
   </style>
 </head>
 <body>
-  <div id="input-container">
     <label for="initial-investment">Initial Investment:</label>
     <input type="number" id="initial-investment">
     <br><br>
@@ -57,7 +47,6 @@ Just input the initial investment and cash flows for each period, then click "Ca
     <input type="text" id="cash-flows">
     <br><br>
     <button onclick="calculateIRR()">Calculate IRR</button>
-  </div>
 
   <div id="result-box"></div>
 

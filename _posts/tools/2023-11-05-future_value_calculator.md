@@ -54,18 +54,17 @@ Just input the necessary values and click "Calculate."
     }
   </script>
 <body>
-  <h3>Future Value Calculator</h3>
   <label for="principle">Principle (Initial Investment):</label>
-  <input type="number" id="principle" step="any" /><br><br>
+  <input type="number" id="principle" step="any" placeholder="Enter Initial Investment Value"/><br><br>
   
   <label for="interestRate">Interest Rate (%):</label>
-  <input type="number" id="interestRate" step="any" /><br><br>
+  <input type="number" id="interestRate" step="any" placeholder="Enter Interest Rate Percentage"><br><br>
   
   <label for="periods">Number of Periods:</label>
-  <input type="number" id="periods" step="any" /><br><br>
+  <input type="number" id="periods" step="any" placeholder="Enter Number of Periods"><br><br>
   
   <label for="periodicDeposit">Periodic Deposit:</label>
-  <input type="number" id="periodicDeposit" step="any" /><br><br>
+  <input type="number" id="periodicDeposit" step="any" placeholder="Enter Recurring Deposit Amount"><br><br>
   
   <label for="end">Deposit Timing:</label><br>
   <input type="radio" id="end" name="depositTiming" value="end" checked>
