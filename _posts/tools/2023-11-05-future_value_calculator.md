@@ -22,48 +22,196 @@ To easily compute the future value, you can use this simple calculator.
 
 Just input the necessary values and click "Calculate."
 
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <style>
+    body {
+      text-align: center;
+    }
+    #input-container, #result-container, #charts {
+      width: 80%;
+      margin: 20px auto;
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    canvas {
+      margin: 20px auto;
+    }
+  </style>
 <body>
-    <h3>Future Value Calculator</h3>
-    <form id="fv-calculator">
-        <label for="present-value">Present Value:</label>
-        <input type="number" id="present-value" required><br><br>
-        <label for="interest-rate">Interest Rate (%):</label>
-        <input type="number" id="interest-rate" step="0.01" required><br><br>
-        <label for="periods-fv">Number of Periods:</label>
-        <input type="number" id="periods-fv" required><br><br>
-        <button type="button" onclick="calculateFV()">Calculate</button>
-    </form>
-    <h3>Future Value: $<span id="result-fv"></span></h3>
-    <script>
-        function calculateFV() {
-            const presentValue = parseFloat(document.getElementById("present-value").value);
-            const interestRate = parseFloat(document.getElementById("interest-rate").value) / 100;
-            const periods = parseFloat(document.getElementById("periods-fv").value);
-            const futureValue = presentValue * Math.pow(1 + interestRate, periods);
-            document.getElementById("result-fv").textContent = futureValue.toFixed(2);
-        }
-    </script>
+  <div id="input-container">
+    <h3>Future Value (FV) Calculator</h3>
+    <label for="principal">Principal (Initial Investment):</label>
+    <input type="number" id="principal"><br><br>
+    <label for="interest">Interest Rate (%):</label>
+    <input type="number" id="interest"><br><br>
+    <label for="periods">Number of Periods:</label>
+    <input type="number" id="periods"><br><br>
+    <label for="deposit">Periodic Deposit:</label>
+    <input type="number" id="deposit"><br><br>
+    <label for="depositTiming">Deposit Timing:</label>
+    <select id="depositTiming">
+      <option value="end">End of Period</option>
+      <option value="start">Beginning of Period</option>
+    </select><br><br>
+    <button onclick="calculateFutureValue()">Calculate</button>
+  </div>
+
+  <div id="result-container">
+    <h2>Future Value:</h2>
+    <div id="futureValueResult"></div>
+  </div>
+
+  <div id="charts">
+    <canvas id="barChart" width="600" height="400"></canvas>
+    <canvas id="pieChart" width="600" height="400"></canvas>
+  </div>
+
+  <script src="script.js"></script>
 </body>
-<style>
-        body {
-            margin: 50px;
+
+<script>
+function calculateFutureValue() {
+  const principal = parseFloat(document.getElementById('principal').value);
+  const interest = parseFloat(document.getElementById('interest').value) / 100;
+  const periods = parseInt(document.getElementById('periods').value);
+  const deposit = parseFloat(document.getElementById('deposit').value);
+  const depositTiming = document.getElementById('depositTiming').value;
+
+  let futureValue = principal;
+  let accumulatedInterest = 0;
+  let accumulatedDeposits = 0;
+  let data = [];
+
+  for (let i = 0; i < periods; i++) {
+    if (depositTiming === 'end') {
+      futureValue = futureValue * (1 + interest) + deposit;
+      accumulatedInterest += futureValue - (principal + accumulatedDeposits);
+      accumulatedDeposits += deposit;
+    } else {
+      accumulatedInterest += futureValue * interest;
+      futureValue = (futureValue + deposit) * (1 + interest);
+      accumulatedDeposits += deposit;
+    }
+    data.push({
+      period: i + 1,
+      principal: principal,
+      interest: accumulatedInterest,
+      deposits: accumulatedDeposits,
+      total: futureValue,
+    });
+  }
+
+  displayResult(futureValue);
+  displayBarChart(data);
+  displayPieChart(data);
+}
+
+function displayResult(futureValue) {
+  const resultContainer = document.getElementById('futureValueResult');
+  resultContainer.innerHTML = `<p><strong>Future Value:</strong> ${futureValue.toFixed(2)}</p>`;
+}
+
+function displayBarChart(data) {
+  const ctx = document.getElementById('barChart').getContext('2d');
+  const periods = data.map(item => item.period);
+  const values = data.map(item => item.total);
+
+  const chartData = {
+    labels: periods,
+    datasets: [{
+      label: 'Total Value',
+      data: values,
+      backgroundColor: 'rgba(54, 162, 235, 0.5)',
+      borderColor: 'rgba(54, 162, 235, 1)',
+      borderWidth: 1
+    }]
+  };
+
+  const options = {
+    scales: {
+      y: {
+        beginAtZero: true,
+        title: {
+          display: true,
+          text: 'Value of Investment'
         }
-        .calculator {
-            width: 300px;
-            margin: 0 auto;
+      },
+      x: {
+        title: {
+          display: true,
+          text: 'Periods'
         }
-        .input-group {
-            margin-bottom: 10px;
+      }
+    },
+    plugins: {
+      tooltip: {
+        callbacks: {
+          label: function(context) {
+            const item = data[context.dataIndex];
+            return `Period: ${item.period}, Principal: ${item.principal.toFixed(2)}, Interest: ${item.interest.toFixed(2)}, Deposits: ${item.deposits.toFixed(2)}, Total: ${item.total.toFixed(2)}`;
+          }
         }
-        input[type="number"] {
-            width: 100%;
-            padding: 8px;
-            box-sizing: border-box;
+      }
+    }
+  };
+
+  new Chart(ctx, {
+    type: 'bar',
+    data: chartData,
+    options: options
+  });
+}
+
+function displayPieChart(data) {
+  const ctx = document.getElementById('pieChart').getContext('2d');
+  const totalPrincipal = data[data.length - 1].principal;
+  const totalInterest = data[data.length - 1].interest;
+  const totalDeposits = data[data.length - 1].deposits;
+
+  const chartData = {
+    labels: ['Principal', 'Interest', 'Deposits'],
+    datasets: [{
+      data: [totalPrincipal, totalInterest, totalDeposits],
+      backgroundColor: [
+        'rgba(255, 99, 132, 0.5)',
+        'rgba(54, 162, 235, 0.5)',
+        'rgba(255, 206, 86, 0.5)'
+      ],
+      borderColor: [
+        'rgba(255, 99, 132, 1)',
+        'rgba(54, 162, 235, 1)',
+        'rgba(255, 206, 86, 1)'
+      ],
+      borderWidth: 1
+    }]
+  };
+
+  const options = {
+    plugins: {
+      legend: {
+        position: 'bottom'
+      },
+      tooltip: {
+        callbacks: {
+          label: function(context) {
+            const labels = ['Principal', 'Interest', 'Deposits'];
+            return `${labels[context.dataIndex]}: ${chartData.datasets[0].data[context.dataIndex].toFixed(2)}`;
+          }
         }
-        .result {
-            font-weight: bold;
-        }
-</style>
+      }
+    }
+  };
+
+  new Chart(ctx, {
+    type: 'pie',
+    data: chartData,
+    options: options
+  });
+}
+</script>
+
 
 ## Why Future Value Is Important
 
@@ -73,45 +221,6 @@ By calculating the future value of an investment, you can determine how much it 
 
 This information can help you make informed decisions about how to allocate your resources to achieve your financial goals.
 
-
-
-<script>
-function calculate() {
-  const principal = parseFloat(document.getElementById('principal').value);
-  const interestRate = parseFloat(document.getElementById('interestRate').value) / 100;
-  const periods = parseInt(document.getElementById('periods').value);
-  const deposit = parseFloat(document.getElementById('deposit').value);
-  const depositTiming = document.getElementById('depositTiming').value;
- 
-
-  const data = [];
-  for (let i = 1; i <= periods; i++) {
-    let interest = totalValue * interestRate;
-    if (depositTiming === 'end') {
-      totalValue += interest + deposit;
-      accumulatedInterest += interest;
-      accumulatedDeposits += deposit;
-    } else {
-      totalValue += deposit + interest;
-      accumulatedInterest += interest;
-      accumulatedDeposits += deposit;
-    }
-    data.push({
-      period: i,
-      principal: principal,
-      accumulatedInterest: accumulatedInterest,
-      accumulatedDeposits: accumulatedDeposits,
-    });
-  }
-  // Rendering the chart
-  renderChart(data);
-}
-
-
-
-
-
-<>
 ## How to Calculate Future Value
 
 To calculate the future value of an investment, you need to consider several factors, including:
@@ -123,193 +232,6 @@ To calculate the future value of an investment, you need to consider several fac
 -   The length of time until the investment matures
 
 Using these variables, you can use a formula or an online calculator to determine the estimated future value of your investment.
-
-
-
-<h3>Investment Calculator</h3>
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-  <style>
-    #result-box {
-      width: 300px;
-      margin: 20px auto;
-      padding: 10px;
-      border: 1px solid #ccc;
-      text-align: center;
-    }
-    canvas {
-      display: block;
-      margin: 20px auto;
-      max-width: 600px;
-    }
-    #chartContainer {
-      width: 600px;
-      margin: 20px auto;
-    }
-</style>
-  </style>
-</head>
-<body>
-  <div>
-    <label for="principal">Principal (Initial Investment):</label>
-  <input type="number" id="principal" placeholder="Enter initial investment" required><br><br>
-  <label for="interestRate">Interest Rate (%):</label>
-  <input type="number" id="interestRate" placeholder="Enter interest rate" step="0.01" required><br><br>
-  <label for="periods">Number of Periods:</label>
-  <input type="number" id="periods" placeholder="Enter number of periods" required><br><br>
-  <label for="deposit">Periodic Deposit:</label>
-  <input type="number" id="deposit" placeholder="Enter periodic deposit amount" required><br><br>
-  <label for="depositTiming">Deposit Timing:</label>
-  <select id="depositTiming">
-  <option value="end">End of Period</option>
-  <option value="start">Beginning of Period</option>
-  </select><br><br>
-  <button onclick="calculate()">Calculate</button><br><br>
-  </div>
-
-
-
-
-  <div id="chartContainer">
-    <canvas id="futurevalueChart"></canvas>
-  </div>
-
-
-  <script src="script.js"></script>
-</body>
-
-
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-
-
-  <div id="result-box">
-    <h2>Future Value</h2>
-    <p id="futureValue"></p>
-  </div>
-
-  <canvas id="futurevalueChart"></canvas>
-
-
-
-
-
-
-  <script>
-  function calculate() {
-    const principle = parseFloat(document.getElementById('principle').value);
-    const interestRate = parseFloat(document.getElementById('interestRate').value) / 100;
-    const periods = parseInt(document.getElementById('periods').value);
-    const deposit = parseFloat(document.getElementById('deposit').value);
-    const depositTiming = document.getElementById('depositTiming').value;
-
-    let totalValue = principal;
-    let accumulatedInterest = 0;
-    let accumulatedDeposits = 0;
-
-
-    const data = [];
-    for (let i = 1; i <= periods; i++) {
-      let interest = totalValue * interestRate;
-      if (depositTiming === 'end') {
-          totalValue += interest + deposit;
-          accumulatedInterest += interest;
-          accumulatedDeposits += deposit;
-          totalDeposits = deposit * periods;
-        } else {
-          totalValue += deposit + interest;
-          accumulatedInterest += interest;
-          accumulatedDeposits += deposit;
-          if (i !== periods) {
-            totalDeposits = deposit * (periods - 1);
-          } else {
-            totalDeposits = deposit * periods;
-          }
-        }
-
-        totalValue += interest;
-        data.push({
-          period: i,
-          principle: PRINCIPLE,
-          accumulatedInterest: accumulatedInterest,
-          accumulatedDeposits: accumulatedDeposits,          
-          deposits: totalDeposits,
-          total: totalValue,
-        });
-      }
-
-
-      displayResult(totalValue);
-      createChart(data);
-      renderChart(data);
-    }
-
-    function displayResult(value) {
-      const resultBox = document.getElementById('result-box');
-      const futureValueParagraph = document.getElementById('futureValue');
-      futureValueParagraph.textContent = `$${value.toFixed(2)}`;
-      resultBox.style.display = 'block';
-    }
-
-
-
-
-    function createChart(data) {
-      const periods = data.map(item => item.period);
-      const principles = data.map(item => item.principle);
-      const interests = data.map(item => item.accumulatedInterest);
-      const deposits = data.map(item => item.accumulatedDeposits);
-      const totals = data.map(item => item.total);
-      const ctx = document.getElementById('futurevalueChart').getContext('2d');
-
-
-      const chart = new Chart(ctx, {
-        type: 'bar',
-        data: {
-          labels: periods,
-          datasets: [
-            {
-              label: 'Initial Principle',
-              data: principles,
-              backgroundColor: 'rgba(54, 162, 235, 0.5)',
-            },
-            {
-              label: 'Accumulated Interest',
-              data: interests,
-              backgroundColor: 'rgba(255, 99, 132, 0.5)',
-            },
-            {
-              label: 'Accumulated Deposits',
-              data: deposits,
-              backgroundColor: 'rgba(75, 192, 192, 0.5)',
-            },
-            {
-              label: 'Total',
-              data: totals,
-              backgroundColor: 'rgba(153, 102, 255, 0.5)',
-            },
-          ],
-        },
-        options: {
-          scales: {
-            x: {
-              title: {
-                display: true,
-                text: 'Periods',
-              },
-              stacked: true,
-            },
-            y: {
-              title: {
-                display: true,
-                text: 'Value of Investment',
-              },
-              stacked: true,
-            },
-          },
-        },
-      });
-    }
-  </script>
-</body>
 
 ## Tips for Using Future Value Properly
 
