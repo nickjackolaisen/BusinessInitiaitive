@@ -44,7 +44,8 @@ Just input the necessary values and click "Calculate."
       display: flex;
       justify-content: space-between;
       margin: 0 auto;
-      width: 70%;
+      width: 40%;
+      text-align: center;
     }
     canvas {
       margin-top: 20px;
