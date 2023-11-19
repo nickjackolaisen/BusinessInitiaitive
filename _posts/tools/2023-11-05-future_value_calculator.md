@@ -22,23 +22,35 @@ To easily compute the future value, you can use this simple calculator.
 
 Just input the necessary values and click "Calculate."
 
+
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <style>
     /* Add your custom CSS styles here */
     #calculator {
-      width: 400px;
+      width: 800px;
       margin: auto;
       padding: 20px;
       border: 1px solid #ccc;
       text-align: center;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    #charts-container {
+      display: flex;
+      justify-content: space-between;
+      width: 100%;
+      margin-top: 20px;
     }
     canvas {
       margin-top: 20px;
     }
   </style>
+</head>
+
 <body>
   <div id="calculator">
-    <h3>Future Value (FV) Calculator</h3>
+    <h2>Future Value (FV) Calculator</h2>
     <div>
       <label for="principal">Principal (Initial Investment):</label>
       <input type="number" id="principal">
@@ -60,13 +72,16 @@ Just input the necessary values and click "Calculate."
       </select>
     </div>
     <button onclick="calculateFutureValue()">Calculate</button>
-    <div id="result"></div>
-    <canvas id="barChart" width="400" height="300"></canvas>
-    <canvas id="pieChart" width="400" height="300"></canvas>
+    <div id="result"></div>      
+    <div id="charts-container">
+      <canvas id="barChart" width="400" height="300"></canvas>
+      <canvas id="pieChart" width="400" height="300"></canvas>
+    </div>
   </div>
 
   <script src="script.js"></script>
 </body>
+
 
 <script>
 function calculateFutureValue() {
