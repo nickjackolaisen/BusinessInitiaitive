@@ -1,7 +1,8 @@
 ---
-title: "The Power of Present Value: Understand How to Calculate PV to Make Informed Financial Decisions"
+title: "The Power of Present Value: Use PV Calculations to Make Informed Financial Decisions"
 layout: post
 date: 2023-11-15
+update_date: 2023-11-19
 author: jack_nicholaisen
 summary: "Discover the power of Present Value! Learn how to calculate the worth of future money today in our comprehensive guide. #finance #investing"
 image: /images/posts-headers/time-value-of-money-pv-header.png
@@ -20,6 +21,10 @@ In this guide, we'll break down the concept of PV and show you simple ways to ca
 
 By the end, you'll be equipped with the tools necessary to make informed financial decisions. 
 
+{% include table-of-contents-box.html bullet1tag="#definition" bullet1="Definition" bullet2tag="#importance-and-limits" bullet2="Importance & Limitations" bullet3tag="#equation" bullet3="Present Value Equation" bullet4tag="#process" bullet4="3 Step Process" bullet5tag="#tools" bullet5="Tools" bullet6tag="#practical-applications" bullet6="Practical Applications" %}
+<a id="definition"> 
+<br>
+
 So let's dive in and discover the power of Present Value!
 
 ## What is Present Value and How Does it Work?
@@ -31,6 +36,7 @@ The present value formula takes into account the time value of money, which stat
 Present value works by discounting future cash flows back to their current value based on a discount rate that represents an opportunity cost for investing funds elsewhere.
 
 For example, suppose that someone will receive $1000 five years from now as payment for services rendered today; if they want to know what that payment is worth in current dollars, they would use present value calculations.
+<a id="importance-and-limits"> 
 
 The amount received in five years would be discounted back at an appropriate discount rate over those five years until it reaches its present value.
 
@@ -51,6 +57,7 @@ This information can help them make better investment decisions and allocate the
 While present value can be a useful tool for financial planning and investment analysis, it does have its limitations. 
 
 One limitation is that it assumes a constant interest rate over time. In reality, interest rates are subject to change based on a variety of economic and market factors.
+<a id="equation"> 
 
 Another limitation is that present value calculations do not take into account other factors that can affect the value of money over time, such as inflation or changes in currency exchange rates.
 
@@ -82,6 +89,7 @@ For example, if you invest $100 today at a 5% annual interest rate, your future 
 It's expressed as a percentage and can vary depending on various factors, such as inflation, market trends, and creditworthiness. 
 
 A higher interest rate implies a higher discount rate and lower present value.
+<a id="process"> 
 
 **Number of Periods (n)** refers to the length of time over which the investment or loan will be paid off. 
 
@@ -146,6 +154,7 @@ Using this formula, we can calculate that the present value of receiving $10,000
 On the other hand, the present value of receiving $8,000 today is exactly $8,000. 
 
 Therefore, it would be more advantageous to choose to receive $8,000 today rather than waiting for two years to receive $10,000.
+<a id="tools"> 
 
 This simple example demonstrates how understanding present value calculations can help individuals make better financial decisions.
 
@@ -195,6 +204,7 @@ For example, consider an investment of $1,000 for ten years at different interes
 | 3%            | $1,343.92   | $1,000        |
 | 5%            | $1,628.89   | $1,000        |
 | 7%            | $1,967.15   | $1,000        |
+<a id="practical-applications"> 
 
 As you can see, the higher the interest rate, the higher the future value but the lower the present value. Similarly, as time passes, the present value decreases even at the same interest rate.
 
