@@ -23,168 +23,83 @@ To easily compute the net present value, you can use this simple calculator.
 Just input the necessary values and click "Calculate."
 
 
+<h3>Net Present Value Calculator</h3>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+    }
+    #calculator {
+      margin: 20px auto;
+      padding: 20px;
+      border: 1px solid #ccc;
+      width: 300px;
+    }
+    #results {
+      margin-top: 20px;
+      border: 1px solid #ccc;
+      padding: 10px;
+      width: 300px;
+      display: none;
+    }
+  </style>
 <body>
-    <h3>Net Present Value Calculator</h3>
-    <form id="npv-calculator">
-        <label for="initial-investment">Initial Investment:</label>
-        <input type="number" id="initial-investment" required><br><br>
-        <label for="discount-rate-npv">Discount Rate (%):</label>
-        <input type="number" id="discount-rate-npv" step="0.01" required><br><br>
-        <label for="cash-flow-count">Number of Cash Flows:</label>
-        <input type="number" id="cash-flow-count" required><br><br>
-        <div id="cash-flows-inputs"></div>
-        <button type="button" onclick="calculateNPV()">Calculate</button>
-    </form>
-    <h3>Net Present Value: $<span id="result"></span></h3>
-    <script>
-        document.getElementById("cash-flow-count").addEventListener("change", function() {
-            const cashFlowCount = parseInt(this.value);
-            const cashFlowsInputs = document.getElementById("cash-flows-inputs");
-            cashFlowsInputs.innerHTML = '';
-            for (let i = 1; i <= cashFlowCount; i++) {
-                const label = document.createElement("label");
-                label.textContent = `Cash Flow ${i}:`;
-                cashFlowsInputs.appendChild(label);
-                const input = document.createElement("input");
-                input.type = "number";
-                input.id = `cash-flow-${i}`;
-                cashFlowsInputs.appendChild(input);
-                const lineBreak = document.createElement("br");
-                cashFlowsInputs.appendChild(lineBreak);
-            }
-        });
-        function calculateNPV() {
-            const initialInvestment = parseFloat(document.getElementById("initial-investment").value);
-            const discountRate = parseFloat(document.getElementById("discount-rate-npv").value) / 100;
-            const cashFlowCount = parseInt(document.getElementById("cash-flow-count").value);
-            let npv = -initialInvestment;
-            for (let i = 1; i <= cashFlowCount; i++) {
-                const cashFlow = parseFloat(document.getElementById(`cash-flow-${i}`).value);
-                npv += cashFlow / Math.pow(1 + discountRate, i);
-            }
-            document.getElementById("result-npv").textContent = npv.toFixed(2);
-        }
-    </script>
+
+<div id="calculator">
+  <h2>Net Present Value Calculator</h2>
+  <label for="interestRate">Interest Rate (discount rate):</label>
+  <input type="number" id="interestRate" step="0.01" placeholder="Interest Rate (%)"><br><br>
+
+  <label for="compounds">Compounds per Period:</label>
+  <input type="number" id="compounds" placeholder="Compounds"><br><br>
+
+  <label for="cashflows">Cashflows:</label>
+  <select id="cashflowsType">
+    <option value="end">Apply Cashflows at the end of the period</option>
+    <option value="beginning">Apply Cashflows at the beginning of the period</option>
+  </select><br><br>
+
+  <label for="numLines">Number of Cashflow Lines:</label>
+  <input type="number" id="numLines" placeholder="Number of Lines"><br><br>
+
+  <button onclick="calculateNPV()">Calculate NPV</button>
+</div>
+
+<div id="results">
+  <h2>Net Present Value Result</h2>
+  <p id="npvResult"></p>
+</div>
+
+<script>
+  function calculateNPV() {
+    const interestRate = parseFloat(document.getElementById('interestRate').value);
+    const compounds = parseInt(document.getElementById('compounds').value);
+    const cashflowsType = document.getElementById('cashflowsType').value;
+    const numLines = parseInt(document.getElementById('numLines').value);
+
+    let npv = 0;
+
+    for (let i = 1; i <= numLines; i++) {
+      const cashflow = parseFloat(prompt(`Enter cashflow for period ${i}`));
+
+      if (cashflowsType === 'beginning') {
+        npv += cashflow / Math.pow((1 + interestRate / compounds), i - 1);
+      } else {
+        npv += cashflow / Math.pow((1 + interestRate / compounds), i);
+      }
+    }
+
+    document.getElementById('npvResult').innerText = `Net Present Value: $${npv.toFixed(2)}`;
+    document.getElementById('results').style.display = 'block';
+  }
+</script>
 </body>
-<style>
-        body {
-            margin: 50px;
-        }
-        .calculator {
-            width: 300px;
-            margin: 0 auto;
-        }
-        .input-group {
-            margin-bottom: 10px;
-        }
-        input[type="number"] {
-            width: 100%;
-            padding: 8px;
-            box-sizing: border-box;
-        }
-        .result {
-            font-weight: bold;
-        }
-</style>
 
 ## Why is Net Present Value Important?
 
 NPV is important because it helps investors make informed decisions about whether or not to invest in a particular project or opportunity. 
 
 By calculating the NPV, investors can weigh the potential risks and rewards associated with an investment and determine its overall profitability.
-
-
-<h3>NPV Calculator</h3>
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-<style>
-    #result {
-      border: 1px solid #ccc;
-      padding: 10px;
-      margin-top: 20px;
-      width: 300px;
-    }
-    canvas {
-      margin-top: 20px;
-    }
-</style>
-
-<h3>Net Present Value Calculator</h3>
-
-<form id="npvForm">
-  <label for="interestRate">Interest Rate (Discount Rate):</label>
-  <input type="number" id="interestRate" step="any" required><br><br>
-
-  <label for="compounds">Compounds Per Period:</label>
-  <input type="number" id="compounds" required><br><br>
-
-  <label for="cashflows">Cashflows:</label>
-  <select id="cashflows">
-    <option value="beginning">Apply Cashflows at Beginning</option>
-    <option value="end">Apply Cashflows at End</option>
-  </select><br><br>
-
-  <label for="numLines">Number of Cashflow Lines:</label>
-  <input type="number" id="numLines" required><br><br>
-
-  <button type="button" onclick="calculateNPV()">Calculate NPV</button>
-</form>
-
-<div id="result"></div>
-<canvas id="npvChart" width="400" height="200"></canvas>
-
-<script>
-  function calculateNPV() {
-    const interestRate = parseFloat(document.getElementById('interestRate').value);
-    const compounds = parseInt(document.getElementById('compounds').value);
-    const cashflowType = document.getElementById('cashflows').value;
-    const numLines = parseInt(document.getElementById('numLines').value);
-
-    let cashflows = [];
-    for (let i = 0; i < numLines; i++) {
-      cashflows.push(parseFloat(prompt(`Enter Cashflow ${i + 1}:`)));
-    }
-
-    let npv = 0;
-    for (let i = 0; i < cashflows.length; i++) {
-      if (cashflowType === 'beginning') {
-        npv += cashflows[i] / Math.pow(1 + interestRate / compounds, i + 1);
-      } else {
-        npv += cashflows[i] / Math.pow(1 + interestRate / compounds, i);
-      }
-    }
-
-    const resultDiv = document.getElementById('result');
-    resultDiv.innerHTML = `<p>Net Present Value: $${npv.toFixed(2)}</p>`;
-
-    const ctx = document.getElementById('npvChart').getContext('2d');
-    const labels = [];
-    for (let i = 0; i < numLines; i++) {
-      labels.push(`Year ${i}`);
-    }
-
-    const chart = new Chart(ctx, {
-      type: 'bar',
-      data: {
-        labels: labels,
-        datasets: [{
-          label: 'Cashflows',
-          data: cashflows,
-          backgroundColor: 'rgba(54, 162, 235, 0.5)',
-          borderColor: 'rgba(54, 162, 235, 1)',
-          borderWidth: 1
-        }]
-      },
-      options: {
-        scales: {
-          y: {
-            beginAtZero: true
-          }
-        }
-      }
-    });
-  }
-</script>
-
 
 ## How to Use Net Present Value Properly
 
