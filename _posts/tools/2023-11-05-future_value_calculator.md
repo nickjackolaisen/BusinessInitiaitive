@@ -22,164 +22,53 @@ To easily compute the future value, you can use this simple calculator.
 
 Just input the necessary values and click "Calculate."
 
-
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-  <style>
-    /* Add your custom CSS styles here */
-    #calculator {
-      width: 800px;
-      margin: auto;
-      padding: 20px;
-      border: 1px solid #ccc;
-      text-align: center;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
+<h3>Future Value Calculator</h3>
+  <script>
+    function calculateFutureValue() {
+      // Get user inputs
+      var principle = parseFloat(document.getElementById('principle').value);
+      var interestRate = parseFloat(document.getElementById('interestRate').value) / 100;
+      var periods = parseFloat(document.getElementById('periods').value);
+      var periodicDeposit = parseFloat(document.getElementById('periodicDeposit').value);
+      var depositTiming = document.querySelector('input[name="depositTiming"]:checked').value;
+      // Calculate future value
+      var futureValue = 0;
+      if (depositTiming === "end") {
+        futureValue = principle * Math.pow(1 + interestRate, periods);
+        futureValue += periodicDeposit * ((Math.pow(1 + interestRate, periods) - 1) / interestRate);
+      } else {
+        futureValue = principle * Math.pow(1 + interestRate, periods);
+        futureValue += periodicDeposit * ((Math.pow(1 + interestRate, periods + 1) - 1) / interestRate);
+      }
+      // Display future value
+      document.getElementById('result').innerHTML = 'Future Value: ' + futureValue.toFixed(2);
     }
-    #charts-container {
-      display: flex;
-      justify-content: space-between;
-      width: 100%;
-      margin-top: 20px;
-    }
-    canvas {
-      margin-top: 20px;
-    }
-  </style>
-</head>
-
+  </script>
 <body>
-  <div id="calculator">
-    <h2>Future Value (FV) Calculator</h2>
-    <div>
-      <label for="principal">Principal (Initial Investment):</label>
-      <input type="number" id="principal">
-    </div>
-    <div>
-      <label for="interestRate">Interest Rate (%):</label>
-      <input type="number" id="interestRate">
-    </div>
-    <div>
-      <label for="periods">Number of Periods:</label>
-      <input type="number" id="periods">
-    </div>
-    <div>
-      <label for="deposit">Periodic Deposit:</label>
-      <input type="number" id="deposit">
-      <select id="depositType">
-        <option value="end">End of Period</option>
-        <option value="start">Start of Period</option>
-      </select>
-    </div>
-    <button onclick="calculateFutureValue()">Calculate</button>
-    <div id="result"></div>      
-    <div id="charts-container">
-      <canvas id="barChart" width="400" height="300"></canvas>
-      <canvas id="pieChart" width="400" height="300"></canvas>
-    </div>
-  </div>
-
-  <script src="script.js"></script>
+  <h1>Future Value Calculator</h1>
+  <label for="principle">Principle (Initial Investment):</label>
+  <input type="number" id="principle" step="any" /><br><br>
+  
+  <label for="interestRate">Interest Rate (%):</label>
+  <input type="number" id="interestRate" step="any" /><br><br>
+  
+  <label for="periods">Number of Periods:</label>
+  <input type="number" id="periods" step="any" /><br><br>
+  
+  <label for="periodicDeposit">Periodic Deposit:</label>
+  <input type="number" id="periodicDeposit" step="any" /><br><br>
+  
+  <label for="end">Deposit Timing:</label><br>
+  <input type="radio" id="end" name="depositTiming" value="end" checked>
+  <label for="end">End of Period</label><br>
+  
+  <input type="radio" id="beginning" name="depositTiming" value="beginning">
+  <label for="beginning">Beginning of Period</label><br><br>
+  
+  <button onclick="calculateFutureValue()">Calculate Future Value</button><br><br>
+  
+  <div id="result" style="border: 1px solid #000; padding: 10px;"></div>
 </body>
-
-<script>
-function calculateFutureValue() {
-  const principal = parseFloat(document.getElementById('principal').value);
-  const interestRate = parseFloat(document.getElementById('interestRate').value) / 100;
-  const periods = parseInt(document.getElementById('periods').value);
-  const deposit = parseFloat(document.getElementById('deposit').value);
-  const depositType = document.getElementById('depositType').value;
-
-  let futureValue = principal;
-  let totalDeposits = 0;
-  let accumulatedInterest = 0;
-
-  const data = [];
-  const labels = [];
-  const colors = ['#FF6384', '#36A2EB', '#FFCE56'];
-
-  for (let i = 1; i <= periods; i++) {
-    let initialInvestment = 0;
-    let interest = 0;
-    let deposits = 0;
-    if (depositType === 'start') {
-      futureValue = futureValue * (1 + interestRate) + deposit;
-      totalDeposits += deposit;
-      deposits = deposit;
-    } else {
-      futureValue = (futureValue + deposit) * (1 + interestRate);
-      totalDeposits += deposit;
-      deposits = deposit;
-    }
-
-    interest = futureValue - (principal + totalDeposits);
-    initialInvestment = futureValue - (interest + totalDeposits);
-
-    data.push([initialInvestment, interest, deposits]);
-    labels.push(`Period ${i}`);
-  }
-
-  const resultDiv = document.getElementById('result');
-  resultDiv.innerHTML = `<p>Future Value: $${futureValue.toFixed(2)}</p>`;
-
-  createGroupedBarChart(labels, data, colors);
-  createPieChart(['Principal', 'Accumulated Interest', 'Total Deposits'], [principal, accumulatedInterest, totalDeposits], colors);
-}
-
-function createGroupedBarChart(labels, data, colors) {
-  const ctx = document.getElementById('barChart').getContext('2d');
-  new Chart(ctx, {
-    type: 'bar',
-    data: {
-      labels: labels,
-      datasets: data.map((item, index) => {
-        return {
-          label: `Period ${index + 1}`,
-          data: item,
-          backgroundColor: colors,
-          borderWidth: 1
-        };
-      })
-    },
-    options: {
-      scales: {
-        y: {
-          beginAtZero: true,
-          title: {
-            display: true,
-            text: 'Monetary Value in Dollars'
-          }
-        },
-        x: {
-          title: {
-            display: true,
-            text: 'Periods'
-          }
-        }
-      },
-      indexAxis: 'y'
-    }
-  });
-}
-
-function createPieChart(labels, data, colors) {
-  const ctx = document.getElementById('pieChart').getContext('2d');
-  new Chart(ctx, {
-    type: 'pie',
-    data: {
-      labels: labels,
-      datasets: [{
-        data: data,
-        backgroundColor: colors
-      }]
-    },
-    options: {
-      responsive: true
-    }
-  });
-}
-</script>
-
 
 ## Why Future Value Is Important
 

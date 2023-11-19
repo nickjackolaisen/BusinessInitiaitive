@@ -22,144 +22,63 @@ To easily compute the present value, you can use this simple calculator.
 
 Just input the necessary values and click "Calculate."
 
-
-<h3>Present Value (PV)Calculator</h3>
-  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<h3>Present Value (PV) Calculator</h3>
   <style>
-    /* CSS for styling purposes */
-    #calculator {
-      width: 600px;
-      margin: 0 auto;
+    body {
+      font-family: Arial, sans-serif;
       text-align: center;
-      border: 1px solid #ccc;
+    }
+    .calculator {
+      margin: 20px auto;
       padding: 20px;
-      margin-top: 20px;
+      border: 1px solid #ccc;
+      width: 300px;
+    }
+    input[type="number"],
+    input[type="text"] {
+      width: 100%;
+      margin-bottom: 10px;
+      padding: 5px;
     }
     #result {
-      width: 300px;
-      height: 50px;
-      border: 1px solid #000;
-      margin: 20px auto;
-      padding: 10px;
-    }
-    #charts {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      margin: 0 auto;
-      width: 100%;
-      max-width: 1000px;
-    }
-    canvas {
       margin-top: 20px;
-      width: 48%;
-      height: auto;
+      border: 1px solid #ccc;
+      padding: 10px;
+      width: 80%;
+      margin-left: auto;
+      margin-right: auto;
     }
   </style>
 <body>
-  <div id="calculator">
-    <h1>Present Value Calculator</h1>
-    <div id="userInputs">
-      <label for="futureValue">Future Value:</label>
-      <input type="number" id="futureValue"><br><br>
-      
-      <label for="periods">Number of Periods:</label>
-      <input type="number" id="periods"><br><br>
-      
-      <label for="interestRate">Interest Rate (%):</label>
-      <input type="number" id="interestRate"><br><br>
-      
-      <button onclick="calculatePresentValue()">Calculate</button>
-    </div>
-    
-    <div id="result"></div>
-  </div>
-  
-  <div id="charts">
-    <canvas id="barChart"></canvas>
-    <canvas id="pieChart"></canvas>
-  </div>
 
-  <script src="script.js"></script>
-</body>
+<div class="calculator">
+  <h2>Present Value Calculator</h2>
+  <label for="futureValue">Future Value:</label>
+  <input type="number" id="futureValue" placeholder="Enter Future Value"><br>
+
+  <label for="periods">Number of Periods:</label>
+  <input type="number" id="periods" placeholder="Enter Number of Periods"><br>
+
+  <label for="interestRate">Interest Rate (%):</label>
+  <input type="number" id="interestRate" placeholder="Enter Interest Rate"><br>
+
+  <button onclick="calculatePresentValue()">Calculate</button>
+</div>
+
+<div id="result"></div>
 
 <script>
-function calculatePresentValue() {
-  // Get user inputs
-  const futureValue = parseFloat(document.getElementById('futureValue').value);
-  const periods = parseInt(document.getElementById('periods').value);
-  const interestRate = parseFloat(document.getElementById('interestRate').value) / 100;
+  function calculatePresentValue() {
+    var futureValue = parseFloat(document.getElementById('futureValue').value);
+    var periods = parseInt(document.getElementById('periods').value);
+    var interestRate = parseFloat(document.getElementById('interestRate').value) / 100;
 
-  // Calculate present value
-  const presentValue = futureValue / Math.pow((1 + interestRate), periods);
+    var presentValue = futureValue / Math.pow(1 + interestRate, periods);
 
-  // Display present value
-  document.getElementById('result').innerHTML = `<p>Present Value: ${presentValue.toFixed(2)}</p>`;
-
-  // Chart data
-  const initialPrincipal = [];
-  const accumulatedInterest = [];
-  const totalValue = [];
-
-  for (let i = 1; i <= periods; i++) {
-    initialPrincipal.push(futureValue / Math.pow((1 + interestRate), i));
-    accumulatedInterest.push((futureValue / Math.pow((1 + interestRate), i)) - (futureValue / Math.pow((1 + interestRate), i - 1)));
-    totalValue.push(futureValue - initialPrincipal[i - 1]);
+    document.getElementById('result').innerHTML = "<h3>Result:</h3><p>Present Value: $" + presentValue.toFixed(2) + "</p>";
   }
-
-  // Bar Chart
-  const barCtx = document.getElementById('barChart').getContext('2d');
-  const barChart = new Chart(barCtx, {
-    type: 'bar',
-    data: {
-      labels: Array.from({ length: periods }, (_, i) => `Period ${i + 1}`),
-      datasets: [
-        {
-          label: 'Initial Principal',
-          backgroundColor: 'rgba(255, 99, 132, 0.5)',
-          data: initialPrincipal,
-        },
-        {
-          label: 'Accumulated Interest',
-          backgroundColor: 'rgba(54, 162, 235, 0.5)',
-          data: accumulatedInterest,
-        },
-        {
-          label: 'Total Value',
-          backgroundColor: 'rgba(75, 192, 192, 0.5)',
-          data: totalValue,
-        },
-      ],
-    },
-    options: {
-      scales: {
-        xAxes: [{ stacked: true }],
-        yAxes: [{ stacked: true }],
-      },
-    },
-  });
-
-  // Pie Chart
-  const pieCtx = document.getElementById('pieChart').getContext('2d');
-  const pieChart = new Chart(pieCtx, {
-    type: 'pie',
-    data: {
-      labels: ['Initial Principal', 'Accumulated Interest', 'Total Value'],
-      datasets: [{
-        data: [
-          initialPrincipal.reduce((a, b) => a + b, 0),
-          accumulatedInterest.reduce((a, b) => a + b, 0),
-          totalValue.reduce((a, b) => a + b, 0),
-        ],
-        backgroundColor: ['rgba(255, 99, 132, 0.5)', 'rgba(54, 162, 235, 0.5)', 'rgba(75, 192, 192, 0.5)'],
-      }],
-    },
-    options: {
-      responsive: true,
-    },
-  });
-}
 </script>
+</body>
 
 
 ## Why is Present Value Important?
