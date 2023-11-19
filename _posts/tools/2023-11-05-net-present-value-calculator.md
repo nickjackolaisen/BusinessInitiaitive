@@ -22,9 +22,7 @@ To easily compute the net present value, you can use this simple calculator.
 
 Just input the necessary values and click "Calculate."
 
-
-<h3>Net Present Value Calculator</h3>
-  <style>
+<style>
     #calculator {
       margin: 20px auto;
       text-align: left;
@@ -40,7 +38,7 @@ Just input the necessary values and click "Calculate."
     #result {
       font-weight: bold;
     }
-  </style>
+</style>
 <body>
   <label for="interestRate">Interest Rate (discount rate):</label>
   <input type="number" id="interestRate" step="0.01" placeholder="Interest Rate (%)"><br><br>

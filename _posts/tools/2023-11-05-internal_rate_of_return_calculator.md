@@ -18,15 +18,14 @@ In simpler terms, IRR represents the percentage rate earned on each dollar inves
 
 <a href="/time-value-of-money/internal-rate-of-return/" target="_blank">Find out how using Interal Rate of Return can enure your next investment is the goldmine you think it is!</a>
 
-## Internal Rate of Return Calculator
+## Internal Rate of Return (IRR) Calculator
 
 To easily compute the internal rate of return, you can use our simple calculator. 
 
 Just input the initial investment and cash flows for each period, then click "Calculate."
 
 
-  <h3>Internal Rate of Return (IRR) Calculator</h3>
-  <style>
+<style>
     #result-box {
       width: 300px;
       margin: 20px auto;
@@ -34,7 +33,7 @@ Just input the initial investment and cash flows for each period, then click "Ca
       border: 1px solid #ccc;
       text-align: center;
     }
-  </style>
+</style>
 </head>
 <body>
     <label for="initial-investment">Initial Investment:</label>
