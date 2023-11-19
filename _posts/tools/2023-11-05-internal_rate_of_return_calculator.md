@@ -32,7 +32,6 @@ Just input the initial investment and cash flows for each period, then click "Ca
       padding: 10px;
     }
 </style>
-</head>
 <body>
     <label for="initialInvestment">Initial Investment:</label>
     <input type="number" id="initialInvestment" placeholder="Enter initial investment"><br><br>
