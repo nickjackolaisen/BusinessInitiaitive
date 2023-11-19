@@ -25,9 +25,6 @@ Just input the necessary values and click "Calculate."
 
 <h3>Net Present Value Calculator</h3>
   <style>
-    body {
-      font-family: Arial, sans-serif;
-    }
     #calculator {
       margin: 20px auto;
       text-align: left;

@@ -24,66 +24,88 @@ To easily compute the internal rate of return, you can use our simple calculator
 
 Just input the initial investment and cash flows for each period, then click "Calculate."
 
-<script>
-    function calculateIRR() {
-      var initialInvestment = parseFloat(document.getElementById("initialInvestment").value);
-      var cashInflows = document.getElementById("cashInflows").value.split(",");
-      var cashFlows = [];
-      // Parse cash inflows and add initial investment as negative cash flow at the beginning
-      cashFlows.push(-initialInvestment);
-      for (var i = 0; i < cashInflows.length; i++) {
-        cashFlows.push(parseFloat(cashInflows[i]));
-      }
-      // Calculate IRR using Newton-Raphson method
-      var irr = 0.1; // Initial guess for IRR
-      var maxIterations = 1000;
-      var tolerance = 0.00001;
-      for (var i = 0; i < maxIterations; i++) {
-        var npv = 0;
-        var npvDerivative = 0;
-        for (var j = 0; j < cashFlows.length; j++) {
-          npv += cashFlows[j] / Math.pow(1 + irr, j);
-          npvDerivative -= j * cashFlows[j] / Math.pow(1 + irr, j + 1);
-        }
-        // Update IRR using Newton-Raphson method
-        irr = irr - npv / npvDerivative;
-        // Check for convergence
-        if (Math.abs(npv) < tolerance) {
-          break;
-        }
-      }
-      // Display the calculated IRR
-      document.getElementById("result").innerHTML = "Internal Rate of Return (IRR): " + (irr * 100).toFixed(2) + "%";
+
+  <h3>Internal Rate of Return (IRR) Calculator</h3>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
     }
-</script>
+    #input-container {
+      text-align: left;
+      margin: 20px auto;
+      width: 300px;
+    }
+    #result-box {
+      width: 300px;
+      margin: 20px auto;
+      padding: 10px;
+      border: 1px solid #ccc;
+      text-align: center;
+    }
+  </style>
+</head>
 <body>
-  <label for="initialInvestment">Initial Investment:</label>
-  <input type="number" id="initialInvestment" required><br>
-  <label for="cashInflows">Cash Inflow for each period (comma-separated):</label>
-  <input type="text" id="cashInflows" placeholder="e.g., 10000,20000,15000" required><br>
-  <button onclick="calculateIRR()">Calculate IRR</button><br><br>
-  <div id="result"></div>
+  <div id="input-container">
+    <label for="initial-investment">Initial Investment:</label>
+    <input type="number" id="initial-investment">
+    <br><br>
+    <label for="num-periods">Number of Periods:</label>
+    <input type="number" id="num-periods">
+    <br><br>
+    <label for="cash-flows">Cash Flows (separated by commas):</label>
+    <input type="text" id="cash-flows">
+    <br><br>
+    <button onclick="calculateIRR()">Calculate IRR</button>
+  </div>
+
+  <div id="result-box"></div>
+
+  <script>
+    function calculateIRR() {
+      const initialInvestment = parseFloat(document.getElementById('initial-investment').value);
+      const numPeriods = parseInt(document.getElementById('num-periods').value);
+      const cashFlowsInput = document.getElementById('cash-flows').value;
+      const cashFlows = cashFlowsInput.split(',').map(parseFloat);
+
+      const irr = computeIRR(initialInvestment, numPeriods, cashFlows);
+      displayResult(irr);
+    }
+
+    function computeIRR(initialInvestment, numPeriods, cashFlows) {
+      const tolerance = 0.0001;
+      let irrGuess = 0.1; // Initial guess for IRR
+      let iterations = 0;
+
+      do {
+        let npv = 0;
+        for (let i = 0; i < numPeriods; i++) {
+          npv += cashFlows[i] / Math.pow(1 + irrGuess, i + 1);
+        }
+        npv += -initialInvestment;
+        const derivative = calculateDerivative(cashFlows, irrGuess, numPeriods);
+        const delta = npv / derivative;
+        irrGuess -= delta;
+        iterations++;
+      } while (Math.abs(npv) > tolerance && iterations < 10000);
+
+      return irrGuess * 100; // Return IRR as a percentage
+    }
+
+    function calculateDerivative(cashFlows, irr, numPeriods) {
+      let derivative = 0;
+      for (let i = 0; i < numPeriods; i++) {
+        derivative += (i + 1) * cashFlows[i] / Math.pow(1 + irr, i + 2);
+      }
+      return derivative;
+    }
+
+    function displayResult(irr) {
+      const resultBox = document.getElementById('result-box');
+      resultBox.innerHTML = `<p>Internal Rate of Return (IRR): ${irr.toFixed(2)}%</p>`;
+    }
+  </script>
 </body>
-<style>
-        body {
-            margin: 50px;
-        }
-        .calculator {
-            width: 300px;
-            margin: 0 auto;
-        }
-        .input-group {
-            margin-bottom: 10px;
-        }
-        input[type="number"] {
-            width: 100%;
-            padding: 8px;
-            box-sizing: border-box;
-        }
-        .result {
-            font-weight: bold;
-        }
-</style>
 
 ## Why is Internal Rate of Return Important?
 

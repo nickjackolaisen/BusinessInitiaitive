@@ -24,9 +24,6 @@ Just input the necessary values and click "Calculate."
 
 <h3>Present Value Calculator</h3>
   <style>
-    body {
-      font-family: Arial, sans-serif;
-    }
     .calculator {
       margin: 20px auto;
       padding: 20px;
