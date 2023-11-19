@@ -82,7 +82,6 @@ Just input the necessary values and click "Calculate."
   <script src="script.js"></script>
 </body>
 
-
 <script>
 function calculateFutureValue() {
   const principal = parseFloat(document.getElementById('principal').value);
@@ -100,26 +99,34 @@ function calculateFutureValue() {
   const colors = ['#FF6384', '#36A2EB', '#FFCE56'];
 
   for (let i = 1; i <= periods; i++) {
+    let initialInvestment = 0;
+    let interest = 0;
+    let deposits = 0;
     if (depositType === 'start') {
       futureValue = futureValue * (1 + interestRate) + deposit;
       totalDeposits += deposit;
+      deposits = deposit;
     } else {
       futureValue = (futureValue + deposit) * (1 + interestRate);
       totalDeposits += deposit;
+      deposits = deposit;
     }
-    accumulatedInterest = futureValue - (principal + totalDeposits);
-    data.push([principal, accumulatedInterest, totalDeposits]);
+
+    interest = futureValue - (principal + totalDeposits);
+    initialInvestment = futureValue - (interest + totalDeposits);
+
+    data.push([initialInvestment, interest, deposits]);
     labels.push(`Period ${i}`);
   }
 
   const resultDiv = document.getElementById('result');
   resultDiv.innerHTML = `<p>Future Value: $${futureValue.toFixed(2)}</p>`;
 
-  createBarChart(labels, data, colors);
+  createGroupedBarChart(labels, data, colors);
   createPieChart(['Principal', 'Accumulated Interest', 'Total Deposits'], [principal, accumulatedInterest, totalDeposits], colors);
 }
 
-function createBarChart(labels, data, colors) {
+function createGroupedBarChart(labels, data, colors) {
   const ctx = document.getElementById('barChart').getContext('2d');
   new Chart(ctx, {
     type: 'bar',
@@ -140,7 +147,7 @@ function createBarChart(labels, data, colors) {
           beginAtZero: true,
           title: {
             display: true,
-            text: 'Value of Investment'
+            text: 'Monetary Value in Dollars'
           }
         },
         x: {
@@ -149,7 +156,8 @@ function createBarChart(labels, data, colors) {
             text: 'Periods'
           }
         }
-      }
+      },
+      indexAxis: 'y'
     }
   });
 }
