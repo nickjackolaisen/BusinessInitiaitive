@@ -40,7 +40,8 @@ Just input the necessary values and click "Calculate."
       var interestRate = parseFloat(document.getElementById('interestRate').value) / 100;
       var periods = parseFloat(document.getElementById('periods').value);
       var periodicDeposit = parseFloat(document.getElementById('periodicDeposit').value);
-      var depositTiming = document.querySelector('input[name="depositTiming"]:checked').value;
+      var depositTiming = document.getElementById('depositTiming').value;
+      
       // Calculate future value
       var futureValue = 0;
       if (depositTiming === "end") {
@@ -50,30 +51,30 @@ Just input the necessary values and click "Calculate."
         futureValue = principle * Math.pow(1 + interestRate, periods);
         futureValue += periodicDeposit * ((Math.pow(1 + interestRate, periods + 1) - 1) / interestRate);
       }
+      
       // Display future value
-      document.getElementById('result').innerHTML = 'Future Value = ' + futureValue.toFixed(2);
+      document.getElementById('result').innerHTML = 'Future Value: ' + futureValue.toFixed(2);
     }
 </script>
 
 <body>
   <label for="principle">Principle (Initial Investment):</label>
-  <input type="number" id="principle" step="any" placeholder="Enter Initial Investment Value"/><br><br>
+  <input type="number" id="principle" step="any" /><br><br>
   
   <label for="interestRate">Interest Rate (%):</label>
-  <input type="number" id="interestRate" step="any" placeholder="Enter Interest Rate Percentage"><br><br>
+  <input type="number" id="interestRate" step="any" /><br><br>
   
   <label for="periods">Number of Periods:</label>
-  <input type="number" id="periods" step="any" placeholder="Enter Number of Periods"><br><br>
+  <input type="number" id="periods" step="any" /><br><br>
   
   <label for="periodicDeposit">Periodic Deposit:</label>
-  <input type="number" id="periodicDeposit" step="any" placeholder="Enter Recurring Deposit Amount"><br><br>
+  <input type="number" id="periodicDeposit" step="any" /><br><br>
   
-  <label for="end">Deposit Timing:</label><br>
-  <input type="radio" id="end" name="depositTiming" value="end" checked>
-  <label for="end">End of Period</label><br>
-  
-  <input type="radio" id="beginning" name="depositTiming" value="beginning">
-  <label for="beginning">Beginning of Period</label><br><br>
+  <label for="depositTiming">Deposit Timing:</label>
+  <select id="depositTiming">
+    <option value="end">End of Period</option>
+    <option value="beginning">Beginning of Period</option>
+  </select><br><br>
   
   <button onclick="calculateFutureValue()">Calculate Future Value</button><br><br>
   
