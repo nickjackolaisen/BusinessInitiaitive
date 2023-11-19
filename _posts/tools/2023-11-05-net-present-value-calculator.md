@@ -31,16 +31,18 @@ Just input the necessary values and click "Calculate."
     }
     #calculator {
       margin: 20px auto;
-      padding: 20px;
-      border: 1px solid #ccc;
+      text-align: left;
       width: 300px;
     }
-    #results {
-      margin-top: 20px;
+    #resultBox {
       border: 1px solid #ccc;
       padding: 10px;
       width: 300px;
+      margin: 20px auto;
       display: none;
+    }
+    #result {
+      font-weight: bold;
     }
   </style>
 <body>
@@ -65,9 +67,9 @@ Just input the necessary values and click "Calculate."
   <button onclick="calculateNPV()">Calculate NPV</button>
 </div>
 
-<div id="results">
+<div id="resultBox">
   <h2>Net Present Value Result</h2>
-  <p id="npvResult"></p>
+  <p id="result"></p>
 </div>
 
 <script>
@@ -89,11 +91,15 @@ Just input the necessary values and click "Calculate."
       }
     }
 
-    document.getElementById('npvResult').innerText = `Net Present Value: $${npv.toFixed(2)}`;
-    document.getElementById('results').style.display = 'block';
+    const resultBox = document.getElementById('resultBox');
+    const resultParagraph = document.getElementById('result');
+
+    resultParagraph.innerText = `Net Present Value: $${npv.toFixed(2)}`;
+    resultBox.style.display = 'block';
   }
 </script>
 </body>
+
 
 ## Why is Net Present Value Important?
 

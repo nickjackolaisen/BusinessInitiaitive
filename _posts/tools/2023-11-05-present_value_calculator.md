@@ -22,7 +22,7 @@ To easily compute the present value, you can use this simple calculator.
 
 Just input the necessary values and click "Calculate."
 
-<h3>Present Value (PV) Calculator</h3>
+<h3>Present Value Calculator</h3>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -33,10 +33,11 @@ Just input the necessary values and click "Calculate."
       padding: 20px;
       border: 1px solid #ccc;
       width: 300px;
+      text-align: left; /* Align inputs to the left */
     }
     input[type="number"],
     input[type="text"] {
-      width: 100%;
+      width: calc(100% - 12px); /* Adjusting input width */
       margin-bottom: 10px;
       padding: 5px;
     }
@@ -47,10 +48,13 @@ Just input the necessary values and click "Calculate."
       width: 80%;
       margin-left: auto;
       margin-right: auto;
+      text-align: left; /* Align result to the left */
+    }
+    #result p {
+      font-weight: bold; /* Make the result bold */
     }
   </style>
 <body>
-
 <div class="calculator">
   <h2>Present Value Calculator</h2>
   <label for="futureValue">Future Value:</label>
@@ -75,7 +79,7 @@ Just input the necessary values and click "Calculate."
 
     var presentValue = futureValue / Math.pow(1 + interestRate, periods);
 
-    document.getElementById('result').innerHTML = "<h3>Result:</h3><p>Present Value: $" + presentValue.toFixed(2) + "</p>";
+    document.getElementById('result').innerHTML = "<h3>Result:</h3><p>Present Value: <span style='font-weight:bold;'>$" + presentValue.toFixed(2) + "</span></p>";
   }
 </script>
 </body>

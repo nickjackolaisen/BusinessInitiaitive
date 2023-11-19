@@ -23,6 +23,16 @@ To easily compute the future value, you can use this simple calculator.
 Just input the necessary values and click "Calculate."
 
 <h3>Future Value Calculator</h3>
+  <style>
+    #result {
+      border: 1px solid #000;
+      padding: 10px;
+      text-align: center; /* Center the text */
+      font-weight: bold; /* Make the text bold */
+      margin: 20px auto; /* Center the result div on the page */
+      width: fit-content; /* Adjust width to fit the content */
+    }
+  </style>
   <script>
     function calculateFutureValue() {
       // Get user inputs
@@ -44,6 +54,7 @@ Just input the necessary values and click "Calculate."
       document.getElementById('result').innerHTML = 'Future Value: ' + futureValue.toFixed(2);
     }
   </script>
+</head>
 <body>
   <h1>Future Value Calculator</h1>
   <label for="principle">Principle (Initial Investment):</label>
@@ -67,7 +78,7 @@ Just input the necessary values and click "Calculate."
   
   <button onclick="calculateFutureValue()">Calculate Future Value</button><br><br>
   
-  <div id="result" style="border: 1px solid #000; padding: 10px;"></div>
+  <div id="result"></div>
 </body>
 
 ## Why Future Value Is Important
