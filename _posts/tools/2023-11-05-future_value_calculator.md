@@ -2,7 +2,7 @@
 title: "Future Value Calculator - Analyze Your Investment's Future Worth"
 layout: post
 date: 2023-11-05
-uopdate_date: 2023-11-16
+uopdate_date: 2023-11-19
 author: jack_nicholaisen
 summary: "Are you curious to know how much your investment will be worth in the future? Our Future Value Calculator can help!" 
 permalink: /tools/calculator/future-value/
@@ -22,50 +22,47 @@ To easily compute the future value, you can use this simple calculator.
 
 Just input the necessary values and click "Calculate."
 
-
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <style>
-    body {
+    /* Add your custom CSS styles here */
+    #calculator {
+      width: 400px;
+      margin: auto;
+      padding: 20px;
+      border: 1px solid #ccc;
       text-align: center;
     }
-    #input-container, #result-container, #charts {
-      width: 80%;
-      margin: 20px auto;
-      padding: 10px;
-      border: 1px solid #ccc;
-      border-radius: 5px;
-    }
     canvas {
-      margin: 20px auto;
+      margin-top: 20px;
     }
   </style>
 <body>
-  <div id="input-container">
+  <div id="calculator">
     <h3>Future Value (FV) Calculator</h3>
-    <label for="principal">Principal (Initial Investment):</label>
-    <input type="number" id="principal"><br><br>
-    <label for="interest">Interest Rate (%):</label>
-    <input type="number" id="interest"><br><br>
-    <label for="periods">Number of Periods:</label>
-    <input type="number" id="periods"><br><br>
-    <label for="deposit">Periodic Deposit:</label>
-    <input type="number" id="deposit"><br><br>
-    <label for="depositTiming">Deposit Timing:</label>
-    <select id="depositTiming">
-      <option value="end">End of Period</option>
-      <option value="start">Beginning of Period</option>
-    </select><br><br>
+    <div>
+      <label for="principal">Principal (Initial Investment):</label>
+      <input type="number" id="principal">
+    </div>
+    <div>
+      <label for="interestRate">Interest Rate (%):</label>
+      <input type="number" id="interestRate">
+    </div>
+    <div>
+      <label for="periods">Number of Periods:</label>
+      <input type="number" id="periods">
+    </div>
+    <div>
+      <label for="deposit">Periodic Deposit:</label>
+      <input type="number" id="deposit">
+      <select id="depositType">
+        <option value="end">End of Period</option>
+        <option value="start">Start of Period</option>
+      </select>
+    </div>
     <button onclick="calculateFutureValue()">Calculate</button>
-  </div>
-
-  <div id="result-container">
-    <h2>Future Value:</h2>
-    <div id="futureValueResult"></div>
-  </div>
-
-  <div id="charts">
-    <canvas id="barChart" width="600" height="400"></canvas>
-    <canvas id="pieChart" width="600" height="400"></canvas>
+    <div id="result"></div>
+    <canvas id="barChart" width="400" height="300"></canvas>
+    <canvas id="pieChart" width="400" height="300"></canvas>
   </div>
 
   <script src="script.js"></script>
@@ -74,140 +71,88 @@ Just input the necessary values and click "Calculate."
 <script>
 function calculateFutureValue() {
   const principal = parseFloat(document.getElementById('principal').value);
-  const interest = parseFloat(document.getElementById('interest').value) / 100;
+  const interestRate = parseFloat(document.getElementById('interestRate').value) / 100;
   const periods = parseInt(document.getElementById('periods').value);
   const deposit = parseFloat(document.getElementById('deposit').value);
-  const depositTiming = document.getElementById('depositTiming').value;
+  const depositType = document.getElementById('depositType').value;
 
   let futureValue = principal;
+  let totalDeposits = 0;
   let accumulatedInterest = 0;
-  let accumulatedDeposits = 0;
-  let data = [];
 
-  for (let i = 0; i < periods; i++) {
-    if (depositTiming === 'end') {
-      futureValue = futureValue * (1 + interest) + deposit;
-      accumulatedInterest += futureValue - (principal + accumulatedDeposits);
-      accumulatedDeposits += deposit;
+  const data = [];
+  const labels = [];
+  const colors = ['#FF6384', '#36A2EB', '#FFCE56'];
+
+  for (let i = 1; i <= periods; i++) {
+    if (depositType === 'start') {
+      futureValue = futureValue * (1 + interestRate) + deposit;
+      totalDeposits += deposit;
     } else {
-      accumulatedInterest += futureValue * interest;
-      futureValue = (futureValue + deposit) * (1 + interest);
-      accumulatedDeposits += deposit;
+      futureValue = (futureValue + deposit) * (1 + interestRate);
+      totalDeposits += deposit;
     }
-    data.push({
-      period: i + 1,
-      principal: principal,
-      interest: accumulatedInterest,
-      deposits: accumulatedDeposits,
-      total: futureValue,
-    });
+    accumulatedInterest = futureValue - (principal + totalDeposits);
+    data.push([principal, accumulatedInterest, totalDeposits]);
+    labels.push(`Period ${i}`);
   }
 
-  displayResult(futureValue);
-  displayBarChart(data);
-  displayPieChart(data);
+  const resultDiv = document.getElementById('result');
+  resultDiv.innerHTML = `<p>Future Value: $${futureValue.toFixed(2)}</p>`;
+
+  createBarChart(labels, data, colors);
+  createPieChart(['Principal', 'Accumulated Interest', 'Total Deposits'], [principal, accumulatedInterest, totalDeposits], colors);
 }
 
-function displayResult(futureValue) {
-  const resultContainer = document.getElementById('futureValueResult');
-  resultContainer.innerHTML = `<p><strong>Future Value:</strong> ${futureValue.toFixed(2)}</p>`;
-}
-
-function displayBarChart(data) {
+function createBarChart(labels, data, colors) {
   const ctx = document.getElementById('barChart').getContext('2d');
-  const periods = data.map(item => item.period);
-  const values = data.map(item => item.total);
-
-  const chartData = {
-    labels: periods,
-    datasets: [{
-      label: 'Total Value',
-      data: values,
-      backgroundColor: 'rgba(54, 162, 235, 0.5)',
-      borderColor: 'rgba(54, 162, 235, 1)',
-      borderWidth: 1
-    }]
-  };
-
-  const options = {
-    scales: {
-      y: {
-        beginAtZero: true,
-        title: {
-          display: true,
-          text: 'Value of Investment'
-        }
-      },
-      x: {
-        title: {
-          display: true,
-          text: 'Periods'
-        }
-      }
+  new Chart(ctx, {
+    type: 'bar',
+    data: {
+      labels: labels,
+      datasets: data.map((item, index) => {
+        return {
+          label: `Period ${index + 1}`,
+          data: item,
+          backgroundColor: colors,
+          borderWidth: 1
+        };
+      })
     },
-    plugins: {
-      tooltip: {
-        callbacks: {
-          label: function(context) {
-            const item = data[context.dataIndex];
-            return `Period: ${item.period}, Principal: ${item.principal.toFixed(2)}, Interest: ${item.interest.toFixed(2)}, Deposits: ${item.deposits.toFixed(2)}, Total: ${item.total.toFixed(2)}`;
+    options: {
+      scales: {
+        y: {
+          beginAtZero: true,
+          title: {
+            display: true,
+            text: 'Value of Investment'
+          }
+        },
+        x: {
+          title: {
+            display: true,
+            text: 'Periods'
           }
         }
       }
     }
-  };
-
-  new Chart(ctx, {
-    type: 'bar',
-    data: chartData,
-    options: options
   });
 }
 
-function displayPieChart(data) {
+function createPieChart(labels, data, colors) {
   const ctx = document.getElementById('pieChart').getContext('2d');
-  const totalPrincipal = data[data.length - 1].principal;
-  const totalInterest = data[data.length - 1].interest;
-  const totalDeposits = data[data.length - 1].deposits;
-
-  const chartData = {
-    labels: ['Principal', 'Interest', 'Deposits'],
-    datasets: [{
-      data: [totalPrincipal, totalInterest, totalDeposits],
-      backgroundColor: [
-        'rgba(255, 99, 132, 0.5)',
-        'rgba(54, 162, 235, 0.5)',
-        'rgba(255, 206, 86, 0.5)'
-      ],
-      borderColor: [
-        'rgba(255, 99, 132, 1)',
-        'rgba(54, 162, 235, 1)',
-        'rgba(255, 206, 86, 1)'
-      ],
-      borderWidth: 1
-    }]
-  };
-
-  const options = {
-    plugins: {
-      legend: {
-        position: 'bottom'
-      },
-      tooltip: {
-        callbacks: {
-          label: function(context) {
-            const labels = ['Principal', 'Interest', 'Deposits'];
-            return `${labels[context.dataIndex]}: ${chartData.datasets[0].data[context.dataIndex].toFixed(2)}`;
-          }
-        }
-      }
-    }
-  };
-
   new Chart(ctx, {
     type: 'pie',
-    data: chartData,
-    options: options
+    data: {
+      labels: labels,
+      datasets: [{
+        data: data,
+        backgroundColor: colors
+      }]
+    },
+    options: {
+      responsive: true
+    }
   });
 }
 </script>
