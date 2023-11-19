@@ -65,7 +65,7 @@ Just input the necessary values and click "Calculate."
   <button onclick="calculateNPV()">Calculate NPV</button>
 
 <div id="resultBox">
-  <h2>Net Present Value Result</h2>
+  <h3>Net Present Value=</h3>
   <p id="result"></p>
 </div>
 
@@ -79,7 +79,7 @@ Just input the necessary values and click "Calculate."
     for (let i = 1; i <= numLines; i++) {
       const cashflowInput = document.createElement('input');
       cashflowInput.setAttribute('type', 'number');
-      cashflowInput.setAttribute('placeholder', `Cashflow for period ${i}`);
+      cashflowInput.setAttribute('placeholder', `Cashflow #${i}`);
       cashflowInput.setAttribute('id', `cashflow${i}`);
       cashflowInputsDiv.appendChild(cashflowInput);
       cashflowInputsDiv.appendChild(document.createElement('br'));
@@ -107,7 +107,7 @@ Just input the necessary values and click "Calculate."
     const resultBox = document.getElementById('resultBox');
     const resultParagraph = document.getElementById('result');
 
-    resultParagraph.innerText = `Net Present Value: $${npv.toFixed(2)}`;
+    resultParagraph.innerText = `$${npv.toFixed(2)}`;
     resultBox.style.display = 'block';
   }
 </script>
