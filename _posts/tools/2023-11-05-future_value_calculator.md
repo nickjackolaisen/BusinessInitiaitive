@@ -151,7 +151,6 @@ Using these variables, you can use a formula or an online calculator to determin
 <body>
   <div>
     <label for="principal">Principal (Initial Investment):</label>
-    <input type="number" id="principle" ><br><br>
   <input type="number" id="principal" placeholder="Enter initial investment" required><br><br>
   <label for="interestRate">Interest Rate (%):</label>
   <input type="number" id="interestRate" placeholder="Enter interest rate" step="0.01" required><br><br>

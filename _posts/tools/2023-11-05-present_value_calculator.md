@@ -22,48 +22,127 @@ To easily compute the present value, you can use this simple calculator.
 
 Just input the necessary values and click "Calculate."
 
-<body>
-    <h3>Present Value Calculator</h3>
-    <form id="pv-calculator">
-        <label for="future-value">Future Value:</label>
-        <input type="number" id="future-value" required><br><br>
-        <label for="discount-rate">Discount Rate (%):</label>
-        <input type="number" id="discount-rate" step="0.01" required><br><br>
-        <label for="periods">Number of Periods:</label>
-        <input type="number" id="periods" required><br><br>
-        <button type="button" onclick="calculatePV()">Calculate</button>
-    </form>
-    <h3>Present Value: $<span id="result"></span></h3>
-    <script>
-        function calculatePV() {
-            const futureValue = parseFloat(document.getElementById("future-value").value);
-            const discountRate = parseFloat(document.getElementById("discount-rate").value) / 100;
-            const periods = parseFloat(document.getElementById("periods").value);
-            const presentValue = futureValue / Math.pow(1 + discountRate, periods);
-            document.getElementById("result").textContent = presentValue.toFixed(2);
-        }
-    </script>
-</body>
+<h3>Present Value Calculator</h3>
+  <!-- Link Chart.js library -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <style>
-        body {
-            margin: 50px;
-        }
-        .calculator {
-            width: 300px;
-            margin: 0 auto;
-        }
-        .input-group {
-            margin-bottom: 10px;
-        }
-        input[type="number"] {
-            width: 100%;
-            padding: 8px;
-            box-sizing: border-box;
-        }
-        .result {
-            font-weight: bold;
-        }
+    /* CSS for styling purposes */
+    #result {
+      width: 300px;
+      height: 50px;
+      border: 1px solid #000;
+      margin-bottom: 20px;
+      padding: 10px;
+    }
+    #charts {
+      display: flex;
+      justify-content: space-between;
+    }
+    canvas {
+      margin-top: 20px;
+    }
 </style>
+<body>
+  <h1>Present Value Calculator</h1>
+  <label for="futureValue">Future Value:</label>
+  <input type="number" id="futureValue"><br><br>
+  
+  <label for="periods">Number of Periods:</label>
+  <input type="number" id="periods"><br><br>
+  
+  <label for="interestRate">Interest Rate (%):</label>
+  <input type="number" id="interestRate"><br><br>
+  
+  <button onclick="calculatePresentValue()">Calculate</button>
+  
+  <div id="result"></div>
+  
+  <div id="charts">
+    <canvas id="barChart" width="400" height="300"></canvas>
+    <canvas id="pieChart" width="400" height="300"></canvas>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
+
+<script>
+function calculatePresentValue() {
+  // Get user inputs
+  const futureValue = parseFloat(document.getElementById('futureValue').value);
+  const periods = parseInt(document.getElementById('periods').value);
+  const interestRate = parseFloat(document.getElementById('interestRate').value) / 100;
+
+  // Calculate present value
+  const presentValue = futureValue / Math.pow((1 + interestRate), periods);
+
+  // Display present value
+  document.getElementById('result').innerHTML = `Present Value: ${presentValue.toFixed(2)}`;
+
+  // Chart data
+  const initialPrincipal = [];
+  const accumulatedInterest = [];
+  const totalValue = [];
+
+  for (let i = 1; i <= periods; i++) {
+    initialPrincipal.push(futureValue / Math.pow((1 + interestRate), i));
+    accumulatedInterest.push((futureValue / Math.pow((1 + interestRate), i)) - (futureValue / Math.pow((1 + interestRate), i - 1)));
+    totalValue.push(futureValue - initialPrincipal[i - 1]);
+  }
+
+  // Bar Chart
+  const barCtx = document.getElementById('barChart').getContext('2d');
+  const barChart = new Chart(barCtx, {
+    type: 'bar',
+    data: {
+      labels: Array.from({ length: periods }, (_, i) => `Period ${i + 1}`),
+      datasets: [
+        {
+          label: 'Initial Principal',
+          backgroundColor: 'rgba(255, 99, 132, 0.5)',
+          data: initialPrincipal,
+        },
+        {
+          label: 'Accumulated Interest',
+          backgroundColor: 'rgba(54, 162, 235, 0.5)',
+          data: accumulatedInterest,
+        },
+        {
+          label: 'Total Value',
+          backgroundColor: 'rgba(75, 192, 192, 0.5)',
+          data: totalValue,
+        },
+      ],
+    },
+    options: {
+      scales: {
+        xAxes: [{ stacked: true }],
+        yAxes: [{ stacked: true }],
+      },
+    },
+  });
+
+  // Pie Chart
+  const pieCtx = document.getElementById('pieChart').getContext('2d');
+  const pieChart = new Chart(pieCtx, {
+    type: 'pie',
+    data: {
+      labels: ['Initial Principal', 'Accumulated Interest', 'Total Value'],
+      datasets: [{
+        data: [
+          initialPrincipal.reduce((a, b) => a + b, 0),
+          accumulatedInterest.reduce((a, b) => a + b, 0),
+          totalValue.reduce((a, b) => a + b, 0),
+        ],
+        backgroundColor: ['rgba(255, 99, 132, 0.5)', 'rgba(54, 162, 235, 0.5)', 'rgba(75, 192, 192, 0.5)'],
+      }],
+    },
+    options: {
+      responsive: true,
+    },
+  });
+}
+</script>
 
 ## Why is Present Value Important?
 
@@ -74,124 +153,6 @@ By calculating the present value of future cash flows, you can determine whether
 For example, if you are considering investing in a stock that will pay out $1,000 in five years, calculating its present value will tell you how much that $1,000 is worth today. 
 
 This information allows you to compare the potential return on investment with other opportunities and make a more informed decision.
-
-
-
-  <h3>Present Value Calculator</h3>
-  <!-- Load Chart.js library -->
-  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-<body>
-  <h1>Present Value Calculator</h1>
-  
-  <!-- Future Value Calculator -->
-  <h2>Present Value of Future Money</h2>
-  Future Value: <input type="number" id="futureValue"><br>
-  Number of Periods: <input type="number" id="numPeriods1"><br>
-  Interest Rate (%): <input type="number" id="interestRate1"><br>
-  <button onclick="calculateFutureValue()">Calculate Future Value</button>
-  
-  <!-- Periodic Deposits Calculator -->
-  <h2>Present Value of Periodic Deposits</h2>
-  Principle (Initial Investment): <input type="number" id="principle"><br>
-  Interest Rate (%): <input type="number" id="interestRate2"><br>
-  Number of Periods: <input type="number" id="numPeriods2"><br>
-  Periodic Deposit: <input type="number" id="periodicDeposit"><br>
-  <button onclick="calculatePeriodicDeposits()">Calculate Periodic Deposits</button>
-  
-  <!-- Present Value Result -->
-  <h2>Present Value Result</h2>
-  <div id="presentValueResult" style="border: 1px solid black; padding: 10px;"></div>
-  
-  <!-- Chart Canvas -->
-  <canvas id="pieChart" width="20%" height="auto"></canvas>
-  <canvas id="barChart" width="70%" height="auto"></canvas>
-  
-  <script>
-    // Function to calculate present value of future money
-    function calculateFutureValue() {
-      const futureValue = parseFloat(document.getElementById('futureValue').value);
-      const numPeriods = parseInt(document.getElementById('numPeriods1').value);
-      const interestRate = parseFloat(document.getElementById('interestRate1').value) / 100;
-      
-      // Calculation of present value for future money
-      const presentValue = futureValue / Math.pow(1 + interestRate, numPeriods);
-      
-      // Display present value result
-      document.getElementById('presentValueResult').innerHTML = `Present Value of Future Money: ${presentValue.toFixed(2)}`;
-    }
-    
-    // Function to calculate present value of periodic deposits
-    function calculatePeriodicDeposits() {
-      const principle = parseFloat(document.getElementById('principle').value);
-      const interestRate = parseFloat(document.getElementById('interestRate2').value) / 100;
-      const numPeriods = parseInt(document.getElementById('numPeriods2').value);
-      const periodicDeposit = parseFloat(document.getElementById('periodicDeposit').value);
-      
-      // Calculation of present value for periodic deposits
-      let presentValue = 0;
-      for (let i = 1; i <= numPeriods; i++) {
-        presentValue += periodicDeposit / Math.pow(1 + interestRate, i);
-      }
-      presentValue += principle / Math.pow(1 + interestRate, numPeriods);
-      
-      // Display present value result
-      document.getElementById('presentValueResult').innerHTML = `Present Value of Periodic Deposits: ${presentValue.toFixed(2)}`;
-      
-      // Visualization - Pie Chart
-      const pieChartCanvas = document.getElementById('pieChart');
-      new Chart(pieChartCanvas, {
-        type: 'pie',
-        data: {
-          labels: ['Present Value', 'Future Value'],
-          datasets: [{
-            data: [presentValue, principle + (periodicDeposit * numPeriods)],
-            backgroundColor: ['blue', 'orange']
-          }]
-        }
-      });
-      
-      // Visualization - Bar Chart
-      const barChartCanvas = document.getElementById('barChart');
-      new Chart(barChartCanvas, {
-        type: 'bar',
-        data: {
-          labels: Array.from({ length: numPeriods }, (_, i) => `Period ${i + 1}`),
-          datasets: [{
-            label: 'Investment Breakdown',
-            data: Array.from({ length: numPeriods }, (_, i) => {
-              const accumulatedInterest = (principle + (periodicDeposit * i)) * interestRate;
-              return {
-                x: `Period ${i + 1}`,
-                y: principle + (accumulatedInterest + (periodicDeposit * i)),
-                principle: principle,
-                interest: accumulatedInterest,
-                deposits: periodicDeposit * i
-              };
-            }),
-            backgroundColor: 'green'
-          }]
-        },
-        options: {
-          scales: {
-            x: { title: { display: true, text: 'Periods' } },
-            y: { title: { display: true, text: 'Value of Investment' } }
-          },
-          plugins: {
-            tooltip: {
-              callbacks: {
-                label: (context) => {
-                  const data = context.dataset.data[context.dataIndex];
-                  return [`Principle: ${data.principle.toFixed(2)}`, `Interest: ${data.interest.toFixed(2)}`, `Deposits: ${data.deposits.toFixed(2)}`, `Total: ${context.raw.y.toFixed(2)}`];
-                }
-              }
-            }
-          }
-        }
-      });
-    }
-  </script>
-</body>
-
 
 ## How to Use Present Value Calculator Properly
 
