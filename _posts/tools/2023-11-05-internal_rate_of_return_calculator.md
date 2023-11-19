@@ -24,7 +24,6 @@ To easily compute the internal rate of return, you can use our simple calculator
 
 Just input the initial investment and cash flows for each period, then click "Calculate."
 
-
 <style>
     #results {
       text-align: center;
@@ -51,7 +50,7 @@ Just input the initial investment and cash flows for each period, then click "Ca
 
   <div id="results"></div>
 
-  <script>
+<script>
     function addRow() {
       const table = document.getElementById('cashFlowTable');
       const rowCount = table.rows.length;
@@ -129,7 +128,7 @@ Just input the initial investment and cash flows for each period, then click "Ca
       }
       return derivative;
     }
-  </script>
+</script>
 </body>
 
 ## Why is Internal Rate of Return Important?
