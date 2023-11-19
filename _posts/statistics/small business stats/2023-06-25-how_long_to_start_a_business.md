@@ -2,7 +2,7 @@
 title: "How Long Does it Take to Start a Small Business?"
 layout: post
 date: 2023-06-25
-update_date: 2023-09-27
+update_date: 2023-11-19
 author: jack_nicholaisen
 summary: "Starting a small business is a dream for many, but its duration depends on factors like type, location, experience, and resources."
 image: /images/posts-headers/how-long-start-business-header.png
@@ -61,7 +61,7 @@ Starting a business can be a challenging and lengthy process.
 
 It requires patience and perseverance to overcome obstacles and achieve success.
 
-<p><b>➤ CAUTION: </b> <a href="https://www.businessinitiative.org/stats/small-businesses/reasons-why-businesses-fail/" target="_blank"> The biggest challenges causing new businesses to FAIL!</a></p>
+<p><b>➤ CAUTION: </b> <a href="https://www.businessinitiative.org/statistics/small-businesses/reasons-why-businesses-fail/" target="_blank"> The biggest challenges causing new businesses to FAIL!</a></p>
 
 Overall, starting a business can take anywhere from a few months to over a year, depending on the complexity of the venture and your diligence. 
 

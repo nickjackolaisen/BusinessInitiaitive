@@ -2,7 +2,7 @@
 title: "The Impact of Economic Business Cycles on Business Structures: A Statistical Perspective"
 layout: post
 date: 2023-08-05
-update_date: 2023-09-22
+update_date: 2023-11-19
 author: jack_nicholaisen
 summary: "Explore how economic cycles affect business structures. Learn factors influencing choice and industry trends in this insightful analysis."
 permalink: /statistics/business-structures/economic-cycles/
@@ -166,7 +166,7 @@ Economic cycles play a significant role in shaping the formation and success of 
 
 By understanding the impacts of these cycles, factors influencing structure choice, and industry-specific trends, entrepreneurs and business owners can make more informed decisions and better navigate the financial landscape.
 
-Stay ahead of the curve by considering [these insights and others](https://www.businessinitiative.org/stats/) when choosing and managing your business structure.
+Stay ahead of the curve by considering [these insights and others](https://www.businessinitiative.org/statistics/) when choosing and managing your business structure.
 
 Don't miss out on the chance to thrive through economic ups and downs...
 

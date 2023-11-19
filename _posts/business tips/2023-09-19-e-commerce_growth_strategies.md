@@ -2,7 +2,7 @@
 title: "E-commerce Growth Strategies for Small Businesses in 2024"
 layout: post
 date: 2023-09-19
-update_date: 2023-10-10
+update_date: 2023-11-19
 author: jack_nicholaisen
 summary: "Discover top e-commerce growth strategies for small businesses in 2024! Here lie the secrets to more sales, better reach, and increased customer engagement."
 image: /images/posts-headers/e-comm-growth-strategies-header.png
@@ -569,7 +569,7 @@ Staying agile, adaptable, and informed about industry trends will be key to navi
 
 ### Keep Learning: Revisit for Updates and Insights
 
-Continual learning is essential for staying ahead in the ever-changing world of e-commerce. Be sure to revisit [this article on e-commerce growth strategies](https://www.businessinitiative.org/stats/ecommerce-growth-strategies/) for updates and further insights. 
+Continual learning is essential for staying ahead in the ever-changing world of e-commerce. Be sure to bookmark and revisit [this article on e-commerce growth strategies](https://www.businessinitiative.org/business-tips/e-commerce/growth-strategies/) for updates and further insights. 
 
 Stay curious and keep exploring new tactics to ensure your small business remains at the forefront of e-commerce success.
 

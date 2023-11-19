@@ -2,7 +2,7 @@
 title: "The Family-Owned Business - Analysis of Their Success and Longevity"
 layout: post
 date: 2023-08-07
-update_date: 2023-09-27
+update_date: 2023-11-19
 author: jack_nicholaisen
 summary: "Explore family-owned businesses' success rates, longevity, and growth factors. Gain insights to navigate unique challenges and benefits."
 permalink: /statistics/demographics/family-owned/
@@ -126,7 +126,7 @@ By prioritizing succession planning, balancing family and business roles, embrac
 
 Are you ready to take your family-owned business to new heights?
 
-Explore our [resources](https://www.businessinitiative.org/stats/) and [consulting services](https://calendly.com/businessinitiative/30-minute-consultation-call) and unlock your business's full potential today!
+Explore our [resources](https://www.businessinitiative.org/statistics/) and [consulting services](https://calendly.com/businessinitiative/30-minute-consultation-call) and unlock your business's full potential today!
 
 <br>
 <details>

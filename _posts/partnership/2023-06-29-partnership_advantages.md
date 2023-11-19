@@ -2,7 +2,7 @@
 title: 9 Key Partnership Advantages to Separate You From the Crowd
 layout: post
 date: 2023-06-29
-update_date: 2023-09-21
+update_date: 2023-11-19
 author: jack_nicholaisen
 summary: "Starting a business with a team of professionals but don't know if a Partnership is worth it? Check out their benefits and see for yourself." 
 permalink: /partnership/advantages/
@@ -234,7 +234,7 @@ When the company is a Partnership, you aren't stuck doing every little thing you
 
 Instead, you and your partners support one another. 
 
-<p><b>➤ PREVENT: </b> <a href="https://www.businessinitiative.org/stats/small-businesses/reasons-why-businesses-fail/">The WORST challenges businesses encounter!</a></p>
+<p><b>➤ PREVENT: </b> <a href="https://www.businessinitiative.org/statistics/small-businesses/reasons-why-businesses-fail/">The WORST challenges businesses encounter!</a></p>
 
 When a big project is on the table, it can be divided and delegated based on a Partner’s skills and current workload.
 

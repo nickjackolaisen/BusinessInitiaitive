@@ -2,7 +2,7 @@
 title: "What Percentage of Small Businesses Fail Within the First Year?"
 layout: post
 date: 2023-06-29
-update_date: 2023-09-27
+update_date: 2023-11-19
 author: jack_nicholaisen
 summary: "Exploring small business failure rates in the first year and how to increase your chances of success."
 permalink: /statistics/small-business-failure-rate/
@@ -56,7 +56,7 @@ Ignoring legal requirements can lead to costly fines and legal battles.
 
 To avoid this, entrepreneurs should research and comply with all legal requirements for their industry.
 
-<p><b>➤ LEARN: </b> <a href="https://www.businessinitiative.org/stats/small-businesses/reasons-why-businesses-fail/" target="_blank"> Avoid these common pitfalls - and MORE!</a></p>
+<p><b>➤ LEARN: </b> <a href="https://www.businessinitiative.org/statistics/small-businesses/reasons-why-businesses-fail/" target="_blank"> Avoid these common pitfalls - and MORE!</a></p>
 
 To increase the likelihood of small business success, entrepreneurs should take the following measures:
 

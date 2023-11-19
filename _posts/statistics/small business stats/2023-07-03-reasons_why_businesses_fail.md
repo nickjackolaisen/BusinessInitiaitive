@@ -2,7 +2,7 @@
 title: "The Most Common Reasons Why Small Businesses Fail"
 layout: post
 date: 2023-07-03
-update_date: 2023-09-27
+update_date: 2023-11-19
 author: jack_nicholaisen
 summary: "Identify the common obstacles and pitfalls small businesses face. Develop effective strategies to build a successful business by learning from others' mistakes."
 permalink: /statistics/small-businesses/reasons-why-businesses-fail/
@@ -22,7 +22,7 @@ One of the most common reasons for small business failure is a lack of adequate 
 
 Without sufficient funds, businesses can't cover their expenses, invest in growth, or weather financial storms.
 
-<p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/stats/small-business-failure-rate/" target="_blank"> How many businesses FAIL within their first year?</a></p>
+<p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/statistics/small-business-failure-rate/" target="_blank"> How many businesses FAIL within their first year?</a></p>
 
 ### Preventative Measures:
 

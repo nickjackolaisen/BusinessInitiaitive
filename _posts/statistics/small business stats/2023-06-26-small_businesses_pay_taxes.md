@@ -2,7 +2,7 @@
 title: "How Much Do Small Businesses Pay in Taxes? | 2023"
 layout: post
 date: 2023-06-26
-update_date: 2023-09-27
+update_date: 2023-11-19
 author: jack_nicholaisen
 summary: "Learn about small business taxes and how to navigate the system with BusinessInitiative.com. Avoid penalties and fines."
 permalink: /statistics/small-businesses/how-much-do-small-businesses-pay-in-taxes/
@@ -44,7 +44,7 @@ Here are the three industries where small businesses pay the most in taxes on av
 
 **3.  Retail Trade:** Small businessses in this industry pay an average effective tax rate of **19.4%**
 
-<p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/stats/small-businesses/average-tax-rate/">Click here to see which industry pays HIGHER tax than Manufacturing!</a></p>
+<p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/statistics/small-businesses/average-tax-rate/">Click here to see which industry pays HIGHER tax than Manufacturing!</a></p>
 
 ## Which industries do small businesses pay the LEAST in taxes?
 
@@ -62,7 +62,7 @@ Small businesses have to pay various types of taxes, and it's crucial to underst
 
 Here is a quick breakdown of **the 15 most common taxes small businesses pay**:
 
-<p><b>➤ SAVE: </b> <a href="https://www.businessinitiative.org/stats/small-businesses/tax-deductions/">7 Quick tax deductions you can benefit from TODAY!</a></p>
+<p><b>➤ SAVE: </b> <a href="https://www.businessinitiative.org/statistics/small-businesses/tax-deductions/">7 Quick tax deductions you can benefit from TODAY!</a></p>
 
 ### 1.  Income Tax:
 
