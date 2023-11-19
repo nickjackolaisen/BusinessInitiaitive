@@ -27,7 +27,6 @@ Just input the necessary values and click "Calculate."
   <style>
     body {
       font-family: Arial, sans-serif;
-      text-align: center;
     }
     #calculator {
       margin: 20px auto;
@@ -71,6 +70,7 @@ Just input the necessary values and click "Calculate."
   <h2>Net Present Value Result</h2>
   <p id="result"></p>
 </div>
+</body>
 
 <script>
   function calculateNPV() {
@@ -98,7 +98,6 @@ Just input the necessary values and click "Calculate."
     resultBox.style.display = 'block';
   }
 </script>
-</body>
 
 
 ## Why is Net Present Value Important?

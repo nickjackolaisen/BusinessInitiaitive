@@ -26,7 +26,6 @@ Just input the necessary values and click "Calculate."
   <style>
     body {
       font-family: Arial, sans-serif;
-      text-align: center;
     }
     .calculator {
       margin: 20px auto;
@@ -70,6 +69,7 @@ Just input the necessary values and click "Calculate."
 </div>
 
 <div id="result"></div>
+</body>
 
 <script>
   function calculatePresentValue() {
@@ -82,7 +82,6 @@ Just input the necessary values and click "Calculate."
     document.getElementById('result').innerHTML = "<h3>Result:</h3><p>Present Value: <span style='font-weight:bold;'>$" + presentValue.toFixed(2) + "</span></p>";
   }
 </script>
-</body>
 
 
 ## Why is Present Value Important?
