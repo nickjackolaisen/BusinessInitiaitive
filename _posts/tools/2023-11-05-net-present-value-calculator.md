@@ -22,6 +22,7 @@ To easily compute the net present value, you can use this simple calculator.
 
 Just input the necessary values and click "Calculate."
 
+
 <style>
     #calculator {
       margin: 20px auto;
@@ -39,7 +40,9 @@ Just input the necessary values and click "Calculate."
       font-weight: bold;
     }
 </style>
+
 <body>
+
   <label for="interestRate">Interest Rate (discount rate):</label>
   <input type="number" id="interestRate" step="0.01" placeholder="Interest Rate (%)"><br><br>
 
@@ -52,18 +55,36 @@ Just input the necessary values and click "Calculate."
     <option value="beginning">Apply Cashflows at the beginning of the period</option>
   </select><br><br>
 
-  <label for="numLines">Number of Cashflow Lines:</label>
-  <input type="number" id="numLines" placeholder="Number of Lines"><br><br>
+  <label for="numLines">Number of Cashflow Periods:</label>
+  <input type="number" id="numLines" placeholder="Number of Cashflow Lines"><br><br>
 
+  <div id="cashflowInputs"></div><br>
+
+  <button onclick="generateCashflowInputs()">Generate Cashflow Inputs</button>
   <button onclick="calculateNPV()">Calculate NPV</button>
 
 <div id="resultBox">
-  <h3>Net Present Value Result =</h3>
+  <h2>Net Present Value Result</h2>
   <p id="result"></p>
 </div>
-</body>
 
 <script>
+  function generateCashflowInputs() {
+    const numLines = parseInt(document.getElementById('numLines').value);
+    const cashflowInputsDiv = document.getElementById('cashflowInputs');
+
+    cashflowInputsDiv.innerHTML = ''; // Clear previous inputs
+
+    for (let i = 1; i <= numLines; i++) {
+      const cashflowInput = document.createElement('input');
+      cashflowInput.setAttribute('type', 'number');
+      cashflowInput.setAttribute('placeholder', `Cashflow for period ${i}`);
+      cashflowInput.setAttribute('id', `cashflow${i}`);
+      cashflowInputsDiv.appendChild(cashflowInput);
+      cashflowInputsDiv.appendChild(document.createElement('br'));
+    }
+  }
+
   function calculateNPV() {
     const interestRate = parseFloat(document.getElementById('interestRate').value);
     const compounds = parseInt(document.getElementById('compounds').value);
@@ -73,7 +94,7 @@ Just input the necessary values and click "Calculate."
     let npv = 0;
 
     for (let i = 1; i <= numLines; i++) {
-      const cashflow = parseFloat(prompt(`Enter cashflow for period ${i}`));
+      const cashflow = parseFloat(document.getElementById(`cashflow${i}`).value);
 
       if (cashflowsType === 'beginning') {
         npv += cashflow / Math.pow((1 + interestRate / compounds), i - 1);
@@ -85,10 +106,11 @@ Just input the necessary values and click "Calculate."
     const resultBox = document.getElementById('resultBox');
     const resultParagraph = document.getElementById('result');
 
-    resultParagraph.innerText = ` $${npv.toFixed(2)}`;
+    resultParagraph.innerText = `Net Present Value: $${npv.toFixed(2)}`;
     resultBox.style.display = 'block';
   }
 </script>
+</body>
 
 
 ## Why is Net Present Value Important?
