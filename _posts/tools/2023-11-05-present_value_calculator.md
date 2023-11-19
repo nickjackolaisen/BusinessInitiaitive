@@ -58,13 +58,12 @@ Just input the necessary values and click "Calculate."
   <div id="result"></div>
   
   <div id="charts">
-    <canvas id="barChart" width="400" height="300"></canvas>
-    <canvas id="pieChart" width="400" height="300"></canvas>
+    <canvas id="barChart" width="200" height="150"></canvas>
+    <canvas id="pieChart" width="200" height="150"></canvas>
   </div>
 
   <script src="script.js"></script>
 </body>
-</html>
 
 <script>
 function calculatePresentValue() {
