@@ -86,6 +86,10 @@ Nevertheless, understanding present value can help individuals and businesses ma
 
 ## FAQs - Frequently Asked Questions About Present Value
 
+<center>
+<img alt="Questions and Answers" src="/images/content/answers.png" title="FAQ - Answers this way..." style="width: 63%; height: 63%">
+</center>
+
 <h3>What is the difference between present value and future value</h3>
 <p>Present value is the current worth of a future cash flow, while future value is the amount that an investment will be worth at a specific point in the future.</p>
 <details>

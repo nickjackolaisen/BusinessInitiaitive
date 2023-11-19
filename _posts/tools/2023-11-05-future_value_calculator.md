@@ -115,6 +115,10 @@ To use them effectively:
 
 ## FAQs - Frequently Asked Questions About Future Value
 
+<center>
+<img alt="Questions and Answers" src="/images/content/answers.png" title="FAQ - Answers this way..." style="width: 63%; height: 63%">
+</center>
+
 <h3>What is the formula for calculating future value?</h3>
 <p>The formula for calculating future value is FV = PV x (1 + r)^n, where FV is the future value, PV is the present value, r is the interest rate, and n is the number of periods.</p>
 <details>

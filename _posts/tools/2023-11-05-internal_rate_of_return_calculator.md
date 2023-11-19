@@ -2,7 +2,7 @@
 title: "Internal Rate of Return Calculator - Evaluate Your Investment's Profitability"
 layout: post
 date: 2023-11-05
-uopdate_date: 2023-11-16
+uopdate_date: 2023-11-19
 author: jack_nicholaisen
 summary: "Looking for a way to calculate your investment's profitability? Our Internal Rate of Return Calculator is just what you need!" 
 permalink: /tools/calculator/internal-rate-of-return/
@@ -154,6 +154,10 @@ Despite these limitations, IRR remains a valuable tool for evaluating investment
 By understanding how to use it properly, investors can make informed decisions about where to allocate their capital and maximize their returns.
 
 ## FAQs - Frequentl Asked Questions About Internal Rate of Return
+
+<center>
+<img alt="Questions and Answers" src="/images/content/answers.png" title="FAQ - Answers this way..." style="width: 63%; height: 63%">
+</center>
 
 <h3>What is the difference between IRR and ROI?</h3>
 <p>ROI measures the amount of return on an investment relative to its cost, while IRR is the discount rate that makes the net present value of an investment's cash flows equal zero.</p>

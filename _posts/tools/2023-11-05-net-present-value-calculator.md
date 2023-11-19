@@ -2,7 +2,7 @@
 title: "Net Present Value Calculator- Maximize Your Investment Potential"
 layout: post
 date: 2023-11-05
-uopdate_date: 2023-11-16
+uopdate_date: 2023-11-19
 author: jack_nicholaisen
 summary: "Learn to calculate profitability with Net Present Value! Maximize your investment potential with this comprehensive guide. #NPV #InvestmentTips" 
 permalink: /tools/calculator/net-present-value/
@@ -132,6 +132,10 @@ Additionally, when comparing multiple investment opportunities, choose the one w
 By properly utilizing NPV in your financial decision making process, you can make more informed decisions about where to invest your money and maximize your potential returns.
 
 ## FAQs - Frequently Asked Questions About Net Present Value
+
+<center>
+<img alt="Questions and Answers" src="/images/content/answers.png" title="FAQ - Answers this way..." style="width: 63%; height: 63%">
+</center>
 
 <h3>What is the difference between NPV and IRR?</h3>
 <p>NPV calculates the net present value of an investment based on its expected future earnings while IRR calculates the rate at which an investment breaks even.</p>

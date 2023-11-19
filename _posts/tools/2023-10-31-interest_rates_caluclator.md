@@ -2,7 +2,7 @@
 title: "Interest and Interest Rate Calculator for Entrepreneurs & Business Owners"
 layout: post
 date: 2023-10-31
-update_date: 2023-11-09
+update_date: 2023-11-19
 author: jack_nicholaisen
 summary: "Boost your business success by mastering interest rates! Learn all about simple & compound interest in our comprehensive guide. 📈💼" 
 permalink: /tools/calculator/interest-and-interest-rates/
@@ -327,11 +327,14 @@ Take action now and unlock your full potential as a savvy entrepreneur with mast
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
-
 <a id="faqs"> 
-
+<br>
 
 ## Frequently Asked Questions
+
+<center>
+<img alt="Questions and Answers" src="/images/content/answers.png" title="FAQ - Answers this way..." style="width: 63%; height: 63%">
+</center>
 
 <h3>What is the difference between simple and compound interest?</h3>
 <p>Simple interest is calculated only on the initial principal amount, while compound interest is calculated on the initial principal plus any accumulated interest from previous periods.</p>
