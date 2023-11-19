@@ -5,6 +5,7 @@ date: 2023-11-05
 uopdate_date: 2023-11-19
 author: jack_nicholaisen
 summary: "Learn to calculate profitability with Net Present Value! Maximize your investment potential with this comprehensive guide. #NPV #InvestmentTips" 
+image: /images/posts-headers/calculator/tmv-net-present-value-calculator-header.png
 permalink: /tools/calculator/net-present-value/
 ---
 
