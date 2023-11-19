@@ -58,7 +58,7 @@ Just input the necessary values and click "Calculate."
   <button onclick="calculateNPV()">Calculate NPV</button>
 
 <div id="resultBox">
-  <h2>Net Present Value Result</h2>
+  <h3>Net Present Value Result =</h3>
   <p id="result"></p>
 </div>
 </body>
@@ -85,7 +85,7 @@ Just input the necessary values and click "Calculate."
     const resultBox = document.getElementById('resultBox');
     const resultParagraph = document.getElementById('result');
 
-    resultParagraph.innerText = `Net Present Value: $${npv.toFixed(2)}`;
+    resultParagraph.innerText = ` $${npv.toFixed(2)}`;
     resultBox.style.display = 'block';
   }
 </script>

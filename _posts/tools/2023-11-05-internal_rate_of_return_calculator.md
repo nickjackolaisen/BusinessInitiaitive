@@ -26,71 +26,109 @@ Just input the initial investment and cash flows for each period, then click "Ca
 
 
 <style>
-    #result-box {
-      width: 300px;
-      margin: 20px auto;
-      padding: 10px;
-      border: 1px solid #ccc;
+    #results {
       text-align: center;
+      border: 1px solid #ccc;
+      padding: 10px;
     }
 </style>
 </head>
 <body>
-    <label for="initial-investment">Initial Investment:</label>
-    <input type="number" id="initial-investment">
-    <br><br>
-    <label for="num-periods">Number of Periods:</label>
-    <input type="number" id="num-periods">
-    <br><br>
-    <label for="cash-flows">Cash Flows (separated by commas):</label>
-    <input type="text" id="cash-flows">
-    <br><br>
+    <label for="initialInvestment">Initial Investment:</label>
+    <input type="number" id="initialInvestment" placeholder="Enter initial investment"><br><br>
+    <table id="cashFlowTable">
+      <tr>
+        <th>Period</th>
+        <th>Cash Flow</th>
+      </tr>
+      <tr>
+        <td><input type="number" class="period" placeholder="Period 1"></td>
+        <td><input type="number" class="cashFlow" placeholder="Cash Flow"></td>
+      </tr>
+    </table>
+    <button onclick="addRow()">Add Row</button>
+    <button onclick="removeRow()">Remove Row</button><br><br>
     <button onclick="calculateIRR()">Calculate IRR</button>
 
-  <div id="result-box"></div>
+  <div id="results"></div>
 
   <script>
-    function calculateIRR() {
-      const initialInvestment = parseFloat(document.getElementById('initial-investment').value);
-      const numPeriods = parseInt(document.getElementById('num-periods').value);
-      const cashFlowsInput = document.getElementById('cash-flows').value;
-      const cashFlows = cashFlowsInput.split(',').map(parseFloat);
+    function addRow() {
+      const table = document.getElementById('cashFlowTable');
+      const rowCount = table.rows.length;
+      const row = table.insertRow(rowCount);
+      const periodCell = row.insertCell(0);
+      const cashFlowCell = row.insertCell(1);
 
-      const irr = computeIRR(initialInvestment, numPeriods, cashFlows);
-      displayResult(irr);
+      periodCell.innerHTML = `<input type="number" class="period" placeholder="Period ${rowCount}">`;
+      cashFlowCell.innerHTML = '<input type="number" class="cashFlow" placeholder="Cash Flow">';
     }
 
-    function computeIRR(initialInvestment, numPeriods, cashFlows) {
-      const tolerance = 0.0001;
-      let irrGuess = 0.1; // Initial guess for IRR
-      let iterations = 0;
+    function removeRow() {
+      const table = document.getElementById('cashFlowTable');
+      const rowCount = table.rows.length;
+      if (rowCount > 2) {
+        table.deleteRow(rowCount - 1);
+      }
+    }
+
+    function calculateIRR() {
+      const initialInvestment = parseFloat(document.getElementById('initialInvestment').value);
+      const cashFlows = [];
+      const periods = document.getElementsByClassName('period');
+      const cashFlowInputs = document.getElementsByClassName('cashFlow');
+
+      for (let i = 0; i < cashFlowInputs.length; i++) {
+        const period = parseInt(periods[i].value);
+        const cashFlow = parseFloat(cashFlowInputs[i].value);
+        cashFlows.push({ period, cashFlow });
+      }
+
+      const cashFlowsValues = cashFlows.map(cashFlow => cashFlow.cashFlow);
+      cashFlowsValues.unshift(-initialInvestment);
+
+      const irr = Math.round(100 * IRR(cashFlowsValues)) + '%';
+      
+      const resultsDiv = document.getElementById('results');
+      resultsDiv.innerHTML = `<h3>Internal Rate of Return (IRR): ${irr}</h3>`;
+    }
+
+    // IRR calculation function using Newton's method
+    function IRR(cashFlows) {
+      const tolerance = 0.00001;
+      const maxIterations = 1000;
+
+      let guess = 0.1;
+      let iteration = 0;
 
       do {
-        let npv = 0;
-        for (let i = 0; i < numPeriods; i++) {
-          npv += cashFlows[i] / Math.pow(1 + irrGuess, i + 1);
-        }
-        npv += -initialInvestment;
-        const derivative = calculateDerivative(cashFlows, irrGuess, numPeriods);
-        const delta = npv / derivative;
-        irrGuess -= delta;
-        iterations++;
-      } while (Math.abs(npv) > tolerance && iterations < 10000);
+        iteration++;
+        const nextValue = NPV(cashFlows, guess);
+        const derivative = derivativeNPV(cashFlows, guess);
+        guess = guess - (nextValue / derivative);
 
-      return irrGuess * 100; // Return IRR as a percentage
+        if (Math.abs(nextValue) < tolerance) {
+          return guess;
+        }
+      } while (iteration < maxIterations);
+
+      return NaN;
     }
 
-    function calculateDerivative(cashFlows, irr, numPeriods) {
+    function NPV(cashFlows, rate) {
+      let npv = 0;
+      for (let t = 0; t < cashFlows.length; t++) {
+        npv += cashFlows[t] / Math.pow((1 + rate), t);
+      }
+      return npv;
+    }
+
+    function derivativeNPV(cashFlows, rate) {
       let derivative = 0;
-      for (let i = 0; i < numPeriods; i++) {
-        derivative += (i + 1) * cashFlows[i] / Math.pow(1 + irr, i + 2);
+      for (let t = 1; t < cashFlows.length; t++) {
+        derivative += -t * cashFlows[t] / Math.pow((1 + rate), t + 1);
       }
       return derivative;
-    }
-
-    function displayResult(irr) {
-      const resultBox = document.getElementById('result-box');
-      resultBox.innerHTML = `<p>Internal Rate of Return (IRR): ${irr.toFixed(2)}%</p>`;
     }
   </script>
 </body>

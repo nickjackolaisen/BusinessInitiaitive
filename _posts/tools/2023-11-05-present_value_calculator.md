@@ -57,7 +57,7 @@ Just input the necessary values and click "Calculate."
 
     var presentValue = futureValue / Math.pow(1 + interestRate, periods);
 
-    document.getElementById('result').innerHTML = "<h3>Result:</h3><p>Present Value: <span style='font-weight:bold;'>$" + presentValue.toFixed(2) + "</span></p>";
+    document.getElementById('result').innerHTML = "<h3>Present Value =</h3><p> <span style='font-weight:bold;'>$" + presentValue.toFixed(2) + "</span></p>";
   }
 </script>
 

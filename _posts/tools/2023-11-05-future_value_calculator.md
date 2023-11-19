@@ -51,7 +51,7 @@ Just input the necessary values and click "Calculate."
         futureValue += periodicDeposit * ((Math.pow(1 + interestRate, periods + 1) - 1) / interestRate);
       }
       // Display future value
-      document.getElementById('result').innerHTML = 'Future Value: ' + futureValue.toFixed(2);
+      document.getElementById('result').innerHTML = 'Future Value = ' + futureValue.toFixed(2);
     }
 </script>
 
