@@ -146,3 +146,5 @@ exclude:
   - README.md
   - screenshot.png
   - vendor
+
+include: ['.htaccess']
