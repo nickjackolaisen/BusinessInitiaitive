@@ -2,8 +2,10 @@
 title: "How to Choose the Right Business Model for You?"
 layout: post
 date: 2023-10-17
+update_date: 2023-11-20
 author: jack_nicholaisen
 summary: "Ready to start your business but not sure which model is right for you? Our guide will help you choose with confidence. #businessmodel #entrepreneurship"
+image: /images/posts-headers/business-model/business-models-header.png
 permalink: /business-model/choosing-the-best-business-model/
 ---
 

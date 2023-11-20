@@ -1,9 +1,11 @@
 ---
-title: "What is a Business Model? | Your Ultimate Guide to Creating a Superior Business Model"
+title: "What is a Business Model? | The Initiative Guide to Creating a Superior Business Model"
 layout: post
 date: 2023-10-17
+update_date: 2023-11-20
 author: jack_nicholaisen
 summary: "Are you struggling to find the perfect business model? Look no further! Our guide has everything you need to know to make an informed decision."
+image: /images/posts-headers/business-model/business-model-section-header.png
 permalink: /section/business-model/
 ---
 
@@ -21,10 +23,11 @@ In this guide, we'll explore the key elements of developing various business mod
 
 By the end of this article, you'll have a comprehensive understanding of which model best suits your needs and how to implement it effectively. 
 
+So grab a cup of coffee and let's dive in!
+
 {% include table-of-contents-box.html bullet1tag="#what-is-a-business-model" bullet1="What is a Business Model?" bullet2tag="#business-models" bullet2="Business Models" bullet3tag="#monetization" bullet3="Monetization" bullet4tag="#scalability" bullet4="Scalability" bullet5tag="#pivotability" bullet5="Pivotability" bullet6tag="#conclusion" bullet6="Conclusion" %}
 <a id="what-is-a-business-model"> 
-
-So grab a cup of coffee and let's dive in!
+<br>
 
 ## What is a Business Model?
 

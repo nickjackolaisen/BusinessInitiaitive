@@ -1,9 +1,11 @@
 ---
-title: "How to Pivot Your Business - Key Factors and Tools for Success"
+title: "How to Pivot Your Business - Keys to Keeping Up with the Latest Trends"
 layout: post
 date: 2023-10-24
+update_date: 2023-11-20
 author: jack_nicholaisen
 summary: "Stay informed in today's fast-paced world with our tips on how to get the most out of your reading experience. Grab a cup of coffee and join us!"
+image: /images/posts-headers/business-model/pivotability-header.png
 permalink: /business-model/pivoting-in-business/
 ---
 
