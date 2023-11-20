@@ -148,3 +148,4 @@ exclude:
   - vendor
 
 include: ['.htaccess']
+
