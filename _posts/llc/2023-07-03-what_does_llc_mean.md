@@ -26,6 +26,10 @@ Since LLCs are so flexible and simple to use, it’s no surprise that there are 
 
 ## What Does Being an LLC Mean?
 
+<center>
+<img alt="what is an llc for real" src="/images/content/future-city-technology.png" title="Becoming an LLC" style="width: 63%; height: 63%">
+</center>
+
 Being the LLC Owner, you’re in the driver’s seat. You hold the wheel. 
 
 **You’re in control.** 
@@ -43,15 +47,27 @@ Professionals and novices alike prefer LLCs because of the combination of simpli
 
 Your business success is limited by your decisions and the actions you take.
 
-Another huge reason why someone chooses an LLC over any other entity is the legal and financial protection it offers. Not to mention all of the tax benefits that come with operating a Disregarded Entity.
+Another huge reason why someone chooses an LLC over any other entity is the legal and financial protection it offers. 
 
-LLCs may not have as much protection as an S- or a C- Corp entity for example, but it’s sure better than no protection at all. Plus, it’s a lot simpler than these other business types. You won't lose the option of becoming a Corporation in the future, but in the meantime, many people choose to start out as an LLC.
+Not to mention all of the tax benefits that come with operating a Disregarded Entity.
+
+LLCs may not have as much protection as an S- or a C- Corp entity for example, but it’s sure better than no protection at all. 
+
+Plus, it’s a lot simpler than these other business types. 
+
+You won't lose the option of becoming a Corporation in the future, but in the meantime, many people choose to start out as an LLC.
 
 <p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/stats/the-rise-of-llcs/" target="_blank"> There are MILLIONS of LLCs!</a></p>
 
 ## What is an LLC and how does it work to protect you?
 
-LLCs give owners personal liability protection. This is the whole reason why they are called Limited Liability Companies in the first place. 
+<center>
+<img alt="how do llcs protect business owners" src="/images/content/blockchain-security.png" title="LLC Protection" style="width: 63%; height: 63%">
+</center>
+
+LLCs give owners personal liability protection. 
+
+This is the whole reason why they are called Limited Liability Companies in the first place. 
 
 As the Owner, you won’t be personally held responsible for your LLCs debts or legal disputes.
 
@@ -63,15 +79,21 @@ You will, however, be personally accountable if you are the direct cause of your
 
 The technical terms for these are Undercapitalizing and Piercing the Corporate Veil. 
 
-Undercapitalization is when you underfund the company, ruining its ability to pay back debts. Piercing the Veil is when you fail to distinguish between business and personal.
+Undercapitalization is when you underfund the company, ruining its ability to pay back debts. 
 
-If you’ve done either of these, your limited liability protection may be waived. Should this happen, you’d now be personally responsible to cover your business’s debts and legal disputes. 
+Piercing the Veil is when you fail to distinguish between business and personal.
 
-This means your private assets and investments are made vulnerable. In other words, the lawyers and courts can come and take your personal belongings. 
+If you’ve done either of these, your limited liability protection may be waived. 
+
+Should this happen, you’d now be personally responsible to cover your business’s debts and legal disputes. 
+
+This means your private assets and investments are made vulnerable. 
+
+In other words, the lawyers and courts can come and take your personal belongings. 
 
 This protection is great because if your LLC gets hit with a lawsuit, goes bankrupt (in some states, this only applies to MMLLCs), or something similar, you won’t be personally liable to pay what is owed. 
 
-Instead, the LLC itself is held accountable. 
+Instead, the LLC itself is held accountable.
 
 The entity is liable, not you. 
 
@@ -80,6 +102,10 @@ This is all the result of your personal assets being kept separate from your bus
 Personal assets include things like your real estate, vehicles, investments, and private accounts.
 
 ## LLC Structure
+
+<center>
+<img alt="how are llcs structured" src="/images/content/women-working.png" title="LLC Structure" style="width: 63%; height: 63%">
+</center>
 
 Use an LLC to suit your needs.
 
@@ -103,9 +129,13 @@ Believe it or not, you can do both at the same time:
 
 Having the structure and operation of a B-Corp and the taxation of a Corporation.
 
-The LLC you’ll choose depends on your business’s unique needs. How you structure your business determines your taxes, your level of legal and financial protection, and how complicated the registration process will be.
+The LLC you’ll choose depends on your business’s unique needs. 
 
-LLCs can be owned by one Owner (Single Member LLC) or multiple owners (Multi-Member LLC). Funny enough, the Members don’t even have to be people. Members can be other businesses or entities altogether.
+How you structure your business determines your taxes, your level of legal and financial protection, and how complicated the registration process will be.
+
+LLCs can be owned by one Owner (Single Member LLC) or multiple owners (Multi-Member LLC). 
+
+Funny enough, the Members don’t even have to be people. Members can be other businesses or entities altogether.
 
 One more interesting thing about LLCs:
 
@@ -131,6 +161,10 @@ If this is the case, you can hire outside managers for your LLC. This option put
 This is usually done through a third-party management service focusing on optimization and efficiency. But, you also have the option of hiring a private expert to manage your LLC.
 
 ## Articles of Organization and Operation Agreement
+
+<center>
+<img alt="operation agreement and articles of organization" src="/images/content/contract-writing.png" title="Writing Articles of Organization and OA" style="width: 63%; height: 63%">
+</center>
 
 Other parts of the structure you should consider before you go all-in on an LLC are the Articles of Organization and an Operation Agreement. 
 
@@ -159,6 +193,10 @@ Whether or not you write out an explicit Operation Agreement, you do need a plan
 
 ## LLC Voting Rights
 
+<center>
+<img alt="how are voting rights divided in an llc" src="/images/content/diverse-meeting.png" title="LLC Voting Rights" style="width: 63%; height: 63%">
+</center>
+
 The influence a Member has over the decision-making process is typically relative to how much they invested in the business.
   
 As an example, you and a buddy have an awesome idea for an LLC. All that’s needed is a source of funding to kick things off. 
@@ -178,36 +216,60 @@ If each member’s strength in the decision-making process isn’t clearly laid 
 
 ## How Do Owners Get Paid?
 
+<center>
+<img alt="how llc owners get paid" src="/images/content/businessman.png" title="Owner payouts" style="width: 63%; height: 63%">
+</center>
+
 Members choose the payout process of the LLC. 
 
-There are two ways the payments can happen. There are other special setups but the benefits of these are only worthwhile once your LLC is bringing in substantial profits on a regular basis. 
+There are two ways the payments can happen. 
 
-The two options you are likely to choose from are: 
+There are other special setups but the benefits of these are only worthwhile once your LLC is bringing in substantial profits on a regular basis (at least 5 figures a month). 
+
+The two options you are likely to choose from when starting out: 
 
 1.   Owners Draws      
     
 2.   Unique Payment Plan
 <a id="registering-an-llc">
 
-Draws are taken proportionally to each Members’ initial investment in the LLC. The greater a member’s percentage of company ownership, the more that member is paid. 
+Draws are taken proportionally to each Members’ initial investment in the LLC. 
 
-The other way is by coming up with a Unique Payment Plan for LLC Members. This can be as specific and complicated as you want to make it. 
+The greater a member’s percentage of company ownership, the more that member is paid. 
 
-Spoiler alert, most people just go with Members Draws based on ownership. This happens to be the default payout process for LLCs in most states. 
+The other way is by coming up with a Unique Payment Plan for LLC Members. 
 
-Whichever way you decide to do it, the tax submission process is streamlined. The Feds make it extremely easy for business owners to give them their cut of your profits.
+This can be as specific and complicated as you want to make it. 
 
-The classic way for default LLCs to be taxed is through the Pass-Through Process. The details of this method are covered in a separate article.
+Spoiler alert, most people just go with Members Draws based on ownership. 
+
+This happens to be the default payout process for LLCs in most states. 
+
+Whichever way you decide to do it, the tax submission process is streamlined. 
+
+The Feds make it extremely easy for business owners to give them their cut of your profits.
+
+The classic way for default LLCs to be taxed is through the Pass-Through Process. 
+
+The details of this method are covered in a separate article.
 
 ## Registering an LLC
 
+<center>
+<img alt="what does it take to register an llc" src="/images/content/lao-tzu-journey.png" title="Registering an LLC" style="width: 63%; height: 63%">
+</center>
+
 If everything you’ve read until now makes sense, creating your very own LLC is well within your capabilities.
 
-It should go without saying, but when you submit your documents, make sure everything is correct. This is the only way to secure your limited liability protection. 
+It should go without saying, but when you submit your documents, make sure everything is correct. 
+
+This is the only way to secure your limited liability protection. 
 
 Complete the necessary paperwork and LLC registration forms and file them with your State (or County, depending on your local laws).
 
-When you come up with the best way to run your company and set it up, write it all out as an Operating Agreement. You can see Operational Agreements as a way of documenting your plan of action and outlining the various details of your LLC.
+When you come up with the best way to run your company and set it up, write it all out as an Operating Agreement. 
+
+You can see Operational Agreements as a way of documenting your plan of action and outlining the various details of your LLC.
 
 One of the first steps you’ll take in registering your LLC:
 <a id="llc-comparison"> 
@@ -220,7 +282,11 @@ Before getting too deep into things, speak with business professionals, lawyers,
 
 They know the laws.
 
-They know what’s in your business’s best interest (assuming you consult the right people). Plus, they know the relevant loopholes and tricks you can use to your advantage.
+They know what’s in your business’s best interest (assuming you consult the right people). 
+
+Plus...
+
+They know the relevant loopholes and tricks you can use to your advantage.
 
 ## LLCs Compared to Other Entities 
 
@@ -247,12 +313,15 @@ S-Corps are just a specialized variant of an LLC that undergoes a different tax 
 #### -   LLC vs Full-On Corporation
 
 Corporations have a complicated registration process relative to an LLC. 
+
 LLCs don’t need to file as much paperwork. 
 
 LLCs also don’t require regular maintenance and record-keeping. 
+
 Whereas these are necessary to continue operating as a Corporation.
 
 Corporations are a better option for established companies. 
+
 LLCs are great for starting and building. 
 
 As an LLC you have the added opportunity of changing your tax status to a C-Corp once your business is more established. 

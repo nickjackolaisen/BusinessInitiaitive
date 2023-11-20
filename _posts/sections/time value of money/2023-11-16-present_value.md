@@ -23,9 +23,10 @@ By the end, you'll be equipped with the tools necessary to make informed financi
 
 {% include table-of-contents-box.html bullet1tag="#definition" bullet1="Definition" bullet2tag="#importance-and-limits" bullet2="Importance & Limitations" bullet3tag="#equation" bullet3="Present Value Equation" bullet4tag="#process" bullet4="3 Step Process" bullet5tag="#tools" bullet5="Tools" bullet6tag="#practical-applications" bullet6="Practical Applications" %}
 <a id="definition"> 
-<br>
 
 So let's dive in and discover the power of Present Value!
+
+<br>
 
 ## What is Present Value and How Does it Work?
 
