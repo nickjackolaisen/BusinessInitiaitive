@@ -5,5 +5,5 @@ source 'https://rubygems.org'
 # https://github.com/github/pages-gem
 gem 'github-pages'
 
-gem 'jekyll-redirect-from'
-$ bundle
+gem 'jekyll-redirect-from', '~> 0.16.0'
+gem install jekyll-redirect-from
