@@ -19,7 +19,7 @@ We connect you with highly-qualified service providers, specilizing in business 
 <figcaption> Jack Nicholaisen, Business Initiative’s Founder
 </figcaption>
 </center>
-  </figure>
+</figure>
 
 "I set out to shorten the distance between your spark of inspiration and seeing it become a reality. I know your time, energy, and money are precious. So, to help you get started, I created Business Initiative to provide the necessary information and connections to help you make it happen." 
 

@@ -174,7 +174,7 @@ Implementing asset protection strategies can help shield business assets from be
 
 ### 1.  Separate Personal and Business Assets: 
 
-Establishing a legal entity, such as a corporation or [limited liability company (LLC)](https://www.businessinitiative.org/what-does-llc-mean/), can create a clear separation between personal and business assets, protecting personal wealth from potential business liabilities.
+Establishing a legal entity, such as a corporation or <a href="https://www.businessinitiative.org/llc/what-does-llc-mean/" target="_blank">limited liability company (LLC)</a>, can create a clear separation between personal and business assets, protecting personal wealth from potential business liabilities.
 
 ### 2.  Obtain Adequate Insurance: 
 

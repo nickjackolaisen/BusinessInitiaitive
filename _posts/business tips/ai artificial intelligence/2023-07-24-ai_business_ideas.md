@@ -23,7 +23,7 @@ Integrating AI into your business strategy can lead to increased efficiency, red
 
 Furthermore, businesses that embrace AI technology are better positioned to adapt to changing market dynamics and gain a competitive edge over their rivals.
 
-<p><b>➤ MARKET INSIGHTS: </b> <a href="https://www.businessinitiative.org/statistics/top-industries-for-growing-a-small-business/" target="_blank">Check out the other rapidly growing industries!</a></p>
+<p><b>➤ MARKET INSIGHTS: </b> <a href="https://www.businessinitiative.org/statistics/small-businesses/top-industries-for-growth/" target="_blank">Check out the other rapidly growing industries!</a></p>
 
 [A recent study](https://www.pwc.com/gx/en/issues/data-and-analytics/publications/artificial-intelligence-study.html) found that **84% of global business leaders** believe that AI will be essential for them to obtain or sustain a competitive advantage. 
 
