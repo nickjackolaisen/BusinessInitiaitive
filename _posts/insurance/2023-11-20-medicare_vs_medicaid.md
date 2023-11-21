@@ -167,7 +167,7 @@ Here are some of the most common questions regarding Medicare and Medicaid:
 <p>Finally, Part D covers prescription drugs.</p>
 <p>In contrast, Medicaid benefits vary by state and may cover a wide range of services such as doctor visits, hospital stays, prescription drugs, and even services like dental and vision care.</p>
 <p>It's important to understand the differences between Medicare and Medicaid in order to make informed decisions about healthcare coverage.</p> 
-<p>For more detailed information, you can visit the official websites for [Medicare](https://www.medicare.gov/) and [Medicaid](https://www.medicaid.gov/).</p>
+<p>For more detailed information, you can visit the official websites for <a href="https://www.medicare.gov/">Medicare.gov</a> and <a href="https://www.medicaid.gov/">Medicaid.gov</a>.</p>
 </details>
 
 <h3>How do I know if I'm eligible for Medicare or Medicaid?</h3>
@@ -179,7 +179,7 @@ Here are some of the most common questions regarding Medicare and Medicaid:
 <br>
 <p>Determining your eligibility for healthcare programs like Medicare and Medicaid can be a daunting task.</p>
 <p>However, it's important to know that you have options when it comes to affording the healthcare you need.</p>
-<p>To determine your eligibility for either program, you can visit the official websites of each program - [Medicare.gov](https://www.medicare.gov/) or [Medicaid.gov](https://www.medicaid.gov/) - where you can find detailed information about eligibility requirements based on your specific circumstances.</p> 
+<p>To determine your eligibility for either program, you can visit the official websites of each program - <a href="https://www.medicare.gov/">Medicare.gov</a> or <a href="https://www.medicaid.gov/">Medicaid.gov</a> - where you can find detailed information about eligibility requirements based on your specific circumstances.</p> 
 <p>Both websites have a wealth of information on their pages that can help you determine if you qualify for either program.</p>
 <p>If you need further assistance, you can also contact your state's Department of Health & Human Services, where you can speak with a representative who can answer your questions and guide you through the process of determining your eligibility.</p> 
 <p>They can also provide you with information on Medicaid eligibility guidelines in your area, including information on income limits and other requirements.</p>
