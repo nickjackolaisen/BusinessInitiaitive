@@ -2,10 +2,13 @@
 title: "The Longevity and Success of Remote-First Companies: A Statistical Review by Structure"
 layout: post
 date: 2023-08-02
-update_date: 2023-09-27
+update_date: 2023-11-20
 author: jack_nicholaisen
 summary: "Discover remote-first business analysis, structures, and success factors. Gain insights and trends for your venture. Unlock secrets to thrive remotely HERE!"
-permalink: /statistics/remote-first-companies/
+permalink: /statistics/business-structures/remote-first-companies/
+redirect_from: 
+    - /statistics/remote-first-companies/
+    - /stats/remote-first-companies/s
 ---
 
 In recent years, the remote-first business model has gained significant traction, with more companies embracing the flexibility and cost savings associated with remote work. 
