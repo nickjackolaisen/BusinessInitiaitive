@@ -6,7 +6,6 @@ update_date: 2023-11-20
 author: jack_nicholaisen
 summary: "Learn how offering health insurance can impact employee attraction and retention. Gain insights to help your business excel in today's marketplace."
 permalink: /statistics/small-businesses/provide-health-insurance/
-redirect_from: /new-report-its-actually-easy-to-pay-for-medicare-for-all/
 ---
 
 Small business owners have a lot on their plate when it comes to managing their company. 

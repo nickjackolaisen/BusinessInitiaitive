@@ -5,7 +5,10 @@ date: 2023-11-20
 author: jack_nicholaisen
 summary: "Discover the crucial differences between Medicare & Medicaid in our comprehensive analysis. Unravel eligibility, coverage, and more!"
 permalink: /insurance/medicare-vs-medicaid/
-redirect_from: /trumps-greedy-2019-budget-goes-nuclear-on-medicare-and-medicaid/
+redirect_from: 
+    - /trumps-greedy-2019-budget-goes-nuclear-on-medicare-and-medicaid/
+    - /new-report-its-actually-easy-to-pay-for-medicare-for-all/
+
 ---
 
 In the United States, healthcare is a complex and sometimes confusing system. 
