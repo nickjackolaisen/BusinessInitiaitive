@@ -2,11 +2,12 @@
 title: "E-commerce Growth Strategies for Small Businesses in 2024"
 layout: post
 date: 2023-09-19
-update_date: 2023-11-19
+update_date: 2023-11-20
 author: jack_nicholaisen
 summary: "Discover top e-commerce growth strategies for small businesses in 2024! Here lie the secrets to more sales, better reach, and increased customer engagement."
 image: /images/posts-headers/e-comm-growth-strategies-header.png
 permalink: /business-tips/e-commerce/growth-strategies/
+redirect_from: /stats/ecommerce-growth-strategies/
 tags: ecommerce growth strategy, e commerce strategies for small business, ecommerce growth strategies
 ---
 

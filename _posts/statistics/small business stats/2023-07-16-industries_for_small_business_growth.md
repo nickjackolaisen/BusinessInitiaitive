@@ -2,10 +2,13 @@
 title: "Top 16 Industries for Small Business Growth in 2023 and Beyond"
 layout: post
 date: 2023-07-16
-update_date: 2023-09-27
+update_date: 2023-11-20
 author: jack_nicholaisen
 summary: "Stay ahead by discovering the top 16 small business industries for growth in 2023! READ NOW and accelerate your success!"
-permalink: /statistics/top-industries-for-growing-a-small-business/
+permalink: /statistics/small-businesses/top-industries-for-growth/
+redirect_from: 
+    - /stats/top-industries-for-growing-a-small-business/
+    - /statistics/top-industries-for-growing-a-small-business/
 ---
 
 In today's competitive business landscape, honing in on your specific niche is critical for aspiring entrepreneurs. 

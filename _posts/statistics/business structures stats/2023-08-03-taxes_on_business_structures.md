@@ -130,7 +130,7 @@ For more expert information on taxes, business structures, and other essential t
     <li><a href="https://www.irs.gov/businesses/small-businesses-self-employed/s-corporations">Internal Revenue Service: S Corporations</a></li>
     <li><a href="https://www.taxpolicycenter.org/briefing-book/how-did-tax-cuts-and-jobs-act-change-business-taxes">Tax Policy Center: How did the Tax Cuts and Jobs Act change business taxes?</a></li>
     <li><a href="https://taxfoundation.org/state-corporate-income-tax-rates-brackets-2021/">Tax Foundation: State Corporate Income Tax Rates and Brackets for 2021</a></li>
-    <li><a href="url">Internal Revenue Service: Understanding Employment Taxes</a></li>
+    <li><a href="https://www.irs.gov/businesses/small-businesses-self-employed/understanding-employment-taxes">Internal Revenue Service: Understanding Employment Taxes</a></li>
 </ul>
 </details>
 
