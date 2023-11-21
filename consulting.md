@@ -32,4 +32,4 @@ Don’t fall victim to analysis paralysis...
 
 Business Initiative offers a combination of Compliance, Operational, and Strategy Consulting Services to give you clarity in choosing the best business entity based on your goals, time scale, size of operation, client base, budget, location, and any previous experience.
 
-We do NOT offer consulting services for those looking to expand to multiple states or set up a foreign companies. We are currently developing expert connections and more resources in these areas. 
+We do NOT offer consulting services for those looking to expand to multiple states or set up foreign companies. We are currently developing expert connections and more resources in these areas.

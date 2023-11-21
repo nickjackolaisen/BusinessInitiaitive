@@ -7,7 +7,7 @@ tags: about, business initiative, about business initiative, what is business in
 
 ### The first step in your journey…
 
-Business Initiative was started in 2021 with the vision of being a resource entrerpenures use to simplify business registration, confidently manage their businesses, and take ‘em to the next level.
+Business Initiative was started in 2021 with the vision of being a resource entrepreneurs use to simplify business registration, confidently manage their businesses, and take ‘em to the next level.
 
 Business Initiative creates clear, concise articles on the various components of the most popular business entities. We want to help you understand exactly what it takes to register, operate, and grow a business from anywhere in the country (and even the world). 
 
