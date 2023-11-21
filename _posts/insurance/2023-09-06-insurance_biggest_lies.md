@@ -1,11 +1,12 @@
 ---
-title: "The 19 Biggest Lies from New Insurance Industry Ads - Debunking Misinformation"
+title: "The 19 Biggest Lies from Insurance Ads - Debunking Misinformation"
 layout: post
 date: 2023-09-06
-update_date: 2023-09-13
+update_date: 2023-11-20
 author: jack_nicholaisen
 summary: "Discover the truth behind new insurance industry ads as we debunk their biggest lies and misinformation. Arm yourself with facts and make informed decisions."
-permalink: /thebiggestliesfromnewinsuranceindustryads/
+permalink: /insurance/worst-advertisements/
+redirect_from: /thebiggestliesfromnewinsuranceindustryads/
 ---
 
 The insurance industry is a massive, complex, and often confusing landscape for consumers. 

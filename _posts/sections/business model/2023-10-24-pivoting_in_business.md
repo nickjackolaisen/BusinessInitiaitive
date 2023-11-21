@@ -19,7 +19,7 @@ Look no further.
 
 In this article, we will explore the importance of staying informed in today's fast-paced world and provide you with tips on how to get the most out of your reading experience. 
 
-{% include table-of-contents-box.html bullet1tag="#what-is-pivotability" bullet1="What is Pivotability?" bullet2tag="#importance" bullet2="Why Should Your Be Able to Pivot?" bullet3tag="#types" bullet3="Types of Pivots" bullet4tag="#when-pivot" bullet4="When is the Best Time to Pivot?" bullet5tag="#tips" bullet5="Practical Tips" bullet6tag="#faqs" bullet6="FAQs" %}
+{% include table-of-contents-box.html bullet1tag="#what-is-pivotability" bullet1="What is Pivotability?" bullet2tag="#importance" bullet2="Why Should You Be Able to Pivot?" bullet3tag="#types" bullet3="Types of Pivots" bullet4tag="#when-pivot" bullet4="When is the Best Time to Pivot?" bullet5tag="#tips" bullet5="Practical Tips" bullet6tag="#faqs" bullet6="FAQs" %}
 <a id="what-is-pivotability"> 
 
 Whether you're a student, professional, or simply someone who wants to stay up-to-date with the latest trends and developments, this article is for you. 
