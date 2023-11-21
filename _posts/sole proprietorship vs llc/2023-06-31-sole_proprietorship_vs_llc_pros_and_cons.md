@@ -2,7 +2,7 @@
 layout: post
 title: "Sole Proprietorship vs LLC: Pros and Cons"
 date: 2023-06-31
-update_date: 2023-09-27
+update_date: 2023-11-21
 author: jack_nicholaisen
 summary: "A complete comparison of the various pros and cons of both Sole Proprietorships and Limited Liability Companies."  
 image: /images/posts-headers/sole-proprietorship-vs-llc-pros-cons-header.png
@@ -36,13 +36,11 @@ In this article, you’ll find a clear breakdown of the pros and cons of the mos
 
 When you see what’s available and understand the implications of each setup, you'll know which type of business best fits your budget and your goals.
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-via="BisInitiative" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 ## Advantages of LLCs ##
 
 A Limited Liability Company gives you personal protection, credibility, and tax options. 
 
-<p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/what-does-llc-mean/" target="_blank"> Check out our detailed breakdown of LLCs.</a></p>
+<p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/llc/what-does-llc-mean/" target="_blank"> Check out our detailed breakdown of LLCs!</a></p>
 
 ### Limited Personal Liability Protection ###
 

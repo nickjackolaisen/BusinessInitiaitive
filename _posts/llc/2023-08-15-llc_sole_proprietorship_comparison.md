@@ -2,7 +2,7 @@
 title: "LLC vs Sole Proprietorship - Which One is Right for Your Business Goals?"
 layout: post
 date: 2023-08-15
-update_date: 2023-09-21
+update_date: 2023-11-21
 author: jack_nicholaisen
 summary: "Explore LLC vs. sole proprietorship: liability, taxes, costs, maintenance. Make informed decisions for your business's future. Read on!"
 permalink: /llc/llc-vs-sole-proprietorship-comparison/
@@ -100,7 +100,7 @@ The owner can operate under their legal name or choose to register a fictitious 
 
 Filing for a DBA allows the owner to [conduct business under a different name](https://www.nolo.com/legal-encyclopedia/pros-cons-operating-under-different-names.html) while still maintaining their personal liability for the business's debts and obligations.
 
-<p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/dba-vs-llc/" target="_blank"> What's the difference between a DBA and an LLC?</a></p>
+<p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/llc/dba-vs-llc/" target="_blank"> What's the difference between a DBA and an LLC?</a></p>
 
 ## Financial Structure
 

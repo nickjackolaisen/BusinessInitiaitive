@@ -2,7 +2,7 @@
 title: "What is the Average Tax Rate for Small Businesses? PLUS 9 Tips to Lower it"
 layout: post
 date: 2023-06-28
-update_date: 2023-11-19
+update_date: 2023-11-21
 author: jack_nicholaisen
 summary: "Knowing the small business tax rate is crucial for entrepreneurs. This article provides valuable info on taxes and how to stay ahead."
 permalink: /statistics/small-businesses/average-tax-rate/
@@ -58,7 +58,7 @@ The finance and insurance industry has an **average tax rate of 19.9%.**
 
 This is due to the high costs of regulatory compliance and risk management.
 
-<p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/statistics/number-of-employees-in-a-small-business/" target="_blank">Which businesses require the most employees?</a></p>
+<p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/statistics/small-businesses/number-of-employees/" target="_blank">Which businesses require the most employees?</a></p>
 
 ## Industries that Pay the Least in Taxes:
 

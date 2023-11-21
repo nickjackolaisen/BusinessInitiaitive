@@ -2,7 +2,7 @@
 layout: post
 title: "What Does LLC Mean in Business and How Do They Work?"
 date: 2023-07-03
-update_date: 2023-11-20
+update_date: 2023-11-21
 author: jack_nicholaisen
 summary: LLC stands for Limited Liability Company. Read this to find out how using one can put you on the fast-track to success.
 image: /images/posts-headers/what-does-llc-mean-header.png
@@ -58,7 +58,7 @@ Plus, it’s a lot simpler than these other business types.
 
 You won't lose the option of becoming a Corporation in the future, but in the meantime, many people choose to start out as an LLC.
 
-<p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/stats/the-rise-of-llcs/" target="_blank"> There are MILLIONS of LLCs!</a></p>
+<p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/statistics/the-rise-of-llcs/" target="_blank"> There are MILLIONS of LLCs!</a></p>
 
 ## What is an LLC and how does it work to protect you?
 
