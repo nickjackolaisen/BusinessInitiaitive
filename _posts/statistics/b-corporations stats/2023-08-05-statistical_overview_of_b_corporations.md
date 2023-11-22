@@ -2,7 +2,7 @@
 title: "The Numbers Behind B Corps - Growth, Social, Environmental, Financial Stats"
 layout: post
 date: 2023-08-05
-update_date: 2023-09-21
+update_date: 2023-11-21
 author: jack_nicholaisen
 summary: "Explore B Corps' growth, impact, and success factors. Uncover their potential advantages for entrepreneurs and business owners!"
 image: /images/posts-headers/b-corp-statistics-header.png
@@ -35,8 +35,6 @@ In 2010, there were just 205 certified B Corps; by 2020, that number had surged 
 As of September 2021, there were **more than 4,000 B Corps across 77 countries and 153 industries** ([source](https://bcorporation.net/directory)).
 
 Globally, the B Corp movement has expanded significantly, with strong growth in regions like Europe and Latin America. 
-
-Between 2012 and 2020, **Europe saw a 10-fold increase in B Corps**, while **Latin America experienced a 14-fold increase** in the same period ([source](https://www.bcorporation.eu/about-b-lab/country-partner/b-lab-europe)).
 
 Between 2015 and 2020, the annual growth rate of B Corps in North America was approximately **23%**, demonstrating a clear upward trend in popularity ([source](https://b-analytics.net/bcorp-data)). 
 
@@ -217,7 +215,6 @@ Together, we can redefine what it means to be a successful business in the 21st 
 <ul>
     <li><a href="https://bcorporation.net/directory">B Corporation Directory</a></li>
     <li><a href="https://b-analytics.net/bcorp-data">B Analytics: B Corp Data</a></li>
-    <li><a href="https://www.bcorporation.eu/about-b-lab/country-partner/b-lab-europe">B Lab Europe</a></li>
     <li><a href="https://bcorporation.net/news/new-research-shows-b-corps-are-outperforming-their-peers">New Research Shows B Corps Are Outperforming Their Peers</a></li>
     <li><a href="https://bthechange.com/b-corps-commit-to-net-zero-climate-ambition-in-advance-of-cop26-9a8f9da5b8f6">B Corps Commit to Net Zero Climate Ambition in Advance of COP26</a></li>
     <li><a href="https://bcorporation.net/">B Corporation Website</a></li>

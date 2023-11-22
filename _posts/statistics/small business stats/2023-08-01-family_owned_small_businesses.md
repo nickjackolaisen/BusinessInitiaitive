@@ -2,7 +2,7 @@
 title: "What Percentage of Small Businesses are Family-Owned?"
 layout: post
 date: 2023-08-01
-update_date: 2023-09-28
+update_date: 2023-11-21
 author: jack_nicholaisen
 summary: "Discover success secrets of family-owned businesses and apply insights for smarter decisions and improved growth in your venture."
 permalink: /statistics/small-businesses/family-owned-businesses/
@@ -128,7 +128,6 @@ It is essential to consult multiple sources for an accurate understanding of thi
 </p>
 <ul>
     <li>Family Owned Business Institute at Grand Valley State University: <a href="https://www.gvsu.edu/fobi/family-owned-business-facts-25.htm">Family-Owned Business Facts</a></li>
-    <li>Family Business Alliance: <a href="https://familybusinessalliance.com/family-business-statistics/">Family Business Statistics</a></li>
     <li>Conway Center for Family Business: <a href="https://www.familybusinesscenter.com/resources/family-business-facts/">Family Business Facts</a></li>
     <li>Forbes: <a href="https://www.forbes.com/sites/niallmccarthy/2016/11/23/the-worlds-largest-family-owned-businesses-infographic/?sh=4a5f8d7e4c7b">The World's Largest Family-Owned Businesses</a></li>
 </ul>

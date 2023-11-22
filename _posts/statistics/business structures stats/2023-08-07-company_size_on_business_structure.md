@@ -2,7 +2,7 @@
 title: "The Relationship Between Business Type and Size"
 layout: post
 date: 2023-08-07
-update_date: 2023-09-22
+update_date: 2023-11-21
 author: jack_nicholaisen
 summary: "Discover the link between business structures and size. Learn industry-specific trends and choose the best structure for your venture."
 permalink: /statistics/business-structures/company-size/
@@ -35,8 +35,6 @@ Each structure has its advantages and challenges, and the optimal choice depends
 Small businesses are generally defined as [having fewer than 500 employees and less than \$7.5 million in annual revenue](https://www.sba.gov/document/support--table-size-standards). 
 
 The most common structures for small businesses are sole proprietorships, partnerships, and LLCs. 
-
-According to the U.S. Small Business Administration, there were 31.7 million small businesses in the United States in 2020, [accounting for 99.9% of all businesses](https://cdn.advocacy.sba.gov/wp-content/uploads/2020/06/04144224/2020-Small-Business-Economic-Profile-US.pdf).
 
 Sole proprietorships are the simplest and most common structure for small businesses, with [73% of all U.S. businesses](https://www.census.gov/programs-surveys/susb.html) operating as such. 
 
@@ -158,7 +156,6 @@ You can start by [setting up a consultation call now](https://calendly.com/busin
 <br>
 <ul>
     <li><a href="https://www.sba.gov/document/support--table-size-standards">SBA Size Standards</a></li>
-    <li><a href="https://cdn.advocacy.sba.gov/wp-content/uploads/2020/06/04144224/2020-Small-Business-Economic-Profile-US.pdf">U.S. Small Business Administration</a></li>
     <li><a href="https://www.census.gov/programs-surveys/susb.html">U.S. Census Bureau</a></li>
     <li><a href="https://www.irs.gov/statistics/soi-tax-stats-historical-table-1">IRS Statistics of Income</a></li>
     <li><a href="https://www.sec.gov/fast-answers/answerscorphtm.html">SEC - Corporation Finance Glossary</a></li>

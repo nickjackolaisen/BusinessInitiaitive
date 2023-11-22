@@ -5,13 +5,17 @@ permalink: /about/
 tags: about, business initiative, about business initiative, what is business initative, what is a business initiative
 ---
 
-### The first step in your journey…
+## The first step in your journey…
 
 Business Initiative was started in 2021 with the vision of being a resource entrepreneurs use to simplify business registration, confidently manage their businesses, and take ‘em to the next level.
 
-Business Initiative creates clear, concise articles on the various components of the most popular business entities. We want to help you understand exactly what it takes to register, operate, and grow a business from anywhere in the country (and even the world). 
+Business Initiative creates clear, concise articles on the various components of the most popular business entities. 
 
-We connect you with highly-qualified service providers, specilizing in business registration. They act as your registered agent, filing everything for you so you don’t have to. 
+We want to help you understand exactly what it takes to register, operate, and grow a business from anywhere in the country (and even the world). 
+
+We connect you with highly-qualified service providers, specilizing in business registration. 
+
+They act as your registered agent, filing everything for you so you don’t have to. 
 
 <figure>
 <center>
@@ -25,4 +29,4 @@ We connect you with highly-qualified service providers, specilizing in business 
 
 Now that you're out of excuses… **It’s time to take Initiative.**
 
-[Follow Us @BisInitiative](https://twitter.com/BisInitiative?ref_src=twsrc%5Etfw)
+[Follow Us @BisInitiative](https://twitter.com/BisInitiative)

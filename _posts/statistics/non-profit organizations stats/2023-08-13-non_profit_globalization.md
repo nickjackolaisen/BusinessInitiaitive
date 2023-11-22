@@ -2,7 +2,7 @@
 title: "The Global Reach of Non-Profit Organizations: A Statistical Review"
 layout: post
 date: 2023-08-13
-update_date: 2023-09-27
+update_date: 2023-11-21
 author: jack_nicholaisen
 summary: "Learn about non-profits' global impact, challenges, and solutions. Don't miss this opportunity to understand their world—read it HERE!"
 permalink: /statistics/non-profit/international-growth/
@@ -19,8 +19,6 @@ This article will provide an in-depth statistical review of the global reach of 
 ## The International Presence of Non-Profit Organizations
 
 Non-profit organizations are present and active in almost every corner of the globe. 
-
-According to the [Johns Hopkins Center for Civil Society Studies](https://ccss.jhu.edu/global-ngo-data/), there are approximately **10 million non-governmental organizations (NGOs) worldwide**. 
 
 These organizations range from small, locally-focused groups to large, international entities with a global reach.
 
@@ -139,7 +137,6 @@ Looking to start your own NGO?
 <summary><b>Sources</b></summary>
 <br>
 <ul>
-    <li><a href="https://ccss.jhu.edu/global-ngo-data/">Johns Hopkins Center for Civil Society Studies</a></li>
     <li><a href="https://www.urban.org/sites/default/files/publication/99046/the_nonprofit_sector_in_brief_2018_0.pdf">Urban Institute - The Nonprofit Sector in Brief 2018</a></li>
     <li><a href="https://timesofindia.indiatimes.com/india/India-has-31-lakh-NGOs-twice-the-number-of-schools/articleshow/47699699.cms">Times of India - India has 3.1 million NGOs</a></li>
     <li><a href="https://www.euractiv.com/section/economy-jobs/news/ngos-employ-more-people-than-car-industry-in-eu/">Euractiv - NGOs employ more people than car industry in EU</a></li>

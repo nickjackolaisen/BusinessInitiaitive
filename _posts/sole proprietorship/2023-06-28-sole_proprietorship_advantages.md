@@ -2,7 +2,7 @@
 layout: post
 title: 5 Impressive Advantages of Sole Proprietorship
 date: 2023-06-28
-update_date: 2023-09-21
+update_date: 2023-11-21
 author: jack_nicholaisen
 summary: "Wanna know if the Sole Proprietorship is THE BEST business entity for achieving your professional goals? READ THIS!"
 permalink: /sole-proprietorship/advantages/
@@ -20,8 +20,6 @@ tags: partnership advantages, general partnership advantages, business partnersh
 * **Dissolving the business is effortless**
 
 * The **easiest taxation method**: The Pass-Though Process
-
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-text="Learn about the 5 Benefits of a Sole Proprietorship" data-via="Bisinitiative" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Sole Proprietorships 101
 
@@ -214,7 +212,7 @@ On behalf of Business Initiative, we wish you much success in your entrepreneuri
 
 Stay up-to-date with us and learn practical strategies to maximize your time and money:
 
-<a href="https://twitter.com/BisInitiative?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @BisInitiative</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/intent/tweet?screen_name=BisInitiative&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-size="large" data-show-count="false">Tweet to @BisInitiative</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 

@@ -2,7 +2,7 @@
 title: "The Relationship Between Business Structure and Innovation"
 layout: post
 date: 2023-08-05
-update_date: 2023-09-22
+update_date: 2023-11-21
 author: jack_nicholaisen
 summary: "Explore how your company's structure affects innovation. Learn about industry-specific trends and factors that foster innovation and growth in your business."
 permalink: /statistics/business-structures/innovation/
@@ -42,7 +42,7 @@ An LLC is a hybrid structure that combines the liability protection of a corpora
 
 This structure can promote innovation by offering a balance between the benefits of both corporations and partnerships. 
     
-**[The flexibility and access to resources can create an environment conducive to innovation](https://smallbiztrends.com/2017/09/llc-business-structure.html).**
+The flexibility and access to resources can create an environment conducive to innovation.
 
 **According to the IRS, [LLCs are the most popular form of business structure in the United States](https://www.businessnewsdaily.com/9839-most-innovative-industries.html).**
 
@@ -72,8 +72,6 @@ This structure can foster innovation by providing access to a wider range of res
     
 However, [corporations can become bureaucratic](https://www.strategy-business.com/article/00314?gko=9df7f), hindering the speed and flexibility needed for innovation. 
 
-According to a report by the National Science Foundation, **[corporations are responsible for the majority of research and development spending in the United States](https://www.innovationexcellence.com/blog/2013/03/06/resources-and-innovation-whats-the-connection/)**.
-
 ## 6 Factors Influencing Innovation Rates
 
 Several factors can influence innovation rates within a company, regardless of its chosen business structure. 
@@ -94,7 +92,7 @@ An environment that values learning, experimentation, and open communication can
 
 ### 3.  Access to Resources
 
-Companies with greater access to resources, such as capital, talent, and technology, are [better positioned to invest in innovation and implement new ideas](https://www.innovationexcellence.com/blog/2013/03/06/resources-and-innovation-whats-the-connection/).
+Companies with greater access to resources, such as capital, talent, and technology, are better positioned to invest in innovation and implement new ideas.
 
 ### 4.  Industry Trends
 
@@ -130,7 +128,7 @@ On the other hand, larger established technology companies may opt for a corpora
 
 Life sciences companies typically choose a corporate structure to support innovation, as it provides access to capital and resources needed for research and development. 
 
-However, smaller biotech firms may opt for partnership structures to [leverage the expertise of multiple parties](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2881849/).
+However, smaller biotech firms may opt for partnership structures to leverage the expertise of multiple parties.
 
 ### 3.  Manufacturing Industry
 
@@ -186,7 +184,7 @@ Consider experimenting with **[new business models](https://www.entrepreneur.com
 
 ### 5.  Foster a Culture of Learning
 
-Innovation requires a willingness to **[learn and grow from failures as well as successes](https://www.inc.com/john-discala/4-simple-ways-to-create-a-culture-of-innovation.html)**. 
+Innovation requires a willingness to learn and grow from failures as well as successes. 
 
 Create a culture that values continuous learning and experimentation, where employees feel empowered to take risks without fear of negative consequences.
 
@@ -210,7 +208,7 @@ This could take the form of partnerships, joint ventures, or even mergers and ac
 
 ### 9.  Utilize Open Innovation
 
-Open innovation involves [seeking external sources of ideas and collaboration to drive innovation](https://hbr.org/resources/pdfs/tools/hbr-open-innovation.pdf) within a company. 
+Open innovation involves seeking external sources of ideas and collaboration to drive innovation within a company. 
 
 This could include crowdsourcing ideas from customers or collaborating with universities or research institutions.
 
@@ -242,15 +240,12 @@ Ready to take your company's innovation to the next level?
     <li><a href="https://www.fundera.com/blog/sole-proprietorship">Sole Proprietorship - Is This Simple Structure Right for You?</a></li>
     <li><a href="https://www.forbes.com/sites/allbusiness/2015/03/04/partnerships-a-path-to-innovation-and-growth/">Partnerships: A Path to Innovation and Growth</a></li>
     <li><a href="https://www.strategy-business.com/article/00314?gko=9df7f">The Impact of Corporate Structure on Innovation</a></li>
-    <li><a href="https://smallbiztrends.com/2017/09/llc-business-structure.html">Innovation in the LLC Business Structure: What Entrepreneurs Need to Know</a></li>
     <li><a href="https://hbr.org/2007/01/leadership-and-innovation">Leadership and Innovation</a></li>
     <li><a href="https://www.innovationmanagement.se/2016/01/20/the-role-of-organizational-culture-in-innovation-management/">The Role of Organizational Culture in Innovation Management</a></li>
-    <li><a href="https://www.innovationexcellence.com/blog/2013/03/06/resources-and-innovation-whats-the-connection/">Resources and Innovation: What's the Connection?</a></li>
     <li><a href="https://www.businessnewsdaily.com/9839-most-innovative-industries.html">Top 10 Innovative Industries Shaking Up 2020</a></li>
     <li><a href="https://www.freelancersunion.org/resources/how-do-i-choose-a-business-structure/">Freelancers Union</a></li>
     <li><a href="https://www.councilofnonprofits.org/tools-resources/nonprofit-corporation-basics">National Council of Nonprofits</a></li>
     <li><a href="https://www.bizjournals.com/bizjournals/how-to/growth-strategies/2015/11/role-of-business-structure-in-tech-industry.html">The Role of Business Structure in the Tech Industry</a></li>
-    <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2881849/">Innovation in the Life Sciences: The Impact of Intellectual Property Rights</a></li>
     <li><a href="https://www.industryweek.com/leadership/article/21961600/innovation-in-manufacturing-the-role-of-business-structure">Innovation in Manufacturing: The Role of Business Structure</a></li>
     <li><a href="https://www2.deloitte.com/content/dam/Deloitte/se/Documents/strategy/DI_Innovation-in-large-enterprises.pdf">Deloitte Insights</a></li>
     <li>Michele Boldrin & David K Levine. (2010). The Case against Patents. Journal of Economic Perspectives - Volume 27, Number 1—Winter 2013—Pages 3–22</li>
@@ -258,12 +253,10 @@ Ready to take your company's innovation to the next level?
     <li><a href="https://www.forbes.com/sites/forbescoachescouncil/2019/08/22/8-ways-to-encourage-innovation-in-your-team/?sh=5cfaa0d65427">Forbes: 8 Ways To Encourage Innovation In Your Team</a></li>
     <li><a href="https://hbr.org/2020/01/the-role-of-training-in-supporting-innovation">Harvard Business Review: The Role of Training in Supporting Innovation</a></li>
     <li><a href="https://www.forbes.com/sites/forbestechcouncil/2019/08/27/four-ways-to-foster-a-culture-of-innovation-in-your-company/?sh=2f8d2f7c5c0a">Forbes - Four Ways To Foster A Culture Of Innovation In Your Company</a></li>
-    <li><a href="https://hbr.org/resources/pdfs/tools/hbr-open-innovation.pdf">Harvard Business Review: What Is Open Innovation?</a></li>
     <li><a href="https://sloanreview.mit.edu/article/how-collaboration-drives-innovation/">MIT Sloan Management Review: How Collaboration Drives Innovation</a></li>
     <li><a href="https://hbr.org/2019/07/how-to-innovate-with-customer-feedback">Harvard Business Review - How to Innovate with Customer Feedback</a></li>
     <li><a href="https://mitsloan.mit.edu/ideas-made-to-matter/the-role-of-rd-in-driving-innovation-and-sustainable-growth">MIT Sloan School of Management - The Role of R&D in Driving Innovation and Sustainable Growth</a></li>
     <li><a href="https://www.entrepreneur.com/article/297372">Entrepreneur - 5 Ways to Innovate Your Business Model</a></li>
-    <li><a href="https://www.inc.com/john-discala/4-simple-ways-to-create-a-culture-of-innovation.html">Inc. - 4 Simple Ways to Create a Culture of Innovation</a></li>
 </ul>
 </details>
 

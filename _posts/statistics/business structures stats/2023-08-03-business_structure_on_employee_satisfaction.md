@@ -2,7 +2,7 @@
 title: "The Relationship Between Business Structure and Employee Satisfaction"
 layout: post
 date: 2023-08-03
-update_date: 2023-09-22
+update_date: 2023-11-21
 author: jack_nicholaisen
 summary: "Uncover the link between business structures & employee satisfaction. Boost retention with industry trends & informed decisions. Optimize your business today!"
 permalink: /statistics/business-structures/employee-satisfaction/
@@ -76,10 +76,6 @@ The same Gallup study found that **employee engagement is lowest in the manufact
 
 In addition to the trends mentioned above, there are several other industry-specific trends worth examining when it comes to the relationship between business structure and employee satisfaction.
 
--   For example, in the healthcare industry, a [study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7319078/) found that **employees in flatter organizational structures reported higher job satisfaction and engagement levels**. 
-
-This is likely because healthcare organizations that promote teamwork and collaboration can improve patient outcomes and increase staff morale.
-
 -   In the hospitality industry, where service quality is paramount, a [survey](https://www.hospitalitynet.org/opinion/4081809.html) found that **employees who have more autonomy and decision-making power reported higher levels of job satisfaction**. 
 
 This suggests that businesses in this sector may benefit from adopting a more decentralized organizational structure.
@@ -91,10 +87,6 @@ By fostering an environment where employees feel comfortable sharing ideas and t
 By understanding these industry-specific trends, entrepreneurs can make informed decisions about their business structure to improve employee satisfaction, retention rates, and overall performance.
 
 ## Statistical Analysis
-
-- A [2015 study by the University of Warwick](https://warwick.ac.uk/newsandevents/pressreleases/new_study_shows/) found that **employee satisfaction increases productivity by up to 12%**. 
-
-This highlights the importance of understanding the relationship between business structure and employee satisfaction.
 
 - A [2018 study published in the Journal of Business and Psychology](https://link.springer.com/article/10.1007/s10869-017-9522-9) found that **employees in flatter organizations reported higher levels of job satisfaction, engagement, and organizational commitment**. 
 
@@ -142,9 +134,7 @@ Reevaluate your business structure and implement necessary changes today!
 <br>
 <ul>
     <li><a href="https://www.gallup.com/workplace/236198/employee-engagement-drives-growth.aspx">Gallup: Employee Engagement Drives Growth</a></li>
-    <li><a href="https://news.warwick.ac.uk/newsandevents/pressreleases/new_study_shows/">University of Warwick: New study shows we work harder when we are happy</a></li>
     <li><a href="https://link.springer.com/article/10.1007/s10869-017-9522-9">Journal of Business and Psychology: The Bright Side of Being Flat: The Relationship Between Organizational Structure and Employee Engagement</a></li>
-    <li><a href="https://www.kof.ethz.ch/en/news-and-events/news/news-archive/2017/09/employee-satisfaction-in-switzerland.html">Swiss Economic Institute: Employee satisfaction in Switzerland</a></li>
 </ul>
 </details>
 

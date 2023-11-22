@@ -2,7 +2,7 @@
 title: "The Financial Performance of Different Business Structures"
 layout: post
 date: 2023-08-13
-update_date: 2023-09-22
+update_date: 2023-11-21
 author: jack_nicholaisen
 summary: "Learn about business financial performance, including profitability and growth rates. Make informed decisions with this essential guide for entrepreneurs!"
 permalink: /statistics/business-structures/financial-performance/
@@ -63,8 +63,6 @@ An LLC is a hybrid business structure that combines the limited liability protec
 
 LLCs have been found to be more profitable than sole proprietorships and partnerships. 
 
-A [study](https://www.sciencedirect.com/science/article/abs/pii/S088390269900029X) in the Journal of Business Venturing revealed that LLCs have higher profitability ratios than the previous two structures.
-
 According to a recent study by the [Small Business Administration](https://www.sba.gov/sites/default/files/advocacy/SB-Research-Data-Sheet-No-3.pdf), LLCs have seen significant growth in profitability over the past decade. 
 
 **From 2008 to 2018, the number of profitable LLCs increased by 50%, with an average annual growth rate of 5.7%**. This is likely due to the flexibility and tax benefits that come with LLCs.
@@ -74,8 +72,6 @@ According to a recent study by the [Small Business Administration](https://www.s
 In terms of growth rates, LLCs have also shown impressive numbers. 
 
 The growth rates of LLCs are generally higher than sole proprietorships and partnerships but lower than corporations. 
-
-The [ResearchGate report](https://www.researchgate.net/publication/228146838_A_longitudinal_study_of_the_impact_of_entrepreneurial_and_organizational_strategies_on_the_growth_of_US_small_businesses) found that LLCs have moderate growth rates compared to other structures.
 
 A report by [Incfile](https://www.incfile.com/blog/post/llc-statistics/) found that LLCs had a higher survival rate compared to other business structures, with **over 70% of new LLCs still in operation after two years.** Additionally, LLCs experienced an **average annual revenue growth rate of 7.2% between 2014 and 2019**.
 
@@ -100,7 +96,7 @@ Another study by [Sageworks](https://www.sageworks.com/docs/default-source/white
 
 Corporations generally experience higher growth rates due to their ability to raise capital and attract investment. 
 
-The [ResearchGate report](https://www.researchgate.net/publication/228146838_A_longitudinal_study_of_the_impact_of_entrepreneurial_and_organizational_strategies_on_the_growth_of_US_small_businesses) also supports this assertion, indicating that corporations have faster growth rates compared to other business structures.
+This leads to corporations having faster growth rates compared to other business structures.
 
 When it comes to growth rates, corporations have also shown promising results. 
 
@@ -118,7 +114,7 @@ While they may not offer some of the tax benefits that other structures provide,
 
 Sole proprietorships tend to have lower profitability compared to other business structures. 
 
-According to a [study](https://www.sciencedirect.com/science/article/abs/pii/S088390269900029X) published in the Journal of Business Venturing, the profitability of sole proprietorships is negatively affected by the lack of access to resources and limited management capabilities.
+Because sole proprietorships are so simple, their lack of access to resources and limited management capabilities has negative impact of their profitability.
 
 According to data from the [IRS](https://www.irs.gov/statistics/soi-tax-stats-nonfarm-sole-proprietorship-statistics), **sole proprietorships had an average net income of $20,950 in 2019**. 
 
@@ -128,7 +124,7 @@ This is lower than other structures such as LLCs and corporations but can still 
 
 Sole proprietorships generally experience slower growth rates due to limited resources and funding opportunities. 
 
-A [report](https://www.researchgate.net/publication/228146838_A_longitudinal_study_of_the_impact_of_entrepreneurial_and_organizational_strategies_on_the_growth_of_US_small_businesses) by ResearchGate reveals that these businesses have lower growth rates compared to partnerships and corporations.
+This is why the simplest business entity has lower growth rates compared to partnerships and corporations.
 
 ## Partnerships
 
@@ -140,17 +136,13 @@ The partners invest their resources and skills into the business, which can lead
 
 Partnerships have higher profitability than sole proprietorships, primarily due to the pooling of resources and expertise. 
 
-A [study](https://www.sciencedirect.com/science/article/abs/pii/S088390269900029X) in the Journal of Business Venturing found that partnerships have higher profitability ratios than sole proprietorships.
-
 According to a study by the [National Bureau of Economic Research](https://www.nber.org/system/files/working_papers/w22476/w22476.pdf), partnerships have seen steady growth in profitability over the past few decades. 
 
 **From 1980 to 2013, partnerships' average profit share increased from 7% to 15%, indicating a significant increase in profitability**.
 
 ### Growth Rates:
 
-Partnerships generally have higher growth rates than sole proprietorships. 
-
-The [ResearchGate report](https://www.researchgate.net/publication/228146838_A_longitudinal_study_of_the_impact_of_entrepreneurial_and_organizational_strategies_on_the_growth_of_US_small_businesses) mentioned earlier indicates that partnerships experience faster growth due to the combined resources and expertise of the partners.
+Due to their combined resources and added expertise, partnerships generally have higher growth rates than sole proprietorships. 
 
 In terms of growth rates, partnerships have also shown impressive numbers. 
 
@@ -222,8 +214,6 @@ For example, a coffee shop owner could introduce new menu items such as specialt
 
 A software development company could expand its product offerings into related services such as cybersecurity or cloud computing solutions.
 
-For more information check out: [How to Increase Profit Margins Without Increasing Sales](https://www.inc.com/guides/2010/05/increase-profit-margins-without-increasing-sales.html)
-
 ## In Summary...
 
 Understanding the financial performance of different business structures is crucial for entrepreneurs and business owners looking to maximize profitability and growth.
@@ -249,8 +239,6 @@ Together, we can build a thriving business community that achieves financial suc
 <summary><b>Sources</b></summary>
 <br>
 <ul>
-<li><a href="https://www.sciencedirect.com/science/article/abs/pii/S088390269900029X">Journal of Business Venturing</a></li>
-<li><a href="https://www.researchgate.net/publication/228146838_A_longitudinal_study_of_the_impact_of_entrepreneurial_and_organizational_strategies_on_the_growth_of_US_small_businesses">ResearchGate report</a></li>
 <li><a href="https://www.jstor.org/stable/2352950">Journal of Political Economy</a></li>
 <li><a href="https://www.sageworks.com/docs/default-source/whitepapers/private-company-data-trends-report---q1-2020.pdf?sfvrsn=2">Sageworks study</a></li>
 <li><a href="https://www.irs.gov/statistics/soi-tax-stats-nonfarm-sole-proprietorship-statistics">IRS data on sole proprietorships</a></li>

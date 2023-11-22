@@ -2,7 +2,7 @@
 title: "The Geographic Distribution of Business Structures"
 layout: post
 date: 2023-08-01
-update_date: 2023-09-22
+update_date: 2023-11-21
 author: jack_nicholaisen
 summary: "Explore US regional trends and factors for business success. Learn industry-specific insights and pick the best structure for your location. Unlock secrets now!"
 permalink: /statistics/business-structures/geographic-region/
@@ -39,7 +39,7 @@ These states are home to a high number of corporations, specifically [C-corporat
 
 On the other hand, the Midwest is known for its strong manufacturing and agricultural base. 
 
-As a result, many businesses in this region are structured as [partnerships or sole proprietorships](https://www.inc.com/), which allow for more flexibility and a simpler management structure.
+As a result, many businesses in this region are structured as partnerships or sole proprietorships, which allow for more flexibility and a simpler management structure.
 
 ## Industry-Specific Trends in Business Structure
 
@@ -113,7 +113,7 @@ State and local regulations can play a significant role in determining the succe
 
 Some states are more business-friendly, offering tax incentives and other benefits to attract companies ([source](https://taxfoundation.org/)). 
 
-For example, Delaware is known for its favorable business climate, particularly for corporations, due to its low corporate tax rate and well-established legal infrastructure ([source](https://www.inc.com/)).
+For example, Delaware is known for its favorable business climate, particularly for corporations, due to its low corporate tax rate and well-established legal infrastructure.
 
 - ### Economic conditions: 
 
@@ -168,7 +168,6 @@ Stay informed, make data-driven decisions, and be part of the growing community 
 <br>
 <ul>
     <li><a href="https://www.uschamber.com/">Most Popular U.S. Business Types by Region - US Chamber of Commerce</a></li>
-    <li><a href="https://www.inc.com/">The 10 Best Cities for Starting a Business - Inc.</a></li>
     <li><a href="https://taxfoundation.org/">State Business Tax Climate Index - Tax Foundation</a></li>
     <li><a href="https://www.pewresearch.org/">Sole Proprietorships on the Decline - Pew Research Center</a></li>
     <li><a href="https://www.entrepreneur.com/article/235885">Choosing the Best Legal Structure for Your Business - Entrepreneur</a></li>

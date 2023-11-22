@@ -2,6 +2,7 @@
 title: "27 Statistics You Need to Know About LLC Size - Insights into Operations, Profitability, and Growth"
 layout: post
 date: 2023-10-23
+update_date: 2023-11-21
 author: jack_nicholaisen
 summary: "Discover the impact of the size of LLCs has on business operations, profitability, and growth. Learn about number of owners, size, employees, and more." 
 image: /images/posts-headers/llc-stats-size-header.png
@@ -278,11 +279,9 @@ Overall, this article strives to be informative and reliable by using high-quali
 <ul>
     <li><a href="https://www.sba.gov/">Small Business Administration (SBA)</a></li>
     <li><a href="https://www.score.org/">SCORE</a></li>
-    <li><a href="https://nasbo.org/">National Association of Small Business Owners (NASBO)</a></li>
     <li><a href="https://www.uschamber.com/">U.S. Chamber of Commerce</a></li>
     <li><a href="https://www.entrepreneur.com/">Entrepreneur</a></li>
     <li><a href="https://www.forbes.com/small-business/">Forbes Small Business</a></li>
-    <li><a href="https://www.inc.com/">Inc.com</a></li>
 </ul>
 <p>By using these resources, entrepreneurs can gain a deeper understanding of the advantages and disadvantages of forming an LLC, effective strategies for growth, financing options, and much more. </p>
 <p>Whether you're just starting out or looking to take your existing LLC to the next level, there are plenty of resources available to help you succeed in your business venture.</p>

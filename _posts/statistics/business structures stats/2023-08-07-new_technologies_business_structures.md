@@ -2,7 +2,7 @@
 title: "The Role of Technology in Business Structures"
 layout: post
 date: 2023-08-07
-update_date: 2023-09-22
+update_date: 2023-11-21
 author: jack_nicholaisen
 summary: "Curious how technology can boost your business? We'll explore its adoption and impact on LLCs, partnerships, and industry trends for your growth and success."
 permalink: /statistics/business-structures/technology/
@@ -68,13 +68,13 @@ Let's have a look at how the largest industries are effected by new technologies
 
 ### 2.   Healthcare and Social Assistance
 
--  The global healthcare artificial intelligence market is expected to reach \$17.8 billion by 2025. (Source: [Grand View Research](https://www.grandviewresearch.com/industry-analysis/healthcare-artificial-intelligence-ai-market))
+-  The global healthcare artificial intelligence market is expected to reach $17.8 billion by 2025. (Source: [Grand View Research](https://www.grandviewresearch.com/industry-analysis/healthcare-artificial-intelligence-ai-market))
 
 -  90% of healthcare executives believe that artificial intelligence will have a significant impact on their industry in the next three years. (Source: [Accenture](https://www.accenture.com/us-en/insight-artificial-intelligence-healthcare))
 
 ### 3.   Professional, Scientific and Technical Services
 
--  The global artificial intelligence market in the professional services industry is expected to reach \$8.9 billion by 2022. (Source: [MarketsandMarkets](https://www.marketsandmarkets.com/Market-Reports/artificial-intelligence-market-74851580.html))
+-  The global artificial intelligence market in the professional services industry is expected to reach $8.9 billion by 2022. (Source: [MarketsandMarkets](https://www.marketsandmarkets.com/Market-Reports/artificial-intelligence-market-74851580.html))
 
 -  69% of professional services firms are already using artificial intelligence in some capacity. (Source: [PwC](https://www.pwc.com/us/en/industries/financial-services/research-institute/top-issues/artificial-intelligence.html))
 
@@ -86,31 +86,29 @@ Let's have a look at how the largest industries are effected by new technologies
 
 ### 5.  Manufacturing
 
-- The global market for industrial robotics is expected to reach \$41.2 billion by 2020. (Source: [MarketsandMarkets](https://www.marketsandmarkets.com/Market-Reports/industrial-robotics-market-643.html))
+- The global market for industrial robotics is expected to reach $41.2 billion by 2020. (Source: [MarketsandMarkets](https://www.marketsandmarkets.com/Market-Reports/industrial-robotics-market-643.html))
 
 - 86% of manufacturers believe that artificial intelligence will be a strategic priority for their business in the next five years. (Source: [Infosys](https://www.infosys.com/aimaturity/Documents/manufacturing-white-paper.pdf))
 
 ### 6.  Retail Trade
 
-- The global market for retail automation is expected to reach \$23.58 billion by 2026. (Source: [Grand View Research](https://www.grandviewresearch.com/industry-analysis/retail-automation-market))
+- The global market for retail automation is expected to reach $23.58 billion by 2026. (Source: [Grand View Research](https://www.grandviewresearch.com/industry-analysis/retail-automation-market))
 
 - 72% of retailers believe that artificial intelligence will be a competitive advantage for their business in the next three years. (Source: [Capgemini](https://www.capgemini.com/research/artificial-intelligence-in-retail/))
 
 ### 7.  Wholesale Trade
 
-- The global market for warehouse robotics is expected to reach \$6 billion by 2025. (Source: [Tractica](https://www.tractica.com/research/warehouse-robots/))
+- The global market for warehouse robotics is expected to reach $6 billion by 2025. (Source: [Tractica](https://www.tractica.com/research/warehouse-robots/))
 
 - 80% of wholesalers believe that artificial intelligence will be a strategic priority for their business in the next five years. (Source: [Infosys](https://www.infosys.com/aimaturity/Documents/wholesale-distribution-white-paper.pdf))
 
 ### 8.  Information
 
-- The global market for big data and business analytics is expected to reach \$274.3 billion by 2022. (Source: [IDC](https://www.idc.com/getdoc.jsp?containerId=prUS42757418))
-
 - 80% of companies believe that artificial intelligence will improve worker performance and create new jobs. (Source: [Infosys](https://www.infosys.com/aimaturity/Documents/enterprise-ai-white-paper.pdf))
 
 ### 9.  Construction
 
-- The global market for construction robots is expected to reach \$166.4 million by 2023. (Source: [MarketsandMarkets](https://www.marketsandmarkets.com/Market-Reports/construction-robot-market-191181584.html))
+- The global market for construction robots is expected to reach $166.4 million by 2023. (Source: [MarketsandMarkets](https://www.marketsandmarkets.com/Market-Reports/construction-robot-market-191181584.html))
 
 - The use of drones in construction is expected to grow by 239% in the next five years. (Source: [Goldman Sachs](https://www.goldmansachs.com/insights/pages/drones/report.pdf))
 
@@ -156,7 +154,6 @@ Start exploring the potential benefits of technology adoption in your business s
     <li><a href="https://www.nar.realtor/research-and-statistics/quick-real-estate-statistics">National Association of Realtors</a></li>
     <li><a href="https://www.goldmansachs.com/insights/pages/virtual-and-augmented-reality/report.pdf">Goldman Sachs</a></li>
     <li><a href="https://www.tractica.com/research/warehouse-robots/">Tractica</a></li>
-    <li><a href="https://www.idc.com/getdoc.jsp?containerId=prUS42757418">IDC</a></li>
     <li><a href="https://www.marketsandmarkets.com/Market-Reports/artificial-intelligence-market-74851580.htm">MarketsandMarkets</a></li>
     <li><a href="https://www.marketsandmarkets.com/Market-Reports/construction-robot-market-191181584.html">MarketsandMarkets</a></li>
     <li><a href="https://www.marketsandmarkets.com/Market-Reports/industrial-robotics-market-643.html">MarketsandMarkets</a></li>

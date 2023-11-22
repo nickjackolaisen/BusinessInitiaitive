@@ -2,7 +2,7 @@
 title: "The Power of Present Value: Use PV Calculations to Make Informed Financial Decisions"
 layout: post
 date: 2023-11-15
-update_date: 2023-11-19
+update_date: 2023-11-21
 author: jack_nicholaisen
 summary: "Discover the power of Present Value! Learn how to calculate the worth of future money today in our comprehensive guide. #finance #investing"
 image: /images/posts-headers/time-value-of-money-pv-header.png
@@ -293,7 +293,6 @@ Don't forget to sign up for our newsletter and follow us on Twitter for more val
     <li><a href="https://www.thebalance.com/how-to-calculate-present-value-of-future-money-1287184">The Balance</a></li>
     <li><a href="https://www.investopedia.com/terms/f/futurevalue.asp">Investopedia</a></li>
     <li><a href="https://www.thebalance.com/how-to-calculate-future-value-using-excel-or-a-financial-calculator-4173883">The Balance</a></li>
-    <li><a href="https://www.nerdwallet.com/article/investing/future-value">NerdWallet</a></li>
 </ul>
 <p>These resources can help you deepen your understanding of present value and apply it in real-life situations.</p>
 <ul>

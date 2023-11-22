@@ -2,7 +2,7 @@
 title: "The Evolution of Business Structures: Past, Present, & Future"
 layout: post
 date: 2023-08-13
-update_date: 2023-09-22
+update_date: 2023-11-21
 author: jack_nicholaisen
 summary: "Discover the history of business entities and how they've shaped entrepreneurship. Explore growth factors and the future of business. CLICK TO READ NOW!"
 permalink: /statistics/business-structures/history/
@@ -24,7 +24,7 @@ However, it wasn't until the late Middle Ages that the concept of a corporation 
 
 [The first corporations](https://www.opendemocracy.net/en/openeconomy/brief-history-of-corporation-1600-to-2100/) were created as a means to finance large-scale projects, such as trade expeditions and infrastructure development.
 
-Throughout history, the need for more flexible and efficient business structures has led to the development of other forms, such as [limited partnerships and joint-stock companies](https://scholarship.law.upenn.edu/cgi/viewcontent.cgi?article=5876\&context=penn_law_review). 
+Throughout history, the need for more flexible and efficient business structures has led to the development of other forms, such as limited partnerships and joint-stock companies. 
 
 In the United States, the first LLC was established in Wyoming in 1977, providing a new paradigm for business owners seeking the [benefits of limited liability without the complexities and regulations associated with corporations](https://www.wyomingllcattorney.com/Blog/LLC-First-Created).
 
@@ -48,7 +48,7 @@ Today, [LLCs are the most common business structure for new U.S. businesses](htt
 
 -  ### The decline of partnerships: 
 
-General partnerships have seen a decline in popularity over the past few decades, as entrepreneurs increasingly turn to [LLCs and corporations](https://www.jstor.org/stable/1123347) for their business ventures. 
+General partnerships have seen a decline in popularity over the past few decades, as entrepreneurs increasingly turn to LLCs and corporations for their business ventures. 
 
 However, limited partnerships continue to be a popular choice for certain industries, such as real estate and private equity.
 
@@ -86,19 +86,19 @@ Numerous factors have influenced the development and growth of business structur
 
 Changes in laws and regulations have often spurred the evolution of business structures. 
 
-For example, the introduction of limited liability for shareholders in the mid-19th century [helped fuel the growth of corporations](https://www.cambridge.org/core/journals/law-and-history-review/article/abs/limited-liability-and-the-development-of-the-corporate-form/EBCC2F14B9E0600A20A91D1E1C4D6289). 
+For example, the introduction of limited liability for shareholders in the mid-19th century helped fuel the growth of corporations. 
 
 Similarly, the passage of the [Uniform Limited Liability Company Act](https://www.uniformlaws.org/committees/community-home?CommunityKey=53d3b3d6-ea4d-4a97-9614-e378f86d3153) in the U.S. in 1996 helped standardize and promote the use of LLCs.
 
 -  ### Economic and technological shifts: 
 
-The rise of the digital economy and the increasing importance of intellectual capital have led many entrepreneurs to seek [more flexible and efficient business structures](https://www.jstor.org/stable/pdf/24883936.pdf), such as LLCs and S corporations.
+The rise of the digital economy and the increasing importance of intellectual capital have led many entrepreneurs to seek more flexible and efficient business structures, such as LLCs and S corporations.
 
 -  ### Cultural and social factors: 
 
 Societal attitudes towards entrepreneurship and risk-taking have also played a role in the growth of various business structures. 
 
-For instance, the rise of the "gig economy" and a greater [emphasis on individualism](https://www.jstor.org/stable/26336266) have contributed to the popularity of sole proprietorships and single-member LLCs.
+For instance, the rise of the "gig economy" and a greater emphasis on individualism have contributed to the popularity of sole proprietorships and single-member LLCs.
 
 -  ### Tax considerations: 
 
@@ -138,7 +138,7 @@ The flexibility, tax advantages, and limited liability protection offered by LLC
 
 -  ### Increased focus on social and environmental responsibility: 
 
-As more businesses recognize the [importance of sustainability and ethical practices](https://www.inc.com/guides/201106/how-to-form-a-benefit-corporation.html), we may see a rise in the adoption of benefit corporations and other socially-conscious business structures.
+As more businesses recognize the importance of sustainability and ethical practices, we may see a rise in the adoption of benefit corporations and other socially-conscious business structures.
 
 -  ### Globalization and digitalization: 
 
@@ -183,28 +183,22 @@ To stay informed and be prepared for the future of business, subscribe to our ne
 <ul>
     <li><a href="https://www.jstor.org/stable/1805778">The Roman Business Corporation</a></li>
     <li><a href="https://www.opendemocracy.net/en/openeconomy/brief-history-of-corporation-1600-to-2100/">A Brief History of the Corporation</a></li>
-    <li><a href="https://scholarship.law.upenn.edu/cgi/viewcontent.cgi?article=5876\&context=penn_law_review">The Rise of the Limited Partnership</a></li>
     <li><a href="https://www.wyomingllcattorney.com/Blog/LLC-First-Created">The Emergence of LLCs</a></li>
     <li><a href="https://www.jstor.org/stable/1816598">The Growth of Corporations</a></li>
     <li><a href="https://www.investopedia.com/ask/answers/011915/which-is-more-popular-llcs-or-corporations.asp">The Popularity of LLCs</a></li>
     <li><a href="https://www.sos.state.tx.us/corp/annrep.shtml">2021 Entity Formations Report</a></li>
-    <li><a href="https://www.jstor.org/stable/1123347">The Decline of General Partnerships</a></li>
     <li><a href="https://bcorporation.net/directory">B Lab, "Certified B Corporations: Global Directory,"</a></li>
     <li><a href="https://www.forbes.com/sites/forbestechcouncil/2020/01/28/how-technology-is-changing-the-way-we-do-business/?sh=25e8d7a54f3c">Forbes, "How Technology Is Changing The Way We Do Business,"</a></li>
     <li><a href="https://hbr.org/2017/01/how-blockchain-could-change-the-nature-of-trust">Harvard Business Review, "How Blockchain Could Change the Nature of Trust,"</a></li>
     <li><a href="https://www.entrepreneur.com/article/334984">Entrepreneur, "The Future of Business Structures: What Entrepreneurs Need to Know,"</a></li>
     <li><a href="https://www.forbes.com/sites/biserdimitrov/2021/06/15/blockchain-based-business-models-will-disrupt-traditional-structures/?sh=2b3c0e7d6f8a">Forbes, "Blockchain-Based Business Models Will Disrupt Traditional Structures,"</a></li>
-    <li><a href="https://www.cambridge.org/core/journals/law-and-history-review/article/abs/limited-liability-and-the-development-of-the-corporate-form/EBCC2F14B9E0600A20A91D1E1C4D6289">Limited Liability and the Development of the Corporate Form</a></li>
     <li><a href="https://www.uniformlaws.org/committees/community-home?CommunityKey=53d3b3d6-ea4d-4a97-9614-e378f86d3153">The Uniform Limited Liability Company Act</a></li>
     <li><a href="https://www.irs.gov/businesses/small-businesses-self-employed/limited-liability-company-llc">IRS.gov, "Limited Liability Company (LLC),"</a></li>
     <li><a href="https://www.investopedia.com/articles/personal-finance/082715/s-corp-vs-c-corp.asp">Investopedia, "S Corporation vs C Corporation: What's the Difference?"</a></li>
     <li><a href="https://www.forbes.com/sites/maryjuetten/2016/10/19/why-venture-capitalists-prefer-to-invest-in-c-corporations/?sh=7b5d3cdd6a4e">Forbes, "Why Venture Capitalists Prefer To Invest In C Corporations,"</a></li>
     <li><a href="https://ec.europa.eu/growth/single-market/europeancompany/cross-border-company-forms_en">European Commission, "Cross-border company forms,"</a></li>
     <li><a href="https://ssir.org/articles/entry/the_rise_of_the_fourth_sector">Stanford Social Innovation Review, "The Rise of the Fourth Sector,"</a></li>
-    <li><a href="https://www.jstor.org/stable/pdf/24883936.pdf">The Impact of the Digital Economy on Business Structures</a></li>
-    <li><a href="https://www.jstor.org/stable/26336266">The Gig Economy and Business Structures</a></li>
     <li><a href="https://www.entrepreneur.com/article/364212">Predictions for LLC Growth</a></li>
-    <li><a href="https://www.inc.com/guides/201106/how-to-form-a-benefit-corporation.html">The Rise of Benefit Corporations</a></li>
     <li><a href="https://www.hbs.edu/faculty/Publication%20Files/14-055_08f3b1e1-8f9d-46f6-9e7d-0f67466a8f14.pdf">Globalization and Digitalization</a></li>
     </ul>
     <p>Sources:</p>

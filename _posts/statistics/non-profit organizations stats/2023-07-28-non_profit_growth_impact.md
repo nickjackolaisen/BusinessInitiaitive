@@ -2,7 +2,7 @@
 title: "Non-Profit Organizations in 2023 - Growth and Impact"
 layout: post
 date: 2023-07-29
-update_date: 2023-09-27
+update_date: 2023-11-21
 author: jack_nicholaisen
 summary: "Explore non-profits' growth in different sectors, with data and stats. Learn success factors, challenges, and opportunities to join the social impact world!"
 image: /images/posts-headers/non-profit-growth.png
@@ -25,11 +25,7 @@ According to data from the National Center for Charitable Statistics, the number
 
 This growth has been driven by various factors, including increased public awareness, government support, and the rise of social entrepreneurship.
 
-Globally, the non-profit sector has also seen significant growth. 
-
-According to a report by the Johns Hopkins Center for Civil Society Studies, non-profit employment [grew by an average of 3.1% per year between 2000 and 2017](https://ccss.jhu.edu/global-civil-society-employment-update/) in the 40 studied countries, outpacing overall employment growth. 
-
-This growth highlights the increasing importance of non-profit organizations in addressing global challenges and improving people's lives.
+Globally, the non-profit sector has also seen significant growth, highlighting the increasing importance of non-profit organizations in addressing global challenges and improving people's lives.
 
 ## Sector-Specific Impact of Non-Profit Organizations
 
@@ -149,7 +145,6 @@ If you are an entrepreneur or business owner considering starting a non-profit, 
 <br>
 <ul>
     <li><a href="https://nccs.urban.org/project/nonprofit-sector-brief">National Center for Charitable Statistics</a></li>
-    <li><a href="https://ccss.jhu.edu/global-civil-society-employment-update/">Johns Hopkins Center for Civil Society Studies</a></li>
     <li><a href="https://www.teachforamerica.org/">Teach for America</a></li>
     <li><a href="https://www.roomtoread.org/">Room to Read</a></li>
     <li><a href="https://www.pih.org/">Partners in Health</a></li>

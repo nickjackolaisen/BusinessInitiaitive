@@ -2,7 +2,7 @@
 layout: post
 title: 6 Awful Disadvantages of Sole Proprietroships
 date: 2023-06-26
-update_date: 2023-09-21
+update_date: 2023-11-21
 author: jack_nicholaisen
 summary: "Don't read this article if you're considering starting a Sole Proprietorship! You just might end up starting a Partnership, LLC, or Corporation."
 permalink: /sole-proprietorship/disadvantages/
@@ -49,9 +49,6 @@ It is important to know what you’re getting yourself into and what is required
 Dissolving your Sole Proprietorship is easy because as soon as you stop operating, the business ceases to exist. 
 
 This can be through selling your business, closing the business, or the death of the Sole Proprietor.
-
-Check us out on Twitter: 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-via="BisInitiative" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Liability
 

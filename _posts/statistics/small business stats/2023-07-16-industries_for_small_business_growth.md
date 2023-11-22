@@ -2,7 +2,7 @@
 title: "Top 16 Industries for Small Business Growth in 2023 and Beyond"
 layout: post
 date: 2023-07-16
-update_date: 2023-11-20
+update_date: 2023-11-21
 author: jack_nicholaisen
 summary: "Stay ahead by discovering the top 16 small business industries for growth in 2023! READ NOW and accelerate your success!"
 permalink: /statistics/small-businesses/top-industries-for-growth/
@@ -87,7 +87,7 @@ World digital ad spending reached [**$333.25 billion in 2019**](https://www.emar
 
 ### 13. <a href="#13">Online Education</a>
 
-The global online education market is projected to reach [**$319.2 billion by 2025**](https://www.researchandmarkets.com/reports/4640962/online-education-market-global-industry), up from $187.9 billion in 2019.
+The e-education market had a valuation of [**$399.3 billion in 2022**](https://www.gminsights.com/industry-analysis/elearning-market-size), and is projected to grow at a CAGR of 14% between 2022 and 2032.
 
 ### 14. <a href="#14">Renewable Energy</a>
 
