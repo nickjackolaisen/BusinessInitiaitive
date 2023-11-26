@@ -9,7 +9,7 @@ date_format: "%b %-d, %Y"
 header_pages:
  - stats.html
  - tools.html
- - /directory/directory.html
+ - directory/directory.html
  - pricing.md
  - consulting.md
  - about.md
