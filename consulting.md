@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Consulting Services
+title: Consulting
 permalink: /consulting/
 tags: consulting, call, meeting, schedule, message, registration, business, llc, sole-proprietorship, partnership, corporation
 ---
