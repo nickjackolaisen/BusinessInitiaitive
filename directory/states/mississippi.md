@@ -1,0 +1,11 @@
+---
+layout: page
+title: "Mississippi Business Directory"
+date: 
+update_date: 
+author: jack_nicholaisen
+summary: "Discover the top business startup services in Mississippi! Your ultimate guide to launching a successful venture."  
+permalink: /directory/mississippi/
+tags: business directory, start up services, business services, business lawyers, registered agents,
+---
+

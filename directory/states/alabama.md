@@ -3,7 +3,7 @@ layout: page
 title: "Alabama Business Directory"
 date: 2023-11-26
 author: jack_nicholaisen
-summary: "Discover the top business startup services in [State]! Your ultimate guide to launching a successful venture."  
+summary: "Discover the top business startup services in Alabama! Your ultimate guide to launching a successful venture."  
 permalink: /directory/alabama/
 tags: business directory, start up services, business services, business lawyers, registered agents,
 ---
@@ -22,20 +22,56 @@ Use this directory to find the right professionals to help you with your busines
 
 ### Lawyers
 
--   Business Formation Lawyers: Help with selecting the right business structure, drafting and filing necessary documents.
+-   **Business Formation Lawyers:** Help with selecting the right business structure, drafting and filing necessary documents.
 
 <a href="https://www.stonebritt.com/business-formation" target="_blank">Stone & Britt, LLC</a>
 
--   Intellectual Property Lawyers: Assist with trademark, patent, and copyright protection.
+<a href="https://www.martinsonandbeason.com/" target="_blank">Martinson and Beason, P.C</a>
+
+<a href="https://www.hawkinslawllc.com/" target="_blank">The Hawkins Law Firm</a>
+
+-   **Intellectual Property Lawyers:** Assist with trademark, patent, and copyright protection.
 
 <a href="https://www.adamsiplaw.com/" target="_blank">AdamsIP</a>
 
+<a href="https://www.taylorenglish.com/" target="_blank">Taylor English</a>
 
--   Employment Lawyers: Ensure compliance with labor laws and draft employment agreements.
--   Tax Lawyers: Assist with tax planning, compliance, and disputes with tax authorities.
--   Mergers and Acquisitions Lawyers: Guide businesses through the process of buying, selling, or merging with other companies.
--   Commercial Real Estate Lawyers: Help negotiate leases, purchase agreements, and navigate zoning regulations for business properties.
--   Data Privacy and Cybersecurity Lawyers: Ensure compliance with data protection laws and develop strategies to protect sensitive information.
+<a href="https://www.balch.com/" target="_blank">Balch & Bingham</a>
+
+-   **Employment Lawyers:** Ensure compliance with labor laws and draft employment agreements.
+
+
+<a href="https://www.wmalabamalaw.com/" target="_blank">Michel | King</a>
+
+
+<a href="url" target="_blank">text</a>
+https://www.justiceatwork.com/
+Barrett & Farahany
+
+<a href="url" target="_blank">text</a>
+https://www.allenarnoldlaw.com/
+Allen D. Arnold Attorney at Law
+
+
+-   **Tax Lawyers:** Assist with tax planning, compliance, and disputes with tax authorities.
+
+<a href="url" target="_blank">text</a>
+https://andersonbradshawtax.com/
+Anderson Bradshaw
+
+<a href="url" target="_blank">text</a>
+https://johnstonhinesley.com/
+Johnston Hinesley PC
+
+<a href="url" target="_blank">text</a>
+https://www.bowmanlawfirm.net/
+Bowman Law
+
+-   **Mergers and Acquisitions Lawyers:** Guide businesses through the process of buying, selling, or merging with other companies.
+
+-   **Commercial Real Estate Lawyers:** Help negotiate leases, purchase agreements, and navigate zoning regulations for business properties.
+
+-   **Data Privacy and Cybersecurity Lawyers:** Ensure compliance with data protection laws and develop strategies to protect sensitive information.
 
 ### Registered Agents
 
