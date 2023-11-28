@@ -2,11 +2,12 @@
 title: "The Power of Present Value: Use PV Calculations to Make Informed Financial Decisions"
 layout: post
 date: 2023-11-15
-update_date: 2023-11-21
+update_date: 2023-11-27
 author: jack_nicholaisen
 summary: "Discover the power of Present Value! Learn how to calculate the worth of future money today in our comprehensive guide. #finance #investing"
 image: /images/posts-headers/time-value-of-money-pv-header.png
 permalink: /time-value-of-money/present-value/
+tags: present day value calculation, present day value calculator
 ---
 
 Are you curious about how much money you'll need in the future? 

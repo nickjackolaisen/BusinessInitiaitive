@@ -2,6 +2,7 @@
 layout: page
 title: "Alabama Business Directory"
 date: 2023-11-26
+update_date: 2023-11-27
 author: jack_nicholaisen
 summary: "Discover the top business startup services in Alabama! Your ultimate guide to launching a successful venture."  
 permalink: /directory/alabama/
@@ -34,7 +35,7 @@ Use this directory to find the right professionals to help you with your busines
 
 <a href="https://www.adamsiplaw.com/" target="_blank">AdamsIP</a>
 
-<a href="https://www.taylorenglish.com/"target="_blank">Taylor English</a>
+<a href="https://www.taylorenglish.com/" target="_blank">Taylor English</a>
 
 <a href="https://www.balch.com/" target="_blank">Balch & Bingham</a>
 
@@ -182,6 +183,12 @@ agent@alabamaregisteredagent.com
 
 -   Draft, review, and negotiate various business contracts.
 -   Ensure contracts are legally binding and protect your business interests.
+
+<a href="https://www.martinsonandbeason.com/practice-areas/business-commercial-corporate-law/" target="_blank">Martinson & Beason</a>
+
+<a href="https://www.ritcheylaw.com/" target="_blank">Ritchey & Ritchey</a>
+
+<a href="https://bhlawllc.com/david-r-blount/" target="_blank">David R. Blount</a>
 
 ## Financial Services
 

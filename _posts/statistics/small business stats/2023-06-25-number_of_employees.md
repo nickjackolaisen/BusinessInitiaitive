@@ -2,14 +2,14 @@
 title: "How Many Employees does a Small Business have?"
 layout: post
 date: 2023-06-25
-update_date: 2023-11-20
+update_date: 2023-11-27
 author: jack_nicholaisen
 summary: "Explore avg. employee numbers in small businesses across industries. Discover how you measure up & gain a competitive edge!"
 permalink: /statistics/small-businesses/number-of-employees/
 redirect_from: 
     - /stats/number-of-employees-in-a-small-business/
     - /statistics/number-of-employees-in-a-small-business/
-tags: how many employees does a small business have,
+tags: how many employees does a small business have, how many employees should a small business have, 
 ---
 
 The number of employees at small businesses can vary greatly depending on the industry in which they operate. 

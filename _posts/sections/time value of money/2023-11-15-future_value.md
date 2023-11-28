@@ -2,10 +2,12 @@
 title: "What is Future Value and How You can Use it to Maximize Returns and Secure Your Financial Future"
 layout: post
 date: 2023-11-15
+update_date: 2023-11-27
 author: jack_nicholaisen
 summary: "Learn how to calculate the future value of your investments with our comprehensive guide. Maximize your returns and secure your financial future today!"
 image: /images/posts-headers/time-value-of-money-fv-header.png
 permalink: /time-value-of-money/future-value/
+tags: what does future value mean,
 ---
 
 Welcome to Business Initiative's comprehensive guide on calculating the future value of your investments. 
@@ -29,7 +31,7 @@ By the end of this guide, you will have a clear understanding of how to maximize
 
 So let's dive in and start exploring the world of investing!
 
-## The Future Value Concept Explained
+## What Does Future Value Mean
 
 The future value concept is based on the principle of compounding interest, which means that interest earned on an investment is added to the principal amount, and then interest is earned on the new total. 
 

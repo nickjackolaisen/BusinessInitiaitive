@@ -2,13 +2,13 @@
 title: "Sole Proprietorship Facts, Stats, & FAQs for 2023"
 layout: post
 date: 2023-07-05
-update_date: 2023-11-20
+update_date: 2023-11-27
 author: jack_nicholaisen
 summary: "Unlock your business potential with our data-driven insights, expert consulting, and tailored pricing. Elevate success today!" 
 image: /images/posts-headers/sole-proprietorship-facts-stats-faqs-header.png
 permalink: /statistics/sole-proprietorship-statistics/
 redirect_from: /stats/sole-proprietorship-statistics/
-tags: number of sole proprietorships in the united states, largest sole proprietorships in the world, sole proprietors in the us, successful sole proprietorship, facts about sole proprietorship, how many businesses are sole proprietorship, how many sole proprietorships are there in the united states
+tags: number of sole proprietorships in the united states, largest sole proprietorships in the world, sole proprietors in the us, successful sole proprietorship, facts about sole proprietorship, how many businesses are sole proprietorship, how many sole proprietorships are there in the united states, what percent of businesses are sole proprietorships, 
 ---
 <a id="number"> 
 

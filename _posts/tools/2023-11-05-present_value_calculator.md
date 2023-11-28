@@ -2,11 +2,12 @@
 title: "Present Value Calculator - Evaluate the Worth of Your Future Cash Flows with Ease"
 layout: post
 date: 2023-11-05
-uopdate_date: 2023-11-19
+uopdate_date: 2023-11-27
 author: jack_nicholaisen
 summary: "Discover how to calculate the present value of future cash flows with our easy-to-use calculator. Improve your financial decision-making today!" 
 image: /images/posts-headers/calculator/tmv-present-value-calculator-header.png
 permalink: /tools/calculator/present-value/
+tags: present day value calculation, present day value calculator
 ---
 
 ## What is Present Value?

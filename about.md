@@ -2,7 +2,7 @@
 layout: page
 title: About Business Initiative
 permalink: /about/
-tags: about, business initiative, about business initiative, what is business initative, what is a business initiative
+tags: about, business initiative, about business initiative, what is business initiative, what is a business initiative
 ---
 
 ## The first step in your journey…
