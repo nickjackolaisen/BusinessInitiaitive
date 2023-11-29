@@ -2,7 +2,7 @@
 title: "Future Value Calculator - Analyze Your Investment's Future Worth"
 layout: post
 date: 2023-11-05
-uopdate_date: 2023-11-19
+update_date: 2023-11-29
 author: jack_nicholaisen
 summary: "Are you curious to know how much your investment will be worth in the future? Our Future Value Calculator can help!" 
 image: /images/posts-headers/calculator/tmv-future-value-calculator-header.png

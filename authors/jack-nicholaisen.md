@@ -15,7 +15,7 @@ I started <a href="https://www.businessinitiative.org/"> Business Initiative</a>
 Here is a little bit about my background and a few of my experiences:
 </p>
 <p>
-I achieved the rank of Eagle Scout from Troop 236. <a href="https://www.miamitownship.com/DocumentCenter/View/912/Eagle-Scout-Nicholaisen?bidId=" target="_blank"> Here is my Eagle Project</a>
+I achieved the rank of Eagle Scout from Troop 236. <a href="https://www.miamitownship.com/DocumentCenter/View/912/Eagle-Scout-Nicholaisen?bidId=" target="_blank"> Here is the Eagle Project I completed in 2017</a>
 </p>
 
 <center>
@@ -25,10 +25,11 @@ I achieved the rank of Eagle Scout from Troop 236. <a href="https://www.miamitow
 
 <p>
 I spent a year abroad as a foreign-exchange student in Ussel France. I was there for the duration of my junior year of high school. 
-
+<br>
 <a href="https://www.lamontagne.fr/ussel-19200/actualites/correze-quand-un-americain-decouvre-ussel-on-parle-langue-de-buf-malbouffe-et-presidentielle-us_12104748/" target="_blank">Here's the time I was on the front page of the regional newspaper for France.</a>
 </p>
 
+<br>
 
 <a href="https://www.lamontagne.fr/ussel-19200/actualites/apres-une-annee-scolaire-passee-a-ussel-jack-nicholaisen-retourne-chez-lui-dans-lohio_12446095/" target="_blank">Here is the article La Montagne wrote about me at the end of the year before I headed back to the US.</a>
 

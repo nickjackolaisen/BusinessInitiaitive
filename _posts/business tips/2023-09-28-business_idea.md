@@ -1,7 +1,8 @@
 ---
-title: "How to Come Up with a Business Idea in 4 Steps"
+title: "How to Come Up with a Business Idea in 4 Simple Steps"
 layout: post
 date: 2023-09-28
+update_date: 2023-11-29
 author: jack_nicholaisen
 summary: "Have the entrepreneurial spirit but struggling to come up the perfect business idea? Check out our 4 step guide for tips on generating your next big idea!"
 image: /images/posts-headers/business-idea-header.png

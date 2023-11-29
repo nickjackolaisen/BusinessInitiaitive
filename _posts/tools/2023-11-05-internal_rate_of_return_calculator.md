@@ -2,7 +2,7 @@
 title: "Internal Rate of Return Calculator - Evaluate Your Investment's Profitability"
 layout: post
 date: 2023-11-05
-uopdate_date: 2023-11-19
+update_date: 2023-11-29
 author: jack_nicholaisen
 summary: "Looking for a way to calculate your investment's profitability? Our Internal Rate of Return Calculator is just what you need!" 
 image: /images/posts-headers/calculator/tmv-internal-rate-of-return-calculator-header.png
