@@ -38,140 +38,118 @@ You can use a survey tool such as [SurveyMonkey](https://www.surveymonkey.com/) 
 
 Once you have collected enough responses, you can use this PSM calculator to analyze the results and create the graph that shows the acceptable price range. 
 
-
-  <h3>Price Sensitivity Meter (PSM)</h3>
-  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-<body>
-  <div>
-    <label for="addColumn">Add/Subtract Columns:</label>
-    <button onclick="addColumn(1)">+1</button>
-    <button onclick="addColumn(5)">+5</button>
-    <button onclick="addColumn(-1)">-1</button>
-    <button onclick="addColumn(-5)">-5</button>
-  </div>
-
-  <div id="questionnaire">
-    <!-- The questionnaire will be dynamically generated here -->
-  </div>
-
-  <div id="chart"></div>
-
-  <script>
-    let numColumns = 1; // Initial number of columns
-
-    // Function to add or subtract columns based on the user's choice
-    function addColumn(value) {
-      numColumns += value;
-      renderQuestionnaire();
-    }
-
-    // Function to render the questionnaire based on the number of columns
-    function renderQuestionnaire() {
-      let questionnaireHTML = '<table>';
-      for (let i = 1; i <= 4; i++) {
-        questionnaireHTML += `<tr><td>Row ${i}</td>`;
-        for (let j = 1; j <= numColumns; j++) {
-          questionnaireHTML += `<td><input type="number" placeholder="${i === 1 ? 'Too Expensive' : (i === 2 ? 'Too Cheap' : (i === 3 ? 'Expensive/High Side' : 'Cheap/Good Value'))}"></td>`;
-        }
-        questionnaireHTML += '</tr>';
+<script>
+    function updateColumns(action, column) {
+      const columnElement = document.getElementById(column);
+      let value = parseInt(columnElement.textContent);
+      if (action === 'add') {
+        value += 1;
+      } else if (action === 'subtract') {
+        value -= 1;
+      } else if (action === 'add5') {
+        value += 5;
+      } else if (action === 'subtract5') {
+        value -= 5;
+      } else if (action === 'add10') {
+        value += 10;
+      } else if (action === 'subtract10') {
+        value -= 10;
       }
-      questionnaireHTML += '</table>';
-
-      document.getElementById('questionnaire').innerHTML = questionnaireHTML;
-      updateChart();
+      columnElement.textContent = value < 1 ? 1 : value; // Ensure value doesn't go below 1
     }
-
-    // Function to update the PSM chart based on user inputs
-    function updateChart() {
-      const data = [];
-      for (let j = 1; j <= numColumns; j++) {
-        const xValues = [];
-        const yValues = [];
-
-        for (let i = 1; i <= 4; i++) {
-          const inputValue = parseFloat(document.querySelector(`#questionnaire input:nth-of-type(${(i - 1) * numColumns + j})`).value);
-          if (!isNaN(inputValue)) {
-            xValues.push(i);
-            yValues.push(inputValue);
-          }
-        }
-
-        data.push({
-          x: xValues,
-          y: yValues,
-          mode: 'lines+markers',
-          name: `Column ${j}`
-        });
-      }
-
-      const layout = {
-        title: 'Price Sensitivity Meter (PSM)',
-        xaxis: {
-          title: 'Price Perception'
-        },
-        yaxis: {
-          title: 'Percentage of Consumers Willing to Pay',
-          tickformat: ',.0%'
-        }
-      };
-
-      const intersections = findIntersections(data);
-      const intersectionPoints = intersections.map((point, index) => {
-        return {
-          x: point[0],
-          y: point[1],
-          text: `Intersection ${index + 1}: (${point[0]}, ${point[1].toFixed(2)})`,
-          showarrow: true,
-          arrowhead: 2,
-          ax: 0,
-          ay: -40
-        };
-      });
-
-      Plotly.newPlot('chart', data, layout).then(() => {
-        Plotly.relayout('chart', { shapes: intersections.map((_, index) => ({
-          type: 'circle',
-          xref: 'x',
-          yref: 'y',
-          x0: intersections[index][0],
-          y0: intersections[index][1],
-          x1: intersections[index][0] + 0.1,
-          y1: intersections[index][1] + 0.1,
-          line: { color: 'red' },
-          opacity: 0.7
-        })) });
-        Plotly.relayout('chart', { annotations: intersectionPoints });
-      });
+    function calculatePSM() {
+      const tooExpensive = parseFloat(document.getElementById('row1').value);
+      const tooCheap = parseFloat(document.getElementById('row2').value);
+      const expensiveHigh = parseFloat(document.getElementById('row3').value);
+      const cheapValue = parseFloat(document.getElementById('row4').value);
+      // Calculate cumulative frequencies for "too cheap" and "cheap/good value"
+      const cumulativeTooCheap = 100 - tooCheap;
+      const cumulativeCheapValue = 100 - cheapValue;
+      // Calculate intersection points
+      const pmc = tooExpensive / (1 - tooCheap / 100);
+      const pme = tooCheap / (1 - expensiveHigh / 100);
+      const ipp = expensiveHigh / (1 - cheapValue / 100);
+      const opp = (tooExpensive + tooCheap) / 2;
+      // Display intersection points on the graph
+      const graph = document.getElementById('graph');
+      graph.innerHTML = `
+        <div class="intersection" style="left: ${pmc}%; top: ${cumulativeTooCheap}%;"></div>
+        <div class="intersection" style="left: ${pme}%; top: ${cumulativeCheapValue}%;"></div>
+        <div class="intersection" style="left: ${ipp}%; top: ${expensiveHigh}%;"></div>
+        <div class="intersection" style="left: ${opp}%; top: ${(100 - (tooExpensive + tooCheap) / 2)}%;"></div>
+      `;
+      // Display intersection point values
+      const intersectionValues = document.getElementById('intersectionValues');
+      intersectionValues.innerHTML = `
+        <p>Point of Marginal Cheapness (PMC): $${pmc.toFixed(2)}</p>
+        <p>Point of Marginal Expensiveness (PME): $${pme.toFixed(2)}</p>
+        <p>Indifference Price Point (IPP): $${ipp.toFixed(2)}</p>
+        <p>Optimal Price Point (OPP): $${opp.toFixed(2)}</p>
+      `;
     }
-
-    // Function to find intersections of lines
-    function findIntersections(data) {
-      const intersections = [];
-      for (let i = 0; i < data.length - 1; i++) {
-        for (let j = i + 1; j < data.length; j++) {
-          const intersection = [];
-          for (let k = 0; k < data[i].x.length; k++) {
-            const x1 = data[i].x[k];
-            const y1 = data[i].y[k];
-            const x2 = data[j].x[k];
-            const y2 = data[j].y[k];
-
-            if ((y1 < y2 && y1 >= 0 && y2 >= 0) || (y1 > y2 && y1 <= 0 && y2 <= 0)) {
-              const x = (x1 * y2 - x2 * y1) / (y2 - y1);
-              const y = (y2 * x1 - y1 * x2) / (x1 - x2);
-              intersection.push([x, y]);
-            }
-          }
-          intersections.push(...intersection);
-        }
-      }
-      return intersections;
-    }
-
-    // Initially render the questionnaire with 1 column
-    renderQuestionnaire();
   </script>
+<style>
+    .intersection {
+      position: absolute;
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      background-color: red;
+      border: 2px solid white;
+      transform: translate(-50%, -50%);
+      position: absolute;
+    }
+</style>
+
+<body>
+  <h3>Price Sensitivity Meter (PSM)</h3>
+
+  <div>
+    <h2>Column Labels:</h2>
+    <button onclick="updateColumns('subtract', 'column1')">-1</button>
+    <button onclick="updateColumns('subtract5', 'column1')">-5</button>
+    <button onclick="updateColumns('subtract10', 'column1')">-10</button>
+    <span id="column1">1</span>
+    <button onclick="updateColumns('add', 'column1')">+1</button>
+    <button onclick="updateColumns('add5', 'column1')">+5</button>
+    <button onclick="updateColumns('add10', 'column1')">+10</button>
+  </div>
+
+  <table border="1">
+    <tr>
+      <th></th>
+      <th>1</th>
+    </tr>
+    <tr>
+      <td>Too Expensive</td>
+      <td><input type="number" id="row1" /></td>
+    </tr>
+    <tr>
+      <td>Too Cheap</td>
+      <td><input type="number" id="row2" /></td>
+    </tr>
+    <tr>
+      <td>Expensive/High Side</td>
+      <td><input type="number" id="row3" /></td>
+    </tr>
+    <tr>
+      <td>Cheap/Good Value</td>
+      <td><input type="number" id="row4" /></td>
+    </tr>
+  </table>
+
+  <button onclick="calculatePSM()">Calculate PSM</button>
+
+  <div style="position: relative; height: 300px; width: 400px; border: 1px solid black; margin-top: 20px;">
+    <div id="graph" style="position: absolute; height: 100%; width: 100%;"></div>
+  </div>
+
+  <div id="intersectionValues">
+    <!-- Intersection point values will be displayed here -->
+  </div>
+
 </body>
+
 
 
 ## Interpreting the PSM Results
