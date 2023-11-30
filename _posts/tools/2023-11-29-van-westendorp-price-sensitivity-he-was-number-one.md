@@ -38,116 +38,158 @@ You can use a survey tool such as [SurveyMonkey](https://www.surveymonkey.com/) 
 
 Once you have collected enough responses, you can use this PSM calculator to analyze the results and create the graph that shows the acceptable price range. 
 
-<script>
-    function updateColumns(action, column) {
-      const columnElement = document.getElementById(column);
-      let value = parseInt(columnElement.textContent);
-      if (action === 'add') {
-        value += 1;
-      } else if (action === 'subtract') {
-        value -= 1;
-      } else if (action === 'add5') {
-        value += 5;
-      } else if (action === 'subtract5') {
-        value -= 5;
-      } else if (action === 'add10') {
-        value += 10;
-      } else if (action === 'subtract10') {
-        value -= 10;
-      }
-      columnElement.textContent = value < 1 ? 1 : value; // Ensure value doesn't go below 1
-    }
-    function calculatePSM() {
-      const tooExpensive = parseFloat(document.getElementById('row1').value);
-      const tooCheap = parseFloat(document.getElementById('row2').value);
-      const expensiveHigh = parseFloat(document.getElementById('row3').value);
-      const cheapValue = parseFloat(document.getElementById('row4').value);
-      // Calculate cumulative frequencies for "too cheap" and "cheap/good value"
-      const cumulativeTooCheap = 100 - tooCheap;
-      const cumulativeCheapValue = 100 - cheapValue;
-      // Calculate intersection points
-      const pmc = tooExpensive / (1 - tooCheap / 100);
-      const pme = tooCheap / (1 - expensiveHigh / 100);
-      const ipp = expensiveHigh / (1 - cheapValue / 100);
-      const opp = (tooExpensive + tooCheap) / 2;
-      // Display intersection points on the graph
-      const graph = document.getElementById('graph');
-      graph.innerHTML = `
-        <div class="intersection" style="left: ${pmc}%; top: ${cumulativeTooCheap}%;"></div>
-        <div class="intersection" style="left: ${pme}%; top: ${cumulativeCheapValue}%;"></div>
-        <div class="intersection" style="left: ${ipp}%; top: ${expensiveHigh}%;"></div>
-        <div class="intersection" style="left: ${opp}%; top: ${(100 - (tooExpensive + tooCheap) / 2)}%;"></div>
-      `;
-      // Display intersection point values
-      const intersectionValues = document.getElementById('intersectionValues');
-      intersectionValues.innerHTML = `
-        <p>Point of Marginal Cheapness (PMC): $${pmc.toFixed(2)}</p>
-        <p>Point of Marginal Expensiveness (PME): $${pme.toFixed(2)}</p>
-        <p>Indifference Price Point (IPP): $${ipp.toFixed(2)}</p>
-        <p>Optimal Price Point (OPP): $${opp.toFixed(2)}</p>
-      `;
-    }
-  </script>
-<style>
-    .intersection {
-      position: absolute;
-      width: 10px;
-      height: 10px;
-      border-radius: 50%;
-      background-color: red;
-      border: 2px solid white;
-      transform: translate(-50%, -50%);
-      position: absolute;
-    }
-</style>
+
 
 <body>
-  <h3>Price Sensitivity Meter (PSM)</h3>
-
-  <div>
-    <h2>Column Labels:</h2>
-    <button onclick="updateColumns('subtract', 'column1')">-1</button>
-    <button onclick="updateColumns('subtract5', 'column1')">-5</button>
-    <button onclick="updateColumns('subtract10', 'column1')">-10</button>
-    <span id="column1">1</span>
-    <button onclick="updateColumns('add', 'column1')">+1</button>
-    <button onclick="updateColumns('add5', 'column1')">+5</button>
-    <button onclick="updateColumns('add10', 'column1')">+10</button>
-  </div>
-
-  <table border="1">
-    <tr>
-      <th></th>
-      <th>1</th>
-    </tr>
-    <tr>
-      <td>Too Expensive</td>
-      <td><input type="number" id="row1" /></td>
-    </tr>
-    <tr>
-      <td>Too Cheap</td>
-      <td><input type="number" id="row2" /></td>
-    </tr>
-    <tr>
-      <td>Expensive/High Side</td>
-      <td><input type="number" id="row3" /></td>
-    </tr>
-    <tr>
-      <td>Cheap/Good Value</td>
-      <td><input type="number" id="row4" /></td>
-    </tr>
-  </table>
-
-  <button onclick="calculatePSM()">Calculate PSM</button>
-
-  <div style="position: relative; height: 300px; width: 400px; border: 1px solid black; margin-top: 20px;">
-    <div id="graph" style="position: absolute; height: 100%; width: 100%;"></div>
-  </div>
-
-  <div id="intersectionValues">
-    <!-- Intersection point values will be displayed here -->
-  </div>
-
+    <div>
+        <h2>Van Westendorp's Price Sensitivity Meter</h2>
+        <label for="addColumn">Add/Subtract Columns by:</label>
+        <input type="number" id="addColumn" value="1" min="1" step="1">
+        <button onclick="addColumns()">Apply</button>
+        <button onclick="calculate()">Calculate</button>
+    </div>
+    <div>
+        <table id="surveyTable">
+            <tr>
+                <th></th>
+            </tr>
+            <tr>
+                <th>Too Expensive</th>
+            </tr>
+            <tr>
+                <th>Too Cheap</th>
+            </tr>
+            <tr>
+                <th>Expensive/High Side</th>
+            </tr>
+            <tr>
+                <th>Cheap/Good Value</th>
+            </tr>
+        </table>
+    </div>
+    <div id="graph"></div>
+    <div id="results"></div>
+    <script>
+        let columns = 1;
+        function addColumns() {
+            const addValue = parseInt(document.getElementById("addColumn").value);
+            if (addValue > 0) {
+                columns += addValue;
+                renderSurveyTable();
+            } else {
+                alert("Please enter a valid number to add columns.");
+            }
+        }
+        function renderSurveyTable() {
+            const table = document.getElementById("surveyTable");
+            table.innerHTML = "<tr><th></th></tr><tr><th>Too Expensive</th></tr><tr><th>Too Cheap</th></tr><tr><th>Expensive/High Side</th></tr><tr><th>Cheap/Good Value</th></tr>";
+            for (let i = 1; i <= columns; i++) {
+                const columnNumber = i;
+                const th = document.createElement("th");
+                th.textContent = columnNumber.toString();
+                const trs = table.getElementsByTagName("tr");
+                for (let j = 1; j < trs.length; j++) {
+                    const td = document.createElement("td");
+                    td.innerHTML = `<input type="number" id="q${j}_c${i}" step="5">`;
+                    trs[j].appendChild(td);
+                }
+            }
+        }
+        function calculate() {
+            const data = [];
+            for (let i = 1; i <= columns; i++) {
+                const columnData = [];
+                for (let j = 1; j <= 4; j++) {
+                    const value = parseInt(document.getElementById(`q${j}_c${i}`).value);
+                    columnData.push(value);
+                }
+                data.push(columnData);
+            }
+            const prices = data.map(columnData => columnData[0]);
+            const tooExpensive = data.map(columnData => columnData[0]);
+            const tooCheap = data.map(columnData => columnData[1]);
+            const expensiveHighSide = data.map(columnData => columnData[2]);
+            const cheapGoodValue = data.map(columnData => columnData[3]);
+            const tooExpensivePercent = tooExpensive.map((value, index) => ((columns - index) / columns) * 100);
+            const tooCheapPercent = tooCheap.map((value, index) => ((columns - index) / columns) * 100);
+            const expensiveHighSidePercent = expensiveHighSide.map((value, index) => (index / columns) * 100);
+            const cheapGoodValuePercent = cheapGoodValue.map((value, index) => (index / columns) * 100);
+            const trace1 = {
+                x: prices,
+                y: tooExpensivePercent,
+                mode: 'lines+markers',
+                name: 'Too Expensive',
+            };
+            const trace2 = {
+                x: prices,
+                y: tooCheapPercent,
+                mode: 'lines+markers',
+                name: 'Too Cheap',
+            };
+            const trace3 = {
+                x: prices,
+                y: expensiveHighSidePercent,
+                mode: 'lines+markers',
+                name: 'Expensive/High Side',
+            };
+            const trace4 = {
+                x: prices,
+                y: cheapGoodValuePercent,
+                mode: 'lines+markers',
+                name: 'Cheap/Good Value',
+            };
+            const layout = {
+                title: 'Price Sensitivity Meter',
+                xaxis: {
+                    title: 'Price Range',
+                },
+                yaxis: {
+                    title: 'Percentage of Consumers',
+                },
+            };
+            const graphData = [trace1, trace2, trace3, trace4];
+            Plotly.newPlot('graph', graphData, layout);
+            calculateIntersections(prices, tooExpensivePercent, tooCheapPercent, expensiveHighSidePercent, cheapGoodValuePercent);
+        }
+        function calculateIntersections(prices, tooExpensivePercent, tooCheapPercent, expensiveHighSidePercent, cheapGoodValuePercent) {
+            const intersections = [];
+            for (let i = 0; i < prices.length - 1; i++) {
+                if ((tooCheapPercent[i] <= tooExpensivePercent[i] && tooCheapPercent[i + 1] >= tooExpensivePercent[i + 1]) ||
+                    (tooCheapPercent[i] >= tooExpensivePercent[i] && tooCheapPercent[i + 1] <= tooExpensivePercent[i + 1])) {
+                    const intersection = calculateIntersection(prices[i], prices[i + 1], tooCheapPercent[i], tooCheapPercent[i + 1], tooExpensivePercent[i], tooExpensivePercent[i + 1]);
+                    intersections.push({ price: intersection, label: "PMC" });
+                }
+                if ((cheapGoodValuePercent[i] <= expensiveHighSidePercent[i] && cheapGoodValuePercent[i + 1] >= expensiveHighSidePercent[i + 1]) ||
+                    (cheapGoodValuePercent[i] >= expensiveHighSidePercent[i] && cheapGoodValuePercent[i + 1] <= expensiveHighSidePercent[i + 1])) {
+                    const intersection = calculateIntersection(prices[i], prices[i + 1], cheapGoodValuePercent[i], cheapGoodValuePercent[i + 1], expensiveHighSidePercent[i], expensiveHighSidePercent[i + 1]);
+                    intersections.push({ price: intersection, label: "PME" });
+                }
+                if ((tooExpensivePercent[i] <= expensiveHighSidePercent[i] && tooExpensivePercent[i + 1] >= expensiveHighSidePercent[i + 1]) ||
+                    (tooExpensivePercent[i] >= expensiveHighSidePercent[i] && tooExpensivePercent[i + 1] <= expensiveHighSidePercent[i + 1])) {
+                    const intersection = calculateIntersection(prices[i], prices[i + 1], tooExpensivePercent[i], tooExpensivePercent[i + 1], expensiveHighSidePercent[i], expensiveHighSidePercent[i + 1]);
+                    intersections.push({ price: intersection, label: "IPP" });
+                }
+                if ((tooCheapPercent[i] <= cheapGoodValuePercent[i] && tooCheapPercent[i + 1] >= cheapGoodValuePercent[i + 1]) ||
+                    (tooCheapPercent[i] >= cheapGoodValuePercent[i] && tooCheapPercent[i + 1] <= cheapGoodValuePercent[i + 1])) {
+                    const intersection = calculateIntersection(prices[i], prices[i + 1], tooCheapPercent[i], tooCheapPercent[i + 1], cheapGoodValuePercent[i], cheapGoodValuePercent[i + 1]);
+                    intersections.push({ price: intersection, label: "OPP" });
+                }
+            }
+            intersections.sort((a, b) => a.price - b.price);
+            displayIntersectionResults(intersections);
+        }
+        function calculateIntersection(x1, x2, y1, y2, z1, z2) {
+            return x1 + ((x2 - x1) * (z1 - y1)) / (y2 - y1 - z2 + z1);
+        }
+        function displayIntersectionResults(intersections) {
+            const resultsDiv = document.getElementById("results");
+            resultsDiv.innerHTML = "<h3>Intersection Points:</h3>";
+            intersections.forEach((point, index) => {
+                resultsDiv.innerHTML += `<p>${index + 1}. ${point.label}: $${point.price.toFixed(2)}</p>`;
+            });
+        }
+        renderSurveyTable();
+    </script>
 </body>
 
 
