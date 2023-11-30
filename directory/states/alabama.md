@@ -2,14 +2,14 @@
 layout: page
 title: "Alabama Business Directory"
 date: 2023-11-26
-update_date: 2023-11-27
+update_date: 2023-11-29
 author: jack_nicholaisen
 summary: "Discover the top business startup services in Alabama! Your ultimate guide to launching a successful venture."  
 permalink: /directory/alabama/
 tags: business directory, start up services, business services, business lawyers, registered agents,
 ---
 
-Alabama Business Startup Services Directory
+### Alabama Business Startup Services Directory
 
 Starting a business can be a complex and challenging process. 
 
@@ -41,9 +41,7 @@ Use this directory to find the right professionals to help you with your busines
 
 -   **Employment Lawyers:** Ensure compliance with labor laws and draft employment agreements.
 
-
 <a href="https://www.wmalabamalaw.com/" target="_blank">Michel | King</a>
-
 
 <a href="https://www.justiceatwork.com/" target="_blank">Barrett & Farahany</a>
 
@@ -197,41 +195,107 @@ agent@alabamaregisteredagent.com
 -   Assist with financial planning, budgeting, and forecasting.
 -   Help identify potential funding sources and strategies for business growth.
 
+<a href="https://www.ameripriseadvisors.com/allan.mcclure/" target="_blank">Allan McClure</a>
+
+<a href="https://www.ameripriseadvisors.com/steve.hanley/" target="_blank">Steve Hanley</a>
+
+<a href="https://fa.ml.com/alabama/huntsville/Jones_Paparella/" target="_blank">Jones Paparella Group</a>
+
+<a href="https://www.raymondjames.com/elliswealthadvisors/about-us/bio?_=Mike.Ellis" target="_blank">Mike Ellis</a>
+
 ### Accountants
 
 -   Manage financial records, bookkeeping, and tax preparation.
 -   Ensure compliance with tax laws and regulations.
 
-### Insurance Brokers
+<a href="https://www.bmss.com/" target="_blank">BMSS</a>
+
+<a href="https://warrenaverett.com/offices/montgomery/" target="_blank">Sandy J. Coaker, CPA</a>
+
+<a href="https://www.associated-cpas.com/" target="_blank">Associated CPAs</a>
+
+### Commercial Insurance Brokers
 
 -   Assess business risks and recommend appropriate insurance coverage.
 -   Help find the best insurance policies and rates for your business needs.
+
+<a href="https://www.trustedchoice.com/agent/al/" target="_blank">Trusted Choice Insurance</a>
+
+<a href="https://schneiderinsurance.com/" target="_blank">Schneider Insurance Agency</a>
+
+<a href="https://www.byarswright.com/locations/birmingham-alabama-insurance-agency/" target="_blank">Byars Wright</a>
 
 ### Bankers
 
 -   Assist with opening business bank accounts and managing cash flow.
 -   Provide access to credit facilities, such as loans and lines of credit.
 
+<a href="https://www.bryantbank.com/business/" target="_blank">Bryant Bank</a>
+
+<a href="https://peoplesbankal.com/business-banking" target="_blank">Peoples Bank of Alabama</a>
+
+<a href="https://www.alabamacu.com/your-money/business-checking" target="_blank">Alabama Credit Union</a>
+
+<a href="https://www.merchantsbankal.bank/business/" target="_blank">Merchants Bank of Alabama</a>
+
 ### Investment Advisors
 
 -   Help identify investment opportunities for excess capital.
 -   Develop strategies to maximize returns while minimizing risks.
+
+<a href="https://www.captrust.com/" target="_blank">Captrust</a>
+
+<a href="https://www.peachtreeplanning.com/" target="_blank">Peachtree Planning</a>
+
+<a href="https://welchgroup.com/" target="_blank">The Welch Group</a>
+
+<a href="https://bridgeworthfinancial.com/" target="_blank">Bridgeworth</a>
+
+<a href="https://leavellinvestments.com/" target="_blank">Leavell Investments</a>
+
+<a href="url" target="_blank">text</a>
+Source
+https://assets.businessalabama.com/2023/05/Financial-Planners-2023.pdf
 
 ### Financial Technology Providers
 
 -   Offer digital solutions for payment processing, invoicing, and expense management.
 -   Streamline financial operations through automation and integration with other business systems.
 
+<a href="https://www.regions.com/small-business" target="_blank">Regions Bank</a>
+
+<a href="https://www.fisglobal.com/en" target="_blank">FIS</a>
+
+<a href="https://harbert.net/" target="_blank">Harbert Management Corporation</a>
+
 ### Crowdfunding Consultants
 
 -   Guide businesses through the process of raising funds via crowdfunding platforms.
 -   Assist with campaign strategy, marketing, and investor relations.
+
+<a href="https://fundsnetservices.com/alabama-grants-and-foundations" target="_blank">FundsNet</a>
+
+<a href="https://www.opengrants.io/grants-in-alabama/" target="_blank">Open Grants</a>
+
+<a href="https://www.alabamagiving.org/" target="_blank">Alabama Giving</a>
 
 ### Venture Capitalists and Angel Investors
 
 -   Evaluate startups for potential investments.
 -   Provide capital, mentorship, and industry connections to help businesses grow.
 
+<a href="https://alabamalaunchpad.com/" target="_blank">Alabama Launchpad</a>
+
+<a href="https://www.redmontcapital.com/" target="_blank">Redmont Capital</a>
+
+<a href="https://www.ebscocapital.com/" target="_blank">EBSCO Capital</a>
+
+<a href="https://www.medicalpropertiestrust.com/" target="_blank">Medical Properties Trust</a>
+
+<a href="https://timberlineholdings.com/" target="_blank">Timberline</a>
+
+<a href="https://startupsavant.com/top-venture-capital-firms/alabama" target="_blank">Source</a>
+ 
 ## Marketing Services
 
 ### Marketing Consultants
@@ -239,20 +303,72 @@ agent@alabamaregisteredagent.com
 -   Develop marketing strategies and plans for your business.
 -   Assist with branding, advertising, and social media management.
 
+<a href="url" target="_blank">text</a>
+https://www.brandneue.co/
+Brand Neue Company
+
+<a href="url" target="_blank">text</a>
+https://www.marketveep.com/alabama-marketing-agency
+Market Veep
+
+<a href="url" target="_blank">text</a>
+https://www.totalcommarketing.com/
+Total Comm Marketing Communications
+
 ### Public Relations Firms
 
 -   Manage media relations and create press releases.
 -   Develop and execute strategies for enhancing your business's public image.
+
+<a href="url" target="_blank">text</a>
+https://styleadvertising.com/
+Style Advertising
+
+<a href="url" target="_blank">text</a>
+https://www.perituspr.com/
+Peritus Public Relations
+
+<a href="url" target="_blank">text</a>
+https://markstein.co/
+Markstein
 
 ### SEO Experts
 
 -   Optimize your business's online presence for search engines.
 -   Improve website visibility and help increase traffic.
 
+<a href="url" target="_blank">text</a>
+https://www.gobellmedia.com/
+Bell Media
+
+<a href="url" target="_blank">text</a>
+https://acemedia.io/
+Ace Media
+
+<a href="url" target="_blank">text</a>
+https://mooretechsolutions.com/
+Moore Tech Solutions
+
+<a href="url" target="_blank">text</a>
+https://uptickmarketing.com/
+Uptick Marketing
+
 ### Content Creators
 
 -   Develop engaging written, visual, and multimedia content for your website, blog, and social media channels.
 -   Help establish your brand's voice and connect with your target audience.
+
+<a href="url" target="_blank">text</a>
+https://www.thebrinkagency.com/
+The Brink Agency
+
+<a href="url" target="_blank">text</a>
+https://www.brafton.com/service-locations/content-marketing-agency-birmingham-alabama/
+Brafton
+
+<a href="url" target="_blank">text</a>
+https://www.clearvoice.com/
+Clearvoice
 
 ### Email Marketing Specialists
 
@@ -295,6 +411,12 @@ agent@alabamaregisteredagent.com
 
 -   Manage your business's technology infrastructure and provide ongoing support.
 -   Assist with software, hardware, and network maintenance.
+
+<a href="https://www.realtime-it.com/" target="_blank">Real Time</a>
+
+<a href="https://icsit.net/alabama/" target="_blank">ICS</a>
+
+<a href="https://alabamamanagedit.com/" target="_blank">Alabama Managed IT</a>
 
 ### Business Coaches and Mentors
 
