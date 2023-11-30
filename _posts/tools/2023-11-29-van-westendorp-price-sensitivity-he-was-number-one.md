@@ -4,7 +4,7 @@ layout: post
 date: 2023-11-29
 author: jack_nicholaisen
 summary: "Learn how to determine the optimal price for your product or service using Van Westendorp's Price Sensitivity Meter. #pricingstrategy #marketresearch" 
-permalink: /tools/calculator/price-sensitivity-meter/
+permalink: /tools/guide/price-sensitivity-meter/
 tags: price sensitivity meter questions, price sensitivity meter calculator, van westendorp calculator, van westendorp price sensitivity
 ---
 
@@ -39,171 +39,140 @@ You can use a survey tool such as [SurveyMonkey](https://www.surveymonkey.com/) 
 Once you have collected enough responses, you can use this PSM calculator to analyze the results and create the graph that shows the acceptable price range. 
 
 
-<h3>Van Westendorp's Price Sensitivity Meter</h3>
-<style>
-    /* Add your CSS styles here */
-    #questionnaire {
-      margin-bottom: 20px;
-    }
-    canvas {
-      border: 1px solid #ccc;
-    }
-</style>
+  <h3>Price Sensitivity Meter (PSM)</h3>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 <body>
-  <div id="questionnaire">
-    <label for="numColumns">Number of Columns:</label>
-    <input type="number" id="numColumns" min="1" value="3">
-    <button onclick="addColumns(1)">+1</button>
-    <button onclick="addColumns(5)">+5</button>
-    <button onclick="addColumns(10)">+10</button>
-    <button onclick="removeColumns(1)">-1</button>
-    <button onclick="removeColumns(5)">-5</button>
-    <button onclick="removeColumns(10)">-10</button>
-    <hr>
-    <table id="inputTable">
-      <!-- Table rows for user inputs will be dynamically generated here -->
-    </table>
-    <button onclick="calculateIntersections()">Calculate Intersections</button>
+  <div>
+    <label for="addColumn">Add/Subtract Columns:</label>
+    <button onclick="addColumn(1)">+1</button>
+    <button onclick="addColumn(5)">+5</button>
+    <button onclick="addColumn(-1)">-1</button>
+    <button onclick="addColumn(-5)">-5</button>
   </div>
-  <canvas id="graph" width="600" height="400"></canvas>
-  <div id="intersectionPoints"></div>
+
+  <div id="questionnaire">
+    <!-- The questionnaire will be dynamically generated here -->
+  </div>
+
+  <div id="chart"></div>
 
   <script>
-    let numColumns = document.getElementById('numColumns');
-    let inputTable = document.getElementById('inputTable');
-    let graphCanvas = document.getElementById('graph');
-    let intersectionPointsDiv = document.getElementById('intersectionPoints');
-    let ctx = graphCanvas.getContext('2d');
-    let data = [];
+    let numColumns = 1; // Initial number of columns
 
-    // Function to add columns for user inputs
-    function addColumns(columnsToAdd) {
-      let columns = parseInt(numColumns.value) + columnsToAdd;
-      numColumns.value = columns;
+    // Function to add or subtract columns based on the user's choice
+    function addColumn(value) {
+      numColumns += value;
+      renderQuestionnaire();
+    }
 
-      inputTable.innerHTML = ''; // Clear existing table
+    // Function to render the questionnaire based on the number of columns
+    function renderQuestionnaire() {
+      let questionnaireHTML = '<table>';
+      for (let i = 1; i <= 4; i++) {
+        questionnaireHTML += `<tr><td>Row ${i}</td>`;
+        for (let j = 1; j <= numColumns; j++) {
+          questionnaireHTML += `<td><input type="number" placeholder="${i === 1 ? 'Too Expensive' : (i === 2 ? 'Too Cheap' : (i === 3 ? 'Expensive/High Side' : 'Cheap/Good Value'))}"></td>`;
+        }
+        questionnaireHTML += '</tr>';
+      }
+      questionnaireHTML += '</table>';
 
-      for (let i = 1; i <= columns; i++) {
-        let row = document.createElement('tr');
-        let label = document.createElement('td');
-        label.textContent = i;
-        row.appendChild(label);
+      document.getElementById('questionnaire').innerHTML = questionnaireHTML;
+      updateChart();
+    }
 
-        for (let j = 0; j < 4; j++) {
-          let cell = document.createElement('td');
-          let input = document.createElement('input');
-          input.type = 'number';
-          cell.appendChild(input);
-          row.appendChild(cell);
+    // Function to update the PSM chart based on user inputs
+    function updateChart() {
+      const data = [];
+      for (let j = 1; j <= numColumns; j++) {
+        const xValues = [];
+        const yValues = [];
+
+        for (let i = 1; i <= 4; i++) {
+          const inputValue = parseFloat(document.querySelector(`#questionnaire input:nth-of-type(${(i - 1) * numColumns + j})`).value);
+          if (!isNaN(inputValue)) {
+            xValues.push(i);
+            yValues.push(inputValue);
+          }
         }
 
-        inputTable.appendChild(row);
-      }
-    }
-
-    // Function to remove columns for user inputs
-    function removeColumns(columnsToRemove) {
-      let columns = parseInt(numColumns.value) - columnsToRemove;
-      if (columns < 1) {
-        columns = 1;
-      }
-      numColumns.value = columns;
-      addColumns(0);
-    }
-
-    // Function to calculate intersection points
-    function calculateIntersections() {
-      data = []; // Clear previous data
-
-      for (let i = 1; i <= parseInt(numColumns.value); i++) {
-        let tooExpensive = parseFloat(inputTable.rows[i - 1].cells[1].children[0].value);
-        let tooCheap = parseFloat(inputTable.rows[i - 1].cells[2].children[0].value);
-        let expensive = parseFloat(inputTable.rows[i - 1].cells[3].children[0].value);
-        let cheap = parseFloat(inputTable.rows[i - 1].cells[4].children[0].value);
-
-        // Inverting cumulative frequencies for too cheap and cheap/good value
-        let invertedCheap = 100 - cheap;
-        let invertedTooCheap = 100 - tooCheap;
-
-        // Calculating intersection points
-        let PMC = (invertedTooCheap - expensive) / (invertedTooCheap - tooExpensive) * (cheap - tooCheap) + cheap;
-        let PME = (cheap - invertedCheap) / (tooCheap - invertedCheap) * (tooExpensive - expensive) + tooExpensive;
-        let IPP = (expensive - tooExpensive) / (cheap - tooCheap) * (invertedCheap - invertedTooCheap) + invertedCheap;
-        let OPP = (tooExpensive - tooCheap) / (invertedCheap - invertedTooCheap) * (cheap - tooCheap) + cheap;
-
-        data.push({ column: i, PMC, PME, IPP, OPP });
+        data.push({
+          x: xValues,
+          y: yValues,
+          mode: 'lines+markers',
+          name: `Column ${j}`
+        });
       }
 
-      drawGraph();
-      displayIntersectionPoints();
-    }
+      const layout = {
+        title: 'Price Sensitivity Meter (PSM)',
+        xaxis: {
+          title: 'Price Perception'
+        },
+        yaxis: {
+          title: 'Percentage of Consumers Willing to Pay',
+          tickformat: ',.0%'
+        }
+      };
 
-    // Function to draw the graph
-    function drawGraph() {
-      ctx.clearRect(0, 0, graphCanvas.width, graphCanvas.height);
+      const intersections = findIntersections(data);
+      const intersectionPoints = intersections.map((point, index) => {
+        return {
+          x: point[0],
+          y: point[1],
+          text: `Intersection ${index + 1}: (${point[0]}, ${point[1].toFixed(2)})`,
+          showarrow: true,
+          arrowhead: 2,
+          ax: 0,
+          ay: -40
+        };
+      });
 
-      let maxX = Math.max(...data.map(item => item.PMC, item.PME, item.IPP, item.OPP));
-      let maxY = Math.max(...data.map(item => item.column));
-
-      let xScale = graphCanvas.width / maxX;
-      let yScale = graphCanvas.height / maxY;
-
-      // Draw lines for PMC, PME, IPP, and OPP
-      ctx.beginPath();
-      ctx.moveTo(0, data[0].PMC * yScale);
-      ctx.lineTo(graphCanvas.width, data[data.length - 1].PMC * yScale);
-      ctx.strokeStyle = 'blue';
-      ctx.stroke();
-
-      ctx.beginPath();
-      ctx.moveTo(0, data[0].PME * yScale);
-      ctx.lineTo(graphCanvas.width, data[data.length - 1].PME * yScale);
-      ctx.strokeStyle = 'red';
-      ctx.stroke();
-
-      ctx.beginPath();
-      ctx.moveTo(0, data[0].IPP * yScale);
-      ctx.lineTo(graphCanvas.width, data[data.length - 1].IPP * yScale);
-      ctx.strokeStyle = 'green';
-      ctx.stroke();
-
-      ctx.beginPath();
-      ctx.moveTo(0, data[0].OPP * yScale);
-      ctx.lineTo(graphCanvas.width, data[data.length - 1].OPP * yScale);
-      ctx.strokeStyle = 'orange';
-      ctx.stroke();
-
-      // Draw intersection points
-      ctx.fillStyle = 'black';
-      data.forEach(item => {
-        ctx.beginPath();
-        ctx.arc(item.PMC * xScale, item.column * yScale, 5, 0, Math.PI * 2);
-        ctx.fill();
-
-        ctx.beginPath();
-        ctx.arc(item.PME * xScale, item.column * yScale, 5, 0, Math.PI * 2);
-        ctx.fill();
-
-        ctx.beginPath();
-        ctx.arc(item.IPP * xScale, item.column * yScale, 5, 0, Math.PI * 2);
-        ctx.fill();
-
-        ctx.beginPath();
-        ctx.arc(item.OPP * xScale, item.column * yScale, 5, 0, Math.PI * 2);
-        ctx.fill();
+      Plotly.newPlot('chart', data, layout).then(() => {
+        Plotly.relayout('chart', { shapes: intersections.map((_, index) => ({
+          type: 'circle',
+          xref: 'x',
+          yref: 'y',
+          x0: intersections[index][0],
+          y0: intersections[index][1],
+          x1: intersections[index][0] + 0.1,
+          y1: intersections[index][1] + 0.1,
+          line: { color: 'red' },
+          opacity: 0.7
+        })) });
+        Plotly.relayout('chart', { annotations: intersectionPoints });
       });
     }
 
-    // Function to display intersection points
-    function displayIntersectionPoints() {
-      intersectionPointsDiv.innerHTML = '<h3>Intersection Points:</h3>';
-      data.forEach(item => {
-        intersectionPointsDiv.innerHTML += `<p>Column ${item.column} - PMC: ${item.PMC.toFixed(2)}, PME: ${item.PME.toFixed(2)}, IPP: ${item.IPP.toFixed(2)}, OPP: ${item.OPP.toFixed(2)}</p>`;
-      });
+    // Function to find intersections of lines
+    function findIntersections(data) {
+      const intersections = [];
+      for (let i = 0; i < data.length - 1; i++) {
+        for (let j = i + 1; j < data.length; j++) {
+          const intersection = [];
+          for (let k = 0; k < data[i].x.length; k++) {
+            const x1 = data[i].x[k];
+            const y1 = data[i].y[k];
+            const x2 = data[j].x[k];
+            const y2 = data[j].y[k];
+
+            if ((y1 < y2 && y1 >= 0 && y2 >= 0) || (y1 > y2 && y1 <= 0 && y2 <= 0)) {
+              const x = (x1 * y2 - x2 * y1) / (y2 - y1);
+              const y = (y2 * x1 - y1 * x2) / (x1 - x2);
+              intersection.push([x, y]);
+            }
+          }
+          intersections.push(...intersection);
+        }
+      }
+      return intersections;
     }
 
+    // Initially render the questionnaire with 1 column
+    renderQuestionnaire();
   </script>
 </body>
+
 
 ## Interpreting the PSM Results
 
