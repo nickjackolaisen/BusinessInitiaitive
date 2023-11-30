@@ -40,156 +40,123 @@ Once you have collected enough responses, you can use this PSM calculator to ana
 
 
 
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 <body>
-    <div>
-        <h2>Van Westendorp's Price Sensitivity Meter</h2>
-        <label for="addColumn">Add/Subtract Columns by:</label>
-        <input type="number" id="addColumn" value="1" min="1" step="1">
-        <button onclick="addColumns()">Apply</button>
-        <button onclick="calculate()">Calculate</button>
-    </div>
-    <div>
-        <table id="surveyTable">
-            <tr>
-                <th></th>
-            </tr>
-            <tr>
-                <th>Too Expensive</th>
-            </tr>
-            <tr>
-                <th>Too Cheap</th>
-            </tr>
-            <tr>
-                <th>Expensive/High Side</th>
-            </tr>
-            <tr>
-                <th>Cheap/Good Value</th>
-            </tr>
-        </table>
-    </div>
-    <div id="graph"></div>
-    <div id="results"></div>
-    <script>
-        let columns = 1;
-        function addColumns() {
-            const addValue = parseInt(document.getElementById("addColumn").value);
-            if (addValue > 0) {
-                columns += addValue;
-                renderSurveyTable();
-            } else {
-                alert("Please enter a valid number to add columns.");
-            }
+  <div id="questionnaire">
+    <h2>Customer Questionnaire</h2>
+    <button onclick="addColumns(1)">Add Column (+1)</button>
+    <button onclick="addColumns(5)">Add Columns (+5)</button>
+    <button onclick="removeColumns(1)">Remove Column (-1)</button>
+    <button onclick="removeColumns(5)">Remove Columns (-5)</button>
+    <table id="surveyTable">
+      <!-- The table content will be generated dynamically -->
+    </table>
+    <button onclick="calculatePSM()">Calculate</button>
+  </div>
+
+  <div id="psmGraph">
+    <h2>PSM Graph</h2>
+    <div id="chart"></div>
+  </div>
+
+  <script>
+    let numColumns = 1; // Initial number of columns
+    generateSurveyTable();
+
+    function generateSurveyTable() {
+      const table = document.getElementById("surveyTable");
+      table.innerHTML = ''; // Clear previous content
+      
+      // Create rows and columns dynamically based on the number of columns
+      for (let i = 0; i < 4; i++) {
+        const row = table.insertRow();
+        for (let j = 0; j <= numColumns; j++) {
+          const cell = row.insertCell();
+          if (j === 0) {
+            cell.innerHTML = `Row ${i + 1}`;
+          } else {
+            const input = document.createElement("input");
+            input.type = "number";
+            input.placeholder = "Enter value";
+            cell.appendChild(input);
+          }
         }
-        function renderSurveyTable() {
-            const table = document.getElementById("surveyTable");
-            table.innerHTML = "<tr><th></th></tr><tr><th>Too Expensive</th></tr><tr><th>Too Cheap</th></tr><tr><th>Expensive/High Side</th></tr><tr><th>Cheap/Good Value</th></tr>";
-            for (let i = 1; i <= columns; i++) {
-                const columnNumber = i;
-                const th = document.createElement("th");
-                th.textContent = columnNumber.toString();
-                const trs = table.getElementsByTagName("tr");
-                for (let j = 1; j < trs.length; j++) {
-                    const td = document.createElement("td");
-                    td.innerHTML = `<input type="number" id="q${j}_c${i}" step="5">`;
-                    trs[j].appendChild(td);
-                }
-            }
+      }
+    }
+
+    function addColumns(num) {
+      numColumns += num;
+      generateSurveyTable();
+    }
+
+    function removeColumns(num) {
+      numColumns -= num;
+      if (numColumns < 1) numColumns = 1; // Ensure there's at least 1 column
+      generateSurveyTable();
+    }
+
+    function calculatePSM() {
+      const data = [];
+      const prices = [];
+      const percentages = [];
+      
+      // Retrieve values from the input fields
+      for (let j = 1; j <= numColumns; j++) {
+        const columnValues = [];
+        for (let i = 0; i < 4; i++) {
+          const input = document.querySelector(`#surveyTable tr:nth-child(${i + 1}) td:nth-child(${j + 1}) input`);
+          if (input) {
+            columnValues.push(parseFloat(input.value) || 0);
+          }
         }
-        function calculate() {
-            const data = [];
-            for (let i = 1; i <= columns; i++) {
-                const columnData = [];
-                for (let j = 1; j <= 4; j++) {
-                    const value = parseInt(document.getElementById(`q${j}_c${i}`).value);
-                    columnData.push(value);
-                }
-                data.push(columnData);
-            }
-            const prices = data.map(columnData => columnData[0]);
-            const tooExpensive = data.map(columnData => columnData[0]);
-            const tooCheap = data.map(columnData => columnData[1]);
-            const expensiveHighSide = data.map(columnData => columnData[2]);
-            const cheapGoodValue = data.map(columnData => columnData[3]);
-            const tooExpensivePercent = tooExpensive.map((value, index) => ((columns - index) / columns) * 100);
-            const tooCheapPercent = tooCheap.map((value, index) => ((columns - index) / columns) * 100);
-            const expensiveHighSidePercent = expensiveHighSide.map((value, index) => (index / columns) * 100);
-            const cheapGoodValuePercent = cheapGoodValue.map((value, index) => (index / columns) * 100);
-            const trace1 = {
-                x: prices,
-                y: tooExpensivePercent,
-                mode: 'lines+markers',
-                name: 'Too Expensive',
-            };
-            const trace2 = {
-                x: prices,
-                y: tooCheapPercent,
-                mode: 'lines+markers',
-                name: 'Too Cheap',
-            };
-            const trace3 = {
-                x: prices,
-                y: expensiveHighSidePercent,
-                mode: 'lines+markers',
-                name: 'Expensive/High Side',
-            };
-            const trace4 = {
-                x: prices,
-                y: cheapGoodValuePercent,
-                mode: 'lines+markers',
-                name: 'Cheap/Good Value',
-            };
-            const layout = {
-                title: 'Price Sensitivity Meter',
-                xaxis: {
-                    title: 'Price Range',
-                },
-                yaxis: {
-                    title: 'Percentage of Consumers',
-                },
-            };
-            const graphData = [trace1, trace2, trace3, trace4];
-            Plotly.newPlot('graph', graphData, layout);
-            calculateIntersections(prices, tooExpensivePercent, tooCheapPercent, expensiveHighSidePercent, cheapGoodValuePercent);
+        data.push(columnValues);
+      }
+      
+      // Calculate cumulative frequencies
+      for (let i = 0; i < data[0].length; i++) {
+        let tooExpensive = 0,
+            tooCheap = 0,
+            expensiveHighSide = 0,
+            cheapGoodValue = 0;
+        
+        for (let j = 0; j < data.length; j++) {
+          if (data[j][i]) {
+            tooExpensive += data[j][0] < data[j][i] ? 1 : 0;
+            tooCheap += data[j][1] > data[j][i] ? 1 : 0;
+            expensiveHighSide += data[j][2] < data[j][i] ? 1 : 0;
+            cheapGoodValue += data[j][3] > data[j][i] ? 1 : 0;
+          }
         }
-        function calculateIntersections(prices, tooExpensivePercent, tooCheapPercent, expensiveHighSidePercent, cheapGoodValuePercent) {
-            const intersections = [];
-            for (let i = 0; i < prices.length - 1; i++) {
-                if ((tooCheapPercent[i] <= tooExpensivePercent[i] && tooCheapPercent[i + 1] >= tooExpensivePercent[i + 1]) ||
-                    (tooCheapPercent[i] >= tooExpensivePercent[i] && tooCheapPercent[i + 1] <= tooExpensivePercent[i + 1])) {
-                    const intersection = calculateIntersection(prices[i], prices[i + 1], tooCheapPercent[i], tooCheapPercent[i + 1], tooExpensivePercent[i], tooExpensivePercent[i + 1]);
-                    intersections.push({ price: intersection, label: "PMC" });
-                }
-                if ((cheapGoodValuePercent[i] <= expensiveHighSidePercent[i] && cheapGoodValuePercent[i + 1] >= expensiveHighSidePercent[i + 1]) ||
-                    (cheapGoodValuePercent[i] >= expensiveHighSidePercent[i] && cheapGoodValuePercent[i + 1] <= expensiveHighSidePercent[i + 1])) {
-                    const intersection = calculateIntersection(prices[i], prices[i + 1], cheapGoodValuePercent[i], cheapGoodValuePercent[i + 1], expensiveHighSidePercent[i], expensiveHighSidePercent[i + 1]);
-                    intersections.push({ price: intersection, label: "PME" });
-                }
-                if ((tooExpensivePercent[i] <= expensiveHighSidePercent[i] && tooExpensivePercent[i + 1] >= expensiveHighSidePercent[i + 1]) ||
-                    (tooExpensivePercent[i] >= expensiveHighSidePercent[i] && tooExpensivePercent[i + 1] <= expensiveHighSidePercent[i + 1])) {
-                    const intersection = calculateIntersection(prices[i], prices[i + 1], tooExpensivePercent[i], tooExpensivePercent[i + 1], expensiveHighSidePercent[i], expensiveHighSidePercent[i + 1]);
-                    intersections.push({ price: intersection, label: "IPP" });
-                }
-                if ((tooCheapPercent[i] <= cheapGoodValuePercent[i] && tooCheapPercent[i + 1] >= cheapGoodValuePercent[i + 1]) ||
-                    (tooCheapPercent[i] >= cheapGoodValuePercent[i] && tooCheapPercent[i + 1] <= cheapGoodValuePercent[i + 1])) {
-                    const intersection = calculateIntersection(prices[i], prices[i + 1], tooCheapPercent[i], tooCheapPercent[i + 1], cheapGoodValuePercent[i], cheapGoodValuePercent[i + 1]);
-                    intersections.push({ price: intersection, label: "OPP" });
-                }
-            }
-            intersections.sort((a, b) => a.price - b.price);
-            displayIntersectionResults(intersections);
-        }
-        function calculateIntersection(x1, x2, y1, y2, z1, z2) {
-            return x1 + ((x2 - x1) * (z1 - y1)) / (y2 - y1 - z2 + z1);
-        }
-        function displayIntersectionResults(intersections) {
-            const resultsDiv = document.getElementById("results");
-            resultsDiv.innerHTML = "<h3>Intersection Points:</h3>";
-            intersections.forEach((point, index) => {
-                resultsDiv.innerHTML += `<p>${index + 1}. ${point.label}: $${point.price.toFixed(2)}</p>`;
-            });
-        }
-        renderSurveyTable();
-    </script>
+        
+        prices.push(data[0][i]);
+        const totalResponses = data.length * 100; // Total number of responses
+        percentages.push({
+          x: data[0][i],
+          y: (tooExpensive + tooCheap) / totalResponses * 100, // Inverted cumulative frequencies
+        });
+      }
+      
+      // Plotting the graph using Plotly
+      const trace = {
+        x: prices,
+        y: percentages.map((p) => p.y),
+        type: 'scatter',
+        mode: 'lines+markers',
+      };
+      
+      const layout = {
+        title: 'Price Sensitivity Meter (PSM)',
+        xaxis: {
+          title: 'Price',
+        },
+        yaxis: {
+          title: 'Percentage of Consumers',
+        },
+      };
+      
+      Plotly.newPlot('chart', [trace], layout);
+    }
+  </script>
 </body>
 
 
