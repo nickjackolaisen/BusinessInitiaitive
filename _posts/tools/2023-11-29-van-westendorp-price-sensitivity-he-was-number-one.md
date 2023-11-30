@@ -4,7 +4,6 @@ layout: post
 date: 2023-11-29
 author: jack_nicholaisen
 summary: "Learn how to determine the optimal price for your product or service using Van Westendorp's Price Sensitivity Meter. #pricingstrategy #marketresearch" 
-image: /images/posts-headers/calculator/tmv-present-value-calculator-header.png
 permalink: /tools/calculator/price-sensitivity-meter/
 tags: price sensitivity meter questions, price sensitivity meter calculator, van westendorp calculator, van westendorp price sensitivity
 ---
@@ -39,88 +38,170 @@ You can use a survey tool such as [SurveyMonkey](https://www.surveymonkey.com/) 
 
 Once you have collected enough responses, you can use this PSM calculator to analyze the results and create the graph that shows the acceptable price range. 
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.7.0/chart.min.js"></script>
 
+<h3>Van Westendorp's Price Sensitivity Meter</h3>
+<style>
+    /* Add your CSS styles here */
+    #questionnaire {
+      margin-bottom: 20px;
+    }
+    canvas {
+      border: 1px solid #ccc;
+    }
+</style>
 <body>
-  <h3>Price Sensitivity Meter</h3>
-  <canvas id="myChart" width="400" height="400"></canvas>
-  
-  <div id="intersectionPoints">
-    <b>Intersection Points:</b>
-    <ul>
-      <li id="pmcDesc">PMC (Point of Marginal Cheapness): <span id="pmc"></span></li>
-      <li id="pmeDesc">PME (Point of Marginal Expensiveness): <span id="pme"></span></li>
-      <li id="ippDesc">IPP (Indifference Price Point): <span id="ipp"></span></li>
-      <li id="oppDesc">OPP (Optimal Price Point): <span id="opp"></span></li>
-    </ul>
-  </div>
-  
   <div id="questionnaire">
-    <h3>Questionnaire</h3>
-    <label>Too expensive:</label>
-    <input type="number" id="tooExpensive"><br>
-    <label>Too cheap:</label>
-    <input type="number" id="tooCheap"><br>
-    <label>Expensive/High Side:</label>
-    <input type="number" id="expensiveHigh"><br>
-    <label>Cheap/Good Value:</label>
-    <input type="number" id="cheapGoodValue"><br>
-    <button onclick="calculateIntersections()">Calculate</button>
+    <label for="numColumns">Number of Columns:</label>
+    <input type="number" id="numColumns" min="1" value="3">
+    <button onclick="addColumns(1)">+1</button>
+    <button onclick="addColumns(5)">+5</button>
+    <button onclick="addColumns(10)">+10</button>
+    <button onclick="removeColumns(1)">-1</button>
+    <button onclick="removeColumns(5)">-5</button>
+    <button onclick="removeColumns(10)">-10</button>
+    <hr>
+    <table id="inputTable">
+      <!-- Table rows for user inputs will be dynamically generated here -->
+    </table>
+    <button onclick="calculateIntersections()">Calculate Intersections</button>
   </div>
+  <canvas id="graph" width="600" height="400"></canvas>
+  <div id="intersectionPoints"></div>
 
   <script>
-    function calculateIntersections() {
-      const tooExpensive = parseFloat(document.getElementById('tooExpensive').value);
-      const tooCheap = parseFloat(document.getElementById('tooCheap').value);
-      const expensiveHigh = parseFloat(document.getElementById('expensiveHigh').value);
-      const cheapGoodValue = parseFloat(document.getElementById('cheapGoodValue').value);
+    let numColumns = document.getElementById('numColumns');
+    let inputTable = document.getElementById('inputTable');
+    let graphCanvas = document.getElementById('graph');
+    let intersectionPointsDiv = document.getElementById('intersectionPoints');
+    let ctx = graphCanvas.getContext('2d');
+    let data = [];
 
-      const intersectionPoints = {
-        pmc: tooCheap - (expensiveHigh - tooCheap),
-        pme: tooExpensive + (tooExpensive - cheapGoodValue),
-        ipp: (expensiveHigh + tooCheap) / 2,
-        opp: (tooExpensive + tooCheap) / 2
-      };
+    // Function to add columns for user inputs
+    function addColumns(columnsToAdd) {
+      let columns = parseInt(numColumns.value) + columnsToAdd;
+      numColumns.value = columns;
 
-      document.getElementById('pmc').innerText = `$${intersectionPoints.pmc.toFixed(2)}`;
-      document.getElementById('pme').innerText = `$${intersectionPoints.pme.toFixed(2)}`;
-      document.getElementById('ipp').innerText = `$${intersectionPoints.ipp.toFixed(2)}`;
-      document.getElementById('opp').innerText = `$${intersectionPoints.opp.toFixed(2)}`;
+      inputTable.innerHTML = ''; // Clear existing table
 
-      document.getElementById('pmcDesc').title = 'Point of Marginal Cheapness (PMC)';
-      document.getElementById('pmcDesc').setAttribute('data-tooltip', 'This is the lower bound of an acceptable price range. It represents the point where the product is perceived as potentially too cheap, impacting perceived quality.');
+      for (let i = 1; i <= columns; i++) {
+        let row = document.createElement('tr');
+        let label = document.createElement('td');
+        label.textContent = i;
+        row.appendChild(label);
 
-      document.getElementById('pmeDesc').title = 'Point of Marginal Expensiveness (PME)';
-      document.getElementById('pmeDesc').setAttribute('data-tooltip', 'This is the upper bound of an acceptable price range. It signifies the point where the product is perceived as potentially too expensive, affecting its value.');
-
-      document.getElementById('ippDesc').title = 'Indifference Price Point (IPP)';
-      document.getElementById('ippDesc').setAttribute('data-tooltip', 'This is the price point where an equal number of respondents view the product as cheap and expensive, indicating a balance between perceived value and cost.');
-
-      document.getElementById('oppDesc').title = 'Optimal Price Point (OPP)';
-      document.getElementById('oppDesc').setAttribute('data-tooltip', 'This represents the point where an equal number of respondents view the product as exceeding their upper or lower price limits, indicating a balanced trade-off in price perception.');
-
-      const ctx = document.getElementById('myChart').getContext('2d');
-      const myChart = new Chart(ctx, {
-        type: 'line',
-        data: {
-          labels: ['Too Expensive', 'Too Cheap', 'Expensive/High', 'Cheap/Good Value'],
-          datasets: [{
-            label: 'Price Sensitivity Meter',
-            data: [tooExpensive, tooCheap, expensiveHigh, cheapGoodValue],
-            backgroundColor: 'rgba(75, 192, 192, 0.2)',
-            borderColor: 'rgba(75, 192, 192, 1)',
-            borderWidth: 1
-          }]
-        },
-        options: {
-          scales: {
-            y: {
-              beginAtZero: true
-            }
-          }
+        for (let j = 0; j < 4; j++) {
+          let cell = document.createElement('td');
+          let input = document.createElement('input');
+          input.type = 'number';
+          cell.appendChild(input);
+          row.appendChild(cell);
         }
+
+        inputTable.appendChild(row);
+      }
+    }
+
+    // Function to remove columns for user inputs
+    function removeColumns(columnsToRemove) {
+      let columns = parseInt(numColumns.value) - columnsToRemove;
+      if (columns < 1) {
+        columns = 1;
+      }
+      numColumns.value = columns;
+      addColumns(0);
+    }
+
+    // Function to calculate intersection points
+    function calculateIntersections() {
+      data = []; // Clear previous data
+
+      for (let i = 1; i <= parseInt(numColumns.value); i++) {
+        let tooExpensive = parseFloat(inputTable.rows[i - 1].cells[1].children[0].value);
+        let tooCheap = parseFloat(inputTable.rows[i - 1].cells[2].children[0].value);
+        let expensive = parseFloat(inputTable.rows[i - 1].cells[3].children[0].value);
+        let cheap = parseFloat(inputTable.rows[i - 1].cells[4].children[0].value);
+
+        // Inverting cumulative frequencies for too cheap and cheap/good value
+        let invertedCheap = 100 - cheap;
+        let invertedTooCheap = 100 - tooCheap;
+
+        // Calculating intersection points
+        let PMC = (invertedTooCheap - expensive) / (invertedTooCheap - tooExpensive) * (cheap - tooCheap) + cheap;
+        let PME = (cheap - invertedCheap) / (tooCheap - invertedCheap) * (tooExpensive - expensive) + tooExpensive;
+        let IPP = (expensive - tooExpensive) / (cheap - tooCheap) * (invertedCheap - invertedTooCheap) + invertedCheap;
+        let OPP = (tooExpensive - tooCheap) / (invertedCheap - invertedTooCheap) * (cheap - tooCheap) + cheap;
+
+        data.push({ column: i, PMC, PME, IPP, OPP });
+      }
+
+      drawGraph();
+      displayIntersectionPoints();
+    }
+
+    // Function to draw the graph
+    function drawGraph() {
+      ctx.clearRect(0, 0, graphCanvas.width, graphCanvas.height);
+
+      let maxX = Math.max(...data.map(item => item.PMC, item.PME, item.IPP, item.OPP));
+      let maxY = Math.max(...data.map(item => item.column));
+
+      let xScale = graphCanvas.width / maxX;
+      let yScale = graphCanvas.height / maxY;
+
+      // Draw lines for PMC, PME, IPP, and OPP
+      ctx.beginPath();
+      ctx.moveTo(0, data[0].PMC * yScale);
+      ctx.lineTo(graphCanvas.width, data[data.length - 1].PMC * yScale);
+      ctx.strokeStyle = 'blue';
+      ctx.stroke();
+
+      ctx.beginPath();
+      ctx.moveTo(0, data[0].PME * yScale);
+      ctx.lineTo(graphCanvas.width, data[data.length - 1].PME * yScale);
+      ctx.strokeStyle = 'red';
+      ctx.stroke();
+
+      ctx.beginPath();
+      ctx.moveTo(0, data[0].IPP * yScale);
+      ctx.lineTo(graphCanvas.width, data[data.length - 1].IPP * yScale);
+      ctx.strokeStyle = 'green';
+      ctx.stroke();
+
+      ctx.beginPath();
+      ctx.moveTo(0, data[0].OPP * yScale);
+      ctx.lineTo(graphCanvas.width, data[data.length - 1].OPP * yScale);
+      ctx.strokeStyle = 'orange';
+      ctx.stroke();
+
+      // Draw intersection points
+      ctx.fillStyle = 'black';
+      data.forEach(item => {
+        ctx.beginPath();
+        ctx.arc(item.PMC * xScale, item.column * yScale, 5, 0, Math.PI * 2);
+        ctx.fill();
+
+        ctx.beginPath();
+        ctx.arc(item.PME * xScale, item.column * yScale, 5, 0, Math.PI * 2);
+        ctx.fill();
+
+        ctx.beginPath();
+        ctx.arc(item.IPP * xScale, item.column * yScale, 5, 0, Math.PI * 2);
+        ctx.fill();
+
+        ctx.beginPath();
+        ctx.arc(item.OPP * xScale, item.column * yScale, 5, 0, Math.PI * 2);
+        ctx.fill();
       });
     }
+
+    // Function to display intersection points
+    function displayIntersectionPoints() {
+      intersectionPointsDiv.innerHTML = '<h3>Intersection Points:</h3>';
+      data.forEach(item => {
+        intersectionPointsDiv.innerHTML += `<p>Column ${item.column} - PMC: ${item.PMC.toFixed(2)}, PME: ${item.PME.toFixed(2)}, IPP: ${item.IPP.toFixed(2)}, OPP: ${item.OPP.toFixed(2)}</p>`;
+      });
+    }
+
   </script>
 </body>
 
