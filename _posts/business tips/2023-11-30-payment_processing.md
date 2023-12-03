@@ -56,7 +56,7 @@ Subscription-based businesses have grown nearly [6 times faster](https://www.zuo
 By automating billing and payment processes, businesses can reduce costs, improve accuracy, and offer a more seamless experience for customers.
 
 <p>
-<b>➤ MORE: </b> <a href="permalink: /section/pricing-strategy/" target="_blank">Make more money and extent your customer lifetime value with an effective pricing strategy!</a>
+<b>➤ MORE: </b> <a href="/section/pricing-strategy/" target="_blank">Make more money and extent your customer lifetime value with an effective pricing strategy!</a>
 </p>
 
 ## Understanding the Most Common Payment Processes
