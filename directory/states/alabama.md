@@ -23,60 +23,60 @@ Use this directory to find the right professionals to help you with your busines
 
 ### Lawyers
 
--   **Business Formation Lawyers:** Help with selecting the right business structure, drafting and filing necessary documents.
+**Business Formation Lawyers:** Help with selecting the right business structure, drafting and filing necessary documents.
 
-<a href="https://www.stonebritt.com/business-formation" target="_blank">Stone & Britt, LLC</a>
+-   <a href="https://www.stonebritt.com/business-formation" target="_blank">Stone & Britt, LLC</a>
 
-<a href="https://www.martinsonandbeason.com/" target="_blank">Martinson and Beason, P.C</a>
+-   <a href="https://www.martinsonandbeason.com/" target="_blank">Martinson and Beason, P.C</a>
 
-<a href="https://www.hawkinslawllc.com/" target="_blank">The Hawkins Law Firm</a>
+-   <a href="https://www.hawkinslawllc.com/" target="_blank">The Hawkins Law Firm</a>
 
--   **Intellectual Property Lawyers:** Assist with trademark, patent, and copyright protection.
+**Intellectual Property Lawyers:** Assist with trademark, patent, and copyright protection.
 
-<a href="https://www.adamsiplaw.com/" target="_blank">AdamsIP</a>
+-   <a href="https://www.adamsiplaw.com/" target="_blank">AdamsIP</a>
 
-<a href="https://www.taylorenglish.com/" target="_blank">Taylor English</a>
+-   <a href="https://www.taylorenglish.com/" target="_blank">Taylor English</a>
 
-<a href="https://www.balch.com/" target="_blank">Balch & Bingham</a>
+-   <a href="https://www.balch.com/" target="_blank">Balch & Bingham</a>
 
--   **Employment Lawyers:** Ensure compliance with labor laws and draft employment agreements.
+**Employment Lawyers:** Ensure compliance with labor laws and draft employment agreements.
 
-<a href="https://www.wmalabamalaw.com/" target="_blank">Michel | King</a>
+-   <a href="https://www.wmalabamalaw.com/" target="_blank">Michel | King</a>
 
-<a href="https://www.justiceatwork.com/" target="_blank">Barrett & Farahany</a>
+-   <a href="https://www.justiceatwork.com/" target="_blank">Barrett & Farahany</a>
 
-<a href="https://www.allenarnoldlaw.com/" target="_blank">Allen D. Arnold Attorney at Law</a>
+-   <a href="https://www.allenarnoldlaw.com/" target="_blank">Allen D. Arnold Attorney at Law</a>
 
--   **Tax Lawyers:** Assist with tax planning, compliance, and disputes with tax authorities.
+**Tax Lawyers:** Assist with tax planning, compliance, and disputes with tax authorities.
 
-<a href="https://andersonbradshawtax.com/" target="_blank">Anderson Bradshaw</a>
+-   <a href="https://andersonbradshawtax.com/" target="_blank">Anderson Bradshaw</a>
 
-<a href="https://johnstonhinesley.com/" target="_blank">Johnston Hinesley PC</a>
+-   <a href="https://johnstonhinesley.com/" target="_blank">Johnston Hinesley PC</a>
 
-<a href="https://www.bowmanlawfirm.net/" target="_blank">Bowman Law</a>
+-   <a href="https://www.bowmanlawfirm.net/" target="_blank">Bowman Law</a>
 
--   **Mergers and Acquisitions Lawyers:** Guide businesses through the process of buying, selling, or merging with other companies.
+**Mergers and Acquisitions Lawyers:** Guide businesses through the process of buying, selling, or merging with other companies.
 
-<a href="https://www.ritcheylegal.com/" target="_blank">Ritchey Legal</a>
+-   <a href="https://www.ritcheylegal.com/" target="_blank">Ritchey Legal</a>
 
-<a href="https://lanierford.com/" target="_blank">Lanier Ford</a>
+-   <a href="https://lanierford.com/" target="_blank">Lanier Ford</a>
 
--   **Commercial Real Estate Lawyers:** Help negotiate leases, purchase agreements, and navigate zoning regulations for business properties.
+**Commercial Real Estate Lawyers:** Help negotiate leases, purchase agreements, and navigate zoning regulations for business properties.
 
-<a href="https://www.msnattorneys.com/" target="_blank">Massey, Stotser, & Nichols</a>
+-   <a href="https://www.msnattorneys.com/" target="_blank">Massey, Stotser, & Nichols</a>
 
-<a href="https://bhmlawgroup.com/" target="_blank">BHM Law Group</a>
+-   <a href="https://bhmlawgroup.com/" target="_blank">BHM Law Group</a>
 
-<a href="https://www.richardgreerlaw.com/" target="_blank">The Greer Law Firm</a>
+-   <a href="https://www.richardgreerlaw.com/" target="_blank">The Greer Law Firm</a>
 
 
--   **Data Privacy and Cybersecurity Lawyers:** Ensure compliance with data protection laws and develop strategies to protect sensitive information.
+**Data Privacy and Cybersecurity Lawyers:** Ensure compliance with data protection laws and develop strategies to protect sensitive information.
 
-<a href="https://www.bradley.com/people/m/murphy-daniel-f" target="_blank">Daniel F. Murphy</a>
+-   <a href="https://www.bradley.com/people/m/murphy-daniel-f" target="_blank">Daniel F. Murphy</a>
 
-<a href="https://www.burr.com/capabilities/cybersecurity#Professionals" target="_blank">Burr & Forman</a>
+-   <a href="https://www.burr.com/capabilities/cybersecurity#Professionals" target="_blank">Burr & Forman</a>
 
-<a href="https://www.balch.com/services/practices/data-privacy-security" target="_blank">Balch & Bingham</a>
+-   <a href="https://www.balch.com/services/practices/data-privacy-security" target="_blank">Balch & Bingham</a>
 
 ### Registered Agents
 

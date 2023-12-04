@@ -27,63 +27,63 @@ Use this directory to find the right professionals to help you with your busines
 
 ### Lawyers
 
--   **Business Formation Lawyers:** These lawyers can help you select the appropriate business structure for your company and provide assistance with drafting and filing the necessary legal documents.
+**Business Formation Lawyers:** These lawyers can help you select the appropriate business structure for your company and provide assistance with drafting and filing the necessary legal documents.
 
-<a href="https://raichattorneys.com/services/business-formation/" target="_blank">Raich Law</a>
+-   <a href="https://raichattorneys.com/services/business-formation/" target="_blank">Raich Law</a>
 
-<a href="https://bongiovilaw.com/business-formation/" target="_blank">Bongiovi Law Firm</a>
+-   <a href="https://bongiovilaw.com/business-formation/" target="_blank">Bongiovi Law Firm</a>
 
-<a href="https://www.lkpfirm.com/business-formation/" target="_blank">Lee Kiefer & Park</a>
+-   <a href="https://www.lkpfirm.com/business-formation/" target="_blank">Lee Kiefer & Park</a>
 
-<a href="https://www.sierracrestlaw.com/" target="_blank">Sierra Crest Business Law Group</a>
+-   <a href="https://www.sierracrestlaw.com/" target="_blank">Sierra Crest Business Law Group</a>
 
--   **Intellectual Property Lawyers:** These lawyers can assist you with protecting your company's intellectual property, including trademarks, patents, and copyrights.
+**Intellectual Property Lawyers:** These lawyers can assist you with protecting your company's intellectual property, including trademarks, patents, and copyrights.
 
-<a href="https://weidemiller.com/" target="_blank">Weide & Miller</a>
+-   <a href="https://weidemiller.com/" target="_blank">Weide & Miller</a>
 
-<a href="https://borgheselegal.com/" target="_blank">Borghese Legal</a>
+-   <a href="https://borgheselegal.com/" target="_blank">Borghese Legal</a>
 
-<a href="https://www.ideaattorneys.com/our-locations/las-vegas/" target="_blank">The Idea Attorneys</a>
+-   <a href="https://www.ideaattorneys.com/our-locations/las-vegas/" target="_blank">The Idea Attorneys</a>
 
--   **Employment Lawyers:** These lawyers can help ensure that your company is in compliance with labor laws and can draft employment agreements to protect your company's interests.
+**Employment Lawyers:** These lawyers can help ensure that your company is in compliance with labor laws and can draft employment agreements to protect your company's interests.
 
-<a href="https://hkm.com/" target="_blank">HKM Employment Attorneys</a>
+-   <a href="https://hkm.com/" target="_blank">HKM Employment Attorneys</a>
 
-<a href="https://overtimelaw.com/" target="_blank">Leon Greenberg, Esq.</a>
+-   <a href="https://overtimelaw.com/" target="_blank">Leon Greenberg, Esq.</a>
 
-<a href="https://www.hatfieldlawassociates.com/" target="_blank">Trevor Hatfield</a>
+-   <a href="https://www.hatfieldlawassociates.com/" target="_blank">Trevor Hatfield</a>
 
--   **Tax Lawyers:** These lawyers can assist with tax planning, compliance, and disputes with tax authorities to help your company avoid legal issues and minimize tax liability.
+**Tax Lawyers:** These lawyers can assist with tax planning, compliance, and disputes with tax authorities to help your company avoid legal issues and minimize tax liability.
 
-<a href="https://andersonadvisors.com/" target="_blank">Anderson Advisors</a>
+-   <a href="https://andersonadvisors.com/" target="_blank">Anderson Advisors</a>
 
-<a href="https://torchlighttax.com/" target="_blank">Torchlight Tax and Financial Solutions</a>
+-   <a href="https://torchlighttax.com/" target="_blank">Torchlight Tax and Financial Solutions</a>
 
-<a href="https://guarddogtax.com/" target="_blank">Guard Dog Tax</a>
+-   <a href="https://guarddogtax.com/" target="_blank">Guard Dog Tax</a>
 
--   **Mergers and Acquisitions Lawyers:** These lawyers can guide your company through the complex process of buying, selling, or merging with other companies, helping to ensure that the transaction is legally sound and in your company's best interests.
+**Mergers and Acquisitions Lawyers:** These lawyers can guide your company through the complex process of buying, selling, or merging with other companies, helping to ensure that the transaction is legally sound and in your company's best interests.
 
-<a href="https://whiteheadburnett.com/business-and-commercial-law/mergers-and-acquisitions/" target="_blank">Whitehead & Burnett</a>
+-   <a href="https://whiteheadburnett.com/business-and-commercial-law/mergers-and-acquisitions/" target="_blank">Whitehead & Burnett</a>
 
-<a href="https://www.hollandhart.com/gabrown" target="_blank">Holland & Hart</a>
+-   <a href="https://www.hollandhart.com/gabrown" target="_blank">Holland & Hart</a>
 
-<a href="https://www.flynngiudici.com/business-law/mergers-acquisitions/" target="_blank">Flynn Giudici</a>
+-   <a href="https://www.flynngiudici.com/business-law/mergers-acquisitions/" target="_blank">Flynn Giudici</a>
 
--   **Commercial Real Estate Lawyers:** These lawyers can help negotiate leases and purchase agreements for business properties and can navigate zoning regulations to ensure that your company is in compliance with local laws.
+**Commercial Real Estate Lawyers:** These lawyers can help negotiate leases and purchase agreements for business properties and can navigate zoning regulations to ensure that your company is in compliance with local laws.
 
-<a href="https://www.gatskicommercial.com/" target="_blank">Gatski Commercial Real Estate</a>
+-   <a href="https://www.gatskicommercial.com/" target="_blank">Gatski Commercial Real Estate</a>
 
-<a href="https://roicre.com/" target="_blank">R.O.I. Commercial Real Estate</a>
+-   <a href="https://roicre.com/" target="_blank">R.O.I. Commercial Real Estate</a>
 
-<a href="https://www.ingrambrady.com/legal-services/real-estate/" target="_blank">Ingram Brady</a>
+-   <a href="https://www.ingrambrady.com/legal-services/real-estate/" target="_blank">Ingram Brady</a>
 
--   **Data Privacy and Cybersecurity Lawyers:** These lawyers can help ensure that your company is in compliance with data protection laws and can develop strategies to protect sensitive information from cyber threats.
+**Data Privacy and Cybersecurity Lawyers:** These lawyers can help ensure that your company is in compliance with data protection laws and can develop strategies to protect sensitive information from cyber threats.
 
-<a href="https://talglaw.com/data-privacy-nevada/" target="_blank">TALG</a>
+-   <a href="https://talglaw.com/data-privacy-nevada/" target="_blank">TALG</a>
 
-<a href="https://lewisbrisbois.com/practices/data-privacy-cyber-security" target="_blank">Lewis Brisbois Bisgaard & Smith</a>
+-   <a href="https://lewisbrisbois.com/practices/data-privacy-cyber-security" target="_blank">Lewis Brisbois Bisgaard & Smith</a>
 
-<a href="https://www.dickinson-wright.com/practice-areas/data-privacy-cybersecurity?tab=0" target="_blank">Dickinson Wright</a>
+-   <a href="https://www.dickinson-wright.com/practice-areas/data-privacy-cybersecurity?tab=0" target="_blank">Dickinson Wright</a>
 
 This directory is meant to serve as a starting point for entrepreneurs searching for the necessary services to successfully start and grow their businesses. 
 

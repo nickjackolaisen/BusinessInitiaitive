@@ -27,59 +27,59 @@ Use this directory to find the right professionals to help you with your busines
 
 ### Lawyers
 
--   **Business Formation Lawyers:** These lawyers can help you select the appropriate business structure for your company and provide assistance with drafting and filing the necessary legal documents.
+**Business Formation Lawyers:** These lawyers can help you select the appropriate business structure for your company and provide assistance with drafting and filing the necessary legal documents.
 
-<a href="https://wrightslawfirm.com/wyoming-llc-formation/" target="_blank">The Wright Law Firm</a>
+-   <a href="https://wrightslawfirm.com/wyoming-llc-formation/" target="_blank">The Wright Law Firm</a>
 
-<a href="https://wyomingllcattorney.com/" target="_blank">Wyoming LLC Attorney</a>
+-   <a href="https://wyomingllcattorney.com/" target="_blank">Wyoming LLC Attorney</a>
 
-<a href="https://davisandcannon.com/commercial-business-law/" target="_blank">Davis & Cannon</a>
+-   <a href="https://davisandcannon.com/commercial-business-law/" target="_blank">Davis & Cannon</a>
 
--   **Intellectual Property Lawyers:** These lawyers can assist you with protecting your company's intellectual property, including trademarks, patents, and copyrights.
+**Intellectual Property Lawyers:** These lawyers can assist you with protecting your company's intellectual property, including trademarks, patents, and copyrights.
 
-<a href="https://www.hkwyolaw.com/practice-area/business-corporate-law/intellectual-property/" target="_blank">Hathaway & Kunz</a>
+-   <a href="https://www.hkwyolaw.com/practice-area/business-corporate-law/intellectual-property/" target="_blank">Hathaway & Kunz</a>
 
-<a href="https://www.bobschuster.com/practice-areas/intellectual-property-attorney/" target="_blank">Robert P. Schuster</a>
+-   <a href="https://www.bobschuster.com/practice-areas/intellectual-property-attorney/" target="_blank">Robert P. Schuster</a>
 
-<a href="https://crowleyfleck.com/practice-areas/intellectual-property-and-technology/" target="_blank">Crowley Fleck</a>
+-   <a href="https://crowleyfleck.com/practice-areas/intellectual-property-and-technology/" target="_blank">Crowley Fleck</a>
 
--   **Employment Lawyers:** These lawyers can help ensure that your company is in compliance with labor laws and can draft employment agreements to protect your company's interests.
+**Employment Lawyers:** These lawyers can help ensure that your company is in compliance with labor laws and can draft employment agreements to protect your company's interests.
 
-<a href="https://davisandcannon.com/employment-law/" target="_blank">Davis & Cannon</a>
+-   <a href="https://davisandcannon.com/employment-law/" target="_blank">Davis & Cannon</a>
 
-<a href="https://meuserlaw.com/" target="_blank">Meuser, Yackley & Rowland</a>
+-   <a href="https://meuserlaw.com/" target="_blank">Meuser, Yackley & Rowland</a>
 
-<a href="https://www.bgs.com/business-law/employment-law" target="_blank">Barna, Guzy & Steffen</a>
+-   <a href="https://www.bgs.com/business-law/employment-law" target="_blank">Barna, Guzy & Steffen</a>
 
--   **Tax Lawyers:** These lawyers can assist with tax planning, compliance, and disputes with tax authorities to help your company avoid legal issues and minimize tax liability.
+**Tax Lawyers:** These lawyers can assist with tax planning, compliance, and disputes with tax authorities to help your company avoid legal issues and minimize tax liability.
 
-<a href="https://andersonbradshawtax.com/areas-we-serve/wyoming-tax-attorneys/" target="_blank">Anderson Bradshaw</a>
+-   <a href="https://andersonbradshawtax.com/areas-we-serve/wyoming-tax-attorneys/" target="_blank">Anderson Bradshaw</a>
 
-<a href="https://www.thorntaxlaw.com/tax-law/wyoming/" target="_blank">Kevin E. Thorn</a>
+-   <a href="https://www.thorntaxlaw.com/tax-law/wyoming/" target="_blank">Kevin E. Thorn</a>
 
-<a href="https://liepaslaw.com/" target="_blank">Algirdas M. Liepas</a>
+-   <a href="https://liepaslaw.com/" target="_blank">Algirdas M. Liepas</a>
 
--   **Mergers and Acquisitions Lawyers:** These lawyers can guide your company through the complex process of buying, selling, or merging with other companies, helping to ensure that the transaction is legally sound and in your company's best interests.
+**Mergers and Acquisitions Lawyers:** These lawyers can guide your company through the complex process of buying, selling, or merging with other companies, helping to ensure that the transaction is legally sound and in your company's best interests.
 
-<a href="https://crowleyfleck.com/practice-areas/mergers-and-acquisitions/" target="_blank">Crowley Fleck</a>
+-   <a href="https://crowleyfleck.com/practice-areas/mergers-and-acquisitions/" target="_blank">Crowley Fleck</a>
 
-<a href="https://www.hkwyolaw.com/practice-area/business-corporate-law/mergers-acquisitions/" target="_blank">Hathaway & Kunz</a>
+-   <a href="https://www.hkwyolaw.com/practice-area/business-corporate-law/mergers-acquisitions/" target="_blank">Hathaway & Kunz</a>
 
-<a href="https://www.wiggin.com/services/corporate/mergers-and-acquisitions/" target="_blank">Wiggin and Dana</a>
+-   <a href="https://www.wiggin.com/services/corporate/mergers-and-acquisitions/" target="_blank">Wiggin and Dana</a>
 
--   **Commercial Real Estate Lawyers:** These lawyers can help negotiate leases and purchase agreements for business properties and can navigate zoning regulations to ensure that your company is in compliance with local laws.
+**Commercial Real Estate Lawyers:** These lawyers can help negotiate leases and purchase agreements for business properties and can navigate zoning regulations to ensure that your company is in compliance with local laws.
 
-<a href="https://www.burgsimpson.com/wyoming/commercial-litigation/real-estate-land-use-litigation/" target="_blank">Burg Simpson</a>
+-   <a href="https://www.burgsimpson.com/wyoming/commercial-litigation/real-estate-land-use-litigation/" target="_blank">Burg Simpson</a>
 
-<a href="https://www.penceandmac.com/index.php/practice-areas/real-estate-transactions-and-law/" target="_blank">Pence and MacMillan</a>
+-   <a href="https://www.penceandmac.com/index.php/practice-areas/real-estate-transactions-and-law/" target="_blank">Pence and MacMillan</a>
 
-<a href="https://www.performance-law.com/practice-areas/real-estate-law/" target="_blank">Bailey, Stock, Harmon, Cottam, & Lopez</a>
+-   <a href="https://www.performance-law.com/practice-areas/real-estate-law/" target="_blank">Bailey, Stock, Harmon, Cottam, & Lopez</a>
 
--   **Data Privacy and Cybersecurity Lawyers:** These lawyers can help ensure that your company is in compliance with data protection laws and can develop strategies to protect sensitive information from cyber threats.
+**Data Privacy and Cybersecurity Lawyers:** These lawyers can help ensure that your company is in compliance with data protection laws and can develop strategies to protect sensitive information from cyber threats.
 
-<a href="https://www.dickinson-wright.com/practice-areas/data-privacy-cybersecurity?tab=0" target="_blank">Dickinson Wright</a>
+-   <a href="https://www.dickinson-wright.com/practice-areas/data-privacy-cybersecurity?tab=0" target="_blank">Dickinson Wright</a>
 
-<a href="https://www.lowenstein.com/practices/privacy-cybersecurity" target="_blank">Lowenstein Sandler</a>
+-   <a href="https://www.lowenstein.com/practices/privacy-cybersecurity" target="_blank">Lowenstein Sandler</a>
 
 This directory is meant to serve as a starting point for entrepreneurs searching for the necessary services to successfully start and grow their businesses. 
 
