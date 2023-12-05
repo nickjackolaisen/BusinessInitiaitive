@@ -64,20 +64,8 @@ To make things easier, you can use an online inflation calculator to get quick a
     #result {
       margin-top: 20px;
     }
-    .chart {
-      margin-top: 20px;
-      border: 1px solid #ccc;
-      padding: 10px;
-      max-width: 400px;
-    }
-    .bar {
-      background-color: #007bff;
-      height: 20px;
-      margin-bottom: 5px;
-    }
 </style>
 <body>
-  <h2>Inflation Rate Calculator</h2>
   <label for="price1">Enter price in year 1:</label>
   <input type="number" id="price1">
   <label for="year1">Year 1:</label>
@@ -103,15 +91,6 @@ To make things easier, you can use an online inflation calculator to get quick a
       const inflationRate = ((price2 - price1) / price1) * 100;
       const resultElement = document.getElementById('result');
       resultElement.innerHTML = `The inflation rate between ${year1} and ${year2} is ${inflationRate.toFixed(2)}%`;
-
-      const chartElement = document.getElementById('chart');
-      chartElement.innerHTML = ''; // Clear previous chart
-
-      // Creating the visualization
-      const bar = document.createElement('div');
-      bar.className = 'bar';
-      bar.style.width = `${Math.abs(inflationRate)}%`;
-      chartElement.appendChild(bar);
     }
   </script>
 </body>
