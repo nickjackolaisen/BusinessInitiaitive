@@ -127,7 +127,7 @@ Calculating inflation rate is a simple process that requires two pieces of infor
 
 Here is the formula for calculating inflation rate:
 
-Inflation Rate = ((Current Price Index - Previous Price Index) / Previous Price Index) x 100
+**Inflation Rate = ((Current Price Index - Previous Price Index) / Previous Price Index) x 100**
 
 ### Step 1: Determine the Price Index
 
@@ -156,7 +156,7 @@ For example, let's say the current price index is 110 and the previous price ind
 
 Using the formula, we can calculate the inflation rate as follows:
 
-**Inflation Rate = ((110 - 100) / 100) x 100 = 10%**
+Inflation Rate = ((110 - 100) / 100) x 100 = 10%
 
 ## Different Types of Inflation
 
