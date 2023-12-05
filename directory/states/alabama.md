@@ -253,9 +253,7 @@ agent@alabamaregisteredagent.com
 
 <a href="https://leavellinvestments.com/" target="_blank">Leavell Investments</a>
 
-<a href="url" target="_blank">text</a>
-Source
-https://assets.businessalabama.com/2023/05/Financial-Planners-2023.pdf
+<b><a href="Source" target="_blank">https://assets.businessalabama.com/2023/05/Financial-Planners-2023.pdf</a></b>
 
 ### Financial Technology Providers
 
