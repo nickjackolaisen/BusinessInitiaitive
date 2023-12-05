@@ -42,10 +42,6 @@ To make things easier, you can use an online inflation calculator to get quick a
 
 
 <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 20px;
-    }
     label {
       display: block;
       margin-bottom: 5px;
