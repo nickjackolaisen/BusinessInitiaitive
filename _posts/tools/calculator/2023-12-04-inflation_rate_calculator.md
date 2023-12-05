@@ -39,94 +39,83 @@ Calculating inflation rate can be a bit tedious especially when dealing with lar
 
 To make things easier, you can use an online inflation calculator to get quick and accurate results.
 
+
+
 <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    label {
+      display: block;
+      margin-bottom: 5px;
+    }
     input[type="number"] {
       width: 100px;
-      margin: 5px;
+      margin-bottom: 10px;
     }
     button {
-      margin: 5px;
+      padding: 8px 15px;
+      background-color: #007bff;
+      color: #fff;
+      border: none;
+      cursor: pointer;
+    }
+    #result {
+      margin-top: 20px;
+    }
+    .chart {
+      margin-top: 20px;
+      border: 1px solid #ccc;
+      padding: 10px;
+      max-width: 400px;
+    }
+    .bar {
+      background-color: #007bff;
+      height: 20px;
+      margin-bottom: 5px;
     }
 </style>
-
 <body>
-  <h3>Inflation Rate Calculator</h3>
-  
-  <div id="inputs">
-    <div id="inputFields">
-      <label for="year">Year:</label>
-      <input type="number" class="year" min="1900" max="2100" value="2020">
-      <label for="price">Price ($):</label>
-      <input type="number" class="price" min="1" step="any" value="1000">
-    </div>
-    <button onclick="addYearInput()">Add Year</button>
-    <button onclick="removeYearInput()">Remove Year</button>
-  </div>
-
-  <button onclick="calculate()">Calculate Inflation Rate</button>
-
+  <h2>Inflation Rate Calculator</h2>
+  <label for="price1">Enter price in year 1:</label>
+  <input type="number" id="price1">
+  <label for="year1">Year 1:</label>
+  <input type="number" id="year1">
+  <br>
+  <label for="price2">Enter price in year 2:</label>
+  <input type="number" id="price2">
+  <label for="year2">Year 2:</label>
+  <input type="number" id="year2">
+  <br>
+  <button onclick="calculateInflation()">Calculate</button>
   <div id="result"></div>
+  
+  <div class="chart" id="chart"></div>
 
-  <script src="script.js"></script>
+  <script>
+    function calculateInflation() {
+      const price1 = parseFloat(document.getElementById('price1').value);
+      const price2 = parseFloat(document.getElementById('price2').value);
+      const year1 = parseInt(document.getElementById('year1').value);
+      const year2 = parseInt(document.getElementById('year2').value);
+
+      const inflationRate = ((price2 - price1) / price1) * 100;
+      const resultElement = document.getElementById('result');
+      resultElement.innerHTML = `The inflation rate between ${year1} and ${year2} is ${inflationRate.toFixed(2)}%`;
+
+      const chartElement = document.getElementById('chart');
+      chartElement.innerHTML = ''; // Clear previous chart
+
+      // Creating the visualization
+      const bar = document.createElement('div');
+      bar.className = 'bar';
+      bar.style.width = `${Math.abs(inflationRate)}%`;
+      chartElement.appendChild(bar);
+    }
+  </script>
 </body>
 
-<script>
-let yearsData = [
-  { year: 2020, price: 1000 },
-  { year: 2023, price: 1200 }
-];
-
-function addYearInput() {
-  const inputsDiv = document.getElementById('inputFields');
-  const newInputDiv = document.createElement('div');
-  newInputDiv.innerHTML = `
-    <label for="year">Year:</label>
-    <input type="number" class="year" min="1900" max="2100" value="2020">
-    <label for="price">Price ($):</label>
-    <input type="number" class="price" min="1" step="any" value="1000">
-  `;
-  inputsDiv.appendChild(newInputDiv);
-}
-
-function removeYearInput() {
-  const inputsDiv = document.getElementById('inputFields');
-  const inputDivs = document.querySelectorAll('#inputFields > div');
-  if (inputDivs.length > 1) {
-    inputsDiv.removeChild(inputDivs[inputDivs.length - 1]);
-  } else {
-    alert('Cannot remove the only year!');
-  }
-}
-
-function calculate() {
-  const inputDivs = document.querySelectorAll('#inputFields > div');
-  yearsData = [];
-
-  inputDivs.forEach(div => {
-    const year = parseInt(div.querySelector('.year').value);
-    const price = parseFloat(div.querySelector('.price').value);
-    yearsData.push({ year, price });
-  });
-
-  displayResult();
-}
-
-function displayResult() {
-  const resultDiv = document.getElementById('result');
-  resultDiv.innerHTML = '<h2>Inflation Rate:</h2>';
-
-  for (let i = 0; i < yearsData.length - 1; i++) {
-    const startYear = yearsData[i].year;
-    const endYear = yearsData[i + 1].year;
-    const startPrice = yearsData[i].price;
-    const endPrice = yearsData[i + 1].price;
-
-    const inflationRate = ((endPrice - startPrice) / startPrice) * 100;
-    
-    resultDiv.innerHTML += `<p>${startYear} to ${endYear}: ${inflationRate.toFixed(2)}% </p>`;
-  }
-}
-</script>
 
 <a id="importance"> 
 
