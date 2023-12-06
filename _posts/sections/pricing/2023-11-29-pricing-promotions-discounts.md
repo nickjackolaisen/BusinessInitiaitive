@@ -127,7 +127,7 @@ Price sensitivity can be affected by factors such as brand perception, product q
 
 There are several methods that businesses can use to measure price sensitivity, including:
 
--   <a href="/tools/calculator/price-sensitivity-meter/" target="_blank">Van Westendorp's Price Sensitivity Meter (PSM)</a>
+-   <a href="/tools/guide/price-sensitivity-meter/" target="_blank">Van Westendorp's Price Sensitivity Meter (PSM)</a>
  
 -   Gabor-Granger method
 

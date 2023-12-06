@@ -2,7 +2,7 @@
 layout: page
 title: "Georgia Business Directory"
 date: 2023-12-04
-update_date: 
+update_date: 2023-12-06
 author: jack_nicholaisen
 summary: "Discover the top business startup services in Georgia! Your ultimate guide to launching a successful venture."  
 permalink: /directory/georgia/
@@ -59,9 +59,7 @@ Use this directory to find the right professionals to help you with your busines
 
 -	<a href="https://www.gartzmantaxlaw.com/" target="_blank">The Gartzman Law Firm</a>
 
--	<a href="url" target="_blank">text</a>
-https://cumberlandlawatlanta.com/
-Cumberland Law Group
+-	<a href="https://cumberlandlawatlanta.com/" target="_blank">Cumberland Law Group</a>
 
 **Mergers and Acquisitions Lawyers:** These lawyers can guide your company through the complex process of buying, selling, or merging with other companies, helping to ensure that the transaction is legally sound and in your company's best interests.
 

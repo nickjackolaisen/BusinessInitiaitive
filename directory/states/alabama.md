@@ -2,7 +2,7 @@
 layout: page
 title: "Alabama Business Directory"
 date: 2023-11-26
-update_date: 2023-11-29
+update_date: 2023-12-06
 author: jack_nicholaisen
 summary: "Discover the top business startup services in Alabama! Your ultimate guide to launching a successful venture."  
 permalink: /directory/alabama/
@@ -253,7 +253,7 @@ agent@alabamaregisteredagent.com
 
 <a href="https://leavellinvestments.com/" target="_blank">Leavell Investments</a>
 
-<b><a href="Source" target="_blank">https://assets.businessalabama.com/2023/05/Financial-Planners-2023.pdf</a></b>
+<b><a href="https://assets.businessalabama.com/2023/05/Financial-Planners-2023.pdf" target="_blank">Source</a></b>
 
 ### Financial Technology Providers
 

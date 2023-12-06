@@ -2,7 +2,7 @@
 layout: post
 title: 7 Partnership Disadvantages They Tried Keeping Secret
 date: 2023-06-29
-update_date: 2023-09-28
+update_date: 2023-12-06
 author: jack_nicholaisen
 summary: "Although they may be simple and cheap, some people avoid Partnerships like the Bubonic Plague. Read this to discover why!"
 permalink: /partnership/disadvantages/
@@ -399,7 +399,7 @@ Whether you end up starting a Partnership or opt for another form of business, y
 
 You might be better off doing your own thing as a Sole Proprietor. 
 
-In a riskier setup (requiring limited liability protection) or where you share ownership with more than 20 professionals, you should [start a Multi Member LLC](https://www.businessinitiative.org/multi-member-llc/registration/) or Corporation. 
+In a riskier setup (requiring limited liability protection) or where you share ownership with more than 20 professionals, you should [start a Multi Member LLC](https://www.businessinitiative.org/llc/multi-member-llc/registration/) or Corporation. 
 
 Taking everything into account, Partnerships are the simplest solution to sharing the workload, responsibility, and profits with a team. 
 
