@@ -2,7 +2,7 @@
 layout: post
 title: 6 Awful Disadvantages of Sole Proprietroships
 date: 2023-06-26
-update_date: 2023-11-21
+update_date: 2023-12-06
 author: jack_nicholaisen
 summary: "Don't read this article if you're considering starting a Sole Proprietorship! You just might end up starting a Partnership, LLC, or Corporation."
 permalink: /sole-proprietorship/disadvantages/
@@ -42,7 +42,7 @@ A lot of entrepreneurs start out with a Sole Proprietorship.
 
 Then, as the business grows, they re-form them into LLCs, [Partnerships](https://www.businessinitiative.org/partnership/advantages/), or Corporations. 
 
-<p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/what-does-llc-mean/" target="_blank"> Learn the in's and out's of LLCs.</a></p>
+<p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/llc/what-does-llc-mean/" target="_blank"> Learn the in's and out's of LLCs.</a></p>
 
 It is important to know what you’re getting yourself into and what is required of you in the different business entities and depending on the state you’re operating in. 
 

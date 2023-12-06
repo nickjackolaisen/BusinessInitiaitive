@@ -2,7 +2,7 @@
 layout: post
 title: The Multi Member LLC - Build Bigger and Better with a Team
 date: 2023-07-01
-update_date: 2023-09-07
+update_date: 2023-12-06
 author: jack_nicholaisen
 summary: A deep dive into the different components and tax options of Multi-Member LLCs (including how to register your own MMLLC and pay yourself from it)
 permalink: /multi-member-llc/
@@ -239,7 +239,7 @@ Here is what you need to get together and complete to register your LLC:
 *   Employee Regulations
 *   Maintenance
 
-<p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/multi-member-llc/registration/" target="_blank"> Click here to learn about each of these requirements</a></p>
+<p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/llc/multi-member-llc/registration/" target="_blank"> Click here to learn about each of these requirements</a></p>
 
 When all of these are in order you will be the proud operator of **your very own LLC**. 
 
