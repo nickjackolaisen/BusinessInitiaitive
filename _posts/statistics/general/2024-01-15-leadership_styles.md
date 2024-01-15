@@ -10,7 +10,7 @@ permalink: /statistics/leadership-styles/
 
 There are many leadership styles that can work for small businesses. 
 
-{% include takeaway-box.html bullet1="<b>Shared Leadership in LLCs</b> Leaders sharing power and valuing learning benefit LLCs by creating flat structures with open communication, fostering a sense of ownership and motivation among employees." bullet2="<b>Democratic Leadership</b> This style involves more managerial participation in decision-making, leading to increased employee satisfaction, retention, and long-term business success through regular engagement and feedback." bullet3="<b>Transformational Leadership</b> By inspiring and challenging their teams, transformational leaders foster continuous improvement and innovation, resulting in increased employee performance and higher revenue growth rates for small businesses." bullet4="<b>Laissez-Faire Leadership Pitfalls</b> While autonomy is important, too much freedom without clear goals or feedback can decrease employee productivity and focus, highlighting the need for balanced leadership approaches in small businesses." bullet5="<b>Servant Leadership Benefits</b> Focusing on the growth and well-being of employees, servant leadership increases commitment and engagement, cultivating an environment where talent feels empowered and invested in the company's long-term success." %}
+{% include takeaway-box.html bullet1="<b>Shared Leadership in LLCs</b>: Leaders sharing power and valuing learning benefit LLCs by creating flat structures with open communication, fostering a sense of ownership and motivation among employees." bullet2="<b>Democratic Leadership</b>: This style involves more managerial participation in decision-making, leading to increased employee satisfaction, retention, and long-term business success through regular engagement and feedback." bullet3="<b>Transformational Leadership</b>: By inspiring and challenging their teams, transformational leaders foster continuous improvement and innovation, resulting in increased employee performance and higher revenue growth rates for small businesses." bullet4="<b>Laissez-Faire Leadership Pitfalls</b>: While autonomy is important, too much freedom without clear goals or feedback can decrease employee productivity and focus, highlighting the need for balanced leadership approaches in small businesses." bullet5="<b>Servant Leadership Benefits</b>: Focusing on the growth and well-being of employees, servant leadership increases commitment and engagement, cultivating an environment where talent feels empowered and invested in the company's long-term success." %}
 
 Leaders who share power and value learning may have special benefits for LLCs. 
 
@@ -118,7 +118,7 @@ Transformational leadership leads to increased employee performance, higher reve
 
 <br>
 <details>
-<summary><b>Learn more…</summary>
+<summary><b>Learn more…</b></summary>
 <br>
 <p>Transformational leaders inspire and challenge their teams through meaningful work experiences, fostering an environment of continuous learning and improvement.</p> 
 <p>Research shows that transformational leadership can lead to a 22% increase in employee performance (source: <a href="https://www.emerald.com/insight/content/doi/10.1108/01437739810210185/full/html" target="_blank">Leadership & Organization Development Journal</a>).</p>
@@ -184,7 +184,7 @@ Servant leadership increases employee commitment, engagement rates, and long-ter
 
 <br>
 <details>
-<summary><b>Learn more…</summary>
+<summary><b>Learn more…</b></summary>
 <br>
 <p>Servant leaders prioritize the needs, growth, and well-being of their team members, building trust and psychological safety within the organization.</p>
 <p>Studies show that servant leadership can increase employee commitment by up to 33% (source: <a href="https://link.springer.com/article/10.1007/s10551-012-1322-6" target="_blank">Journal of Business Ethics</a>), while companies with servant leaders have a 27% higher employee engagement rate (source: <a href="https://www.gallup.com/workplace/236927/employee-engagement-drives-growth.aspx" target="_blank">Gallup</a>).</p>
