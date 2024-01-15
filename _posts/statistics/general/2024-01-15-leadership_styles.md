@@ -30,7 +30,7 @@ With the right supportive, growth-focused approaches, LLCs can empower managers 
 ## Autocratic Leadership
 
 <center>
-<img alt="Autocratic Leadership" src="/images/content/diverse-meeting.png" style="width: 63%; height: 63%">
+<img alt="Autocratic Leadership" src="/images/content/diverse-meeting.png" title="Autocratic leadership meeting" style="width: 63%; height: 63%">
 </center>
 
 While some companies still have bosses that make all the decisions, most small businesses now know it's better to share power with managers. 
@@ -53,7 +53,7 @@ To keep employees excited and creative, small business owners wearing many hats 
 ## Democratic Leadership
 
 <center>
-<img alt="Democratic Leadership" src="/images/content/teamwork.png" style="width: 63%; height: 63%">
+<img alt="Democratic Leadership" src="/images/content/teamwork.png" title="Democratic leadership makes the dream work" style="width: 63%; height: 63%">
 </center>
 
 Many companies these days use a democratic style of leadership. 
@@ -86,7 +86,7 @@ Implementing a democratic leadership style in small businesses can create a posi
 ## Transformational Leadership
 
 <center>
-<img alt="Transformational Leadership" src="/images/content/women-working.png" style="width: 63%; height: 63%">
+<img alt="Transformational Leadership" src="/images/content/women-working.png" title="Transformational leadership helps turn employees into leaders" style="width: 63%; height: 63%">
 </center>
 
 Transformational leadership has a big impact on companies. 
@@ -128,7 +128,7 @@ Transformational leadership leads to increased employee performance, higher reve
 ## Laissez-Faire Leadership
 
 <center>
-<img alt="Laissez-Faire Leadership" src="/images/content/competition.png" style="width: 63%; height: 63%">
+<img alt="Laissez-Faire Leadership" src="/images/content/competition.png" title="Laissez-faire leadership can cause a lot of issues because managers and owners won't know what's happening on the ground level" style="width: 63%; height: 63%">
 </center>
 
 While empowering managers is important for many companies, leaders need to provide direction too. 
@@ -155,7 +155,7 @@ Leaders need to empower talent through mutual trust, openness and commitment to 
 ## Servant Leadership
 
 <center>
-<img alt="Servant Leadership" src="/images/content/high-five-workers.png" style="width: 63%; height: 63%">
+<img alt="Servant Leadership" src="/images/content/high-five-workers.png" title="Servant leadership in business is one of the most effective styles based on the statistics" style="width: 63%; height: 63%">
 </center>
 
 Servant leadership is an effective way for companies to encourage involvement and empowerment from within. 
