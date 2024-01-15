@@ -116,7 +116,6 @@ This maximizes success, competitive edge, and long-term sustainability - all imp
 
 Transformational leadership leads to increased employee performance, higher revenue growth rates, and overall long-term success for small businesses.
 
-<br>
 <details>
 <summary><b>Learn more…</b></summary>
 <br>
@@ -182,7 +181,6 @@ Outcomes show how this influential yet humble approach can maximize potential th
 
 Servant leadership increases employee commitment, engagement rates, and long-term success for small businesses.
 
-<br>
 <details>
 <summary><b>Learn more…</b></summary>
 <br>
@@ -253,6 +251,8 @@ Join our Twitter community [@BusinessInitiative](https://twitter.com/BisInitiati
 <br>
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
+
+<br>
 
 By understanding and applying these leadership styles, small businesses can create a more dynamic, engaged, and successful workforce. 
 
