@@ -13,7 +13,7 @@ We specialize in LLC formation and can also help aspiring business owners set up
 
 As a company passionate about the world of business, we strive to provide valuable resources and support to individuals and organizations working towards a better future. 
 
-Our primary goal is to empower those who seek to create a positive impact in their communities and the world, by helping them turn their innovative ideas into successful ventures with.
+Our primary goal is to empower those who seek to create a positive impact in their communities and the world, by helping them turn their innovative ideas into successful ventures without the headache.
 
 **Business Initiative is your path of least resistance.**
 
