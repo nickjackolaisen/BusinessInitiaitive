@@ -1,8 +1,8 @@
 ---
-title: "How Much Do Small Businesses Pay in Taxes? | 2023"
+title: "How Much Do Small Businesses Pay in Taxes? | 2024"
 layout: post
 date: 2023-06-26
-update_date: 2023-11-19
+update_date: 2024-01-16
 author: jack_nicholaisen
 summary: "Learn about small business taxes and how to navigate the system with BusinessInitiative.com. Avoid penalties and fines."
 permalink: /statistics/small-businesses/how-much-do-small-businesses-pay-in-taxes/
