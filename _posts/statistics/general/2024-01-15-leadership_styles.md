@@ -1,5 +1,5 @@
 ---
-title: "Most Common Leadership Styles in Business for 2024 Facts, Stats, & FAQs for 2023"
+title: "Most Common Leadership Styles in Business for 2024 | Facts, Stats, & FAQs"
 layout: post
 date: 2024-01-15
 author: jack_nicholaisen
