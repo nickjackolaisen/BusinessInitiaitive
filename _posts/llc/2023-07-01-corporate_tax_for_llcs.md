@@ -10,7 +10,7 @@ permalink: /corporate-tax-on-llcs/
 
 When starting a business, one of the most important decisions you'll make is deciding which of legal entity to form. 
 
-One popular option is a [Limited Liability Company (LLC).](https://www.businessinitiative.org/multi-member-llc/registration/) 
+One popular option is a [Limited Liability Company (LLC).](https://www.businessinitiative.org/llc/multi-member-llc/registration/) 
 
 LLCs offer the simplicity of a Partnership and the tax benefits of a Corporation. However, depending on where you are operating, the taxs you may be subject to can vary significantly. 
 

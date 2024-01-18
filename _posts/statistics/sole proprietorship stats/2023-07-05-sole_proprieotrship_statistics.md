@@ -43,7 +43,7 @@ Believe it or not, the Largest Sole Proprietorship in the world simply wouldn't 
 
 Unfortunately, Sole Proprietors don’t receive any [Limited Personal Liability Protections](https://www.businessinitiative.org/sole-proprietorship-vs-llc/).
 
-This single factor means anybody with a significantly sized Sole Proprietorship would surely upgrade their Business type to a [Single-Member LLC](https://www.businessinitiative.org/what-does-llc-mean/) or Corporate variation as soon as humanly possible. 
+This single factor means anybody with a significantly sized Sole Proprietorship would surely upgrade their Business type to a [Single-Member LLC](https://www.businessinitiative.org/llc/what-does-llc-mean/) or Corporate variation as soon as humanly possible. 
 
 Without any liability protections, any massively successful sole proprietor would be out of their mind to NOT convert their business to one which provides the peace of mind of Limited Personal Liability Protections, the savings of tax breaks, and the option to expand and add Owners and Investors. 
 
@@ -219,7 +219,7 @@ Sole Proprietorships only exist if the owner, the sole proprietor, is actively m
 
 Sole proprietors can hire employees if they want, but the owner have to be a part of all decisions, both short- and long-term. 
 
-<p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/what-does-llc-mean/" target="_blank"> Why are LLCs so popular? </a></p>
+<p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/llc/what-does-llc-mean/" target="_blank"> Why are LLCs so popular? </a></p>
 
 ## How long does a Sole Proprietorship last?
 

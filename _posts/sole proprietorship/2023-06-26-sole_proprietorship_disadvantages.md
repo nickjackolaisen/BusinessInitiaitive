@@ -118,7 +118,7 @@ Someone speaking about his services would probably say, “Oh yeah, there's Joe 
 
 There's just nothing professional about using your legal name for your business. 
 
-If you end up operating a Sole Proprietorship, you should complete the extra step of [filing for a DBA (Doing Business As…) name.](https://www.businessinitiative.org/dba-vs-llc/) 
+If you end up operating a Sole Proprietorship, you should complete the extra step of [filing for a DBA (Doing Business As…) name.](https://www.businessinitiative.org/llc/dba-vs-llc/) 
 
 This is a custom, industry-specific, name of your choosing. 
 
