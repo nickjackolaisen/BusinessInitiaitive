@@ -1,8 +1,8 @@
 ---
-title: "27 Statistics You Need to Know About LLC Size - Insights into Operations, Profitability, and Growth"
+title: "27 Insightful Statistics You Need to Know About LLC Size, Operations, Profitability, & Growth"
 layout: post
 date: 2023-10-23
-update_date: 2023-11-21
+update_date: 2024-01-18
 author: jack_nicholaisen
 summary: "Discover the impact of the size of LLCs has on business operations, profitability, and growth. Learn about number of owners, size, employees, and more." 
 image: /images/posts-headers/llc-stats-size-header.png

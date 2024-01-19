@@ -1,8 +1,8 @@
 ---
-title: "Payment Processing, Automation, and Subscriptions - Streamline Checkouts and Automate Transactions with Ease!"
+title: "Streamline Checkouts and Automate Transactions with Ease!"
 layout: post
 date: 2023-11-30
-update_date: 2023-12-02
+update_date: 2024-01-19
 author: jack_nicholaisen
 summary: "Learn how to streamline payment processes, automate transactions, and set up subscriptions with ease. A must-read for businesses and entrepreneurs."
 image: /images/posts-headers/payment-processing-header.png
