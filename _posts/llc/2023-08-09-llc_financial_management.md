@@ -58,12 +58,12 @@ Accounting software can help streamline the bookkeeping process and reduce the r
 
 Some popular accounting software options for LLCs include:
 
--   [QuickBooks Online](https://quickbooks.intuit.com/online/): A cloud-based accounting solution that offers various features, such as invoicing, expense tracking, and financial reporting. It also integrates with third-party apps to automate tasks and save time.
+-   <a href="https://quickbooks.intuit.com/online/" target="_blank">QuickBooks Online</a>: A cloud-based accounting solution that offers various features, such as invoicing, expense tracking, and financial reporting. It also integrates with third-party apps to automate tasks and save time.
 <a id="tax-planning"> 
 
--   [Xero](https://www.xero.com/): A user-friendly, cloud-based accounting software that provides a wide range of features, including bank reconciliation, inventory management, and payroll. Xero also offers numerous integrations with other business tools.
+-   <a href="https://www.xero.com/" target="_blank">Xero</a>: A user-friendly, cloud-based accounting software that provides a wide range of features, including bank reconciliation, inventory management, and payroll. Xero also offers numerous integrations with other business tools.
 
--   [FreshBooks](https://www.freshbooks.com/): An easy-to-use invoicing and accounting software designed for small businesses and freelancers. FreshBooks offers time tracking, expense management, and customizable invoices, among other features.
+-   <a href="https://www.freshbooks.com/" target="_blank">FreshBooks</a>: An easy-to-use invoicing and accounting software designed for small businesses and freelancers. FreshBooks offers time tracking, expense management, and customizable invoices, among other features.
 
 ## Tax Planning
 
@@ -77,10 +77,9 @@ Some popular tax strategies you should know about are...
 
 -   ### Choosing the right tax classification: 
 
-LLCs can choose to be taxed as a sole proprietorship, partnership, or corporation. 
+LLCs can choose to be taxed as a <a href="https://www.businessinitiative.org/statistics/sole-proprietorship-statistics/" target="_blank">sole proprietorship</a>  , <a href="https://www.businessinitiative.org/statistics/partnerships/modern-business/" target="_blank">partnership</a>, or <a href="https://www.businessinitiative.org/corporation/heirachy-and-evolution/" target="_blank">corporation</a>. 
 
 Each classification has its own tax implications, so consult a tax professional to determine the best option for your LLC.
-<a id="financial-reports"> 
 
 -   ### Deducting business expenses: 
 
@@ -91,8 +90,11 @@ Keep accurate records of your expenses and consult a tax professional to maximiz
 -   ### Contributing to retirement accounts: 
 
 Contributions to retirement accounts, such as SEP IRAs and solo 401(k)s, can reduce your LLC's taxable income. 
+<a id="financial-reports">
 
 Consult a financial advisor to determine the best retirement plan for your LLC.
+
+<p><b>➤ Need personalized assistance? </b> <a href="https://calendly.com/businessinitiative/30-minute-consultation-call" target="_blank"> Book a FREE Consultation with us TODAY!</a></p> 
 
 ## Financial Reporting
 
@@ -100,9 +102,9 @@ Consult a financial advisor to determine the best retirement plan for your LLC.
 <img alt="Financial Reporting" src="/images/content/number-crunching.png" title="How to propertly report your earnings and expenses" style="width: 63%; height: 63%">
 </center>
 
-Regular financial reporting is essential for monitoring your LLC's financial performance and making informed business decisions. 
+Regular financial reports are essential for monitoring your LLC's financial performance and making informed business decisions. 
 
-Key financial reports include:
+Key financial reports and metrics include:
 
 -   **Income statement**: Also known as a profit and loss statement, this report shows your LLC's revenues, expenses, and net income over a specific period.
 <a id="tips-and-tricks"> 
@@ -174,7 +176,12 @@ Don't let financial management be a roadblock to your success.
 
 With the tips and strategies outlined in this article, you can take control of your finances and set yourself up for long-term success.
 
-Have questions? [Reach out to Business Initiative here](https://www.businessinitiative.org/contact/) or send us a direct message on X
+Have questions? 
+
+<a href="https://www.businessinitiative.org/contact/" target="_blank">Reach out to Business Initiative here</a>
+
+or, send us a direct message on X
+
 <br>
 <a href="https://twitter.com/intent/tweet?screen_name=BisInitiative&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-size="large" data-show-count="false">Tweet to @BisInitiative</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <br>
@@ -183,7 +190,7 @@ From choosing the right bookkeeping method to selecting the best accounting soft
 
 Don't wait...
 
-[Schedule a consultation call](https://calendly.com/businessinitiative/30-minute-consultation-call) to start implementing these strategies today and unlock your LLC's financial potential!
+<a href="https://calendly.com/businessinitiative/30-minute-consultation-call" _targetblank="">Schedule a consultation call</a> to start implementing these strategies today and unlock your LLC's financial potential!
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
