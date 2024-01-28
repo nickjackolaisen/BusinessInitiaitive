@@ -2,9 +2,10 @@
 title: "Protecting Your Intellectual Property as an LLC Owner"
 layout: post
 date: 2023-08-09
-update_date: 2024-01-19
+update_date: 2024-01-28
 author: jack_nicholaisen
 summary: "Discover secrets to protect your intellectual property in an LLC! Learn types, registration, enforcement, and tips for success. Don't let ideas slip away!"
+image: /images/posts-headers/ip-protection-header.png
 permalink: /llc/intellectual-property/
 ---
 
@@ -14,22 +15,14 @@ It's the backbone of your brand, the source of your competitive advantage, and c
 
 When operating under an LLC (Limited Liability Company) structure, it's essential to understand how to protect your IP effectively. 
 
-1. Recognize and protect four IP types: patents, trademarks, copyrights, and trade secrets for your business's advantage.
-
-2. Register intellectual property via USPTO and Copyright Office to secure legal rights and protections effectively.
-
-3. Actively enforce IP rights through market monitoring, cease and desist letters, litigation, and licensing agreements.
-
-4. Educate and train employees on IP importance, emphasizing confidentiality and internal security measures.
-
-5. Regularly audit and update your IP portfolio to address vulnerabilities and maintain relevancy in your business strategy.
+{% include takeaway-box.html bullet1="Recognize and protect four IP types: patents, trademarks, copyrights, and trade secrets for your business's advantage." bullet2="Register intellectual property via USPTO and Copyright Office to secure legal rights and protections effectively." bullet3="Actively enforce IP rights through market monitoring, cease and desist letters, litigation, and licensing agreements." bullet4="Educate and train employees on IP importance, emphasizing confidentiality and internal security measures." bullet5="Regularly audit and update your IP portfolio to address vulnerabilities and maintain relevancy in your business strategy." %}
 
 This guide will provide you with in-depth information on types of intellectual property, registration processes, and enforcement strategies.
 
 Additionally, you'll learn practical tips for identifying, registering, and protecting your IP, ensuring you're well-equipped to safeguard your hard-earned creations.
 <a id="types"> 
 
-{% include table-of-contents-box.html bullet1tag="#types" bullet1="Types of Property" bullet2tag="#registration" bullet2="Registration"  bullet4tag="#strategies" bullet4="8 Ways to Protect Your Assets" bullet5tag="#lessons" bullet5="Practical Lessons" %}
+{% include table-of-contents-box.html bullet1tag="#types" bullet1="Types of Property" bullet2tag="#registration" bullet2="Registration" bullet4tag="#strategies" bullet4="8 Ways to Protect Your Assets" bullet5tag="#lessons" bullet5="Practical Lessons" %}
 
 ## Types of Intellectual Property
 
@@ -39,9 +32,13 @@ Intellectual property can be divided into four main categories:
 
 Patents protect inventions and grant the patent holder the exclusive right to make, use, or sell the invention for a specified period. 
 
-There are three primary types of patents: utility, design, and plant patents. 
+There are three primary types of patents: 
 
-Utility patents protect new and useful inventions or discoveries, design patents protect ornamental designs, and plant patents protect new and distinct plant varieties.
+1. **Utility Patents**: protect new and useful inventions or discoveries
+
+2. **Design Patents**: protect ornamental designs
+
+3. **Plant Patents**: protect new and distinct plant varieties
 
 ### Trademarks
 
@@ -92,9 +89,7 @@ Keep in mind that registering a trademark can take anywhere from several months 
 
 ### Copyrights
 
-Registering a copyright is a relatively simple process. 
-
-<a href="exampleurl" target="_blank">exampletext</a>
+Registering a copyright is a relatively <a href="/business-tips/copyright-permission/" target="_blank">simple process</a>.
 
 You'll need to complete an application through the [U.S. Copyright Office's online portal](https://www.copyright.gov/registration/) and submit a copy of your work. 
 
@@ -173,7 +168,10 @@ Business Initiative is here to assist aspiring entreprenurs and small business o
 
 or
 
-[Reach out directly here](https://www.businessinitiative.org/contact/) or by sending us a message [@BisInitiative on X](https://twitter.com/BisInitiative)
+[Reach out directly here](https://www.businessinitiative.org/contact/) or by sending us a message on X:
+<br>
+<a href="https://twitter.com/intent/tweet?screen_name=BisInitiative&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-size="large" data-show-count="false">Tweet to @BisInitiative</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<br>
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
