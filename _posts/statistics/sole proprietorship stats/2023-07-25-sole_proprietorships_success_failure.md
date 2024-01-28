@@ -2,10 +2,10 @@
 title: "Sole Proprietorships - A Statistical Analysis of Success and Failure Rates"
 layout: post
 date: 2023-07-25
-update_date: 2023-09-27
+update_date: 2024-01-28
 author: jack_nicholaisen
 summary: "Learn about sole proprietorship success rates and factors that contribute to outcomes. Make informed decisions and increase your chances of success. READ ON!"
-permalink: /statistics/sole-proprietorship-success-failure-rate/
+permalink: /statistics/sole-proprietorship/success-and-failure-rate/
 tags: sole proprietors in the us, successful sole proprietorship
 ---
 
