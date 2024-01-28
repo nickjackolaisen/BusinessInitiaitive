@@ -32,6 +32,10 @@ The rise of LLCs can also be observed by looking at the percentage of new busine
 
 According to the [US Small Business Administration](https://cdn.advocacy.sba.gov/wp-content/uploads/2019/04/23142719/2019-Small-Business-Profiles-US.pdf), **LLCs accounted for roughly 69% of all new businesses formed in the United States in 2017**. This statistic highlights the growing preference for LLCs among entrepreneurs and business owners.
 
+<p>
+<b>➤ MORE: </b> <a href="/statistics/business-structures/history/" target="_blank">Check out the history and events leading up to the creation of LLCs</a>
+</p>
+
 ## Popular Industries for LLCs
 
 LLCs are a popular choice for businesses across various industries. 

@@ -2,7 +2,7 @@
 title: "The Evolution of Business Structures: Past, Present, & Future"
 layout: post
 date: 2023-08-13
-update_date: 2023-11-21
+update_date: 2024-01-28
 author: jack_nicholaisen
 summary: "Discover the history of business entities and how they've shaped entrepreneurship. Explore growth factors and the future of business. CLICK TO READ NOW!"
 permalink: /statistics/business-structures/history/
@@ -45,6 +45,10 @@ This growth continued into the 20th century, with corporations becoming the domi
 Since their inception in the late 20th century, [LLCs have experienced rapid growth in popularity](https://www.investopedia.com/ask/answers/011915/which-is-more-popular-llcs-or-corporations.asp), thanks to their flexibility, tax advantages, and limited liability protection. 
 
 Today, [LLCs are the most common business structure for new U.S. businesses](https://www.sos.state.tx.us/corp/annrep.shtml), accounting for 69.4% of new entity formations in 2021.
+
+<p>
+<b>➤ MORE: </b> <a href="/statistics/llc/the-rise-of-llcs/" target="_blank">What makes LLCs so popular?</a>
+</p>
 
 -  ### The decline of partnerships: 
 
