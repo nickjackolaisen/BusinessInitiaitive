@@ -1,15 +1,20 @@
 ---
-title: "The Rise of LLCs - A Statistical Overview"
+title: "Why are LLCs so Popular?"
 layout: post
 date: 2023-07-25
-update_date: 2023-11-20
+update_date: 2024-01-28
 author: jack_nicholaisen
-summary: "Unlock the secret behind the rise of LLCs! Explore their benefits and learn how forming an LLC can propel your business to success. Don't miss it – dive in now!"
-permalink: /statistics/the-rise-of-llcs/
-redirect_from: /stats/the-rise-of-llcs/
+summary: "Unlock the secret behind the rise of LLCs! Explore their benefits and learn how forming an LLC can propel your business to success. Don't miss this opportunity!"
+image: /images/posts-headers/rise-of-llcs-header.png
+permalink: /statistics/llc/the-rise-of-llcs/
+redirect_from: 
+    - /stats/the-rise-of-llcs/
+    - /statistics/the-rise-of-llcs/
 ---
 
 Over the past few decades, there has been a significant increase in the formation of Limited Liability Companies (LLCs) in the United States. 
+
+{% include takeaway-box.html bullet1="<b>LLC Growth</b> LLCs in the U.S. grew from 200,000 in 1993 to over 2.4 million in 2018, showing their increasing popularity." bullet2="<b>New Business Preference</b> In 2017, 69% of new U.S. businesses were LLCs, indicating a strong preference for this structure." bullet3="<b>Industry Dominance</b> Over 80% of U.S. real estate firms and many in professional services and retail are LLCs, favoring their liability and tax benefits." bullet4="<b>LLC Benefits</b> LLCs offer limited liability protection, tax flexibility, operational ease, and enhanced credibility." bullet5="<b>Entrepreneurial Advice</b> Entrepreneurs should consider LLCs for their business structure due to their foundational benefits for success." %}
 
 Many entrepreneurs and business owners are choosing this structure for their ventures due to its numerous advantages, such as flexibility, liability protection, and tax benefits.
 
