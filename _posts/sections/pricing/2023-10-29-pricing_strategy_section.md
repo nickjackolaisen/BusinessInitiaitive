@@ -2,11 +2,11 @@
 title: "The Ultimate Guide to Pricing Strategy in Businesses"
 layout: post
 date: 2023-10-29
-update_date: 2023-11-29
+update_date: 2024-01-30
 author: jack_nicholaisen
 summary: "Learn how to price your products or services with confidence. Discover value-based, psychological and dynamic strategies to boost sales and revenue."
 image: /images/posts-headers/price-strategy-header.png
-permalink: /section/pricing-strategy/
+permalink: /section/business-pricing-strategy/
 ---
 
 Pricing is one of the most crucial aspects of any business, as it directly impacts revenue, profit margins, and customer perception.
