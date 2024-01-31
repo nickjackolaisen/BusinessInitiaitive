@@ -18,10 +18,10 @@ layout: default
           <figure>
             <center>
             {% if post.thumbnail %}
-            <a href="{{ post.url | relative.url }}" class="image-link"><img src="{{ post.thumbnail | relative.url }}" alt="article thumbnail" title="Article Thumbnail" class="featured-image-thumbnail"></a>
+            <a href="{{ post.url | relative.url }}" class="image-link-thumbnail"><img src="{{ post.thumbnail | relative.url }}" alt="article thumbnail" title="Article Thumbnail"></a>
             {% else %}
             {% assign postThumbnail = "/images/business-initiative-logo-no-background.png" %}
-            <a href="{{ post.url | relative.url }}" class="image-link"><img src="{{ postThumbnail | relative.url }}" alt="Business Initiative" title="Business Initiative Logo" class="featured-post-thumbnail" style="width: 20%; height: 20%" align="middle"></a>
+            <a href="{{ post.url | relative.url }}" class="image-link-thumbnail"><img src="{{ postThumbnail | relative.url }}" alt="Business Initiative" title="Business Initiative Logo" style="width: 20%; height: 20%" align="middle"></a>
             {% endif %}
             </center>
           </figure>
