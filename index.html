@@ -8,16 +8,6 @@ layout: default
     <div class="posts">
       {% for post in paginator.posts %}
         <div class="post py3">
-          <figure>
-            <center>
-          {% if post.thumbnail %}
-            <img src="{{ post.thumbnail | relative.url }}" alt="article thumbnail" title="Article Thumbnail" class="featured-image-thumbnail">
-            {% else %}
-            {% assign postThumbnail = "/images/business-initiative-logo-no-background.png" %}
-            <img src="{{ postThumbnail | relative.url}}" alt="Business Initiative" title="Business Initiative Logo" class="featured-post-thumbnail" style="width: 20%; height: 20%" align="middle">
-            {% endif %}
-            </center>
-          </figure>
           <p class="post-meta">
             {% if site.date_format %}
               {{ post.date | date: site.date_format }}
@@ -25,6 +15,16 @@ layout: default
               {{ post.date | date: "%b %-d, %Y" }}
             {% endif %}
           </p>
+          <figure>
+            <center>
+            {% if post.thumbnail %}
+            <a href="{{ post.url | relative.url }}" class="post-link"><img src="{{ post.thumbnail | relative.url }}" alt="article thumbnail" title="Article Thumbnail" class="featured-image-thumbnail"></a>
+            {% else %}
+            {% assign postThumbnail = "/images/business-initiative-logo-no-background.png" %}
+            <a href="{{ post.url | relative.url }}" class="post-link"><img src="{{ postThumbnail | relative.url }}" alt="Business Initiative" title="Business Initiative Logo" class="featured-post-thumbnail" style="width: 20%; height: 20%" align="middle"></a>
+            {% endif %}
+            </center>
+          </figure>
             <a href="{{ post.url | relative_url }}" class="post-link"><h3 class="h1 post-title">{{ post.title }}</h3></a>
             <span class="post-summary">
               {% if post.summary %}
