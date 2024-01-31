@@ -8,21 +8,31 @@ layout: default
     <div class="posts">
       {% for post in paginator.posts %}
         <div class="post py3">
-          <p class="post-meta">
-	    {% if site.date_format %}
-	      {{ post.date | date: site.date_format }}
-	    {% else %}
-	      {{ post.date | date: "%b %-d, %Y" }}
-	    {% endif %}
-	  </p>
-          <a href="{{ post.url | relative_url }}" class="post-link"><h3 class="h1 post-title">{{ post.title }}</h3></a>
-          <span class="post-summary">
-            {% if post.summary %}
-              {{ post.summary }}
+          <figure>
+            <center>
+          {% if page.image %}
+            <img src="{{ page.image | relative.url }}" alt="article image" title="Article Image" class="featured-image-post">
             {% else %}
-              {{ post.excerpt }}
+            {% assign postImage = "/images/business-initiative-logo-no-background.png" %}
+            <img src="{{ postImage | relative.url}}" alt="Business Initiative" title="Business Initiative Logo" class="featured-image-post" style="width: 20%; height: 20%" align="middle">
             {% endif %}
-          </span>
+            </center>
+          </figure>
+          <p class="post-meta">
+            {% if site.date_format %}
+              {{ post.date | date: site.date_format }}
+            {% else %}
+              {{ post.date | date: "%b %-d, %Y" }}
+            {% endif %}
+          </p>
+            <a href="{{ post.url | relative_url }}" class="post-link"><h3 class="h1 post-title">{{ post.title }}</h3></a>
+            <span class="post-summary">
+              {% if post.summary %}
+                {{ post.summary }}
+              {% else %}
+                {{ post.excerpt }}
+              {% endif %}
+            </span>
         </div>
       {% endfor %}
     </div>
