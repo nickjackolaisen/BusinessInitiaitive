@@ -4,6 +4,7 @@ layout: post
 date: 2024-01-31
 author: jack_nicholaisen
 summary: "Learn how to use real-time pricing optimization in your company to increase your sales and boost profits."
+thumbnail: /images/posts-headers/dynamic-pricing-header.png
 image: /images/posts-headers/dynamic-pricing-header.png
 permalink: /pricing-strategy/dynamic-pricing/
 ---

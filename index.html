@@ -10,11 +10,11 @@ layout: default
         <div class="post py3">
           <figure>
             <center>
-          {% if page.image %}
-            <img src="{{ page.image | relative.url }}" alt="article image" title="Article Image" class="featured-image-post">
+          {% if post.thumbnail %}
+            <img src="{{ post.thumbnail | relative.url }}" alt="article thumbnail" title="Article Thumbnail" class="featured-image-thumbnail">
             {% else %}
-            {% assign postImage = "/images/business-initiative-logo-no-background.png" %}
-            <img src="{{ postImage | relative.url}}" alt="Business Initiative" title="Business Initiative Logo" class="featured-image-post" style="width: 20%; height: 20%" align="middle">
+            {% assign postThumbnail = "/images/business-initiative-logo-no-background.png" %}
+            <img src="{{ postThumbnail | relative.url}}" alt="Business Initiative" title="Business Initiative Logo" class="featured-image-post" style="width: 20%; height: 20%" align="middle">
             {% endif %}
             </center>
           </figure>
