@@ -9,7 +9,7 @@ permalink: /statistics/small-businesses/number-of-employees/
 redirect_from: 
     - /stats/number-of-employees-in-a-small-business/
     - /statistics/number-of-employees-in-a-small-business/
-tags: how many employees does a small business have, how many employees should a small business have, 
+tags: how many employees does a small business have, how many employees should a small business have, small business number of employees
 ---
 
 The number of employees at small businesses can vary greatly depending on the industry in which they operate. 
