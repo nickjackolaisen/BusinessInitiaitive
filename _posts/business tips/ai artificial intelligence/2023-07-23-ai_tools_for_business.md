@@ -5,6 +5,7 @@ date: 2023-07-23
 update_date: 2023-09-28
 author: jack_nicholaisen
 summary: "Unlock your business potential with 95+ AI tools to streamline operations, boost revenue, and save time. Harness technology for success today!"
+thumbnail: /images/posts-headers/ai-tools.png
 image: /images/posts-headers/ai-tools.png
 permalink: /business-tips/ai-tools-for-business/
 tags: what are the best ai tools, what ai tools are available, what are the best free ai tools, free artificial intelligence tools, what are artificial intelligence tools, 

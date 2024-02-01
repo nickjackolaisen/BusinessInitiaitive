@@ -4,6 +4,7 @@ layout: post
 date: 2023-09-27
 author: jack_nicholaisen
 summary: "Boost your business with these practical ideas for integrating health and wellness into your workplace. Enhance productivity and employee satisfaction."
+thumbnail: /images/posts-headers/health-wellness-ideas-header.png
 image: /images/posts-headers/health-wellness-ideas-header.png
 permalink: /business-tips/health-wellness-in-business/
 tags: community health and wellness, business health and wellness, professional health and wellness, what is health and wellness, mental health and wellness, how to improve health and wellness, employee health and wellness, employee health and wellness tips, employee health and wellness program ideas, employee health and wellness incentive programs, employee health and wellness programs best practices,

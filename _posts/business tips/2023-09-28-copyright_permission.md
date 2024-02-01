@@ -5,6 +5,7 @@ date: 2023-09-28
 update_date: 2024-01-19
 author: jack_nicholaisen
 summary: "Learn how to legally use copyrighted content by obtaining permission from the owner. Follow this guide to get copyright authorization in a digital age."
+thumbnail: /images/posts-headers/copyright-permission-header.png
 image: /images/posts-headers/copyright-permission-header.png
 permalink: /business-tips/copyright-permission/
 tags: how to get copyright permission for a song, how to obtain copyright permission, how to ask for copyright permission, youtube and copyright approval, how to get permission from copyright owner

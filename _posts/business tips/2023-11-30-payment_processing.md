@@ -5,6 +5,7 @@ date: 2023-11-30
 update_date: 2024-01-19
 author: jack_nicholaisen
 summary: "Learn how to streamline payment processes, automate transactions, and set up subscriptions with ease. A must-read for businesses and entrepreneurs."
+thumbnail: /images/posts-headers/payment-processing-header.png
 image: /images/posts-headers/payment-processing-header.png
 permalink: /business-tips/payment-processing/
 tags: payment process, automated payments, subscription services

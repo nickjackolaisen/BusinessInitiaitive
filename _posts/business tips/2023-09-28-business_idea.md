@@ -5,6 +5,7 @@ date: 2023-09-28
 update_date: 2023-11-29
 author: jack_nicholaisen
 summary: "Have the entrepreneurial spirit but struggling to come up the perfect business idea? Check out our 4 step guide for tips on generating your next big idea!"
+thumbnail: /images/posts-headers/business-idea-header.png
 image: /images/posts-headers/business-idea-header.png
 permalink: /business-tips/business-idea/
 tags:

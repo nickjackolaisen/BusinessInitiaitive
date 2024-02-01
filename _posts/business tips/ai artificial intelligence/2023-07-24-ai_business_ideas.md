@@ -5,6 +5,7 @@ date: 2023-07-24
 update_date: 2023-11-19
 author: jack_nicholaisen
 summary: "Unlock AI secrets to revolutionize your business! A must-read for entrepreneurs seeking success. Don't miss game-changing strategies – act now!"
+thumbnail: /images/posts-headers/ai-business.png
 image: /images/posts-headers/ai-business.png
 permalink: /business-tips/ai-business-ideas/
 ---

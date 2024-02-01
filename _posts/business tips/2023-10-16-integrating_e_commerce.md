@@ -5,6 +5,7 @@ date: 2023-10-16
 update_date: 2024-02-01
 author: jack_nicholaisen
 summary: "Boost your business with e-commerce! Discover 15+ practical ways to enhance sales & customer engagement online. Read now!"
+thumbnail: /images/posts-headers/integrating-e-commerce-header.png
 image: /images/posts-headers/integrating-e-commerce-header.png
 permalink: /business-tips/integrating-e-commerce/
 tags: e-comm, e commerce, using e-commerce in business, how to apply e-commerce

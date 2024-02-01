@@ -5,6 +5,7 @@ date: 2023-07-10
 update_date: 2023-12-06
 author: jack_nicholaisen
 summary: "Safeguard your assets with this guide. Explore strategies for business success in turbulent times. Secure your company's financial future."
+thumbnail: /images/posts-headers/small-business-asset-protection.png
 image: /images/posts-headers/small-business-asset-protection.png
 permalink: /business-tips/asset-protection/
 ---

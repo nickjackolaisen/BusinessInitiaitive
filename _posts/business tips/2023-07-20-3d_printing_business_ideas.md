@@ -5,6 +5,7 @@ date: 2023-07-20
 update_date: 2023-12-06
 author: jack_nicholaisen
 summary: "Explore 3D printing potential & unlock innovative business opportunities! Discover top ideas for entrepreneurs in this growing industry."
+thumbnail: /images/posts-headers/3d-printing-business-ideas.png
 image: /images/posts-headers/3d-printing-business-ideas.png
 permalink: /business-tips/3d-printing-business-ideas/
 ---

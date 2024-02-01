@@ -5,6 +5,7 @@ date: 2023-09-01
 update_date: 2023-09-05
 author: jack_nicholaisen
 summary: "Blockchain is a secure, decentralized ledger tech that records & verifies transactions. It's a transparent, tamper-proof shared database for real-time updates."
+thumbnail: /images/posts-headers/blockchain-guide-header.png
 image: /images/posts-headers/blockchain-guide-header.png
 permalink: /business-tips/blockchain/implementaiton-guide/
 ---
