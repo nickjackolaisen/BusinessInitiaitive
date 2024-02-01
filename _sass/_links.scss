@@ -26,13 +26,11 @@ a:active {
 
 a img
 {
+  background-image: none;
   border-bottom: 0 none;
   text-decoration: none;
 }
-a.image-link-thumbnail
-{
-  text-decoration: none;
-}
+
 
 // Correct issues with buttons
 button,
