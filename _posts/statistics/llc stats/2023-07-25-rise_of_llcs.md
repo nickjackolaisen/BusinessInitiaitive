@@ -5,6 +5,7 @@ date: 2023-07-25
 update_date: 2024-01-28
 author: jack_nicholaisen
 summary: "Unlock the secret behind the rise of LLCs! Explore their benefits and learn how forming an LLC can propel your business to success. Don't miss this opportunity!"
+thumbnail: /images/posts-headers/rise-of-llcs-header.png
 image: /images/posts-headers/rise-of-llcs-header.png
 permalink: /statistics/llc/the-rise-of-llcs/
 redirect_from: 

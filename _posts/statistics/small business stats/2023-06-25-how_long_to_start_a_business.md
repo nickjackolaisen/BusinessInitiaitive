@@ -5,6 +5,7 @@ date: 2023-06-25
 update_date: 2023-11-19
 author: jack_nicholaisen
 summary: "Starting a small business is a dream for many, but its duration depends on factors like type, location, experience, and resources."
+thumbnail: /images/posts-headers/how-long-start-business-header.png
 image: /images/posts-headers/how-long-start-business-header.png
 permalink: /statistics/how-long-does-it-take-to-start-a-business/
 ---

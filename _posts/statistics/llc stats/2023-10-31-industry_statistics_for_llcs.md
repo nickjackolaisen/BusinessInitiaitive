@@ -4,6 +4,7 @@ layout: post
 date: 2023-10-31
 author: jack_nicholaisen
 summary: "When it comes to LLCs, industry matters. Learn about the top sectors for LLC success and how to avoid common mistakes." 
+thumbnail: /images/posts-headers/llc-industry-statistics-header.png
 image: /images/posts-headers/llc-industry-statistics-header.png
 permalink: /statistics/llc/industries/
 ---

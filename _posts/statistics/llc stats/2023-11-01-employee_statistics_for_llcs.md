@@ -5,6 +5,7 @@ date: 2023-11-01
 update_date: 2023-11-20
 author: jack_nicholaisen
 summary: "Discover key insights into LLC employee statistics, revealing trends, growth patterns & workforce dynamics to help your business thrive." 
+thumbnail: /images/posts-headers/llc-employee-statistics-header.png
 image: /images/posts-headers/llc-employee-statistics-header.png
 permalink: /statistics/llc/employees/
 redirect_from: /stats/llc/employees/

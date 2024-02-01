@@ -5,6 +5,7 @@ date: 2023-10-15
 update_date: 2023-10-16
 author: jack_nicholaisen
 summary: "Discover the power of price elasticity of demand and how it can impact your business decisions. Read on for insights and practical tips." 
+thumbnail: /images/posts-headers/price-elasticity-of-demand-header.png
 image: /images/posts-headers/price-elasticity-of-demand-header.png
 permalink: /tools/calculator/price-elasticity-of-demand/
 ---

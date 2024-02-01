@@ -4,6 +4,7 @@ layout: post
 date: 2024-01-15
 author: jack_nicholaisen
 summary: "Learn everything you need to know about leading your business in the most effecting way. These are the most popular types of learship in business!" 
+thumbnail: /images/posts-headers/business-leadership-styles-stats-header.png
 image: /images/posts-headers/business-leadership-styles-stats-header.png
 permalink: /statistics/leadership-styles/
 ---

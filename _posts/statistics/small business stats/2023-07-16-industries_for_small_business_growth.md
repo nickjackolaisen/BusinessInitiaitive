@@ -5,6 +5,7 @@ date: 2023-07-16
 update_date: 2024-01-16
 author: jack_nicholaisen
 summary: "Stay ahead by discovering the top 16 small business industries for growth in 2024! READ NOW and accelerate your success!"
+thumbnail: /images/posts-headers/top-industries-small-business-growth-header.png
 image: /images/posts-headers/top-industries-small-business-growth-header.png
 permalink: /statistics/small-businesses/top-industries-for-growth/
 redirect_from: 

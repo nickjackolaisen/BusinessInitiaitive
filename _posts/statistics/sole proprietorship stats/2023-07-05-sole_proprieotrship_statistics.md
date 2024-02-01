@@ -5,6 +5,7 @@ date: 2023-07-05
 update_date: 2024-01-22
 author: jack_nicholaisen
 summary: "Unlock your business potential with our data-driven insights, expert consulting, and tailored pricing. Elevate success today!" 
+thumbnail: /images/posts-headers/sole-proprietorship-facts-stats-faqs-header.png
 image: /images/posts-headers/sole-proprietorship-facts-stats-faqs-header.png
 permalink: /statistics/sole-proprietorship-statistics/
 redirect_from: /stats/sole-proprietorship-statistics/

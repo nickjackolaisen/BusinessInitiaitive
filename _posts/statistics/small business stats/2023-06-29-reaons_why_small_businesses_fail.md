@@ -2,9 +2,9 @@
 title: "What Percentage of Small Businesses Fail Within the First Year?"
 layout: post
 date: 2023-06-29
-update_date: 2023-11-19
+update_date: 2024-02-01
 author: jack_nicholaisen
-summary: "Exploring small business failure rates in the first year and how to increase your chances of success."
+summary: "20% of small businesses fail in their first year. Read this guide today and learn key strategies to avoid common pitfalls and thrive!"
 permalink: /statistics/small-business-failure-rate/
 ---
 
