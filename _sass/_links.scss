@@ -32,6 +32,13 @@ img a
   text-decoration: none;
 }
 
+a.image-link-thumbnail
+{
+  color: none;
+  background-image: none;
+  border-bottom: 0;
+  text-decoration: none;
+}
 
 // Correct issues with buttons
 button,
