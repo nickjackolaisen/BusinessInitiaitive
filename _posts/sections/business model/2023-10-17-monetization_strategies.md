@@ -267,7 +267,7 @@ Experimenting with different pricing models can help you find the optimal price 
 
 For example, you could try offering discounts or bundle deals to attract more customers. 
 
-You could also consider implementing dynamic pricing, which involves adjusting prices based on demand or other factors.
+You could also consider <a href="/pricing-strategy/dynamic-pricing/" target="_blank"> implementing dynamic pricing</a>, which involves adjusting prices based on demand or other factors.
 
 ### 🔑 Optimize Your Website or App for Conversions
 
@@ -419,7 +419,7 @@ The company has also partnered with several major brands, including Nike and Goo
 
 Airbnb is an online marketplace that allows people to rent out their homes or apartments to travelers. 
 
-The company uses dynamic pricing to adjust its prices based on demand, resulting in increased revenue for hosts. 
+The company uses <a href="/pricing-strategy/dynamic-pricing/" target="_blank">dynamic pricing</a> to adjust its prices based on demand, resulting in increased revenue for hosts. 
 
 As of 2021, [Airbnb has over 4 million hosts](https://news.airbnb.com/company-facts/) who have hosted over 900 million guests since the company's founding in 2008. 
 
