@@ -4,6 +4,7 @@ layout: post
 date: 2023-11-12
 author: jack_nicholaisen
 summary: "Learn how to calculate the Internal Rate of Return (IRR) and make smarter investment decisions."
+thumbnail: /images/posts-headers/time-value-of-money-irr-header.png
 image: /images/posts-headers/time-value-of-money-irr-header.png
 permalink: /time-value-of-money/internal-rate-of-return/
 ---

@@ -5,6 +5,7 @@ date: 2023-11-15
 update_date: 2023-11-27
 author: jack_nicholaisen
 summary: "Learn how to calculate the future value of your investments with our comprehensive guide. Maximize your returns and secure your financial future today!"
+thumbnail: /images/posts-headers/time-value-of-money-fv-header.png
 image: /images/posts-headers/time-value-of-money-fv-header.png
 permalink: /time-value-of-money/future-value/
 tags: what does future value mean,

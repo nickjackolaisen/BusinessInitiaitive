@@ -5,6 +5,7 @@ date: 2023-08-09
 update_date: 2024-01-18
 author: jack_nicholaisen
 summary: "Unlock your LLC's financial potential with our guide on bookkeeping, tax planning, and profit maximization. Become a financial whiz!"
+thumbnail: /images/posts-headers/llc-financial-management-header.png
 image: /images/posts-headers/llc-financial-management-header.png
 permalink: /llc/financial-management/
 ---

@@ -5,6 +5,7 @@ date: 2023-08-05
 update_date: 2023-11-21
 author: jack_nicholaisen
 summary: "Explore B Corps' growth, impact, and success factors. Uncover their potential advantages for entrepreneurs and business owners!"
+thumbnail: /images/posts-headers/b-corp-statistics-header.png
 image: /images/posts-headers/b-corp-statistics-header.png
 permalink: /statistics/b-corp/overview/
 ---

@@ -5,6 +5,7 @@ date: 2023-11-03
 update_date: 2023-11-20
 author: jack_nicholaisen
 summary: "Understand the worth of your investments with our guide to present value, future value, net present value, and internal rate of return."
+thumbnail: /images/posts-headers/time-value-of-money-header.png
 image: /images/posts-headers/time-value-of-money-header.png
 permalink: /section/time-value-of-money/
 redirect_from: /business-tips/time-value-of-money/

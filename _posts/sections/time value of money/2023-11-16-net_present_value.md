@@ -4,6 +4,7 @@ layout: post
 date: 2023-11-15
 author: jack_nicholaisen
 summary: "Discover how to calculate an investment's worth using Net Present Value (NPV). Make informed decisions and maximize profits today!"
+thumbnail: /images/posts-headers/time-value-of-money-npv-header.png
 image: /images/posts-headers/time-value-of-money-npv-header.png
 permalink: /time-value-of-money/net-present-value/
 ---

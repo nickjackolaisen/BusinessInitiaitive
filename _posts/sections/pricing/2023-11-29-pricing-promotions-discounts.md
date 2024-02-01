@@ -4,6 +4,7 @@ layout: post
 date: 2023-11-29
 author: jack_nicholaisen
 summary: "Maximize your sales and take your business to the next level by learning how and when to implementing pricing promotions and discounts."
+thumbnail: /images/posts-headers/price-strategy-header.png
 image: /images/posts-headers/price-strategy-header.png
 permalink: /pricing-strategy/promotions-and-discounts/
 ---

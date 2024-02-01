@@ -5,6 +5,7 @@ date: 2023-08-01
 update_date: 2023-09-13
 author: jack_nicholaisen
 summary: "Entrepreneur? Grow your business through networking! Build a strong network for insights, resources, and growth opportunities."
+thumbnail: /images/posts-headers/corporate-networking-strategies.png
 image: /images/posts-headers/corporate-networking-strategies.png
 permalink: /corporation/networking-strategies/
 ---

@@ -5,6 +5,7 @@ date: 2023-08-29
 uptate_date: 2023-09-11
 author: jack_nicholaisen
 summary: "Unlock the secrets to LLC formation! Our guide answers top questions, simplifies processes, & sets you on the path to success. Discover more today!"
+thumbnail: /images/posts-headers/faq-llc-general-header.png
 image: /images/posts-headers/faq-llc-general-header.png
 permalink: /faqs/llc/general-questions/
 ---

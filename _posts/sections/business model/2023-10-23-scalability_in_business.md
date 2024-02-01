@@ -5,6 +5,7 @@ date: 2023-10-23
 update_date: 2023-11-20
 author: jack_nicholaisen
 summary: "Unlock the secret to infinite growth with our guide to achieving scalability in your business. Read now for expert insights and strategies."
+thumbnail: /images/posts-headers/business-model/scalability-header.png
 image: /images/posts-headers/business-model/scalability-header.png
 permalink: /business-model/scalability/
 ---

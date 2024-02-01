@@ -5,6 +5,7 @@ date: 2023-11-15
 update_date: 2023-11-27
 author: jack_nicholaisen
 summary: "Discover the power of Present Value! Learn how to calculate the worth of future money today in our comprehensive guide. #finance #investing"
+thumbnail: /images/posts-headers/time-value-of-money-pv-header.png
 image: /images/posts-headers/time-value-of-money-pv-header.png
 permalink: /time-value-of-money/present-value/
 tags: present day value calculation, present day value calculator

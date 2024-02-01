@@ -5,6 +5,7 @@ date: 2023-08-09
 update_date: 2024-01-28
 author: jack_nicholaisen
 summary: "Discover secrets to protect your intellectual property in an LLC! Learn types, registration, enforcement, and tips for success. Don't let ideas slip away!"
+thumbnail: /images/posts-headers/ip-protection-header.png
 image: /images/posts-headers/ip-protection-header.png
 permalink: /llc/intellectual-property/
 ---

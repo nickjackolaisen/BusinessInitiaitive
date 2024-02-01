@@ -5,6 +5,7 @@ date: 2023-08-15
 update_date: 2023-09-28
 author: jack_nicholaisen
 summary: "Discover 15 top LLC benefits for small businesses: limited liability, pass-through taxation, flexibility & more. Unlock success with this comprehensive guide!"
+thumbnail: /images/posts-headers/small-business-benefits-header.png
 image: /images/posts-headers/small-business-benefits-header.png
 permalink: /llc/benefits-for-small-businesses/
 ---

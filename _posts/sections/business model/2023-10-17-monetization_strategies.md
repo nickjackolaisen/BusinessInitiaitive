@@ -5,6 +5,7 @@ date: 2023-10-17
 update_date: 2023-11-20
 author: jack_nicholaisen
 summary: "Maximizing revenue streams is crucial for any business. Learn how to choose the best monetization strategies with our comprehensive guide."
+thumbnail: /images/posts-headers/business-model/monetization-strategies-header.png
 image: /images/posts-headers/business-model/monetization-strategies-header.png
 permalink: /business-model/monetization/
 ---

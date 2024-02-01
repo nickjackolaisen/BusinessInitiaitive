@@ -4,6 +4,7 @@ layout: post
 date: 2023-09-12
 author: jack_nicholaisen
 summary: "Discover key insights into LLC dissolution and winding up procedures with our categorized Q&A guide. Get answers to all your crucial questions in one place!"
+thumbnail: /images/posts-headers/faq-llc-dissolution-header.png
 image: /images/posts-headers/faq-llc-dissolution-header.png
 permalink: /faqs/llc/dissolution-and-winding-up/
 ---

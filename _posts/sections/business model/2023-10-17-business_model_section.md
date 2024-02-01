@@ -1,10 +1,11 @@
 ---
-title: "What is a Business Model? | The Initiative Guide to Creating a Superior Business Model"
+title: "What is a Business Model? | The Initiative Guide to Creating a Winning Business Model"
 layout: post
 date: 2023-10-17
-update_date: 2023-11-20
+update_date: 2024-02-01
 author: jack_nicholaisen
 summary: "Are you struggling to find the perfect business model? Look no further! Our guide has everything you need to know to make an informed decision."
+thumbnail: /images/posts-headers/business-model/business-model-section-header.png
 image: /images/posts-headers/business-model/business-model-section-header.png
 permalink: /section/business-model/
 ---
