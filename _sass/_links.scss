@@ -24,6 +24,15 @@ a:active {
   text-shadow: white 1px 0px 0px, white -1px 0px 0px;
 }
 
+a img
+{
+  border-bottom: 0 none;
+}
+.image-link-thumbnail
+{
+  text-decoration: none;
+}
+
 // Correct issues with buttons
 button,
 .button {
@@ -50,14 +59,5 @@ button,
     color: $link-hover-color;
     text-shadow: none;
     background-image: none;
-}
-
-a img
-{
-  border: 0 none;
-}
-.image-link-thumbnail
-{
-  text-decoration: none;
 }
 
