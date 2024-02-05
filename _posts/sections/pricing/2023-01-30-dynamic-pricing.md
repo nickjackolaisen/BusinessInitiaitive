@@ -353,7 +353,7 @@ Additionally, larger enterprises with unique pricing challenges may be better of
 <p>Dynamic pricing is a strategy where prices are adjusted in real-time based on market demand, competition, and other factors.</p>
 <br>
 <details>
-<summary><b>Learn more…</summary>
+<summary><b>Learn more…</b></summary>
 <br>
 <p>Dynamic pricing involves continuously changing prices based on algorithms that consider various factors like customer demand, time of day, weather, competitor prices, and inventory levels.</p>
 <p>It's commonly used in industries like airlines, hospitality, and e-commerce.</p>
@@ -364,7 +364,7 @@ Additionally, larger enterprises with unique pricing challenges may be better of
 <p>Dynamic pricing helps businesses maximize profits by optimizing prices in real-time according to market conditions.</p>
 <br>
 <details>
-<summary><b>Learn more…</summary>
+<summary><b>Learn more…</b></summary>
 <br>
 <p>By using dynamic pricing, businesses can adjust their prices to match demand, ensuring they are not undercharging during high demand or overcharging during low demand, thereby maximizing revenue.</p>   
 <p>For instance, hotels often increase room rates during peak tourist seasons and lower them during off-peak times to maintain occupancy rates.</p>
@@ -374,7 +374,7 @@ Additionally, larger enterprises with unique pricing challenges may be better of
 <p>Dynamic pricing is generally considered fair as it reflects real-time market conditions, though it may sometimes lead to customer dissatisfaction.</p>
 <br>
 <details>
-<summary><b>Learn more…</summary>
+<summary><b>Learn more…</b></summary>
 <br>
 <p>While dynamic pricing is based on supply and demand principles and is legally acceptable, it can sometimes lead to perceptions of unfairness among customers, especially if prices change rapidly or drastically.</p>
 <p>Businesses must balance profitability with customer satisfaction and avoid practices that may seem discriminatory or exploitative.</p>
@@ -384,7 +384,7 @@ Additionally, larger enterprises with unique pricing challenges may be better of
 <p>Industries like airlines, hotels, e-commerce, and ride-sharing services commonly use dynamic pricing.</p>
 <br>
 <details>
-<summary><b>Learn more…</summary>
+<summary><b>Learn more…</b></summary>
 <br>
 <p>Dynamic pricing is prevalent in industries with high variability in demand.</p>
 <p>Airlines adjust ticket prices based on factors like demand, time of booking, and seat availability.</p>
@@ -396,7 +396,7 @@ Additionally, larger enterprises with unique pricing challenges may be better of
 <p>Dynamic pricing is implemented using data analysis, algorithms, and software tools to adjust prices in real-time.</p>
 <br>
 <details>
-<summary><b>Learn more…</summary>
+<summary><b>Learn more…</b></summary>
 <br>
 <p>Implementing dynamic pricing requires collecting data on market conditions, customer behavior, and competitor pricing, developing pricing algorithms, and using software tools for automation.</p>
 <p>These tools adjust prices in real-time, based on predefined rules and market data.</p>
@@ -407,7 +407,7 @@ Additionally, larger enterprises with unique pricing challenges may be better of
 <p>Yes, dynamic pricing can lead to higher sales by attracting customers with optimized prices.</p>
 <br>
 <details>
-<summary><b>Learn more…</summary>
+<summary><b>Learn more…</b></summary>
 <br>
 <p>By adjusting prices according to market demand, businesses can attract more customers during low-demand periods with lower prices and capitalize on high-demand periods with higher prices.</p>
 <p>This flexibility in pricing helps in maintaining a steady flow of sales and can increase overall revenue.</p>
@@ -417,7 +417,7 @@ Additionally, larger enterprises with unique pricing challenges may be better of
 <p>Consumer reactions to dynamic pricing vary, with some appreciating fair market rates and others feeling frustrated by fluctuating prices.</p>
 <br>
 <details>
-<summary><b>Learn more…</summary>
+<summary><b>Learn more…</b></summary>
 <br>
 <p>Consumer reaction to dynamic pricing is mixed.</p>   
 <p>Some consumers appreciate paying prices that reflect current market conditions, while others may feel frustrated or exploited, especially if they perceive the pricing changes as too abrupt or without clear justification.</p>
@@ -428,7 +428,7 @@ Additionally, larger enterprises with unique pricing challenges may be better of
 <p>Yes, many dynamic pricing models use artificial intelligence (AI) and machine learning for price optimization.</p>
 <br>
 <details>
-<summary><b>Learn more…</summary>
+<summary><b>Learn more…</b></summary>
 <br>
 <p>AI and machine learning algorithms in dynamic pricing analyze large sets of data to predict demand and optimize pricing.</p>
 <p>These algorithms can learn from market trends, customer behaviors, and past pricing outcomes to make more accurate pricing decisions in real-time.</p>
@@ -438,7 +438,7 @@ Additionally, larger enterprises with unique pricing challenges may be better of
 <p>Ethical considerations include avoiding discriminatory pricing and maintaining transparency with customers.</p>
 <br>
 <details>
-<summary><b>Learn more…</summary>
+<summary><b>Learn more…</b></summary>
 <br>
 <p>Businesses must ensure their dynamic pricing strategies do not discriminate against certain customer groups or exploit consumers during emergencies or shortages.</p>
 <p>Maintaining transparency about how prices are determined and providing customers with value for their money are key ethical considerations.</p>
@@ -449,7 +449,7 @@ Additionally, larger enterprises with unique pricing challenges may be better of
 <p>Unlike traditional fixed pricing, dynamic pricing continuously adjusts prices based on real-time market data and demand.</p>
 <br>
 <details>
-<summary><b>Learn more…</summary>
+<summary><b>Learn more…</b></summary>
 <br>
 <p>Traditional pricing strategies often involve set prices based on costs and a fixed profit margin, whereas dynamic pricing is fluid, changing in response to market conditions like demand fluctuations, competitor actions, and external events.</p>
 <p>This approach allows for more flexibility and responsiveness in pricing decisions.</p>
