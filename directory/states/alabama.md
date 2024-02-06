@@ -5,10 +5,13 @@ date: 2023-11-26
 update_date: 2024-02-06
 author: jack_nicholaisen
 summary: "Discover the top business startup services in Alabama! Your ultimate guide to launching a successful venture."  
-image: /images/posts-headers/state-business-directory/alabama-bd-header.png
 permalink: /directory/alabama/
 tags: business directory, start up services, business services, business lawyers, registered agents,
 ---
+
+<center>
+<img alt="alabama state business directory" src="/images/directory-images/state-headers/alabama-bd-header.png" title="Alabama Business Directory" style="width: 72%; height: 72%">
+</center>
 
 ### Alabama Business Startup Services Directory
 
