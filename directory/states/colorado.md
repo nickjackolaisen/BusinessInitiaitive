@@ -2,12 +2,16 @@
 layout: page
 title: "Colorado Business Directory"
 date: 2023-12-04
-update_date: 
+update_date: 2024-02-06
 author: jack_nicholaisen
 summary: "Discover the top business startup services in Colorado! Your ultimate guide to launching a successful venture."  
 permalink: /directory/colorado/
 tags: business directory, start up services, business services, business lawyers, registered agents,
 ---
+
+<center>
+<img alt="colorado state business directory" src="/images/directory-images/state-headers/colorado-bd-header.png" title="Colorado Business Directory" style="width: 72%; height: 72%">
+</center>
 
 ### Colorado Business Startup Services Directory
 
