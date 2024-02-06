@@ -2,6 +2,7 @@
 title: "Pricing Promotions and Discounts - Strategies, Benefits, Pitfalls, and Important Metrics"
 layout: post
 date: 2023-11-29
+update_date: 2024-02-06
 author: jack_nicholaisen
 summary: "Maximize your sales and take your business to the next level by learning how and when to implementing pricing promotions and discounts."
 thumbnail: /images/posts-headers/price-strategy-header.png
@@ -11,7 +12,7 @@ permalink: /pricing-strategy/promotions-and-discounts/
 
 Welcome to the Initaitve guide on Pricing Promos, Discounts, their Strategies, Benefits, Pitfalls and Metrics to Consider. 
 
-Whether you're a seasoned business owner or just starting out, <a href="/section/pricing-strategy/" target="_blank">understanding how to price your products or services</a> is crucial to your success. 
+Whether you're a seasoned business owner or just starting out, <a href="/section/business-pricing-strategy/" target="_blank">understanding how to price your products or services</a> is crucial to your success. 
 
 {% include takeaway-box.html bullet1="Pricing promotions and discounts can be powerful tools for driving sales growth for businesses of all sizes." bullet2="To create successful campaigns, businesses must understand their target audience and tailor their promotions accordingly." bullet3="The effectiveness of pricing promotions and discounts should be measured using metrics such as customer acquisition cost (CAC), customer lifetime value (CLV), and return on investment (ROI)." bullet4="When implementing pricing promotions and discounts, it's important to avoid common pitfalls such as devaluing your product or service and cannibalizing sales." bullet5="By leveraging effective pricing promotions and discounts, businesses can attract new customers, retain existing ones, increase revenue, and ultimately drive growth." %}
 
