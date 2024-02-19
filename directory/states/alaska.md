@@ -2,12 +2,16 @@
 layout: page
 title: "Alaska Business Directory"
 date: 2023-12-04
-update_date: 
+update_date: 2024-02-19
 author: jack_nicholaisen
 summary: "Discover the top business startup services in Alaska! Your ultimate guide to launching a successful venture."  
 permalink: /directory/alaska/
 tags: business directory, start up services, business services, business lawyers, registered agents,
 ---
+
+<center>
+<img alt="alaska state business directory" src="/images/directory-images/state-headers/alaska-bd-header.png" title="Alaska Business Directory" style="width: 72%; height: 72%">
+</center>
 
 ### Alaska Business Startup Services Directory
 
