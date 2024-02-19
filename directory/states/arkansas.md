@@ -2,12 +2,16 @@
 layout: page
 title: "Arkansas Business Directory"
 date: 2023-12-06
-update_date: 
+update_date: 2024-02-19
 author: jack_nicholaisen
 summary: "Discover the top business startup services in Arkansas! Your ultimate guide to launching a successful venture."  
 permalink: /directory/arkansas/
 tags: business directory, start up services, business services, business lawyers, registered agents,
 ---
+
+<center>
+<img alt="arkansas state business directory" src="/images/directory-images/state-headers/arkansas-bd-header.png" title="Arkansas Business Directory" style="width: 72%; height: 72%">
+</center>
 
 ### Arkansas Business Startup Services Directory
 
