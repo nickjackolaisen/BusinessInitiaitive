@@ -2,11 +2,16 @@
 layout: page
 title: "Delaware Business Directory"
 date: 2023-11-29
+update_date: 2024-02-19
 author: jack_nicholaisen
 summary: "Discover the top business startup services in Delaware! Your ultimate guide to launching a successful venture."  
 permalink: /directory/delaware/
 tags: business directory, start up services, business services, business lawyers, registered agents,
 ---
+
+<center>
+<img alt="delaware state business directory" src="/images/directory-images/state-headers/delaware-bd-header.png" title="Delaware Business Directory" style="width: 72%; height: 72%">
+</center>
 
 ### Delaware Business Startup Services Directory
 
