@@ -65,85 +65,11 @@ For instance, a report by the [Economic Policy Institute](https://www.epi.org/pu
 Secondly, understanding how CEO compensation scales with company size can inform stakeholders, including investors, employees, and policymakers, about the alignment between executive pay and company performance. 
 
 Lastly, this analysis can shed light on the broader economic implications of income inequality and the distribution of wealth within the corporate sector.
+<a id="trends"> 
 
 In conclusion, the analysis of CEO salaries by company size is a multifaceted issue that encompasses various economic, social, and ethical considerations. 
 
-By delving into this topic, we can gain a deeper understanding of the dynamics of executive compensation and its implications for the broader business landscape.
-
-## Research Methodology
-
-<center>
-<img alt="research methodology" src="/images/content/road-to-success.png" title="How we did our research" style="width: 63%; height: 63%">
-</center>
-
-### Criteria for Categorizing Company Size:
-
-Company size is a critical factor in determining CEO compensation. 
-
-Companies can be categorized based on several criteria, each providing a different perspective on the size and scale of the organization:
-
-**1. Revenue:** 
-
-Companies are often categorized into small, medium, and large based on their annual revenue. 
-
-For example, small companies might have revenues of less than $50 million, medium-sized companies between $50 million and $1 billion, and large companies more than $1 billion.
-
-**2. Market Capitalization:** 
-
-This is the total market value of a company's outstanding shares. 
-
-It is a commonly used measure to classify companies as small-cap (market value under $2 billion), mid-cap ($2 billion to $10 billion), and large-cap (over $10 billion).
-
-**3. Number of Employees:** 
-
-The workforce size is another way to categorize companies. 
-
-Small companies may have fewer than 500 employees, medium-sized companies between 500 and 5,000, and large companies more than 5,000.
-
-### Data Sources and Collection Methods:
-
-To analyze CEO compensation by company size, data can be collected from various sources:
-
-**1. Public Filings:** 
-
-For publicly traded companies, CEO compensation data is typically available in annual reports and proxy statements filed with the Securities and Exchange Commission (SEC).
-
-**2. Surveys and Reports:** 
-
-Various organizations and consulting firms conduct surveys and publish reports on executive compensation. 
-
-Examples include the Equilar CEO Compensation Study, the Mercer Global Compensation Report, and the Willis Towers Watson Executive Compensation Survey.
-
-**3. Databases:** 
-
-Online databases such as Bloomberg, Morningstar, and S&P Capital IQ provide comprehensive financial data, including CEO compensation and company size metrics.
-
-### Statistical Techniques Used for Analysis:
-
-To analyze the relationship between CEO compensation and company size, several statistical techniques can be employed:
-
-**1. Descriptive Statistics:** 
-
-Calculate mean, median, and range of CEO compensation for each category of company size to understand the distribution and central tendency.
-
-**2. Regression Analysis:** 
-
-Use linear regression to examine the relationship between company size (independent variable) and CEO compensation (dependent variable). 
-
-This can help identify trends and predict compensation based on company size.
-
-**3. Comparative Analysis:** 
-
-Compare CEO compensation across different size categories to identify disparities and trends. 
-
-This can be done using t-tests or ANOVA (Analysis of Variance) if comparing more than two groups.
-
-**4. Correlation Analysis:** 
-<a id="trends"> 
-
-Calculate the correlation coefficient to measure the strength and direction of the relationship between company size and CEO compensation.
-
-By employing these methodologies, the analysis can provide insights into how CEO compensation varies with company size and identify factors that influence executive pay.
+By delving into this topic, you can gain a deeper understanding of the dynamics of executive compensation and its implications for the broader business landscape.
 
 ## CEO Compensation Trends
 
@@ -516,8 +442,41 @@ In conclusion, CEO compensation is a complex issue influenced by various factors
 
 As companies evolve and societal expectations change, it's likely that we'll see further shifts in how CEOs are compensated in the future.
 
+## In Summary...
 
+Our comprehensive exploration of CEO compensation across different company sizes has revealed critical insights into the factors influencing executive pay, the implications for stakeholders, and the evolving trends within the corporate landscape. 
 
+By understanding the dynamics of CEO salaries, you can make informed decisions that align with your company's strategic goals and values.
+
+Applying the insights from this article can have several practical benefits:
+
+- **Strategic Compensation Planning**: Entrepreneurs can design more effective compensation packages that attract and retain top talent, motivate performance, and align with shareholder interests.
+
+- **Improved Corporate Governance**: Insights into the regulatory environment and public perception can help companies develop transparent and equitable pay practices that bolster reputation and employee morale.
+
+- **Financial and Operational Advantages**: Understanding the relationship between CEO compensation and company performance can aid in budgeting and financial planning, ensuring that compensation strategies are sustainable and aligned with business objectives.
+
+By leveraging the information outlined in this article, companies stand to gain a competitive edge in talent management, enhance their corporate governance practices, and foster a culture of transparency and accountability. 
+
+This knowledge is not only crucial for navigating the complexities of executive compensation but also for driving business success in an increasingly scrutinized and regulated corporate environment.
+
+**Ready to take your business's compensation strategy to the next level?**
+
+<a href="https://calendly.com/businessinitiative/30-minute-consultation-call" target="_blank">Schedule a consultation call</a> with Business Initiative today to explore tailored solutions that align with your company's goals and values. 
+
+We are dedicated to helping you navigate the complexities of executive compensation, ensuring your strategies are competitive, compliant, and conducive to long-term success.
+
+Don't miss out on the latest insights and strategies in executive compensation and corporate governance. 
+
+Subscribe to our Business Initiative Newsletter and follow us on X (Twitter) for regular updates and expert advice tailored to your business needs. 
+<br>
+<a href="https://twitter.com/intent/tweet?screen_name=BisInitiative&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-size="large" data-show-count="false">Tweet to @BisInitiative</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<br>
+Let us help you build a robust compensation framework that drives performance, attracts top talent, and aligns with your strategic objectives. Use our [contact form](https://www.businessinitiative.org/contact/) to get in touch now.
+
+<br>
+
+<script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
 
 <br>
@@ -546,4 +505,76 @@ As companies evolve and societal expectations change, it's likely that we'll see
 </details>
 
 
+## Research Methodology
 
+<center>
+<img alt="research methodology" src="/images/content/road-to-success.png" title="How we did our research" style="width: 63%; height: 63%">
+</center>
+
+### Criteria for Categorizing Company Size:
+
+Company size is a critical factor in determining CEO compensation. 
+
+Companies can be categorized based on several criteria, each providing a different perspective on the size and scale of the organization:
+
+**1. Revenue:** 
+
+Companies are often categorized into small, medium, and large based on their annual revenue. 
+
+For example, small companies might have revenues of less than $50 million, medium-sized companies between $50 million and $1 billion, and large companies more than $1 billion.
+
+**2. Market Capitalization:** 
+
+This is the total market value of a company's outstanding shares. 
+
+It is a commonly used measure to classify companies as small-cap (market value under $2 billion), mid-cap ($2 billion to $10 billion), and large-cap (over $10 billion).
+
+**3. Number of Employees:** 
+
+The workforce size is another way to categorize companies. 
+
+Small companies may have fewer than 500 employees, medium-sized companies between 500 and 5,000, and large companies more than 5,000.
+
+### Data Sources and Collection Methods:
+
+To analyze CEO compensation by company size, data can be collected from various sources:
+
+**1. Public Filings:** 
+
+For publicly traded companies, CEO compensation data is typically available in annual reports and proxy statements filed with the Securities and Exchange Commission (SEC).
+
+**2. Surveys and Reports:** 
+
+Various organizations and consulting firms conduct surveys and publish reports on executive compensation. 
+
+Examples include the Equilar CEO Compensation Study, the Mercer Global Compensation Report, and the Willis Towers Watson Executive Compensation Survey.
+
+**3. Databases:** 
+
+Online databases such as Bloomberg, Morningstar, and S&P Capital IQ provide comprehensive financial data, including CEO compensation and company size metrics.
+
+### Statistical Techniques Used for Analysis:
+
+To analyze the relationship between CEO compensation and company size, several statistical techniques can be employed:
+
+**1. Descriptive Statistics:** 
+
+Calculate mean, median, and range of CEO compensation for each category of company size to understand the distribution and central tendency.
+
+**2. Regression Analysis:** 
+
+Use linear regression to examine the relationship between company size (independent variable) and CEO compensation (dependent variable). 
+
+This can help identify trends and predict compensation based on company size.
+
+**3. Comparative Analysis:** 
+
+Compare CEO compensation across different size categories to identify disparities and trends. 
+
+This can be done using t-tests or ANOVA (Analysis of Variance) if comparing more than two groups.
+
+**4. Correlation Analysis:** 
+
+Calculate the correlation coefficient to measure the strength and direction of the relationship between company size and CEO compensation.
+
+By employing these methodologies, the analysis can provide insights into how CEO compensation varies with company size and identify factors that influence executive pay.
