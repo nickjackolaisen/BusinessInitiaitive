@@ -363,7 +363,7 @@ Approach the discussion with a collaborative mindset, aiming for a compensation 
 <p>The average salary for a CFO in 2024 ranges from $150,000 to over $1 million, depending on company size.</p>
 <br>
 <details>
-<summary><b>Learn more…</summary>
+<summary><b>Learn more…</b></summary>
 <br>
 CFO salaries vary significantly based on the size of the company.</p>
 In small companies with revenue less than $50 million, CFOs can expect an average salary of $150,000 to $250,000.</p>
@@ -375,7 +375,7 @@ Large companies with revenue over $1 billion offer the highest salaries, with CF
 <p>Larger companies typically offer higher salaries to CFOs due to increased complexity and responsibilities.</p>
 <br>
 <details>
-<summary><b>Learn more…</summary>
+<summary><b>Learn more…</b></summary>
 <br>
 <p>As the size of a company increases, so does the complexity of its financial operations and the scope of the CFO's responsibilities.</p>
 <p>This expansion in role and responsibilities is typically reflected in the compensation package offered to the CFO.</p> 
@@ -387,7 +387,7 @@ Large companies with revenue over $1 billion offer the highest salaries, with CF
 <p>Industry, location, experience, education, skills, and company performance are key factors influencing CFO salary.</p>
 <br>
 <details>
-<summary><b>Learn more…</summary>
+<summary><b>Learn more…</b></summary>
 <br>
 <p>Besides company size, several other factors impact CFO compensation:</p>
 <ul>
@@ -404,7 +404,7 @@ Large companies with revenue over $1 billion offer the highest salaries, with CF
 <p>CFOs often receive bonuses, stock options, long-term incentive plans, and other benefits.</p>
 <br>
 <details>
-<summary><b>Learn more…</summary>
+<summary><b>Learn more…</b></summary>
 <br>
 <p>In addition to base salary, CFOs typically receive various forms of additional compensation:</p>
 <ul>
@@ -419,7 +419,7 @@ Large companies with revenue over $1 billion offer the highest salaries, with CF
 <p>Research market rates, leverage experience, consider the entire compensation package, and be prepared to walk away.</p>
 <br>
 <details>
-<summary><b>Learn more…</summary>
+<summary><b>Learn more…</b></summary>
 <br>
 <p>Effective negotiation strategies for CFOs include:</p>
 <ul>
