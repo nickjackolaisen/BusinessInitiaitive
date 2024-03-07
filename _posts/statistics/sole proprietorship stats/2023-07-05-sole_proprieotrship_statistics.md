@@ -1,8 +1,8 @@
 ---
-title: "Sole Proprietorship Facts, Stats, & FAQs for 2024"
+title: "Sole Proprietorship Facts, Stats, & FAQs for 2024 (UPDATED)"
 layout: post
 date: 2023-07-05
-update_date: 2024-01-22
+update_date: 2024-03-07
 author: jack_nicholaisen
 summary: "Unlock your business potential with our data-driven insights, expert consulting, and tailored pricing. Elevate success today!" 
 thumbnail: /images/posts-headers/sole-proprietorship-facts-stats-faqs-header.png
@@ -15,17 +15,17 @@ tags: number of sole proprietorships in the united states, largest sole propriet
 
 ## What is the number of Sole Proprietorships in the United States?
 
-According to the 2020 US Census from 2020, there were **826,915 Sole Proprietorships in the US**. 
+According to the U.S. Census Bureau's most recent report, there were **834,711 Sole Proprietorships in the US** in 2021. 
 
-Compare this to the total **8,000,178** Business establishments in the US. [Source](https://data.census.gov/table?g=040XX00US29&tid=CBP2020.CB2000CBP)
+Compare this to the total **8,148,606** Business establishments in the US that same year. [Source](https://data.census.gov/table/CBP2021.CB2100CBP?q=number%20of%20businesses%20and%20employees)
 
 ## What percentage of businesses are Sole Proprietorships?
 
-Based on this, **10.34% percent of businesses are Sole Proprietorships in the United States.** 
+Based on this, **10.24% percent of businesses are Sole Proprietorships in the United States.** [Source](https://data.census.gov/table/CBP2021.CB2100CBP?q=number%20of%20businesses%20and%20employees)
 
 It's clear from this fact alone that a significant portion of people enjoy being sole proprietors in the US. 
 
-It should come as no surprise since they are the easiest, cheapest, and fastest business for someone to start. [Source](https://data.census.gov/table?g=040XX00US29&tid=CBP2020.CB2000CBP)
+It should come as no surprise since they are the easiest, cheapest, and fastest business for someone to start. 
 
 {% include takeaway-box.html bullet1="Sole Proprietorships make up 10.34% of businesses in the United States" bullet2="Sole proprietorships are simple and low-cost, but owners are personally liable for all business debts. " bullet3="Reporting business income and expenses on personal tax returns simplifies tax filing." bullet4="Expanding may require special financing or partnerships." bullet5="Consider LLCs or corporations if you are looking for legal protection." %}
 
@@ -66,8 +66,21 @@ Without any liability protections, any massively successful sole proprietor woul
     <td>Number of Tax Returns</td>
     <td>Net Income</td>
     <td>Number of Tax Returns</td>
-    <td>Net Income Less Deficit</td>
-    
+    <td>Net Income Less Deficit</td> 
+  </tr>
+  <tr>
+    <td>2021</td>
+    <td>21,101,950</td>
+    <td>$516,804,183,000</td>
+    <td>29,309,596</td>
+    <td>$411,308,783</td>
+  </tr>
+  <tr>
+    <td>2020</td>
+    <td>19,976,748</td>
+    <td>$436,416,303,000</td>
+    <td>28,353,367</td>
+    <td>$337,201,262,000</td>
   </tr>
   <tr>
     <td>2019</td>
@@ -108,8 +121,7 @@ Without any liability protections, any massively successful sole proprietor woul
 
 <a id="benefits"> 
 
-**Sources:** 
-*IRS, Statistics of Income Division, Sole Proprietorship Returns 2019, November 2021. IRS, Statistics of Income Division, Sole Proprietorship Returns 2018, September 2020. IRS, Statistics of Income Division, Sole Proprietorship Returns 2017, September 2019. IRS, Statistics of Income Division, Sole Proprietorship Returns 2016, August 2018. IRS, Statistics of Income Division, Sole Proprietorship Returns 2015, July 2017.*
+[Sources](https://www.irs.gov/statistics/soi-tax-stats-nonfarm-sole-proprietorship-statistics)
 
 ## The 5 Strengths and Advantages of a Sole Proprietorship
 
