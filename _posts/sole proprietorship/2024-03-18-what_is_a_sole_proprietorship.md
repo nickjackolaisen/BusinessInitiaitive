@@ -48,7 +48,7 @@ Now that you are familiar with this list of successful sole proprietorship busin
 
 A Sole Proprietorship is the simplest business entity you can run because there is no registration process or special tax regulations. 
 
-In fact, it’s not really a business entity at all.
+It’s not a business entity at all.
 
 By being the “sole” provider of all the services, **You** are the business.
 
@@ -61,7 +61,7 @@ You will most likely be acting as an independent contractor or running a small-s
 
 Businesses like these exist in almost every industry.  
 
-Chances are that whatever you imagine when you think of side hustles can actually be classified as Sole Proprietorship. 
+Chances are that whatever you imagine when you think of side hustles can be classified as Sole Proprietorship. 
 
 ## Registration
 
@@ -69,11 +69,11 @@ Chances are that whatever you imagine when you think of side hustles can actuall
 <img alt="how to register a sole proprietorship" src="/images/content/sign-here.png" title="How to start a sole proprietorship?" style="width: 63%; height: 63%">
 </center>
 
-Not only are they simple, Sole Proprietorships are also the easiest business to register because there is no registration. 
+Not only are they simple, but a Sole Proprietorship is also the easiest business to register because there is no registration. 
 
-Sole Proprietorships are not officially recognized or registered to the state. 
+Sole Proprietorships are not officially recognized or registered with the state. 
 
-The only real barrier-to-entry for a business like this are the licenses, certifications, permits, and training required by the organizations overseeing the work done in that industry. 
+The only real barriers to entry for a business like this are the licenses, certifications, permits, and training required by the organizations overseeing the work done in that industry. 
 
 For instance, if you want to be an electrician you can’t be messing around with the wiring in someone’s house without the proper training and experience as an electrician. 
 
@@ -109,7 +109,7 @@ This is great for keeping your business’s finances separate from your personal
 Getting into a habit of this will come in handy should you ever want to upgrade to an LLC. 
 
 <p>
-<b>➤ MORE: </b> <a href="https://www.businessinitiative.org/llc/dba-vs-llc/" target="_blank">What's the difference between a DBA and LLC?</a>
+<b>➤ MORE: </b> <a href="https://www.businessinitiative.org/llc/dba-vs-llc/" target="_blank">What is the difference between a DBA and an LLC?</a>
 </p>
 
 ## Sole Proprietorship Taxes
@@ -118,11 +118,11 @@ Getting into a habit of this will come in handy should you ever want to upgrade 
 <img alt="taxation in a sole proprietorship" src="/images/content/taxes.png" title="How are Sole Proprietorships taxed?" style="width: 63%; height: 63%">
 </center>
 
-Just like everything else in a Sole Proprieotrship, the tax process is also very straightforward. 
+Just like everything else in a Sole Proprietorship, the tax process is also very straightforward. 
 
-All of the business’s profits automatically become personal income because **you** are the business. 
+The profits automatically become personal income because **you** are the business. 
 
-This makes filing taxes world’s easier than some other business entities. 
+This makes filing taxes easier than most other business entities. 
 
 You simply include your business profits on your regular personal income tax returns. 
 
@@ -151,12 +151,12 @@ Since there’s no separation between you and the business, you’re personally 
 
 Being that there’s no real business entity in the first place, you’re personally responsible for everything in the business, for better or worse.
 
-This actually makes operating the business much easier since you don’t have to answer to anybody so long as you’re doing the right thing.
+This makes operating the business much easier since you don’t have to answer to anybody so long as you’re doing the right thing.
 
 You can hire employees in a Sole Proprietorship by completing special paperwork and acquiring an EIN (Employer Identification Number).
 <a id="protection"> 
 
-If you are serisously considering hiring employees, you should look into upgrading to an LLC. 
+If you are seriously considering hiring employees, you should look into upgrading to an LLC. 
 
 This may be a better route because LLCs see employees as business expenses (a.k.a. Tax write-offs).
 
@@ -174,9 +174,9 @@ This is the biggest downside of operating as a Sole Proprietorship.
 
 <p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/sole-proprietorship/disadvantages/" target="_blank"> Find out about the other disadvantages of Sole Proprietorships.</a></p>
 
-By having the right certifications, training, licenses, and insurance to be conducting your kind of business, this lack of protection shouldn’t be a problem. 
+By having the right certifications, training, licenses, and insurance to conduct your kind of business, this lack of protection shouldn’t be a problem. 
 
-The chances of any legal or financial fallout coming from your business are significantly minimized if what you want to do into is known to be inherently low-risk.
+The chances of any legal or financial fallout coming from your business are significantly minimized if what you want to do is known to be inherently low-risk.
 
 If the business you’re thinking of starting naturally carries more risk, you should check out the personal liability protection offered by LLCs.
 
@@ -188,7 +188,7 @@ Since you’re here checking out at Sole Proprietorships, you’ve probably alre
 
 The biggest differences between the two come down to the liability and financial protection they offer and the difficulty in setting them up. 
 
-Being the simplest business with no registration or set-up fees, it’s no surprise why professional and novices alike choose to begin their businesses as Sole Proprietorships.
+Being the simplest business with no registration or set-up fees, it’s no surprise why professionals and novices alike choose to begin their businesses as Sole Proprietorships.
 
 ## In Summary...
 
