@@ -2,7 +2,7 @@
 layout: page
 title: "Alabama Business Directory"
 date: 2023-11-26
-update_date: 2024-02-06
+update_date: 2024-03-18
 author: jack_nicholaisen
 summary: "Discover the top business startup services in Alabama! Your ultimate guide to launching a successful venture."  
 permalink: /directory/alabama/
@@ -88,9 +88,7 @@ Use this directory to find the right professionals to help you with your busines
 
 -   Ensure compliance with state requirements for maintaining a registered agent.
 
-<b><a href="https://www.sos.alabama.gov/sites/default/files/2022-06/Registered-Agent-List.pdf
-" target="_blank">2022 Alabama Registered Agents List (PDF)
-</a></b>
+<b><a href="https://www.sos.alabama.gov/sites/default/files/2022-06/Registered-Agent-List.pdf" target="_blank">2022 Alabama State Recognized Registered Agents List (PDF)</a></b>
 
 Business Filings Incorporated - No Website
 1-334-262-0350

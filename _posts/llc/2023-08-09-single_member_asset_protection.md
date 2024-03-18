@@ -2,7 +2,7 @@
 title: "Single-Member LLCs - What You Need to Know to Protect Your Assets"
 layout: post
 date: 2023-08-09
-update_date: 2023-09-21
+update_date: 2024-03-18
 author: jack_nicholaisen
 summary: "Explore single-member LLCs: personal liability, tax, asset separation. Get tips for good standing & avoiding legal issues. Empower your success."
 permalink: /llc/single-member/asset-protection/
@@ -39,6 +39,10 @@ The court found that the owner had commingled his personal and business funds, a
 ## Tax Considerations
 
 A single-member LLC is considered a "disregarded entity" for tax purposes, meaning that the IRS treats it as a sole proprietorship. 
+
+<p>
+<b>➤ MORE: </b> <a href="/sole-proprietorship/" target="_blank">Learn about the simplest business you can run!</a>
+</p>
 
 This means the LLC owner reports their business income and expenses on their personal tax return (Schedule C). 
 
