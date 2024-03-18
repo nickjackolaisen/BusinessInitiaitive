@@ -21,7 +21,7 @@ Your use of the content on Business Initiative is at your own risk.
 
 By using Business Initiative, you acknowledge and agree to these terms. 
 
-If you have any questions or concerns, please feel free to <li><a href="https://www.businessinitiative.org/contact/" target="_blank">contact us</a></li>.
+If you have any questions or concerns, please feel free to <a href="https://www.businessinitiative.org/contact/" target="_blank">contact us</a>.
 
 ## Affiliate Disclaimer
 
@@ -39,7 +39,7 @@ We only suggest products or services that we believe will add value to our reade
 
 We are committed to maintaining transparency and integrity in all our recommendations. 
 
-If you have any questions about our affiliate partnerships, please feel free to <li><a href="https://www.businessinitiative.org/contact/" target="_blank">contact us</a></li>.
+If you have any questions about our affiliate partnerships, please feel free to <a href="https://www.businessinitiative.org/contact/" target="_blank">contact us</a>.
 
 Thank you for supporting Business Initiative.
 
