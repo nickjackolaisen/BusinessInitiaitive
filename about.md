@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Business Initiative
+title: About
 permalink: /about/
 tags: about, business initiative, about business initiative, what is business initiative, what is a business initiative
 ---
