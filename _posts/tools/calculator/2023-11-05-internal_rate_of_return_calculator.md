@@ -2,7 +2,7 @@
 title: "Internal Rate of Return Calculator - Evaluate Your Investment's Profitability"
 layout: post
 date: 2023-11-05
-update_date: 2023-11-29
+update_date: 2024-03-18
 author: jack_nicholaisen
 summary: "Looking for a way to calculate your investment's profitability? Our Internal Rate of Return Calculator is just what you need!" 
 thumbnail: /images/posts-headers/calculator/tmv-internal-rate-of-return-calculator-header.png
@@ -33,8 +33,8 @@ Just input the initial investment and cash flows for each period, then click "Ca
       padding: 10px;
     }
 </style>
-<body>
-    <label for="initialInvestment">Initial Investment:</label>
+
+<label for="initialInvestment">Initial Investment:</label>
     <input type="number" id="initialInvestment" placeholder="Enter initial investment"><br><br>
     <table id="cashFlowTable">
       <tr>
@@ -46,11 +46,11 @@ Just input the initial investment and cash flows for each period, then click "Ca
         <td><input type="number" class="cashFlow" placeholder="Cash Flow"></td>
       </tr>
     </table>
-    <button onclick="addRow()">Add Row</button>
-    <button onclick="removeRow()">Remove Row</button><br><br>
-    <button onclick="calculateIRR()">Calculate IRR</button>
+<button onclick="addRow()">Add Row</button>
+<button onclick="removeRow()">Remove Row</button><br><br>
+<button onclick="calculateIRR()">Calculate IRR</button>
 
-  <div id="results"></div>
+<div id="results"></div>
 
 <script>
     function addRow() {

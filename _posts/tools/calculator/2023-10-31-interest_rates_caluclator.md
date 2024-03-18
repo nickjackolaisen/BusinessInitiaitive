@@ -2,7 +2,7 @@
 title: "Interest and Interest Rate Calculator for Entrepreneurs & Business Owners"
 layout: post
 date: 2023-10-31
-update_date: 2023-11-19
+update_date: 2024-03-18
 author: jack_nicholaisen
 summary: "Boost your business success by mastering interest rates! Learn all about simple & compound interest in our comprehensive guide. 📈💼" 
 permalink: /tools/calculator/interest-and-interest-rates/
@@ -61,10 +61,11 @@ Simple Interest = Principal × Interest Rate × Time
 
 For example, if you borrow $10,000 at a 5% annual interest rate for two years, the total amount of interest paid would be $1,000 ($10,000 × 0.05 × 2).
 
-<body>
-  <h3>Simple Interest Calculator</h3>
+
+<h3>Simple Interest Calculator</h3>
+
 <div class="calculator" style="text-align:center">
-<form id="simpleInterestForm">
+  <form id="simpleInterestForm">
     <label for="principal">Principal:</label>
     <input type="number" id="principal" step="0.01" placeholder="Enter principal amount">
     <label for="rate">Interest Rate (%):</label>
@@ -73,7 +74,7 @@ For example, if you borrow $10,000 at a 5% annual interest rate for two years, t
     <input type="number" id="time" step="0.01" placeholder="Enter time in years">
     <button type ="button" id ="calculateBtn">Calculate Compound Interest</button>
   </form>
-  </div>
+</div>
 <br>
   <div class="result" id="result" style="text-align:center"></div>
 
@@ -96,25 +97,25 @@ document.getElementById('calculateBtn').addEventListener('click', () => {
   }
 });
 </script>
-</body>
+
 <style>
-        body {
-            margin: 50px;
-        }
-        .calculator {
-            width: 300px;
-            margin: 0 auto;
-        }
-        .input-group {
-            margin-bottom: 10px;
-        }
-        input[type="number"] {
-            width: 100%;
-            padding: 8px;
-            box-sizing: border-box;
-        }
-        .result {
-            font-weight: bold;
+  body {
+    margin: 50px;
+  }
+  .calculator {
+      width: 300px;
+      margin: 0 auto;
+  }
+  .input-group {
+    margin-bottom: 10px;
+  }
+  input[type="number"] {
+      width: 100%;
+      padding: 8px;
+      box-sizing: border-box;
+  }
+  .result {
+    font-weight: bold;
         }
 </style>
 <br>

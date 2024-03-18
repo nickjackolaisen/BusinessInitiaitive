@@ -2,7 +2,7 @@
 title: "Net Present Value Calculator- Maximize Your Investment Potential"
 layout: post
 date: 2023-11-05
-update_date: 2023-11-29
+update_date: 2024-03-18
 author: jack_nicholaisen
 summary: "Learn to calculate profitability with Net Present Value! Maximize your investment potential with this comprehensive guide. #NPV #InvestmentTips" 
 thumbnail: /images/posts-headers/calculator/tmv-net-present-value-calculator-header.png
@@ -43,9 +43,7 @@ Just input the necessary values and click "Calculate."
     }
 </style>
 
-<body>
-
-  <label for="interestRate">Interest Rate (discount rate):</label>
+<label for="interestRate">Interest Rate (discount rate):</label>
   <input type="number" id="interestRate" step="0.01" placeholder="Interest Rate (%)"><br><br>
 
   <label for="compounds">Compounds per Period:</label>
@@ -60,10 +58,10 @@ Just input the necessary values and click "Calculate."
   <label for="numLines">Number of Cashflow Periods:</label>
   <input type="number" id="numLines" placeholder="Number of Cashflow Lines"><br><br>
 
-  <div id="cashflowInputs"></div><br>
+<div id="cashflowInputs"></div><br>
 
-  <button onclick="generateCashflowInputs()">Generate Cashflow Inputs</button>
-  <button onclick="calculateNPV()">Calculate NPV</button>
+<button onclick="generateCashflowInputs()">Generate Cashflow Inputs</button>
+<button onclick="calculateNPV()">Calculate NPV</button>
 
 <div id="resultBox">
   <h3>Net Present Value=</h3>

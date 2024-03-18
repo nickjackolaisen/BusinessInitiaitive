@@ -2,7 +2,7 @@
 title: "Price Elasticity of Demand Calculator for Business"
 layout: post
 date: 2023-10-15
-update_date: 2023-10-16
+update_date: 2024-03-18
 author: jack_nicholaisen
 summary: "Discover the power of price elasticity of demand and how it can impact your business decisions. Read on for insights and practical tips." 
 thumbnail: /images/posts-headers/price-elasticity-of-demand-header.png
@@ -24,8 +24,7 @@ When a product has high price elasticity of demand, it means that a small change
 
 When a product has low price elasticity of demand, it means that a change in price will not significantly affect the demand for the product.
 
-<body>
-    <div class="calculator" style="text-align:center">
+<div class="calculator" style="text-align:center">
         <h2>Price Elasticity of Demand Calculator</h2>
         <div class="input-group">
             <label for="initialPrice">Initial Price:</label>
@@ -45,7 +44,8 @@ When a product has low price elasticity of demand, it means that a change in pri
         </div>
         <button onclick="calculateElasticity()">Calculate</button>
         <div class="result" id="result"></div>
-    </div>
+</div>
+
 <script>
         function calculateElasticity() {
             var initialPrice = document.getElementById("initialPrice").value;
@@ -57,7 +57,6 @@ When a product has low price elasticity of demand, it means that a change in pri
             document.getElementById("result").textContent = "Price Elasticity of Demand: " + elasticity.toFixed(2);
         }
 </script>
-</body>
 
 <style>
         body {

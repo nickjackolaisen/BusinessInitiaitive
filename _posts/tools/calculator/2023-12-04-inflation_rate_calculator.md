@@ -2,6 +2,7 @@
 title: "How to Calculate Inflation Rate? - Mastering the Economy"
 layout: post
 date: 2023-12-04
+update_date: 2024-03-18
 author: jack_nicholaisen
 summary: "Discover the secrets of calculating inflation rates and gain a deeper understanding of economic trends with our comprehensive guide." 
 permalink: /tools/calculator/inflation-rate/
@@ -61,8 +62,8 @@ To make things easier, you can use an online inflation calculator to get quick a
       margin-top: 20px;
     }
 </style>
-<body>
-  <label for="price1">Enter price in year 1:</label>
+
+<label for="price1">Enter price in year 1:</label>
   <input type="number" id="price1">
   <label for="year1">Year 1:</label>
   <input type="number" id="year1">
@@ -72,12 +73,12 @@ To make things easier, you can use an online inflation calculator to get quick a
   <label for="year2">Year 2:</label>
   <input type="number" id="year2">
   <br>
-  <button onclick="calculateInflation()">Calculate</button>
-  <div id="result"></div>
+<button onclick="calculateInflation()">Calculate</button>
+<div id="result"></div>
   
-  <div class="chart" id="chart"></div>
+<div class="chart" id="chart"></div>
 
-  <script>
+<script>
     function calculateInflation() {
       const price1 = parseFloat(document.getElementById('price1').value);
       const price2 = parseFloat(document.getElementById('price2').value);
@@ -88,9 +89,7 @@ To make things easier, you can use an online inflation calculator to get quick a
       const resultElement = document.getElementById('result');
       resultElement.innerHTML = `The inflation rate between ${year1} and ${year2} is ${inflationRate.toFixed(2)}%`;
     }
-  </script>
-</body>
-
+</script>
 
 <a id="importance"> 
 

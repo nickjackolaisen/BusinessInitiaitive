@@ -2,6 +2,7 @@
 title: "How to Calculate Customer Lifetime Value (LTV)"
 layout: post
 date: 2023-10-15
+update_date: 2024-03-18
 author: jack_nicholaisen
 summary: "Your company's LTV measures the total amount a customer is expected to spend on your products or services over their lifetime." 
 permalink: /tools/calculator/customer-lifetime-value/
@@ -9,8 +10,7 @@ permalink: /tools/calculator/customer-lifetime-value/
 
 LTV is an important metric because it helps businesses understand the overall value of their customer base and make decisions about how much to invest in retaining customers.
 
-<body>
-    <div class="calculator" style="text-align:center">
+<div class="calculator" style="text-align:center">
         <h2>Customer Lifetime Value (LTV) Calculator</h2>
         <div class="input-group">
             <label for="avgPurchaseValue">Average Purchase Value ($):</label>
@@ -30,7 +30,8 @@ LTV is an important metric because it helps businesses understand the overall va
         </div>
         <button onclick="calculateLTV()">Calculate</button>
         <div class="result" id="result"></div>
-    </div>
+</div>
+
 <script>
         function calculateLTV() {
             var avgPurchaseValue = document.getElementById("avgPurchaseValue").value;
@@ -41,7 +42,6 @@ LTV is an important metric because it helps businesses understand the overall va
             document.getElementById("result").textContent = "Customer Lifetime Value (LTV): $" + ltv.toFixed(2);
         }
 </script>
-</body>
 
 <style>
         body {

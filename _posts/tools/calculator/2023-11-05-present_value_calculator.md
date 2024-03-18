@@ -2,7 +2,7 @@
 title: "Present Value Calculator - Evaluate the Worth of Your Future Cash Flows with Ease"
 layout: post
 date: 2023-11-05
-update_date: 2023-12-05
+update_date: 2024-03-18
 author: jack_nicholaisen
 summary: "Discover how to calculate the present value of future cash flows with our easy-to-use calculator. Improve your financial decision-making today!" 
 thumbnail: /images/posts-headers/calculator/tmv-present-value-calculator-header.png
@@ -41,18 +41,18 @@ Just input the necessary values and click "Calculate."
       font-weight: bold; /* Make the result bold */
     }
 </style>
-<body>
-  <label for="futureValue">Future Value:</label>
+
+
+<label for="futureValue">Future Value:</label>
   <input type="number" id="futureValue" placeholder="Enter Future Value"><br>
   <label for="periods">Number of Periods:</label>
   <input type="number" id="periods" placeholder="Enter Number of Periods"><br>
   <label for="interestRate">Interest Rate (%):</label>
   <input type="number" id="interestRate" placeholder="Enter Interest Rate"><br>
 
-  <button onclick="calculatePresentValue()">Calculate</button>
+<button onclick="calculatePresentValue()">Calculate</button>
 
 <div id="result"></div>
-</body>
 
 <script>
   function calculatePresentValue() {

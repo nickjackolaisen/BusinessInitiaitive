@@ -2,6 +2,7 @@
 title: "How to Calculate Customer Acquisiton Costs (CAC)"
 layout: post
 date: 2023-10-15
+update_date: 2024-03-18
 author: jack_nicholaisen
 summary: "The CAC represents the cost of acquiring a new customer." 
 permalink: /tools/calculator/customer-acquisition-costs/
@@ -11,8 +12,7 @@ permalink: /tools/calculator/customer-acquisition-costs/
 CAC is an important metric because it helps businesses understand how much they need to spend on marketing and sales to acquire new customers, and whether these costs are sustainable over the long term.
 
 
-<body>
-    <div class="calculator" style="text-align:center">
+<div class="calculator" style="text-align:center">
         <h2>Customer Acquisition Cost (CAC) Calculator</h2>
         <div class="input-group">
             <label for="expenses">Total Marketing and Sales Expenses ($):</label>
@@ -33,7 +33,6 @@ CAC is an important metric because it helps businesses understand how much they 
             document.getElementById("result").textContent = "Customer Acquisition Cost (CAC): $" + cac.toFixed(2); 
         }    
 </script>
-</body>
 
 <style>
         body {

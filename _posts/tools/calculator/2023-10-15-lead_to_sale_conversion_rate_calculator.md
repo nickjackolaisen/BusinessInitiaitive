@@ -2,6 +2,7 @@
 title: "How to Calculate Your Lead-to-Sale Conversion Rate"
 layout: post
 date: 2023-10-15
+update_date: 2024-03-18
 author: jack_nicholaisen
 summary: "Use this calculator to find out where your business can improve it's sales procedures." 
 permalink: /tools/calculator/lead-to-sale-conversion-rate/
@@ -11,8 +12,8 @@ This represents the percentage of leads that result in a sale.
 
 It is an important metric because it helps businesses understand how effective their sales processes are and where they can make improvements.
 
-<body>
-    <div class="calculator" style="text-align:center">
+
+<div class="calculator" style="text-align:center">
         <h2>Lead-to-Sale Conversion Rate Calculator</h2>
         <div class="input-group">
             <label for="leads">Number of Leads:</label>
@@ -24,8 +25,9 @@ It is an important metric because it helps businesses understand how effective t
         </div>
         <button onclick="calculateConversionRate()">Calculate</button>
         <div class="result" id="result"></div>
-    </div>
-    <script>
+</div>
+
+<script>
         function calculateConversionRate() {
             var leads = document.getElementById("leads").value;
             var sales = document.getElementById("sales").value;
@@ -33,7 +35,6 @@ It is an important metric because it helps businesses understand how effective t
             document.getElementById("result").textContent = "Lead-to-Sale Conversion Rate: " + conversionRate.toFixed(2) + "%";
         }
 </script>
-</body>
 
 <style>
         body {
