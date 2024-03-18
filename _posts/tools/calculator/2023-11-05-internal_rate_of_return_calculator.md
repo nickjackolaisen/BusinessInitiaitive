@@ -131,7 +131,6 @@ Just input the initial investment and cash flows for each period, then click "Ca
       return derivative;
     }
 </script>
-</body>
 
 ## Why is Internal Rate of Return Important?
 
