@@ -247,7 +247,7 @@ Stay informed and ahead of the curve by subscribing to the Business Initiative N
 <h3>What is a Sole Proprietorship?</h3>   
 <p>A Sole Proprietorship is an unincorporated business owned by one person, where the owner is fully liable and receives all the profits.</p>
 <details>
-<summary><b>Learn more…<b></summary>
+<summary><b>Learn more…</b></summary>
 <br>
 <p>A Sole Proprietorship is the simplest and most common form of business ownership.</p>
 <p>It's easy to set up, with no formal registration process or special tax regulations.</p>
@@ -258,7 +258,7 @@ Stay informed and ahead of the curve by subscribing to the Business Initiative N
 <h3>Do I need to register a Sole Proprietorship?</h3>
 <p>No, Sole Proprietorships do not require formal registration with the state.</p>
 <details>
-<summary><b>Learn more…<b></summary>
+<summary><b>Learn more…</b></summary>
 <br>
 <p>While there is no need to register a Sole Proprietorship with the state, you may need to obtain relevant licenses, permits, or certifications depending on the nature of your business and local regulations.</p>
 <p>Additionally, if you want to operate under a name other than your own, you may need to file a Doing Business As (DBA) to use a trade name.</p>
@@ -267,7 +267,7 @@ Stay informed and ahead of the curve by subscribing to the Business Initiative N
 <h3>How do taxes work for a Sole Proprietorship?</h3>
 <p>Profits from a Sole Proprietorship are taxed as personal income on the owner's tax return.</p>
 <details>
-<summary><b>Learn more…<b></summary>
+<summary><b>Learn more…</b></summary>
 <br>
 <p>Sole Proprietors report their business income and expenses on Schedule C, which is filed with their personal income tax return (Form 1040).</p>
 <p>They also pay self-employment taxes (Social Security and Medicare) using Schedule SE.</p>
@@ -277,7 +277,7 @@ Stay informed and ahead of the curve by subscribing to the Business Initiative N
 <h3>What is the difference between a Sole Proprietorship and an LLC?</h3>   
 <p>The main difference is that an LLC provides limited liability protection, separating personal and business assets, while a Sole Proprietorship does not.</p>
 <details>
-<summary><b>Learn more…<b></summary>
+<summary><b>Learn more…</b></summary>
 <br>
 <p>A Limited Liability Company (LLC) is a separate legal entity from its owners, offering protection of personal assets from business debts and liabilities.</p>
 <p>In contrast, a Sole Proprietorship does not offer this separation, meaning the owner's personal assets could be at risk if the business incurs debt or is sued.</p>
@@ -287,7 +287,7 @@ Stay informed and ahead of the curve by subscribing to the Business Initiative N
 <h3>Can a Sole Proprietorship have employees?</h3>
 <p>Yes, a Sole Proprietorship can hire employees.</p>
 <details>
-<summary><b>Learn more…<b></summary>
+<summary><b>Learn more…</b></summary>
 <br>
 <p>While Sole Proprietorships are often associated with single-person operations, they can hire employees.</p>
 <p>The owner must obtain an Employer Identification Number (EIN) from the IRS, comply with employment laws, and handle payroll taxes.</p>
@@ -297,7 +297,7 @@ Stay informed and ahead of the curve by subscribing to the Business Initiative N
 <h3>What are the advantages of a Sole Proprietorship?</h3>
 <p>Advantages include simplicity, ease of setup, and direct control over the business.</p>
 <details>
-<summary><b>Learn more…<b></summary>
+<summary><b>Learn more…</b></summary>
 <br>
 <p>Sole Proprietorships are favored for their minimal regulatory requirements, straightforward tax filing, and complete control over decision-making.</p>
 <p>Owners enjoy the flexibility to operate their business as they see fit, without the need for board approvals or complex legal structures.</p>
@@ -307,7 +307,7 @@ Stay informed and ahead of the curve by subscribing to the Business Initiative N
 <h3>What are the disadvantages of a Sole Proprietorship?</h3>   
 <p>The main disadvantage is unlimited personal liability for business debts and legal issues.</p>
 <details>
-<summary><b>Learn more…<b></summary>
+<summary><b>Learn more…</b></summary>
 <br>
 <p>In a Sole Proprietorship, there is no legal distinction between the owner and the business, meaning the owner's personal assets are exposed to potential business liabilities.</p>
 <p>This risk can be mitigated with appropriate insurance, but for businesses with higher liability exposure, transitioning to an LLC or corporation may be advisable.</p>
@@ -316,7 +316,7 @@ Stay informed and ahead of the curve by subscribing to the Business Initiative N
 <h3>How can I protect my personal assets as a Sole Proprietor?</h3>
 <p>Consider obtaining insurance and keeping personal and business finances separate.</p>
 <details>
-<summary><b>Learn more…<b></summary>
+<summary><b>Learn more…</b></summary>
 <br>
 <p>To protect personal assets, Sole Proprietors should consider purchasing liability insurance, professional indemnity insurance, and other relevant coverage based on their industry.</p>
 <p>Maintaining separate bank accounts for personal and business finances can also help establish a clear distinction between the two, reducing the risk of personal liability.</p>
@@ -325,7 +325,7 @@ Stay informed and ahead of the curve by subscribing to the Business Initiative N
 <h3>Can a Sole Proprietorship be sold or transferred?</h3>
 <p>Yes, but the process can be more complex than with other business structures.</p>
 <details>
-<summary><b>Learn more…<b></summary>
+<summary><b>Learn more…</b></summary>
 <br>
 <p>Since a Sole Proprietorship is not a separate legal entity, selling or transferring the business involves transferring the assets and liabilities directly to the new owner.</p>
 <p>This process can be more personal and may require detailed agreements to ensure a smooth transition.</p>
@@ -335,7 +335,7 @@ Stay informed and ahead of the curve by subscribing to the Business Initiative N
 <h3>What happens to a Sole Proprietorship if the owner dies?</h3>
 <p>The business typically ceases to exist, and assets become part of the owner's estate.</p>
 <details>
-<summary><b>Learn more…<b></summary>
+<summary><b>Learn more…</b></summary>
 <br>
 <p>Since a Sole Proprietorship is tied to the individual owner, it generally dissolves upon the owner's death.</p>
 <p>The assets and liabilities of the business become part of the owner's estate and are distributed according to their will or state intestacy laws.</p>
