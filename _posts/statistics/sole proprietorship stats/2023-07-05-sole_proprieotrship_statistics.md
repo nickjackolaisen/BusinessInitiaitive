@@ -2,7 +2,7 @@
 title: "Sole Proprietorship Facts, Stats, & FAQs for 2024 (UPDATED)"
 layout: post
 date: 2023-07-05
-update_date: 2024-03-07
+update_date: 2024-03-18
 author: jack_nicholaisen
 summary: "Unlock your business potential with our data-driven insights, expert consulting, and tailored pricing. Elevate success today!" 
 thumbnail: /images/posts-headers/sole-proprietorship-facts-stats-faqs-header.png
