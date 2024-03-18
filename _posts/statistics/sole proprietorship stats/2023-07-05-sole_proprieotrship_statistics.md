@@ -23,6 +23,10 @@ Compare this to the total **8,148,606** Business establishments in the US that s
 
 Based on this, **10.24% percent of businesses are Sole Proprietorships in the United States.** [Source](https://data.census.gov/table/CBP2021.CB2100CBP?q=number%20of%20businesses%20and%20employees)
 
+<center>
+<img alt="how many sole proprietorships" src="/images/content/statistics/number-sole-proprietorships.png" title="How many business are sole proprietorships?" style="width: 63%; height: 63%">
+</center>
+
 It's clear from this fact alone that a significant portion of people enjoy being sole proprietors in the US. 
 
 It should come as no surprise since they are the easiest, cheapest, and fastest business for someone to start. 

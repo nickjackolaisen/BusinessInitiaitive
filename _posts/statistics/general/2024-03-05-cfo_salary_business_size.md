@@ -396,7 +396,7 @@ Look beyond the base salary.
 
 Negotiate for bonuses, stock options, retirement plans, and other benefits that can enhance your overall compensation. 
 
-For instance, <a href="https://www.equilar.com/reports/77-cfo-pay-trends-2020.html" target="_blank">a study by Equilar</a> found that long-term incentive awards constitute a significant portion of a CFO's total compensation in large corporations.
+For instance, <a href="https://www.equilar.com/reports/105-2023-cfo-pay-trends.html" target="_blank">a study by Equilar</a> found that long-term incentive awards constitute a significant portion of a CFO's total compensation in large corporations.
 
 **4. Be Prepared to Walk Away:**
 
