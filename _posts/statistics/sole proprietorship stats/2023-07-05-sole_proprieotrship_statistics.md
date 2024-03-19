@@ -31,7 +31,7 @@ It's clear from this fact alone that a significant portion of people enjoy being
 
 It should come as no surprise since they are the easiest, cheapest, and fastest business for someone to start. 
 
-{% include takeaway-box.html bullet1="Sole Proprietorships make up 10.34% of businesses in the United States" bullet2="Sole proprietorships are simple and low-cost, but owners are personally liable for all business debts. " bullet3="Reporting business income and expenses on personal tax returns simplifies tax filing." bullet4="Expanding may require special financing or partnerships." bullet5="Consider LLCs or corporations if you are looking for legal protection." %}
+{% include takeaway-box.html bullet1="Sole Proprietorships make up 10.24% of businesses in the United States" bullet2="Sole proprietorships are simple and low-cost, but owners are personally liable for all business debts. " bullet3="Reporting business income and expenses on personal tax returns simplifies tax filing." bullet4="Expanding may require special financing or partnerships." bullet5="Consider LLCs or corporations if you are looking for legal protection." %}
 
 <p><b>➤ TAKE INITIATIVE: </b> <a href="https://www.businessinitiative.org/sole-proprietorship/examples/" target="_blank">Here are some examples use can use to start your own Sole Proprietorship</a></p>
 
