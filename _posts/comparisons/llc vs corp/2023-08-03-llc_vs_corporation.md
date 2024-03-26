@@ -5,7 +5,7 @@ date: 2023-08-03
 update_date: 2024-03-26
 author: jack_nicholaisen
 summary: "Entrepreneur deciding between LLC & corporation? Learn key differences, benefits, & drawbacks for business success in our article!"
-permalink: c/llc-vs-corporation/
+permalink: /comparison/llc-vs-corporation/
 redirect_from:
   - /llc-vs-corporation/
 tags: llc corporation comparison, what is better llc or corporation, 
