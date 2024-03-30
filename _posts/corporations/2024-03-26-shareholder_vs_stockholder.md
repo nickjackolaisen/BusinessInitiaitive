@@ -360,38 +360,6 @@ By engaging in shareholder activism, you can not only potentially increase your 
 
 ## Frequently Asked Questions About Shareholders and Stockholders
 
-1. **What is the difference between a shareholder and a stockholder?**
-   - **Short Answer:** A shareholder owns shares in a company, while a stockholder specifically owns stock in a corporation.
-   - **In-depth Explanation:** The terms "shareholder" and "stockholder" are often used interchangeably, but there is a subtle distinction. A shareholder is a broader term that encompasses anyone who owns shares in a company, which can be a corporation, partnership, or LLC. On the other hand, a stockholder refers specifically to an individual or entity that holds stock in a corporation. This distinction is more pronounced in legal contexts, where the rights and responsibilities of stockholders in a corporation are defined by corporate law.
-
-2. **Do shareholders have voting rights in a company?**
-   - **Short Answer:** Yes, shareholders typically have voting rights in a company.
-   - **In-depth Explanation:** Shareholders usually have the right to vote on important company matters, such as electing the board of directors and approving major corporate actions. The extent of these voting rights can vary depending on the type of shares owned. For example, common shareholders often have one vote per share, while preferred shareholders might have limited or no voting rights. The specifics of these rights are outlined in the company's bylaws and shareholder agreements.
-
-3. **Can a shareholder sell their shares at any time?**
-   - **Short Answer:** Generally, yes, but it depends on the type of company and any restrictions in place.
-   - **In-depth Explanation:** Shareholders of publicly traded companies can usually sell their shares at any time through a stock exchange. However, shareholders of private companies may face restrictions on the sale of their shares, such as right of first refusal for other shareholders or the company. Additionally, certain types of shares, like restricted stock, may have specific conditions that must be met before they can be sold.
-
-4. **What are the financial benefits of being a shareholder?**
-   - **Short Answer:** Shareholders can benefit from dividends and capital appreciation.
-   - **In-depth Explanation:** Shareholders can earn income from dividends, which are distributions of a company's profits. The amount and frequency of dividends depend on the company's performance and dividend policy. Additionally, shareholders can benefit from capital appreciation if the value of their shares increases over time. This appreciation is realized when the shares are sold at a higher price than the purchase price.
-
-5. **What risks are associated with being a shareholder?**
-   - **Short Answer:** Shareholders face the risk of losing their investment if the company performs poorly.
-   - **In-depth Explanation:** Investing in shares carries the risk of losing some or all of the invested capital if the company's value declines. Shareholders are also exposed to market volatility, which can cause the value of their shares to fluctuate. Furthermore, in the event of a company's bankruptcy, shareholders are typically the last to be compensated, after creditors and bondholders.
-
-6. **How does one become a shareholder in a company?**
-   - **Short Answer:** You can become a shareholder by purchasing shares of the company.
-   - **In-depth Explanation:** To become a shareholder, you can buy shares through a stock exchange if the company is publicly traded, or directly from the company or existing shareholders if it is privately held. The process usually involves opening a brokerage account, placing an order for the desired number of shares, and paying the purchase price. Once the transaction is complete, you are officially a shareholder and entitled to the associated rights and benefits.
-
-7. **Are shareholders liable for company debts?**
-   - **Short Answer:** Generally, no, shareholders are not personally liable for company debts.
-   - **In-depth Explanation:** Shareholders' liability is usually limited to the amount of their investment in the company. This means that if the company incurs debts or faces legal claims, shareholders are not personally responsible for covering these obligations. However, there are exceptions, such as in cases of fraud or illegal activities, where shareholders might be held liable.
-
-
-Here's the HTML code for the FAQs with the format you requested:
-
-
 <div>
   <h3>What is the difference between a shareholder and a stockholder?</h3>
   <p>A shareholder owns shares in a company, while a stockholder specifically owns stock in a corporation.</p>
@@ -519,39 +487,11 @@ Let's build something extraordinary together!
 
 <br>
 
-## Sources and Additional Resources
-
-To ensure the accuracy and reliability of the information presented in this article, we have consulted a variety of reputable sources. 
-
-Below is a list of some key references used in compiling this article, along with information on finding additional resources for further reading and exploration:
-
-1. **Corporate Governance Principles and Recommendations (4th Edition)** - Australian Securities Exchange (ASX)
-   - [ASX Corporate Governance Council](https://www.asx.com.au/documents/asx-compliance/cgc-principles-and-recommendations-fourth-edn.pdf)
-   - This document provides a comprehensive overview of corporate governance practices, including the roles and responsibilities of shareholders and stockholders.
-
-2. **Investopedia: Shareholder**
-   - [Investopedia](https://www.investopedia.com/terms/s/shareholder.asp)
-   - A detailed article explaining the concept of shareholders, their rights, and how they differ from stockholders.
-
-3. **The Law of Corporations and Other Business Organizations** by Angela Schneeman
-   - A textbook that covers legal aspects of corporations, including the distinction between shareholders and stockholders.
-
-4. **Corporate Finance Institute: Shareholder vs. Stockholder**
-   - [Corporate Finance Institute](https://corporatefinanceinstitute.com/resources/accounting/stakeholder-vs-shareholder/)
-   - An article that provides a clear comparison between shareholders and stockholders, with examples and explanations.
-
-5. **Securities and Exchange Commission (SEC)**
-   - [SEC Official Website](https://www.sec.gov)
-   - The SEC's website offers a wealth of information on securities laws, investor rights, and corporate governance.
-
-6. **The Intelligent Investor** by Benjamin Graham
-   - A classic book on value investing that provides insights into the mindset and strategies of successful shareholders.
-
-For further learning, consider enrolling in online courses on corporate governance, attending workshops and seminars, and joining professional organizations related to business and finance. 
-
-Networking with experienced professionals and seeking mentorship can also provide valuable real-world insights into the roles of shareholders and stockholders in different business contexts.
-
-
+<details>
+<summary><h3>Sources and Additional Resources</h3></summary>
+<br>
+<p>To ensure the accuracy and reliability of the information presented in this article, we have consulted a variety of reputable sources.</p>
+<p>Below is a list of some key references used in compiling this article, along with information on finding additional resources for further reading and exploration:</p>
 <ul>
   <li><b>Corporate Governance Principles and Recommendations (4th Edition)</b> - Australian Securities Exchange (ASX)
     <ul>
@@ -588,7 +528,9 @@ Networking with experienced professionals and seeking mentorship can also provid
     </ul>
   </li>
 </ul>
-
+<p>For further learning, consider enrolling in online courses on corporate governance, attending workshops and seminars, and joining professional organizations related to business and finance.</p>
+<p>Networking with experienced professionals and seeking mentorship can also provide valuable real-world insights into the roles of shareholders and stockholders in different business contexts.</p>
+</details>
 
 
 
