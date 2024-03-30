@@ -5,8 +5,8 @@ date: 2024-03-30
 update_date: 
 author: jack_nicholaisen
 summary: "Unlock the secrets between shareholders & stockholders to navigate corporate governance & investment strategy. Boost your business savvy now!"
-thumbnail: /images/posts-headers/shateholder-vs-stockholder-header.png
-image: /images/posts-headers/shateholder-vs-stockholder-header.png
+thumbnail: /images/posts-headers/shareholder-vs-stockholder-header.png
+image: /images/posts-headers/shareholder-vs-stockholder-header.png
 permalink: /corporation/shareholder-vs-stockholder/
 tags: 
 ---
