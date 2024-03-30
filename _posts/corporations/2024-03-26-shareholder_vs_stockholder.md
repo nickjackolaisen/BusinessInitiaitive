@@ -60,6 +60,10 @@ In the world of business and finance, understanding the roles and rights of thos
 
 Let's dive into the definitions and distinctions between shareholders and stockholders, two terms often used interchangeably but with subtle differences.
 
+<center>
+<img alt="shareholder" src="/images/content/shareholder.png" title="How is a shareholder different than a stockholder" style="width: 63%; height: 63%">
+</center>
+
 ### What is a Shareholder?
 
 A shareholder, often considered the backbone of any corporation, is an individual or entity that owns at least one share of a company's stock. 
@@ -83,6 +87,10 @@ Common shareholders are usually the last to receive dividends and have a lower c
 Holders of preferred stock usually do not have voting rights, but they have a higher claim on assets and earnings than common shareholders. 
 
 This includes receiving dividends before common shareholders and priority in asset distribution if the company is liquidated.
+
+<center>
+<img alt="stockholder" src="/images/content/stockholder.png" title="How is a stockholder different than a shareholder?" style="width: 63%; height: 63%">
+</center>
 
 ### What is a Stockholder?
 
@@ -110,6 +118,10 @@ In contrast, "stockholder" is a more general term that refers to an individual's
 However, in practice, the terms are used interchangeably.
 
 ## Legal and Financial Implications
+
+<center>
+<img alt="legal and financial effects" src="/images/content/crypto-blockchain.png" title="Legal and Financial Differences of Shareholders and Stockholders" style="width: 63%; height: 63%">
+</center>
 
 ### Legal Rights and Responsibilities
 
@@ -178,6 +190,10 @@ Let's break it down...
 
 ### Types of Shares
 
+<center>
+<img alt="types of shares" src="/images/content/shares.png" title="What are different types of shares?" style="width: 63%; height: 63%">
+</center>
+
 **Common Stock vs. Preferred Stock:**
 
 Common stock is the most typical form of share investors encounter. 
@@ -203,6 +219,10 @@ Stock options, on the other hand, give employees the right to buy company stock 
 This can be a lucrative benefit if the company's stock price rises significantly.
 
 ### Stock Ownership
+
+<center>
+<img alt="stock ownership" src="/images/content/stocks.png" title="What are the different kinds of stock in business?" style="width: 63%; height: 63%">
+</center>
 
 **Direct Ownership vs. Indirect Ownership:**
 
@@ -233,6 +253,10 @@ Each structure has its unique dynamics and implications for those who own a piec
 
 ### Corporations
 
+<center>
+<img alt="corporate office" src="/images/content/corporate-workspace.png" title="Do corporations have stockholders?" style="width: 63%; height: 63%">
+</center>
+
 In the world of corporations, whether public or private, the terms "shareholder" and "stockholder" are often used interchangeably. 
 
 However, the nuances in their roles can be quite significant.
@@ -255,6 +279,11 @@ In private corporations, stockholders are usually more intimately involved in th
 They might not have the liquidity options of public shareholders but often have greater control over company decisions.
 
 ### Limited Liability Companies (LLCs) and Partnerships
+
+
+<center>
+<img alt="llcs and partnerships" src="/images/content/high-five-workers.png" title="Do LLCs have shareholders?" style="width: 63%; height: 63%">
+</center>
 
 When we shift our focus to LLCs and partnerships, the terminology changes slightly.
 
@@ -294,6 +323,10 @@ In conclusion, the roles and implications of being a shareholder or stockholder 
 Understanding these differences is crucial for anyone looking to invest or participate in different types of business entities.
 
 ## Practical Considerations for Investors
+
+<center>
+<img alt="strategies for invesotrs" src="/images/content/investing.png" title="Helpful tips for investors" style="width: 63%; height: 63%">
+</center>
 
 Investing in the stock market can be a thrilling journey, but it's crucial to approach it with a well-thought-out strategy. 
 
@@ -358,7 +391,11 @@ And as a shareholder, remember that you have a voice in the companies you invest
 
 By engaging in shareholder activism, you can not only potentially increase your returns but also drive positive change in corporate behavior.
 
-## Frequently Asked Questions About Shareholders and Stockholders
+## FAQs - Frequently Asked Questions About Shareholders and Stockholders
+
+<center>
+<img alt="How are shareholders and stockholders similar?" src="/images/content/answers.png" title="Most common questions about stockholders and shareholders" style="width: 63%; height: 63%">
+</center>
 
 <div>
   <h3>What is the difference between a shareholder and a stockholder?</h3>
