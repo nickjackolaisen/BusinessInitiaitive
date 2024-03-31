@@ -2,7 +2,7 @@
 title: "Sole Proprietorship Facts, Stats, & FAQs for 2024 (UPDATED)"
 layout: post
 date: 2023-07-05
-update_date: 2024-03-18
+update_date: 2024-03-31
 author: jack_nicholaisen
 summary: "Unlock your business potential with our data-driven insights, expert consulting, and tailored pricing. Elevate success today!" 
 thumbnail: /images/posts-headers/sole-proprietorship-facts-stats-faqs-header.png
@@ -52,11 +52,15 @@ This single factor means anybody with a significantly sized Sole Proprietorship 
 
 Without any liability protections, any massively successful sole proprietor would be out of their mind to NOT convert their business to one which provides the peace of mind of Limited Personal Liability Protections, the savings of tax breaks, and the option to expand and add Owners and Investors. 
 
+<p>
+<b>➤ MORE: </b> <a href="/statistics/sole-proprietorship/success-and-failure-rate/" target="_blank">Why do some sole proprietorships fail while others succeed?</a>
+</p>
+
 <center>
 <img alt="largest sole proprietorships" src="/images/content/funny-workers.png" style="width: 63%; height: 63%">
 </center>
 
-## Sole Proprietorship Tax Return Statistics from 2019, 2018, 2017, 2016, and 2015
+## Sole Proprietorship Tax Return Statistics from 2015 to 2021
 
 ### Nonfarm Sole Proprietorship Statistics ###
 
@@ -125,7 +129,7 @@ Without any liability protections, any massively successful sole proprietor woul
 
 <a id="benefits"> 
 
-[Sources](https://www.irs.gov/statistics/soi-tax-stats-nonfarm-sole-proprietorship-statistics)
+<a href="https://www.irs.gov/statistics/soi-tax-stats-nonfarm-sole-proprietorship-statistics" target="_blank"><b>Source</b></a>
 
 ## The 5 Strengths and Advantages of a Sole Proprietorship
 
@@ -323,7 +327,11 @@ Being a private company, Cargill  restricts access to their financial reports. H
 ###  1. Single Owner Business
 
 Sole Proprietorships are limited to one owner who doubles as the main operator.
-    
+
+<p>
+<b>➤ DISCOVER: </b> <a href="/statistics/sole-proprietorship/success-and-failure-rate/" target="_blank">How to ensure your business is a successful endeavor!</a>
+</p>
+
 ###  2. Business Assets are Personal Assets
 
 This type of business doesn’t separate between the business and it’s owner. 
@@ -347,7 +355,7 @@ On the one hand the owner gets all the credit and praise when things are going w
 
 On the flip side, the owner is at fault should the business take any losses or make mistakes. 
 
-<p><b>➤ Take Initiative: </b> <a href="https://www.businessinitiative.org/sole-proprietorship/examples/" target="_blank"> Start your very own Sole Proprietorship TODAY!</a></p>
+<p><b>➤ Take Initiative: </b> <a href="https://www.businessinitiative.org/sole-proprietorship/examples/" target="_blank"> 17 ideas you can use to start your very own Sole Proprietorship TODAY!</a></p>
     
 ###  4. Informal Business Structure
 As the simplest business entity, Sole Proprietorships are not registered with the state. 
