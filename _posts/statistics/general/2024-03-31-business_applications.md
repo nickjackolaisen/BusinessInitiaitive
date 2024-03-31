@@ -34,11 +34,11 @@ Stay tuned as we delve deeper into the numbers, exploring what they reveal about
 
 <a id="data"> 
 
-## The Data
+## The Data - Yearly Average Business Applications
 
-<h3>Yearly Average Business Applications</h3>
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <canvas id="myChart" width="400" height="200"></canvas>
+<html>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<canvas id="myChart" width="400" height="200"></canvas>
 
 <script>
         var ctx = document.getElementById('myChart').getContext('2d');
@@ -63,7 +63,11 @@ Stay tuned as we delve deeper into the numbers, exploring what they reveal about
             }
         });
 </script>
+</html>
+
 <a id="applications"> 
+
+<a href="https://www.census.gov/econ/bfs/index.html" target="_blank">Source</a>
 
 ## The Rise and Fall of Business Applications
 
