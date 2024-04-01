@@ -20,9 +20,9 @@ An uptick in applications often signals a bullish outlook, with individuals and 
 
 Conversely, a downturn might indicate economic headwinds or a lack of confidence in the market.
 
-{% include takeaway-box.html bullet1="Business applications surged in 2020, indicating a COVID-19-driven boom in entrepreneurship and startup formation." bullet2="Nonstore retail and personal services sectors experienced the largest growth, highlighting the shift towards e-commerce and self-employment opportunities." bullet3="Monitoring business application trends is essential for understanding economic conditions and making informed decisions." bullet4="The rise in nonemployer business applications suggests an increasing trend towards gig work and independent contracting." bullet5="The long-term effects of the pandemic may include a continued increase in online businesses, remote work, and restructuring in retail and food services sectors." %}
+{% include takeaway-box.html bullet1="Business applications surged in 2020, indicating a COVID-19-driven boom in entrepreneurship and startup formation." bullet2="Nonstore retail and personal services sectors experienced the largest growth, highlighting the shift towards e-commerce and self-employment opportunities." bullet3="Monitoring business application trends is essential for understanding economic conditions and making informed decisions." bullet4="The rise in nonemployer business applications suggests an increasing trend towards gig work and independent contracting." bullet5="The long-term effects of the pandemic may include a continued increase in online businesses, remote work, and restructuring in the retail and food services sectors." %}
 
-Our analysis draws on data from the U.S. Census Bureau, specifically focusing on the "Business Formation Statistics" report. 
+Our analysis draws on data from the U.S. Census Bureau, specifically their *Business Formation Statistics* report. 
 
 This comprehensive dataset covers the period from 2004 to 2024, providing a rich, two-decade-long window into the ebb and flow of business applications across the United States. 
 
@@ -49,8 +49,8 @@ Stay tuned as we delve deeper into the numbers, exploring what they reveal about
                 datasets: [{
                     label: 'Average Number of Business Applications',
                     data: [189760, 209126, 219638, 221288, 210291, 202534, 208311, 214606, 214715, 217629, 222265, 235288, 248009, 266427, 291662, 293181, 364922, 450669, 423664, 457180, 442490],
-                    backgroundColor: 'rgba(54, 162, 235, 0.2)',
-                    borderColor: 'rgba(54, 162, 235, 1)',
+                    backgroundColor: 'rgba(0, 133, 255, 0.2)',
+                    borderColor: 'rgba(0, 99, 160, 1)',
                     borderWidth: 1
                 }]
             },
@@ -186,7 +186,7 @@ This surge can be attributed to the continued digital transformation and the eme
 
 - ### 2022-2024:
 
-The data shows a slight decrease in applications, with averages of 423,664 in 2022 and 442,490 in 2024. 
+The data shows a slight decrease in applications, with averages of 423,664 in 2022 and 442,490 so far for 2024. 
 
 This period reflects a stabilization phase, as the market adjusts to the new normal and the initial rush of pandemic-induced entrepreneurship begins to level off.
 
@@ -216,7 +216,7 @@ This surge in entrepreneurial activity is reflected in the data, with the averag
 
 The trend continued into 2021, with the average number of business applications climbing even higher to 450,669. This continued increase can be attributed to several factors. 
 
-Firstly, the rollout of vaccines and gradual easing of lockdowns provided a glimmer of hope and stability, encouraging more people to pursue their business ventures. 
+Firstly, the gradual easing of lockdowns provided a glimmer of hope and stability, encouraging more people to pursue their business ventures. 
 
 Additionally, the shift towards digitalization and e-commerce, accelerated by the pandemic, opened up new opportunities for online businesses. 
 
@@ -370,7 +370,7 @@ Notably, the data highlights periods of growth and contraction, with a significa
 
 The surge in applications, particularly in the nonstore retail and personal services sectors, underscores a significant shift towards e-commerce and self-employment.
 
-Understanding these trends is crutial for aspiring entrepreneurs to better position themselves, capitalize on emerging markets, and adapt to the evolving economic environment.
+Understanding these trends is crucial for aspiring entrepreneurs to better position themselves, capitalize on emerging markets, and adapt to the evolving economic environment.
 
 Investors can gauge the health of the startup ecosystem, while policymakers can tailor their support to foster a conducive environment for business creation.
 
