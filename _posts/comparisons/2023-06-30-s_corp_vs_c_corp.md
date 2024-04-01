@@ -2,10 +2,12 @@
 layout: post
 title: "S Corp vs C Corp: Taxes, Benefits, and Requirements"
 date: 2023-06-30
-update_date: 2023-09-20
+update_date: 2024-03-31
 author: jack_nicholaisen
 summary: Are you tired of missing out on tax breaks and a predictable salary? If you run a Default LLC, have a look at what upgrading to a Specialty LLC can do for you.
-permalink: /s-corp-vs-c-corp/
+permalink: 
+redirect_from: /comparison/s-corp-vs-c-corp/
+    - /s-corp-vs-c-corp/
 ---
 
 ## Elite Tax Status, Payment Methods, and More...
