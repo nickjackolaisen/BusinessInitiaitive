@@ -7,7 +7,7 @@ author: jack_nicholaisen
 summary: "Boost your business with our Profit Margin Calculator. Try it now for financial clarity!" 
 thumbnail: /images/posts-headers/calculator/profit-margin-calculator-header.png
 image: /images/posts-headers/calculator/profit-margin-calculator-header.png
-permalink: /tools/calculator/internal-rate-of-return/
+permalink: /tools/calculator/profit-margin/
 ---
 
 In the world of business, understanding your financial metrics is crucial for success. 
