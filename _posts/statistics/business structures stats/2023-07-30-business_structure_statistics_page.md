@@ -12,30 +12,30 @@ permalink: /statistics/business-structures/
 <h3>The Facts & Stats of Business Entities</h3>
 
 
-      <p style="text-align:center">
-            &bull; <a href="/statistics/business-structures/funding/">The Impact of Business Structure on Access to Capital</a>       
-      </p>
-      <p style="text-align:center">
+<p style="text-align:center">
+      &bull; <a href="/statistics/business-structures/funding/">The Impact of Business Structure on Access to Capital</a>       
+</p>
+<p style="text-align:center">
             &bull; <a href="/statistics/business-structures/geographic-region/">The Geographic Distribution of Business Structures</a>       
-      </p>
-      <p style="text-align:center">
+</p>
+<p style="text-align:center">
             &bull; <a href="/statistics/business-structures/franchise-success/">The Success of Franchises Across Various Business Structures</a>       
       </p>
-      <p style="text-align:center">
+<p style="text-align:center">
             &bull; <a href="/statistics/business-structures/remote-first-companies/">The Longevity and Success of Remote-First Companies by Structure</a>       
-      </p>
-      <p style="text-align:center">
+</p>
+<p style="text-align:center">
             &bull; <a href="/statistics/business-structures/employee-satisfaction/">The Relationship Between Business Structure and Employee Satisfaction</a>       
-      </p>
-      <p style="text-align:center">
+</p>
+<p style="text-align:center">
             &bull; <a href="/statistics/business-structures/tax-implications/">Tax Implications of Different Business Structures</a>       
-      </p>
-      <p style="text-align:center">
+</p>
+<p style="text-align:center">
             &bull; <a href="/statistics/business-structures/economic-cycles/">The Impact of Economic Business Cycles on Business Structures</a>       
-      </p>
-      <p style="text-align:center">
+</p>
+<p style="text-align:center">
             &bull; <a href="/statistics/business-structures/government-regulation/">The Impact of Government Regulations on Business Structures</a>       
-      </p>
+</p>
       <p style="text-align:center">
             &bull; <a href="/statistics/business-structures/innovation/">The Relationship Between Business Structure and Innovation</a>       
       </p>
