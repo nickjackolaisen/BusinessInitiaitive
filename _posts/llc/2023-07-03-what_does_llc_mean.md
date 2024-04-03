@@ -2,7 +2,7 @@
 layout: post
 title: "What Does LLC Mean in Business and How Do They Work?"
 date: 2023-07-03
-update_date: 2023-11-27
+update_date: 2024-04-03
 author: jack_nicholaisen
 summary: LLC stands for Limited Liability Company. Read this to find out how using one can put you on the fast-track to success.
 thumbnail: /images/posts-headers/what-does-llc-mean-header.png
@@ -328,7 +328,7 @@ LLCs are great for starting and building.
 
 As an LLC you have the added opportunity of changing your tax status to a C-Corp once your business is more established. 
 
-<p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/s-corp-vs-c-corp/" target="_blank"> Is an S- or C-Corp right for you?</a></p>
+<p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/comparison/s-corp-vs-c-corp/" target="_blank"> Is an S- or C-Corp right for you?</a></p>
 
 ## In Conclusion… 
 

@@ -2,7 +2,7 @@
 title: "Navigating Multi-Member LLCs | Management, Ownership, and Taxes"
 layout: post
 date: 2023-08-09
-update_date: 2023-11-21
+update_date: 2024-04-03
 author: jack_nicholaisen
 summary: "Explore multi-member LLC management, ownership, taxes, and disputes. Get tips for a solid operating agreement. Essential for entrepreneurs."
 permalink: /llc/multi-member/overview/
@@ -59,7 +59,7 @@ This management style is more common in larger multi-member LLCs or when some me
 
 ### Case Study: Choosing the Right Management Style
 
-In 2013, the founders of [Casper](https://www.inc.com/magazine/201505/tom-foster/casper-the-warby-parker-of-mattresses.html), a mattress startup, opted for a member-managed LLC. 
+In 2013, the founders of <a href="https://www.hbs.edu/faculty/Pages/item.aspx?num=51747" target="_blank">Casper</a>, a mattress startup, opted for a member-managed LLC. 
 <a id="taxes"> 
 
 The five founders all held executive positions in the company and played active roles in its growth. 
@@ -74,7 +74,7 @@ This means that the LLC itself does not pay taxes. Instead, the profits and loss
 
 This pass-through taxation can be advantageous for many businesses, as it avoids the double taxation that corporations face.
 
-However, multi-member LLCs also have the option to be taxed as a corporation, [either a C corporation or an S corporation](https://www.businessinitiative.org/s-corp-vs-c-corp/).
+However, multi-member LLCs also have the option to be taxed as a corporation, <a href="/comparison/s-corp-vs-c-corp/" target="_blank">either a C corporation or an S corporation</a>.
 
 Choosing the appropriate tax classification depends on the specific circumstances of the business and its owners. 
 
@@ -83,7 +83,7 @@ It is essential to consult with a tax professional to determine the best tax str
 ### Tax Structure Example: Opting for S Corporation Taxation
 <a id="conflicts"> 
 
-In 2010, the owners of [Left Hand Brewing Company](https://www.lefthandbrewing.com/2013/02/04/lefthandbrewing/), a craft brewery, decided to switch their multi-member LLC's tax classification from a partnership to an S corporation. 
+In 2010, the owners of <a href="https://www.lefthandbrewing.com/our-story/about-us" target="_blank">Left Hand Brewing Company</a>, a craft brewery, decided to switch their multi-member LLC's tax classification from a partnership to an S corporation. 
 
 This change allowed the business to save on self-employment taxes and streamline its accounting processes.
 
@@ -134,11 +134,13 @@ If you're considering forming a multi-member LLC, consult with an experienced at
 
 **Ready to start your multi-member LLC journey?**
 
-[Schedule a consultation call](https://calendly.com/businessinitiative/30-minute-consultation-call) with Business Initiative now and let's set your business up for long-term success.
+<a href="https://calendly.com/businessinitiative/30-minute-consultation-call" target="_blank">Schedule a consultation call</a> with Business Initiative now and let's set your business up for long-term success.
 
-Don't want to set up a call? You can [message us directly here](https://www.businessinitiative.org/contact/) or send us a DM [@BisInitiative on X](https://twitter.com/BisInitiative)
+Don't want to set up a call? You can <a href="https://www.businessinitiative.org/contact/" target="_blank">message us directly here</a>or send us a DM on X (Twitter).
 <br>
 
+<a href="https://twitter.com/intent/tweet?screen_name=BisInitiative&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-size="large" data-show-count="false">Tweet to @BisInitiative</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<br>
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 <a id="faqs"> 
 

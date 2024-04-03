@@ -2,7 +2,7 @@
 title: "Sole Proprietorship Facts, Stats, & FAQs for 2024 (UPDATED)"
 layout: post
 date: 2023-07-05
-update_date: 2024-03-31
+update_date: 2024-04-03
 author: jack_nicholaisen
 summary: "Unlock your business potential with our data-driven insights, expert consulting, and tailored pricing. Elevate success today!" 
 thumbnail: /images/posts-headers/sole-proprietorship-facts-stats-faqs-header.png
@@ -17,11 +17,15 @@ tags: number of sole proprietorships in the united states, largest sole propriet
 
 According to the U.S. Census Bureau's most recent report, there were **834,711 Sole Proprietorships in the US** in 2021. 
 
-Compare this to the total **8,148,606** Business establishments in the US that same year. [Source](https://data.census.gov/table/CBP2021.CB2100CBP?q=number%20of%20businesses%20and%20employees)
+Compare this to the total **8,148,606** Business establishments in the US that same year. 
+
+<a href="https://data.census.gov/table/CBP2021.CB2100CBP?q=number%20of%20businesses%20and%20employees" target="_blank">Source</a>
 
 ## What percentage of businesses are Sole Proprietorships?
 
-Based on this, **10.24% percent of businesses are Sole Proprietorships in the United States.** [Source](https://data.census.gov/table/CBP2021.CB2100CBP?q=number%20of%20businesses%20and%20employees)
+Based on this, **10.24% percent of businesses are Sole Proprietorships in the United States.** 
+
+<a href="https://data.census.gov/table/CBP2021.CB2100CBP?q=number%20of%20businesses%20and%20employees" target="_blank">Source</a>
 
 <center>
 <img alt="how many sole proprietorships" src="/images/content/statistics/number-sole-proprietorships.png" title="How many business are sole proprietorships?" style="width: 63%; height: 63%">
@@ -46,9 +50,9 @@ It should come as no surprise since they are the easiest, cheapest, and fastest 
 
 Believe it or not, the Largest Sole Proprietorship in the world simply wouldn't exist. 
 
-Unfortunately, Sole Proprietors don’t receive any [Limited Personal Liability Protections](https://www.businessinitiative.org/sole-proprietorship-vs-llc/).
+Unfortunately, Sole Proprietors don’t receive any <a href="https://www.businessinitiative.org/comparison/sole-proprietorship-vs-llc/" target="_blank">Limited Personal Liability Protections</a>.
 
-This single factor means anybody with a significantly sized Sole Proprietorship would surely upgrade their Business type to a [Single-Member LLC](https://www.businessinitiative.org/llc/what-does-llc-mean/) or Corporate variation as soon as humanly possible. 
+This single factor means anybody with a significantly sized Sole Proprietorship would surely upgrade their Business type to a <a href="https://www.businessinitiative.org/llc/what-does-llc-mean/" target="_blank">Single-Member LLC</a> or Corporate variation as soon as humanly possible. 
 
 Without any liability protections, any massively successful sole proprietor would be out of their mind to NOT convert their business to one which provides the peace of mind of Limited Personal Liability Protections, the savings of tax breaks, and the option to expand and add Owners and Investors. 
 
@@ -229,7 +233,7 @@ The single worst aspect of the Sole Proprietorship as a business entity is it’
 
 In a nutshell, this means sole proprietors have to stick with  low- or no-risk businesses. 
 
-If something goes wrong and the business gets sued or owes money to creditors, [the sole proprietor is liable to pay out of pocket](https://www.businessinitiative.org/sole-proprietorship-vs-llc/pros-and-cons/) for all legal and business fees. 
+If something goes wrong and the business gets sued or owes money to creditors, <a href="https://www.businessinitiative.org/comparison/sole-proprietorship-vs-llc/pros-and-cons/" target="_blank">the sole proprietor is liable to pay out of pocket</a> for all legal and business fees. 
 		
 Not only does this personally affect the owner of the business, it also has a massive impact on their ability to secure funding. 
 
@@ -243,7 +247,7 @@ Due to their lack of protection Sole Proprietors are heavily restricted to what 
 
 If you are looking for a variable taxation structure to fit your business needs, stay away from the Sole Proprietorship. 
 
-You would be better off setting up an LLC, [S-Corp, C-Corp](https://www.businessinitiative.org/s-corp-vs-c-corp/), or Corporation. 
+You would be better off setting up an LLC, <a href="/comparison/s-corp-vs-c-corp/" target="_blank">S-Corp, C-Corp</a>, or Corporation. 
 		
 Sole Proprietorships have one standardized tax setup: 
 
@@ -251,9 +255,10 @@ Sole Proprietorships have one standardized tax setup:
  
 With this setup all of the business’s profits are automatically “passed” on to the owner’s personal account. 
 
-Any profits (or losses) coming from the Sole Proprietorship are declared on the [1040-SC Form](https://www.irs.gov/pub/irs-pdf/f1040sc.pdf). 
+Any profits (or losses) coming from the Sole Proprietorship are declared on the <a href="https://www.irs.gov/pub/irs-pdf/f1040sc.pdf" target="_blank">1040-SC Form</a>. 
 
-This is attached to the [federal tax return](https://www.irs.gov/pub/irs-pdf/f1040.pdf) and you’re good to go. 
+This is attached to the 
+<a href="https://www.irs.gov/pub/irs-pdf/f1040.pdf" target="_blank">federal tax return</a> and you’re good to go. 
 
 With a Sole Proprietorship you are paying Self-Employment tax in addiction to the usual federal, state, and local income taxes based on where you live. 
 
@@ -306,7 +311,7 @@ Although Sole Proprietorships are known to be better for side-hustles and small,
 
 With that being said…
 
-**Cargill is the biggest privately owned corporation in America coming in at an annual revenue of $165 Billion**, according to their [2022 Annual Report](https://www.cargill.com/doc/1432215917376/2022-cargill-annual-report.pdf). 
+**Cargill is the biggest privately owned corporation in America coming in at an annual revenue of $165 Billion**, according to their <a href="https://www.cargill.com/doc/1432215917376/2022-cargill-annual-report.pdf" target="_blank">2022 Annual Report</a>. 
 
 This food production giant was started way back in 1865 and currently employees 155,000 workers worldwide.
 
@@ -319,8 +324,8 @@ Based on their wikipedia page, Cargill brought in a **net profit of $4.93 Billio
 Being a private company, Cargill  restricts access to their financial reports. Here is what they've released so far:
 
 <img alt="Cargill’s annual revenue compared to their annual profits between 2010 and 2021" src="/images/cargill-revenue-profit-2010-2021.png"/>
-
-**Source:** [Statista](https://www.statista.com/statistics/274778/revenue-and-profit-of-cargill-agricultural-company/)
+ 
+<a href="https://www.statista.com/statistics/274778/revenue-and-profit-of-cargill-agricultural-company/" target="_blank">Source</a>
 
 ## 5 Facts About Sole Proprietorships?
 
@@ -344,7 +349,7 @@ If the business takes on any risk or liability in the form of debts, the respons
 
 The unfortunate reality is if the owner is unable to pay back loans from their business and it’s profits, the owner then has to pay out of pocket. 
 
-This means [the bank can come after the owner’s personal assets and property](https://www.businessinitiative.org/sole-proprietorship-vs-llc/) in order to repay what is owed.		
+This means <a href="https://www.businessinitiative.org/sole-proprietorship-vs-llc/" target="_blank">the bank can come after the owner’s personal assets and property</a> in order to repay what is owed.		
     
 ###  3. Total Control
 Since the owner is viewed as the business from a legal standpoint, they have full control over every aspect of the business. All decisions are made by the sole proprietor. 
@@ -360,7 +365,7 @@ On the flip side, the owner is at fault should the business take any losses or m
 ###  4. Informal Business Structure
 As the simplest business entity, Sole Proprietorships are not registered with the state. 
 
-All it takes to [start one](https://www.businessinitiative.org/sole-proprietorship/examples/) is to make money providing a service or product under your legal name. 
+All it takes to <a href="https://www.businessinitiative.org/sole-proprietorship/examples/" target="_blank">start one</a> is to make money providing a service or product under your legal name. 
 
 This gets you out of having to file paperwork with your local government and pay registration, filing fees, and annual maintenance costs. 
 
@@ -377,9 +382,9 @@ This streamlines the entire taxation process.
 
 All the owner has to do is account for any profits or losses on their personal income tax return. 
 
-The only additional piece of paperwork one has to complete is the [1040-SC Form](https://www.irs.gov/pub/irs-pdf/f1040sc.pdf). 
+The only additional piece of paperwork one has to complete is the <a href="https://www.irs.gov/pub/irs-pdf/f1040sc.pdf" target="_blank">1040-SC Form</a>. 
 
-Just attach this to the [federal tax return](https://www.irs.gov/pub/irs-pdf/f1040.pdf) you are probably already familiar with and complete every year.  
+Just attach this to the <a href="https://www.irs.gov/pub/irs-pdf/f1040.pdf" target="_blank">federal tax return</a> you are probably already familiar with and complete every year.  
 
 ## How long do small businesses last?
 
@@ -416,7 +421,7 @@ Now your small business isn't so small anymore.
 
 Total liability prevents owners from taking the risks necessary for some businesses to flourish.
 
-**2.**  As the simplest business entity, [owners are limited](https://www.businessinitiative.org/sole-proprietorship/disadvantages/) to one taxation method: **The Pass-Through Process**. 
+**2.**  As the simplest business entity, <a href="https://www.businessinitiative.org/sole-proprietorship/disadvantages/" target="_blank">owners are limited</a> to one taxation method: **The Pass-Through Process**. 
 
 There are **no tax breaks** available for Sole Proprietorships like there are for LLCs and Corporations. 
 
@@ -426,7 +431,7 @@ This makes finding investors and establishing yourself as a credible business mu
 
 **4.  You cannot set up a business bank account** because Sole Proprietorships are technically viewed as unofficial business entities. 
 
-**5.**  Although they are relatively [easy to dissolve](https://www.businessinitiative.org/sole-proprietorship/advantages/), **selling a Sole Proprietorship is extremely difficult**. 
+**5.**  Although they are relatively <a href="https://www.businessinitiative.org/sole-proprietorship/advantages/" target="_blank">easy to dissolve</a>, **selling a Sole Proprietorship is extremely difficult**. 
 
 You cannot sell the Sole Proprietorship as an entity because, from a legal point-of-view, its not a business entity.
 
@@ -449,7 +454,7 @@ No, Sole Proprietorship entities will end when one of the following events occur
 **3.**	The sole proprietor dies.
 <a id="faqs"> 
 
-In a Sole Proprietorship the owner is [legally viewed as the business itself](https://www.businessinitiative.org/sole-proprietorship/disadvantages/). 
+In a Sole Proprietorship the owner is <a href="https://www.businessinitiative.org/sole-proprietorship/disadvantages/" target="_blank">legally viewed as the business itself</a>. 
 
 If the owner is no longer present or is unable to continue providing their services or selling their goods then the Sole Proprietorship simply dissolves. 
 
@@ -474,7 +479,7 @@ In this structure, the owner is personally responsible for all assets, liabiliti
 <summary>Reveal the answer!</summary>
 <br>
 <p>
-According to the <a href="https://www.sba.gov/sites/default/files/advocacy/2018-Small-Business-Profiles-US.pdf">U.S. Small Business Administration (SBA)</a>, sole proprietorships account for approximately 73% of all businesses in the United States.
+According to the <a href="https://www.sba.gov/sites/default/files/advocacy/2018-Small-Business-Profiles-US.pdf" target="_blank">U.S. Small Business Administration (SBA)</a>, sole proprietorships account for approximately 73% of all businesses in the United States.
 </p>
 </details>
 
@@ -529,7 +534,7 @@ According to the <a href="https://www.sba.gov/sites/default/files/advocacy/2018-
 <details>
 <summary>Reveal the answer!</summary>
 <br>
-<p>According to the <a href="https://www.bls.gov/bdm/entrepreneurship/entrepreneurship.htm">Bureau of Labor Statistics</a>, approximately <b>20% of sole proprietorships fail within the first year</b>, while around 50% fail within the first five years.
+<p>According to the <a href="https://www.bls.gov/bdm/entrepreneurship/entrepreneurship.htm" target="_blank">Bureau of Labor Statistics</a>, approximately <b>20% of sole proprietorships fail within the first year</b>, while around 50% fail within the first five years.
 </p>
 <p> However, these statistics vary depending on the industry and the specific circumstances of each business.</p>
 </details>
@@ -568,7 +573,7 @@ According to the <a href="https://www.sba.gov/sites/default/files/advocacy/2018-
 <details>
 <summary>Reveal the answer!</summary>
 <br>
-<p>According to data from the <a href="https://www.irs.gov/statistics/soi-tax-stats-sole-proprietorship-returns">Internal Revenue Service (IRS)</a>, the average annual net income for a sole proprietor in the United States was approximately $47,000 in 2019.</p>
+<p>According to data from the <a href="https://www.irs.gov/statistics/soi-tax-stats-sole-proprietorship-returns" target="_blank">Internal Revenue Service (IRS)</a>, the average annual net income for a sole proprietor in the United States was approximately $47,000 in 2019.</p>
 </details>
 
 <h3>How do sole proprietorships contribute to the economy?</h3>
@@ -577,21 +582,21 @@ According to the <a href="https://www.sba.gov/sites/default/files/advocacy/2018-
 <br>
 <p>Sole proprietorships play an essential role in the U.S. economy by providing employment opportunities, promoting innovation, and contributing to local communities.
 </p>
-<p> In 2019, sole proprietorships reported total receipts of over $1.4 trillion <a href="https://www.irs.gov/statistics/soi-tax-stats-sole-proprietorship-returns">IRS</a>.</p>
+<p> In 2019, sole proprietorships reported total receipts of over $1.4 trillion <a href="https://www.irs.gov/statistics/soi-tax-stats-sole-proprietorship-returns" target="_blank">IRS</a>.</p>
 </details>
 
 <h3>What percentage of women-owned businesses are sole proprietorships?</h3>
 <details>
 <summary>Reveal the answer!</summary>
 <br>
-<p>According to the National Association of Women Business Owners <a href="https://www.nawbo.org/resources/women-business-owner-statistics">(NAWBO)</a>, nearly 90% of women-owned businesses are classified as sole proprietorships.</p>
+<p>According to the National Association of Women Business Owners <a href="https://www.nawbo.org/resources/women-business-owner-statistics" target="_blank">(NAWBO)</a>, nearly 90% of women-owned businesses are classified as sole proprietorships.</p>
 </details>
 
 <h3>How has the number of sole proprietorships changed over time?</h3>
 <details>
 <summary>Reveal the answer!</summary>
 <br>
-<p>The number of sole proprietorships has been steadily increasing over the past two decades. According to data from <a href="https://www.statista.com/statistics/542181/us-number-of-sole-proprietorship-establishments/">Statista</a>, there were approximately 23 million registered sole proprietorships in the United States in 1997; this number increased to around 26 million by 2020.
+<p>The number of sole proprietorships has been steadily increasing over the past two decades. According to data from <a href="https://www.statista.com/statistics/542181/us-number-of-sole-proprietorship-establishments/" target="_blank">Statista</a>, there were approximately 23 million registered sole proprietorships in the United States in 1997; this number increased to around 26 million by 2020.
 </p>
 </details>
 
@@ -599,7 +604,7 @@ According to the <a href="https://www.sba.gov/sites/default/files/advocacy/2018-
 <details>
 <summary>Reveal the answer!</summary>
 <br>
-<p>Research conducted by the <a href="https://archive.mbda.gov/sites/default/files/migrated/files-attachments/Failuretolaunch_0.pdf">Minority Business Development Agency (MBDA)</a> indicates that minority-owned businesses have a lower survival rate than non-minority-owned businesses overall.</p>
+<p>Research conducted by the <a href="https://archive.mbda.gov/sites/default/files/migrated/files-attachments/Failuretolaunch_0.pdf" target="_blank">Minority Business Development Agency (MBDA)</a> indicates that minority-owned businesses have a lower survival rate than non-minority-owned businesses overall.</p>
 <p>However, this research does not differentiate between sole proprietorships and other business structures, so it is unclear whether the same trend applies specifically to minority-owned sole proprietorships.</p>
 </details>
 

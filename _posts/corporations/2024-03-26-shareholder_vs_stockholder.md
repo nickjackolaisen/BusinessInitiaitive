@@ -2,12 +2,14 @@
 title: "What's the Difference Between a Shareholder and a Stockholder?"
 layout: post
 date: 2024-03-30
-update_date: 
+update_date: 2024-04-03
 author: jack_nicholaisen
 summary: "Unlock the secrets between shareholders & stockholders to navigate corporate governance & investment strategy. Boost your business savvy now!"
 thumbnail: /images/posts-headers/shareholder-vs-stockholder-header.png
 image: /images/posts-headers/shareholder-vs-stockholder-header.png
-permalink: /corporation/shareholder-vs-stockholder/
+permalink: /comparison/shareholder-vs-stockholder/
+redirect_from:
+  - /corporation/shareholder-vs-stockholder/
 tags: 
 ---
 
@@ -173,7 +175,7 @@ In the United States, for example, dividends are typically taxed as ordinary inc
 
 Capital gains from selling shares are also subject to tax, with rates depending on how long you've held the stock. 
 
-It's essential to consult with a tax professional or use resources like the <a href="www.irs.gov" target="_blank">IRS website</a> to understand your specific tax obligations and plan accordingly.
+It's essential to consult with a tax professional or use resources like the <a href="https://www.irs.gov/" target="_blank">IRS website</a> to understand your specific tax obligations and plan accordingly.
 
 In conclusion, being a shareholder or stockholder comes with a blend of legal rights and financial interests that can significantly impact your investment journey. 
 <a id="shares-and-stocks"> 

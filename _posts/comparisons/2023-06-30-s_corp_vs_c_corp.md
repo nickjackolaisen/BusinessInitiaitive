@@ -2,17 +2,19 @@
 layout: post
 title: "S Corp vs C Corp: Taxes, Benefits, and Requirements"
 date: 2023-06-30
-update_date: 2024-03-31
+update_date: 2024-04-03
 author: jack_nicholaisen
 summary: Are you tired of missing out on tax breaks and a predictable salary? If you run a Default LLC, have a look at what upgrading to a Specialty LLC can do for you.
-permalink: 
-redirect_from: /comparison/s-corp-vs-c-corp/
+permalink: /comparison/s-corp-vs-c-corp/
+redirect_from: 
     - /s-corp-vs-c-corp/
 ---
 
 ## Elite Tax Status, Payment Methods, and More...
 
-Upgrading to a specialty tax status changes how you and your taxes are paid. When you upgrade your LLC to a specialty tax status, you and any other owners are referred to as “Shareholders” instead of as “Members”.  
+Upgrading to a specialty tax status changes how you and your taxes are paid. 
+
+When you upgrade your LLC to a specialty tax status, you and any other owners are referred to as “Shareholders” instead of as “Members”.  
 
 Here are the two options you can choose from: 
 
@@ -21,9 +23,13 @@ Here are the two options you can choose from:
 |**Payment Method** |Owners Draw |Salary + Distributions |Salary + Dividends |
 |**Tax Advantages** |  None   |No Corporate Tax |No Self-Employment Tax |
 
-Upgrading has the potential to save you, and the rest of your company, money by using the unique characteristics of these business entities. The downside of upgrading is your LLC will have different rules, regulations, and taxes to file. Not only is it a new system, but it’s also more complex. 
+Upgrading has the potential to save you, and the rest of your company, money by using the unique characteristics of these business entities. 
 
-By electing an S- or C-Corp status, your LLC is first taxed as its own business entity. Whatever remains is taxed again as personal income to the Owners and Shareholders.
+The downside of upgrading is your LLC will have different rules, regulations, and taxes to file. Not only is it a new system, but it’s also more complex. 
+
+By electing an S- or C-Corp status, your LLC is first taxed as its own business entity. 
+
+Whatever remains is taxed again as personal income to the Owners and Shareholders.
 
 The Default LLC’s simplicity is the biggest advantage over Specialty LLCs.
 
@@ -51,7 +57,9 @@ You can upgrade your default LLC to an S-Corporation where owners get paid a com
 </center>
 </figure>
 
-The S-Corp is generally more popular because you avoid Corporate Tax. The funny thing is Pass-Through Taxation also gets you out of Corporate Tax but without all the extra rules and regulations. 
+The S-Corp is generally more popular because you avoid Corporate Tax. 
+
+The funny thing is Pass-Through Taxation also gets you out of Corporate Tax but without all the extra rules and regulations. 
 
 Just remember: Your LLC should be consistently profitable before upgrading.
 
@@ -81,7 +89,7 @@ How you're taxed depends on whether you work “for” the company or work “on
 
 To upgrade to an S-Corporation:
 
-*   The [IRS limits S-Corps](https://www.irs.gov/businesses/small-businesses-self-employed/s-corporations) to 100 shareholders
+*   The <a href="https://www.irs.gov/businesses/small-businesses-self-employed/s-corporations" target="_blank">IRS limits S-Corps</a> to 100 shareholders
 *   Shareholders must be US citizens residing in the United States
 *   Owners can only be people (Not groups, organizations, or other business entities, as they can be in a default LLC)
 *   Owners must have the same class of stock. Certain shareholders can’t have a higher status or more entitlement than other shareholders 
@@ -90,15 +98,17 @@ These additional rules create more uniformity within the LLC.
 
 ### S-Corp Election Forms and Tax Forms ##
 
-To upgrade your default LLC to a specialty S-Corp, complete and file a [2553 Election Form](https://www.irs.gov/pub/irs-pdf/f2553.pdf). 
+To upgrade your default LLC to a specialty S-Corp, complete and file a <a href="https://www.irs.gov/pub/irs-pdf/f2553.pdf" target="_blank">2553 Election Form</a>. 
 
-<p><b>➤ MORE: </b> <a href="https://www.irs.gov/instructions/i2553"> Upgrade to an S-Corp.</a></p>
+<p><b>➤ MORE: </b> <a href="https://www.irs.gov/instructions/i2553" target="_blank"> Upgrade to an S-Corp.</a></p>
 
-Thankfully, there are plenty of online services available to submit these forms and other documents on your behalf. They simplify the process and reduce the headache of dealing with government services and bureaucracy.
+Thankfully, there are plenty of online services available to submit these forms and other documents on your behalf. 
 
-Once you’re operating as an S-Corp, you’ll use an [1120-S Form](https://www.irs.gov/pub/irs-pdf/f1120s.pdf) to file taxes. This form is similar to the form full-on Corporations use to file taxes. 
+They simplify the process and reduce the headache of dealing with government services and bureaucracy.
 
-<p><b>➤ MORE: </b> <a href="https://www.irs.gov/instructions/i1120s"> Filing taxes as an S-Corporation.</a></p>
+Once you’re operating as an S-Corp, you’ll use an <a href="https://www.irs.gov/pub/irs-pdf/f1120s.pdf" target="_blank">1120-S Form</a> to file taxes. This form is similar to the form full-on Corporations use to file taxes. 
+
+<p><b>➤ MORE: </b> <a href="https://www.irs.gov/instructions/i1120s" target="_blank"> Filing taxes as an S-Corporation.</a></p>
 
 ### S-Corp in Action ###
 
@@ -159,7 +169,7 @@ You can also upgrade your LLC to the specialty C-Corp tax status.
 
 In addition to the salaries, you and the rest of the owners receive Dividends. 
 
-[Shareholder Dividends](https://www.henssler.com/c-corporation-distributions/) are considered personal earnings and are taxed a second time. 
+<a href="https://www.henssler.com/c-corporation-distributions/" target="_blank">Shareholder Dividends</a> are considered personal earnings and are taxed a second time. 
 
 This tax is based on your tax bracket so it varies from one person to the next. 
 
@@ -167,7 +177,8 @@ Dividends are subject to Self-Employment Tax because only Owners get them.
 
 There is no Self-Employment tax on salaries for either owners or employees.
 
-Even though upgrading to a Corporate Tax Status means paying [Double Taxation](https://smartasset.com/financial-advisor/double-taxation), one thing you are getting out of is having to pay Self-Employment Tax for your salary, as we just mentioned above. 
+Even though upgrading to a Corporate Tax Status means paying 
+<a href="https://smartasset.com/financial-advisor/double-taxation" target="_blank">Double Taxation</a>, one thing you are getting out of is having to pay Self-Employment Tax for your salary, as we just mentioned above. 
 
 <figure>
 <center>
@@ -188,7 +199,7 @@ The drawback of going C-Corp is your company is required to pay taxes twice.
 
 This is what’s referred to as “Double Taxation”. 
 
-The first tax is the [21% Corporate Tax](https://www.investopedia.com/terms/c/corporatetax.asp) which applies to all company profits. 
+The first tax is the <a href="https://www.investopedia.com/terms/c/corporatetax.asp" target="_blank">21% Corporate Tax</a> which applies to all company profits. 
 
 Your LLC pays Corporate Tax as its own entity. 
 
@@ -240,12 +251,14 @@ Seeking guidance from professionals, such as attorneys and accountants, is cruci
 
 ### C-Corp Election Forms and Tax Forms ##
 
-To upgrade your LLC to the specialty C-Corp tax status complete an [8832 Entity Classification Election Form](https://www.irs.gov/pub/irs-pdf/f8832.pdf) and submit it to the IRS. 
+To upgrade your LLC to the specialty C-Corp tax status complete an <a href="https://www.irs.gov/pub/irs-pdf/f8832.pdf" target="_blank">8832 Entity Classification Election Form</a> and submit it to the IRS. 
 
-<p><b>➤ MORE: </b> <a href="https://www.irs.gov/forms-pubs/about-form-8832"> Upgrade your LLC to a C-Corp.</a></p>
+<p><b>➤ MORE: </b> <a href="https://www.irs.gov/forms-pubs/about-form-8832" target="_blank"> Upgrade your LLC to a C-Corp.</a></p>
 
-Once you’re all set up with your C-Corp you’ll use an [1120 Form](https://www.irs.gov/pub/irs-pdf/f1120.pdf) to file taxes. This is the same form Corporations use to file taxes. 
+Once you’re all set up with your C-Corp you’ll use an <a href="https://www.irs.gov/pub/irs-pdf/f1120.pdf" target="_blank">1120 Form</a> to file taxes. 
 
-<p><b>➤ MORE: </b> <a href="https://www.irs.gov/instructions/i1120"> Filing taxes as a C-Corporation.</a></p>
+This is the same form Corporations use to file taxes. 
+
+<p><b>➤ MORE: </b> <a href="https://www.irs.gov/instructions/i1120" target="_blank"> Filing taxes as a C-Corporation.</a></p>
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>

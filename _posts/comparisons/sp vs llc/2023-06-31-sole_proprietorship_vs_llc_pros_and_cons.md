@@ -2,7 +2,7 @@
 layout: post
 title: "Sole Proprietorship vs LLC: Pros and Cons"
 date: 2023-06-31
-update_date: 2024-03-26
+update_date: 2024-04-03
 author: jack_nicholaisen
 summary: "A complete comparison of the various pros and cons of both Sole Proprietorships and Limited Liability Companies."  
 thumbnail: /images/posts-headers/sole-proprietorship-vs-llc-pros-cons-header.png
@@ -71,7 +71,9 @@ If your LLC owes more than it’s worth, creditors can take the entire business.
 
 ### Different Tax Setups ###
 
-An LLC gives you a few tax options to choose from. Whatever setup best fits your business’s needs, you can have it. 
+An LLC gives you a few tax options to choose from. 
+
+Whatever setup best fits your business’s needs, you can have it. 
 
 Plus, you can always change your tax status in the future. 
 
@@ -83,7 +85,7 @@ Figuring out how much you owe is simple.
 
 A member’s share of the company’s taxes is the same as their share of ownership in the company.
 
-To pay income tax as a Single Member LLC, you will use a [1040-SC Form](https://www.irs.gov/pub/irs-pdf/f1040sc.pdf).  
+To pay income tax as a Single Member LLC, you will use a <a href="https://www.irs.gov/pub/irs-pdf/f1040sc.pdf" target="_blank">1040-SC Form</a>.  
 
 This is the same tax form Sole Proprietorships use. 
 
@@ -95,7 +97,7 @@ The tax savings from upgrading are only worth the hassle if your business is bri
 
 In other words, S-Corps and C-Corps are better suited for when you’ve gotten your LLC off the ground and established yourself in your industry. 
 
-<p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/s-corp-vs-c-corp/" target="_blank"> Explore the differences between S- and C-Corps.</a></p>
+<p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/comparison/s-corp-vs-c-corp/" target="_blank"> Explore the differences between S- and C-Corps.</a></p>
 
 ### Scalability
 
@@ -200,9 +202,10 @@ This is the beauty of the Pass-Through Process.
 
 Your business taxes are “passed” on to you. 
 
-Just complete the [1040-C Form](https://www.irs.gov/pub/irs-pdf/f1040sc.pdf) showing how much money your business made and attach it to your [Personal 1040 Tax Form](https://www.irs.gov/pub/irs-pdf/f1040.pdf).
+Just complete the <a href="https://www.irs.gov/pub/irs-pdf/f1040sc.pdf" target="_blank">1040-C Form</a> showing how much money your business made and attach it to your <a href="https://www.irs.gov/pub/irs-pdf/f1040.pdf" target="_blank">Personal 1040 Tax Form</a>.
 
 Want to implement strategies for better growth in your business? Join the Business Intiative Newsletter:
+<br>
 <script async data-uid="0b61cd22c7" src="https://adept-hustler-4565.ck.page/0b61cd22c7/index.js"></script>
 
 ## Cons of LLCs
@@ -274,7 +277,7 @@ Now that you’re the boss, you are personally responsible for paying these taxe
 
 Lucky for you, the government makes it easy to give them your money by grouping Social Security and Medicare and calling it “Self-Employment Tax”.
 
-Calculating your Self-Employment Tax is simple. Complete a [1040-SE Form](https://www.irs.gov/pub/irs-pdf/f1040sse.pdf) and attach it to your regular [1040 Income Tax](https://www.irs.gov/pub/irs-pdf/f1040.pdf) and [1040-C Forms](https://www.irs.gov/pub/irs-pdf/f1040sc.pdf). 
+Calculating your Self-Employment Tax is simple. Complete a <a href="https://www.irs.gov/pub/irs-pdf/f1040sse.pdf" target="_blank">1040-SE Form</a> and attach it to your regular <a href="https://www.irs.gov/pub/irs-pdf/f1040.pdf" target="_blank">1040 Income Tax</a> and <a href="https://www.irs.gov/pub/irs-pdf/f1040sc.pdf" target="_blank">1040-C Forms</a>. 
 
 ## Disadvantages of Sole Proprietorships ##
 
@@ -306,7 +309,9 @@ You pay the same tax rate on your side-hustle as you do for your main source of 
 
 If you make a lot from your “main gig”, your Sole Proprietorship may suffer from most of its profits going toward paying the tax rate of your day job. 
 
-To pay Self-Employment Tax:  Simply complete and submit the [1040-SE Form](https://www.irs.gov/pub/irs-pdf/f1040sse.pdf) alongside your [1040 Income Tax](https://www.irs.gov/pub/irs-pdf/f1040.pdf) and [1040-C Forms](https://www.irs.gov/pub/irs-pdf/f1040sc.pdf). 
+**To pay Self-Employment Tax:**  
+
+Simply complete and submit the <a href="https://www.irs.gov/pub/irs-pdf/f1040sse.pdf" target="_blank">1040-SE Form</a> alongside your <a href="https://www.irs.gov/pub/irs-pdf/f1040.pdf" target="_blank">1040 Income Tax</a> and <a href="https://www.irs.gov/pub/irs-pdf/f1040sc.pdf" target="_blank">1040-C Forms</a>. 
 
 <center>
 <img alt="sole proprietorship advantages" src="/images/content/bridge-of-opportunity.png" style="width: 63%; height: 63%">
@@ -328,19 +333,27 @@ It’s very difficult to get professionals to trust and invest in your business 
 
 ### Using Your Legal Name ###
 
-Your business’s name has to be your legal name. This can harm your Sole Proprietorship’s public perception. 
+Your business’s name has to be your legal name. 
+
+This can harm your Sole Proprietorship’s public perception. 
 
 If you want a custom, industry-specific name, you should apply for a DBA name. 
 
-DBA stands for “Doing Business As…”. It’s like an alter ego you use while conducting business.
+DBA stands for “Doing Business As…”. 
+
+It’s like an alter ego you use while conducting business.
 
 Here’s the practical difference:
 
 Phil Collins (no relation) is a home flooring contractor. 
 
-Without a DBA, people refer to Phil and his business as: “I think his name is Phil Collins, he lives down the street. Doesn’t he do flooring and stuff?” 
+Without a DBA, people refer to Phil and his business as: 
 
-On the other hand, Phil can use a DBA and name his business: “Aspen Flooring and Concrete”. 
+<blockquote>
+<p>“I think his name is Phil Collins, he lives down the street. Doesn’t he do flooring and stuff?”</p>
+</blockquote>
+
+On the other hand, Phil can use a DBA and name his business: *Aspen Flooring and Concrete*. 
 
 Which one sounds more professional?
 
@@ -377,7 +390,9 @@ This is the default for LLCs but you can always upgrade and get taxed like a Cor
 
 Build your business on the proper foundation, especially if you have big goals and see yourself wanting to expand in the future.
 
-Business Initiative wants your entrepreneurial journey to be successful. Join our newletter for practical techniques you can use today!
+Business Initiative wants your entrepreneurial journey to be successful. 
+
+Join our newletter for practical techniques you can use today!
 
 <script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
 
