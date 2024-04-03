@@ -1,8 +1,8 @@
 ---
-title: "The Impact of Networking in Business Success: A Statistical Analysis by Structure"
+title: "The Impact of Networking in Business Success by Structure"
 layout: post
 date: 2023-08-05
-update_date: 2023-09-22
+update_date: 2024-04-03
 author: jack_nicholaisen
 summary: "Learn how networking can impact your business. Discover industry trends and stats. Unleash your business's potential. Read on to learn more!"
 permalink: /statistics/business-structures/networking/

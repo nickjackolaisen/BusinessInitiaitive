@@ -232,7 +232,7 @@ As concerns about income inequality and corporate influence on society grow, the
 <p>LLCs combine the liability protection of a corporation with the tax advantages and operational flexibility of a partnership.</p>
 <p>Owners (members) of an LLC are not personally liable for business debts, and profits can be passed through to members without double taxation.</p>
 <p>In 2021, LLCs accounted for 69.4% of new entity formations in the U.S.</p>
-<p><a href="https://www.sos.state.tx.us/corp/annrep.shtml" target="_blank">LLC popularity statistics</a></p>
+<p><a href="/statistics/llc/the-rise-of-llcs/" target="_blank">LLC popularity statistics</a></p>
 </details>
 
 <h3>How have technological advancements influenced business structures?</h3>
