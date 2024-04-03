@@ -1,8 +1,8 @@
 ---
-title: "The Impact of Economic Business Cycles on Business Structures: A Statistical Perspective"
+title: "The Impact of Economic Business Cycles on Business Structures"
 layout: post
 date: 2023-08-05
-update_date: 2023-11-19
+update_date: 2024-04-03
 author: jack_nicholaisen
 summary: "Explore how economic cycles affect business structures. Learn factors influencing choice and industry trends in this insightful analysis."
 permalink: /statistics/business-structures/economic-cycles/
