@@ -241,7 +241,7 @@ As concerns about income inequality and corporate influence on society grow, the
 <summary><b>Learn More...</b></summary>
 <p>E-commerce platforms allow small businesses to access global markets, while blockchain technology enables decentralized autonomous organizations (DAOs) with transparent and democratic governance.</p>
 <p>Additionally, digital tools have facilitated the rise of the gig economy, where individuals work as independent contractors.</p>
-<p><a href="https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/blockchain-beyond-the-hype-what-is-the-strategic-business-value" target="_blank">Blockchain's impact on business</a></p>
+<p><a href="/business-tips/blockchain-technology/" target="_blank">Blockchain's impact on business</a></p>
 </details>
 
 <h3>What is a benefit corporation?</h3>
@@ -271,7 +271,7 @@ As concerns about income inequality and corporate influence on society grow, the
 <p>LLCs can choose between pass-through taxation and corporate taxation.</p>
 <p>Corporations face double taxation, where the company pays corporate taxes and shareholders pay taxes on dividends.</p>
 <p>S corporations offer a solution by allowing profits to pass through to shareholders without corporate tax.</p>
-<p><a href="https://www.irs.gov/businesses/small-businesses-self-employed/business-structures" target="_blank">Tax considerations for business structures</a></p>
+<p><a href="/statistics/business-structures/tax-implications/" target="_blank">Tax considerations for business structures</a></p>
 </details>
 
 <h3>What trends are shaping the future of business structures?</h3>
