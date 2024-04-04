@@ -325,6 +325,10 @@ This rarity is due to the limitations and risks associated with sole proprietors
 
 -   Difficulties in raising capital.
 
+<p>
+<b>➤ Explore: </b> <a href="/sole-proprietorship/examples/" target="_blank">17 of the most profitable of Sole Proprietorship businesses</a>
+</p>
+
 ## What is the richest privately owned company?
 
 Although Sole Proprietorships are known to be better for side-hustles and small, low-risk operations some can get quite big before the owner decides to register it as an LLC or get the stamp of approval from the state and turn it into a Corporation.
