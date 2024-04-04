@@ -7,13 +7,13 @@ baseurl:     ""
 url:         "https://www.businessinitiative.org"
 date_format: "%b %-d, %Y"
 header_pages:
- - stats.html
- - tools.html
+ - pages/stats.html
+ - pages/tools.html
  - directory/directory.html
- - pricing.md
- - consulting.md
- - about.md
- - contact.html
+ - pages/pricing.md
+ - pages/consulting.md
+ - pages/about.md
+ - pages/contact.html
 
 
 # Google services
