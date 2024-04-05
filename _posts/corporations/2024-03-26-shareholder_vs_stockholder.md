@@ -358,7 +358,7 @@ It's the classic "don't put all your eggs in one basket" approach.
 
 Diversification helps reduce risk by ensuring that a downturn in one area doesn't wipe out your entire portfolio. 
 
-A tool like the Morningstar X-Ray can help investors analyze their portfolio's diversification and identify any areas of concentration risk.
+A tool like the <a href="https://www.morningstar.com/portfolio-manager/x-ray" target="_blank">Morningstar X-Ray</a> can help investors analyze their portfolio's diversification and identify any areas of concentration risk.
 
 Risk management is another critical component of any investment strategy. 
 
@@ -376,7 +376,7 @@ This can include changes in corporate governance, financial strategies, or socia
 
 One famous example of successful shareholder activism is the case of Nelson Peltz and Procter & Gamble. 
 
-In 2017, Peltz's investment firm, Trian Fund Management, launched a proxy fight to gain a seat on P&G's board. 
+In 2017, Peltz's investment firm, <a href="https://trianpartners.com/" target="_blank">Trian Fund Management</a>, launched a proxy fight to gain a seat on P&G's board. 
 
 After a closely contested battle, Peltz was eventually appointed to the board, leading to significant strategic changes within the company.
 
