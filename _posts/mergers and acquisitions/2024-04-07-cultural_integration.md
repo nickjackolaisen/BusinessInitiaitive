@@ -2,7 +2,7 @@
 title: "Cultural Integration in Mergers and Acquisitions"
 layout: post
 date: 2024-04-07
-update_date: 
+update_date: 2024-04-08
 author: jack_nicholaisen
 summary: "Unlock the secrets of successful M&A with our guide on cultural integration! Learn key strategies, best practices, and real-life case studies."
 thumbnail: /images/posts-headers/m-and-a/m-and-a-cultural-integration-header.png
@@ -267,9 +267,9 @@ By following these best practices, companies can manage the cultural integration
 
 Learning from real-life examples provides valuable insights into the complexities of cultural integration in mergers and acquisitions. 
 
-Let's dive into a few case studies showcasing successful cultural integratiosn and failed attempts.
+Let's dive into a few case studies showcasing successful cultural integration and failed attempts.
 
-### Successful Cultural Integration #1 : The Merger of Disney and Pixar
+### Successful Cultural Integration #1: The Merger of Disney and Pixar
 
 <center>
 <img alt="disney and pixar merger" src="/images/content/disney-pixar.png" title="What happened when disney bought pixar?" style="width: 63%; height: 63%">
@@ -384,7 +384,7 @@ Let's dive into a few case studies showcasing successful cultural integratiosn a
 
    2. **Ensure Strategic Alignment:** Acquisitions should be strategically aligned with the acquirer's strengths and capabilities.
 
-   3. **Protect Brand Identity:** Maintaining the brand identity of the acquired company is crucial for retaining its customer base and ensuring a smooth integration.
+   3. **Protect Brand Identity:** Maintaining the brand identity of the acquired company is crucial for retaining its customer base and ensuring smooth integration.
 <a id="leadership"> 
 
 These case studies highlight the critical role of cultural integration in the success or failure of mergers and acquisitions. 
