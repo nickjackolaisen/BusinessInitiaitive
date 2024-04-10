@@ -2,12 +2,16 @@
 layout: page
 title: "Idaho Business Directory"
 date: 2023-12-04
-update_date: 2024-04-01
+update_date: 2024-04-10
 author: jack_nicholaisen
 summary: "Discover the top business startup services in Idaho! Your ultimate guide to launching a successful venture."  
 permalink: /directory/idaho/
 tags: business directory, start up services, business services, business lawyers, registered agents,
 ---
+
+<center>
+<img alt="idaho state business directory" src="/images/directory-images/state-headers/idaho-bd-header.png" title="Idaho Business Directory" style="width: 72%; height: 72%">
+</center>
 
 ### Idaho Business Startup Services Directory
 

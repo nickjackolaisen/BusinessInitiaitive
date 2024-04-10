@@ -2,12 +2,16 @@
 layout: page
 title: "Hawaii Business Directory"
 date: 2023-12-04
-update_date: 2024-04-01
+update_date: 2024-04-10
 author: jack_nicholaisen
 summary: "Discover the top business startup services in Hawaii! Your ultimate guide to launching a successful venture."  
 permalink: /directory/hawaii/
 tags: business directory, start up services, business services, business lawyers, registered agents,
 ---
+
+<center>
+<img alt="hawaii state business directory" src="/images/directory-images/state-headers/hawaii-bd-header.png" title="Hawaii Business Directory" style="width: 72%; height: 72%">
+</center>
 
 ### Hawaii Business Startup Services Directory
 

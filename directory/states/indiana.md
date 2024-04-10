@@ -2,12 +2,16 @@
 layout: page
 title: "Indiana Business Directory"
 date: 2023-12-04
-update_date: 2024-04-01
+update_date: 2024-04-10
 author: jack_nicholaisen
 summary: "Discover the top business startup services in Indiana! Your ultimate guide to launching a successful venture."  
 permalink: /directory/indiana/
 tags: business directory, start up services, business services, business lawyers, registered agents,
 ---
+
+<center>
+<img alt="indiana state business directory" src="/images/directory-images/state-headers/indiana-bd-header.png" title="Indiana Business Directory" style="width: 72%; height: 72%">
+</center>
 
 ### Indiana Business Startup Services Directory
 
