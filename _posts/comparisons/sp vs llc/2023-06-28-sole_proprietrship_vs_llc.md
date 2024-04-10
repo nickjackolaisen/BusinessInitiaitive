@@ -2,7 +2,7 @@
 layout: post
 title: Sole Proprietorship vs LLC
 date: 2023-06-28
-update_date: 2024-04-03
+update_date: 2024-04-10
 author: jack_nicholaisen
 summary: "The details of Sole Proprietorships and Limited Liability Companies - Why is one better than the other?" 
 permalink: /comparison/sole-proprietorship-vs-llc/
@@ -68,7 +68,7 @@ By the end of this article, you will understand the details of each of these bus
 Keep reading to find out how Sole Proprietorships compare to LLCs.
 
 <p>
-<b>➤ MORE: </b> <a href="/sole-proprietorship-vs-llc/differences/" target="_blank">What are the biggest differences between the two most popular business entities?</a>
+<b>➤ MORE: </b> <a href="/comparison/sole-proprietorship-vs-llc/differences/" target="_blank">What are the biggest differences between the two most popular business entities?</a>
 </p>
 
 ## What is an LLC?

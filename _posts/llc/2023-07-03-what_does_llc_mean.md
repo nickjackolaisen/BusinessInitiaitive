@@ -2,7 +2,7 @@
 layout: post
 title: "What Does LLC Mean in Business and How Do They Work?"
 date: 2023-07-03
-update_date: 2024-04-03
+update_date: 2024-04-10
 author: jack_nicholaisen
 summary: LLC stands for Limited Liability Company. Read this to find out how using one can put you on the fast-track to success.
 thumbnail: /images/posts-headers/what-does-llc-mean-header.png
@@ -121,11 +121,15 @@ The standard LLC structure offers a massive amount of freedom and flexibility wh
 
 This is all just with the regular setup.
 
-That being said, there can still be a lot of variance between one company and another. Especially when you consider the state-to-state differences in LLC regulation.
+That being said, there can still be a lot of variance between one company and another. 
+
+Especially when you consider the state-to-state differences in LLC regulation.
 
 To illustrate their versatility, let’s say you’ve already bought into the idea of getting an LLC,
 
-As an LLC Owner, you can organize it as a Benefit Corporation, if you so desired. You could even set your LLC up to get taxed as a Corporation.
+As an LLC Owner, you can organize it as a Benefit Corporation, if you so desired. 
+
+You could even set your LLC up to get taxed as a Corporation.
 
 Believe it or not, you can do both at the same time:
 
@@ -294,25 +298,33 @@ They know the relevant loopholes and tricks you can use to your advantage.
 
 The following comparisons are in order of least to most complicated.
 
-#### -   [LLC vs Sole Proprietorship](https://www.businessinitiative.org/sole-proprietorship-vs-llc/)
+- ### <a href="https://www.businessinitiative.org/comparison/sole-proprietorship-vs-llc/" target="_blank">LLC vs Sole Proprietorship</a>
 
-SPs don’t offer any liability protection. LLCs do offer personal liability protection, hence the name: Limited Liability Company. 
+SPs don’t offer any liability protection. 
 
-Sole Proprietorships are businesses owned and operated by one “sole” individual. With an LLC you have the option of having multiple Members who own the company. [Compare their pros and cons here.](https://www.businessinitiative.org/sole-proprietorship-vs-llc/pros-and-cons/)
+LLCs do offer personal liability protection, hence the name: Limited Liability Company. 
 
-#### -   LLC vs Partnership
+Sole Proprietorships are businesses owned and operated by one “sole” individual. 
+
+With an LLC you have the option of having multiple Members who own the company. 
+
+<a href="https://www.businessinitiative.org/comparison/sole-proprietorship-vs-llc/pros-and-cons/" target="_blank">Compare their pros and cons HERE</a>
+
+- ### LLC vs Partnership
 
 A Partnership is a business run by a pair of owners, also known as Parters. There is no limit to the number of Members or Owners of an LLC.
 
 With LLCs, you have the added option of ownership by other organizations or entities instead of just people.
 
-#### -    LLC vs S-Corp
+- ### LLC vs S-Corp
 
-The term S-Corporation (S-Corp) merely refers to a tax classification that an LLC can file as. LLCs, on the other hand, are business entities themselves. 
+The term S-Corporation (S-Corp) merely refers to a tax classification that an LLC can file as. 
+
+LLCs, on the other hand, are business entities themselves. 
 
 S-Corps are just a specialized variant of an LLC that undergoes a different tax process. 
 
-#### -   LLC vs Full-On Corporation
+- ### LLC vs Full-On Corporation
 
 Corporations have a complicated registration process relative to an LLC. 
 
