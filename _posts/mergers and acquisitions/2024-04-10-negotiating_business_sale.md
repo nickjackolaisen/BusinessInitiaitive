@@ -255,7 +255,7 @@ Price objections are common.
 
 Listen to the buyer's concerns and be open to negotiation. 
 
-Sometimes, a slight adjustment in price can make a big difference in reaching an agreement. 
+Sometimes, a slight price adjustment can make a big difference in reaching an agreement. 
 
 Be flexible, but don't undervalue your business.
 
