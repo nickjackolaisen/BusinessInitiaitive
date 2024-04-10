@@ -13,11 +13,13 @@ permalink: /mergers-and-acquisitions/
 
 &bull; <a href="/mergers-and-acquisitions/importance/">The Strategic Importance of Mergers and Acquisitions</a>       
 
-
 &bull; <a href="/mergers-and-acquisitions/legal-challenges/">Conquering the Legal Challenges of Business Mergers</a>       
 
 &bull; <a href="/mergers-and-acquisitions/cultural-integration/">Cultural Integration in Mergers and Acquisitions</a>       
 
 &bull; <a href="/mergers-and-acquisitions/valuation-techniques/">Valuation Techniques for Small Businesses</a>       
+
+&bull; <a href="/mergers-and-acquisitions/negotiation/">Negotiating a Business Sale: Tips and Strategies for Success</a>       
+
 
 
