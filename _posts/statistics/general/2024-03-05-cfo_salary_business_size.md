@@ -2,7 +2,7 @@
 title: "CFO Salary Guide 2024: Maximizing Compensation Based on Company Size"
 layout: post
 date: 2024-03-05
-update_date: 2024-03-17
+update_date: 2024-04-10
 author: jack_nicholaisen
 summary: "Unlock the secrets of CFO salaries in 2024! Discover how company size impacts pay and learn top negotiation tips. Elevate your career today." 
 thumbnail: /images/posts-headers/cfo-salary-guide-header.png
@@ -41,6 +41,24 @@ For medium-sized companies with revenue between $50 million and $1 billion, the 
 Large companies with revenue over $1 billion tend to offer the highest salaries, with the average CFO salary often exceeding $500,000. 
 
 Additionally, CFOs in larger firms or in high-cost locations may command salaries of over $1 million.
+
+<center>
+<img alt="average cfo salary" src="/images/content/statistics/cfo_salary_ranges_by_company_size.png" title="How much do CFOs make on average?" style="width: 63%; height: 63%">
+</center>
+
+## What is the Highest CFO Salary?
+
+According to <a href="https://thecfoclub.com/leadership/highest-paid-cfo/" target="_blank">data</a> from 2023, Gunnar Wiedenfels, the CFO of Warner Bros Discovery had a base salary of **$2,000,000**. 
+
+It is intersting to point out that this was only his base salary and does not account for additional benefits like bonuses or stock options. 
+
+When accounting for both the benefits and the base salary the highest paid CFO in 2023 was Joe Berchtold. 
+
+Joe is the CFO for Live Nation Entertainment, the company behind Ticketmaster.
+
+When all things are considered, Joe made out with **$52.4 million**.
+
+Not too shabby.
 
 ## The Evolving Role of the Chief Financial Officer
 
@@ -322,8 +340,7 @@ This reduction in bonuses may reflect a shift towards more long-term incentive p
 
 **3. Equity Awards:** 
 
-The grant date fair value of <a href="https://corpgov.law.harvard.edu/2023/03/28/an-early-look-at-2023-ceo-cfo-pay-actions/" target="_blank">equity awards increased by 17%</a>
-, on average, for CFOs. 
+The grant date fair value of <a href="https://corpgov.law.harvard.edu/2023/03/28/an-early-look-at-2023-ceo-cfo-pay-actions/" target="_blank">equity awards increased by 17%</a>, on average, for CFOs. 
 
 This significant increase suggests a growing emphasis on equity-based compensation as part of the total pay package.
 
