@@ -2,7 +2,7 @@
 title: "Understanding CEO Compensation: An Analysis of Average CEO Salary by Company Size"
 layout: post
 date: 2024-02-26
-update_date: 
+update_date: 2024-04-11
 author: jack_nicholaisen
 summary: "Explore the dynamics of CEO pay across company sizes, impact on performance, and trends shaping executive pay. Uncover the factors driving CEO salaries." 
 thumbnail: /images/posts-headers/ceo-salary-business-size-header.png
@@ -99,24 +99,24 @@ In recent years, CEO compensation has continued to rise, albeit at a slower pace
 
 The median pay package for the top 200 chief executives at public companies with at least $1 billion in revenue was $15.1 million in 2012, a [16% increase from 2011](https://en.wikipedia.org/wiki/Executive_compensation_in_the_United_States). 
 
-The highest-paid CEO in the US in 2020 was Alphabet, inc. CEO, Sundar Pichai, with a salary of $280,621,552 in 2019.
+The highest-paid CEO in the US in 2020 was Alphabet, inc. CEO, Sundar Pichai, with a salary of **$280,621,552** in 2019.
 
 ### Impact of Economic Factors on CEO Salaries
 
 Economic factors such as stock market performance, corporate profits, and economic growth have a significant impact on CEO compensation. 
 
-CEO pay is closely tied to the stock market, as a substantial portion of their compensation comes in the form of stock options and awards【8†source】. 
+CEO pay is closely tied to the stock market, as a substantial portion of their compensation comes in the form of stock options and awards. 
 
 During periods of economic downturn, such as the early 2000s and the 2008 financial crisis, CEO compensation saw declines corresponding to the stock market performance. 
 
-However, as the market recovered, so did CEO pay, although the connection between stock market growth and CEO compensation has loosened somewhat in recent years【8†source】.
+However, as the market recovered, so did CEO pay, although the connection between stock market growth and CEO compensation has loosened somewhat in recent years.
 
 The growth in CEO compensation also reflects broader economic trends, such as increasing income inequality and the concentration of wealth among top earners. 
 <a id="company-size"> 
 
 CEO pay growth has outpaced not only the average worker's wages but also the earnings of other highly paid workers, indicating that factors beyond market forces, such as corporate governance and executive power, play a role in determining CEO compensation.
 
-In conclusion, CEO compensation trends over the past few decades highlight the growing disparity between executive pay and average worker earnings, as well as the complex interplay between economic factors and corporate governance in determining executive compensation.
+CEO compensation trends over the past few decades highlight the growing disparity between executive pay and average worker earnings, as well as the complex interplay between economic factors and corporate governance in determining executive compensation.
 
 ## CEO Salary Breakdown by Company Size
 
@@ -207,7 +207,7 @@ These figures highlight the potential for CEOs in large companies to earn except
 
 The relationship between CEO compensation and company performance is a critical factor in determining executive pay. 
 
-[Several studies](https://www.emerald.com/insight/content/doi/10.1108/eb018501/full/html) have found a positive and significant connection between the two, suggesting that higher CEO pay is used to align the interests of shareholders with company CEOs, thereby reducing agency costs within the firm【11†source】. 
+[Several studies](https://www.emerald.com/insight/content/doi/10.1108/eb018501/full/html) have found a positive and significant connection between the two, suggesting that higher CEO pay is used to align the interests of shareholders with company CEOs, thereby reducing agency costs within the firm. 
 
 However, this relationship can be non-linear, with [increasing pay sensitivity leading to higher firm performance](https://www.emerald.com/insight/content/doi/10.1108/EJMBE-09-2018-0094/full/html) up to a certain point, beyond which the results turn negative. 
 
@@ -236,7 +236,7 @@ Studies have found that [compensation is related to firm performance for inexper
 [Younger CEOs tend to take more risks than older CEOs](https://www.emerald.com/insight/content/doi/10.1108/EJMBE-09-2018-0094/full/html), which can lead to higher firm performance, although this relationship is not linear due to the essential experience of older CEOs.
 <a id="pay-vs-success"> 
 
-In summary, CEO compensation is influenced by a complex interplay of factors, including company performance, industry-specific trends, geographic location, and the individual characteristics of the CEO. 
+CEO compensation is influenced by a complex interplay of factors, including company performance, industry-specific trends, geographic location, and the individual characteristics of the CEO. 
 
 Understanding these factors is crucial for designing effective compensation packages that align the interests of executives with those of shareholders and other stakeholders.
 
@@ -305,7 +305,7 @@ The increasing prevalence of Say on Pay votes has given shareholders a more dire
 
 **Overview of Regulations Affecting CEO Compensation**
 
-One of the key regulations affecting CEO compensation in the United States is the [Dodd-Frank Wall Street Reform and Consumer Protection Act](https://www.marcumllp.com/insights/the-impact-of-the-dodd-frank-act-on-executive-compensation-and-corporate-governance【9†source】https://corpgov.law.harvard.edu/2016/10/24/the-legal-and-regulatory-requirements-of-executive-compensation/【10†source】https://corpgov.law.harvard.edu/2015/08/14/sec-adopts-ceo-pay-ratio-disclosure-rule/), enacted in 2010. 
+One of the key regulations affecting CEO compensation in the United States is the [Dodd-Frank Wall Street Reform and Consumer Protection Act](https://www.marcumllp.com/insights/the-impact-of-the-dodd-frank-act-on-executive-compensation-and-corporate-governance), enacted in 2010.
 
 The Dodd-Frank Act introduced several executive compensation and corporate governance reforms applicable to most U.S. public companies. 
 
@@ -319,7 +319,7 @@ These votes are advisory and non-binding, but they provide shareholders with a m
 
 - **Golden Parachutes:** 
 
-Companies must disclose any agreements with named executive officers concerning compensation related to change-in-control transactions and hold shareholder votes to approve such compensation agreements.
+Companies must [disclose any agreements](https://corpgov.law.harvard.edu/2015/08/14/sec-adopts-ceo-pay-ratio-disclosure-rule/) with named executive officers concerning compensation related to change-in-control transactions and hold shareholder votes to approve such compensation agreements.
 
 - **Clawback Policies:** 
 
@@ -327,7 +327,7 @@ Companies must adopt policies for the recovery of executive compensation in the 
 
 - **Pay Ratio Disclosure:** 
 
-Companies are required to disclose the ratio of the CEO's compensation to the median compensation of all employees, excluding the CEO.
+Companies are required to [disclose the ratio](https://corpgov.law.harvard.edu/2016/10/24/the-legal-and-regulatory-requirements-of-executive-compensation/) of the CEO's compensation to the median compensation of all employees, excluding the CEO.
 
 ### International Comparisons of CEO Pay Regulations
 
