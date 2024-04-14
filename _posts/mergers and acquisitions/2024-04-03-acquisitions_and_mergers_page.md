@@ -2,7 +2,7 @@
 title: "Mergers & Acquisitions"
 layout: page
 date: 2024-04-03
-update_date: 2024-04-12
+update_date: 2024-04-14
 author: jack_nicholaisen
 summary: "For your convenience, this page has all of the articles in Business Initiative's Mergers and Acquisitions Series"
 permalink: /mergers-and-acquisitions/
@@ -22,6 +22,8 @@ permalink: /mergers-and-acquisitions/
 &bull; <a href="/mergers-and-acquisitions/negotiation/">Negotiating a Business Sale: Tips and Strategies for Success</a>       
 
 &bull; <a href="/mergers-and-acquisitions/preparing-to-sell-your-business/">Preparing to Sell Your Business</a>     
+
+&bull; <a href="/mergers-and-acquisitions/asset-vs-stock/">Asset vs. Stock Purchase: An Owner's Guide to Smart Acquisition Decisions</a>     
 
 
 
