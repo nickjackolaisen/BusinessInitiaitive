@@ -1,7 +1,7 @@
 ---
 title: "Asset vs. Stock Purchase: An Owner's Guide to Smart Acquisition Decisions"
 layout: post
-date: 2024-04-13post this Saturday or Sunday
+date: 2024-04-14
 update_date: 
 author: jack_nicholaisen
 summary: "Unlock the secrets to smart business acquisitions with our guide on asset vs. stock purchases. Make informed decisions for your business's future success!"
