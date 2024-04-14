@@ -5,7 +5,7 @@ date: 2024-04-12
 update_date: 2024-04-14
 author: jack_nicholaisen
 summary: "Unlock the secrets to a successful business sale! Discover essential tips for preparation, valuation, and marketing. Read now to maximize your sale!"
-thumbnail: /images/posts-headers/m-and-a/m-and-apreparing-to-sell-your-business-header.png
+thumbnail: /images/posts-headers/m-and-a/m-and-a-preparing-to-sell-your-business-header.png
 image: /images/posts-headers/m-and-a/m-and-a-preparing-to-sell-your-business-header.png
 permalink: /mergers-and-acquisitions/preparing-to-sell-your-business/
 tags: 
