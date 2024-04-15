@@ -281,6 +281,13 @@ iframe {
 }
 </style>
 
+
+
+
+
+<iframe src="https://embeds.beehiiv.com/e19ce286-1d77-44e9-b09f-22d4f7c6f0bf" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
+
+
 <b>Additional Resources</b>
 <p>We also encourage you to explore these extra tools for further reading and research on SWOT analysis:</p>
 <a href="https://www.mindtools.com/pages/article/newTMC_05.htm">MindTools: SWOT Analysis</a> - Discover New Opportunities, Manage and Eliminate Threats
