@@ -273,9 +273,13 @@ Reach out <a href="https://twitter.com/intent/tweet?screen_name=BisInitiative&re
 
 Plus, sign up for our email newsletter to stay informed about the latest industry insights and valuable resources.
 
-<iframe src="https://embeds.beehiiv.com/e19ce286-1d77-44e9-b09f-22d4f7c6f0bf" data-test-id="beehiiv-embed" width="480" height="320" frameborder="0" scrolling="no" position="center" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
-
-
+<iframe src="https://embeds.beehiiv.com/e19ce286-1d77-44e9-b09f-22d4f7c6f0bf" data-test-id="beehiiv-embed" width="480" height="320" frameborder="0" scrolling="no" align="center" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
+<style>
+iframe {
+    display: block;
+    border-style:none;
+}
+</style>
 
 <b>Additional Resources</b>
 <p>We also encourage you to explore these extra tools for further reading and research on SWOT analysis:</p>
