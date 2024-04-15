@@ -208,7 +208,8 @@ If you're considering becoming a B Corp or simply want to learn more about how y
 
 Together, we can redefine what it means to be a successful business in the 21st century.
 
-<script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
+<iframe src="https://embeds.beehiiv.com/e19ce286-1d77-44e9-b09f-22d4f7c6f0bf" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
+
 
 <details>
 <summary><b>Sources</b></summary>

@@ -555,7 +555,8 @@ Don't miss out on the latest insights and updates - subscribe to our The Initiat
 <a href="https://twitter.com/intent/tweet?screen_name=BisInitiative&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-size="large" data-show-count="false">Tweet to @BisInitiative</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <br>
 
-<script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
+<iframe src="https://embeds.beehiiv.com/e19ce286-1d77-44e9-b09f-22d4f7c6f0bf" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
+
 
 <br>
 <details>

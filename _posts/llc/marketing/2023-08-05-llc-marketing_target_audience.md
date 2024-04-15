@@ -132,5 +132,6 @@ By using tools and resources to measure and track these factors, business owners
 
 Practical tips and tools, such as social media advertising, personalized recommendations, and influencer marketing, can help business owners build an audience across multiple platforms and increase customer loyalty.
 
-<script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
+<iframe src="https://embeds.beehiiv.com/e19ce286-1d77-44e9-b09f-22d4f7c6f0bf" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
+
 

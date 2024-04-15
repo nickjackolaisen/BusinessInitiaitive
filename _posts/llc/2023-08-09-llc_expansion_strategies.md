@@ -140,7 +140,8 @@ Don't wait another minute...
 
 [Reach out directly here](https://www.businessinitiative.org/contact/) or by sending us a message [@BisInitiative on X](https://twitter.com/BisInitiative)
 
-<script async data-uid="0625212ce2" src="https://adept-hustler-4565.ck.page/0625212ce2/index.js"></script>
+<iframe src="https://embeds.beehiiv.com/e19ce286-1d77-44e9-b09f-22d4f7c6f0bf" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
+
 
 Here are 5 additional resources to help you build an expansion plan for your LLC:
 
