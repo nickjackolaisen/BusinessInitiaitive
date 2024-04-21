@@ -52,20 +52,9 @@ The calculator will then display the number of units you need to sell to break e
 
 <h2>Break-Even Point Calculator</h2>
 
-Certainly! Below is a complete and optimized version of your Break-Even Point Calculator, including HTML, CSS, and JavaScript. I'll provide all the code in one block, ready to be placed in an external HTML file or appropriately embedded within your CMS or static site generator. This version includes some optimizations and improvements in code structure and usability.
-
 
 <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            background-color: #f4f4f4;
-        }
+      
         .calculator-box {
             width: 100%;
             max-width: 360px;
@@ -120,7 +109,7 @@ Certainly! Below is a complete and optimized version of your Break-Even Point Ca
             <button type="submit" class="calculate-btn">Calculate Break-Even Point</button>
         </form>
         <div id="result"></div>
-    </div>
+</div>
 
 <script>
         function calculateBreakEven() {
