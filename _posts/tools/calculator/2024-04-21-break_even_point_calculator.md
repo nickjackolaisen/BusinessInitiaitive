@@ -58,6 +58,7 @@ The calculator will then display the number of units you need to sell to break e
         .calculator-box {
             width: 100%;
             max-width: 360px;
+            margin: auto;
             background: white;
             padding: 20px;
             border-radius: 8px;
