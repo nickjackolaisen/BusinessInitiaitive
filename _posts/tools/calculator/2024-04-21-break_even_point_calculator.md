@@ -107,18 +107,30 @@ The calculator will then display the number of units you need to sell to break e
 
 <script>
     function calculateBreakEven() {
-        var fixedCosts = document.getElementById("fixedCosts").value;
-        var variableCosts = document.getElementById("variableCosts").value;
-        var pricePerUnit = document.getElementById("pricePerUnit").value;
-        if (pricePerUnit - variableCosts > 0) {
-            var breakEvenPoint = fixedCosts / (pricePerUnit - variableCosts);
-            document.getElementById("result").innerHTML = "Break-Even Point: " + Math.ceil(breakEvenPoint) + " units";
-        } else {
-            document.getElementById("result").innerHTML = "Please ensure that the price per unit is greater than the variable costs per unit.";
-        }
+     var fixedCosts = document.getElementById("fixedCosts").value;
+     var variableCosts = document.getElementById("variableCosts").value;
+     var pricePerUnit = document.getElementById("pricePerUnit").value;
+     if (pricePerUnit - variableCosts > 0) {
+        var breakEvenPoint = fixedCosts / (pricePerUnit - variableCosts);
+        document.getElementById("result").innerHTML = "Break-Even Point: " + Math.ceil(breakEvenPoint) + " units";
+     } else {
+        document.getElementById("result").innerHTML = "Please ensure that the price per unit is greater than the variable costs per unit.";
+     }
     }
 </script>
 
+<script>
+    function calculateInflation() {
+      const price1 = parseFloat(document.getElementById('price1').value);
+      const price2 = parseFloat(document.getElementById('price2').value);
+      const year1 = parseInt(document.getElementById('year1').value);
+      const year2 = parseInt(document.getElementById('year2').value);
+
+      const inflationRate = ((price2 - price1) / price1) * 100;
+      const resultElement = document.getElementById('result');
+      resultElement.innerHTML = `The inflation rate between ${year1} and ${year2} is ${inflationRate.toFixed(2)}%`;
+    }
+</script>
 
 <p><b>Why Is Break-Even Analysis Important?</b></p>
 <br>
