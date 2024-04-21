@@ -106,9 +106,13 @@ For businesses seeking investment, having a clear understanding of net profit ma
         }
 </script>
 
-<p><b>Why Is Net Profit Margin Important?</b></p>
-<br>
-<p>The net profit margin is a key indicator of a company's financial health and operational efficiency. It shows what percentage of revenue is converted into profit after all expenses are deducted. A higher net profit margin means more profitability and better control over costs, making it an essential metric for any business.</p>
+### Why Is Net Profit Margin Important?
+
+The net profit margin is a key indicator of a company's financial health and operational efficiency. 
+
+It shows what percentage of revenue is converted into profit after all expenses are deducted. 
+
+A higher net profit margin means more profitability and better control over costs, making it an essential metric for any business.
 
 ## In Summary...
 
