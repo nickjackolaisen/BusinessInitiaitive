@@ -75,7 +75,7 @@ The calculator will then display the number of units you need to sell to break e
 </style>
 
 <div class="calculator-box" id="calculatorBox">
-        <h2>Break-Even Point Calculator</h2>
+    <h2>Break-Even Point Calculator</h2>
         <form>
             <label for="fixedCosts">Fixed Costs ($):</label>
             <input type="number" id="fixedCosts" name="fixedCosts" required><br><br>
@@ -85,9 +85,10 @@ The calculator will then display the number of units you need to sell to break e
             <input type="number" id="pricePerUnit" name="pricePerUnit" required><br><br>
             <input type="button" value="Calculate Break-Even Point" class="calculate-btn" onclick="calculateBreakEven()">
         </form>
-        <p id="result"></p>
-    </div>
-    <script>
+    <p id="result"></p>
+</div>
+
+<script>
         function calculateBreakEven() {
             var fixedCosts = document.getElementById("fixedCosts").value;
             var variableCosts = document.getElementById("variableCosts").value;
@@ -99,7 +100,7 @@ The calculator will then display the number of units you need to sell to break e
                 document.getElementById("result").innerHTML = "Please ensure that the price per unit is greater than the variable costs per unit.";
             }
         }
-    </script>
+</script>
 
 <p><b>Why Is Break-Even Analysis Important?</b></p>
 <br>
