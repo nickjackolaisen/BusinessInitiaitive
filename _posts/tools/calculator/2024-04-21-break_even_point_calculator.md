@@ -52,89 +52,101 @@ The calculator will then display the number of units you need to sell to break e
 
 <h2>Break-Even Point Calculator</h2>
 
-<style>
-        .calculator-box {
-            max-width: 300px;
-            margin: auto;
-            padding: 20px;
-            border: 1px solid #ddd;
-            border-radius: 10px;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-        }
+Certainly! Below is a complete and optimized version of your Break-Even Point Calculator, including HTML, CSS, and JavaScript. I'll provide all the code in one block, ready to be placed in an external HTML file or appropriately embedded within your CMS or static site generator. This version includes some optimizations and improvements in code structure and usability.
 
+
+<style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f4f4f4;
+        }
+        .calculator-box {
+            width: 100%;
+            max-width: 360px;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+        }
+        input[type="number"] {
+            width: calc(100% - 22px);
+            padding: 10px;
+            margin-bottom: 20px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
         .calculate-btn {
-            border-radius: 5px;
+            display: block;
+            width: 100%;
+            padding: 10px;
+            border: none;
             background-color: #4CAF50;
             color: white;
-            padding: 10px 20px;
-            border: none;
+            border-radius: 4px;
             cursor: pointer;
+            font-size: 16px;
         }
-
         .calculate-btn:hover {
             background-color: #45a049;
         }
-</style>
-
-<div class="calculator-box" id="calculatorBox">
-    <form>
-            <label for="fixedCosts">Fixed Costs ($):</label>
-            <input type="number" id="fixedCosts" name="fixedCosts" required><br><br>
-            <label for="variableCosts">Variable Cost per Unit ($):</label>
-            <input type="number" id="variableCosts" name="variableCosts" required><br><br>
-            <label for="pricePerUnit">Price per Unit ($):</label>
-            <input type="number" id="pricePerUnit" name="pricePerUnit" required><br><br>
-            <input type="button" value="Calculate Break-Even Point" class="calculate-btn" onclick="calculateBreakEven()">
-    </form>
-
-<p id="result"></p>
-
-</div>
-
-<script>
-    function calculateBreakEven() {
-        var fixedCosts = document.getElementById("fixedCosts").value;
-        var variableCosts = document.getElementById("variableCosts").value;
-        var pricePerUnit = document.getElementById("pricePerUnit").value;
-        if (pricePerUnit - variableCosts > 0) {
-            var breakEvenPoint = fixedCosts / (pricePerUnit - variableCosts);
-            document.getElementById("result").innerHTML = "Break-Even Point: " + Math.ceil(breakEvenPoint) + " units";
-        } else {
-            document.getElementById("result").innerHTML = "Please ensure that the price per unit is greater than the variable costs per unit.";
+        #result {
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #dbf0d8;
+            border: 1px solid #b2d8b0;
+            border-radius: 4px;
+            color: #387c3b;
         }
-    }
-</script>
+    </style>
+
+<div class="calculator-box">
+        <form onsubmit="calculateBreakEven(); return false;">
+            <label for="fixedCosts">Fixed Costs ($):</label>
+            <input type="number" id="fixedCosts" name="fixedCosts" required>
+            <label for="variableCosts">Variable Cost per Unit ($):</label>
+            <input type="number" id="variableCosts" name="variableCosts" required>
+            <label for="pricePerUnit">Price per Unit ($):</label>
+            <input type="number" id="pricePerUnit" name="pricePerUnit" required>
+            <button type="submit" class="calculate-btn">Calculate Break-Even Point</button>
+        </form>
+        <div id="result"></div>
+    </div>
 
 <script>
-    function calculateBreakEven() {
-     var fixedCosts = document.getElementById("fixedCosts").value;
-     var variableCosts = document.getElementById("variableCosts").value;
-     var pricePerUnit = document.getElementById("pricePerUnit").value;
-     if (pricePerUnit - variableCosts > 0) {
-        var breakEvenPoint = fixedCosts / (pricePerUnit - variableCosts);
-        document.getElementById("result").innerHTML = "Break-Even Point: " + Math.ceil(breakEvenPoint) + " units";
-     } else {
-        document.getElementById("result").innerHTML = "Please ensure that the price per unit is greater than the variable costs per unit.";
-     }
-    }
+        function calculateBreakEven() {
+            var fixedCosts = parseFloat(document.getElementById("fixedCosts").value);
+            var variableCosts = parseFloat(document.getElementById("variableCosts").value);
+            var pricePerUnit = parseFloat(document.getElementById("pricePerUnit").value);
+
+            if (pricePerUnit > variableCosts) {
+                var breakEvenPoint = fixedCosts / (pricePerUnit - variableCosts);
+                document.getElementById("result").innerHTML = "Break-Even Point: " + Math.ceil(breakEvenPoint) + " units";
+            } else {
+                document.getElementById("result").innerHTML = "Error: Price per unit must be greater than variable costs per unit.";
+            }
+        }
 </script>
 
-<script>
-    function calculateInflation() {
-      const price1 = parseFloat(document.getElementById('price1').value);
-      const price2 = parseFloat(document.getElementById('price2').value);
-      const year1 = parseInt(document.getElementById('year1').value);
-      const year2 = parseInt(document.getElementById('year2').value);
 
-      const inflationRate = ((price2 - price1) / price1) * 100;
-      const resultElement = document.getElementById('result');
-      resultElement.innerHTML = `The inflation rate between ${year1} and ${year2} is ${inflationRate.toFixed(2)}%`;
-    }
-</script>
 
-<p><b>Why Is Break-Even Analysis Important?</b></p>
-<br>
-<p>Break-even analysis is not just a projection but a critical financial tool for business decision making. It helps determine at what point your business neither makes a profit nor a loss. Understanding this point helps in planning the pricing strategy and cost management effectively.</p>
+
+### Why Is Break-Even Analysis Important?
+
+Break-even analysis is not just a projection but a critical financial tool for business decision making. 
+
+It helps determine at what point your business neither makes a profit nor a loss. 
+
+Understanding this point helps in planning the pricing strategy and cost management effectively.
 
 ### Common Use Cases
 

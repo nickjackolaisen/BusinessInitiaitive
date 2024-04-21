@@ -56,6 +56,8 @@ Companies can use their net profit margin in comparison to industry standards to
 
 For businesses seeking investment, having a clear understanding of net profit margins is crucial for presenting to potential investors or stakeholders as it reflects the company’s ability to turn revenue into profit.
 
+<h2>Net Profit Margin Calculator</h2>
+
 <style>
         .calculator-box {
             max-width: 300px;
@@ -78,9 +80,9 @@ For businesses seeking investment, having a clear understanding of net profit ma
         .calculate-btn:hover {
             background-color: #45a049;
         }
-    </style>
+ </style>
+
 <div class="calculator-box" id="calculatorBox">
-        <h2>Net Profit Margin Calculator</h2>
         <form>
             <label for="totalRevenue">Total Revenue ($):</label>
             <input type="number" id="totalRevenue" name="totalRevenue" required><br><br>
@@ -89,8 +91,9 @@ For businesses seeking investment, having a clear understanding of net profit ma
             <input type="button" value="Calculate Net Profit Margin" class="calculate-btn" onclick="calculateNetProfitMargin()">
         </form>
         <p id="result"></p>
-    </div>
-    <script>
+</div>
+
+<script>
         function calculateNetProfitMargin() {
             var totalRevenue = document.getElementById("totalRevenue").value;
             var totalCosts = document.getElementById("totalCosts").value;
@@ -101,7 +104,7 @@ For businesses seeking investment, having a clear understanding of net profit ma
                 document.getElementById("result").innerHTML = "Please enter a valid revenue amount.";
             }
         }
-    </script>
+</script>
 
 <p><b>Why Is Net Profit Margin Important?</b></p>
 <br>
