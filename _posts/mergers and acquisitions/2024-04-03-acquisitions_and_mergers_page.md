@@ -2,7 +2,7 @@
 title: "Mergers & Acquisitions"
 layout: page
 date: 2024-04-03
-update_date: 2024-04-14
+update_date: 2024-04-21
 author: jack_nicholaisen
 summary: "For your convenience, this page has all of the articles in Business Initiative's Mergers and Acquisitions Series"
 permalink: /mergers-and-acquisitions/
@@ -25,5 +25,6 @@ permalink: /mergers-and-acquisitions/
 
 &bull; <a href="/mergers-and-acquisitions/asset-vs-stock/">Asset vs. Stock Purchase: An Owner's Guide to Smart Acquisition Decisions</a>     
 
+&bull; <a href="/mergers-and-acquisitions/tax-considerations/">Strategic Tax Planning to Maximize Mergers & Acquisitions Success</a>
 
 
