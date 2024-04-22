@@ -55,7 +55,7 @@ This will tell you what portion of your sales revenue is actual profit before de
 
 <style>
         .calculator-box {
-            max-width: 360px;
+            max-width: 300px;
             margin: 20px auto;
             padding: 20px;
             border: 1px solid #ccc;
@@ -100,8 +100,6 @@ This will tell you what portion of your sales revenue is actual profit before de
         }
     }
 </script>
-
-
 
 The Business Initiative Profit Margin Calculator is an essential tool for any business owner or financial manager wanting to assess their company's production efficiency and profitability. 
 
