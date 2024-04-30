@@ -2,7 +2,7 @@
 title: "Asset Protection Strategies for Small Business Owners"
 layout: post
 date: 2023-07-10
-update_date: 2023-12-06
+update_date: 2024-04-30
 author: jack_nicholaisen
 summary: "Safeguard your assets with this guide. Explore strategies for business success in turbulent times. Secure your company's financial future."
 thumbnail: /images/posts-headers/small-business-asset-protection.png
@@ -183,7 +183,7 @@ Purchasing comprehensive insurance coverage, including general liability, proper
 
 ### 3.  Safeguard Intellectual Property: 
 
-Registering patents, [trademarks](https://www.businessinitiative.org/llc/dba-vs-llc/), and copyrights can protect a company's intellectual property from potential infringement, ensuring the exclusive use and financial benefits of their creations.
+Registering patents, <a href="/comparison/dba-vs-llc/" target="_blank">trademarks</a>, and copyrights can protect a company's intellectual property from potential infringement, ensuring the exclusive use and financial benefits of their creations.
 
 ### 4.  Implement Strong Security Measures: 
 
