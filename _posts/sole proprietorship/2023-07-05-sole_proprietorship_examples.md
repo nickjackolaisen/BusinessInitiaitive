@@ -19,23 +19,23 @@ All the examples in our list have one thing in common:
 
 Check out the following list of successful Sole Proprietorship examples and think about how YOU can achieve financial independence using one (or more) of them.
 
-#### 1.  Freelance Writer
-#### 2.  Catering Service
-#### 3.  Direct Sales
-#### 4.  Graphic Designer
-#### 5.  Photographer, Videographer, or Digital Editor
-#### 6.  Computer and Cellphone Repair Service
-#### 7.  Financial Planner
-#### 8.  Virtual Assistant (VA)
-#### 9.  Bookkeeper or Accountant
-#### 10.  Plumber or Electrician
-#### 11.  Landscaping and Lawncare
-#### 12.  Private Home Care
-#### 13.  Babysitter or Daycare
-#### 14.  Personal Trainer
-#### 15.  Private Tutor
-#### 16.  Housecleaner
-#### 17.  Creative Pursuits and Hobbies
+**1.  Freelance Writer**
+**2.  Catering Service**
+**3.  Direct Sales**
+**4.  Graphic Designer**
+**5.  Photographer, Videographer, or Digital Editor**
+**6.  Computer and Cellphone Repair Service**
+**7.  Financial Planner**
+**8.  Virtual Assistant (VA)**
+**9.  Bookkeeper or Accountant**
+**10.  Plumber or Electrician**
+**11.  Landscaping and Lawncare**
+**12.  Private Home Care**
+**13.  Babysitter or Daycare**
+**14.  Personal Trainer**
+**15.  Private Tutor**
+**16.  Housecleaner**
+**17.  Creative Pursuits and Hobbies**
 
 Starting a business requires time, effort, and money. 
 
@@ -73,11 +73,13 @@ By seeing some of the successful Sole Proprietorships in use today, you’ll get
 
 *Who knows where it may lead you?* 
 
-Continue reading to see the Sole Proprietorships famous entrepreneurs and side-hustlers are using today:
+Continue reading to see examples of Sole Proprietorships entrepreneurs and side-hustlers are using today:
 
-## Sole Proprietorship Examples
+## 1.  Freelance Writer
 
-### 1.  Freelance Writer
+<center>
+<img alt="list of sole proprietorship businesses" src="/images/content/freelance-writer.png" title="freelance writing as a sole proprietor" style="width: 63%; height: 63%">
+</center>
 
 One of the most popular and easiest businesses to get into is freelance writing. 
 
@@ -95,7 +97,11 @@ As time goes on you also have the option to upgrade your Sole Proprietorship to 
 
 This is perfect for if you ever want to expand and create your own publishing company or advertising agency. 
 
-### 2.  Catering Service
+## 2.  Catering Service
+
+<center>
+<img alt="business example of sole proprietorship" src="/images/content/catering.png" title="catering as a sole proprietor" style="width: 63%; height: 63%">
+</center>
 
 It’s no secret... 
 
@@ -121,7 +127,11 @@ In an LLC, employees are tax-deductible expenses.
 
 Not to mention all the special tax benefits and liability protection you get with an LLC that doesn't come with Sole Proprietorships.
 
-### 3.  Direct Sales
+## 3.  Direct Sales
+
+<center>
+<img alt="famous sole proprietorship" src="/images/content/sales.png" title="direct selling as a sole proprietor" style="width: 63%; height: 63%">
+</center>
 
 You can start a Sole Proprietorship by running an online sales funnel or selling products through magazines, newspapers, and other media.
 
@@ -133,7 +143,11 @@ You are fully responsible for the success of your business if you decide to star
 
 The same goes for the rest of the examples.
 
-### 4.  Graphic Designer
+## 4.  Graphic Designer
+
+<center>
+<img alt="sole proprietorship job examples" src="/images/content/graphic-design.png" title="graphic designer as a sole proprietor" style="width: 63%; height: 63%">
+</center>
 
 Graphic design is needed by entrepreneurs and businesses who want their websites, logos, magazines, advertisements, and other media to look their best.
 
@@ -141,7 +155,11 @@ Graphic design gives you the freedom to work remotely because the work is comple
 
 With an understanding of graphic design and the creative vision to bring your client’s ideas to fruition, you can design artwork, illustrations, and content for public consumption.
 
-### 5.  Photographer, Videographer, or Digital Editor
+## 5.  Photographer, Videographer, or Digital Editor
+
+<center>
+<img alt="real world example of sole proprietorship" src="/images/content/photography.png" title="photographer or videographer as a sole proprietor" style="width: 63%; height: 63%">
+</center>
 
 Whether it’s for a vacation, wedding, or other celebration, people love capturing precious moments and memories with professional photos and videos. 
 
@@ -155,7 +173,11 @@ The limit to how much money you make doing this is determined by how good you ar
 
 The same principle applies to all of the Sole Proprietorship examples mentioned here.
 
-### 6.  Computer and Cellphone Repair Service
+## 6.  Computer and Cellphone Repair Service
+
+<center>
+<img alt="sole proprietorship real life examples" src="/images/content/broken-phone.png" title="cellphone prepair as a sole proprietor" style="width: 63%; height: 63%">
+</center>
 
 In the age of information and technology, almost everybody has a phone or computer. 
 
@@ -171,7 +193,11 @@ If you are good with technical, hands-on tasks and enjoy working with technology
 
 Actually, all the examples on our list are great for taking back your time and give you greater control of your income.
 
-### 7.  Financial Planner
+## 7.  Financial Planner
+
+<center>
+<img alt="sole proprietorship real world examples	" src="/images/content/financial-planning.png" title="financial planning as a sole proprietor" style="width: 63%; height: 63%">
+</center>
 
 Financial planners help manage the profits and expenses of individuals, families, and companies. 
 
@@ -191,7 +217,11 @@ It’s important to have experience and competency in this area of expertise if 
 
 Just like the other examples covered in this article, you need the necessary qualifictions and licenses to conduct such a business.
 
-### 8.  Virtual Assistant (VA)
+## 8.  Virtual Assistant (VA)
+
+<center>
+<img alt="proprietorship business examples	" src="/images/content/virtual-assistant.png" title="virtual assistant as a sole proprietor" style="width: 63%; height: 63%">
+</center>
 
 By now, you’re probably familiar with those little messages that pop up on a website asking if you want live assistance when you first click on the page. 
 
@@ -201,7 +231,11 @@ VAs help entrepreneurs and business owners complete administrative tasks online.
 
 You should consider being a Virtual Assistant if you can help customers get information, go through emails, imput data into spreadsheets, schedule appointments, and other tasks of this sort.
 
-### 9.  Bookkeeper or Accountant
+## 9.  Bookkeeper or Accountant
+
+<center>
+<img alt="proprietor examples" src="/images/content/accounting.png" title="bookkeeping as a sole proprietor" style="width: 63%; height: 63%">
+</center>
 
 As you can probably guess, bookkeepers keep the books in order. 
 
@@ -225,7 +259,11 @@ This means you can make your own schedule and take your first step to secure you
 
 If you are good with data, are detail-oriented, and are familiar with spreadsheets, you should check out bookkeeping or accounting.
 
-### 10. Plumber or Electrician
+## 10. Plumber or Electrician
+
+<center>
+<img alt="top sole proprietorship business" src="/images/content/plumbing.png" title="plumbing or electrician as a sole proprietor" style="width: 63%; height: 63%">
+</center>
 
 Plumbers and electricians usually find work in one of two ways:
 
@@ -245,7 +283,11 @@ These jobs require special trainging and certifications.
 
 If you’re not up to learning about these industries you should look into one of the other options we’ve listed.
 
-### 11. Landscaping and Lawncare
+## 11. Landscaping and Lawncare
+
+<center>
+<img alt="best sole proprietorships" src="/images/content/landscaping.png" title="landscaping as a sole proprietor" style="width: 63%; height: 63%">
+</center>
 
 These services are almost always in need. 
 
@@ -269,7 +311,11 @@ By upgrading to an LLC, you can count your employees as business expenses.
 
 Not only that, but you will also be able to receive the personal liability protections that come naturally with Limited Liability Companies.
 
-### 12. Private Home Care
+## 12. Private Home Care
+
+<center>
+<img alt="sole proprietorship company examples" src="/images/content/private-home-care.png" title="home care as a sole proprietor" style="width: 63%; height: 63%">
+</center>
 
 Healthcare is always in demand which means there is a consistent flow of new customers. 
 
@@ -283,7 +329,11 @@ It may not be glorious but it pays. A lot.
 
 If you want to work in a low volatility environment and enjoy a near-constant flow of demand, you should think about getting into [healthcare](https://www.businessinitiative.org/lets-meet-the-bad-actors-of-healthcare-reform/). 
 
-### 13. Babysitter or Daycare
+## 13. Babysitter or Daycare
+
+<center>
+<img alt="popular sole proprietorship businesses" src="/images/content/babysitting.png" title="babysitting as a sole proprietor" style="width: 63%; height: 63%">
+</center>
 
 Babysitting and daycare centers can be highly profitable for those who run them since parents what their kids to be happy and taken care of by someone they know and trust. 
 
@@ -297,7 +347,11 @@ In the case of child-care, you have to not only be screened and get a background
 
 Failure to comply can obviously lead to some very serious fines or worse.
 
-### 14. Personal Trainer
+## 14. Personal Trainer
+
+<center>
+<img alt="list of successful sole proprietorship businesses" src="/images/content/personal-trainer.png" title="personal training as a sole proprietor" style="width: 63%; height: 63%">
+</center>
 
 Personal trainers draw up meal plans and workout routines to help clients achieve their health and fitness goals. 
 
@@ -313,7 +367,11 @@ Who knows, it may be the way you gain financial sovereignty.
 
 Just remember, by running your business as a Sole Proprietorship you are <a href="/comparison/sole-proprietorship-vs-llc/pros-and-cons/" target="_blank">missing out on the personal liability protections</a> of LLCs which distance you from lawsuits and creditors.
 
-### 15. Private Tutor
+## 15. Private Tutor
+
+<center>
+<img alt="sole proprietorship examples business" src="/images/content/tutoring.png" title="turoting as a sole proprietor" style="width: 63%; height: 63%">
+</center>
 
 Tutors teach additional lessons and assist students in every subject imaginable. 
 
@@ -329,7 +387,11 @@ Nowadays with zoom and all the virtual learning, you can easily provide tutoring
 
 Since you are the one with the smarts, you’re doing the work, you’re the one getting paid, and just like that, you are a Sole Proprietor. 
 
-### 16. Housecleaner
+## 16. Housecleaner
+
+<center>
+<img alt="sole proprietorship business examples" src="/images/content/cleaning.png" title="housecleaning as a sole proprietor" style="width: 63%; height: 63%">
+</center>
 
 Housekeeping is a great business to start out with. 
 
@@ -357,7 +419,11 @@ With an LLC you can grow your operations and extend your services to other areas
 
 If you can put in the elbow grease you may find housekeeping to be a worthwhile endeavor. 
 
-### 17. Creative Pursuits and Hobbies
+## 17. Creative Pursuits and Hobbies
+
+<center>
+<img alt="famous sole proprietorship examples" src="/images/content/arts-and-crafts.png" title="making your hobby into a sole proprietorship" style="width: 63%; height: 63%">
+</center>
 
 If none of the above examples are appealing to you, you can always try monetizing one of your passions, favorite hobbies, or talents.
 
@@ -410,3 +476,12 @@ All you have to do to begin making money as a sole proprietor is:
 **START**. 
 
 On behalf of Business Inititiative, we wish you much success.
+
+Any questions?
+<br>
+<a href="https://twitter.com/intent/tweet?screen_name=BisInitiative&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-size="large" data-show-count="false">Tweet to @BisInitiative</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<br>
+
+<iframe src="https://embeds.beehiiv.com/e19ce286-1d77-44e9-b09f-22d4f7c6f0bf" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
+
+
