@@ -2,7 +2,7 @@
 title: "Quick Ratio Calculator (Acid Test) | Evaluate Your Company's Immediate Liquidity"
 layout: post
 date: 2024-04-22
-update_date: 
+update_date: 2024-04-30
 author: jack_nicholaisen
 summary: "Quickly calculate your company’s Quick Ratio (Acid Test) to assess its ability to cover short-term liabilities without relying on inventory." 
 thumbnail: /images/posts-headers/calculator/quick-ratio-calculator-header.png
@@ -24,7 +24,7 @@ This calculation gives stakeholders a clearer view of the company's ability to p
 
 For example, if a company has $300,000 in quick assets (cash, marketable securities, and receivables) and $150,000 in current liabilities, its Quick Ratio would be calculated as follows:
 
-<p>Quick Ratio = Quick Assets / Current Liabilities = $300,000 / $150,000 = 2.0</p>
+<p><b>Quick Ratio</b> = Quick Assets / Current Liabilities = $300,000 / $150,000 = 2.0</p>
 
 This ratio indicates that the company has $2 in easily liquidated assets for every $1 of short-term liabilities, suggesting strong liquidity.
 
