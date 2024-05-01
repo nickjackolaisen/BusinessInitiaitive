@@ -332,7 +332,7 @@ If you want to work in a low volatility environment and enjoy a near-constant fl
 ## 13. Babysitter or Daycare
 
 <center>
-<img alt="popular sole proprietorship businesses" src="/images/content/babysitting.png" title="babysitting as a sole proprietor" style="width: 63%; height: 63%">
+<img alt="popular sole proprietorship businesses" src="/images/content/babysitter.png" title="babysitting as a sole proprietor" style="width: 63%; height: 63%">
 </center>
 
 Babysitting and daycare centers can be highly profitable for those who run them since parents what their kids to be happy and taken care of by someone they know and trust. 
@@ -478,6 +478,7 @@ All you have to do to begin making money as a sole proprietor is:
 On behalf of Business Inititiative, we wish you much success.
 
 Any questions?
+
 <br>
 <a href="https://twitter.com/intent/tweet?screen_name=BisInitiative&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-size="large" data-show-count="false">Tweet to @BisInitiative</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <br>
