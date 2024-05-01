@@ -45,23 +45,23 @@ Remote work's surge in popularity is redefining the modern workplace, notably wi
 
 Statistics from various studies highlight the evolving landscape.
 
-A 2023 report revealed that a significant 82% of remote workers prefer working from their homes, up from previous years, indicating a solid preference for home-based offices (<a href="https://buffer.com/state-of-remote-work/2023" target="_blank">source</a>). 
+A 2023 report revealed that a significant 82% of remote workers prefer working from their homes, up from previous years, indicating a solid preference for home-based offices (<a href="https://buffer.com/state-of-remote-work/2023" target="_blank">Source</a>). 
 
-Additionally, 64% of workers now have fully remote roles, and a notable 71% express a preference for this arrangement, emphasizing the strong demand for remote work options (<a href="https://buffer.com/state-of-remote-work/2023" target="_blank">source</a>).
+Additionally, 64% of workers now have fully remote roles, and a notable 71% express a preference for this arrangement, emphasizing the strong demand for remote work options (<a href="https://buffer.com/state-of-remote-work/2023" target="_blank">Source</a>).
 
-The growth of remote work is also reflected in long-term desires, with 98% of employees stating they would like the option to work remotely for the rest of their careers, showcasing the enduring appeal of this work style (<a href="https://buffer.com/state-of-remote-work/2023" target="_blank">source</a>). 
+The growth of remote work is also reflected in long-term desires, with 98% of employees stating they would like the option to work remotely for the rest of their careers, showcasing the enduring appeal of this work style (<a href="https://buffer.com/state-of-remote-work/2023" target="_blank">Source</a>). 
 
-Despite these preferences, 94% of workers admit they could be persuaded to return to the office, suggesting that while remote work is preferred, flexible options could bridge the best of both worlds (<a href="https://owllabs.com/state-of-hybrid-work/2023" target="_blank">source</a>).
+Despite these preferences, 94% of workers admit they could be persuaded to return to the office, suggesting that while remote work is preferred, flexible options could bridge the best of both worlds (<a href="https://owllabs.com/state-of-hybrid-work/2023" target="_blank">Source</a>).
 
-In terms of adoption rates, from 2017 to 2018, around 34.7 million U.S. full-time workers had the option to work from home, demonstrating the growing acceptance of remote work pre-pandemic (<a href="https://www.statista.com/topics/7145/remote-work-in-the-us/" target="_blank">source</a>). 
+In terms of adoption rates, from 2017 to 2018, around 34.7 million U.S. full-time workers had the option to work from home, demonstrating the growing acceptance of remote work pre-pandemic (<a href="https://www.statista.com/topics/7145/remote-work-in-the-us/" target="_blank">Source</a>). 
 
-By May 2020, in response to the pandemic, this number skyrocketed, with an additional 48.7 million U.S. employees working from home, highlighting the scalability and rapid deployment of remote work capabilities during crises (<a href="https://www.statista.com/topics/7145/remote-work-in-the-us/" target="_blank">source</a>).
+By May 2020, in response to the pandemic, this number skyrocketed, with an additional 48.7 million U.S. employees working from home, highlighting the scalability and rapid deployment of remote work capabilities during crises (<a href="https://www.statista.com/topics/7145/remote-work-in-the-us/" target="_blank">Source</a>).
 
-Post-pandemic statistics from 2022 show a settled pattern, with 22% of employees working exclusively from home and 17% in a hybrid setup, indicating a stabilization of remote work trends (<a href="https://www.statista.com/topics/7145/remote-work-in-the-us/" target="_blank">source</a>). 
+Post-pandemic statistics from 2022 show a settled pattern, with 22% of employees working exclusively from home and 17% in a hybrid setup, indicating a stabilization of remote work trends (<a href="https://www.statista.com/topics/7145/remote-work-in-the-us/" target="_blank">Source</a>). 
 
-If unable to work remotely, 29% of hybrid and remote workers would expect a salary increase to cover the additional costs incurred by commuting and other expenses, suggesting that remote work offers significant financial benefits to employees (<a href="https://owllabs.com/state-of-hybrid-work/2023" target="_blank">source</a>).
+If unable to work remotely, 29% of hybrid and remote workers would expect a salary increase to cover the additional costs incurred by commuting and other expenses, suggesting that remote work offers significant financial benefits to employees (<a href="https://owllabs.com/state-of-hybrid-work/2023" target="_blank">Source</a>).
 
-The permanent adoption of remote work is also on the rise, with 71% of companies allowing some degree of remote work as a fixture of their operational strategies, underlining the shift towards more adaptable work environments (<a href="https://buffer.com/state-of-remote-work/2023" target="_blank">source</a>).
+The permanent adoption of remote work is also on the rise, with 71% of companies allowing some degree of remote work as a fixture of their operational strategies, underlining the shift towards more adaptable work environments (<a href="https://buffer.com/state-of-remote-work/2023" target="_blank">Source</a>).
 <a id="benefits"> 
 
 These statistics collectively show that remote work is not just a temporary adaptation but a fundamental shift in how companies, especially small businesses, plan their future workforce strategies. 
@@ -111,36 +111,39 @@ Collaboration tools, cloud computing, and immersive technologies like virtual an
 
 Collaboration tools have become the backbone of remote work. 
 
-In 2019, tools such as video-call software like Teams, Webex, and Zoom, alongside cloud file-sharing platforms like Box, Drive, and Dropbox, already facilitated remote workflows effectively (<a href="https://wfhresearch.com/wp-content/uploads/2023/07/SIEPR1.pdf" target="_blank">source</a>). 
+In 2019, tools such as video-call software like Teams, Webex, and Zoom, alongside cloud file-sharing platforms like Box, Drive, and Dropbox, already facilitated remote workflows effectively (<a href="https://wfhresearch.com/wp-content/uploads/2023/07/SIEPR1.pdf" target="_blank">Source</a>). 
 
-Since then, their usage has only expanded. Microsoft Teams, for instance, saw its daily users skyrocket to 270 million by 2022, up from just two million in 2017, reflecting the massive uptick in demand for collaboration platforms (<a href="https://www.statista.com/topics/7145/remote-work-in-the-us/" target="_blank">source</a>).
+Since then, their usage has only expanded. 
+
+Microsoft Teams, for instance, saw its daily users skyrocket to 270 million by 2022, up from just two million in 2017, reflecting the massive uptick in demand for collaboration platforms (<a href="https://www.statista.com/topics/7145/remote-work-in-the-us/" target="_blank">Source</a>).
 
 However, challenges remain. 
 
-Despite the critical role of these technologies, only 37% of employers upgraded their video meeting technology in 2023, which might contribute to the 80% of workers experiencing lost time due to technical difficulties in online or hybrid meetings (<a href="https://owllabs.com/state-of-hybrid-work/2023" target="_blank">source</a>). 
+Despite the critical role of these technologies, only 37% of employers upgraded their video meeting technology in 2023, which might contribute to the 80% of workers experiencing lost time due to technical difficulties in online or hybrid meetings (<a href="https://owllabs.com/state-of-hybrid-work/2023" target="_blank">Source</a>). 
 
 This underscores a gap that still exists in optimal technology deployment and user experience.
 
 Looking ahead, generative AI is a game-changer. 
 
-Approximately 44% of workers anticipate that AI will help them perform their jobs faster and more effectively over the next five years (<a href="https://owllabs.com/state-of-hybrid-work/2023" target="_blank">source</a>). 
+Approximately 44% of workers anticipate that AI will help them perform their jobs faster and more effectively over the next five years (<a href="https://owllabs.com/state-of-hybrid-work/2023" target="_blank">Source</a>). 
 
-This expectation mirrors the broader tech landscape, where U.S. patent applications mentioning remote work-related terms tripled post-pandemic, signaling a surge in innovations tailored for remote settings (<a href="https://wfhresearch.com/wp-content/uploads/2023/07/SIEPR1.pdf" target="_blank">source</a>).
+This expectation mirrors the broader tech landscape, where U.S. patent applications mentioning remote work-related terms tripled post-pandemic, signaling a surge in innovations tailored for remote settings (<a href="https://wfhresearch.com/wp-content/uploads/2023/07/SIEPR1.pdf" target="_blank">Source</a>).
 
-Remote collaboration trends further show that 50% of interactions occur via messaging apps, followed by emails (22%), and meetings (19%), indicating that real-time, less formal communication prevails (<a href="https://buffer.com/state-of-remote-work/2023" target="_blank">source</a>). 
+Remote collaboration trends further show that 50% of interactions occur via messaging apps, followed by emails (22%), and meetings (19%), indicating that real-time, less formal communication prevails (<a href="https://buffer.com/state-of-remote-work/2023" target="_blank">Source</a>). 
 
 <center>
 <img alt="how to employees communicate" src="/images/content/statistics/communication-methods-remote-work-statistics.png" title="remote company communication methods" style="width: 63%; height: 63%">
 </center>
 
-Moreover, 62% of remote workers prefer to be on camera during video calls, suggesting that visual interaction remains a key component of remote communication dynamics (<a href="https://buffer.com/state-of-remote-work/2023" target="_blank">source</a>).
+Moreover, 62% of remote workers prefer to be on camera during video calls, suggesting that visual interaction remains a key component of remote communication dynamics (<a href="https://buffer.com/state-of-remote-work/2023" target="_blank">Source</a>).
 
 ### The Impact of COVID-19 on Remote Work
 
+<br>
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <style>
     .chart-container {
-        width: 600px;
+        width: 500px;
         height: 400px;
         margin: auto;
     }
@@ -160,11 +163,10 @@ Moreover, 62% of remote workers prefer to be on camera during video calls, sugge
         data: {
             labels: ['Fewer than 50 workers', '50–99 workers', '100–499 workers', '500 workers or more'],
             datasets: [{
-                label: 'Share of employees (%)',
-                data: [6, 6, 7, 12],
+                data: [6%, 6%, 7%, 12%],
                 backgroundColor: '#629E2D',
                 borderColor: '#0063A0',
-                borderWidth: 1
+                borderWidth: 1.5
             }]
         },
         options: {
@@ -197,22 +199,19 @@ Moreover, 62% of remote workers prefer to be on camera during video calls, sugge
     });
 </script>
 <center>
-<p>The above chart illustrates the percentage of employees with access to remote work options before the COVID-19 pandemic in the U.S. in 2019. The data highlights increased remote work access in larger companies.</p>
-<p>
-Courtesy: <a href="https://www.statista.com/statistics/1123806/share-employees-access-remote-work-size-firm-us/" target="_blank">Statista</a>
+<p>The above chart illustrates the percentage of employees with access to remote work options before the COVID-19 pandemic in the U.S. in 2019. The data highlights increased remote work access in larger companies. Courtesy: <a href="https://www.statista.com/statistics/1123806/share-employees-access-remote-work-size-firm-us/" target="_blank">Statista</a>
 </p>
 </center>
-
 
 The COVID-19 pandemic catalyzed an unprecedented acceleration in remote work adoption. 
 
 At the height of the pandemic in May 2020, over 60% of workdays were spent at home due to social distancing and infection risks. 
 
-By the summer of 2023, this settled to about 25% of days being worked from home, a significant increase from about 5% in 2019 (<a href="https://wfhresearch.com/wp-content/uploads/2023/07/SIEPR1.pdf" target="_blank">source</a>).
+By the summer of 2023, this settled to about 25% of days being worked from home, a significant increase from about 5% in 2019 (<a href="https://wfhresearch.com/wp-content/uploads/2023/07/SIEPR1.pdf" target="_blank">Source</a>).
 
 This seismic shift had lasting effects. 
 
-For instance, 54% of workers now believe that business travel in their organizations has returned to pre-pandemic levels, illustrating a rebound in certain pre-COVID work practices (<a href="https://owllabs.com/state-of-hybrid-work/2023" target="_blank">source</a>). 
+For instance, 54% of workers now believe that business travel in their organizations has returned to pre-pandemic levels, illustrating a rebound in certain pre-COVID work practices (<a href="https://owllabs.com/state-of-hybrid-work/2023" target="_blank">Source</a>). 
 
 However, the legacy of the pandemic on work structures is indelible, with a marked increase in the share of workdays conducted remotely, solidifying a long-term trend toward decentralized workplaces.
 
@@ -237,17 +236,17 @@ One of the most significant challenges for small business owners in a remote env
 
 When teams work remotely, they often miss out on the spontaneous interactions that contribute to team bonding and a cohesive culture. 
 
-In fact, 68% of managers believe that their hybrid or remote employees miss critical impromptu or informal feedback, which can be vital for development and morale (<a href="https://owllabs.com/state-of-hybrid-work/2023" target="_blank">source</a>).
+In fact, 68% of managers believe that their hybrid or remote employees miss critical impromptu or informal feedback, which can be vital for development and morale (<a href="https://owllabs.com/state-of-hybrid-work/2023" target="_blank">Source</a>).
 
 Communication breakdowns and the barriers to mentoring can also reduce productivity and harm the cultural fabric of an organization. 
 
-These issues are notably prevalent in fully remote setups, where traditional office dynamics are absent (<a href="https://wfhresearch.com/wp-content/uploads/2023/07/SIEPR1.pdf" target="_blank">source</a>). 
+These issues are notably prevalent in fully remote setups, where traditional office dynamics are absent (<a href="https://wfhresearch.com/wp-content/uploads/2023/07/SIEPR1.pdf" target="_blank">Source</a>). 
 
-Despite these challenges, 75% of remote workers still feel connected to their colleagues, suggesting that with the right tools and strategies, maintaining a strong company culture is achievable (<a href="https://buffer.com/state-of-remote-work/2023" target="_blank">source</a>).
+Despite these challenges, 75% of remote workers still feel connected to their colleagues, suggesting that with the right tools and strategies, maintaining a strong company culture is achievable (<a href="https://buffer.com/state-of-remote-work/2023" target="_blank">Source</a>).
 
 Advancements in virtual collaboration tools and efforts to digitize office culture are making it possible for remote work to be sustainable in the long term. 
 
-These technologies and initiatives help replicate an office-like environment online, enabling more natural interactions and a sense of belonging among team members (<a href="https://www.statista.com/topics/7145/remote-work-in-the-us/" target="_blank">source</a>).
+These technologies and initiatives help replicate an office-like environment online, enabling more natural interactions and a sense of belonging among team members (<a href="https://www.statista.com/topics/7145/remote-work-in-the-us/" target="_blank">Source</a>).
 
 ### Ensuring Data Security and Compliance
 
@@ -263,15 +262,15 @@ Managing employee performance and well-being remotely requires careful strategy 
 
 Tracking performance can be challenging without the direct observation possible in an office setting. 
 
-Furthermore, 56% of workers have reported an increase in work-related stress over the past year, underscoring the need for supportive measures to manage stress and promote well-being (<a href="https://owllabs.com/state-of-hybrid-work/2023" target="_blank">source</a>).
+Furthermore, 56% of workers have reported an increase in work-related stress over the past year, underscoring the need for supportive measures to manage stress and promote well-being (<a href="https://owllabs.com/state-of-hybrid-work/2023" target="_blank">Source</a>).
 
-Remote work can also lead to a 10% drop in productivity compared to in-person settings, largely due to communication issues and challenges in self-motivation (<a href="https://wfhresearch.com/wp-content/uploads/2023/07/SIEPR1.pdf" target="_blank">source</a>). 
+Remote work can also lead to a 10% drop in productivity compared to in-person settings, largely due to communication issues and challenges in self-motivation (<a href="https://wfhresearch.com/wp-content/uploads/2023/07/SIEPR1.pdf" target="_blank">Source</a>). 
 
-Yet, 44% of remote workers report working more this year than last, suggesting a shift towards longer working hours (<a href="https://buffer.com/state-of-remote-work/2023" target="_blank">source</a>).
+Yet, 44% of remote workers report working more this year than last, suggesting a shift towards longer working hours (<a href="https://buffer.com/state-of-remote-work/2023" target="_blank">Source</a>).
 
 Burnout is another significant issue, with 20% of remote workers feeling more burnt out than they did a year ago. 
 
-This highlights the importance of establishing clear boundaries and supporting work-life balance (<a href="https://buffer.com/state-of-remote-work/2023" target="_blank">source</a>). 
+This highlights the importance of establishing clear boundaries and supporting work-life balance (<a href="https://buffer.com/state-of-remote-work/2023" target="_blank">Source</a>). 
 
 Despite these challenges, 58% of remote workers feel engaged with their jobs, and 81% check work emails outside of work hours, showing high levels of commitment and engagement (<a href="https://buffer.com/state-of-remote-work/2023" target="_blank">Source</a>).
 
