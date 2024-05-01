@@ -20,21 +20,37 @@ All the examples in our list have one thing in common:
 Check out the following list of successful Sole Proprietorship examples and think about how YOU can achieve financial independence using one (or more) of them.
 
 **1.  Freelance Writer**
+
 **2.  Catering Service**
+
 **3.  Direct Sales**
+
 **4.  Graphic Designer**
+
 **5.  Photographer, Videographer, or Digital Editor**
+
 **6.  Computer and Cellphone Repair Service**
+
 **7.  Financial Planner**
+
 **8.  Virtual Assistant (VA)**
+
 **9.  Bookkeeper or Accountant**
+
 **10.  Plumber or Electrician**
+
 **11.  Landscaping and Lawncare**
+
 **12.  Private Home Care**
+
 **13.  Babysitter or Daycare**
+
 **14.  Personal Trainer**
+
 **15.  Private Tutor**
+
 **16.  Housecleaner**
+
 **17.  Creative Pursuits and Hobbies**
 
 Starting a business requires time, effort, and money. 
