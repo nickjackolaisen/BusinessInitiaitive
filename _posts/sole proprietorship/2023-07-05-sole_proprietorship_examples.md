@@ -220,7 +220,7 @@ Just like the other examples covered in this article, you need the necessary qua
 ## 8.  Virtual Assistant (VA)
 
 <center>
-<img alt="proprietorship business examples	" src="/images/content/virtual-assistant.png" title="virtual assistant as a sole proprietor" style="width: 63%; height: 63%">
+<img alt="proprietorship business examples" src="/images/content/virtual-assistant.png" title="virtual assistant as a sole proprietor" style="width: 63%; height: 63%">
 </center>
 
 By now, you’re probably familiar with those little messages that pop up on a website asking if you want live assistance when you first click on the page. 
