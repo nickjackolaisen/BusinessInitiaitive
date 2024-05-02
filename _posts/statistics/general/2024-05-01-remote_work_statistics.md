@@ -146,7 +146,7 @@ Moreover, 62% of remote workers prefer to be on camera during video calls, sugge
         width: 600px;
         height: 400px;
         margin: auto;
-        padding: 75px;
+        padding: 15px;
     }
     canvas {
         background-color: #f7f7f7;
