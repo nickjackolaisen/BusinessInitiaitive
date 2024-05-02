@@ -1,8 +1,8 @@
 ---
-title: "Trends in Business Applications | UPDATED for 2024"
+title: "Historical Trends & Statistics of Business Applications | UPDATED for 2024"
 layout: post
 date: 2024-03-31
-update_date: 
+update_date: 2024-05-02
 author: jack_nicholaisen
 summary: "Discover how black swan events have sparked a surge in business applications, reshaping the entrepreneurial landscape and accelerating e-commerce trends." 
 thumbnail: /images/posts-headers/business-applications-header.png

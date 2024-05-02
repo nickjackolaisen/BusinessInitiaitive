@@ -1,8 +1,8 @@
 ---
-title: "Remote Work Statistics for Business Owners"
+title: "Remote Work Statistics for Business Owners | UPDATED for 2024"
 layout: post
 date: 2024-05-01
-update_date: 
+update_date: 2024-05-02
 author: jack_nicholaisen
 summary: "Explore the future of remote work - Benefits, Challenges, and Strategies for small businesses. Transform your operations!" 
 thumbnail: /images/posts-headers/remote-work-statistics-header.png
