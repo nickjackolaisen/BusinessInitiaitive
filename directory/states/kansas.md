@@ -2,12 +2,16 @@
 layout: page
 title: "Kansas Business Directory"
 date: 2023-12-04
-update_date: 2024-04-01
+update_date: 2024-05-02
 author: jack_nicholaisen
 summary: "Discover the top business startup services in Kansas! Your ultimate guide to launching a successful venture."  
 permalink: /directory/kansas/
 tags: business directory, start up services, business services, business lawyers, registered agents,
 ---
+
+<center>
+<img alt="kansas state business directory" src="/images/directory-images/state-headers/kansas-bd-header.png" title="Kansas Business Directory" style="width: 72%; height: 72%">
+</center>
 
 ### Kansas Business Startup Services Directory
 

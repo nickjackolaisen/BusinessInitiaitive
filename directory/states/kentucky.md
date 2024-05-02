@@ -2,12 +2,16 @@
 layout: page
 title: "Kentucky Business Directory"
 date: 2024-04-01
-update_date: 
+update_date: 2024-05-02
 author: jack_nicholaisen
 summary: "Discover the top business startup services in Kentucky! Your ultimate guide to launching a successful venture."  
 permalink: /directory/kentucky/
 tags: business directory, start up services, business services, business lawyers, registered agents in Kentucky, accountants in Kentucky, bookkeepers in Kentucky
 ---
+
+<center>
+<img alt="kentucky state business directory" src="/images/directory-images/state-headers/kentucky-bd-header.png" title="Kentucky Business Directory" style="width: 72%; height: 72%">
+</center>
 
 ### Kentucky Business Startup Services Directory
 

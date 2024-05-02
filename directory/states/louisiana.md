@@ -2,12 +2,16 @@
 layout: page
 title: "Louisiana Business Directory"
 date: 2024-04-01
-update_date: 
+update_date: 2024-05-02
 author: jack_nicholaisen
 summary: "Discover the top business startup services in Louisiana! Your ultimate guide to launching a successful venture."  
 permalink: /directory/louisiana/
 tags: business directory, start up services, business services, business lawyers, registered agents in Louisiana, accountants in Louisiana, bookkeepers in Louisiana
 ---
+
+<center>
+<img alt="louisiana state business directory" src="/images/directory-images/state-headers/louisiana-bd-header.png" title="Louisiana Business Directory" style="width: 72%; height: 72%">
+</center>
 
 ### Louisiana Business Startup Services Directory
 
