@@ -2,7 +2,7 @@
 title: "Sole Proprietorship Facts, Stats, & FAQs for 2024 (UPDATED)"
 layout: post
 date: 2023-07-05
-update_date: 2024-04-04
+update_date: 2024-05-02
 author: jack_nicholaisen
 summary: "Unlock your business potential with our data-driven insights, expert consulting, and tailored pricing. Elevate success today!" 
 thumbnail: /images/posts-headers/sole-proprietorship-facts-stats-faqs-header.png
@@ -618,7 +618,7 @@ According to the <a href="https://www.sba.gov/sites/default/files/advocacy/2018-
 <details>
 <summary>Reveal the answer!</summary>
 <br>
-<p>The number of sole proprietorships has been steadily increasing over the past two decades. According to data from <a href="https://www.statista.com/statistics/542181/us-number-of-sole-proprietorship-establishments/" target="_blank">Statista</a>, there were approximately 23 million registered sole proprietorships in the United States in 1997; this number increased to around 26 million by 2020.
+<p>The number of sole proprietorships in the us has been steadily increasing over the past two decades. According to data from the <a href="https://www.irs.gov/statistics/soi-tax-stats-nonfarm-sole-proprietorship-statistics" target="_blank">IRS</a>, there were approximately 23 million registered sole proprietorships in the United States in 1997; this number increased to around 21 million by 2021.
 </p>
 </details>
 
