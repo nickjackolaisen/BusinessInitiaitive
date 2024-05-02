@@ -2,12 +2,16 @@
 layout: page
 title: "Missouri Business Directory"
 date: 2024-04-01
-update_date: 
+update_date: 2024-05-02
 author: jack_nicholaisen
 summary: "Discover the top business startup services in Missouri! Your ultimate guide to launching a successful venture."  
 permalink: /directory/missouri/
 tags: business directory, start up services, business services, business lawyers, registered agents in Missouri, accountants in Missouri, bookkeepers in Missouri
 ---
+
+<center>
+<img alt="missouri state business directory" src="/images/directory-images/state-headers/missouri-bd-header.png" title="Missouri Business Directory" style="width: 72%; height: 72%">
+</center>
 
 ### Missouri Business Startup Services Directory
 

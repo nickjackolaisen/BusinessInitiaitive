@@ -2,12 +2,16 @@
 layout: page
 title: "Nebraska Business Directory"
 date: 2024-04-01
-update_date: 
+update_date: 2024-05-02
 author: jack_nicholaisen
 summary: "Discover the top business startup services in Nebraska! Your ultimate guide to launching a successful venture."  
 permalink: /directory/nebraska/
 tags: business directory, start up services, business services, business lawyers, registered agents in Nebraska, accountants in Nebraska, bookkeepers in Nebraska
 ---
+
+<center>
+<img alt="nebraska state business directory" src="/images/directory-images/state-headers/nebraska-bd-header.png" title="Nebraska Business Directory" style="width: 72%; height: 72%">
+</center>
 
 ### Nebraska Business Startup Services Directory
 

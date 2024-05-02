@@ -2,12 +2,16 @@
 layout: page
 title: "Minnesota Business Directory"
 date: 2024-04-01
-update_date: 
+update_date: 2024-05-02
 author: jack_nicholaisen
 summary: "Discover the top business startup services in Minnesota! Your ultimate guide to launching a successful venture."  
 permalink: /directory/minnesota/
 tags: business directory, start up services, business services, business lawyers, registered agents in Minnesota, accountants in Minnesota, bookkeepers in Minnesota
 ---
+
+<center>
+<img alt="minnesota state business directory" src="/images/directory-images/state-headers/minnesota-bd-header.png" title="Minnesota Business Directory" style="width: 72%; height: 72%">
+</center>
 
 ### Minnesota Business Startup Services Directory
 

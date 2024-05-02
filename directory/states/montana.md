@@ -2,12 +2,16 @@
 layout: page
 title: "Montana Business Directory"
 date: 2024-04-01
-update_date: 
+update_date: 2024-05-02
 author: jack_nicholaisen
 summary: "Discover the top business startup services in Montana! Your ultimate guide to launching a successful venture."  
 permalink: /directory/montana/
 tags: business directory, start up services, business services, business lawyers, registered agents in Montana, accountants in Montana, bookkeepers in Montana
 ---
+
+<center>
+<img alt="montana state business directory" src="/images/directory-images/state-headers/montana-bd-header.png" title="Montana Business Directory" style="width: 72%; height: 72%">
+</center>
 
 ### Montana Business Startup Services Directory
 

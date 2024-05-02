@@ -2,12 +2,16 @@
 layout: page
 title: "Maine Business Directory"
 date: 2024-04-01
-update_date: 
+update_date: 2024-05-02
 author: jack_nicholaisen
 summary: "Discover the top business startup services in Maine! Your ultimate guide to launching a successful venture."  
 permalink: /directory/maine/
 tags: business directory, start up services, business services, business lawyers, registered agents in Maine, accountants in Maine, bookkeepers in Maine
 ---
+
+<center>
+<img alt="maine state business directory" src="/images/directory-images/state-headers/maine-bd-header.png" title="Maine Business Directory" style="width: 72%; height: 72%">
+</center>
 
 ### Maine Business Startup Services Directory
 

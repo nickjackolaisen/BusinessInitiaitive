@@ -2,12 +2,16 @@
 layout: page
 title: "Massachusetts Business Directory"
 date: 2024-04-01
-update_date: 
+update_date: 2024-05-02
 author: jack_nicholaisen
 summary: "Discover the top business startup services in Massachusetts! Your ultimate guide to launching a successful venture."  
 permalink: /directory/massachusetts/
 tags: business directory, start up services, business services, business lawyers, registered agents in Massachusetts, accountants in Massachusetts, bookkeepers in Massachusetts
 ---
+
+<center>
+<img alt="massachusetts state business directory" src="/images/directory-images/state-headers/massachusetts-bd-header.png" title="Massachusetts Business Directory" style="width: 72%; height: 72%">
+</center>
 
 ### Massachusetts Business Startup Services Directory
 

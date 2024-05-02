@@ -2,12 +2,16 @@
 layout: page
 title: "Mississippi Business Directory"
 date: 2024-04-01
-update_date: 
+update_date: 2024-05-02
 author: jack_nicholaisen
 summary: "Discover the top business startup services in Mississippi! Your ultimate guide to launching a successful venture."  
 permalink: /directory/mississippi/
 tags: business directory, start up services, business services, business lawyers, registered agents in Mississippi, accountants in Mississippi, bookkeepers in Mississippi
 ---
+
+<center>
+<img alt="mississippi state business directory" src="/images/directory-images/state-headers/mississippi-bd-header.png" title="Mississippi Business Directory" style="width: 72%; height: 72%">
+</center>
 
 ### Mississippi Business Startup Services Directory
 

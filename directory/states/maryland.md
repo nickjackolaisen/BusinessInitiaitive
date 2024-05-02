@@ -2,12 +2,16 @@
 layout: page
 title: "Maryland Business Directory"
 date: 2024-04-01
-update_date: 
+update_date: 2024-05-02
 author: jack_nicholaisen
 summary: "Discover the top business startup services in Maryland! Your ultimate guide to launching a successful venture."  
 permalink: /directory/maryland/
 tags: business directory, start up services, business services, business lawyers, registered agents in Maryland, accountants in Maryland, bookkeepers in Maryland
 ---
+
+<center>
+<img alt="maryland state business directory" src="/images/directory-images/state-headers/maryland-bd-header.png" title="Maryland Business Directory" style="width: 72%; height: 72%">
+</center>
 
 ### Maryland Business Startup Services Directory
 

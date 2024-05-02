@@ -2,12 +2,16 @@
 layout: page
 title: "Michigan Business Directory"
 date: 2024-04-01
-update_date: 
+update_date: 2024-05-02
 author: jack_nicholaisen
 summary: "Discover the top business startup services in Michigan! Your ultimate guide to launching a successful venture."  
 permalink: /directory/michigan/
 tags: business directory, start up services, business services, business lawyers, registered agents in michigan, accountants in michigan, bookkeepers in michigan
 ---
+
+<center>
+<img alt="michigan state business directory" src="/images/directory-images/state-headers/michigan-bd-header.png" title="Michigan Business Directory" style="width: 72%; height: 72%">
+</center>
 
 ### michigan Business Startup Services Directory
 
