@@ -32,6 +32,10 @@ Unleash the power of SWOT Analysis and transform your business today!
 
 ## Purpose and Benefits of Conducting a SWOT Analysis
 
+<center>
+<img alt="benefits" src="/images/content/high-five-workers.png" title="advantages of swot analysis" style="width: 63%; height: 63%">
+</center>
+
 Conducting a SWOT analysis offers several benefits for businesses, including:
 
 **1. Identifying areas where the company excels or has a competitive advantage.** 
@@ -73,6 +77,10 @@ It has since become a widely used technique for assessing a company's position w
 
 ### Strengths
 
+<center>
+<img alt="strengths" src="/images/content/words/strengths.png" title="SWOT Analysis Strengths" style="width: 63%; height: 63%">
+</center>
+
 -   **Understanding Strengths**
 
 Strengths are the internal factors that contribute to an organization's success. 
@@ -87,6 +95,10 @@ To identify and assess an organization's strengths, decision-makers should exami
 
 ### Weaknesses
 
+<center>
+<img alt="weaknesses" src="/images/content/words/weaknesses.png" title="SWOT Analysis Weaknesses" style="width: 63%; height: 63%">
+</center>
+
 -   **Defining Weaknesses**
 
 Weaknesses are internal factors that hinder an organization's performance or limit its ability to compete effectively in the marketplace.
@@ -98,6 +110,10 @@ Common weaknesses in businesses may include outdated technology, high employee t
 To identify and assess an organization's weaknesses, it is important to conduct a thorough internal analysis and gather input from various stakeholders to pinpoint areas in need of improvement.
 
 ### Opportunities
+
+<center>
+<img alt="opportunities" src="/images/content/words/opportunities.png" title="SWOT Analysis Opportunities" style="width: 63%; height: 63%">
+</center>
 
 -   **Exploring Opportunities**
 
@@ -112,6 +128,10 @@ Examples of common opportunities in various industries might include expanding i
 To identify and assess potential opportunities for an organization, decision-makers should monitor industry developments, analyze competitors' strategies, and stay informed about economic trends and changes in consumer preferences.
 
 ### Threats
+
+<center>
+<img alt="threats" src="/images/content/words/threats.png" title="SWOT Analysis Threats" style="width: 63%; height: 63%">
+</center>
 
 -   **Recognizing Threats**
 
@@ -131,6 +151,10 @@ These real-life examples demonstrate how successful companies have used SWOT ana
 
 -   [**Apple Inc.**](https://www.apple.com/)
 
+<center>
+<img alt="importance of swot analysis in business" src="/images/content/apple-inc.png" title="Apple Inc." style="width: 63%; height: 63%">
+</center>
+
 Apple's SWOT analysis identified its strong brand, innovative products, and loyal customer base as key strengths. 
 
 The company capitalized on these strengths by continuously investing in research and development to create groundbreaking products like the iPhone and iPad. 
@@ -141,6 +165,10 @@ As a result, Apple remains one of the most valuable companies globally.
 
 -   [**Starbucks**](https://www.starbucks.com/)
 
+<center>
+<img alt="what is swot analysis in business" src="/images/content/starbucks-coffee.png" title="Starbucks Coffee" style="width: 63%; height: 63%">
+</center>
+
 Starbucks conducted a SWOT analysis that revealed its strengths in brand recognition, quality coffee offerings, and global presence. 
 
 The company leveraged these strengths to expand its international footprint while improving customer experience through mobile ordering and digital rewards programs. 
@@ -148,6 +176,10 @@ The company leveraged these strengths to expand its international footprint whil
 Additionally, Starbucks tackled potential threats from competitors by focusing on sustainability initiatives and building strong relationships with suppliers.
 
 -   [**Amazon**](https://www.amazon.com/)
+
+<center>
+<img alt="swot analysis of a business" src="/images/content/amazon.png" title="Amazon.com Inc." style="width: 63%; height: 63%">
+</center>
 
 Amazon's SWOT analysis highlighted its vast product selection, efficient logistics network, and advanced technology infrastructure as key strengths. 
 
@@ -157,6 +189,10 @@ The company utilized these advantages to expand into new business areas like clo
 At the same time, Amazon addressed potential weaknesses such as low-profit margins by focusing on automation and cost reduction strategies.
 
 ## Conducting Your SWOT Analysis
+
+<center>
+<img alt="swot process for business" src="/images/content/entreprenural-journey.png" title="how to conduct a swot analysis" style="width: 63%; height: 63%">
+</center>
 
 ### Step 1: Gather Relevant Information
 
@@ -221,6 +257,10 @@ This may involve investing in employee training, improving operational efficienc
 
 ## SWOT Analysis Best Practices and Tips
 
+<center>
+<img alt="tips for successful swot analysis" src="/images/content/investigation.png" title="swot analysis best practices" style="width: 63%; height: 63%">
+</center>
+
 **1. Set clear objectives**: 
 
 Before starting the analysis, establish specific goals or questions that the SWOT analysis should address. 
@@ -256,6 +296,10 @@ This can help identify key strategic priorities and inform decision-making proce
 
 ## Tips for Using SWOT Analysis Effectively
 
+<center>
+<img alt="effective swot analysis" src="/images/content/business-goals.png" title="how do use a swot analysis in business" style="width: 63%; height: 63%">
+</center>
+
 **1. Communicate results widely**: 
 
 Share findings with key stakeholders and team members throughout the organization to encourage buy-in and create a shared understanding of strategic priorities.
@@ -281,7 +325,7 @@ Foster an open dialogue around the findings of the SWOT analysis, allowing team 
 
 This can lead to more robust strategies and a deeper understanding of the organization's strengths and weaknesses.
 
-## In Conclusion...
+## In Summary...
 
 The SWOT analysis is a valuable strategic planning tool that enables organizations to gain insights into their internal and external environments.
 
@@ -314,6 +358,8 @@ Plus, sign up for our email newsletter to stay informed about the latest industr
 <br>
 <b>Additional Resources</b>
 <p>We also encourage you to explore these extra tools for further reading and research on SWOT analysis:</p>
+<p><b>➤ FREE DOWNLOAD </b><a href="/files/swot-analysis-template.pdf" target="_blank" name="Business Initiative SWOT Analysis Template">Get a copy of Business Initiative's SWOT Analysis Template HERE!</a></p>
+<br>
 <a href="https://www.mindtools.com/pages/article/newTMC_05.htm">MindTools: SWOT Analysis</a> - Discover New Opportunities, Manage and Eliminate Threats
 <br>
 <a href="https://pestleanalysis.com/what-is-pestle-analysis/">PESTLE Analysis: What Is PESTLE Analysis?</a> A Tool for Business Analysis
