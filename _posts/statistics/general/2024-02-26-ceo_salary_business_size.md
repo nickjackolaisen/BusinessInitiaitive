@@ -2,12 +2,13 @@
 title: "Understanding CEO Compensation: An Analysis of Average CEO Salary by Company Size"
 layout: post
 date: 2024-02-26
-update_date: 2024-04-11
+update_date: 2024-05-02
 author: jack_nicholaisen
 summary: "Explore the dynamics of CEO pay across company sizes, impact on performance, and trends shaping executive pay. Uncover the factors driving CEO salaries." 
 thumbnail: /images/posts-headers/ceo-salary-business-size-header.png
 image: /images/posts-headers/ceo-salary-business-size-header.png
 permalink: /statistics/ceo-salary/
+tags: ceo compensation by industry, average ceo pay, ceo pay by company size, average ceo compensation, average ceo compensation by company size, how much does a ceo make, average ceo salary for small companies, average small business ceo salary, 
 ---
 
 In the ever-evolving landscape of corporate governance, the topic of CEO compensation remains at the forefront of discussion. 
@@ -121,7 +122,7 @@ CEO compensation trends over the past few decades highlight the growing disparit
 ## CEO Salary Breakdown by Company Size
 
 <center>
-<img alt="ceo salary by size of business" src="/images/content/to-the-moon.png" title="A general rule of thumb, the larger the company, the more the CEO makes" style="width: 63%; height: 63%">
+<img alt="average ceo salary small companies" src="/images/content/to-the-moon.png" title="A general rule of thumb, the larger the company, the more the CEO makes" style="width: 63%; height: 63%">
 </center>
 
 ### Small Companies
@@ -509,7 +510,7 @@ Let us help you build a robust compensation framework that drives performance, a
 ## Research Methodology
 
 <center>
-<img alt="research methodology" src="/images/content/road-to-success.png" title="How we did our research" style="width: 63%; height: 63%">
+<img alt="corporate ceo salary" src="/images/content/road-to-success.png" title="How we did our research" style="width: 63%; height: 63%">
 </center>
 
 ### Criteria for Categorizing Company Size:
@@ -579,3 +580,6 @@ This can be done using t-tests or ANOVA (Analysis of Variance) if comparing more
 Calculate the correlation coefficient to measure the strength and direction of the relationship between company size and CEO compensation.
 
 By employing these methodologies, the analysis can provide insights into how CEO compensation varies with company size and identify factors that influence executive pay.
+
+
+
