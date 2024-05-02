@@ -358,7 +358,7 @@ Plus, sign up for our email newsletter to stay informed about the latest industr
 <br>
 <b>Additional Resources</b>
 <p>We also encourage you to explore these extra tools for further reading and research on SWOT analysis:</p>
-<p><b>➤ FREE DOWNLOAD </b><a href="/files/swot-analysis-template.pdf" target="_blank" name="Business Initiative SWOT Analysis Template">Get a copy of Business Initiative's SWOT Analysis Template HERE!</a></p>
+<p><b>➤ FREE DOWNLOAD:</b><a href="/files/swot-analysis-template.pdf" target="_blank" name="Business Initiative SWOT Analysis Template">Get a copy of Business Initiative's SWOT Analysis Template HERE!</a></p>
 <br>
 <a href="https://www.mindtools.com/pages/article/newTMC_05.htm">MindTools: SWOT Analysis</a> - Discover New Opportunities, Manage and Eliminate Threats
 <br>
@@ -376,9 +376,6 @@ In this article, we've referenced various sources to support our discussion abou
 <ul>
 <li><a href="https://www.forbes.com/sites/innovatorsdna/2018/08/14/the-worlds-most-innovative-companies-2018/#4f13b9e67c6a">Forbes: Most Innovative Companies 2018</a></li>
 <li><a href="https://hbr.org/2012/10/big-data-the-management-revolution">Harvard Business Review: Big Data - The Management Revolution</a></li>
-<li><a href="https://www.apple.com/">Apple Inc.</a></li>
-<li><a href="https://www.starbucks.com/">Starbucks</a></li>
-<li><a href="https://www.amazon.com/">Amazon</a></li>
 </ul>
 </details>
 <br>
