@@ -146,16 +146,15 @@ Moreover, 62% of remote workers prefer to be on camera during video calls, sugge
         width: 600px;
         height: 400px;
         margin: auto;
+        padding: 75px;
     }
     canvas {
-        background-color: #fff;
+        background-color: #f7f7f7;
     }
 </style>
-
 <div class="chart-container">
     <canvas id="employmentChart"></canvas>
 </div>
-
 <script>
     var ctx = document.getElementById('employmentChart').getContext('2d');
     var employmentChart = new Chart(ctx, {
