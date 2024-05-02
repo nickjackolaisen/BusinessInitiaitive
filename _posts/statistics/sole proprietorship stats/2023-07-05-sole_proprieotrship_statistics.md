@@ -43,7 +43,7 @@ It should come as no surprise since they are the easiest, cheapest, and fastest 
 <a id="largest"> 
 
 <center>
-<img alt="sole proprietorship growth" src="/images/content/market-growth.png" style="width: 63%; height: 63%">
+<img alt="what percentage of businesses in the united states are sole proprietorships?" src="/images/content/market-growth.png" title="sole proprietorship growth"style="width: 63%; height: 63%">
 </center>
 
 ## What are the Largest Sole Proprietorships in the world?
@@ -56,12 +56,10 @@ This single factor means anybody with a significantly sized Sole Proprietorship 
 
 Without any liability protections, any massively successful sole proprietor would be out of their mind to NOT convert their business to one which provides the peace of mind of Limited Personal Liability Protections, the savings of tax breaks, and the option to expand and add Owners and Investors. 
 
-<p>
-<b>➤ MORE: </b> <a href="/statistics/sole-proprietorship/success-and-failure-rate/" target="_blank">Why do some sole proprietorships fail while others succeed?</a>
-</p>
+<p><b>➤ MORE: </b> <a href="/statistics/sole-proprietorship/success-and-failure-rate/" target="_blank">Why do some sole proprietorships fail while others succeed?</a></p>
 
 <center>
-<img alt="largest sole proprietorships" src="/images/content/funny-workers.png" style="width: 63%; height: 63%">
+<img alt="what percent of businesses are sole proprietorships" src="/images/content/funny-workers.png" title="largest sole proprietorships" style="width: 63%; height: 63%">
 </center>
 
 ## Sole Proprietorship Tax Return Statistics from 2015 to 2021
@@ -144,7 +142,7 @@ Without any liability protections, any massively successful sole proprietor woul
 5.   The **easiest taxation model**: The Pass-Though Process
 
 <center>
-<img alt="branding" src="/images/content/small-business.png" style="width: 63%; height: 63%">
+<img alt="percentage of sole proprietorships in the us" src="/images/content/small-business.png" title="branding" style="width: 63%; height: 63%">
 </center>
 
 ## How many owners does a Sole Proprietorship have?
@@ -340,7 +338,7 @@ With that being said…
 This food production giant was started way back in 1865 and currently employees 155,000 workers worldwide.
 
 <center>
-<img alt="cargill headquarters" src="/images/content/cargill-headquarters.png" style="width: 63%; height: 63%">
+<img alt="what percentage of businesses in the us are sole proprietors" src="/images/content/cargill-headquarters.png" title="cargill headquarters" style="width: 63%; height: 63%">
 </center>
 
 Based on their wikipedia page, Cargill brought in a **net profit of $4.93 Billion in 2021**, after material costs and taxes. 
@@ -396,7 +394,7 @@ This gets you out of having to file paperwork with your local government and pay
 All of which have to be done when operating an LLC or Corporation. 
 
 <center>
-<img alt="informal business structure" src="/images/content/woman-worker.png" style="width: 63%; height: 63%">
+<img alt="how many sole proprietorships are there in the united states" src="/images/content/woman-worker.png" title="informal business structure" style="width: 63%; height: 63%">
 </center>
     
 ###  5. Pass-Through Taxation
@@ -438,7 +436,7 @@ Now your small business isn't so small anymore.
 ## What are 5 disadvantages of a Sole Proprietorship?
 
 <center>
-<img alt="disadvantages" src="/images/content/the-grind.png" style="width: 63%; height: 63%">
+<img alt="how many businesses in the us are sole proprietorships" src="/images/content/the-grind.png" title="disadvantages" style="width: 63%; height: 63%">
 </center>
 
 **1.**  Sole proprietors are **fully responsible** for all aspects of their business. 
@@ -466,7 +464,7 @@ The only way to sell the business is to sell the individual components, material
 ## Do Sole Proprietorships have unlimited life?
 
 <center>
-<img alt="business lifetime" src="/images/content/evolution-of-man.png" style="width: 63%; height: 63%">
+<img alt="how many businesses are sole proprietorship" src="/images/content/evolution-of-man.png" title="business lifetime" style="width: 63%; height: 63%">
 </center>
 
 No, Sole Proprietorship entities will end when one of the following events occur:
