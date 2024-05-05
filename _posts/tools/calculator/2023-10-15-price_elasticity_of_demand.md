@@ -122,7 +122,9 @@ It is important for businesses to regularly review the price elasticity of deman
 
 ## FAQs - Frequently Asked Questions About Price Elasticity of Demand
 
-Certainly! Here's the adjusted format with each sentence wrapped in its own `<p>` tag:
+<center>
+<img alt="frequently asked questions" src="/images/content/answers.png" title="FAQs about common business calculations" style="width: 63%; height: 63%">
+</center>
 
 <h3>What is price elasticity of demand?</h3>
 <p>Price elasticity of demand measures how much the quantity demanded changes in response to price changes.</p>

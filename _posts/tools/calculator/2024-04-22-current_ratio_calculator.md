@@ -133,9 +133,13 @@ Join our newsletter and follow us on X (Twitter) for continuous updates and expe
 <br>
 
 <iframe src="https://embeds.beehiiv.com/e19ce286-1d77-44e9-b09f-22d4f7c6f0bf" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
-
+<br>
 
 ## FAQs - Frequently Asked Questions About Current Ratio
+
+<center>
+<img alt="frequently asked questions" src="/images/content/answers.png" title="FAQs about common business calculations" style="width: 63%; height: 63%">
+</center>
 
 <h3>What is the current ratio?</h3>
 <p>The current ratio measures a company's ability to pay off its short-term liabilities with its current assets.</p>

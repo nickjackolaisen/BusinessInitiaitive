@@ -133,6 +133,10 @@ Seize the opportunity to optimize your inventory turnover and elevate your busin
 
 ## FAQs - Frequently Asked Questions About Inventory Turnover
 
+<center>
+<img alt="frequently asked questions" src="/images/content/answers.png" title="FAQs about common business calculations" style="width: 63%; height: 63%">
+</center>
+
 <h3>What is the Inventory Turnover Ratio?</h3>
 <p>The Inventory Turnover Ratio measures how many times a company sells and replenishes its inventory during a specific period.</p>
 <details>

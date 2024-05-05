@@ -111,6 +111,10 @@ Give it a try and see how it can make a difference in your financial analysis an
 
 ## FAQs - Frequently Asked Questions About Profit Margin
 
+<center>
+<img alt="frequently asked questions" src="/images/content/answers.png" title="FAQs about common business calculations" style="width: 63%; height: 63%">
+</center>
+
 <h3>What is a profit margin?</h3>
 <p>Profit margin is the percentage of revenue that exceeds a company's costs, indicating profitability.</p>
 <details>

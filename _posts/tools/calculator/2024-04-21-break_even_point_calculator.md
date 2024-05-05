@@ -181,10 +181,13 @@ Together, let's push your business towards greater success.
 <br>
 
 <iframe src="https://embeds.beehiiv.com/e19ce286-1d77-44e9-b09f-22d4f7c6f0bf" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
-
 <br>
 
-Here are some frequently asked questions about the "Break-Even Point Calculator" with brief and detailed answers:
+## FAQs - Frequently Asked Questions About Break Even Point in Business
+
+<center>
+<img alt="frequently asked questions" src="/images/content/answers.png" title="FAQs about common business calculations" style="width: 63%; height: 63%">
+</center>
 
 <h3>What is the break-even point (BEP)?</h3>
 <p>The break-even point (BEP) is when total revenue equals total costs, and there is no profit or loss.</p>

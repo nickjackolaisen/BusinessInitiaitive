@@ -149,6 +149,10 @@ Let Business Initiative help you navigate your path to profitability.
 
 ## FAQs - Frequently Asked Questions About Net Profit Margin
 
+<center>
+<img alt="frequently asked questions" src="/images/content/answers.png" title="FAQs about common business calculations" style="width: 63%; height: 63%">
+</center>
+
 <h3>What is net profit margin?</h3>
 <p>Net profit margin is the percentage of revenue that remains as profit after all expenses are deducted.</p>
 <details>

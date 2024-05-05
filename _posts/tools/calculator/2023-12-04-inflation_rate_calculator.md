@@ -315,6 +315,10 @@ Together, we can help you master the economy, achieve your financial goals, and 
 
 ## FAQs - Frequently Asked Questions About Inflation Rate
 
+<center>
+<img alt="frequently asked questions" src="/images/content/answers.png" title="FAQs about common business calculations" style="width: 63%; height: 63%">
+</center>
+
 <h3>What is the inflation rate?</h3>
 <p>Inflation rate is the percentage change in the price of goods and services over a period of time.</p>
 <details>
