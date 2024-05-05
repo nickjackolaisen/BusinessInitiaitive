@@ -469,10 +469,10 @@ Approach the discussion with a collaborative mindset, aiming for a compensation 
 <details>
 <summary><b>Learn more…</b></summary>
 <br>
-CFO salaries vary significantly based on the size of the company.</p>
-In small companies with revenue less than $50 million, CFOs can expect an average salary of $150,000 to $250,000.</p>
+<p>CFO salaries vary significantly based on the size of the company.</p>
+<p>In small companies with revenue less than $50 million, CFOs can expect an average salary of $150,000 to $250,000.</p>
 For medium-sized companies with revenue between $50 million and $1 billion, the range increases to $250,000 to $400,000.</p>
-Large companies with revenue over $1 billion offer the highest salaries, with CFOs earning an average of $400,000 to over $1 million, often supplemented with substantial bonuses and stock options.</p>
+<p>Large companies with revenue over $1 billion offer the highest salaries, with CFOs earning an average of $400,000 to over $1 million, often supplemented with substantial bonuses and stock options.</p>
 </details>
 
 <h3>How does company size impact CFO compensation?</h3>
