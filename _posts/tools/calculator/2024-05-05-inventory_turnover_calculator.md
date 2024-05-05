@@ -1,5 +1,5 @@
 ---
-title: "Calculate Turnover Ratio | Optomize Your Inventory Turnover Efficiency"
+title: "Calculate Turnover Ratio | Optimize Your Inventory Turnover Efficiency"
 layout: post
 date: 2024-05-05
 update_date: 
