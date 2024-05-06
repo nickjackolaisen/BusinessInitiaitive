@@ -363,7 +363,7 @@ To get in touch with us, visit our [contact page](https://www.businessinitiative
 
 <div class="faq-box">
   <details>
-    <summary>What is the purpose of a corporate strategy?</summary>
+    <summary><b>What is the purpose of a corporate strategy?</b></summary>
     <p>The purpose is to set long-term goals and create a unified plan for growth and market positioning.</p>
     <details class="learn-more">
       <summary>Learn More...</summary>
@@ -378,7 +378,7 @@ To get in touch with us, visit our [contact page](https://www.businessinitiative
 
 <div class="faq-box">
   <details>
-    <summary>How long does it take to develop a corporate strategy?</summary>
+    <summary><b>How long does it take to develop a corporate strategy?</b></summary>
     <p>The time varies based on company size, goals, and industry but usually takes a few weeks to a few months.</p>
     <details class="learn-more">
       <summary>Learn More...</summary>
@@ -393,7 +393,7 @@ To get in touch with us, visit our [contact page](https://www.businessinitiative
 
 <div class="faq-box">
   <details>
-    <summary>Who should be involved in the strategic planning process?</summary>
+    <summary><b>Who should be involved in the strategic planning process?</b></summary>
     <p>Key stakeholders include executives, department heads, and sometimes external consultants for third-party insight.</p>
     <details class="learn-more">
       <summary>Learn More...</summary>
@@ -408,7 +408,7 @@ To get in touch with us, visit our [contact page](https://www.businessinitiative
 
 <div class="faq-box">
   <details>
-    <summary>How do I know if my corporate strategy is effective?</summary>
+    <summary><b>How do I know if my corporate strategy is effective?</b></summary>
     <p>Effectiveness can be assessed through measurable KPIs aligned with your strategic goals.</p>
     <details class="learn-more">
       <summary>Learn More...</summary>
@@ -423,7 +423,7 @@ To get in touch with us, visit our [contact page](https://www.businessinitiative
 
 <div class="faq-box">
   <details>
-    <summary>How do I identify a competitive advantage for my business?</summary>
+    <summary><b>How do I identify a competitive advantage for my business?</b></summary>
     <p>Assess your company's unique strengths and market position to identify opportunities.</p>
     <details class="learn-more">
       <summary>Learn More...</summary>
