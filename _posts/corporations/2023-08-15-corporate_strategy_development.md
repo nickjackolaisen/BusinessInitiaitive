@@ -417,11 +417,7 @@ To get in touch with us, visit our [contact page](https://www.businessinitiative
 
 Yes, you can achieve that by using some simple CSS to style each FAQ as a box. You can use the `<details>` and `<summary>` tags along with a combination of HTML and CSS to create boxed FAQs that expand when clicked. Here is an example:
 
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <style>
+<style>
     /* Basic style for FAQ box */
     .faq-box {
       border: 2px solid #d3d3d3;
@@ -458,9 +454,8 @@ Yes, you can achieve that by using some simple CSS to style each FAQ as a box. Y
     summary:hover {
       color: #007BFF;
     }
-  </style>
-</head>
-<body>
+</style>
+
 
 <h3>Frequently Asked Questions</h3>
 
@@ -529,9 +524,6 @@ Yes, you can achieve that by using some simple CSS to style each FAQ as a box. Y
   </details>
 </div>
 
-</body>
-</html>
-```
 
 In this solution:
 - Each FAQ is wrapped in a `div` with the `faq-box` class, styled to appear like a box.
@@ -555,12 +547,7 @@ Here's an example of the HTML and CSS code:
 
 ### HTML with Embedded CSS
 
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>FAQ Section</title>
+
 <style>
     .faq-container {
         max-width: 800px;
@@ -600,8 +587,7 @@ Here's an example of the HTML and CSS code:
         margin: 5px 0;
     }
 </style>
-</head>
-<body>
+
 
 <div class="faq-container">
 
@@ -624,9 +610,7 @@ Here's an example of the HTML and CSS code:
 
 </div>
 
-</body>
-</html>
-```
+
 
 ### Explanation:
 
