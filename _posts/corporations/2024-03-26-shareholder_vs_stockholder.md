@@ -399,84 +399,13 @@ By engaging in shareholder activism, you can not only potentially increase your 
 <img alt="How are shareholders and stockholders similar?" src="/images/content/answers.png" title="Most common questions about stockholders and shareholders" style="width: 63%; height: 63%">
 </center>
 
-<div>
-  <h3>What is the difference between a shareholder and a stockholder?</h3>
-  <p>A shareholder owns shares in a company, while a stockholder specifically owns stock in a corporation.</p>
-  <p><a href="#" onclick="toggleVisibility('answer1'); return false;">Learn More...</a></p>
-  <div id="answer1" style="display:none;">
-    <p>The terms "shareholder" and "stockholder" are often used interchangeably, but there is a subtle distinction.</p>
-    <p>A shareholder is a broader term that encompasses anyone who owns shares in a company, which can be a corporation, partnership, or LLC.</p>
-    <p>On the other hand, a stockholder refers specifically to an individual or entity that holds stock in a corporation.</p>
-    <p>This distinction is more pronounced in legal contexts, where the rights and responsibilities of stockholders in a corporation are defined by corporate law.</p>
-  </div>
+<br>
 
-  <h3>Do shareholders have voting rights in a company?</h3>
-  <p>Yes, shareholders typically have voting rights in a company.</p>
-  <p><a href="#" onclick="toggleVisibility('answer2'); return false;">Learn More...</a></p>
-  <div id="answer2" style="display:none;">
-    <p>Shareholders usually have the right to vote on important company matters, such as electing the board of directors and approving major corporate actions.</p>
-    <p>The extent of these voting rights can vary depending on the type of shares owned.</p>
-    <p>For example, common shareholders often have one vote per share, while preferred shareholders might have limited or no voting rights.</p>
-    <p>The specifics of these rights are outlined in the company's bylaws and shareholder agreements.</p>
-  </div>
+<link rel="stylesheet" href="/assets/css/faq-styles.css">
 
-  <h3>Can a shareholder sell their shares at any time?</h3>
-  <p>Generally, yes, but it depends on the type of company and any restrictions in place.</p>
-  <p><a href="#" onclick="toggleVisibility('answer3'); return false;">Learn More...</a></p>
-  <div id="answer3" style="display:none;">
-    <p>Shareholders of publicly traded companies can usually sell their shares at any time through a stock exchange.</p>
-    <p>However, shareholders of private companies may face restrictions on the sale of their shares, such as the right of first refusal for other shareholders or the company.</p>
-    <p>Additionally, certain types of shares, like restricted stock, may have specific conditions that must be met before they can be sold.</p>
-  </div>
+{% include faq-template.html faq_data="faqs/faq_shareholder_vs_stockholder" %}
 
-  <h3>What are the financial benefits of being a shareholder?</h3>
-  <p>Shareholders can benefit from dividends and capital appreciation.</p>
-  <p><a href="#" onclick="toggleVisibility('answer4'); return false;">Learn More...</a></p>
-  <div id="answer4" style="display:none;">
-    <p>Shareholders can earn income from dividends, which are distributions of a company's profits.</p>
-    <p>The amount and frequency of dividends depend on the company's performance and dividend policy.</p>
-    <p>Additionally, shareholders can benefit from capital appreciation if the value of their shares increases over time.</p>
-    <p>This appreciation is realized when the shares are sold at a higher price than the purchase price.</p>
-  </div>
-
-  <h3>What risks are associated with being a shareholder?</h3>
-  <p>Shareholders face the risk of losing their investment if the company performs poorly.</p>
-  <p><a href="#" onclick="toggleVisibility('answer5'); return false;">Learn More...</a></p>
-  <div id="answer5" style="display:none;">
-    <p>Investing in shares carries the risk of losing some or all of the invested capital if the company's value declines.</p>
-    <p>Shareholders are also exposed to market volatility, which can cause the value of their shares to fluctuate.</p>
-    <p>Furthermore, in the event of a company's bankruptcy, shareholders are typically the last to be compensated, after creditors and bondholders.</p>
-  </div>
-
-  <h3>How does one become a shareholder in a company?</h3>
-  <p>You can become a shareholder by purchasing shares of the company.</p>
-  <p><a href="#" onclick="toggleVisibility('answer6'); return false;">Learn More...</a></p>
-  <div id="answer6" style="display:none;">
-    <p>To become a shareholder, you can buy shares through a stock exchange if the company is publicly traded, or directly from the company or existing shareholders if it is privately held.</p>
-    <p>The process usually involves opening a brokerage account, placing an order for the desired number of shares, and paying the purchase price.</p>
-    <p>Once the transaction is complete, you are officially a shareholder and entitled to the associated rights and benefits.</p>
-  </div>
-
-  <h3>Are shareholders liable for company debts?</h3>
-  <p>Generally, no, shareholders are not personally liable for company debts.</p>
-  <p><a href="#" onclick="toggleVisibility('answer7'); return false;">Learn More...</a></p>
-  <div id="answer7" style="display:none;">
-    <p>Shareholders' liability is usually limited to the amount of their investment in the company.</p>
-    <p>This means that if the company incurs debts or faces legal claims, shareholders are not personally responsible for covering these obligations.</p>
-    <p>However, there are exceptions, such as in cases of fraud or illegal activities, where shareholders might be held liable.</p>
-  </div>
-</div>
-
-<script>
-function toggleVisibility(id) {
-  var element = document.getElementById(id);
-  if (element.style.display === "none") {
-    element.style.display = "block";
-  } else {
-    element.style.display = "none";
-  }
-}
-</script>
+<br>
 
 ## In Summary...
 
