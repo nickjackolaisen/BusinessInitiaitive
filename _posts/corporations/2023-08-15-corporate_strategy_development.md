@@ -415,47 +415,60 @@ To get in touch with us, visit our [contact page](https://www.businessinitiative
 
 
 
-Yes, you can achieve that by using some simple CSS to style each FAQ as a box. You can use the `<details>` and `<summary>` tags along with a combination of HTML and CSS to create boxed FAQs that expand when clicked. Here is an example:
+
+LETS DO THIS BABY
+
+No problem! The arrows can be removed by using the `::marker` pseudo-element with `display: none`. This has already been added to the CSS, but I will make sure that it's working properly.
+
+Here's the version that should work with arrows removed:
+
 
 <style>
-    /* Basic style for FAQ box */
+    /* Outer box around each question */
     .faq-box {
       border: 2px solid #d3d3d3;
       border-radius: 8px;
-      margin-bottom: 10px;
+      margin-bottom: 15px;
       padding: 10px;
       background-color: #f9f9f9;
       box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     }
 
-    /* Style for summary (clickable question) */
+    /* Styling for each question */
     .faq-box summary {
       cursor: pointer;
       font-weight: bold;
-      font-size: 1.1em;
-      list-style: none;
-      padding-left: 10px;
+      font-size: 1.2em; /* Larger font size */
       outline: none;
     }
 
-    /* Indentation for "Learn More..." summary */
-    .learn-more summary {
-      padding-left: 20px;
-      font-style: italic;
-      font-weight: normal;
+    /* Inner box around "Learn More..." */
+    .learn-more-box {
+      border: 2px solid #d3d3d3;
+      border-radius: 8px;
+      padding: 10px;
+      background-color: #f9f9f9;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      margin-top: 10px;
     }
 
-    /* Remove default bullets */
+    /* Italic style for "Learn More..." text */
+    .learn-more summary {
+      font-style: italic;
+      cursor: pointer;
+      margin-left: 10px;
+    }
+
+    /* Remove default arrows */
     details summary::marker {
       display: none;
     }
 
-    /* Optional hover effect for question */
+    /* Hover effect for questions */
     summary:hover {
       color: #007BFF;
     }
 </style>
-
 
 <h3>Frequently Asked Questions</h3>
 
@@ -465,9 +478,11 @@ Yes, you can achieve that by using some simple CSS to style each FAQ as a box. Y
     <p>The purpose is to set long-term goals and create a unified plan for growth and market positioning.</p>
     <details class="learn-more">
       <summary>Learn More...</summary>
-      <p>Corporate strategy aligns all departments to common goals.</p>
-      <p>It outlines how a company will achieve its objectives by using resources efficiently.</p>
-      <p>This plan helps create a competitive advantage over time.</p>
+      <div class="learn-more-box">
+        <p>Corporate strategy aligns all departments to common goals.</p>
+        <p>It outlines how a company will achieve its objectives by using resources efficiently.</p>
+        <p>This plan helps create a competitive advantage over time.</p>
+      </div>
     </details>
   </details>
 </div>
@@ -478,9 +493,11 @@ Yes, you can achieve that by using some simple CSS to style each FAQ as a box. Y
     <p>The time varies based on company size, goals, and industry but usually takes a few weeks to a few months.</p>
     <details class="learn-more">
       <summary>Learn More...</summary>
-      <p>Initial research and analysis may require several weeks, especially for larger companies.</p>
-      <p>Smaller firms can develop their strategy more quickly if they have well-defined goals and existing data.</p>
-      <p>Ongoing refinement will continue as the business evolves.</p>
+      <div class="learn-more-box">
+        <p>Initial research and analysis may require several weeks, especially for larger companies.</p>
+        <p>Smaller firms can develop their strategy more quickly if they have well-defined goals and existing data.</p>
+        <p>Ongoing refinement will continue as the business evolves.</p>
+      </div>
     </details>
   </details>
 </div>
@@ -491,9 +508,11 @@ Yes, you can achieve that by using some simple CSS to style each FAQ as a box. Y
     <p>Key stakeholders include executives, department heads, and sometimes external consultants for third-party insight.</p>
     <details class="learn-more">
       <summary>Learn More...</summary>
-      <p>Executives provide overall vision and objectives, setting the company's direction.</p>
-      <p>Managers and department heads ensure alignment and realistic planning for implementation.</p>
-      <p>External consultants offer unbiased perspectives and specialized market expertise.</p>
+      <div class="learn-more-box">
+        <p>Executives provide overall vision and objectives, setting the company's direction.</p>
+        <p>Managers and department heads ensure alignment and realistic planning for implementation.</p>
+        <p>External consultants offer unbiased perspectives and specialized market expertise.</p>
+      </div>
     </details>
   </details>
 </div>
@@ -504,9 +523,11 @@ Yes, you can achieve that by using some simple CSS to style each FAQ as a box. Y
     <p>Effectiveness can be assessed through measurable KPIs aligned with your strategic goals.</p>
     <details class="learn-more">
       <summary>Learn More...</summary>
-      <p>Set clear KPIs that reflect your business goals, like revenue growth or market share.</p>
-      <p>Track performance regularly to ensure progress.</p>
-      <p>Adjust your strategy if targets are not being met.</p>
+      <div class="learn-more-box">
+        <p>Set clear KPIs that reflect your business goals, like revenue growth or market share.</p>
+        <p>Track performance regularly to ensure progress.</p>
+        <p>Adjust your strategy if targets are not being met.</p>
+      </div>
     </details>
   </details>
 </div>
@@ -517,275 +538,16 @@ Yes, you can achieve that by using some simple CSS to style each FAQ as a box. Y
     <p>Assess your company's unique strengths and market position to identify opportunities.</p>
     <details class="learn-more">
       <summary>Learn More...</summary>
-      <p>Analyze your strengths and resources through frameworks like SWOT or Porter's Five Forces.</p>
-      <p>Identify gaps in the market that your business can uniquely fill.</p>
-      <p>Focus on delivering value that differentiates you from competitors.</p>
+      <div class="learn-more-box">
+        <p>Analyze your strengths and resources through frameworks like SWOT or Porter's Five Forces.</p>
+        <p>Identify gaps in the market that your business can uniquely fill.</p>
+        <p>Focus on delivering value that differentiates you from competitors.</p>
+      </div>
     </details>
   </details>
 </div>
 
 
-In this solution:
-- Each FAQ is wrapped in a `div` with the `faq-box` class, styled to appear like a box.
-- Clicking on the main `<summary>` will expand to reveal the answer, while the nested "Learn More..." section uses another `<details>` element within it.
-- Adjust the CSS styles to fit your website's overall design.
-
-
-
-
-
-
-
-In this code:
-- The outermost boxes are now hidden when the FAQ is collapsed.
-- Only the question is visible, and clicking it reveals the boxed answer with nested "Learn More..." inside another box.
-
-
-
-
-
-I understand the concept you're aiming for. Here's how we can achieve this structure:
-
-- The simple answer will appear directly under the question without a box.
-- The "Learn More" button will be inside a box and expand to reveal the extended answer.
-- The arrows will be removed, the "Learn More" text will be italicized, and the question will appear as a bold heading.
-
-Here's the updated version:
-
-  <style>
-    /* Basic style for questions and answers */
-    summary {
-      cursor: pointer;
-      font-weight: bold;
-      font-size: 1.2em; /* Larger font size */
-      outline: none;
-      margin: 5px 0;
-    }
-
-    /* Italicized "Learn More" link inside a box */
-    .learn-more summary {
-      font-style: italic;
-      cursor: pointer;
-      margin-left: 20px;
-    }
-
-    /* Style for the inner box containing "Learn More" */
-    .inner-box {
-      border: 2px solid #d3d3d3;
-      border-radius: 8px;
-      padding: 10px;
-      background-color: #f9f9f9;
-      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-      margin-top: 10px;
-    }
-
-    /* Remove default arrows */
-    details summary::marker {
-      display: none;
-    }
-
-    /* Hover effect for question */
-    summary:hover {
-      color: #007BFF;
-    }
-  </style>
-
-
-<h3>Frequently Asked Questions</h3>
-
-<details>
-  <summary>What is the purpose of a corporate strategy?</summary>
-  <p>The purpose is to set long-term goals and create a unified plan for growth and market positioning.</p>
-  <details class="learn-more">
-    <summary>Learn More...</summary>
-    <div class="inner-box">
-      <p>Corporate strategy aligns all departments to common goals.</p>
-      <p>It outlines how a company will achieve its objectives by using resources efficiently.</p>
-      <p>This plan helps create a competitive advantage over time.</p>
-    </div>
-  </details>
-</details>
-
-<details>
-  <summary>How long does it take to develop a corporate strategy?</summary>
-  <p>The time varies based on company size, goals, and industry but usually takes a few weeks to a few months.</p>
-  <details class="learn-more">
-    <summary>Learn More...</summary>
-    <div class="inner-box">
-      <p>Initial research and analysis may require several weeks, especially for larger companies.</p>
-      <p>Smaller firms can develop their strategy more quickly if they have well-defined goals and existing data.</p>
-      <p>Ongoing refinement will continue as the business evolves.</p>
-    </div>
-  </details>
-</details>
-
-<details>
-  <summary>Who should be involved in the strategic planning process?</summary>
-  <p>Key stakeholders include executives, department heads, and sometimes external consultants for third-party insight.</p>
-  <details class="learn-more">
-    <summary>Learn More...</summary>
-    <div class="inner-box">
-      <p>Executives provide overall vision and objectives, setting the company's direction.</p>
-      <p>Managers and department heads ensure alignment and realistic planning for implementation.</p>
-      <p>External consultants offer unbiased perspectives and specialized market expertise.</p>
-    </div>
-  </details>
-</details>
-
-<details>
-  <summary>How do I know if my corporate strategy is effective?</summary>
-  <p>Effectiveness can be assessed through measurable KPIs aligned with your strategic goals.</p>
-  <details class="learn-more">
-    <summary>Learn More...</summary>
-    <div class="inner-box">
-      <p>Set clear KPIs that reflect your business goals, like revenue growth or market share.</p>
-      <p>Track performance regularly to ensure progress.</p>
-      <p>Adjust your strategy if targets are not being met.</p>
-    </div>
-  </details>
-</details>
-
-<details>
-  <summary>How do I identify a competitive advantage for my business?</summary>
-  <p>Assess your company's unique strengths and market position to identify opportunities.</p>
-  <details class="learn-more">
-    <summary>Learn More...</summary>
-    <div class="inner-box">
-      <p>Analyze your strengths and resources through frameworks like SWOT or Porter's Five Forces.</p>
-      <p>Identify gaps in the market that your business can uniquely fill.</p>
-      <p>Focus on delivering value that differentiates you from competitors.</p>
-    </div>
-  </details>
-</details>
-
-
-In this implementation:
-- The "Learn More..." button appears in a separate box, and the expanded content displays directly under it.
-- The question (`<summary>`) has a bold and larger font size, with a hover effect.
-
-
-
-
-
-
-
-
-
-
-
-OPTION 3
-
-
-I understand your requirement. The idea is to maintain a box around "Learn More..." while removing the box around the extended answer itself. Here's the updated version:
-
-<style>
-    /* Style for the question */
-    summary {
-      cursor: pointer;
-      font-weight: bold;
-      font-size: 1.2em; /* Larger font size */
-      outline: none;
-      margin: 5px 0;
-    }
-
-    /* Style for the "Learn More..." summary inside its own box */
-    .learn-more summary {
-      font-style: italic;
-      cursor: pointer;
-      margin-left: 20px;
-    }
-
-    /* Style for the inner box containing "Learn More" only */
-    .inner-box {
-      border: 2px solid #d3d3d3;
-      border-radius: 8px;
-      padding: 10px;
-      background-color: #f9f9f9;
-      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-      margin-top: 10px;
-    }
-
-    /* Remove default arrows */
-    details summary::marker {
-      display: none;
-    }
-
-    /* Hover effect for the question */
-    summary:hover {
-      color: #007BFF;
-    }
-
-</style>
-
-
-<h3>Frequently Asked Questions</h3>
-
-<details>
-  <summary>What is the purpose of a corporate strategy?</summary>
-  <p>The purpose is to set long-term goals and create a unified plan for growth and market positioning.</p>
-  <details class="learn-more">
-    <summary>Learn More...</summary>
-    <div class="inner-box">
-      <p>Corporate strategy aligns all departments to common goals.</p>
-      <p>It outlines how a company will achieve its objectives by using resources efficiently.</p>
-      <p>This plan helps create a competitive advantage over time.</p>
-    </div>
-  </details>
-</details>
-
-<details>
-  <summary>How long does it take to develop a corporate strategy?</summary>
-  <p>The time varies based on company size, goals, and industry but usually takes a few weeks to a few months.</p>
-  <details class="learn-more">
-    <summary>Learn More...</summary>
-    <div class="inner-box">
-      <p>Initial research and analysis may require several weeks, especially for larger companies.</p>
-      <p>Smaller firms can develop their strategy more quickly if they have well-defined goals and existing data.</p>
-      <p>Ongoing refinement will continue as the business evolves.</p>
-    </div>
-  </details>
-</details>
-
-<details>
-  <summary>Who should be involved in the strategic planning process?</summary>
-  <p>Key stakeholders include executives, department heads, and sometimes external consultants for third-party insight.</p>
-  <details class="learn-more">
-    <summary>Learn More...</summary>
-    <div class="inner-box">
-      <p>Executives provide overall vision and objectives, setting the company's direction.</p>
-      <p>Managers and department heads ensure alignment and realistic planning for implementation.</p>
-      <p>External consultants offer unbiased perspectives and specialized market expertise.</p>
-    </div>
-  </details>
-</details>
-
-<details>
-  <summary>How do I know if my corporate strategy is effective?</summary>
-  <p>Effectiveness can be assessed through measurable KPIs aligned with your strategic goals.</p>
-  <details class="learn-more">
-    <summary>Learn More...</summary>
-    <div class="inner-box">
-      <p>Set clear KPIs that reflect your business goals, like revenue growth or market share.</p>
-      <p>Track performance regularly to ensure progress.</p>
-      <p>Adjust your strategy if targets are not being met.</p>
-    </div>
-  </details>
-</details>
-
-<details>
-  <summary>How do I identify a competitive advantage for my business?</summary>
-  <p>Assess your company's unique strengths and market position to identify opportunities.</p>
-  <details class="learn-more">
-    <summary>Learn More...</summary>
-    <div class="inner-box">
-      <p>Analyze your strengths and resources through frameworks like SWOT or Porter's Five Forces.</p>
-      <p>Identify gaps in the market that your business can uniquely fill.</p>
-      <p>Focus on delivering value that differentiates you from competitors.</p>
-    </div>
-  </details>
-</details>
-
-
 In this version:
-- The outermost box only surrounds the "Learn More..." text itself.
-- The extended response remains directly below without a separate border, following the simpler style for the "Learn More" content.
+- The arrows are removed using the `::marker` pseudo-element.
+- Each question remains in a box, and "Learn More..." is in an inner box that expands to reveal the extended response.
