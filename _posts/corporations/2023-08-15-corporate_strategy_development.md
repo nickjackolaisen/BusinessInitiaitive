@@ -754,10 +754,7 @@ In this version:
 
 Yes, it’s possible to achieve that design by placing the outermost container inside the `summary` tag itself. This way, only the question appears initially, and the box only surrounds the answer and extended response once it's expanded. Here's the modified version:
 
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
+
   <style>
     /* Style for summary (clickable question) */
     summary {
@@ -805,8 +802,6 @@ Yes, it’s possible to achieve that design by placing the outermost container i
     }
 
   </style>
-</head>
-<body>
 
 <h3>Frequently Asked Questions</h3>
 
