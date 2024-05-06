@@ -2,7 +2,7 @@
 title: "Remote Work Statistics for Business Owners | UPDATED for 2024"
 layout: post
 date: 2024-05-01
-update_date: 2024-05-05
+update_date: 2024-05-06
 author: jack_nicholaisen
 summary: "Explore the future of remote work - Benefits, Challenges, and Strategies for small businesses. Transform your operations!" 
 thumbnail: /images/posts-headers/remote-work-statistics-header.png
@@ -155,6 +155,8 @@ Moreover, 62% of remote workers prefer to be on camera during video calls, sugge
 <img alt="remote work covid corona statistics" src="/images/content/covid-work.png" title="remote work during the pandemic" style="width: 63%; height: 63%">
 </center>
 
+The COVID-19 pandemic catalyzed an unprecedented acceleration in remote work adoption. 
+
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <style>
     .chart-container {
@@ -217,8 +219,6 @@ Moreover, 62% of remote workers prefer to be on camera during video calls, sugge
 <p>The above chart illustrates the percentage of employees with access to remote work options before the COVID-19 pandemic in the U.S. in 2019. The data highlights increased remote work access in larger companies. Courtesy: <a href="https://www.statista.com/statistics/1123806/share-employees-access-remote-work-size-firm-us/" target="_blank">Statista</a>
 </p>
 </center>
-
-The COVID-19 pandemic catalyzed an unprecedented acceleration in remote work adoption. 
 
 At the height of the pandemic in May 2020, over 60% of workdays were spent at home due to social distancing and infection risks. 
 
