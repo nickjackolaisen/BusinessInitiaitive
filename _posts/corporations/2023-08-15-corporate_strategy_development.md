@@ -743,3 +743,152 @@ Absolutely! You can remove the arrows by using a bit of custom CSS to hide the d
 In this version:
 - The `details summary::marker` CSS rule hides the arrow marker.
 - Clicking directly on the question text will still expand the corresponding answer.
+
+
+
+
+
+
+
+
+
+Yes, it’s possible to achieve that design by placing the outermost container inside the `summary` tag itself. This way, only the question appears initially, and the box only surrounds the answer and extended response once it's expanded. Here's the modified version:
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <style>
+    /* Style for summary (clickable question) */
+    summary {
+      cursor: pointer;
+      font-weight: bold;
+      font-size: 1.1em;
+      outline: none;
+    }
+
+    /* Basic style for the answer box */
+    .answer-box {
+      border: 2px solid #d3d3d3;
+      border-radius: 8px;
+      margin-top: 5px;
+      padding: 10px;
+      background-color: #f9f9f9;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+
+    /* Indentation for "Learn More..." summary */
+    .learn-more summary {
+      padding-left: 20px;
+      font-style: italic;
+      font-weight: normal;
+      cursor: pointer;
+    }
+
+    /* Remove default arrows */
+    details summary::marker {
+      display: none;
+    }
+
+    /* Optional hover effect for the question */
+    summary:hover {
+      color: #007BFF;
+    }
+
+    /* Style for the extended answer's inner box */
+    .inner-box {
+      border: 1px solid #d3d3d3;
+      border-radius: 8px;
+      margin-top: 5px;
+      padding: 10px;
+      background-color: #ffffff;
+    }
+
+  </style>
+</head>
+<body>
+
+<h3>Frequently Asked Questions</h3>
+
+<details>
+  <summary>What is the purpose of a corporate strategy?</summary>
+  <div class="answer-box">
+    <p>The purpose is to set long-term goals and create a unified plan for growth and market positioning.</p>
+    <details class="learn-more">
+      <summary>Learn More...</summary>
+      <div class="inner-box">
+        <p>Corporate strategy aligns all departments to common goals.</p>
+        <p>It outlines how a company will achieve its objectives by using resources efficiently.</p>
+        <p>This plan helps create a competitive advantage over time.</p>
+      </div>
+    </details>
+  </div>
+</details>
+
+<details>
+  <summary>How long does it take to develop a corporate strategy?</summary>
+  <div class="answer-box">
+    <p>The time varies based on company size, goals, and industry but usually takes a few weeks to a few months.</p>
+    <details class="learn-more">
+      <summary>Learn More...</summary>
+      <div class="inner-box">
+        <p>Initial research and analysis may require several weeks, especially for larger companies.</p>
+        <p>Smaller firms can develop their strategy more quickly if they have well-defined goals and existing data.</p>
+        <p>Ongoing refinement will continue as the business evolves.</p>
+      </div>
+    </details>
+  </div>
+</details>
+
+<details>
+  <summary>Who should be involved in the strategic planning process?</summary>
+  <div class="answer-box">
+    <p>Key stakeholders include executives, department heads, and sometimes external consultants for third-party insight.</p>
+    <details class="learn-more">
+      <summary>Learn More...</summary>
+      <div class="inner-box">
+        <p>Executives provide overall vision and objectives, setting the company's direction.</p>
+        <p>Managers and department heads ensure alignment and realistic planning for implementation.</p>
+        <p>External consultants offer unbiased perspectives and specialized market expertise.</p>
+      </div>
+    </details>
+  </div>
+</details>
+
+<details>
+  <summary>How do I know if my corporate strategy is effective?</summary>
+  <div class="answer-box">
+    <p>Effectiveness can be assessed through measurable KPIs aligned with your strategic goals.</p>
+    <details class="learn-more">
+      <summary>Learn More...</summary>
+      <div class="inner-box">
+        <p>Set clear KPIs that reflect your business goals, like revenue growth or market share.</p>
+        <p>Track performance regularly to ensure progress.</p>
+        <p>Adjust your strategy if targets are not being met.</p>
+      </div>
+    </details>
+  </div>
+</details>
+
+<details>
+  <summary>How do I identify a competitive advantage for my business?</summary>
+  <div class="answer-box">
+    <p>Assess your company's unique strengths and market position to identify opportunities.</p>
+    <details class="learn-more">
+      <summary>Learn More...</summary>
+      <div class="inner-box">
+        <p>Analyze your strengths and resources through frameworks like SWOT or Porter's Five Forces.</p>
+        <p>Identify gaps in the market that your business can uniquely fill.</p>
+        <p>Focus on delivering value that differentiates you from competitors.</p>
+      </div>
+    </details>
+  </div>
+</details>
+
+</body>
+</html>
+```
+
+In this code:
+- The outermost boxes are now hidden when the FAQ is collapsed.
+- Only the question is visible, and clicking it reveals the boxed answer with nested "Learn More..." inside another box.
