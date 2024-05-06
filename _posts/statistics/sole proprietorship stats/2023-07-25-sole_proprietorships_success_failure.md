@@ -2,7 +2,7 @@
 title: "Sole Proprietorships - A Statistical Analysis of Success and Failure Rates"
 layout: post
 date: 2023-07-25
-update_date: 2024-01-28
+update_date: 2024-05-05
 author: jack_nicholaisen
 summary: "Learn about sole proprietorship success rates and factors that contribute to outcomes. Make informed decisions and increase your chances of success. READ ON!"
 permalink: /statistics/sole-proprietorship/success-and-failure-rate/
@@ -21,7 +21,7 @@ By the end of this article, you'll be better prepared to make an informed decisi
 
 ## Success Rates of Sole Proprietorships
 
-According to the [Small Business Administration (SBA)](https://www.sba.gov/sites/default/files/advocacy/Frequently-Asked-Questions-Small-Business-2018.pdf), sole proprietorships make up a large percentage of businesses in the United States. 
+According to the [Small Business Administration (SBA)](https://advocacy.sba.gov/wp-content/uploads/2017/08/Frequently-Asked-Questions-Small-Business-2018.pdf), sole proprietorships make up a large percentage of businesses in the United States. 
 
 In 2018, there were 25.7 million sole proprietorships, accounting for over 70% of all businesses. 
 
@@ -43,9 +43,13 @@ However, it's essential not to view this statistic in isolation.
 
 The failure rate for all businesses, regardless of structure, is also high. In fact, 50% of all businesses fail within their first five years.
 
-Another study by the [Kauffman Foundation](https://www.kauffman.org/wp-content/uploads/2019/12/Growthology_0506.pdf) revealed that sole proprietorships tend to have a lower survival rate than other types of business structures. 
+Another study by the [Fed Small Business](https://www.fedsmallbusiness.org/reports/survey/2023/2023-report-on-nonemployer-firms) revealed that sole proprietorships tend to have a lower survival rate than other types of business structures. 
 
-The study found that 60% of employer firms (businesses with employees) were still in operation after five years, compared to only 36% of non-employer firms (sole proprietorships).
+The study found that 46% of non-employer firms (businesses with without employees) were planning to add employees in the next 12 months.
+
+This doesn't necessarily mean the business failed. 
+
+Rather, it shows successful sole proprietorships don't remain sole proprietorships for long as they grow and expand.
 
 ## Factors Contributing to Success and Failure
 
@@ -112,7 +116,7 @@ Equip yourself with expert information and guidance to help you navigate the wor
 <ul>
 <li><a href="https://www.sba.gov/sites/default/files/advocacy/Frequently-Asked-Questions-Small-Business-2018.pdf">Small Business Administration (SBA)</a></li>
 <li><a href="https://www.bls.gov/bdm/entrepreneurship/entrepreneurship.htm">Bureau of Labor Statistics (BLS)</a></li>
-<li><a href="https://www.kauffman.org/wp-content/uploads/2019/12/Growthology_0506.pdf">Kauffman Foundation</a></li>
+<li><a href="https://www.fedsmallbusiness.org/reports/survey/2023/2023-report-on-nonemployer-firms">Fed Small Business</a></li>
 </ul>
 </details>
 
