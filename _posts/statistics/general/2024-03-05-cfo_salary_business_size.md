@@ -2,7 +2,7 @@
 title: "CFO Salary Guide 2024: Maximizing Compensation Based on Company Size"
 layout: post
 date: 2024-03-05
-update_date: 2024-04-21
+update_date: 2024-05-06
 author: jack_nicholaisen
 summary: "Unlock the secrets of CFO salaries in 2024! Discover how company size impacts pay and learn top negotiation tips. Elevate your career today." 
 thumbnail: /images/posts-headers/cfo-salary-guide-header.png

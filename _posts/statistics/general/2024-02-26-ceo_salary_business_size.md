@@ -492,30 +492,6 @@ Let us help you build a robust compensation framework that drives performance, a
 <iframe src="https://embeds.beehiiv.com/e19ce286-1d77-44e9-b09f-22d4f7c6f0bf" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
 
 <br>
-<details>
-<summary><b>Sources & Additional Information</b></summary>
-<br>
-<ul>
-  <li><strong>Economic Policy Institute</strong>: Provides research and data on CEO compensation trends and income inequality. <a href="https://www.epi.org">Website</a></li>
-  <li><strong>Equilar CEO Compensation Study</strong>: Offers insights into executive pay practices and trends. <a href="https://www.equilar.com/reports.html">Website</a></li>
-  <li><strong>Mercer Global Compensation Report</strong>: Presents global trends in executive compensation. <a href="https://www.mercer.com/our-thinking/career/global-talent-hr-trends.html">Website</a></li>
-  <li><strong>Willis Towers Watson Executive Compensation Survey</strong>: Provides data on executive pay and governance. <a href="https://www.willistowerswatson.com/en-US/Insights/2019/04/executive-compensation-and-governance-outlook">Website</a></li>
-  <li><strong>U.S. Securities and Exchange Commission (SEC) filings</strong>: Publicly available documents that include executive compensation information. <a href="https://www.sec.gov/edgar.shtml">Website</a></li>
-  <li><strong>Bloomberg Professional Services</strong>: Offers financial data, including CEO compensation and company size metrics. <a href="https://www.bloomberg.com/professional/">Website</a></li>
-  <li><strong>Morningstar Financial Research</strong>: Provides financial data and analysis, including information on CEO compensation. <a href="https://www.morningstar.com/">Website</a></li>
-  <li><strong>S&amp;P Capital IQ</strong>: Offers comprehensive financial data, including CEO compensation and company size metrics. <a href="https://www.spglobal.com/marketintelligence/en/solutions/sp-capital-iq-platform">Website</a></li>
-  <li><strong>Wikipedia</strong>: Executive compensation in the United States <a href="https://en.wikipedia.org/wiki/Executive_compensation_in_the_United_States">Website</a></li>
-</ul>
-<p>Additional Resources</p>
-<ul>
-  <li><strong>Harvard Law School Forum on Corporate Governance</strong>: Offers articles and research on executive compensation and corporate governance. <a href="https://corpgov.law.harvard.edu">Website</a></li>
-  <li><strong>CompensationStandards.com</strong>: Provides resources and updates on executive compensation and corporate governance. <a href="https://www.compensationstandards.com/">Website</a></li>
-  <li><strong>CEO Pay Watch</strong>: A database that tracks CEO compensation in publicly traded companies. <a href="https://www.aflcio.org/paywatch">Website</a></li>
-  <li><strong>Glassdoor</strong>: Offers insights into CEO compensation based on employee reviews and salary reports. <a href="https://www.glassdoor.com/">Website</a></li>
-  <li><strong>Payscale</strong>: Provides data on average CEO salaries and compensation trends. <a href="https://www.payscale.com/research/US/Job=Chief_Executive_Officer_%28CEO%29/Salary">Website</a></li>
-</ul>
-</details>
-
 
 ## Research Methodology
 
@@ -591,5 +567,27 @@ Calculate the correlation coefficient to measure the strength and direction of t
 
 By employing these methodologies, the analysis can provide insights into how CEO compensation varies with company size and identify factors that influence executive pay.
 
-
+<details>
+<summary><b>Sources & Additional Information</b></summary>
+<br>
+<ul>
+  <li><strong>Economic Policy Institute</strong>: Provides research and data on CEO compensation trends and income inequality. <a href="https://www.epi.org">Website</a></li>
+  <li><strong>Equilar CEO Compensation Study</strong>: Offers insights into executive pay practices and trends. <a href="https://www.equilar.com/reports.html">Website</a></li>
+  <li><strong>Mercer Global Compensation Report</strong>: Presents global trends in executive compensation. <a href="https://www.mercer.com/our-thinking/career/global-talent-hr-trends.html">Website</a></li>
+  <li><strong>Willis Towers Watson Executive Compensation Survey</strong>: Provides data on executive pay and governance. <a href="https://www.willistowerswatson.com/en-US/Insights/2019/04/executive-compensation-and-governance-outlook">Website</a></li>
+  <li><strong>U.S. Securities and Exchange Commission (SEC) filings</strong>: Publicly available documents that include executive compensation information. <a href="https://www.sec.gov/edgar.shtml">Website</a></li>
+  <li><strong>Bloomberg Professional Services</strong>: Offers financial data, including CEO compensation and company size metrics. <a href="https://www.bloomberg.com/professional/">Website</a></li>
+  <li><strong>Morningstar Financial Research</strong>: Provides financial data and analysis, including information on CEO compensation. <a href="https://www.morningstar.com/">Website</a></li>
+  <li><strong>S&amp;P Capital IQ</strong>: Offers comprehensive financial data, including CEO compensation and company size metrics. <a href="https://www.spglobal.com/marketintelligence/en/solutions/sp-capital-iq-platform">Website</a></li>
+  <li><strong>Wikipedia</strong>: Executive compensation in the United States <a href="https://en.wikipedia.org/wiki/Executive_compensation_in_the_United_States">Website</a></li>
+</ul>
+<p>Additional Resources</p>
+<ul>
+  <li><strong>Harvard Law School Forum on Corporate Governance</strong>: Offers articles and research on executive compensation and corporate governance. <a href="https://corpgov.law.harvard.edu">Website</a></li>
+  <li><strong>CompensationStandards.com</strong>: Provides resources and updates on executive compensation and corporate governance. <a href="https://www.compensationstandards.com/">Website</a></li>
+  <li><strong>CEO Pay Watch</strong>: A database that tracks CEO compensation in publicly traded companies. <a href="https://www.aflcio.org/paywatch">Website</a></li>
+  <li><strong>Glassdoor</strong>: Offers insights into CEO compensation based on employee reviews and salary reports. <a href="https://www.glassdoor.com/">Website</a></li>
+  <li><strong>Payscale</strong>: Provides data on average CEO salaries and compensation trends. <a href="https://www.payscale.com/research/US/Job=Chief_Executive_Officer_%28CEO%29/Salary">Website</a></li>
+</ul>
+</details>
 
