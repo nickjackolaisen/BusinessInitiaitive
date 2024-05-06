@@ -12,7 +12,6 @@
         <div class="learn-more-box">
           {% for answer in item.extended_answers %}
             {% if answer contains "bullet_points" %}
-              <p>{{ answer | remove: "bullet_points" }}</p>
               <ul>
                 {% for point in answer.bullet_points %}
                   <li>{{ point }}</li>
