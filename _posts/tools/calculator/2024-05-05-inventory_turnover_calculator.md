@@ -141,6 +141,6 @@ Seize the opportunity to optimize your inventory turnover and elevate your busin
 
 <link rel="stylesheet" href="/assets/css/faq-styles.css">
 
-{% include faq-template.html faq_data="faqs/faq_turnover_ratio_calculator" %}
+{% include faq-template.html faq_data="faq_turnover_ratio_calculator" %}
 
 <br>
