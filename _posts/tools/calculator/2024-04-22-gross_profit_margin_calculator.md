@@ -120,6 +120,10 @@ Stay ahead in business by following us on X (Twitter) and **signing up for The I
 
 ## FAQs - Frequnetly Asked Questions About Gross Profit Margin
 
+<center>
+<img alt="frequently asked questions" src="/images/content/answers.png" title="FAQs about common business calculations" style="width: 63%; height: 63%">
+</center>
+
 <h3>What is the gross profit margin?</h3>
 <p>The gross profit margin is the percentage of revenue that exceeds the cost of goods sold (COGS).</p>
 <details>

@@ -127,6 +127,10 @@ Seize the opportunity to enhance your Accounts Receivable Turnover Ratio and ele
 
 ## FAQs - Frequently Asked Questions About Accounts Receivable Turnover
 
+<center>
+<img alt="frequently asked questions" src="/images/content/answers.png" title="FAQs about common business calculations" style="width: 63%; height: 63%">
+</center>
+
 <h3>What is the Accounts Receivable Turnover Ratio?</h3>
 <p>The Accounts Receivable Turnover Ratio measures how quickly a company collects payments from customers over a given period.</p>
 <details>

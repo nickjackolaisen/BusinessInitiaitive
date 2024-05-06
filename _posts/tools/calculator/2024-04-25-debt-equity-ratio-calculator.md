@@ -129,6 +129,10 @@ Take action today to secure your company’s financial future!
 
 ## FAQs - Freuqnetly Asked Questions About 
 
+<center>
+<img alt="frequently asked questions" src="/images/content/answers.png" title="FAQs about common business calculations" style="width: 63%; height: 63%">
+</center>
+
 <h3>What is the debt-to-equity ratio?</h3>
 <p>The debt-to-equity ratio compares a company's total liabilities to its shareholder equity, indicating financial leverage.</p>
 <details>

@@ -127,6 +127,10 @@ Let’s enhance your financial decision-making together!
 
 ## FAQs - Frequently Asked Questions About 
 
+<center>
+<img alt="frequently asked questions" src="/images/content/answers.png" title="FAQs about common business calculations" style="width: 63%; height: 63%">
+</center>
+
 <h3>What is the quick ratio?</h3>
 <p>The quick ratio is a stringent liquidity metric measuring a company's ability to pay off short-term liabilities using its most liquid assets.</p>
 <details>

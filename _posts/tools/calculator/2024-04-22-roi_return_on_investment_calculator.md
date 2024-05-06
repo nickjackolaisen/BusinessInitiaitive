@@ -137,6 +137,10 @@ Let's achieve financial excellence together!
 
 ## FAQs - Frequently Asked Questions About Return on Investment (ROI)
 
+<center>
+<img alt="frequently asked questions" src="/images/content/answers.png" title="FAQs about common business calculations" style="width: 63%; height: 63%">
+</center>
+
 <h3>What is the Return on Investment (ROI)?</h3>
 <p>ROI measures the profitability of an investment by comparing the net profit to the investment cost.</p>
 <details>
