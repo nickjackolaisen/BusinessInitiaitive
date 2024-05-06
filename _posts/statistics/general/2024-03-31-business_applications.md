@@ -276,91 +276,11 @@ Here's the HTML code with the questions and answers formatted according to your 
 <img alt="business application questions" src="/images/content/answers.png" title="Most common questions about business applications" style="width: 63%; height: 63%">
 </center>
 
-<style>
-        .learn-more-content {
-            display: none;
-            margin-top: 10px;
-        }
-    </style>
-<script>
-        function toggleLearnMore(id) {
-            var content = document.getElementById(id);
-            if (content.style.display === "none") {
-                content.style.display = "block";
-            } else {
-                content.style.display = "none";
-            }
-        }
-    </script>
+<br>
 
-<h3>What are business applications?</h3>
-<p>Business applications are requests filed by individuals or entities to start a new business or expand an existing one.</p>
-<button onclick="toggleLearnMore('learnMore1')">Learn More...</button>
-<div class="learn-more-content" id="learnMore1">
-    <p>Business applications are formal documents submitted to government agencies or regulatory bodies to register a new business or make changes to an existing one.</p>
-    <p>They are used to obtain necessary licenses, permits, and approvals to operate legally.</p>
-    <p>The number of business applications is often used as an indicator of entrepreneurial activity and economic health.</p>
-    <p>For example, the U.S. Census Bureau's <a href="https://www.census.gov/econ/bfs/index.html">Business Formation Statistics</a> track the number of new business applications filed each month.</p>
-</div>
+<link rel="stylesheet" href="/assets/css/faq-styles.css">
 
-<h3>Why is it important to monitor business application trends?</h3>
-<p>Monitoring business application trends helps us understand the economic landscape and make informed decisions.</p>
-<button onclick="toggleLearnMore('learnMore2')">Learn More...</button>
-<div class="learn-more-content" id="learnMore2">
-    <p>By analyzing trends in business applications, we can gauge the level of entrepreneurial activity, identify emerging sectors, and anticipate economic shifts.</p>
-    <p>For instance, a surge in business applications may indicate a growing economy and job creation, while a decline could signal economic downturns.</p>
-    <p>Policymakers, investors, and business leaders use this data to shape strategies, allocate resources, and support economic development.</p>
-</div>
-
-<h3>How did the COVID-19 pandemic affect business applications?</h3>
-<p>The COVID-19 pandemic led to a significant surge in business applications, especially in the second half of 2020.</p>
-<button onclick="toggleLearnMore('learnMore3')">Learn More...</button>
-<div class="learn-more-content" id="learnMore3">
-    <p>Contrary to expectations, the pandemic resulted in a record number of business applications in 2020, as reported by economist John C. Haltiwanger in his working paper, "Entrepreneurship during the COVID-19 pandemic: evidence from the business formation statistics."</p>
-    <p>This surge was driven by factors such as the shift to e-commerce, the gig economy, and individuals seeking new income sources.</p>
-    <p>The nonstore retail sector, in particular, saw a notable increase in applications, reflecting the growing trend of online businesses.</p>
-    <p><a href="https://www.bls.gov/opub/mlr/2021/beyond-bls/the-covid-19-small-business-boom-startups-surge-during-pandemic.htm">Read more about the impact of COVID-19 on small businesses</a>.</p>
-</div>
-
-<h3>What are nonemployer businesses, and why are they significant?</h3>
-<p>Nonemployer businesses are businesses that have no paid employees and are operated by their owners.</p>
-<button onclick="toggleLearnMore('learnMore4')">Learn More...</button>
-<div class="learn-more-content" id="learnMore4">
-    <p>Nonemployer businesses, often sole proprietorships or independent contractors, are a significant part of the economy, especially in the gig economy.</p>
-    <p>They represent flexibility and low overhead costs, and their numbers have been increasing over the past 15 years.</p>
-    <p>The rise in nonemployer business applications during 2020 suggests that more individuals are turning to self-employment and gig work as alternative income sources, particularly in sectors like e-commerce and personal services.</p>
-</div>
-
-<h3>How do new business applications impact job creation?</h3>
-<p>New business applications can lead to job creation, especially if they are for employer businesses.</p>
-<button onclick="toggleLearnMore('learnMore5')">Learn More...</button>
-<div class="learn-more-content" id="learnMore5">
-    <p>When new businesses are formed, they often hire employees, contributing to job creation.</p>
-    <p>Historically, new employer businesses have emerged
-
- within 4 to 8 quarters of the application date, according to Haltiwanger's analysis.</p>
-    <p>However, the extent of job creation depends on various factors, including the nature of the business, economic conditions, and the success and growth of the new ventures.</p>
-</div>
-
-<h3>What sectors experienced the largest increases in business applications during the pandemic?</h3>
-<p>The nonstore retail and personal services sectors saw the largest increases in business applications during the pandemic.</p>
-<button onclick="toggleLearnMore('learnMore6')">Learn More...</button>
-<div class="learn-more-content" id="learnMore6">
-    <p>The nonstore retail sector, which includes online businesses, experienced a significant surge in applications, accounting for one-third of all new businesses formed during the pandemic.</p>
-    <p>This reflects the shift towards e-commerce as consumers increasingly shop online.</p>
-    <p>The personal services sector also saw a rise in applications, possibly due to individuals seeking self-employment opportunities in areas like consulting, coaching, and personal care services.</p>
-</div>
-<a id="conclusion"> 
-
-<h3>What long-term effects might the pandemic have on small businesses and entrepreneurship?</h3>
-<p>The pandemic may lead to substantial restructuring in sectors like retail and food services and could accelerate trends like e-commerce and remote work.</p>
-<button onclick="toggleLearnMore('learnMore7')">Learn More...</button>
-<div class="learn-more-content" id="learnMore7">
-    <p>The COVID-19 pandemic has caused significant changes in consumer behavior and business operations.</p>
-    <p>While some businesses, especially in retail and accommodation, have faced challenges, others have adapted by moving online or pivoting their business models.</p>
-    <p>As the economy recovers, we may see lasting changes, such as increased online shopping, more remote work, and a rise in gig and freelance work.</p>
-    <p>These shifts could reshape the small business landscape and entrepreneurship in the coming years.</p>
-</div>
+{% include faq-template.html faq_data="faq_business_applications" %}
 
 ## In Summary...
 
