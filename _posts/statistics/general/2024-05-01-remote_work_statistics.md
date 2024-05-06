@@ -422,7 +422,7 @@ Embrace the change, and let us help you navigate the complexities of remote work
 
 <link rel="stylesheet" href="/assets/css/faq-styles.css">
 
-{% include faq-template.html faq_data="faq_remote_work_statistics" %}
+{% include faq-template.html faq_data="faq_stats_gen_remote_work_statistics" %}
 
 <br>
 <details>

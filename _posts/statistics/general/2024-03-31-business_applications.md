@@ -280,7 +280,7 @@ Here's the HTML code with the questions and answers formatted according to your 
 
 <link rel="stylesheet" href="/assets/css/faq-styles.css">
 
-{% include faq-template.html faq_data="faq_business_applications" %}
+{% include faq-template.html faq_data="faq_stats_gen_business_applications" %}
 
 ## In Summary...
 

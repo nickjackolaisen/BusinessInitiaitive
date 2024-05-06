@@ -272,7 +272,7 @@ Don't hesitate to reach out to Business Initiative for tailored advice and strat
 
 <link rel="stylesheet" href="/assets/css/faq-styles.css">
 
-{% include faq-template.html faq_data="faq_leadership_styles" %}
+{% include faq-template.html faq_data="faq_stats_gen_leadership_styles" %}
 
 <br>
 <details>

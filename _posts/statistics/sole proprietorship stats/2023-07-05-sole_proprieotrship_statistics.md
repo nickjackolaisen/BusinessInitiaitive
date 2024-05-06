@@ -501,7 +501,7 @@ In this structure, the owner is personally responsible for all assets, liabiliti
 <summary>Reveal the answer!</summary>
 <br>
 <p>
-According to the <a href="https://www.sba.gov/sites/default/files/advocacy/2018-Small-Business-Profiles-US.pdf" target="_blank">U.S. Small Business Administration (SBA)</a>, sole proprietorships account for approximately 73% of all businesses in the United States.
+According to the <a href="https://www.sba.gov/sites/default/files/advocacy/2018-Small-Business-Profiles-US.pdf" target="_blank">U.S. Small Business Administration (SBA)</a>, sole proprietorships account for approximately 10% of all businesses in the United States.
 </p>
 </details>
 

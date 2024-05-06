@@ -403,7 +403,7 @@ By engaging in shareholder activism, you can not only potentially increase your 
 
 <link rel="stylesheet" href="/assets/css/faq-styles.css">
 
-{% include faq-template.html faq_data="faq_shareholder_vs_stockholder" %}
+{% include faq-template.html faq_data="faq_corps_shareholder_vs_stockholder" %}
 
 <br>
 

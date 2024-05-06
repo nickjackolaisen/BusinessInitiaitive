@@ -453,7 +453,7 @@ As companies evolve and societal expectations change, it's likely that we'll see
 
 <link rel="stylesheet" href="/assets/css/faq-styles.css">
 
-{% include faq-template.html faq_data="faq_ceo_salary_business_size" %}
+{% include faq-template.html faq_data="faq_stats_gen_ceo_salary_business_size" %}
 
 ## In Summary...
 

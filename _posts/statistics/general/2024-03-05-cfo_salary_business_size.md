@@ -466,7 +466,7 @@ Approach the discussion with a collaborative mindset, aiming for a compensation 
 
 <link rel="stylesheet" href="/assets/css/faq-styles.css">
 
-{% include faq-template.html faq_data="faq_cfo_salary_business_size" %}
+{% include faq-template.html faq_data="faq_stats_gen_cfo_salary_business_size" %}
 
 ## In Summary...
 
