@@ -137,6 +137,8 @@ Seize the opportunity to optimize your inventory turnover and elevate your busin
 <img alt="frequently asked questions" src="/images/content/answers.png" title="FAQs about common business calculations" style="width: 63%; height: 63%">
 </center>
 
+<br>
+
 <link rel="stylesheet" href="/assets/css/faq-styles.css">
 
 {% include faq-template.html faq_data="faq_turnover_ratio_calculator" %}
