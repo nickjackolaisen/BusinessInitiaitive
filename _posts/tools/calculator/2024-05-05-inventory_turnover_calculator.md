@@ -207,3 +207,12 @@ Seize the opportunity to optimize your inventory turnover and elevate your busin
 <p>Refine supply chain management to streamline production and delivery processes, reducing lead times and improving inventory replenishment.</p>
 </details>
 
+
+
+
+
+
+<link rel="stylesheet" href="/assets/css/faq-styles.css">
+
+{% include faq-template.html faq_data="faq_turnover_ratio_calculator" %}
+

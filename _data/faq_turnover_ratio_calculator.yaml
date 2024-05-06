@@ -1,0 +1,25 @@
+- question: "What is the Inventory Turnover Ratio?"
+  simple_answer: "The Inventory Turnover Ratio measures how many times a company sells and replenishes its inventory during a specific period."
+  extended_answers:
+    - "The Inventory Turnover Ratio indicates how efficiently a company manages its inventory levels."
+    - "It shows the number of times inventory is sold and replaced within a specified timeframe, often one year."
+    - "A high ratio indicates efficient inventory management, while a low ratio could suggest overstocking or slow sales."
+  link: "https://www.businessinitiative.org/"
+
+- question: "How is the Inventory Turnover Ratio calculated?"
+  simple_answer: "The formula is Cost of Goods Sold (COGS) / Average Inventory Value."
+  extended_answers:
+    - "To calculate the ratio, divide the total cost of goods sold (COGS) by the average value of inventory during the specified period."
+    - "Average inventory is often calculated by averaging the beginning and ending inventory values over the period."
+  link: 
+
+- question: "Why is the Inventory Turnover Ratio important?"
+  simple_answer: "The ratio helps evaluate inventory management efficiency, sales performance, and cash flow."
+  extended_answers:
+    - "A high turnover ratio indicates effective inventory management and that goods are selling quickly, reducing the risk of obsolete stock."
+    - "Monitoring this ratio helps businesses align their inventory levels with customer demand and optimize cash flow."
+    - "It can also reveal shifts in sales performance, providing insights for adjusting marketing or production strategies."
+    - "Optimize social media profiles and engage with followers."
+  link: "https://www.businessinitiative.org/tools/"
+
+

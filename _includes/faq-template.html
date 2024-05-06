@@ -1,0 +1,40 @@
+{% for item in site.data.faq %}
+  <div class="faq-box">
+    <details>
+      <summary><h3>{{ item.question }}</h3></summary>
+      <p>{{ item.simple_answer }}</p>
+      <details class="learn-more">
+        <summary><strong>Learn More...</strong></summary>
+        <div class="learn-more-box">
+          {% for answer in item.extended_answers %}
+            <p>{{ answer }}</p>
+          {% endfor %}
+          <p><a href="{{ item.link }}" target="_blank">Read more here.</a></p>
+        </div>
+      </details>
+    </details>
+  </div>
+{% endfor %}
+
+{% assign data = site.data[include.faq_data] %}
+{% for item in data %}
+  <div class="faq-box">
+    <details>
+      <summary><b>{{ item.question }}</b></summary>
+      <p>{{ item.simple_answer }}</p>
+      <details class="learn-more">
+        <summary>Learn More...</summary>
+        <div class="learn-more-box">
+          {% for answer in item.extended_answers %}
+            <p>{{ answer }}</p>
+          {% endfor %}
+        {% if link %}
+          <p><a href="{{ item.link }}" target="_blank">Read more here.</a></p>
+        {% endif %}
+        </div>
+      </details>
+    </details>
+  </div>
+{% endfor %}
+
+
