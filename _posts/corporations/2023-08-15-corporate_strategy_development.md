@@ -316,7 +316,7 @@ To get in touch with us, visit our [contact page](https://www.businessinitiative
 </center>
 
 <details>
-  <b>What is the purpose of a corporate strategy?</b>
+  <summary>What is the purpose of a corporate strategy?</summary>
   <p>The purpose is to set long-term goals and create a unified plan for growth and market positioning.</p>
   <details>
     <summary>Learn More...</summary>
@@ -327,7 +327,7 @@ To get in touch with us, visit our [contact page](https://www.businessinitiative
 </details>
 
 <details>
-  <b>How long does it take to develop a corporate strategy?</b>
+  <summary>How long does it take to develop a corporate strategy?</summary>
   <p>The time varies based on company size, goals, and industry but usually takes a few weeks to a few months.</p>
   <details>
     <summary>Learn More...</summary>
@@ -338,7 +338,7 @@ To get in touch with us, visit our [contact page](https://www.businessinitiative
 </details>
 
 <details>
-  <b>Who should be involved in the strategic planning process?</b>
+  <summary>Who should be involved in the strategic planning process?</summary>
   <p>Key stakeholders include executives, department heads, and sometimes external consultants for third-party insight.</p>
   <details>
     <summary>Learn More...</summary>
@@ -349,7 +349,7 @@ To get in touch with us, visit our [contact page](https://www.businessinitiative
 </details>
 
 <details>
-  <b>How do I know if my corporate strategy is effective?</b>
+  <summary>How do I know if my corporate strategy is effective?</summary>
   <p>Effectiveness can be assessed through measurable KPIs aligned with your strategic goals.</p>
   <details>
     <summary>Learn More...</summary>
@@ -360,7 +360,7 @@ To get in touch with us, visit our [contact page](https://www.businessinitiative
 </details>
 
 <details>
-  <b>How do I identify a competitive advantage for my business?</b>
+  <summary>How do I identify a competitive advantage for my business?</summary>
   <p>Assess your company's unique strengths and market position to identify opportunities.</p>
   <details>
     <summary>Learn More...</summary>
@@ -371,7 +371,7 @@ To get in touch with us, visit our [contact page](https://www.businessinitiative
 </details>
 
 <details>
-  <b>How often should I review my corporate strategy?</b>
+  <summary>How often should I review my corporate strategy?</summary>
   <p>Conduct annual reviews, but make adjustments quarterly to adapt to changing market conditions.</p>
   <details>
     <summary>Learn More...</summary>
@@ -382,7 +382,7 @@ To get in touch with us, visit our [contact page](https://www.businessinitiative
 </details>
 
 <details>
-  <b>How can I ensure all departments align with the strategy?</b>
+  <summary>How can I ensure all departments align with the strategy?</summary>
   <p>Clear communication, departmental KPIs, and progress reports align all teams with strategic goals.</p>
   <details>
     <summary>Learn More...</summary>
@@ -391,6 +391,7 @@ To get in touch with us, visit our [contact page](https://www.businessinitiative
     <p>Regularly review progress reports to confirm alignment.</p>
   </details>
 </details>
+
 
 <br>
 
