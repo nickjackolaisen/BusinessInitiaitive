@@ -1,0 +1,52 @@
+
+- question: "What is the current state of remote work?"
+  simple_answer:
+    - "Remote work is widespread, with most employees preferring to work from home."
+    - "The pandemic accelerated remote work adoption, making it a standard practice."
+  extended_answers:
+    - "The current state of remote work shows significant growth, with 64% of workers in fully remote roles."
+    - "A 2023 report by Buffer revealed that 82% of remote employees prefer working from home, indicating a strong preference for remote work."
+    - "In 2020, the pandemic drove rapid adoption, with over 48 million U.S. workers shifting to remote work, creating lasting changes."
+    - "Post-pandemic, 22% of employees work exclusively from home, while 17% follow a hybrid setup, reflecting a stabilized pattern."
+    - "The permanent adoption of remote work is rising, with 71% of companies allowing some degree of remote work as a key operational strategy."
+
+- question: "What benefits does remote work offer small businesses?"
+  simple_answer:
+    - "Remote work reduces costs and increases productivity for small businesses."
+    - "It enables access to a wider talent pool and improves employee satisfaction."
+  extended_answers:
+    - "Remote work eliminates the need for large physical office spaces, reducing rent, utilities, and maintenance expenses."
+    - "Productivity gains are achieved through fewer in-office distractions and more personalized work environments."
+    - "Remote work expands the talent pool, allowing small businesses to attract skilled workers from anywhere, enhancing team diversity."
+    - "The flexibility of remote work improves employee retention and satisfaction by offering a better work-life balance."
+
+- question: "How does technology shape the future of remote work?"
+  simple_answer:
+    - "Technological advancements like collaboration tools and AI are driving the future of remote work."
+    - "Innovations in cloud computing and virtual reality make remote collaboration more efficient."
+  extended_answers:
+    - "Collaboration tools like Microsoft Teams and Zoom have become the backbone of remote work, facilitating global workflows."
+    - "Microsoft Teams saw its daily users skyrocket to 270 million by 2022, up from two million in 2017, reflecting the demand for these platforms."
+    - "Generative AI is a game-changer, with 44% of workers believing it will help them perform their jobs faster and more effectively over the next five years."
+    - "Remote collaboration trends show that 50% of interactions occur via messaging apps, followed by emails (22%) and meetings (19%)."
+
+- question: "How did the COVID-19 pandemic impact remote work?"
+  simple_answer:
+    - "The COVID-19 pandemic accelerated remote work adoption, causing a permanent shift."
+    - "It led to over 60% of workdays being spent at home in May 2020."
+  extended_answers:
+    - "In May 2020, over 60% of workdays were spent at home due to social distancing and infection risks, which accelerated remote work adoption."
+    - "By the summer of 2023, 25% of days were still being worked from home, a significant increase from 5% in 2019, indicating a long-term trend."
+    - "Small businesses learned valuable lessons about agility and digital infrastructure, adapting to sudden shifts in work modalities."
+    - "The pandemic solidified a lasting trend toward decentralized workplaces, with remote work becoming a standard mode of operation."
+
+- question: "What challenges do small business owners face in remote work?"
+  simple_answer:
+    - "Maintaining company culture, managing performance, and ensuring data security are key challenges."
+    - "Addressing these requires technology, flexible policies, and strategic communication."
+  extended_answers:
+    - "Maintaining company culture and team cohesion is difficult without spontaneous office interactions, as 68% of managers believe their teams miss informal feedback."
+    - "Data security and compliance risks increase with remote teams, requiring robust security protocols and training."
+    - "Managing employee performance is challenging without direct observation, with 56% of workers reporting increased work-related stress."
+    - "Burnout is a significant issue, with 20% of remote workers feeling more burnt out than a year ago, highlighting the need for work-life balance."
+    - "Despite challenges, 58% of remote workers feel engaged, and 81% check work emails outside of work hours, indicating high commitment."
