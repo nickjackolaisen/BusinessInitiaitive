@@ -460,7 +460,7 @@ Here's the version that should work with arrows removed:
     }
 
     /* Remove default arrows */
-    details summary::marker {
+    details, summary::marker {
       display: none;
     }
 
@@ -600,7 +600,7 @@ Here's the final version with arrows explicitly removed:
     }
 
     /* Remove default arrows */
-    details summary::marker {
+    details, summary::marker {
       display: none;
     }
 
