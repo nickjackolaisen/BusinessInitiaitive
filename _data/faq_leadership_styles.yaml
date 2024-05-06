@@ -2,14 +2,16 @@
   simple_answer:
     - "Transformational and democratic leadership styles are often the most effective."
   extended_answers:
-    - "Transformational leadership inspires teams to continuously improve and innovate, creating a culture that leads to higher revenue growth and increased employee performance. According to Forbes, 73% of small businesses with transformational leaders achieve long-term success."
+    - "Transformational leadership inspires teams to continuously improve and innovate, creating a culture that leads to higher revenue growth and increased employee performance."
+    - "According to Forbes, 73% of small businesses with transformational leaders achieve long-term success."
     - "Democratic leadership involves managers in decision-making, fostering a positive environment that increases retention rates. A study by Deloitte found that companies with democratic leaders see a 21% higher retention rate."
 
 - question: "Why is autocratic leadership less favored in modern workplaces?"
   simple_answer:
     - "It can lead to burnout, low morale, and reduced employee retention."
   extended_answers:
-    - "Autocratic leadership centralizes decision-making, leading to burnout and low satisfaction. Gallup's survey found that 45% of employees under autocratic leaders experience burnout, while the Harvard Business Review notes that such leaders comprise only 15% of managers in LLCs."
+    - "Autocratic leadership centralizes decision-making, leading to burnout and low satisfaction."
+    - "Gallup's survey found that 45% of employees under autocratic leaders experience burnout, while the Harvard Business Review notes that such leaders comprise only 15% of managers in LLCs."
     - "This style often overlooks employee input, hindering innovation and engagement, which could result in a high turnover of talented individuals seeking more collaborative work environments."
 
 - question: "How does laissez-faire leadership negatively affect small businesses?"
@@ -17,32 +19,39 @@
     - "It can cause a lack of direction, productivity decline, and increased burnout."
   extended_answers:
     - "Without guidance, laissez-faire leadership can lead to decreased productivity, with the Journal of Occupational and Organizational Psychology reporting a 19% drop in productivity under laissez-faire leaders."
-    - "Lack of oversight and feedback can result in misaligned priorities and values across teams, leading to higher burnout. Gallup found that employees under laissez-faire leaders are twice as likely to burn out."
+    - "Lack of oversight and feedback can result in misaligned priorities and values across teams, leading to higher burnout."
+    - "Gallup found that employees under laissez-faire leaders are twice as likely to burn out."
 
 - question: "What are the key advantages of democratic leadership for small businesses?"
   simple_answer:
     - "It boosts employee satisfaction, retention, and long-term growth."
   extended_answers:
-    - "Democratic leaders empower managers by involving them in decision-making, leading to better collaboration and engagement. This style is linked to a 21% higher retention rate according to Deloitte."
-    - "The Harvard Business Review notes that democratic leaders represent 25% of managers in LLCs. Their collaborative approach fosters innovation and creates an environment where managers are aligned with the company's vision."
+    - "Democratic leaders empower managers by involving them in decision-making, leading to better collaboration and engagement."
+    - "This style is linked to a 21% higher retention rate according to Deloitte."
+    - "The Harvard Business Review notes that democratic leaders represent 25% of managers in LLCs."
+    - "Their collaborative approach fosters innovation and creates an environment where managers are aligned with the company's vision."
 
 - question: "How does transformational leadership improve team performance?"
   simple_answer:
     - "It encourages continuous learning, innovation, and empowerment."
   extended_answers:
-    - "Transformational leadership challenges employees to excel, contributing to a 22% performance increase (Leadership & Organization Development Journal). It emphasizes open communication and career development through regular one-on-one meetings."
+    - "Transformational leadership challenges employees to excel, contributing to a 22% performance increase (Leadership & Organization Development Journal)." 
+    - "It emphasizes open communication and career development through regular one-on-one meetings."
     - "Teams are inspired to strive for excellence under a shared vision, and Gallup research highlights a 26% higher revenue growth rate for companies practicing transformational leadership."
 
 - question: "Why is servant leadership growing in popularity among small businesses?"
   simple_answer:
     - "It prioritizes employee growth and well-being, fostering loyalty and long-term success."
   extended_answers:
-    - "Servant leaders build trust and psychological safety by prioritizing their team's growth and well-being. The Journal of Business Ethics reports a 33% increase in commitment among employees working for servant leaders."
+    - "Servant leaders build trust and psychological safety by prioritizing their team's growth and well-being."
+    - "The Journal of Business Ethics reports a 33% increase in commitment among employees working for servant leaders."
     - "Companies with servant leaders see a 27% higher engagement rate (Gallup) and 71% achieve long-term success (Entrepreneur), due to the sense of shared vision and trust."
 
 - question: "Can shared leadership benefit LLCs, and if so, how?"
   simple_answer:
     - "Yes, by creating a flat structure with open communication."
   extended_answers:
-    - "Shared leadership encourages collaboration and shared decision-making, leading to a flat structure that allows LLCs to innovate and adapt quickly. It motivates employees by giving them a sense of ownership."
-    - "This approach supports nimble strategies, enabling managers to lead from the front and empower teams as involved partners. Open communication keeps everyone aligned on goals, values, and shared success."
+    - "Shared leadership encourages collaboration and shared decision-making, leading to a flat structure that allows LLCs to innovate and adapt quickly."
+    - "It motivates employees by giving them a sense of ownership."
+    - "This approach supports nimble strategies, enabling managers to lead from the front and empower teams as involved partners."
+    - "Open communication keeps everyone aligned on goals, values, and shared success."

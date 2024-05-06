@@ -22,36 +22,33 @@
     - "Industry, location, experience, education, skills, and company performance are key factors influencing CFO salary."
   extended_answers:
     - "Besides company size, several other factors impact CFO compensation:"
-    - "<ul>"
-    - "<li><b>Industry:</b> Industries with higher revenue potential or more complex financial structures may offer higher salaries.</li>"
-    - "<li><b>Location:</b> Geographic location affects salary levels due to variations in the cost of living and demand for CFOs.</li>"
-    - "<li><b>Experience:</b> CFOs with a longer track record of success in financial management roles command higher salaries.</li>"
-    - "<li><b>Education and Qualifications:</b> Higher education levels and professional certifications can enhance earning potential.</li>"
-    - "<li><b>Skills:</b> Skills such as strategic planning, financial reporting, and leadership are highly valued for the CFO role.</li>"
-    - "<li><b>Company Performance:</b> In many companies, a portion of the CFO's salary may be tied to the company's financial performance.</li>"
-    - "</ul>"
+    - bullet_points:
+      - "<b>Industry:</b> Industries with higher revenue potential or more complex financial structures may offer higher salaries."
+      - "<b>Location:</b> Geographic location affects salary levels due to variations in the cost of living and demand for CFOs."
+      - "<b>Experience:</b> CFOs with a longer track record of success in financial management roles command higher salaries."
+      - "<b>Education and Qualifications:</b> Higher education levels and professional certifications can enhance earning potential."
+      - "<b>Skills:</b> Skills such as strategic planning, financial reporting, and leadership are highly valued for the CFO role."
+      - "<b>Company Performance:</b> In many companies, a portion of the CFO's salary may be tied to the company's financial performance."
 
 - question: "What additional compensation do CFOs receive?"
   simple_answer:
     - "CFOs often receive bonuses, stock options, long-term incentive plans, and other benefits."
   extended_answers:
     - "In addition to base salary, CFOs typically receive various forms of additional compensation:"
-    - "<ul>"
-    - "<li><b>Bonuses:</b> Usually tied to individual and company performance metrics, with average bonus potential around 30-60% of base salary.</li>"
-    - "<li><b>Stock Options:</b> Common in public companies, allowing CFOs to purchase company stock at a predetermined price.</li>"
-    - "<li><b>Long-Term Incentive Plans (LTIPs):</b> Designed to reward CFOs for achieving long-term company goals, often tied to shareholder return or financial performance.</li>"
-    - "<li><b>Benefits and Perquisites:</b> Can include retirement plans, health insurance, and other perks, varying by company size and industry.</li>"
-    - "</ul>"
+    - bullet_points:
+      - "<b>Bonuses:</b> Usually tied to individual and company performance metrics, with average bonus potential around 30-60% of base salary."
+      - "<b>Stock Options:</b> Common in public companies, allowing CFOs to purchase company stock at a predetermined price."
+      - "<b>Long-Term Incentive Plans (LTIPs):</b> Designed to reward CFOs for achieving long-term company goals, often tied to shareholder return or financial performance."
+      - "<b>Benefits and Perquisites:</b> Can include retirement plans, health insurance, and other perks, varying by company size and industry."
 
 - question: "How can CFOs negotiate their compensation effectively?"
   simple_answer:
     - "Research market rates, leverage experience, consider the entire compensation package, and be prepared to walk away."
   extended_answers:
     - "Effective negotiation strategies for CFOs include:"
-    - "<ul>"
-    - "<li><b>Know Your Worth:</b> Research average salaries for similar positions in your industry and location.</li>"
-    - "<li><b>Leverage Your Experience:</b> Highlight your achievements and contributions to previous organizations.</li>"
-    - "<li><b>Consider the Entire Compensation Package:</b> Look beyond base salary and negotiate for bonuses, equity, and benefits.</li>"
-    - "<li><b>Be Prepared to Walk Away:</b> Knowing your bottom line and being willing to walk away from an offer that doesn't meet your expectations demonstrates confidence and value.</li>"
-    - "<li><b>Seek Professional Advice:</b> Consulting with a career coach or compensation specialist can provide personalized advice and negotiation strategies.</li>"
-    - "</ul>"
+    - bullet_points:
+      - "<b>Know Your Worth:</b> Research average salaries for similar positions in your industry and location."
+      - "<b>Leverage Your Experience:</b> Highlight your achievements and contributions to previous organizations."
+      - "<b>Consider the Entire Compensation Package:</b> Look beyond base salary and negotiate for bonuses, equity, and benefits."
+      - "<b>Be Prepared to Walk Away:</b> Knowing your bottom line and being willing to walk away from an offer that doesn't meet your expectations demonstrates confidence and value."
+      - "<b>Seek Professional Advice:</b> Consulting with a career coach or compensation specialist can provide personalized advice and negotiation strategies."

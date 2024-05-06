@@ -11,7 +11,16 @@
         <summary>Learn More...</summary>
         <div class="learn-more-box">
           {% for answer in item.extended_answers %}
-            <p>{{ answer }}</p>
+            {% if answer contains "bullet_points" %}
+              <p>{{ answer | remove: "bullet_points" }}</p>
+              <ul>
+                {% for point in answer.bullet_points %}
+                  <li>{{ point }}</li>
+                {% endfor %}
+              </ul>
+            {% else %}
+              <p>{{ answer }}</p>
+            {% endif %}
           {% endfor %}
           {% if item.link %}
             <p><a href="{{ item.link }}" target="_blank">Read more here.</a></p>
