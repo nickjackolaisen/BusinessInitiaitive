@@ -1,0 +1,51 @@
+
+- question: "What factors determine the average CEO salary by company size?"
+  simple_answer:
+    - "Factors include company revenue, market capitalization, and number of employees."
+    - "CEOs at larger companies typically earn more due to higher complexity and responsibilities."
+  extended_answers:
+    - "The average CEO salary is influenced by the size and scope of the company."
+    - "Larger organizations tend to offer higher salaries due to the complexity of operations, greater market capitalization, and increased revenue."
+    - "For example, CEOs of large companies can earn up to $2.5 million annually."
+    - "CEO salaries are also shaped by the company's industry, location, and profitability."
+    - "According to SalaryCube, CEOs of midsize firms earn about $1.15 million annually, while small-company CEOs average around $210,000."
+
+- question: "How do historical trends impact modern CEO compensation?"
+  simple_answer:
+    - "Historically, CEO salaries have increased significantly since the 1960s."
+    - "Rising CEO pay reflects changing corporate governance and economic trends."
+  extended_answers:
+    - "CEO salaries have grown rapidly since the late 20th century, driven by changing governance practices and economic factors."
+    - "In the 1990s, executive compensation soared to unprecedented levels, with CEOs earning 399 times the average worker's salary by 2021, according to the Economic Policy Institute."
+    - "A 1,205% increase in CEO salaries between 1978 and 2000 outpaced stock market growth."
+    - "This historical trend highlights the gap between executive compensation and average worker wages."
+
+- question: "Why do CEOs make significantly more than other employees?"
+  simple_answer:
+    - "CEOs bear major strategic responsibilities and manage high-stakes corporate decisions."
+    - "They are compensated for aligning their interests with shareholders through bonuses and stock options."
+  extended_answers:
+    - "The role of a CEO involves critical decision-making that directly affects the company's financial health and strategic direction."
+    - "Their compensation often includes bonuses and stock options that incentivize aligning their interests with shareholders."
+    - "A study by the Journal of Financial Economics found a positive correlation between CEO compensation and stock performance."
+    - "CEOs are rewarded based on the company's financial success, which drives their higher earnings."
+
+- question: "How does the regulatory environment affect CEO compensation?"
+  simple_answer:
+    - "Regulations like the Dodd-Frank Act promote pay transparency and shareholder influence."
+    - "They ensure executive compensation aligns with long-term business success."
+  extended_answers:
+    - "The Dodd-Frank Act requires companies to disclose the CEO pay ratio and hold Say-on-Pay votes, giving shareholders a voice in compensation policies."
+    - "Such regulations increase transparency and accountability in executive pay."
+    - "European Union directives mandate shareholder rights to vote on executive pay."
+    - "In the UK, the Companies Act 2006 requires binding annual shareholder votes on director remuneration policies."
+
+- question: "What challenges exist in setting equitable CEO compensation?"
+  simple_answer:
+    - "Pay disparity and ethical considerations can lead to scrutiny of CEO salaries."
+    - "Excessive pay may affect employee morale and public perception."
+  extended_answers:
+    - "The disparity between CEO compensation and average worker wages raises concerns about income inequality and ethical considerations."
+    - "According to the Economic Policy Institute, CEO pay increased by 1,322.2% from 1978 to 2020, significantly outpacing average worker pay."
+    - "Disclosure requirements and shareholder activism aim to address excessive executive pay."
+    - "However, striking a balance between attracting top talent and ensuring fairness remains a challenge."
