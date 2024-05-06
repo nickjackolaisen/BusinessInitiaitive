@@ -551,3 +551,141 @@ Here's the version that should work with arrows removed:
 In this version:
 - The arrows are removed using the `::marker` pseudo-element.
 - Each question remains in a box, and "Learn More..." is in an inner box that expands to reveal the extended response.
+
+
+
+
+
+NO ARROWS NO PROBLEM
+
+It looks like the arrows were already removed in the previous version using the `::marker` pseudo-element, but I'll make sure it's fully removed by double-checking the styles.
+
+Here's the final version with arrows explicitly removed:
+
+
+<style>
+    /* Outer box around each question */
+    .faq-box {
+      border: 2px solid #d3d3d3;
+      border-radius: 8px;
+      margin-bottom: 15px;
+      padding: 10px;
+      background-color: #f9f9f9;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+
+    /* Styling for each question */
+    .faq-box summary {
+      cursor: pointer;
+      font-weight: bold;
+      font-size: 1.2em; /* Larger font size */
+      outline: none;
+    }
+
+    /* Inner box around "Learn More..." */
+    .learn-more-box {
+      border: 2px solid #d3d3d3;
+      border-radius: 8px;
+      padding: 10px;
+      background-color: #f9f9f9;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      margin-top: 10px;
+    }
+
+    /* Italic style for "Learn More..." text */
+    .learn-more summary {
+      font-style: italic;
+      cursor: pointer;
+      margin-left: 10px;
+    }
+
+    /* Remove default arrows */
+    details summary::marker {
+      display: none;
+    }
+
+    /* Hover effect for questions */
+    summary:hover {
+      color: #007BFF;
+    }
+</style>
+
+<h3>Frequently Asked Questions</h3>
+
+<div class="faq-box">
+  <details>
+    <summary>What is the purpose of a corporate strategy?</summary>
+    <p>The purpose is to set long-term goals and create a unified plan for growth and market positioning.</p>
+    <details class="learn-more">
+      <summary>Learn More...</summary>
+      <div class="learn-more-box">
+        <p>Corporate strategy aligns all departments to common goals.</p>
+        <p>It outlines how a company will achieve its objectives by using resources efficiently.</p>
+        <p>This plan helps create a competitive advantage over time.</p>
+      </div>
+    </details>
+  </details>
+</div>
+
+<div class="faq-box">
+  <details>
+    <summary>How long does it take to develop a corporate strategy?</summary>
+    <p>The time varies based on company size, goals, and industry but usually takes a few weeks to a few months.</p>
+    <details class="learn-more">
+      <summary>Learn More...</summary>
+      <div class="learn-more-box">
+        <p>Initial research and analysis may require several weeks, especially for larger companies.</p>
+        <p>Smaller firms can develop their strategy more quickly if they have well-defined goals and existing data.</p>
+        <p>Ongoing refinement will continue as the business evolves.</p>
+      </div>
+    </details>
+  </details>
+</div>
+
+<div class="faq-box">
+  <details>
+    <summary>Who should be involved in the strategic planning process?</summary>
+    <p>Key stakeholders include executives, department heads, and sometimes external consultants for third-party insight.</p>
+    <details class="learn-more">
+      <summary>Learn More...</summary>
+      <div class="learn-more-box">
+        <p>Executives provide overall vision and objectives, setting the company's direction.</p>
+        <p>Managers and department heads ensure alignment and realistic planning for implementation.</p>
+        <p>External consultants offer unbiased perspectives and specialized market expertise.</p>
+      </div>
+    </details>
+  </details>
+</div>
+
+<div class="faq-box">
+  <details>
+    <summary>How do I know if my corporate strategy is effective?</summary>
+    <p>Effectiveness can be assessed through measurable KPIs aligned with your strategic goals.</p>
+    <details class="learn-more">
+      <summary>Learn More...</summary>
+      <div class="learn-more-box">
+        <p>Set clear KPIs that reflect your business goals, like revenue growth or market share.</p>
+        <p>Track performance regularly to ensure progress.</p>
+        <p>Adjust your strategy if targets are not being met.</p>
+      </div>
+    </details>
+  </details>
+</div>
+
+<div class="faq-box">
+  <details>
+    <summary>How do I identify a competitive advantage for my business?</summary>
+    <p>Assess your company's unique strengths and market position to identify opportunities.</p>
+    <details class="learn-more">
+      <summary>Learn More...</summary>
+      <div class="learn-more-box">
+        <p>Analyze your strengths and resources through frameworks like SWOT or Porter's Five Forces.</p>
+        <p>Identify gaps in the market that your business can uniquely fill.</p>
+        <p>Focus on delivering value that differentiates you from competitors.</p>
+      </div>
+    </details>
+  </details>
+</div>
+
+
+With this structure, the default arrows are removed, leaving only the questions and nested "Learn More..." content visible when expanded.
