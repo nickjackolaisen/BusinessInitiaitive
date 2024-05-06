@@ -464,72 +464,9 @@ Approach the discussion with a collaborative mindset, aiming for a compensation 
 <img alt="faqs about CFO salary" src="/images/content/answers.png" title="What is the average CFO salary?" style="width: 63%; height: 63%">
 </center>
 
-<h3>What is the average salary for a CFO in 2024?</h3>
-<p>The average salary for a CFO in 2024 ranges from $150,000 to over $1 million, depending on company size.</p>
-<details>
-<summary><b>Learn more…</b></summary>
-<br>
-<p>CFO salaries vary significantly based on the size of the company.</p>
-<p>In small companies with revenue less than $50 million, CFOs can expect an average salary of $150,000 to $250,000.</p>
-For medium-sized companies with revenue between $50 million and $1 billion, the range increases to $250,000 to $400,000.</p>
-<p>Large companies with revenue over $1 billion offer the highest salaries, with CFOs earning an average of $400,000 to over $1 million, often supplemented with substantial bonuses and stock options.</p>
-</details>
+<link rel="stylesheet" href="/assets/css/faq-styles.css">
 
-<h3>How does company size impact CFO compensation?</h3>
-<p>Larger companies typically offer higher salaries to CFOs due to increased complexity and responsibilities.</p>
-<details>
-<summary><b>Learn more…</b></summary>
-<br>
-<p>As the size of a company increases, so does the complexity of its financial operations and the scope of the CFO's responsibilities.</p>
-<p>This expansion in role and responsibilities is typically reflected in the compensation package offered to the CFO.</p> 
-<p>Larger companies often have more resources and a greater ability to pay higher salaries, bonuses, and other forms of compensation.</p>
-<p>Additionally, the CFO's impact on a larger organization's financial health and strategic direction is more pronounced, justifying higher compensation levels.</p>
-</details>
-
-<h3>What factors influence CFO salary besides company size?</h3>
-<p>Industry, location, experience, education, skills, and company performance are key factors influencing CFO salary.</p>
-<details>
-<summary><b>Learn more…</b></summary>
-<br>
-<p>Besides company size, several other factors impact CFO compensation:</p>
-<ul>
-  <li><b>Industry:</b> Industries with higher revenue potential or more complex financial structures may offer higher salaries.</li>
-  <li><b>Location:</b> Geographic location affects salary levels due to variations in the cost of living and demand for CFOs.</li>
-  <li><b>Experience:</b> CFOs with a longer track record of success in financial management roles command higher salaries.</li>
-  <li><b>Education and Qualifications:</b> Higher education levels and professional certifications can enhance earning potential.</li>
-  <li><b>Skills:</b> Skills such as strategic planning, financial reporting, and leadership are highly valued for the CFO role.</li>
-  <li><b>Company Performance:</b> In many companies, a portion of the CFO's salary may be tied to the company's financial performance.</li>
-</ul>
-</details>
-
-<h3>What additional compensation do CFOs receive?</h3>
-<p>CFOs often receive bonuses, stock options, long-term incentive plans, and other benefits.</p>
-<details>
-<summary><b>Learn more…</b></summary>
-<br>
-<p>In addition to base salary, CFOs typically receive various forms of additional compensation:</p>
-<ul>
-  <li><b>Bonuses:</b> Usually tied to individual and company performance metrics, with average bonus potential around 30-60% of base salary.</li>
-  <li><b>Stock Options:</b> Common in public companies, allowing CFOs to purchase company stock at a predetermined price.</li>
-  <li><b>Long-Term Incentive Plans (LTIPs):</b> Designed to reward CFOs for achieving long-term company goals, often tied to shareholder return or financial performance.</li>
-  <li><b>Benefits and Perquisites:</b> Can include retirement plans, health insurance, and other perks, varying by company size and industry.</li>
-</ul>
-</details>
-
-<h3>How can CFOs negotiate their compensation effectively?</h3>
-<p>Research market rates, leverage experience, consider the entire compensation package, and be prepared to walk away.</p>
-<details>
-<summary><b>Learn more…</b></summary>
-<br>
-<p>Effective negotiation strategies for CFOs include:</p>
-<ul>
-  <li><b>Know Your Worth:</b> Research average salaries for similar positions in your industry and location.</li>
-  <li><b>Leverage Your Experience:</b> Highlight your achievements and contributions to previous organizations.</li>
-  <li><b>Consider the Entire Compensation Package:</b> Look beyond base salary and negotiate for bonuses, equity, and benefits.</li>
-  <li><b>Be Prepared to Walk Away:</b> Knowing your bottom line and being willing to walk away from an offer that doesn't meet your expectations demonstrates confidence and value.</li>
-  <li><b>Seek Professional Advice:</b> Consulting with a career coach or compensation specialist can provide personalized advice and negotiation strategies.</li>
-</ul>
-</details>
+{% include faq-template.html faq_data="faq_cfo_salary_business_size" %}
 
 ## In Summary...
 
