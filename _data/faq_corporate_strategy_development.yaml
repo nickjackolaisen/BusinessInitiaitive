@@ -1,0 +1,39 @@
+- question: "What is the purpose of a corporate strategy?"
+  simple_answer:
+    - "The purpose is to set long-term goals and create a unified plan for growth and market positioning."
+  extended_answers:
+    - "Corporate strategy aligns all departments to common goals."
+    - "It outlines how a company will achieve its objectives by using resources efficiently."
+    - "This plan helps create a competitive advantage over time."
+
+- question: "How long does it take to develop a corporate strategy?"
+  simple_answer:
+    - "The time varies based on company size, goals, and industry but usually takes a few weeks to a few months."
+  extended_answers:
+    - "Initial research and analysis may require several weeks, especially for larger companies."
+    - "Smaller firms can develop their strategy more quickly if they have well-defined goals and existing data."
+    - "Ongoing refinement will continue as the business evolves."
+
+- question: "Who should be involved in the strategic planning process?"
+  simple_answer:
+    - "Key stakeholders include executives, department heads, and sometimes external consultants for third-party insight."
+  extended_answers:
+    - "Executives provide overall vision and objectives, setting the company's direction."
+    - "Managers and department heads ensure alignment and realistic planning for implementation."
+    - "External consultants offer unbiased perspectives and specialized market expertise."
+
+- question: "How do I know if my corporate strategy is effective?"
+  simple_answer:
+    - "Effectiveness can be assessed through measurable KPIs aligned with your strategic goals."
+  extended_answers:
+    - "Set clear KPIs that reflect your business goals, like revenue growth or market share."
+    - "Track performance regularly to ensure progress."
+    - "Adjust your strategy if targets are not being met."
+
+- question: "How do I identify a competitive advantage for my business?"
+  simple_answer:
+    - "Assess your company's unique strengths and market position to identify opportunities."
+  extended_answers:
+    - "Analyze your strengths and resources through frameworks like SWOT or Porter's Five Forces."
+    - "Identify gaps in the market that your business can uniquely fill."
+    - "Focus on delivering value that differentiates you from competitors."
