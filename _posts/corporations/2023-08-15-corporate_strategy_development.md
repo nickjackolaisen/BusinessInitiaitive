@@ -322,7 +322,6 @@ To get in touch with us, visit our [contact page](https://www.businessinitiative
 {% include faq-template.html faq_data="faqs/faq_corporate_strategy_development" %}
 
 <br>
-
 <details>
 <summary><b>Sources</b></summary>
 <br>
@@ -332,6 +331,7 @@ To get in touch with us, visit our [contact page](https://www.businessinitiative
 </ul>
 </details>
 
+<br>
 
 
 
