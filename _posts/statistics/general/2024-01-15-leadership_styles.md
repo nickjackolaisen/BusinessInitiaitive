@@ -265,14 +265,14 @@ Don't hesitate to reach out to Business Initiative for tailored advice and strat
 ## FAQs - Frequently Asked Questions About Leadership Styles in Business
 
 <center>
-<img alt="FAQs" src="/images/content/answers.png" title="Common Business Questions" style="width: 63%; height: 63%">
+<img alt="Business FAQs" src="/images/content/faqs-section.png" title="Common Business Questions" style="width: 63%; height: 63%">
 </center>
 
 <br>
 
 <link rel="stylesheet" href="/assets/css/faq-styles.css">
 
-{% include faq-template.html faq_data="faqs/faq_leadership_styles.yaml" %}
+{% include faq-template.html faq_data="faq_leadership_styles.yaml" %}
 
 <br>
 <details>
