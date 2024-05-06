@@ -1,27 +1,55 @@
 - question: "What is the Inventory Turnover Ratio?"
-  simple_answer: "The Inventory Turnover Ratio measures how many times a company sells and replenishes its inventory during a specific period."
+  simple_answer:
+    - "The Inventory Turnover Ratio measures how many times a company sells and replenishes its inventory during a specific period."
   extended_answers:
     - "The Inventory Turnover Ratio indicates how efficiently a company manages its inventory levels."
     - "It shows the number of times inventory is sold and replaced within a specified timeframe, often one year."
     - "A high ratio indicates efficient inventory management, while a low ratio could suggest overstocking or slow sales."
-  link: "https://www.businessinitiative.org/"
 
 - question: "How is the Inventory Turnover Ratio calculated?"
-  simple_answer: 
+  simple_answer:
     - "The formula is Cost of Goods Sold (COGS) / Average Inventory Value."
-    - "second sentence test"
   extended_answers:
     - "To calculate the ratio, divide the total cost of goods sold (COGS) by the average value of inventory during the specified period."
     - "Average inventory is often calculated by averaging the beginning and ending inventory values over the period."
-    - "look there's no link"
+    - "This formula provides a clear picture of how quickly a company can convert its inventory into sales."
 
 - question: "Why is the Inventory Turnover Ratio important?"
-  simple_answer: "The ratio helps evaluate inventory management efficiency, sales performance, and cash flow."
+  simple_answer:
+    - "The ratio helps evaluate inventory management efficiency, sales performance, and cash flow."
   extended_answers:
     - "A high turnover ratio indicates effective inventory management and that goods are selling quickly, reducing the risk of obsolete stock."
     - "Monitoring this ratio helps businesses align their inventory levels with customer demand and optimize cash flow."
     - "It can also reveal shifts in sales performance, providing insights for adjusting marketing or production strategies."
-    - "Optimize social media profiles and engage with followers."
-  link: "https://www.businessinitiative.org/tools/"
 
+- question: "How can the Inventory Turnover Ratio calculator help businesses?"
+  simple_answer:
+    - "It offers a quick way to assess inventory management efficiency and identify opportunities to streamline stock levels."
+  extended_answers:
+    - "The calculator simplifies the calculation process, providing a fast assessment of how efficiently a company manages its inventory."
+    - "This information can guide adjustments to stock levels, reducing the risk of overstocking or stockouts."
+    - "It helps identify trends in inventory management, allowing businesses to align their strategies with customer demand and market conditions."
 
+- question: "What does a high Inventory Turnover Ratio indicate?"
+  simple_answer:
+    - "A high ratio suggests effective inventory management and strong sales performance."
+  extended_answers:
+    - "A high ratio means the company sells and replenishes inventory frequently, reducing storage costs and minimizing excess stock."
+    - "It reflects strong demand for the company's products and efficient inventory management practices."
+    - "This also indicates that the business maintains good alignment between its production, supply chain, and customer demand."
+
+- question: "What factors can affect the Inventory Turnover Ratio?"
+  simple_answer:
+    - "Factors include pricing strategy, market demand, and production cycles."
+  extended_answers:
+    - "Pricing strategies influence how quickly products sell and directly affect inventory turnover."
+    - "Market demand and seasonal fluctuations can lead to rapid changes in inventory turnover rates."
+    - "Production cycles and supply chain disruptions may cause delays in replenishing inventory, impacting the ratio."
+
+- question: "How can businesses improve their Inventory Turnover Ratio?"
+  simple_answer:
+    - "Businesses can optimize the ratio by adjusting pricing, improving demand forecasting, and refining supply chain management."
+  extended_answers:
+    - "Review pricing strategies to ensure products are competitively priced and align with market demand."
+    - "Enhance demand forecasting by analyzing historical sales data and market trends to avoid overstocking or stockouts."
+    - "Refine supply chain management to streamline production and delivery processes, reducing lead times and improving inventory replenishment."
