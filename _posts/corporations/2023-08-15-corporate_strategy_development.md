@@ -319,7 +319,7 @@ To get in touch with us, visit our [contact page](https://www.businessinitiative
 
 <link rel="stylesheet" href="/assets/css/faq-styles.css">
 
-{% include faq-template.html faq_data="faq_corporate_strategy_development" %}
+{% include faq-template.html faq_data="faqs/faq_corporate_strategy_development" %}
 
 <br>
 
