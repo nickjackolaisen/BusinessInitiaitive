@@ -2,7 +2,7 @@
 title: "The Evolution of Business Structures: Past, Present, & Future"
 layout: post
 date: 2023-08-13
-update_date: 2024-04-03
+update_date: 2024-05-05
 author: jack_nicholaisen
 summary: "Discover the history of business entities and how they've shaped entrepreneurship. Explore growth factors and the future of business!"
 permalink: /statistics/business-structures/history/
@@ -214,6 +214,10 @@ As businesses seek to combine the benefits of different business structures, we 
 As concerns about income inequality and corporate influence on society grow, there may be increased pressure on governments to regulate corporations more heavily, leading to <a href="https://www.theguardian.com/business/2021/jul/22/the-fight-against-corporate-power-people-are-recognising-they-were-duped" target="_blank">changes in corporate governance structures</a>.
 
 ## FAQs - Frequently Asked Questions About The History of Business Entities
+
+<center>
+<img alt="Questions and Answers" src="/images/content/answers.png" title="FAQ - Answers this way..." style="width: 63%; height: 63%">
+</center>
 
 <h3>What is a business structure?</h3>
 <p>A business structure is a legal framework that defines how a business is organized, operated, and taxed.</p>
