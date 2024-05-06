@@ -7,11 +7,13 @@
   link: "https://www.businessinitiative.org/"
 
 - question: "How is the Inventory Turnover Ratio calculated?"
-  simple_answer: "The formula is Cost of Goods Sold (COGS) / Average Inventory Value."
+  simple_answer: 
+    - "The formula is Cost of Goods Sold (COGS) / Average Inventory Value."
+    - "second sentence test"
   extended_answers:
     - "To calculate the ratio, divide the total cost of goods sold (COGS) by the average value of inventory during the specified period."
     - "Average inventory is often calculated by averaging the beginning and ending inventory values over the period."
-  link: 
+    - "look there's no link"
 
 - question: "Why is the Inventory Turnover Ratio important?"
   simple_answer: "The ratio helps evaluate inventory management efficiency, sales performance, and cash flow."
