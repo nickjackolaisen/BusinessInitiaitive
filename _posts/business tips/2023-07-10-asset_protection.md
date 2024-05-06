@@ -207,7 +207,13 @@ Don't leave your company's future to chance...
 
 <iframe src="https://embeds.beehiiv.com/e19ce286-1d77-44e9-b09f-22d4f7c6f0bf" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
 
+<br>
 
+<link rel="stylesheet" href="/assets/css/faq-styles.css">
+
+{% include faq-template.html faq_data="faq_business_tips_asset_protection" %}
+
+<br>
 <details>
 <summary><b>Sources</b></summary>
 <br>
@@ -219,4 +225,4 @@ Don't leave your company's future to chance...
     <li><a href="https://www.forbes.com/sites/markeghrari/2020/07/30/asset-protection-trusts-a-valuable-estate-planning-tool/?sh=3d0b9f903e7a">Forbes: Asset Protection Trusts: A Valuable Estate Planning Tool</a></li>
 </ul>
 </details>
-
+<br>
