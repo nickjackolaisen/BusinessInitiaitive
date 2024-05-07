@@ -30,16 +30,6 @@ Let's have a look at how the number of employees compares in small businesses ar
 
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <style>
-    body {
-        font-family: Arial, sans-serif;
-        margin: 0;
-        padding: 0;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        height: 100vh;
-        background-color: #f4f4f4;
-    }
     .chart-container {
         width: 80%;
         max-width: 600px;
