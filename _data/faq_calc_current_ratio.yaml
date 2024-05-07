@@ -1,0 +1,58 @@
+
+- question: "What is the current ratio?"
+  simple_answer:
+    - "The current ratio measures a company's ability to pay off its short-term liabilities with its current assets."
+  extended_answers:
+    - "The current ratio is a liquidity metric calculated by dividing a company's current assets by its current liabilities."
+    - "It provides insights into the company's financial health, indicating whether it can cover short-term obligations with readily available assets."
+    - "A higher current ratio generally means a stronger liquidity position, while a low ratio can suggest potential financial distress."
+
+- question: "How is the current ratio calculated?"
+  simple_answer:
+    - "The formula for calculating the current ratio is Current Assets / Current Liabilities."
+  extended_answers:
+    - "To find the current ratio, divide the total value of a company's current assets by the total value of its current liabilities."
+    - "Current assets include cash, accounts receivable, inventory, and other assets expected to be converted into cash within a year."
+    - "Current liabilities include accounts payable, wages, and other obligations due within the same time frame."
+    - "This formula gives a quick insight into the company's short-term liquidity."
+
+- question: "Why is the current ratio important?"
+  simple_answer:
+    - "It helps assess a company's liquidity, financial health, and ability to meet its short-term obligations."
+  extended_answers:
+    - "The current ratio reveals whether a company has sufficient resources to pay its short-term liabilities."
+    - "A higher ratio indicates the company can comfortably cover its financial obligations, providing stability and confidence to creditors and investors."
+    - "A low ratio may signal potential liquidity issues, leading to difficulty in obtaining credit or loans."
+
+- question: "What is a good current ratio for a business?"
+  simple_answer:
+    - "A ratio between 1.5 and 3 is often considered ideal, though it varies by industry."
+  extended_answers:
+    - "The ideal current ratio depends on the nature of the business and industry norms."
+    - "Ratios below 1 could suggest that the company may struggle to meet its short-term obligations."
+    - "Ratios significantly above 3 may indicate excessive idle assets that could be better utilized or invested elsewhere."
+    - "Regularly monitoring the current ratio helps ensure that the business maintains appropriate liquidity levels."
+
+- question: "How does the current ratio affect credit assessments?"
+  simple_answer:
+    - "Lenders use the current ratio to evaluate a company's ability to repay short-term loans."
+  extended_answers:
+    - "The current ratio is a critical factor in credit assessments because it reflects a company's liquidity."
+    - "A strong ratio demonstrates to lenders that the business can repay loans promptly, making it easier to secure credit."
+    - "A low ratio may indicate higher risks, potentially resulting in higher interest rates or credit denials."
+
+- question: "How does the current ratio compare to the quick ratio?"
+  simple_answer:
+    - "The quick ratio excludes inventory and prepaid expenses, offering a more stringent liquidity measure."
+  extended_answers:
+    - "The quick ratio, or acid-test ratio, excludes less liquid current assets like inventory and prepaid expenses."
+    - "It focuses on assets that can be converted into cash quickly, such as cash, marketable securities, and accounts receivable."
+    - "The quick ratio provides a more conservative measure of liquidity, especially for businesses with high inventory levels."
+
+- question: "How can the current ratio calculator help with financial analysis?"
+  simple_answer:
+    - "The calculator provides a quick, accurate way to assess a company's liquidity position and trends."
+  extended_answers:
+    - "The calculator simplifies financial analysis by offering an immediate assessment of a business's ability to cover short-term liabilities."
+    - "Regular use helps identify liquidity trends over time, allowing for strategic adjustments before issues arise."
+    - "It supports creditworthiness assessments, investment decisions, and benchmarking against industry peers."

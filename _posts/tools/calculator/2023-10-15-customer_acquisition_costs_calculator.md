@@ -64,4 +64,6 @@ CAC is an important metric because it helps businesses understand how much they 
 </style>
 
 
-In this calculator, just input the total marketing and sales expenses (in dollars) and the number of new customers acquired. Then click the "Calculate" button to display the Customer Acquisition Cost (CAC) in dollars.
+In this calculator, just input the total marketing and sales expenses (in dollars) and the number of new customers acquired. 
+
+Then click the "Calculate" button to display the Customer Acquisition Cost (CAC) in dollars.

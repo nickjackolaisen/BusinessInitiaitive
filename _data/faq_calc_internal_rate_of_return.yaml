@@ -1,0 +1,31 @@
+
+- question: "What is the difference between IRR and ROI?"
+  simple_answer:
+    - "ROI measures the amount of return on an investment relative to its cost, while IRR is the discount rate that makes the net present value of an investment's cash flows equal zero."
+  extended_answers:
+    - "Return on investment (ROI) and internal rate of return (IRR) are both metrics used to evaluate the profitability of potential investments."
+    - "However, they differ in several key ways. ROI measures the amount of return on an investment relative to its cost, expressed as a percentage."
+    - "It does not consider the time value of money or take into account the duration of an investment."
+    - "On the other hand, IRR is a more comprehensive metric that accounts for both the magnitude and timing of an investment's cash flows."
+    - "It calculates the discount rate at which all future cash inflows from an investment are equal to its initial cost."
+    - "While ROI is a useful metric for assessing short-term profitability, IRR provides a more accurate measure of long-term value creation."
+
+- question: "What is a good IRR?"
+  simple_answer:
+    - "A good IRR depends on several factors, including industry norms, project risks, and investor preferences."
+  extended_answers:
+    - "There is no one-size-fits-all answer to what constitutes a 'good' internal rate of return (IRR)."
+    - "The ideal IRR varies depending on industry norms, project risks, and investor preferences."
+    - "For instance, some industries may have higher average IRRs than others due to factors like technological innovation or market volatility."
+    - "Additionally, projects with higher risks may require higher IRRs to justify the investment."
+    - "Finally, investors' preferences and risk tolerance also play a role in determining what constitutes a good IRR."
+    - "While some may be comfortable with lower returns in exchange for greater certainty, others may prioritize maximizing returns even if it means taking on more risk."
+
+- question: "What are some real-world examples of IRR?"
+  simple_answer:
+    - "Real estate development, private equity, and venture capital are all industries that commonly use IRR as a metric for evaluating potential investments."
+  extended_answers:
+    - "Internal rate of return (IRR) is a widely used metric in many industries, including real estate development, private equity, and venture capital."
+    - "In real estate development, developers use IRR to evaluate the profitability of potential projects by comparing the expected returns to the project's costs."
+    - "Private equity firms use IRR to assess the attractiveness of potential investments in companies by estimating future cash flows and discounting them back to their present value."
+    - "Similarly, venture capitalists use IRR to evaluate early-stage companies' potential by assessing their growth prospects and estimating future cash flows."

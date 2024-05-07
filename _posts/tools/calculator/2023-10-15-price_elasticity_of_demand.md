@@ -2,7 +2,7 @@
 title: "Price Elasticity of Demand Calculator for Business"
 layout: post
 date: 2023-10-15
-update_date: 2024-05-05
+update_date: 2024-05-07
 author: jack_nicholaisen
 summary: "Discover the power of price elasticity of demand and how it can impact your business decisions. Read on for insights and practical tips." 
 thumbnail: /images/posts-headers/price-elasticity-of-demand-header.png
@@ -126,78 +126,11 @@ It is important for businesses to regularly review the price elasticity of deman
 <img alt="frequently asked questions" src="/images/content/answers.png" title="FAQs about common business calculations" style="width: 63%; height: 63%">
 </center>
 
-<h3>What is price elasticity of demand?</h3>
-<p>Price elasticity of demand measures how much the quantity demanded changes in response to price changes.</p>
-<details>
-<summary><b>Learn more…</b></summary>
 <br>
-<p>Price elasticity of demand quantifies consumer responsiveness to price changes.</p>
-<p>If a product has a high elasticity, a small price increase will result in a significant drop in demand.</p>
-<p>Conversely, a low elasticity indicates that price changes have minimal effects on demand.</p>
-<p>For instance, luxury goods like designer handbags often have high elasticity, while essential products such as gasoline tend to have low elasticity.</p>
-</details>
 
-<h3>How is price elasticity of demand calculated?</h3>
-<p>It is calculated using the percentage change in quantity demanded divided by the percentage change in price.</p>
-<details>
-<summary><b>Learn more…</b></summary>
-<br>
-<p>Price elasticity of demand (PED) is calculated using the formula:</p>
-<ul>
-  <li><b>PED = (Change in Quantity / Average Quantity) / (Change in Price / Average Price)</b></li>
-</ul>
-<p>This formula provides a numerical value that helps businesses understand the sensitivity of their customers to price changes.</p>
-<p>A PED value greater than 1 indicates high sensitivity, while a value below 1 signals inelastic demand.</p>
-</details>
+<link rel="stylesheet" href="/assets/css/faq-styles.css">
 
-<h3>Why should businesses consider price elasticity of demand when setting prices?</h3>
-<p>Understanding elasticity helps businesses maximize revenue by pricing their products strategically.</p>
-<details>
-<summary><b>Learn more…</b></summary>
-<br>
-<p>By assessing the elasticity of their products, businesses can better forecast consumer behavior.</p>
-<p>For instance, a product with high elasticity should be priced more competitively to avoid losing customers due to price hikes, whereas a product with low elasticity can bear higher prices without significant losses in demand.</p>
-<p>This helps companies optimize pricing for profitability and competitiveness.</p>
-</details>
-
-<h3>How does advertising impact price elasticity?</h3>
-<p>Effective advertising can reduce the elasticity of demand by increasing brand loyalty.</p>
-<details>
-<summary><b>Learn more…</b></summary>
-<br>
-<p>Advertising creates a unique brand image, increasing perceived value and reducing consumers' sensitivity to price changes.</p>
-<p>Loyal customers will prioritize specific brands even if prices increase.</p>
-<p>For example, Apple products have lower price elasticity due to brand loyalty fostered through consistent advertising and high-quality standards.</p>
-</details>
-
-<h3>What role does income play in price elasticity?</h3>
-<p>Changes in consumer income levels can alter the elasticity of demand for certain products.</p>
-<details>
-<summary><b>Learn more…</b></summary>
-<br>
-<p>When consumer incomes rise, the demand for luxury goods becomes less sensitive to price changes (lower elasticity), while essential goods remain stable.</p>
-<p>In periods of economic downturns, demand for non-essential items with high elasticity drops sharply, reflecting reduced purchasing power.</p>
-</details>
-
-<h3>How can businesses use price elasticity to improve their marketing strategy?</h3>
-<p>Businesses can tailor promotions and campaigns based on the price sensitivity of their customers.</p>
-<details>
-<summary><b>Learn more…</b></summary>
-<br>
-<p>Understanding which products are highly elastic allows businesses to create more compelling marketing campaigns or discounts to stimulate demand.</p>
-<p>For example, a company might use time-sensitive discounts on products with high elasticity to drive immediate purchases, knowing customers respond strongly to price reductions.</p>
-</details>
-
-<h3>How frequently should businesses review price elasticity?</h3>
-<p>Reviewing it annually or during significant market changes is advisable.</p>
-<details>
-<summary><b>Learn more…</b></summary>
-<br>
-<p>Businesses should periodically assess price elasticity to adapt to changing market conditions, consumer behavior, and economic trends.</p>
-<p>For instance, a major competitor entering the market or significant economic shifts could significantly alter consumer demand, requiring a fresh analysis of price sensitivity.</p>
-</details>
-
-
+{% include faq-template.html faq_data="faq_price_elasticity_of_demand" %}
 
 <br>
 <details>

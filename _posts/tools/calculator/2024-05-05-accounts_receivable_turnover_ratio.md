@@ -137,3 +137,4 @@ Seize the opportunity to enhance your Accounts Receivable Turnover Ratio and ele
 
 {% include faq-template.html faq_data="faq_calc_accounts_receivable_turnover" %}
 
+<br>
