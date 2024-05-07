@@ -26,8 +26,6 @@ Let's have a look at how the number of employees compares in small businesses ar
 
 <p><b>➤ Take Initiative: </b> <a href="https://www.businessinitiative.org/corporation/corporate-culture/" target="_blank"> Increase your company's employee retention rates</a></p>
 
-<h2>Average Number of Employees in Small Businesses</h2>
-
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <style>
     .chart-container {
@@ -214,6 +212,8 @@ For example, a small tech startup may only have a few employees, while a small r
 
 With a clear understanding of trends and challenges, businesses can better strategize their workforce requirements and find innovative ways to improve productivity and employee satisfaction.
 
+<iframe src="https://embeds.beehiiv.com/e19ce286-1d77-44e9-b09f-22d4f7c6f0bf" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
+
 <br>
 <details>
 <summary><b>Sources</b></summary>
@@ -224,4 +224,6 @@ With a clear understanding of trends and challenges, businesses can better strat
     <li><a href="https://www.nfib.com/">National Federation of Independent Business</a></li>
 </ul>
 </details>
+
+<br>
 
