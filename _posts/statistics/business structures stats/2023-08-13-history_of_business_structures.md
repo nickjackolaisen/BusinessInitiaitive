@@ -2,9 +2,11 @@
 title: "The Evolution of Business Structures: Past, Present, & Future"
 layout: post
 date: 2023-08-13
-update_date: 2024-05-05
+update_date: 2024-05-07
 author: jack_nicholaisen
 summary: "Discover the history of business entities and how they've shaped entrepreneurship. Explore growth factors and the future of business!"
+thumbnail: /images/posts-headers/history_of_business_structures_header.png
+image: /images/posts-headers/history_of_business_structures_header.png
 permalink: /statistics/business-structures/history/
 ---
 
@@ -35,6 +37,10 @@ Throughout history, the need for more flexible and efficient business structures
 In the United States, the first LLC was established in Wyoming in 1977, providing a new paradigm for business owners seeking the <a href="https://www.wyomingllcattorney.com/Blog/LLC-First-Created" target="_blank">benefits of limited liability without the complexities and regulations associated with corporations</a>.
 
 ## Historical Trends in Business Structures
+
+<center>
+<img alt="evolution of modern business" src="/images/content/evolution-of-man.png" title="business in the past" style="width: 63%; height: 63%">
+</center>
 
 Over the years, the popularity of various business structures has ebbed and flowed in response to changing economic, legal, and social factors. 
 
@@ -92,6 +98,10 @@ Only time will tell what the future holds for business structures.
 
 ## Factors Influencing the Growth of Business Structures
 
+<center>
+<img alt="historical impact of business" src="/images/content/business-news.png" title="business history" style="width: 63%; height: 63%">
+</center>
+
 Numerous factors have influenced the development and growth of business structures throughout history. Some key drivers include:
 
 -  ### Legal and regulatory changes: 
@@ -142,6 +152,10 @@ Social movements have played a role in shaping the growth of certain types of bu
 For example, the social enterprise movement has led to an increase in the number of businesses seeking B Corporation certification or adopting hybrid legal structures that <a href="https://ssir.org/articles/entry/the\_rise\_of\_the\_fourth\_sector" target="_blank">allow them to pursue both financial and social goals</a>.
 
 ## Role of Startups and Innovation
+
+<center>
+<img alt="historical timeline of business" src="/images/content/startup-office.png" title="history of startup companies" style="width: 63%; height: 63%">
+</center>
 
 These sources provide a starting point for further research and can be cited in your article to support the information presented in the "Role of Startups and Innovation" section.
 
@@ -219,74 +233,11 @@ As concerns about income inequality and corporate influence on society grow, the
 <img alt="Questions and Answers" src="/images/content/answers.png" title="FAQ - Answers this way..." style="width: 63%; height: 63%">
 </center>
 
-<h3>What is a business structure?</h3>
-<p>A business structure is a legal framework that defines how a business is organized, operated, and taxed.</p>
-<details>
-<summary><b>Learn More...</b></summary>
-<p>Business structures vary in terms of legal and tax implications, liability protection, and management flexibility.</p>
-<p>Common types include sole proprietorships, partnerships, limited liability companies (LLCs), and corporations.</p>
-<p>The choice of structure depends on factors such as the size of the business, the level of risk, and the goals of the owners.</p>
-<p><a href="https://www.sba.gov/business-guide/launch-your-business/choose-business-structure" target="_blank">More on business structures</a></p>
-</details>
+<br>
 
-<h3>Why is the LLC so popular among new businesses?</h3>
-<p>LLCs offer a flexible structure, limited liability protection, and favorable tax treatment.</p>
-<details>
-<summary><b>Learn More...</b></summary>
-<p>LLCs combine the liability protection of a corporation with the tax advantages and operational flexibility of a partnership.</p>
-<p>Owners (members) of an LLC are not personally liable for business debts, and profits can be passed through to members without double taxation.</p>
-<p>In 2021, LLCs accounted for 69.4% of new entity formations in the U.S.</p>
-<p><a href="/statistics/llc/the-rise-of-llcs/" target="_blank">LLC popularity statistics</a></p>
-</details>
+<link rel="stylesheet" href="/assets/css/faq-styles.css">
 
-<h3>How have technological advancements influenced business structures?</h3>
-<p>Technology has enabled new business models, global reach, and decentralized governance.</p>
-<details>
-<summary><b>Learn More...</b></summary>
-<p>E-commerce platforms allow small businesses to access global markets, while blockchain technology enables decentralized autonomous organizations (DAOs) with transparent and democratic governance.</p>
-<p>Additionally, digital tools have facilitated the rise of the gig economy, where individuals work as independent contractors.</p>
-<p><a href="/business-tips/blockchain-technology/" target="_blank">Blockchain's impact on business</a></p>
-</details>
-
-<h3>What is a benefit corporation?</h3>
-<p>A benefit corporation is a legal structure that requires businesses to pursue social and environmental goals alongside profit.</p>
-<details>
-<summary><b>Learn More...</b></summary>
-<p>Benefit corporations balance the interests of shareholders with broader societal and environmental concerns.</p>
-<p>They are legally obligated to consider the impact of their decisions on all stakeholders, not just shareholders.</p>
-<p>This structure has gained popularity as consumers and investors increasingly value corporate social responsibility.</p>
-<p><a href="https://www.bcorporation.net/en-us/find-a-b-corp/" target="_blank">B Corporation directory</a></p>
-</details>
-
-<h3>How do startups influence the evolution of business structures?</h3>
-<p>Startups drive innovation in business structures to meet their needs for flexibility and investment.</p>
-<details>
-<summary><b>Learn More...</b></summary>
-<p>Startups often require agile and adaptable structures to pivot quickly in response to market changes.</p>
-<p>They also seek structures that are attractive to investors, such as C corporations for venture capital funding.</p>
-<p>The rise of startups has contributed to the popularity of LLCs and the development of hybrid forms like public benefit corporations.</p>
-</details>
-
-<h3>What are the tax implications of different business structures?</h3>
-<p>Tax implications vary, with sole proprietorships and partnerships facing pass-through taxation, while corporations are subject to double taxation.</p>
-<details>
-<summary><b>Learn More...</b></summary>
-<p>Sole proprietorships and partnerships report business income on personal tax returns, avoiding corporate tax.</p>
-<p>LLCs can choose between pass-through taxation and corporate taxation.</p>
-<p>Corporations face double taxation, where the company pays corporate taxes and shareholders pay taxes on dividends.</p>
-<p>S corporations offer a solution by allowing profits to pass through to shareholders without corporate tax.</p>
-<p><a href="/statistics/business-structures/tax-implications/" target="_blank">Tax considerations for business structures</a></p>
-</details>
-
-<h3>What trends are shaping the future of business structures?</h3>
-<p>Trends include the growth of LLCs, increased focus on social responsibility, and the use of blockchain technology.</p>
-<details>
-<summary><b>Learn More...</b></summary>
-<p>The flexibility and tax benefits of LLCs are driving their popularity.</p>
-<p>There is a rising demand for structures like benefit corporations that prioritize social and environmental goals.</p>
-<p>Blockchain technology is expected to introduce more decentralized and transparent business structures, such as DAOs.</p>
-<p>Hybrid structures that combine elements of different business forms are also emerging.</p>
-</details>
+{% include faq-template.html faq_data="faq_stats_business_structure_history" %}
 
 ## In Summary...
 
@@ -345,7 +296,5 @@ To stay informed and be prepared for the future of business, subscribe to our ne
 </ul>
 </details>
 
-
-
-
+<br>
  
