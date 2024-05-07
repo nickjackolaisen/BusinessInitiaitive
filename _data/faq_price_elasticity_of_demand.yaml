@@ -13,7 +13,7 @@
     - "It is calculated using the percentage change in quantity demanded divided by the percentage change in price."
   extended_answers:
     - "Price elasticity of demand (PED) is calculated using the formula:"
-    - "<b>PED = (Change in Quantity / Average Quantity) / (Change in Price / Average Price)</b>"
+    - "<b>PED</b> = (Change in Quantity / Average Quantity) / (Change in Price / Average Price)"
     - "This formula provides a numerical value that helps businesses understand the sensitivity of their customers to price changes."
     - "A PED value greater than 1 indicates high sensitivity, while a value below 1 signals inelastic demand."
 

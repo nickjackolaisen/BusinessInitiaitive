@@ -2,7 +2,7 @@
 title: "Gross Profit Margin Calculator: Track Your Business Efficiency"
 layout: post
 date: 2024-04-22
-update_date: 2024-05-05
+update_date: 2024-05-07
 author: jack_nicholaisen
 summary: "Efficiently calculate your gross profit margin to understand how much revenue is retained as gross profit after covering direct costs." 
 thumbnail: /images/posts-headers/calculator/gross-profit-margin-calculator-header.png

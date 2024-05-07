@@ -44,7 +44,7 @@
   simple_answer:
     - "Separate personal and business assets, secure insurance, safeguard intellectual property, and establish trusts."
   extended_answers:
-    - bullet points
+    - bullet_points:
       - "Separate personal and business assets by forming a legal entity like an LLC or corporation."
       - "Purchase comprehensive insurance coverage, including liability and property insurance, to protect against financial losses."
       - "Register patents, trademarks, and copyrights to safeguard intellectual property and trade secrets."
