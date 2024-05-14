@@ -2,7 +2,7 @@
 title: "SWOT Analysis: Everything You NEED to Know"
 layout: post
 date: 2023-09-01
-update_date: 2024-05-07
+update_date: 2024-05-14
 author: jack_nicholaisen
 summary: "Unlock your business potential with our SWOT guide. Begin identifying opportunities, tackling challenges, and enhancing strategic decisions in your business!"
 thumbnail: /images/posts-headers/swot-analysis-header.png
@@ -166,7 +166,7 @@ As a result, Apple remains one of the most valuable companies globally.
 -   [**Starbucks**](https://www.starbucks.com/)
 
 <center>
-<img alt="what is swot analysis in business" src="/images/content/starbucks-coffee.png" title="Starbucks Coffee" style="width: 63%; height: 63%">
+<img alt="what is swot analysis in business" src="/images/content/logos/starbucks-coffee.png" title="Starbucks Coffee" style="width: 63%; height: 63%">
 </center>
 
 Starbucks conducted a SWOT analysis that revealed its strengths in brand recognition, quality coffee offerings, and global presence. 
@@ -178,7 +178,7 @@ Additionally, Starbucks tackled potential threats from competitors by focusing o
 -   [**Amazon**](https://www.amazon.com/)
 
 <center>
-<img alt="swot analysis of a business" src="/images/content/amazon.png" title="Amazon.com Inc." style="width: 63%; height: 63%">
+<img alt="swot analysis of a business" src="/images/content/logos/amazon.png" title="Amazon.com Inc." style="width: 63%; height: 63%">
 </center>
 
 Amazon's SWOT analysis highlighted its vast product selection, efficient logistics network, and advanced technology infrastructure as key strengths. 

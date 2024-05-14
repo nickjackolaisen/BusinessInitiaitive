@@ -216,7 +216,7 @@ Let's take a look at some companies that have successfully integrated e-commerce
 ### Warby Parker:
 
 <center>
-<img alt="integrating e commerce" src="/images/content/warby-parker.png" title="warby parker ecommerce" style="width: 63%; height: 63%">
+<img alt="integrating e commerce" src="/images/content/logos/warby-parker.png" title="warby parker ecommerce" style="width: 63%; height: 63%">
 </center>
 
 [Warby Parker](https://www.warbyparker.com/) is an eyewear company that has successfully integrated e-commerce into its business model. 
@@ -228,7 +228,7 @@ This has helped the company increase its online sales while maintaining a high l
 ### Casper: 
 
 <center>
-<img alt="integrated e commerce strategy" src="/images/content/casper-matresses.png" title="casper matresses ecommerce" style="width: 63%; height: 63%">
+<img alt="integrated e commerce strategy" src="/images/content/logos/casper-matresses.png" title="casper matresses ecommerce" style="width: 63%; height: 63%">
 </center>
 
 [Casper](https://casper.com/) is a mattress company that has disrupted the traditional mattress industry by offering customers the ability to purchase mattresses online and have them delivered directly to their door. 
@@ -238,7 +238,7 @@ The company also offers a 100-night sleep trial, which has helped it gain a loya
 ### Dollar Shave Club:
 
 <center>
-<img alt="practical ecommerce" src="/images/content/dollar-shave-club.png" title="dollar shave club ecommerce" style="width: 63%; height: 63%">
+<img alt="practical ecommerce" src="/images/content/logos/dollar-shave-club.png" title="dollar shave club ecommerce" style="width: 63%; height: 63%">
 </center>
 
 [Dollar Shave Club](https://www.dollarshaveclub.com/) is a subscription-based service that delivers razors and other grooming products to its customers on a monthly basis. 
@@ -248,7 +248,7 @@ The company's e-commerce platform allows customers to easily manage their subscr
 ### Saddleback Leather:
 
 <center>
-<img alt="how to start an ecommerce business" src="/images/content/saddleback-leather.png" title="saddleback leather ecommerce" style="width: 63%; height: 63%">
+<img alt="how to start an ecommerce business" src="/images/content/logos/saddleback-leather.png" title="saddleback leather ecommerce" style="width: 63%; height: 63%">
 </center>
 
 [Saddleback Leather](https://saddlebackleather.com/) is a leather goods company that has built its brand around quality craftsmanship and exceptional customer service. 
@@ -258,7 +258,7 @@ The company's e-commerce platform allows customers to easily purchase products o
 ### Stitch Fix:
 
 <center>
-<img alt="how to get into e commerce" src="/images/content/stitch-fix.png" title="stitch fix ecommerce" style="width: 63%; height: 63%">
+<img alt="how to get into e commerce" src="/images/content/logos/stitch-fix.png" title="stitch fix ecommerce" style="width: 63%; height: 63%">
 </center>
 
 [Stitch Fix](https://www.stitchfix.com/) is an online personal styling service that uses data science to curate personalized clothing recommendations for its customers. 
@@ -277,7 +277,7 @@ These companies demonstrate how integrating e-commerce into your business can he
 
 <link rel="stylesheet" href="/assets/css/faq-styles.css">
 
-{% include faq-template.html faq_data="faq_business_tips_integrating_e_commerce.yaml" %}
+{% include faq-template.html faq_data="faq_business_tips_integrating_e_commerce" %}
 
 <br>
 
