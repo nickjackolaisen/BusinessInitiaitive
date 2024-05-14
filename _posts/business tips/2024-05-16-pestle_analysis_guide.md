@@ -215,7 +215,7 @@ Currency fluctuations can impact import-export businesses, either shrinking or e
 
 Interest rates govern the cost of borrowing, affecting capital investments, while unemployment rates shape consumer purchasing power and demand. 
 
-Businesses that understand these economic trends can <a href="https://data.imf.org/?sk=f8032e80-b36c-43b1-ac26-493c5b1cd33b" target="_blank">make better strategic decisions</a>, identifying opportunities in a challenging environment【source】.
+Businesses that understand these economic trends can <a href="https://data.imf.org/?sk=f8032e80-b36c-43b1-ac26-493c5b1cd33b" target="_blank">make better strategic decisions</a>, identifying opportunities in a challenging environment.
 
 ### Benefits:
 
@@ -375,7 +375,7 @@ Leveraging innovations like predictive analytics and AR/VR improves efficiency, 
 
 Retailers incorporating AR/VR create immersive shopping experiences, while predictive analytics enable marketers to craft targeted campaigns.
 
-### Actionable Insights**:  
+### Actionable Insights:  
 
 - **Investment Roadmap**: 
 
