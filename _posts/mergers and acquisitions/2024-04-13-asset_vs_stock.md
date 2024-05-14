@@ -1,7 +1,7 @@
 ---
 title: "Asset vs. Stock Purchase: An Owner's Guide to Smart Acquisition Decisions"
 layout: post
-date: 2024-04-14
+date: 2024-05-13
 update_date: 
 author: jack_nicholaisen
 summary: "Unlock the secrets to smart business acquisitions with our guide on asset vs. stock purchases. Make informed decisions for your business's future success!"
@@ -478,7 +478,7 @@ You can also reach out via our [contact form](https://www.businessinitiative.org
 
 Let’s tailor a strategy that works for you!
 
-Stay informed with the latest insights and updates on business strategies by subscribing to the [Business Initiative Newsletter](https://newsletter.businessinitiative.org/) and follow us on [X (Twitter)](https://twitter.com/BisInitiative) for real-time updates and expert advice.
+Stay informed with the latest insights and updates on business strategies by subscribing to the Business Initiative Newsletter and follow us on X (Twitter) for real-time updates and expert advice.
 
 Take the first step towards a transformative business acquisition strategy by taking Initiative now. 
 
