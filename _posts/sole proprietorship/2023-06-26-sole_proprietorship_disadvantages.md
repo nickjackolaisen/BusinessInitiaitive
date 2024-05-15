@@ -2,7 +2,7 @@
 layout: post
 title: 6 Awful Disadvantages of Sole Proprietroships
 date: 2023-06-26
-update_date: 2023-12-06
+update_date: 2024-05-15
 author: jack_nicholaisen
 summary: "Don't read this article if you're considering starting a Sole Proprietorship! You just might end up starting a Partnership, LLC, or Corporation."
 permalink: /sole-proprietorship/disadvantages/
@@ -40,7 +40,7 @@ They do not apply to Sole Proprietors, who are personally liable for any debts a
 
 A lot of entrepreneurs start out with a Sole Proprietorship. 
 
-Then, as the business grows, they re-form them into LLCs, [Partnerships](https://www.businessinitiative.org/partnership/advantages/), or Corporations. 
+Then, as the business grows, they re-form them into LLCs, <a href="https://www.businessinitiative.org/partnership/advantages/" target="_blank">Partnerships</a>, or Corporations. 
 
 <p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/llc/what-does-llc-mean/" target="_blank"> Learn the in's and out's of LLCs.</a></p>
 
@@ -84,15 +84,15 @@ The only way two people can run the same Sole Proprietorship is if they are marr
 
 This is what’s known as a Co-Sole Proprietorship. 
 
-If you want other owners or shareholders to get involved, you have to dissolve the Sole Proprietorship and reform it as a [Partnership](https://www.businessinitiative.org/partnership/disadvantages/), LLC, or Corporation, depending on your unique needs. 
+If you want other owners or shareholders to get involved, you have to dissolve the Sole Proprietorship and reform it as a <a href="https://www.businessinitiative.org/partnership/disadvantages/" target="_blank">Partnership</a>, LLC, or Corporation, depending on your unique needs. 
 
 In the event of the owner’s death, all the company’s assets, profits, and property go to the owner’s family or whoever is in their will. 
 
-This direct transfer is subject to Inheritance Tax, dramatically reducing the amount your inheritors receive.  
+This direct transfer is subject to inheritance tax, dramatically reducing the amount your inheritors receive.  
 
 This is a negative aspect because someone else can’t just come along and pick up where you left off. 
 
-In an LLC or Corporation, the entire entity can be transferred, exempting it from [Inheritance Tax.](https://www.investopedia.com/terms/i/inheritancetax.asp) 
+In an LLC or Corporation, the entire entity can be transferred, exempting it from <a href="https://www.investopedia.com/terms/i/inheritancetax.asp" target="_blank">inheritance tax.</a>
 
 ## No Business Bank Account
 
@@ -114,11 +114,13 @@ Not only do you miss out on amazing advertising opportunities, it also makes bui
 
 To illustrate, imagine a lawn care service owned by Joe Robinson. 
 
-Someone speaking about his services would probably say, “Oh yeah, there's Joe Robinson who cuts lawns and also does some nice landscaping… Yeah, I think he lives just across town… Sure, I can send you his number. *Sends the contact titled: Joe Robinson*” 
+Someone speaking about his services would probably say, “Oh yeah, there's Joe Robinson who cuts lawns and also does some nice landscaping… Yeah, I think he lives just across town… Sure, I can send you his number." 
+
+*Sends the contact titled: **Joe Robinson***” 
 
 There's just nothing professional about using your legal name for your business. 
 
-If you end up operating a Sole Proprietorship, you should complete the extra step of [filing for a DBA (Doing Business As…) name.](https://www.businessinitiative.org/llc/dba-vs-llc/) 
+If you end up operating a Sole Proprietorship, you should complete the extra step of <a href="https://www.businessinitiative.org/comparison/dba-vs-llc/" target="_blank">filing for a DBA (Doing Business As…) name.</a>
 
 This is a custom, industry-specific, name of your choosing. 
 
@@ -150,7 +152,7 @@ You do have the option of filing for a DBA and registering an EIN with the Inter
 
 Depending on the state and the bank, this could allow you to open a business checking account. 
 
-You also can’t sell an [equity stake](https://nadeemacademy.com/statement-of-stockholders-equity-owners-equity/) in exchange for obtaining new funds. 
+You also can’t sell an <a href="https://nadeemacademy.com/statement-of-stockholders-equity-owners-equity/" target="_blank">equity stake</a> in exchange for obtaining new funds. 
 
 To rephrase it a little differently, you can't offer stock or other investment incentives like you could with an LLC or Corporation. 
 
@@ -175,6 +177,20 @@ All of this is to say, you can sell or transfer a Sole Proprietorship if you rea
 It is much more complex than selling or transferring an LLC or Corporation, which is officially registered and recognized by the state.
 
 <p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/sole-proprietorship-vs-llc/" target="_blank"> Find out how LLCs compare to Sole Proprietorships.</a></p>
+
+## FAQs - Frequently Asked Questions About INSERTTOPICHERE
+
+<center>
+<img alt="Business FAQs" src="/images/content/faqs-section.png" title="Common Business Questions" style="width: 63%; height: 63%">
+</center>
+
+<br>
+
+<link rel="stylesheet" href="/assets/css/faq-styles.css">
+
+{% include faq-template.html faq_data="faq_sole_proprietorship_disadvantages" %}
+
+<br>
 
 ## Is a Sole Proprietroship Right for You?
 
