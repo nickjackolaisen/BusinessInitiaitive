@@ -104,7 +104,7 @@ This is a negative of Sole Proprietorships because you’re missing out on getti
 
 A practice which comes in handy if you plan on expanding to an LLC or Corporation, where separating business and personal is mandatory. 
 
-<p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/sole-proprietorship-vs-llc/pros-and-cons/" target="_blank"> We breakdown the Pros and Cons of Sole Proprietorships and LLCs.</a></p>
+<p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/comparison/sole-proprietorship-vs-llc/pros-and-cons/" target="_blank"> We breakdown the Pros and Cons of Sole Proprietorships and LLCs.</a></p>
 
 ## Lacking Credibility and Rapport
 
@@ -176,7 +176,7 @@ All of this is to say, you can sell or transfer a Sole Proprietorship if you rea
 
 It is much more complex than selling or transferring an LLC or Corporation, which is officially registered and recognized by the state.
 
-<p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/sole-proprietorship-vs-llc/" target="_blank"> Find out how LLCs compare to Sole Proprietorships.</a></p>
+<p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/comparison/sole-proprietorship-vs-llc/" target="_blank"> Find out how LLCs compare to Sole Proprietorships.</a></p>
 
 ## FAQs - Frequently Asked Questions About INSERTTOPICHERE
 

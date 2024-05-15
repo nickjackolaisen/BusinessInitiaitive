@@ -2,7 +2,7 @@
 title: "Sole Proprietorship Facts, Stats, & FAQs for 2024 (UPDATED)"
 layout: post
 date: 2023-07-05
-update_date: 2024-05-02
+update_date: 2024-05-15
 author: jack_nicholaisen
 summary: "Unlock your business potential with our data-driven insights, expert consulting, and tailored pricing. Elevate success today!" 
 thumbnail: /images/posts-headers/sole-proprietorship-facts-stats-faqs-header.png
@@ -343,7 +343,9 @@ This food production giant was started way back in 1865 and currently employees 
 
 Based on their wikipedia page, Cargill brought in a **net profit of $4.93 Billion in 2021**, after material costs and taxes. 
 
-Being a private company, Cargill  restricts access to their financial reports. Here is what they've released so far:
+Being a private company, Cargill  restricts access to their financial reports. 
+
+Here is what they've released so far:
 
 <img alt="Cargill’s annual revenue compared to their annual profits between 2010 and 2021" src="/images/cargill-revenue-profit-2010-2021.png"/>
  
@@ -371,7 +373,7 @@ If the business takes on any risk or liability in the form of debts, the respons
 
 The unfortunate reality is if the owner is unable to pay back loans from their business and it’s profits, the owner then has to pay out of pocket. 
 
-This means <a href="https://www.businessinitiative.org/sole-proprietorship-vs-llc/" target="_blank">the bank can come after the owner’s personal assets and property</a> in order to repay what is owed.		
+This means <a href="https://www.businessinitiative.org/comparison/sole-proprietorship-vs-llc/" target="_blank">the bank can come after the owner’s personal assets and property</a> in order to repay what is owed.		
     
 ###  3. Total Control
 Since the owner is viewed as the business from a legal standpoint, they have full control over every aspect of the business. All decisions are made by the sole proprietor. 

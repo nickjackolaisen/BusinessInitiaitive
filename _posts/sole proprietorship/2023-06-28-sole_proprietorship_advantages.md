@@ -2,7 +2,7 @@
 layout: post
 title: 5 Impressive Advantages of Sole Proprietorship
 date: 2023-06-28
-update_date: 2024-01-28
+update_date: 2024-05-15
 author: jack_nicholaisen
 summary: "Wanna know if the Sole Proprietorship is THE BEST business entity for achieving your professional goals? READ THIS!"
 thumbnail: /images/posts-headers/sole-proprietorship-advantages-header.png
@@ -96,7 +96,9 @@ The good news is:
 
 The most you’ll need for a Sole Proprietorship is an EIN (Employer Identification Number). 
 
-This is like an ID, but for your business. You can get one if you want to, but most states don't make it a requirement.
+This is like an ID, but for your business. 
+
+You can get one if you want to, but most states don't make it a requirement.
 
 The only real forms and requirements depend on what you provide. 
 
@@ -219,7 +221,7 @@ The main thing is to pick the right type of business based on **your current nee
 
 Just make sure you’re being realistic with where you’re at right now. 
 
-You probably don’t need a Corporation if you’re just starting out, but [you might consider an LLC](https://www.businessinitiative.org/sole-proprietorship-vs-llc/), if your business carries inherent risk.
+You probably don’t need a Corporation if you’re just starting out, but <a href="https://www.businessinitiative.org/comparison/sole-proprietorship-vs-llc/" target="_blank">you might consider an LLC</a>, if your business carries inherent risk.
 
 Fortunately, with so many options available, you can always upgrade your status later. 
 
@@ -233,4 +235,4 @@ Stay up-to-date with us and learn practical strategies to maximize your time and
 
 <iframe src="https://embeds.beehiiv.com/e19ce286-1d77-44e9-b09f-22d4f7c6f0bf" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
 
-
+<br>

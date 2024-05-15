@@ -2,7 +2,7 @@
 title: "How Long Does it Take to Start a Small Business?"
 layout: post
 date: 2023-06-25
-update_date: 2023-11-19
+update_date: 2024-05-15
 author: jack_nicholaisen
 summary: "Starting a small business is a dream for many, but its duration depends on factors like type, location, experience, and resources."
 thumbnail: /images/posts-headers/how-long-start-business-header.png
@@ -10,7 +10,7 @@ image: /images/posts-headers/how-long-start-business-header.png
 permalink: /statistics/how-long-does-it-take-to-start-a-business/
 ---
 
-On average, it can take anywhere from **three to six months** to [start a small business](https://www.businessinitiative.org/sole-proprietorship/examples/). 
+On average, it can take anywhere from **three to six months** to <a href="https://www.businessinitiative.org/sole-proprietorship/examples/" target="_blank">start a small business.</a>
 
 However, this timeline can vary significantly depending on the nature of business, the industry, location, size, and the amount of capital required. 
 
@@ -38,7 +38,7 @@ It is a crucial part of starting a business, and it can take **several weeks** t
 
 ### 3.  Register Your Business and Obtain the Necessary Licenses and Permits: **1-2 months**
 
-Registering a business, obtaining necessary permits and licenses, and complying with tax laws are all essential legal requirements for starting a business and [ensuring it operates legally.](https://www.businessinitiative.org/sole-proprietorship-vs-llc/) 
+Registering a business, obtaining necessary permits and licenses, and complying with tax laws are all essential legal requirements for starting a business and <a href="https://www.businessinitiative.org/comparison/sole-proprietorship-vs-llc/" target="_blank">ensuring it operates legally.</a> 
 
 Depending on the location and industry, these requirements can take **several weeks or even months** to complete.
 
@@ -56,9 +56,9 @@ Choosing a location for your business and setting up your physical or virtual st
 
 Hiring employees and training them can take **several weeks or even months**, depending on the size and complexity of the tasks they will have to complete.
 
-### 7.  [Launch Your Business!](https://www.businessinitiative.org/contact/)
+### 7.  Launch Your Business!
 
-Starting a business can be a challenging and lengthy process. 
+<a href="https://www.businessinitiative.org/contact/" target="_blank">Starting a business</a> can be a challenging and lengthy process. 
 
 It requires patience and perseverance to overcome obstacles and achieve success.
 

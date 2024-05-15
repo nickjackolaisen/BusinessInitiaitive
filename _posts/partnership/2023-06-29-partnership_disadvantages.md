@@ -2,7 +2,7 @@
 layout: post
 title: 7 Partnership Disadvantages They Tried Keeping Secret
 date: 2023-06-29
-update_date: 2023-12-06
+update_date: 2024-05-15
 author: jack_nicholaisen
 summary: "Although they may be simple and cheap, some people avoid Partnerships like the Bubonic Plague. Read this to discover why!"
 permalink: /partnership/disadvantages/
@@ -35,19 +35,19 @@ It comes down to whether you want to make more money working with a team of high
 
 To make the right decision, you should understand if a Partnership aligns with your goals and vision. 
 
-At the very least, take a look at what makes Partnerships [excellent](https://www.businessinitiative.org/partnership/advantages/) and terrible. 
+At the very least, take a look at what makes Partnerships <a href="https://www.businessinitiative.org/partnership/advantages/" target="_blank">excellent</a> and terrible. 
 
 If you’re unfamiliar with Partnerships, the Fundamentals of Partnerships are included at the end of this article.  
 
 **Read on to understand the critical weak points of Partnerships.**
 
-Afterward, look at [their advantages](https://www.businessinitiative.org/partnership/advantages/) to getting more knowledge about Partnerships.
+Afterward, look at <a href="https://www.businessinitiative.org/partnership/advantages/" target="_blank">their advantages</a> to getting more knowledge about Partnerships.
 
-## Partnership Disadvantages ##
+## Partnership Disadvantages
 
 Here are the seven ways you’re missing out with a Partnership:
 
-### 1.  No Limited Liability Protection ###
+### 1.  No Limited Liability Protection
 
 Partnerships do not distinguish between business finances and personal property. 
 
@@ -65,11 +65,11 @@ It doesn’t matter if they acted without the team’s explicit permission and u
 
 Your personal property includes:
 
-*   Real estate 
-*   Personal Bank Accounts
-*   Investments
-*   Vehicles
-*   Anything of significant value 
+-   Real estate 
+-   Personal Bank Accounts
+-   Investments
+-   Vehicles
+-   Anything of significant value 
 
 Limited Partners can only lose their investments. 
 
@@ -81,7 +81,7 @@ Then you need to check out LLCs or Corporations.
 
 These complex entities protect your personal property from being possessed by claimants. 
 
-If most of what you and your Partners own is going towards the business anyways, and you understand the potential risk of losing everything (including the property you don’t have in the business), then starting a Partnership is a viable option. 
+If most of what you and your Partners own is going towards the business anyways, and you understand the potential risk of losing everything (including the property you don’t have in the business), then starting a Partnership is a viable option.
 
 Due to their simplicity, you avoid registration procedures, maintenance requirements, recurring filing fees, and Corporate tax. 
 
@@ -97,17 +97,19 @@ You can upgrade to an LLC or Corporation if you want their special protection la
 
 Upgrading is easier once you establish your business with routine practices and protocols.
 
-### 2.  You Have Less Control ###
+### 2.  You Have Less Control
 
 You must divide the _money_, _taxes_, and _influence_ evenly with your Partners by default. 
 
 You can make special conditions to this rule by getting a custom Partnership Agreement written for your team or by writing yourselves.
 
-#### Influence ####
+#### Influence
 
 You are a part of a team. You don’t have free reign to do whatever you feel like within a Partnership. 
 
-Every General Partner must agree before making significant business decisions. Most of the time, you only need a majority vote. 
+Every General Partner must agree before making significant business decisions. 
+
+Most of the time, you only need a majority vote. 
 
 For the critical actions, you need unanimous agreement. 
 
@@ -115,7 +117,7 @@ If you can’t reach a verdict, refer to your Partnership Agreement protocol.
 
 It tells you how to resolve disputes for both majority and unanimous decisions.
 
-#### Profits ####
+#### Profits
 
 You’re only worried about your neck when you run a business on your own. 
 
@@ -125,7 +127,7 @@ The profits are split evenly between you and your Partners (unless otherwise sta
 
 Consider the following scenarios:
 
-1. You’re a [**Sole Proprietor**](https://www.businessinitiative.org/sole-proprietorship/examples/) making 200K in profits a year. Great!
+1. You’re a <a href="https://www.businessinitiative.org/sole-proprietorship/examples/" target="_blank"><b>Sole Proprietor</b></a> making 200K in profits a year. Great!
 
 or
 
@@ -143,7 +145,7 @@ At the same time, it also further divides the profits. 
 
 It all lies in the balance.
 
-#### Taxes ####
+#### Taxes
 
 Partnerships pay taxes with the Pass-Through Process. 
 
@@ -159,7 +161,7 @@ Partnerships are straightforward; you only get one choice.
 
 The good news is the Pass-Through Process is easy to complete because there’s nothing special about it. 
 
-### 3.  Self-Employment Tax ###
+### 3.  Self-Employment Tax
 
 Being an entrepreneur is a bit of a double-edged sword: You’re an owner and also self-employed.  
 
@@ -173,13 +175,17 @@ To pay it: use the 1040-SE Form (“SE” for Self-Employment).
 
 **For your reference, here is a bare-bones overview of the tax process for a default Partnership:**
 
-*   Partners get paid via Pass-Through Process (direct deposit or check)
-*   Partners calculate their contributions using the [K-1 Form](https://www.irs.gov/pub/irs-pdf/f1065sk1.pdf).
-*   The Partnership verifies and submits copies of the K-1s to the IRS using the [1065 Form](https://www.irs.gov/pub/irs-pdf/f1065.pdf).
-*   Partners use their K-1 to complete their [1040 Form](https://www.irs.gov/pub/irs-pdf/f1040.pdf) (Income Tax) and [1040-SE Form](https://www.irs.gov/pub/irs-pdf/f1040sse.pdf) (Self-Employment Tax) and submit them to the IRS.
-*   Be sure to [check out if your business requires additional taxes](https://www.irs.gov/businesses/small-businesses-self-employed/business-taxes#employment).
+1.   Partners get paid via Pass-Through Process (direct deposit or check)
 
-### 4.  Liable for Your Partner’s Actions ###
+2.   Partners calculate their contributions using the <a href="https://www.irs.gov/pub/irs-pdf/f1065sk1.pdf" target="_blank">K-1 Form</a>.
+
+3.   The Partnership verifies and submits copies of the K-1s to the IRS using the <a href="https://www.irs.gov/pub/irs-pdf/f1065.pdf" target="_blank">1065 Form</a>.
+
+4.   Partners use their K-1 to complete their <a href="https://www.irs.gov/pub/irs-pdf/f1040.pdf" target="_blank">1040 Form</a> (Income Tax) and <a href="https://www.irs.gov/pub/irs-pdf/f1040sse.pdf" target="_blank">1040-SE Form</a> (Self-Employment Tax) and submit them to the IRS.
+
+5.  Be sure to <a href="https://www.irs.gov/businesses/small-businesses-self-employed/business-taxes#employment" target="_blank">check out if your business requires additional taxes</a>.
+
+### 4.  Liable for Your Partner’s Actions
 
 If something immoral or illegal goes down, everyone is liable, even if only one Partner is to blame. 
 
@@ -216,7 +222,7 @@ The only way to get out of being personally responsible for another Partner’s 
 
 Not good. 
 
-### 5.  Increased Chance of Internal Conflict ###
+### 5.  Increased Chance of Internal Conflict
 
 Even though working with a team is helpful, it can cause problems. 
 
@@ -224,7 +230,9 @@ With many people sharing the business, it’s no surprise Partnerships have a hi
 
 Partners may feel unappreciated or argue about the correct solution to a problem. 
 
-Tensions may arise, creating an environment of scarcity and competition. Not something you want within your company.
+Tensions may arise, creating an environment of scarcity and competition. 
+
+Not something you want within your company.
 
 Optimally, you and your Partners agree on a compromise. 
 
@@ -251,7 +259,7 @@ Remember, it’s not necessary to make someone a Partner.
 
 You can easily hire third-party contractors and avoid being personally responsible for their actions.
 
-### 6.  Difficult to Dissolve ###
+### 6.  Difficult to Dissolve
 
 If a General Partner wakes up one morning and decides to walk out of the Partnership, the business dissolves. 
 
@@ -265,13 +273,13 @@ After this, you sell and distribute the value proportionally between owners.
 
 To make matters worse, you can get a whole mess of paperwork, lawyers, and court fees to deal with if an entitlement dispute breaks out.
 
-You can avoid this by registering your business as a [Sole Proprietorship or Single Member LLC](https://www.businessinitiative.org/sole-proprietorship-vs-llc/). 
+You can avoid this by registering your business as a <a href="https://www.businessinitiative.org/comparison/sole-proprietorship-vs-llc/" target="_blank">Sole Proprietorship or Single Member LLC.</a>
 
 In these businesses, you don’t distribute anything to anybody (besides taxes to the Feds). 
 
 When you’re the only owner, everything becomes your personal property. 
 
-### 7.  Difficult to Change Ownership ###
+### 7.  Difficult to Change Ownership
 
 To add or remove a Partner, you must value the Partnership's assets. 
 
@@ -295,7 +303,7 @@ The rest is the same: dissolve, reform, write a new Partnership Agreement,  get
 
 As you can see, Partnerships are highly dependent on the owners. 
 
-Partnerships (and [Sole Proprietorships](https://www.businessinitiative.org/sole-proprietorship/advantages/)) are dependent business entities. 
+Partnerships (and <a href="https://www.businessinitiative.org/sole-proprietorship/advantages/" target="_blank">Sole Proprietorships</a>) are dependent business entities. 
 
 They simply cease to exist as soon as the ownership changes.
 
@@ -307,14 +315,11 @@ Enough doom and gloom.
 
 Want to see all the perks Partnerships offer? 
 
-Check out the [Partnership Advantages.](https://www.businessinitiative.org/partnership/advantages/) 
+Check out the <a href="https://www.businessinitiative.org/partnership/advantages/" target="_blank">Partnership Advantages.</a> 
 
 On behalf of Business Initiative, we wish you much success in your entrepreneurial journey!
 
-<iframe src="https://embeds.beehiiv.com/e19ce286-1d77-44e9-b09f-22d4f7c6f0bf" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
-
-
-## Fundamentals of Partnerships ##
+## Fundamentals of Partnerships
 
 The Uniform Partnership Act (UPA) was released in 1914 and created the Partnership we are familiar with today. 
 
@@ -338,7 +343,7 @@ Legally speaking, Partners are not separate from the company or one another.
 
 Everyone shares the profits, property, and responsibility of every aspect of the business.
 
-### The 3 Types of Partnerships ###
+## The 3 Types of Partnerships
 
 You have three categories of Partnership to choose from:
 
@@ -348,6 +353,7 @@ You have three categories of Partnership to choose from:
 
 **3.  Limited Liability Partnership (LLP)**
 
+<a href="exampleurl" target="_blank">exampletext</a>
 [Multi-Member LLCs](https://www.businessinitiative.org/multi-member-llc/) and Corporations are also made specifically for multi-owner operations. 
 
 The right one for you depends on everyone’s goals and the size, structure, and risk of your business.
@@ -356,7 +362,7 @@ The LLP is less common and more complicated.
 
 A realistic review of LLPs goes beyond the scope of this article and is therefore not included. 
 
-#### General Partnerships ####
+#### General Partnerships
 
 General Partners are **actively** involved in and responsible for the business’s operation and management. 
 
@@ -374,9 +380,11 @@ If an owner takes out a business loan on behalf of the business, everybody is pe
 
 It doesn’t matter if they asked the rest of the team.
 
-#### Limited Partnerships ####
+#### Limited Partnerships
 
-Limited Partners are **passive** investors. They do not participate in the company’s decision-making, management, or operation. 
+Limited Partners are **passive** investors. 
+
+They do not participate in the company’s decision-making, management, or operation. 
 
 Since they are not involved, Limited Partners are not personally responsible for the actions of the business or the General Partners. 
 
@@ -392,18 +400,22 @@ If running a business with like-minded individuals in the simplest way possible 
 
 Whether you end up starting a Partnership or opt for another form of business, you should keep reading to get a well-rounded understanding of the drawbacks of Partnerships. 
 
-### The 3 Main Reasons to Avoid a Partnership: ###
+### The 3 Main Reasons to Avoid a Partnership:
 
 1.  You are **personally responsible** for the actions of your business and your Partners.
+
 2.  You lose autonomy when **you share every aspect of the business** with your team.          
+
 3.  If a dispute arises, you better find a solution quickly. Otherwise, **you risk losing the business and your property**. 
 
 You might be better off doing your own thing as a Sole Proprietor. 
 
-In a riskier setup (requiring limited liability protection) or where you share ownership with more than 20 professionals, you should [start a Multi Member LLC](https://www.businessinitiative.org/llc/multi-member-llc/registration/) or Corporation. 
+In a riskier setup (requiring limited liability protection) or where you share ownership with more than 20 professionals, you should <a href="https://www.businessinitiative.org/llc/multi-member-llc/registration/" target="_blank">start a Multi Member LLC</a> or Corporation. 
 
 Taking everything into account, Partnerships are the simplest solution to sharing the workload, responsibility, and profits with a team. 
 
 But, just as every rose has its thorn, the Partnership’s simplicity comes with a few significant disadvantages, like total personal responsibility for everything. 
 
-[Click HERE to join the Business Initiative Newsletter](https://adept-hustler-4565.ck.page/0b61cd22c7) 
+<iframe src="https://embeds.beehiiv.com/e19ce286-1d77-44e9-b09f-22d4f7c6f0bf" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
+
+<br>
