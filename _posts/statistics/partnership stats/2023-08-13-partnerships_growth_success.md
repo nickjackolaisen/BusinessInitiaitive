@@ -2,7 +2,7 @@
 title: "Is a Partnership Right for Your Business? Statistics on Partnership Prevalence and Success"
 layout: post
 date: 2023-08-13
-update_date: 2023-09-27
+update_date: 2024-05-16
 author: jack_nicholaisen
 summary: "Learn about partnerships in business. Explore formation/success rates, pros/cons. Is it right for you? Read our data-driven article!"
 permalink: /statistics/partnerships/success/
@@ -108,7 +108,7 @@ Consider factors such as shared values, complementary skill sets, and compatible
 
 A partnership agreement outlines the terms and conditions of your partnership, including profit-sharing, decision-making processes, and dispute resolution procedures. 
 
-[Here's a template](https://www.lawdepot.com/contracts/partnership-agreement/) to help you get started.
+[Here's a template](https://www.legalzoom.com/templates/agreements/partnership) to help you get started.
 
 ### 3.  Register Your Partnership: 
 
@@ -181,7 +181,7 @@ We encourage you to check them out if you're interested in learning more about p
     <li><a href="https://hbr.org/2019/03/how-to-pick-a-co-founder">Harvard Business Review</a></li>
     <li><a href="https://www.amazon.com/Founders-Dilemmas-Anticipating-Entrepreneurship-Management/dp/0691158304">The Founder's Dilemmas: Anticipating and Avoiding the Pitfalls That Can Sink a Startup</a></li>
     <li><a href="https://www.entrepreneur.com/article/243176">Choosing the Right Partner</a></li>
-    <li><a href="https://www.lawdepot.com/contracts/partnership-agreement/">Partnership Agreement Template</a></li>
+    <li><a href="https://www.legalzoom.com/templates/agreements/partnership">Partnership Agreement Template</a></li>
     <li><a href="https://www.sba.gov/business-guide/launch-your-business/apply-licenses-and-permits">Apply for Licenses and Permits</a></li>
     <li><a href="https://www.irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online">Employer Identification Number (EIN)</a></li>
 </ul>
