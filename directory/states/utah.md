@@ -2,12 +2,16 @@
 layout: page
 title: "Utah Business Directory"
 date: 2024-04-01
-update_date: 
+update_date: 2024-05-16
 author: jack_nicholaisen
 summary: "Discover the top business startup services in Utah! Your ultimate guide to launching a successful venture."  
 permalink: /directory/utah/
 tags: business directory, start up services, business services, business lawyers, registered agents in Utah, accountants in Utah, bookkeepers in Utah
 ---
+
+<center>
+<img alt="utah state business directory" src="/images/directory-images/state-headers/utah-bd-header.png" title="Utah Business Directory" style="width: 72%; height: 72%">
+</center>
 
 ### Utah Business Startup Services Directory
 
