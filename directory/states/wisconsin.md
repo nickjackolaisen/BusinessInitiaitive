@@ -2,12 +2,16 @@
 layout: page
 title: "Wisconsin Business Directory"
 date: 2024-04-01
-update_date: 
+update_date: 2024-05-16
 author: jack_nicholaisen
 summary: "Discover the top business startup services in Wisconsin! Your ultimate guide to launching a successful venture."  
 permalink: /directory/wisconsin/
 tags: business directory, start up services, business services, business lawyers, registered agents in Wisconsin, accountants in Wisconsin, bookkeepers in Wisconsin
 ---
+
+<center>
+<img alt="wisconsin state business directory" src="/images/directory-images/state-headers/wisconsin-bd-header.png" title="Wisconsin Business Directory" style="width: 72%; height: 72%">
+</center>
 
 ### Wisconsin Business Startup Services Directory
 
