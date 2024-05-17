@@ -2,7 +2,7 @@
 title: "Valuation Techniques for Small Businesses in 2024"
 layout: post
 date: 2024-04-09
-update_date: 
+update_date: 2024-05-16
 author: jack_nicholaisen
 summary: "Unlock the secrets of small business valuation with expert techniques, practical tips, and real-world examples. Master the art of valuing your company!"
 thumbnail: /images/posts-headers/m-and-a/m-and-a-valuation-techniques-header.png
@@ -85,7 +85,7 @@ With the right approach and tools, you'll unlock the true value of your business
 ## Understanding Business Valuation
 
 <center>
-<img alt="business valuation" src="/images/content/crypto-blockchain.png" title="What is business valuation" style="width: 63%; height: 63%">
+<img alt="small business valuation methods" src="/images/content/crypto-blockchain.png" title="What is business valuation" style="width: 63%; height: 63%">
 </center>
 
 Business valuation is a process. 
@@ -101,7 +101,7 @@ It's a snapshot of your business's financial health and potential.
 ### Factors Influencing Business Valuation
 
 <center>
-<img alt="impact on business valuation" src="/images/content/hitting-the-mark.png" title="What can influence a business valuation" style="width: 63%; height: 63%">
+<img alt="different valuation techniques" src="/images/content/hitting-the-mark.png" title="What can influence a business valuation" style="width: 63%; height: 63%">
 </center>
 
 <a href="https://cfoshare.org/blog/key-factors-influencing-business-valuation/" target="_blank">Several factors</a> come into play when valuing a business. 
@@ -147,7 +147,7 @@ It sets the stage on which your business operates.
 ### Purpose of Valuing a Small Business
 
 <center>
-<img alt="is valuating a company imporant" src="/images/content/road-to-success.png" title="Why should i valuate my business?" style="width: 63%; height: 63%">
+<img alt="business valuation methods for small business" src="/images/content/road-to-success.png" title="Why should i valuate my business?" style="width: 63%; height: 63%">
 </center>
 
 Valuing a small business serves <a href="https://www.smithschafer.com/blog/10-reasons-for-a-business-valuation/" target="_blank">multiple purposes</a>:
@@ -449,7 +449,7 @@ It provides a solid foundation for understanding the worth of your business's as
 ### A. Earnings Multiple Approach
 
 <center>
-<img alt="what is my business earning multiplier" src="/images/content/earnings-multiple.png" title="how to calculate my business earning multiplier" style="width: 63%; height: 63%">
+<img alt="small business valuation techniques" src="/images/content/earnings-multiple.png" title="how to calculate my business earning multiplier" style="width: 63%; height: 63%">
 </center>
 
 The earnings multiple approach is a <a href="https://www.investopedia.com/terms/e/earningsmultiplier.asp" target="_blank">popular method</a> for valuing businesses. 
@@ -465,7 +465,7 @@ For example, if a company's earnings are $100,000 and the industry average multi
 ### B. Market Capitalization Method
 
 <center>
-<img alt="how does market capitalization work" src="/images/content/market-capitalization.png" title="How to use market capitalization to valueate a business" style="width: 63%; height: 63%">
+<img alt="business valuation strategies" src="/images/content/market-capitalization.png" title="How to use market capitalization to valueate a business" style="width: 63%; height: 63%">
 </center>
 
 The market capitalization method is primarily used for <a href="https://www.investopedia.com/terms/m/marketcapitalization.asp" target="_blank">publicly traded companies</a>. 
@@ -479,7 +479,7 @@ For instance, if a company has 1 million shares outstanding and the current stoc
 ### C. Owner's Earnings Method
 
 <center>
-<img alt="why is owners earnings so important" src="/images/content/owners-earnings.png" title="What is the point of owners earnings when more modern methods of valuating a company exist?" style="width: 63%; height: 63%">
+<img alt="company valuation techniques" src="/images/content/owners-earnings.png" title="What is the point of owners earnings when more modern methods of valuating a company exist?" style="width: 63%; height: 63%">
 </center>
 
 The owner's earnings method, popularized by Warren Buffett, focuses on the <a href="https://www.supermoney.com/encyclopedia/owner-earnings-run-rate" target="_blank">cash flow available to the owner</a> after accounting for necessary capital expenditures. 
