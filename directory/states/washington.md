@@ -2,12 +2,16 @@
 layout: page
 title: "Washington Business Directory"
 date: 2024-04-01
-update_date: 
+update_date: 2024-05-16
 author: jack_nicholaisen
 summary: "Discover the top business startup services in Washington! Your ultimate guide to launching a successful venture."  
 permalink: /directory/washington/
 tags: business directory, start up services, business services, business lawyers, registered agents in Washington, accountants in Washington, bookkeepers in Washington
 ---
+
+<center>
+<img alt="washington state business directory" src="/images/directory-images/state-headers/washington-bd-header.png" title="Washington Business Directory" style="width: 72%; height: 72%">
+</center>
 
 ### Washington Business Startup Services Directory
 
