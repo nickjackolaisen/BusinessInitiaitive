@@ -9,6 +9,10 @@ permalink: /directory/west-virginia/
 tags: business directory, start up services, business services, business lawyers, registered agents in West Virginia, accountants in West Virginia, bookkeepers in West Virginia
 ---
 
+<center>
+<img alt="west virginia state business directory" src="/images/directory-images/state-headers/west-virginia-bd-header.png" title="West Virginia Business Directory" style="width: 72%; height: 72%">
+</center>
+
 ### West Virginia Business Startup Services Directory
 
 Discover the top business startup services in West Virginia! 
