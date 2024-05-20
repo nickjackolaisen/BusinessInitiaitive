@@ -115,7 +115,7 @@ Here are some examples of successful CSR initiatives implemented by well-known c
 -   ### Unilever's Sustainable Living Plan:
 
 <center>
-<img alt="What is the most effective way to have CSR" src="/images/content/unilever.png" title="Unilever's Sustainable Living" style="width: 63%; height: 63%">
+<img alt="What is the most effective way to have CSR" src="/images/content/logos/unilever.png" title="Unilever's Sustainable Living" style="width: 63%; height: 63%">
 </center>
 
 Unilever, a consumer goods company, has implemented an ambitious [Sustainable Living Plan](https://www.unilever.com/sustainable-living/) that aims to decouple its growth from its environmental impact and improve the social conditions of its stakeholders. 
@@ -125,7 +125,7 @@ The plan includes targets such as halving the company's environmental footprint 
 -   ### Patagonia's 1% for the Planet:
 
 <center>
-<img alt="How to conduct a CSR Review" src="/images/content/patagonia.png" title="Patagonia's 1%" style="width: 63%; height: 63%">
+<img alt="How to conduct a CSR Review" src="/images/content/logos/patagonia.png" title="Patagonia's 1%" style="width: 63%; height: 63%">
 </center>
 
 Outdoor clothing and gear company Patagonia donates 1% of its sales to environmental organizations through its [1% for the Planet](https://www.patagonia.com/one-percent-for-the-planet.html) initiative. 
@@ -143,7 +143,7 @@ Starbucks is committed to ethically sourcing 100% of its coffee beans and has de
 -   ### Ben & Jerry's Socially Responsible Business Model:
 
 <center>
-<img alt="How to be Socially Responsible in a Corporation" src="/images/content/ben-and-jerrys.png" title="Ben & Jerrys ethics" style="width: 63%; height: 63%">
+<img alt="How to be Socially Responsible in a Corporation" src="/images/content/logos/ben-and-jerrys.png" title="Ben & Jerrys ethics" style="width: 63%; height: 63%">
 </center>
 
 Ben & Jerry's, an ice cream company, has a socially responsible business model that includes using fair trade and non-GMO ingredients, supporting family farms, and advocating for social justice and environmental causes. 
@@ -153,7 +153,7 @@ The company also donates a portion of its profits to support community-based org
 -   ### LEGO's Sustainable Materials Strategy:
 
 <center>
-<img alt="CSR Corporate Social Responsibility" src="/images/content/lego.png" title="LEGO sustainability" style="width: 63%; height: 63%">
+<img alt="CSR Corporate Social Responsibility" src="/images/content/logos/lego.png" title="LEGO sustainability" style="width: 63%; height: 63%">
 </center>
 
 LEGO is committed to sustainability and has developed a [Sustainable Materials Center](https://www.lego.com/en-us/aboutus/sustainability/materials) to research and develop new materials that are more environmentally friendly than traditional plastics. 
@@ -165,7 +165,7 @@ The company aims to use sustainable materials in all of its products by 2030.
 -   ### Microsoft's Carbon Negative Commitment:
 
 <center>
-<img alt="How to do Corporate Social Responsibility" src="/images/content/microsoft.png" title="Microsoft Carbon Negative" style="width: 63%; height: 63%">
+<img alt="How to do Corporate Social Responsibility" src="/images/content/logos/microsoft.png" title="Microsoft Carbon Negative" style="width: 63%; height: 63%">
 </center>
 
 Microsoft has pledged to become carbon negative by 2030, meaning it will remove more carbon from the atmosphere than it emits.
@@ -175,7 +175,7 @@ The company plans to achieve this through a combination of reducing its emission
 -   ### The Body Shop's Community Trade Program:
 
 <center>
-<img alt="CSR" src="/images/content/the-body-shop.png" title="Community Trade Program for The Body Shop" style="width: 63%; height: 63%">
+<img alt="CSR" src="/images/content/logos/the-body-shop.png" title="Community Trade Program for The Body Shop" style="width: 63%; height: 63%">
 </center>
 
 The Body Shop, a cosmetics company, sources many of its ingredients through its [Community Trade program](https://www.thebodyshop.com/en-us/about-us/values/cft/c/c00008), which supports small-scale farmers and artisans around the world. 
@@ -185,7 +185,7 @@ The program provides fair prices for goods and helps improve working conditions 
 -   ### TOMS' One-for-One Giving Model:
 
 <center>
-<img alt="corporate social responsibility" src="/images/content/toms.png" title="TOMS' One-for-One" style="width: 63%; height: 63%">
+<img alt="corporate social responsibility" src="/images/content/logos/toms.png" title="TOMS' One-for-One" style="width: 63%; height: 63%">
 </center>
 
 TOMS Shoes operates on a one-for-one giving model, meaning that for every pair of shoes purchased by customers, the company donates a pair to someone in need. 

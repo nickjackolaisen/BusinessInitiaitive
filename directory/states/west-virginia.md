@@ -2,7 +2,7 @@
 layout: page
 title: "West Virginia Business Directory"
 date: 2024-04-01
-update_date: 
+update_date: 2024-05-16
 author: jack_nicholaisen
 summary: "Discover the top business startup services in West Virginia! Your ultimate guide to launching a successful venture."  
 permalink: /directory/west-virginia/

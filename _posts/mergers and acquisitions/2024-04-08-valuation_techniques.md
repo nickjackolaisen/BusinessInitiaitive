@@ -509,7 +509,7 @@ Each method has its strengths and limitations, and <a href="https://www.wallstre
 ### A. Role of Professional Appraisers
 
 <center>
-<img alt="professional business appraisers" src="/images/content/business-valuation.png" title="Where to find company appraisers in my market?" style="width: 63%; height: 63%">
+<img alt="methods of valuing a small business" src="/images/content/business-valuation.png" title="Where to find company appraisers in my market?" style="width: 63%; height: 63%">
 </center>
 
 Professional <a href="https://www.investopedia.com/terms/a/appraisal.asp" target="_blank">appraisers</a> are the unsung heroes of business valuation. 
@@ -734,10 +734,9 @@ Stay in touch by following us on X and subscribe to the Initiative Newsletter to
 
 <iframe src="https://embeds.beehiiv.com/e19ce286-1d77-44e9-b09f-22d4f7c6f0bf" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
 
-
 <br>
 
-## Sources and Additional Resources
+## Additional Resources
 
 ### Professional Valuation Services
 
