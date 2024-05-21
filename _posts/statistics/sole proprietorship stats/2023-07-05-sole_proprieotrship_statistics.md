@@ -2,7 +2,7 @@
 title: "Sole Proprietorship Facts, Stats, & FAQs for 2024 (UPDATED)"
 layout: post
 date: 2023-07-05
-update_date: 2024-05-15
+update_date: 2024-05-21
 author: jack_nicholaisen
 summary: "Unlock your business potential with our data-driven insights, expert consulting, and tailored pricing. Elevate success today!" 
 thumbnail: /images/posts-headers/sole-proprietorship-facts-stats-faqs-header.png
@@ -222,7 +222,7 @@ You are just making money under your name by providing goods and services. There
 ## What are 3 trade offs of running a Sole Proprietorship?
 
 <center>
-<img alt="trade offs" src="/images/content/work-harder.png" style="width: 63%; height: 63%">
+<img alt="largest sole proprietorships in the world" src="/images/content/work-harder.png" style="width: 63%; height: 63%">
 </center>
 
 #### 1.	Protection
