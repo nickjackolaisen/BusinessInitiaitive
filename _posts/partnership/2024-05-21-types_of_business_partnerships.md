@@ -308,7 +308,7 @@ By carefully planning and maintaining open lines of communication, businesses ca
 ## Choosing the Right Partnership Type
 
 <center>
-<img alt="examples of business partnerships" src="/images/content/choises.png" title="Different Business Partnerships" style="width: 63%; height: 63%">
+<img alt="examples of business partnerships" src="/images/content/choices.png" title="Different Business Partnerships" style="width: 63%; height: 63%">
 </center>
 
 Selecting the appropriate partnership type for your business involves assessing several key factors to ensure the structure supports your company's goals, risk tolerance, and industry requirements.
