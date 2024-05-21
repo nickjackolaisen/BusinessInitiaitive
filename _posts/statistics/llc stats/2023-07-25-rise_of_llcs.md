@@ -75,6 +75,10 @@ The flexibility and simplicity of the LLC structure make it an attractive choice
 
 ## Advantages of Forming an LLC
 
+<center>
+<img alt="are llcs a popular business structure" src="/images/content/hitting-the-mark.png" title="why are llcs common" style="width: 63%; height: 63%">
+</center>
+
 There are several reasons why entrepreneurs and business owners are increasingly choosing to form LLCs. 
 
 Some of the key advantages include:
