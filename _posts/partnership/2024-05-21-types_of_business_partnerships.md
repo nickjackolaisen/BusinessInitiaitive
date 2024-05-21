@@ -267,7 +267,7 @@ By carefully selecting the right partners and establishing clear agreements, com
 
 A joint venture is a strategic collaboration where two or more parties, typically businesses, agree to work together to achieve specific goals. 
 
-This cooperative enterprise differs from other business partnerships in that it's generally <a href="focused on a single, specific project or business activity." target="_blank">https://www.nerdwallet.com/article/small-business/joint-venture</a>
+This cooperative enterprise differs from other business partnerships in that it's generally <a href="https://www.nerdwallet.com/article/small-business/joint-venture" target="_blank">focused on a single, specific project or business activity.</a>
 
 Unlike ongoing partnerships, a joint venture is often temporary, dissolving after achieving its targeted objectives. 
 
