@@ -353,8 +353,7 @@ You have three categories of Partnership to choose from:
 
 **3.  Limited Liability Partnership (LLP)**
 
-<a href="exampleurl" target="_blank">exampletext</a>
-[Multi-Member LLCs](https://www.businessinitiative.org/multi-member-llc/) and Corporations are also made specifically for multi-owner operations. 
+<a href="https://www.businessinitiative.org/multi-member-llc/" target="_blank">Multi-Member LLCs</a> and Corporations are also made specifically for multi-owner operations. 
 
 The right one for you depends on everyone’s goals and the size, structure, and risk of your business.
 
