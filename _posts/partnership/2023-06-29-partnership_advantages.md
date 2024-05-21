@@ -2,7 +2,7 @@
 title: 9 Key Partnership Advantages to Separate You From the Crowd
 layout: post
 date: 2023-06-29
-update_date: 2023-11-19
+update_date: 2024-05-21
 author: jack_nicholaisen
 summary: "Starting a business with a team of professionals but don't know if a Partnership is worth it? Check out their benefits and see for yourself." 
 permalink: /partnership/advantages/
@@ -60,7 +60,7 @@ If you are totally unfamiliar with Partnerships, scroll to the end and check out
 
 ## 1.  Standardized Partnership Agreement: The UPA
 
-The [UPA (Uniform Partnership Act)](https://www.uniformlaws.org/HigherLogic/System/DownloadDocumentFile.ashx?DocumentFileKey=a247672a-63c0-493c-94f2-4f53ad58c1b2&forceDialog=0) is the Partnership rulebook. 
+The <a href="https://www.uniformlaws.org/HigherLogic/System/DownloadDocumentFile.ashx?DocumentFileKey=a247672a-63c0-493c-94f2-4f53ad58c1b2&forceDialog=0" target="_blank">UPA (Uniform Partnership Act)</a> is the Partnership rulebook. 
 
 The vast majority of States accept this document as a legally binding, standardized Partnership Agreement.
 
@@ -118,7 +118,7 @@ Because more people are involved, some precautions and contractual agreements ar
 
 Here is where the Partnership Agreement comes into play.  
 
-<p style="margin-top: 30px !important;"><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/partnership/disadvantages/" target="_blank"> 7 CRITICAL reasons why Partnerships should be AVOIDED</a></p>
+<p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/partnership/disadvantages/" target="_blank"> 7 CRITICAL reasons why Partnerships should be AVOIDED</a></p>
 
 ### Forming a Partnership is Easy!
 
@@ -148,7 +148,9 @@ You have two ways to get a Partnership Agreement:
 
 2.  If you don’t want to use the default UPA or your State doesn’t accept it, get a customized Partnership Agreement written for your business. It works across the country. 
 
-Although you can save money writing it yourself, you can also pay a lawyer or third-party contract service to draw one up. They’ll work with you to meet your State guidelines and your business’s needs.
+Although you can save money writing it yourself, you can also pay a lawyer or third-party contract service to draw one up. 
+
+They’ll work with you to meet your State guidelines and your business’s needs.
 
 ### What’s in a Partnership Agreement?
 
@@ -156,7 +158,7 @@ Partnership Agreements include a lot of information. The full UPA is 272 Pages.
 
 Most of it lays out the terms and conditions of a Partnership. 
 
-You can [check it out yourself HERE](https://www.uniformlaws.org/HigherLogic/System/DownloadDocumentFile.ashx?DocumentFileKey=a247672a-63c0-493c-94f2-4f53ad58c1b2&forceDialog=0). 
+You can <a href="https://www.uniformlaws.org/HigherLogic/System/DownloadDocumentFile.ashx?DocumentFileKey=a247672a-63c0-493c-94f2-4f53ad58c1b2&forceDialog=0" target="_blank">check it out yourself HERE</a>. 
 
 To save you some time, here it’s critical points:  
 
@@ -234,7 +236,7 @@ When the company is a Partnership, you aren't stuck doing every little thing you
 
 Instead, you and your partners support one another. 
 
-<p><b>➤ PREVENT: </b> <a href="https://www.businessinitiative.org/statistics/small-businesses/reasons-why-businesses-fail/">The WORST challenges businesses encounter!</a></p>
+<p><b>➤ CAUTION: </b> <a href="https://www.businessinitiative.org/statistics/small-businesses/reasons-why-businesses-fail/">The WORST challenges businesses encounter!</a></p>
 
 When a big project is on the table, it can be divided and delegated based on a Partner’s skills and current workload.
 
@@ -355,29 +357,35 @@ Regardless of how you arrange the payments, partners are all responsible for pay
 
 ### How Do Partners Pay Taxes?
 
-**First**, fill out the [K-1 Partner Form](https://www.irs.gov/pub/irs-pdf/f1065sk1.pdf) and calculate your contributions to the Partnership. [Click here for more information about the K-1](https://www.irs.gov/pub/irs-pdf/i1065sk1.pdf). 
+**First**, fill out the <a href="https://www.irs.gov/pub/irs-pdf/f1065sk1.pdf" target="_blank">K-1 Partner Form</a> and calculate your contributions to the Partnership.
+
+<a href="https://www.irs.gov/pub/irs-pdf/i1065sk1.pdf" target="_blank">Here is more info about the K-1.</a>
 
 **Afterward**, the company collects copies of every partner’s completed K-1. 
 
-After verifying them, the Partnership attaches all of these copies to a completed [1065 Partnership Form](https://www.irs.gov/pub/irs-pdf/f1065.pdf). 
+After verifying them, the Partnership attaches all of these copies to a completed <a href="https://www.irs.gov/pub/irs-pdf/f1065.pdf" target="_blank">1065 Partnership Form</a>. 
 
-This form allows the business and the government to track what’s happening. [Click here for more info on the 1065 Form](https://www.irs.gov/pub/irs-pdf/i1065.pdf).
+This form allows the business and the government to track what’s happening.
+
+<a href="https://www.irs.gov/pub/irs-pdf/i1065.pdf" target="_blank">Here is more info on the 1065 Form.</a>
 
 **Next**, the Partnership submits the whole thing (the 1065 plus the K-1 copies) to the IRS on behalf of the partners. 
 
 **Then**, after figuring out how much everybody makes, every partner pays their share of the Partnership’s taxes. 
 
-Use your K-1 to complete your personal [1040 Income Tax Form](https://www.irs.gov/pub/irs-pdf/f1040.pdf). 
+Use your K-1 to complete your personal <a href="https://www.irs.gov/pub/irs-pdf/f1040.pdf" target="_blank">1040 Income Tax Form</a>. 
 
 You are probably already familiar with this form. 
 
-If you are not, [here is everything you need to know about the 1040 Form](https://www.irs.gov/pub/irs-pdf/i1040gi.pdf). 
+If you are not, <a href="https://www.irs.gov/pub/irs-pdf/i1040gi.pdf" target="_blank">here is everything you need to know about the 1040 Form</a>. 
 
-**Lastly**, calculate and pay your Self-Employment Tax using the [1040-SE Form](https://www.irs.gov/pub/irs-pdf/f1040sse.pdf). 
+**Lastly**, calculate and pay your Self-Employment Tax using the <a href="https://www.irs.gov/pub/irs-pdf/f1040sse.pdf" target="_blank">1040-SE Form</a>. 
 
 As a partial owner of a profitable business, your Partnership’s profits are subject to Self-Employment Tax, a combination of Social Security and Medicare Taxes. 
 
-Unless you are subject to additional excise taxes, you’re all set once you submit these forms and pay the amounts calculated therein. [Click here for a list of relevant taxes.](https://www.irs.gov/businesses/small-businesses-self-employed/business-taxes)
+Unless you are subject to additional excise taxes, you’re all set once you submit these forms and pay the amounts calculated therein.
+
+<a href="https://www.irs.gov/businesses/small-businesses-self-employed/business-taxes" target="_blank">Here is a list of all the relevant taxes.</a>
 
 ### What are the Tax Advantages of a Partnership?
 
@@ -439,7 +447,7 @@ The procedure for promoting an employee to become a Partner is in your Partnersh
 
 Partnerships are the simplest way to have a team come together to share the profits and responsibilities of running a business. 
 
-[The downside of this simplicity](https://www.businessinitiative.org/partnership/disadvantages/) is a lack of tax benefits, self-employment taxes, and total personal liability for you and your fellow partners. 
+<a href="https://www.businessinitiative.org/partnership/disadvantages/" target="_blank">The downside of this simplicity</a> is a lack of tax benefits, self-employment taxes, and total personal liability for you and your fellow partners. 
 
 As you’ve seen, many variables are involved in choosing your business entity and organizing it in the best way for your business, your interests, and the interests of your fellow partners. 
 
@@ -449,8 +457,9 @@ They know what businesses face and what makes (or breaks) a successful operation
 
 Since some states can have unique laws for business partnerships, it's also a good idea to seek out local experts.
 
-<iframe src="https://embeds.beehiiv.com/e19ce286-1d77-44e9-b09f-22d4f7c6f0bf" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
-
+<p>
+<b>➤ EXPLORE: </b> <a href="/partnership/advantages/" target="_blank">Find out more about the various partnerships!</a>
+</p>
 
 ## Partnership Basics
 
@@ -556,6 +565,6 @@ Before making any final decisions, whether a Limited or General Partnership (or 
 
 Otherwise, how will you know if it aligns with your personal and business goals?
 
-<script async data-uid="0b61cd22c7" src="https://adept-hustler-4565.ck.page/0b61cd22c7/index.js"></script>
+<iframe src="https://embeds.beehiiv.com/e19ce286-1d77-44e9-b09f-22d4f7c6f0bf" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
 
-
+<br>
