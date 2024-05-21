@@ -23,39 +23,51 @@ This article delves into the world of LLCs, providing a statistical overview of 
 
 ## The Growth of LLCs: Formation Rates and Trends
 
+<center>
+<img alt="popularity of llcs" src="/images/content/market-growth.png" title="why are llcs so popular" style="width: 63%; height: 63%">
+</center>
+
 Since their inception in the late 1970s, LLCs have grown in popularity among entrepreneurs and business owners. 
 
-According to the [IRS](https://www.irs.gov/pub/irs-soi/soi-a-inpd-id1903.pdf), the number of LLCs in the United States has increased dramatically from approximately 200,000 in 1993 to **over 2.4 million in 2018**. 
+According to the <a href="https://www.irs.gov/pub/irs-soi/soi-a-inpd-id1903.pdf" target="_blank">IRS</a>, the number of LLCs in the United States has increased dramatically from approximately 200,000 in 1993 to **over 2.4 million in 2018**. 
 
 This growth can be attributed to the unique benefits offered by LLCs, such as limited liability protection, pass-through taxation, and operational flexibility.
 
 The rise of LLCs can also be observed by looking at the percentage of new businesses choosing this structure... 
 
-According to the [US Small Business Administration](https://cdn.advocacy.sba.gov/wp-content/uploads/2019/04/23142719/2019-Small-Business-Profiles-US.pdf), **LLCs accounted for roughly 69% of all new businesses formed in the United States in 2017**. This statistic highlights the growing preference for LLCs among entrepreneurs and business owners.
+According to the U.S. Small Business Administration (SBA), Limited Liability Companies (LLCs) accounted for approximately <a href="https://sbecouncil.org/about-us/facts-and-data/" target="_blank">69% of all new businesses formed in the United States</a> in 2017. 
+
+This highlights the <a href="https://advocacy.sba.gov/2022/08/31/advocacy-releases-2022-small-business-profiles-for-the-states-and-territories" target="_blank">popularity of the LLC structure</a> due to its liability protection and tax advantages, making it a <a href="https://www.oberlo.com/statistics/number-of-small-business-in-the-us" target="_blank">preferred choice among new business owners</a>.
 
 <p>
-<b>➤ MORE: </b> <a href="/statistics/business-structures/history/" target="_blank">Check out the history and events leading up to the creation of LLCs</a>
+<b>➤ DISCOVER: </b> <a href="/statistics/business-structures/history/" target="_blank">Learn about the historical events leading up to the creation of LLCs</a>
 </p>
 
 ## Popular Industries for LLCs
+
+<center>
+<img alt="why are llc so popular" src="/images/content/office-desk.png" title="growth of llcs in united states" style="width: 63%; height: 63%">
+</center>
 
 LLCs are a popular choice for businesses across various industries. 
 
 Some of the most common industries where LLCs are prevalent include:
 
-### 1.  Real Estate: 
+- ### Real Estate: 
 
-Many real estate investors and developers choose LLCs for their ventures due to the liability protection and pass-through taxation benefits. 
+Many <a href="https://www.upcounsel.com/llc-for-real-estate-agents" target="_blank">real estate investors and developers choose LLCs</a> for their ventures due to the liability protection and pass-through taxation benefits. 
 
-According to a [study by the National Real Estate Investor](https://www.nreionline.com/finance/most-us-real-estate-firms-structured-llcs), over 80% of real estate firms in the United States are structured as LLCs.
+They are easy to manage, cost less to maintain than corporations, and boost professional credibility. 
 
-### 2.  Professional Services: 
+Plus, LLCs separate personal and business finances, making them a <a href="https://www.fortunebuilders.com/beginners-guide-starting-an-llc-part-1/" target="_blank">popular choice for real estate firms</a>.
+
+- ### Professional Services: 
 
 Law firms, accounting firms, and consulting firms often opt for LLCs to separate personal and professional liabilities. 
 
-The [American Bar Association](https://www.americanbar.org/groups/business_law/publications/blt/2016/10/inside_business/) reports that the majority of law firms in the United States are organized as LLCs or similar structures.
+The <a href="https://www.americanbar.org/groups/young_lawyers/resources/tyl/practice-areas/law-firm-choice-entity/" target="_blank">American Bar Association</a> reports that the majority of law firms in the United States are organized as LLCs or similar structures.
 
-### 3.  Retail and E-commerce: 
+- ### Retail and E-commerce: 
 
 Many small business owners and online entrepreneurs choose LLCs for their retail and e-commerce ventures. 
 
@@ -89,86 +101,22 @@ This allows business owners to focus on growing their businesses without being b
 
 Forming an LLC can add credibility to a business, as it shows potential customers, investors, and partners that the company is a legitimate, structured entity.
 
+<p>
+<b>➤ EXPLORE: </b> <a href="/comparison/sole-proprietorship-vs-llc/pros-and-cons/" target="_blank">How do LLCs compare to Sole Proprietorships?</a>
+</p>
+
 ## FAQs - Frequently Asked Questions About the Popularity of LLCs
 
 <center>
-<img alt="faqs of llcs" src="/images/content/answers.png" title="Why are llcs so popular?" style="width: 63%; height: 63%">
+<img alt="popular llcs" src="/images/content/answers.png" title="Why are llcs so popular?" style="width: 63%; height: 63%">
 </center>
 
-<h3>What is an LLC?</h3>
-<p>An LLC, or Limited Liability Company, is a business structure that combines the liability protection of a corporation with the tax benefits of a partnership.</p>
-<p>
-<b>➤ MORE: </b> <a href="/llc/what-does-llc-mean/" target="_blank">Ultimate guide to LLCs</a>
-</p>
-<details>
-<summary><b>Learn More...</b></summary>
-<p>An LLC is a legal entity separate from its owners, known as members, which means that the members are not personally liable for the company's debts and liabilities. </p>
-<p>This structure allows for pass-through taxation, where the company's income is only taxed once at the individual members' level, avoiding the double taxation faced by corporations. </p>
-<p>LLCs are flexible in management and can have one or multiple members. </p>
-</details>
+<br>
 
-<h3>How does an LLC protect personal assets?</h3>
-<p>An LLC provides limited liability protection, meaning members' personal assets are protected from the company's debts and legal obligations.</p>
-<details>
-<summary><b>Learn More...</b></summary>
-<p>In the event of legal action against the LLC or if the company cannot pay its debts, the members' personal assets, such as their homes, cars, and personal bank accounts, are usually not at risk. </p>
-<p>This protection is a key advantage over sole proprietorships and partnerships, where owners are personally liable for business liabilities. </p>
-<p>However, this protection is not absolute, and members can still be held personally liable in cases of fraud, personal guarantees, or negligence. </p>
-</details>
+<link rel="stylesheet" href="/assets/css/faq-styles.css">
 
-<h3>What are the tax benefits of an LLC?</h3>
-<p>LLCs offer pass-through taxation, meaning the company's income is only taxed once at the individual members' level.</p>
-<p>
-<b>➤ MORE: </b> <a href="/llc/taxation/deductions/" target="_blank">How to reap the tax deductions of LLCs?</a>
-</p>
-<details>
-<summary><b>Learn More...</b></summary>
-<p>This avoids the double taxation faced by corporations, where the company's income is taxed at the corporate level and then again at the individual shareholder level when dividends are distributed. </p>
-<p>Members of an LLC can also choose how they want to be taxed, either as a sole proprietorship, partnership, or corporation, providing flexibility to optimize tax liabilities. </p>
-<p>Additionally, LLCs can deduct business expenses, such as rent, salaries, and equipment costs, before distributing income to members. </p>
-</details>
-
-<h3>Can an LLC have multiple owners?</h3>
-<p>Yes, an LLC can have multiple owners, known as members, and there is no limit to the number of members it can have.</p>
-<p>
-<b>➤ MORE: </b> <a href="/multi-member-llc/" target="_blank">Are Multi-Member LLCs better than Single Member LLCs?</a>
-</p>
-<details>
-<summary><b>Learn More...</b></summary>
-<p>LLCs with multiple members are treated as partnerships for tax purposes by default but can elect to be taxed as a corporation. </p>
-<p>Members can have varying levels of involvement in the company's management and can decide on the distribution of profits and losses in the LLC's operating agreement. </p>
-<p>This flexibility makes LLCs a popular choice for businesses with multiple stakeholders. </p>
-</details>
-
-<h3>How is an LLC formed?</h3>
-<p>Forming an LLC involves filing Articles of Organization with the state, creating an operating agreement, and paying the necessary fees.</p>
-<p>
-<b>➤ MORE: </b> <a href="/llc/ultimate-formation-guide/" target="_blank">Check out our step by step guide to starting your LLC</a>
-</p>
-<details>
-<summary><b>Learn More...</b></summary>
-<p>The process includes choosing a unique name for the LLC, appointing a registered agent, and obtaining any required licenses or permits for the business. </p>
-<p>The operating agreement outlines the management structure and member roles, though it's not always required by the state. </p>
-<p>The cost and specific requirements vary by state, so it's important to check with the relevant state agency. </p>
-</details>
-
-<h3>What are the ongoing requirements for maintaining an LLC?</h3>
-<p>Ongoing requirements for an LLC typically include annual reports, tax filings, and maintaining accurate records.</p>
-<details>
-<summary><b>Learn More...</b></summary>
-<p>LLCs must comply with state-specific regulations, which may include filing an annual or biennial report with the state and paying any associated fees. </p>
-<p>They must also keep up with federal, state, and local tax obligations, including income, employment, and sales taxes. </p>
-<p>Maintaining accurate financial records and holding regular meetings, though not legally required, can help protect the LLC's limited liability status. </p>
-</details>
-
-<h3>Can an LLC operate in multiple states?</h3>
-<p>Yes, an LLC can operate in multiple states, but it may need to register as a foreign LLC in each additional state where it does business.</p>
-<details>
-<summary><b>Learn More...</b></summary>
-<p>To register as a foreign LLC, the company typically needs to file a Certificate of Authority with the state, pay a filing fee, and appoint a registered agent in that state. </p>
-<p>This registration allows the LLC to legally conduct business outside its home state while still maintaining its limited liability protection. </p>
-<p>Each state has its own rules and fees for foreign LLC registration, so it's important to check with the state's business agency. </p>
-</details>
+{% include faq-template.html faq_data="faq_stats_llc_rise_of_llcs" %}
+<br>
 
 ## In Summary...
 
@@ -182,7 +130,10 @@ It could provide the perfect foundation for your business's success.
 
 **Ready to Take Initiative?**
 
-[**Schedule a free professional consultation**](https://calendly.com/businessinitiative/30-minute-consultation-call) to determine if an LLC is the right choice for your business, and embark on your journey towards growth and success.
+<a href="https://calendly.com/businessinitiative/30-minute-consultation-call" target="_blank"><b>Schedule a free professional consultation</b></a> to determine if an LLC is the right choice for your business, and embark on your journey towards growth and success.
+<br>
+
+<iframe src="https://embeds.beehiiv.com/e19ce286-1d77-44e9-b09f-22d4f7c6f0bf" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
 
 <br>
 <details>
@@ -197,7 +148,13 @@ By exploring these resources further, you can gain a deeper understanding of why
 <ul>
     <li><a href="https://www.irs.gov/pub/irs-soi/soi-a-inpd-id1903.pdf">Statistics of Income: Active Corporation Source Book</a>: This document provides data on the number of LLCs in the United States, showing their growth over time.</li>
     <li><a href="https://cdn.advocacy.sba.gov/wp-content/uploads/2019/04/23142719/2019-Small-Business-Profiles-US.pdf">2019 Small Business Profiles for the United States</a>: This report includes information on the percentage of new businesses choosing to form as LLCs.</li>
-    <li><a href="https://www.nreionline.com/finance/most-us-real-estate-firms-structured-llcs">Most U.S. Real Estate Firms Structured as LLCs</a>: This article discusses the prevalence of LLCs in the real estate industry.</li>
-    <li><a href="https://www.americanbar.org/groups/business_law/publications/blt/2016/10/inside_business/">Inside Business Law: The Rise of Limited Liability Entities in Modern Law Practice</a>: This article explores the trend of law firms adopting LLC structures and similar entities.</li>
+    <li><a href="https://sbecouncil.org/about-us/facts-and-data/" target="_blank">Small Business Facts & Data</a></li>
+    <li><a href="https://www.oberlo.com/statistics/number-of-small-business-in-the-us" target="_blank">Number of Small Businesses in the US</a></li>
+    <li><a href="https://advocacy.sba.gov/2022/08/31/advocacy-releases-2022-small-business-profiles-for-the-states-and-territories" target="_blank">2022 Small Business Profiles for the States and Territories</a></li>
+    <li><a href="https://www.upcounsel.com/llc-for-real-estate-agents" target="_blank">UpCounsel on LLCs for Real Estate Agents</a></li>
+    <li><a href="https://www.fortunebuilders.com/beginners-guide-starting-an-llc-part-1/" target="_blank">FortuneBuilders on Real Estate Holding Companies</a></li>
+    <li><a href="https://www.americanbar.org/groups/young_lawyers/resources/tyl/practice-areas/law-firm-choice-entity/">Inside Business Law: The Rise of Limited Liability Entities in Modern Law Practice</a>: This article explores the trend of law firms adopting LLC structures and similar entities.</li>
 </ul>
 </details>
+<br>
+
