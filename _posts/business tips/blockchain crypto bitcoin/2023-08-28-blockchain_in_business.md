@@ -2,7 +2,7 @@
 title: "Blockchain Technology in Business - Prepare Your Business for the Future"
 layout: post
 date: 2023-08-28
-update_date: 2024-05-21
+update_date: 2024-05-22
 author: jack_nicholaisen
 summary: "Explore blockchain's impact on business in our article. Learn applications, benefits, and industry effects. Stay ahead with blockchain knowledge." 
 thumbnail: /images/posts-headers/blockchain-in-business-header.png
@@ -35,7 +35,9 @@ So let's embark on this exciting journey together and unlock new opportunities f
 
 ## Unlock Blockchain Technology
 
-Blockchain is a decentralized, <a href="#distributed-ledger">distributed ledger</a> technology that securely records transactions across multiple nodes. It operates as a series of connected blocks, each containing a list of transactions. 
+Blockchain is a decentralized, <a href="#distributed-ledger">distributed ledger</a> technology that securely records transactions across multiple nodes. 
+
+It operates as a series of connected blocks, each containing a list of transactions. 
 
 When new transactions occur, they are added to the most recent block. Once a block reaches its maximum capacity, a new block is created and connected to the previous one, forming a chain.
 
@@ -57,7 +59,9 @@ Main features of blockchain technology:
 ## A Brief History of Blockchain Technology
 <a id="beyond-digital-currency"> 
 
-Blockchain technology has its roots in the early 1990s, but it wasn't until 2008 that it gained significant attention. Here is a look at the major events in blockchain history:
+Blockchain technology has its roots in the early 1990s, but it wasn't until 2008 that it gained significant attention. 
+
+Here is a glimpse into the major historical events in the development of the blockchain:
 
 <center>
 <img alt="blockchain history and events" src="/images/content/blockchain-events.png" style="width: 125%; height: 125%">
@@ -154,7 +158,9 @@ The distribution of the ledger makes it highly resistant to manipulation or tamp
 
 ### 2. Cryptography
 
-Cryptography is the practice of securing communication and data through mathematical algorithms and encryption techniques. In a blockchain, it is used to ensure the integrity and confidentiality of transactions by:
+Cryptography is the practice of securing communication and data through mathematical algorithms and encryption techniques. 
+
+In a blockchain, it is used to ensure the integrity and confidentiality of transactions by:
 
 -   **Protecting the identity of participants through public and private keys:** 
 
@@ -164,7 +170,9 @@ Transactions are signed with the private key, providing proof of ownership witho
 
 -   **Hash functions:** A hash function takes an input (such as transaction data) and produces a fixed-length output called a hash. 
 
-Any change in input data will result in a completely different hash. This property makes hashes useful for verifying data integrity. 
+Any change in input data will result in a completely different hash. 
+
+This property makes hashes useful for verifying data integrity. 
 
 In a blockchain, each block contains a unique hash that depends on its contents and the hash of the previous block, creating a secure chain of blocks.
 
