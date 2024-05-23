@@ -27,4 +27,8 @@ permalink: /mergers-and-acquisitions/
 
 &bull; <a href="/mergers-and-acquisitions/tax-considerations/">Strategic Tax Planning to Maximize Mergers & Acquisitions Success</a>
 
+&bull; <a href="/mergers-and-acquisitions/risk-mitigation/">Risk Mitigation Strategies for Business Transactions</a>
+
+
+
 
