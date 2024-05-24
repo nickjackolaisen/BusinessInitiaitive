@@ -2,7 +2,7 @@
 title: "Most Common Leadership Styles in Business for 2024"
 layout: post
 date: 2024-01-15
-update_date: 2024-05-06
+update_date: 2024-05-24
 author: jack_nicholaisen
 summary: "Learn everything you need to know about leading your business in the most effecting way. These are the most popular types of learship in business!" 
 thumbnail: /images/posts-headers/business-leadership-styles-stats-header.png
@@ -32,7 +32,7 @@ With the right supportive, growth-focused approaches, LLCs can empower managers 
 ## Autocratic Leadership
 
 <center>
-<img alt="Autocratic Leadership" src="/images/content/diverse-meeting.png" title="Autocratic leadership meeting" style="width: 63%; height: 63%">
+<img alt="how many leadership styles are there" src="/images/content/diverse-meeting.png" title="Autocratic leadership meeting" style="width: 63%; height: 63%">
 </center>
 
 While some companies still have bosses that make all the decisions, most small businesses now know it's better to share power with managers. 
@@ -55,7 +55,7 @@ To keep employees excited and creative, small business owners wearing many hats 
 ## Democratic Leadership
 
 <center>
-<img alt="Democratic Leadership" src="/images/content/teamwork.png" title="Democratic leadership makes the dream work" style="width: 63%; height: 63%">
+<img alt="what leadership styles are there" src="/images/content/teamwork.png" title="Democratic leadership makes the dream work" style="width: 63%; height: 63%">
 </center>
 
 Many companies these days use a democratic style of leadership. 
@@ -88,7 +88,7 @@ Implementing a democratic leadership style in small businesses can create a posi
 ## Transformational Leadership
 
 <center>
-<img alt="Transformational Leadership" src="/images/content/women-working.png" title="Transformational leadership helps turn employees into leaders" style="width: 63%; height: 63%">
+<img alt="different leadership styles in business" src="/images/content/women-working.png" title="Transformational leadership helps turn employees into leaders" style="width: 63%; height: 63%">
 </center>
 
 Transformational leadership has a big impact on companies. 
@@ -130,7 +130,7 @@ Transformational leadership leads to increased employee performance, higher reve
 ## Laissez-Faire Leadership
 
 <center>
-<img alt="Laissez-Faire Leadership" src="/images/content/competition.png" title="Laissez-faire leadership can cause a lot of issues because managers and owners won't know what's happening on the ground level" style="width: 63%; height: 63%">
+<img alt="leadership styles business" src="/images/content/competition.png" title="Laissez-faire leadership can cause a lot of issues because managers and owners won't know what's happening on the ground level" style="width: 63%; height: 63%">
 </center>
 
 While empowering managers is important for many companies, leaders need to provide direction too. 
@@ -157,7 +157,7 @@ Leaders need to empower talent through mutual trust, openness and commitment to 
 ## Servant Leadership
 
 <center>
-<img alt="Servant Leadership" src="/images/content/high-five-workers.png" title="Servant leadership in business is one of the most effective styles based on the statistics" style="width: 63%; height: 63%">
+<img alt="business leadership styles" src="/images/content/high-five-workers.png" title="Servant leadership in business is one of the most effective styles based on the statistics" style="width: 63%; height: 63%">
 </center>
 
 Servant leadership is an effective way for companies to encourage involvement and empowerment from within. 

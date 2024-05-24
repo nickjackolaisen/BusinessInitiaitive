@@ -2,7 +2,7 @@
 title: "Mergers & Acquisitions"
 layout: page
 date: 2024-04-03
-update_date: 2024-04-21
+update_date: 2024-05-26
 author: jack_nicholaisen
 summary: "For your convenience, this page has all of the articles in Business Initiative's Mergers and Acquisitions Series"
 permalink: /mergers-and-acquisitions/
@@ -28,6 +28,8 @@ permalink: /mergers-and-acquisitions/
 &bull; <a href="/mergers-and-acquisitions/tax-considerations/">Strategic Tax Planning to Maximize Mergers & Acquisitions Success</a>
 
 &bull; <a href="/mergers-and-acquisitions/risk-mitigation/">Risk Mitigation Strategies for Business Transactions</a>
+
+&bull; <a href="/mergers-and-acquisitions/sale-readiness-checklist/">Sale Readiness Checklist for Business</a>
 
 
 
