@@ -2,7 +2,7 @@
 layout: post
 title: 6 Awful Disadvantages of Sole Proprietroships
 date: 2023-06-26
-update_date: 2024-05-15
+update_date: 2024-05-24
 author: jack_nicholaisen
 summary: "Don't read this article if you're considering starting a Sole Proprietorship! You just might end up starting a Partnership, LLC, or Corporation."
 permalink: /sole-proprietorship/disadvantages/
@@ -178,7 +178,7 @@ It is much more complex than selling or transferring an LLC or Corporation, whic
 
 <p><b>➤ MORE: </b> <a href="https://www.businessinitiative.org/comparison/sole-proprietorship-vs-llc/" target="_blank"> Find out how LLCs compare to Sole Proprietorships.</a></p>
 
-## FAQs - Frequently Asked Questions About INSERTTOPICHERE
+## FAQs - Frequently Asked Questions About Sole Proprietorships
 
 <center>
 <img alt="Business FAQs" src="/images/content/faqs-section.png" title="Common Business Questions" style="width: 63%; height: 63%">
