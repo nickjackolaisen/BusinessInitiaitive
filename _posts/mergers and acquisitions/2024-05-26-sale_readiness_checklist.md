@@ -4,7 +4,7 @@ layout: post
 date: 2024-05-26
 update_date: 
 author: jack_nicholaisen
-summary: "Boost your business's sale value with our Ultimate Sale Readiness Checklist—start preparing today!"
+summary: "Boost your business's sale value with our Ultimate Sale Readiness Checklist — start preparing today!"
 thumbnail: /images/posts-headers/m-and-a/m-and-a-sale-readiness-checklist-header.png
 image: /images/posts-headers/m-and-a/m-and-a-sale-readiness-checklist-header.png
 permalink: /mergers-and-acquisitions/sale-readiness-checklist/
