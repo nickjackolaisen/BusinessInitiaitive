@@ -55,7 +55,7 @@ To keep employees excited and creative, small business owners wearing many hats 
 ## Democratic Leadership
 
 <center>
-<img alt="what leadership styles are there" src="/images/content/teamwork.png" title="Democratic leadership makes the dream work" style="width: 63%; height: 63%">
+<img alt="what leadership styles are there" src="/images/content/teamwork.png" title="most common leadership styles" style="width: 63%; height: 63%">
 </center>
 
 Many companies these days use a democratic style of leadership. 
