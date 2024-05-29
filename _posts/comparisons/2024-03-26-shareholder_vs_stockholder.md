@@ -2,7 +2,7 @@
 title: "What's the Difference Between a Shareholder and a Stockholder?"
 layout: post
 date: 2024-03-30
-update_date: 2024-04-03
+update_date: 2024-05-28
 author: jack_nicholaisen
 summary: "Unlock the secrets between shareholders & stockholders to navigate corporate governance & investment strategy. Boost your business savvy now!"
 thumbnail: /images/posts-headers/shareholder-vs-stockholder-header.png
@@ -63,7 +63,7 @@ In the world of business and finance, understanding the roles and rights of thos
 Let's dive into the definitions and distinctions between shareholders and stockholders, two terms often used interchangeably but with subtle differences.
 
 <center>
-<img alt="shareholder" src="/images/content/shareholder.png" title="How is a shareholder different than a stockholder" style="width: 63%; height: 63%">
+<img alt="stockholders vs shareholders" src="/images/content/shareholder.png" title="How is a shareholder different than a stockholder" style="width: 63%; height: 63%">
 </center>
 
 ### What is a Shareholder?
@@ -122,7 +122,7 @@ However, in practice, the terms are used interchangeably.
 ## Legal and Financial Implications
 
 <center>
-<img alt="legal and financial effects" src="/images/content/crypto-blockchain.png" title="Legal and Financial Differences of Shareholders and Stockholders" style="width: 63%; height: 63%">
+<img alt="difference between shareholders and stockholders" src="/images/content/crypto-blockchain.png" title="Legal and Financial Differences of Shareholders and Stockholders" style="width: 63%; height: 63%">
 </center>
 
 ### Legal Rights and Responsibilities
@@ -193,7 +193,7 @@ Let's break it down...
 ### Types of Shares
 
 <center>
-<img alt="types of shares" src="/images/content/shares.png" title="What are different types of shares?" style="width: 63%; height: 63%">
+<img alt="shareholder definition" src="/images/content/shares.png" title="What are different types of shares?" style="width: 63%; height: 63%">
 </center>
 
 **Common Stock vs. Preferred Stock:**
@@ -223,7 +223,7 @@ This can be a lucrative benefit if the company's stock price rises significantly
 ### Stock Ownership
 
 <center>
-<img alt="stock ownership" src="/images/content/stocks.png" title="What are the different kinds of stock in business?" style="width: 63%; height: 63%">
+<img alt="stockholder and shareholder difference" src="/images/content/stocks.png" title="What are the different kinds of stock in business?" style="width: 63%; height: 63%">
 </center>
 
 **Direct Ownership vs. Indirect Ownership:**
@@ -256,7 +256,7 @@ Each structure has its unique dynamics and implications for those who own a piec
 ### Corporations
 
 <center>
-<img alt="corporate office" src="/images/content/corporate-workspace.png" title="Do corporations have stockholders?" style="width: 63%; height: 63%">
+<img alt="are shareholders and investors the same thing" src="/images/content/corporate-workspace.png" title="Do corporations have stockholders?" style="width: 63%; height: 63%">
 </center>
 
 In the world of corporations, whether public or private, the terms "shareholder" and "stockholder" are often used interchangeably. 
@@ -282,9 +282,8 @@ They might not have the liquidity options of public shareholders but often have 
 
 ### Limited Liability Companies (LLCs) and Partnerships
 
-
 <center>
-<img alt="llcs and partnerships" src="/images/content/high-five-workers.png" title="Do LLCs have shareholders?" style="width: 63%; height: 63%">
+<img alt="difference between stockholders and stakeholders" src="/images/content/high-five-workers.png" title="Do LLCs have shareholders?" style="width: 63%; height: 63%">
 </center>
 
 When we shift our focus to LLCs and partnerships, the terminology changes slightly.
@@ -327,7 +326,7 @@ Understanding these differences is crucial for anyone looking to invest or parti
 ## Practical Considerations for Investors
 
 <center>
-<img alt="strategies for invesotrs" src="/images/content/investing.png" title="Helpful tips for investors" style="width: 63%; height: 63%">
+<img alt="shareholders business definition" src="/images/content/investing.png" title="Helpful tips for investors" style="width: 63%; height: 63%">
 </center>
 
 Investing in the stock market can be a thrilling journey, but it's crucial to approach it with a well-thought-out strategy. 

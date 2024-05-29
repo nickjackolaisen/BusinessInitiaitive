@@ -197,7 +197,7 @@ And don't forget to sign up for our newsletter or follow us on Twitter for regul
 ## FAQs - Frequently Asked Questions About the Size of LLCs
 
 <center>
-<img alt="Business FAQs" src="/images/content/answer.png" title="Common Business Questions" style="width: 63%; height: 63%">
+<img alt="Business FAQs" src="/images/content/answers.png" title="Common Business Questions" style="width: 63%; height: 63%">
 </center>
 
 These FAQs provide answers to common questions that entrepreneurs may have about the size of an LLC. 
