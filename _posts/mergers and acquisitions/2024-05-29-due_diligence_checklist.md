@@ -2,7 +2,7 @@
 title: "The Ultimate Due Diligence Checklist"
 layout: post
 date: 2024-05-29
-update_date: 
+update_date: 2024-05-30
 author: jack_nicholaisen
 summary: "Master M&A with our Ultimate Due Diligence Checklist. Evaluate financials, operations, and legal matters to avoid liabilities and mitigate risks!"
 thumbnail: /images/posts-headers/m-and-a/m-and-a-due-diligence-checklist-header.png
@@ -42,6 +42,10 @@ By systematically addressing each section of this checklist, you can mitigate ri
 Financial due diligence involves a detailed review of the target company’s financial statements and related financial information to ensure the accuracy and completeness of the financial data presented. 
 
 This step is critical because it helps the buyer understand the target’s financial health, historical performance, and future projections, ensuring that the buyer makes an informed decision about the acquisition.
+
+<p>
+<b>➤ MORE: </b> <a href="/mergers-and-acquisitions/due-diligence/financials/" target="_blank">Confirm the accuracy and completeness of any business's financial data</a>
+</p>
 
 ### Review Audited Financial Statements (last 3-5 years):
 
@@ -137,6 +141,10 @@ Tax compliance and liabilities review focuses on evaluating the target company's
 
 This step is vital to identify any tax risks and ensure that the acquisition does not result in unexpected tax liabilities.
 
+<p>
+<b>➤ MORE: </b> <a href="/mergers-and-acquisitions/due-diligence/tax-compliance-liabilities/" target="_blank">Prevent unexpected liabilities in a business acquision</a>
+</p>
+
 ### Assess Current and Deferred Tax Liabilities:
 
 Obtain the company’s latest tax returns and financial statements. 
@@ -221,6 +229,10 @@ Asset appraisal and valuation involve determining the fair market value of the t
 
 This process is crucial to ensure that the buyer is paying a fair price for the company and to identify any potential issues related to asset ownership and condition.
 
+<p>
+<b>➤ MORE: </b> <a href="/mergers-and-acquisitions/due-diligence/asset-appraisal-valuation/" target="_blank">Make sure you're paying the right price in any business acquisition</a>
+</p>
+
 ### Verify Existence and Condition of Tangible Assets (properties, equipment, inventory, etc.):
 
 Conduct site visits to inspect physical assets. 
@@ -270,6 +282,10 @@ Evaluating asset liens and encumbrances ensures that assets are free of legal cl
 You should take a keen interest in the extent and quality of the target company’s technology and intellectual property. 
 
 This due diligence will often focus on identifying valuable patents, trademarks, copyrights, and trade secrets, as well as assessing any potential risks related to intellectual property infringement or disputes.
+
+<p>
+<b>➤ MORE: </b> <a href="/mergers-and-acquisitions/due-diligence/technology-intellectual-property/" target="_blank">Discover the potential risks related to IP infringement or disputes</a>
+</p>
 
 ### Review Patents, Patents Pending, Trademarks, Copyrights, & Trade Secrets:
 
@@ -330,6 +346,10 @@ Evaluating IP infringement risks helps identify potential legal and financial li
 The buyer will want to fully understand the target company’s customer base, including the level of concentration of the largest customers as well as the sales pipeline. 
 
 This due diligence will focus on identifying key customers, assessing customer satisfaction, and evaluating any risks related to customer retention.
+
+<p>
+<b>➤ MORE: </b> <a href="/mergers-and-acquisitions/due-diligence/customers-sales/" target="_blank">Uncover any risks associated with customer dependency and retention</a>
+</p>
 
 ### Identify Top Customers and Revenue Concentration:
 
