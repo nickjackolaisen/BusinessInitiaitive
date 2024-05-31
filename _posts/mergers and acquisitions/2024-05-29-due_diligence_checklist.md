@@ -2,7 +2,7 @@
 title: "The Ultimate Due Diligence Checklist"
 layout: post
 date: 2024-05-29
-update_date: 2024-05-30
+update_date: 2024-05-31
 author: jack_nicholaisen
 summary: "Master M&A with our Ultimate Due Diligence Checklist. Evaluate financials, operations, and legal matters to avoid liabilities and mitigate risks!"
 thumbnail: /images/posts-headers/m-and-a/m-and-a-due-diligence-checklist-header.png
@@ -402,6 +402,10 @@ Assessing the strategic fit and planning for post-merger integration is crucial 
 This involves evaluating how well the target company aligns with the your strategic goals and planning the integration process.
 
 Understanding these aspects helps in identifying potential challenges and developing strategies to achieve a smooth transition.
+
+<p>
+<b>➤ MORE: </b> <a href="/mergers-and-acquisitions/due-diligence/strategic-compatibility/" target="_blank">Ensure a perfect fit between your organization and the business you plan to buy</a>
+</p>
 
 ### Assess Strategic Alignment:
 
