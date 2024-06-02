@@ -1,0 +1,63 @@
+
+- question: "Why is reviewing general liability insurance important in M&A?"
+  simple_answer:
+    - "It helps identify potential financial liabilities and ensures compliance."
+  extended_answers:
+    - "Reviewing general liability insurance is crucial for identifying potential financial liabilities that could affect the transaction."
+    - "This review ensures the company’s coverage aligns with industry standards."
+    - "It provides peace of mind that the business is adequately protected against common risks like bodily injury, property damage, and personal injury claims."
+    - "This due diligence step is essential for assessing the overall risk profile of the target company."
+
+- question: "What does Directors and Officers (D&O) insurance cover?"
+  simple_answer:
+    - "D&O insurance protects company leaders from personal liability."
+  extended_answers:
+    - "Directors and Officers (D&O) insurance provides coverage for the personal liability of a company's directors and officers arising from their decisions and actions in their official capacities."
+    - "This insurance is vital as it helps protect the personal assets of company leaders and covers legal fees, settlements, and other costs associated with lawsuits alleging wrongful acts such as breach of duty, negligence, and mismanagement."
+    - "Ensuring adequate D&O coverage is in place can attract and retain top executive talent."
+  link: "https://www.acc.com"
+
+- question: "How does intellectual property insurance benefit a business?"
+  simple_answer:
+    - "It protects the company's IP assets from infringement and legal disputes."
+  extended_answers:
+    - "Intellectual property (IP) insurance provides financial protection against the costs of legal disputes related to patents, trademarks, copyrights, and other IP assets."
+    - "This coverage is crucial for businesses with significant IP holdings as it ensures they can defend their innovations and maintain their competitive advantage without bearing crippling legal costs."
+    - "Proper IP insurance can also support the valuation of the company’s intangible assets during an acquisition."
+  link: "https://www.wipo.int"
+
+- question: "What are the key steps in assessing employee liability and worker’s compensation insurance?"
+  simple_answer:
+    - "Review policies, verify coverage limits, and compare to industry standards."
+  extended_answers:
+    - "To assess employee liability and worker’s compensation insurance, start by obtaining and reviewing all relevant policies to understand coverage limits, deductibles, and exclusions."
+    - "Verify these details against industry standards to ensure adequacy."
+    - "Additionally, analyze the company's claims history to identify any recurring issues or risks."
+    - "This assessment ensures compliance with state and federal regulations, mitigates financial risks related to employee claims, and enhances workplace safety and trust."
+  link: "https://www.osha.gov"
+
+- question: "Why is key man insurance critical for some companies?"
+  simple_answer:
+    - "It protects against the financial impact of losing essential personnel."
+  extended_answers:
+    - "Key man insurance is critical for companies heavily reliant on a few key individuals."
+    - "This insurance provides financial protection in the event of the death or disability of a critical executive, ensuring business continuity and stability during a potentially disruptive period."
+    - "It covers costs associated with finding and training a replacement and can provide a financial buffer to maintain operations."
+    - "This coverage is particularly important in industries where specific skills or knowledge are crucial to the company's success."
+
+- question: "What are umbrella insurance policies and why are they important?"
+  simple_answer:
+    - "They provide additional coverage beyond standard policies."
+  extended_answers:
+    - "Umbrella insurance policies offer extra liability coverage that goes beyond the limits of the company's primary insurance policies, such as general liability, auto liability, and employers' liability."
+    - "These policies are important because they provide additional protection against large and unexpected claims, ensuring comprehensive coverage for various risks."
+    - "This added layer of security can be crucial in safeguarding the company’s financial health and stability, particularly in high-risk industries or scenarios involving substantial claims."
+  link: "https://www.iii.org"
+
+- question: "How often should a company review its insurance policies?"
+  simple_answer:
+    - "At least annually or whenever there are significant changes in the business."
+  extended_answers:
+    - "A company should review its insurance policies at least annually to ensure coverage remains adequate and up-to-date with the current business environment."
+    - "Additionally, policies should be reviewed whenever there are significant changes in the business, such as mergers, acquisitions, expansion into new markets, or the introduction of new products or services."
+    - "Regular reviews help identify any coverage gaps, adjust limits as needed, and ensure compliance with evolving regulations and industry standards."

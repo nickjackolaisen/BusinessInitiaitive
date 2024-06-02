@@ -1,0 +1,50 @@
+
+- question: "What is M&A due diligence?"
+  simple_answer:
+    - "It’s a process to evaluate a company before acquisition."
+    - "It involves reviewing financial, legal, and operational aspects."
+  extended_answers:
+    - "M&A due diligence is a comprehensive process undertaken by a buyer to thoroughly investigate a target company before completing a merger or acquisition."
+    - "This process includes reviewing financial statements, legal documents, corporate governance records, and operational procedures to ensure that the buyer is fully informed about the target company's condition."
+    - "Due diligence helps identify potential risks, liabilities, and areas of concern that could affect the transaction's value or feasibility."
+    - "Key areas of focus include financial health, compliance with laws, market position, intellectual property, and human resources."
+
+- question: "Why is reviewing charter documents important in M&A?"
+  simple_answer:
+    - "It confirms the company’s legal structure and compliance."
+    - "It ensures the company operates according to its founding documents."
+  extended_answers:
+    - "Reviewing charter documents is crucial in M&A due diligence because it verifies that the target company is legally constituted and compliant with all relevant regulations."
+    - "These documents, including the certificate of incorporation and bylaws, provide insights into the company's governance framework and operational practices."
+    - "Ensuring these documents are up-to-date and aligned with current laws reduces legal risks and ensures the company is operating within its legal boundaries."
+    - "Any discrepancies or outdated provisions can signal potential issues that need to be addressed before finalizing the acquisition."
+
+- question: "How do good standing certificates affect M&A transactions?"
+  simple_answer:
+    - "They confirm compliance with state requirements."
+    - "They ensure the company is authorized to do business."
+  extended_answers:
+    - "Good standing certificates are essential in M&A transactions as they confirm that the company meets all state filing requirements and is authorized to conduct business."
+    - "These certificates provide assurance that the company is in compliance with state regulations, which is critical for avoiding legal and financial penalties."
+    - "Regularly obtaining and verifying these certificates ensures ongoing compliance and reduces the risk of any legal hurdles during the acquisition process."
+    - "For more information, you can refer to the Secretary of State Filings at the [NASS website](https://www.nass.org/business-services/corporations)."
+
+- question: "What should I consider when reviewing stockholder agreements?"
+  simple_answer:
+    - "Identify any restrictions on share transfers."
+    - "Examine how voting rights are allocated."
+  extended_answers:
+    - "When reviewing stockholder agreements, it is crucial to identify any restrictions on the transfer of shares and other significant obligations that could impact ownership."
+    - "These agreements detail the rights and obligations of stockholders, including how voting rights are allocated and any restrictions on share transfers."
+    - "Understanding these provisions helps in assessing the control dynamics within the company and identifying any potential conflicts or issues that could arise post-acquisition."
+    - "Reviewing these agreements thoroughly ensures that there are no hidden surprises that could affect the transaction."
+
+- question: "Why is it important to verify stock option plans during due diligence?"
+  simple_answer:
+    - "To assess potential share dilution."
+    - "To evaluate the company's ability to attract and retain talent."
+  extended_answers:
+    - "Verifying stock option plans during due diligence is important to assess the potential dilution of shares and understand the company's approach to attracting and retaining talent."
+    - "Stock option plans and related agreements provide insights into the number of shares reserved for these plans, the terms and conditions of vesting, and how competitive these plans are within the industry."
+    - "This information helps evaluate the financial implications of these plans and their impact on the company's equity structure."
+    - "It also ensures that the company can continue to attract and retain key talent, which is crucial for its long-term success."
