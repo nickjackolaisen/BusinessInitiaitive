@@ -641,6 +641,10 @@ This section involves a thorough review of all pending, threatened, or settled l
 
 Identifying and understanding these issues helps in evaluating potential risks and liabilities that could affect the transaction.
 
+<p>
+<b>➤ MORE: </b> <a href="/mergers-and-acquisitions/due-diligence/litigation-and-legal/" target="_blank">Ensure the company you're looking to purchase doesn't have any red flags...</a>
+</p>
+
 ### Review Pending, Threatened, or Settled Litigation
 
 Pending, threatened, or settled litigation can have significant financial and reputational impacts on a company. 
@@ -746,6 +750,10 @@ Determine any corrective actions the company has taken to address non-compliance
 Understanding the operational efficiency and risks of a target company is crucial in the due diligence process. 
 
 This involves analyzing the company's workflows, IT systems, cybersecurity measures, and internal control systems to identify areas of improvement and potential risks. 
+
+<p>
+<b>➤ MORE: </b> <a href="/mergers-and-acquisitions/due-diligence/operational-efficiency-and-risks/" target="_blank">Analyze your target company's workflows and make sure their systems run like they say they do...</a>
+</p>
 
 ### Analyze Operational Workflows and Efficiency
 
@@ -858,6 +866,10 @@ Identify areas for improvement and implement necessary changes.
 Antitrust and regulatory scrutiny of acquisitions has been increasing in recent years. 
 
 You will want to assess the antitrust or regulatory implications of a potential deal.
+
+<p>
+<b>➤ MORE: </b> <a href="/mergers-and-acquisitions/due-diligence/antitrust-and-regulation/" target="_blank">Make sure the business you're looking to purchase is following the rules of their industry</a>
+</p>
 
 ### Analyze Scope of Antitrust Issues:
 
