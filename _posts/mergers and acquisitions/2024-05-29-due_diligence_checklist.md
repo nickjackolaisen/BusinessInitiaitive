@@ -2,7 +2,7 @@
 title: "The Ultimate Due Diligence Checklist"
 layout: post
 date: 2024-05-29
-update_date: 2024-05-31
+update_date: 2024-06-02
 author: jack_nicholaisen
 summary: "Master M&A with our Ultimate Due Diligence Checklist. Evaluate financials, operations, and legal matters to avoid liabilities and mitigate risks!"
 thumbnail: /images/posts-headers/m-and-a/m-and-a-due-diligence-checklist-header.png
@@ -548,6 +548,10 @@ Adjust strategies as needed based on feedback and performance data.
 One of the most time-consuming but critical components of a due diligence inquiry is the review of all material contracts and commitments of the target company. 
 
 The categories of contracts that are important to review and understand include customer and supplier contracts, employment agreements, and any other significant agreements.
+
+<p>
+<b>➤ MORE: </b> <a href="/mergers-and-acquisitions/due-diligence/material-contracts/" target="_blank">Analyze the contractual agreements of the business you are looking to purchase to ensure their relationships are in good standing.</a>
+</p>
 
 ### Review Customer and Supplier Contracts:
 

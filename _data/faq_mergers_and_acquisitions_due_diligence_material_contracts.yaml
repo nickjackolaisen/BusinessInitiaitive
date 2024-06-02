@@ -1,0 +1,80 @@
+
+- question: "Why is reviewing customer and supplier contracts important in M&A?"
+  simple_answer:
+    - "It helps identify the stability of business relationships and potential risks."
+  extended_answers:
+    - "Reviewing customer and supplier contracts is crucial because it provides insights into the stability and reliability of key business relationships."
+    - "These contracts often include terms that can significantly impact the continuity of revenue streams and supply chains post-acquisition."
+    - "By identifying any unfavorable terms or change-of-control provisions, you can mitigate risks and ensure a smooth transition."
+    - bullet_points:
+        - "Stability of business relationships."
+        - "Identification of potential risks."
+        - "Impact on revenue streams and supply chains."
+        - "Mitigation of unfavorable terms."
+  link: "https://www.contractworks.com/"
+
+- question: "What should I look for in employment agreements during due diligence?"
+  simple_answer:
+    - "Focus on compensation, benefits, termination provisions, and retention clauses."
+  extended_answers:
+    - "When reviewing employment agreements, key elements to examine include compensation packages, benefits, termination provisions, and any non-compete or non-solicitation clauses."
+    - "Understanding these details helps ensure key employees are retained post-acquisition and identifies potential liabilities related to severance obligations."
+    - "Special retention or incentive agreements should also be assessed to maintain continuity and expertise within the workforce."
+    - bullet_points:
+        - "Compensation packages."
+        - "Benefits and perks."
+        - "Termination provisions."
+        - "Non-compete and non-solicitation clauses."
+        - "Retention or incentive agreements."
+  link: "https://www.shrm.org/"
+
+- question: "How do change-of-control provisions affect M&A deals?"
+  simple_answer:
+    - "They can alter or terminate contracts if the company is acquired."
+  extended_answers:
+    - "Change-of-control provisions are clauses in contracts that may be triggered by an acquisition, potentially altering or terminating the agreement."
+    - "These provisions are designed to protect the interests of the other party in the contract and can significantly impact the value and stability of the transaction."
+    - "Identifying and understanding these provisions early in the due diligence process is essential to prevent any surprises and ensure a smooth acquisition."
+  link: "https://www.americanbar.org/groups/business_law/"
+
+- question: "What are partnership and joint venture agreements?"
+  simple_answer:
+    - "They are agreements outlining terms of collaboration between businesses."
+  extended_answers:
+    - "Partnership and joint venture agreements define the terms and conditions of collaborative efforts between businesses, including profit-sharing, management responsibilities, and decision-making processes."
+    - "These agreements help establish clear expectations and responsibilities, reducing the risk of conflicts and ensuring a smooth operational relationship."
+    - "Reviewing these agreements during due diligence provides a comprehensive understanding of the company's external collaborations and potential risks."
+    - bullet_points:
+        - "Profit-sharing arrangements."
+        - "Management responsibilities."
+        - "Decision-making processes."
+        - "Risk reduction."
+  link: "https://www.legaltemplates.net/"
+
+- question: "Why is it essential to evaluate termination clauses in contracts?"
+  simple_answer:
+    - "To understand potential liabilities and penalties."
+  extended_answers:
+    - "Termination clauses specify the conditions under which a contract can be ended and the associated penalties or obligations."
+    - "Evaluating these clauses is essential to identify potential liabilities that could arise if contracts are terminated prematurely."
+    - "This understanding helps in assessing the financial impact and negotiating terms that protect the acquiring company’s interests."
+    - bullet_points:
+        - "Conditions for contract termination."
+        - "Associated penalties or obligations."
+        - "Potential liabilities."
+        - "Financial impact assessment."
+  link: "https://www.diligent.com/"
+
+- question: "How can I use self-assessment questions during due diligence?"
+  simple_answer:
+    - "They help evaluate readiness and uncover potential issues."
+  extended_answers:
+    - "Self-assessment questions are a valuable tool during due diligence, helping to systematically evaluate the target company's contracts and agreements."
+    - "These questions guide you in identifying key terms, potential risks, and areas that require further investigation, ensuring a thorough and effective due diligence process."
+    - "Using these questions can uncover hidden liabilities and provide a clear picture of the company's contractual landscape."
+    - bullet_points:
+        - "Evaluate readiness."
+        - "Identify key terms."
+        - "Spot potential risks."
+        - "Uncover hidden liabilities."
+  link: "https://www.contractworks.com/"
