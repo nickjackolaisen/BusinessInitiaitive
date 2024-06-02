@@ -587,6 +587,10 @@ The buyer will want to review a number of matters to understand the quality of t
 
 This includes assessing the management team, labor relations, and employee benefits.
 
+<p>
+<b>➤ MORE: </b> <a href="/mergers-and-acquisitions/due-diligence/employees-management/" target="_blank">Double checking how the company is organized before purchasing ensures you understand the key components and can keep the fundemental positions in the company filled with the right people.</a>
+</p>
+
 ### Review Management Organization Chart and Biographies:
 
 Obtain the management organization chart and biographies of key executives. 

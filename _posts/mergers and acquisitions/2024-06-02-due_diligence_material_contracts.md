@@ -213,7 +213,7 @@ These agreements outline profit-sharing arrangements, management responsibilitie
 
 - [Resources on Managing Business Relationships](https://www.business.com/)
 
-## FAQs - Frequently Asked Questions About INSERTTOPICHERE
+## FAQs - Frequently Asked Questions About Material Contracts
 
 <center>
 <img alt="Business FAQs" src="/images/content/faqs-section.png" title="Common Business Questions" style="width: 63%; height: 63%">
