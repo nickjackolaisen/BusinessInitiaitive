@@ -2,7 +2,7 @@
 layout: page
 title: "Arkansas Business Directory"
 date: 2024-06-02
-update_date: 2024-006-03
+update_date: 2024-06-03
 author: jack_nicholaisen
 summary: "Discover the top business startup services in Arkansas! Your ultimate guide to launching a successful venture."  
 permalink: /directory/arkansas/
