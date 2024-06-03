@@ -1,0 +1,69 @@
+
+- question: "What is property due diligence in M&A?"
+  simple_answer:
+    - "It's the review of all property-related assets and liabilities of the target company."
+  extended_answers:
+    - "Property due diligence involves a thorough review of real estate, equipment, and other tangible assets owned or used by the target company."
+    - "This includes verifying ownership through deeds and titles, examining real estate leases, assessing equipment condition, and analyzing financial leases and sale agreements."
+    - "Ensuring all property aspects are understood helps identify potential risks and provides a clear asset value."
+
+- question: "Why is verifying property ownership important in M&A?"
+  simple_answer:
+    - "It confirms legal ownership and uncovers potential legal obstacles."
+  extended_answers:
+    - "Verifying property ownership through deeds and titles is crucial as it confirms the target company’s legal right to the property."
+    - "This step helps uncover any encumbrances, liens, or legal issues that could affect the property's value or transferability."
+    - "Ensuring clear ownership prevents future legal disputes and provides assurance to the acquiring company."
+
+- question: "What are the key elements to review in real estate leases during M&A?"
+  simple_answer:
+    - "Review rent terms, renewal options, and maintenance responsibilities."
+  extended_answers:
+    - "Key elements to review in real estate leases include the rent amount, duration of the lease, renewal options, and maintenance and repair responsibilities."
+    - "Understanding these terms helps assess the financial impact and operational implications of the leases."
+    - "Comparing lease terms to market rates can provide insights into competitiveness and financial viability."
+
+- question: "How do you assess the condition of a company's equipment during due diligence?"
+  simple_answer:
+    - "Conduct site visits to inspect equipment and review maintenance records."
+  extended_answers:
+    - "Assessing the condition of a company's equipment involves conducting site visits to inspect the physical state and functionality of the assets."
+    - "Reviewing maintenance records helps understand how well the equipment has been maintained and identifies any significant repairs or replacements needed."
+    - "Evaluating the remaining lifespan of key assets provides a clearer picture of future capital expenditure requirements."
+
+- question: "What are financing leases and sale and leaseback agreements?"
+  simple_answer:
+    - "Financing leases are long-term leases used for financing purposes."
+    - "Sale and leaseback agreements involve selling an asset and leasing it back."
+  extended_answers:
+    - "Financing leases are long-term leases where the lessee can use the asset but the lessor retains ownership."
+    - "These leases help finance high-value assets without significant upfront costs."
+    - "Sale and leaseback agreements allow a company to sell an asset to a lessor and then lease it back, providing immediate capital while retaining the use of the asset."
+    - "These arrangements can improve cash flow and financial flexibility, essential for strategic financial planning."
+
+- question: "Why is it important to review conditional sale and operating leases?"
+  simple_answer:
+    - "It helps understand financial obligations and risks, clarifying long-term commitments."
+  extended_answers:
+    - "Conditional sale agreements involve the sale of an asset under specific conditions, usually requiring the buyer to fulfill certain obligations before obtaining full ownership."
+    - "Operating leases are short-term leases that allow the lessee to use the asset without ownership."
+    - "Understanding these terms is crucial for assessing financial and operational commitments."
+    - "Reviewing these agreements ensures all conditions and obligations are clear, aiding in accurate financial planning and risk management."
+
+- question: "How can a thorough property due diligence process benefit an M&A deal?"
+  simple_answer:
+    - "It ensures accurate valuation and identifies potential risks, providing a clear understanding of assets and liabilities."
+  extended_answers:
+    - "A thorough property due diligence process helps accurately value the target company's assets by confirming ownership, assessing property and equipment condition, and understanding financial commitments."
+    - "This process identifies potential risks such as encumbrances or repair needs, allowing the acquiring company to make informed decisions and negotiate better terms."
+    - "Understanding all property aspects ensures a smoother acquisition process, reducing surprises and enhancing strategic planning."
+
+- question: "What resources are available to assist with property due diligence in M&A?"
+  simple_answer:
+    - "Use title reports, property appraisals, and legal reviews, and consult experts."
+  extended_answers:
+    - "Resources to assist with property due diligence include title reports from title companies, property records from the County Assessor’s Office, and real estate appraisals from professional appraisers."
+    - "Legal reviews of deeds, leases, and financial agreements by qualified attorneys are also crucial."
+    - "These resources ensure that all property-related aspects are thoroughly examined, providing a comprehensive understanding of the target company's assets and liabilities."
+
+    
