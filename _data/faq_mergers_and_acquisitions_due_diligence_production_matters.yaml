@@ -1,0 +1,74 @@
+
+- question: "Why is due diligence in production-related matters important in M&A?"
+  simple_answer:
+    - "It ensures operational continuity and identifies potential risks."
+  extended_answers:
+    - "Due diligence in production matters helps identify potential risks and operational inefficiencies."
+    - "It ensures that production processes, supplier relationships, and inventory management are robust and reliable."
+    - "This thorough review can prevent disruptions post-merger, ensuring a smooth transition and integration."
+  link: "/mergers-and-acquisitions/due-diligence/checklist/"
+
+- question: "How do I evaluate the reliability of subcontractors during due diligence?"
+  simple_answer:
+    - "Review their performance data and existing contracts."
+  extended_answers:
+    - "Evaluating subcontractor reliability involves reviewing performance data, customer feedback, and existing contracts."
+    - "Conduct interviews with key personnel to gain deeper insights into subcontractor performance and potential risks."
+    - bullet_points:
+        - "Request a list of significant subcontractors."
+        - "Analyze performance and reliability data."
+        - "Review contract terms and conditions."
+    - "These steps help ensure that subcontractors are reliable and capable of meeting production demands."
+  link: "https://workbuddy.com/blog/subcontractor-management-guide/"
+
+- question: "What should I look for in supplier contracts during M&A due diligence?"
+  simple_answer:
+    - "Focus on key terms, conditions, and potential risks."
+  extended_answers:
+    - "Reviewing supplier contracts involves examining key terms, conditions, pricing structures, and termination clauses."
+    - "Identify any unfavorable conditions or risks that could impact the supply chain."
+    - "Assess supplier performance and explore alternative suppliers to mitigate risks."
+    - bullet_points:
+        - "Obtain copies of major supplier contracts."
+        - "Analyze terms for potential risks."
+        - "Consider alternative suppliers for risk mitigation."
+  link: "https://www.contractscounsel.com/b/contract-review-checklist"
+
+- question: "How can I improve manufacturing yields during an acquisition?"
+  simple_answer:
+    - "Identify and address bottlenecks in production processes."
+  extended_answers:
+    - "Improving manufacturing yields involves analyzing monthly yield summaries and identifying bottlenecks in production."
+    - "Implement strategies to enhance efficiency, such as optimizing workflows and investing in quality control measures."
+    - bullet_points:
+        - "Request monthly manufacturing yield summaries."
+        - "Identify trends and bottlenecks."
+        - "Implement efficiency improvements and quality control measures."
+  link: "https://www.sweetprocess.com/process-improvement-methodologies"
+
+- question: "Why is inventory management important in M&A due diligence?"
+  simple_answer:
+    - "It helps maintain optimal stock levels and meet customer demands."
+  extended_answers:
+    - "Effective inventory management ensures that the company can meet customer demands without excess stock or shortages."
+    - "Reviewing inventory reports helps identify potential issues and implement improvements."
+    - "Maintaining optimal inventory levels reduces costs and enhances operational efficiency."
+    - bullet_points:
+        - "Obtain copies of inventory reports."
+        - "Analyze current inventory levels and backlogs."
+        - "Identify and address inventory management issues."
+  link: "https://www.netsuite.com/portal/resource/articles/inventory-management/inventory-management-tips.shtml"
+
+- question: "What role do product service programs play in M&A due diligence?"
+  simple_answer:
+    - "They impact customer satisfaction and loyalty."
+  extended_answers:
+    - "Product service programs are crucial for maintaining customer satisfaction and loyalty post-acquisition."
+    - "Evaluating these programs helps identify areas for improvement and ensure effective after-sales support."
+    - "Strong service programs can significantly enhance customer loyalty and repeat business."
+    - bullet_points:
+        - "Review existing service programs and contracts."
+        - "Assess service effectiveness through customer feedback."
+        - "Identify and implement improvements in service programs."
+  link: "https://blog.emb.global/importance-of-after-sales-service/"
+
