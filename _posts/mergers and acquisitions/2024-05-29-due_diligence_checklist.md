@@ -2,7 +2,7 @@
 title: "The Ultimate Due Diligence Checklist"
 layout: post
 date: 2024-05-29
-update_date: 2024-06-02
+update_date: 2024-06-04
 author: jack_nicholaisen
 summary: "Master M&A with our Ultimate Due Diligence Checklist. Evaluate financials, operations, and legal matters to avoid liabilities and mitigate risks!"
 thumbnail: /images/posts-headers/m-and-a/m-and-a-due-diligence-checklist-header.png
@@ -905,15 +905,23 @@ Evaluate any national security or foreign investment issues that might impact th
 
 In any acquisition, the buyer will want to undertake a review of key insurance policies of the target company’s business, including general liability, D&O, and other coverage types.
 
+<p>
+<b>➤ MORE: </b> <a href="/mergers-and-acquisitions/due-diligence/insurance/" target="_blank">Understanding what the target company insures and, more importantly, what they don't insure, can help clue you in to their organization practices and their heirarchy of priorities</a>
+</p>
+
 ### Review General Liability Insurance:
 
-Obtain copies of general liability insurance policies. Verify coverage limits, deductibles, and any exclusions. 
+Obtain copies of general liability insurance policies. 
+
+Verify coverage limits, deductibles, and any exclusions. 
 
 Reviewing general liability insurance helps assess the company’s protection against common business risks.
 
 ### Evaluate Directors and Officers (D&O) Insurance:
 
-Obtain copies of D&O insurance policies. Verify coverage limits, deductibles, and any exclusions. 
+Obtain copies of D&O insurance policies. 
+
+Verify coverage limits, deductibles, and any exclusions. 
 
 Evaluating D&O insurance helps protect the company’s leadership against personal liability.
 
@@ -955,6 +963,10 @@ Counsel for the buyer will invariably undertake a careful review of the organiza
 
 This includes verifying the company’s legal structure, shareholder agreements, and other corporate governance matters.
 
+<p>
+<b>➤ MORE: </b> <a href="/mergers-and-acquisitions/due-diligence/corporate-matters/" target="_blank">Examining the business's ability to adhere to their modus operandi will reveal how well they follow through with their plans</a>
+</p>
+
 ### Review Charter Documents:
 
 Obtain and review the company’s charter documents (certificate of incorporation, bylaws, etc.).
@@ -995,6 +1007,10 @@ You'll want to analyze any potential environmental issues the target company may
 
 This review includes assessing compliance with environmental regulations and potential liabilities.
 
+<p>
+<b>➤ MORE: </b> <a href="/mergers-and-acquisitions/due-diligence/environmental/" target="_blank">Looking at the target company's adherance to environmental policies can help you see if their methods align with your organization's standards</a>
+</p>
+
 ### Review Environmental Audits and Reports:
 
 Obtain environmental audits, records, and reports for each owned or leased property. 
@@ -1033,6 +1049,10 @@ This helps assess the potential long-term risks.
 
 You should understand the extent of any "related party" transactions, such as agreements or arrangements between the target company and any current or former officer, director, stockholder, or employee.
 
+<p>
+<b>➤ MORE: </b> <a href="/mergers-and-acquisitions/due-diligence/related-party-transactions/" target="_blank">Looking at a business's internal relationships will help you uncover potential conflicts of interest</a>
+</p>
+
 ### Identify Direct or Indirect Interests:
 
 Review any direct or indirect interests of officers, directors, stockholders, or employees in any business that competes with or does business with the company. 
@@ -1066,6 +1086,10 @@ This helps ensure transparency and reduce legal risks.
 The buyer will be interested in understanding the extent to which the target company is subject to and has complied with regulatory requirements. 
 
 This includes a review of citations, pending investigations, and other regulatory matters.
+
+<p>
+<b>➤ MORE: </b> <a href="/mergers-and-acquisitions/due-diligence/regulations-filings-legal-compliance/" target="_blank">Checking out a business's legal compliance will help ensure their reliability</a>
+</p>
 
 ### Review Citations and Notices from Government Agencies:
 
@@ -1106,6 +1130,10 @@ This helps understand the financial impact of maintaining compliance.
 A review of all property owned by the target company or otherwise used in the business is an essential part of any due diligence investigation. 
 
 This includes real estate, equipment, and other tangible assets.
+
+<p>
+<b>➤ MORE: </b> <a href="/mergers-and-acquisitions/due-diligence/property/" target="_blank">Understanding the hard assets a company holds will help you better determine a fair price for the acquisition</a>
+</p>
 
 ### Review Deeds and Titles:
 
@@ -1149,6 +1177,10 @@ Depending on the nature of the target company’s business, the buyer will often
 
 This includes assessing suppliers, inventory, and manufacturing processes.
 
+<p>
+<b>➤ MORE: </b> <a href="/mergers-and-acquisitions/due-diligence/production-matters/" target="_blank">Knowing where a company gets their materials will give you insight into the quality of their products</a>
+</p>
+
 ### Review List of Significant Subcontractors:
 
 Obtain a list of the company’s most significant subcontractors, including the dollar volume of business and the type of services or products supplied. 
@@ -1188,6 +1220,10 @@ This helps evaluate the company's after-sales support andr satisfaction.
 As part of due diligence, the buyer will want to understand the target company’s marketing strategies and arrangements. 
 
 This includes reviewing sales representative agreements, distributor agreements, and other marketing-related contracts.
+
+<p>
+<b>➤ MORE: </b> <a href="/mergers-and-acquisitions/due-diligence/marketing-arrangements/" target="_blank">Examine the target company's entire marketing and advertisiting structure</a>
+</p>
 
 ### Review Sales Representative and Distributor Agreements:
 
@@ -1231,6 +1267,10 @@ The buyer will want to understand the competitive environment in which the targe
 
 This includes analyzing the company’s principal competitors, market position, and potential threats.
 
+<p>
+<b>➤ MORE: </b> <a href="/mergers-and-acquisitions/due-diligence/competitive-landscape/" target="_blank">Looking at the target company's competition will help you gauge their potential for growth</a>
+</p>
+
 ### Identify Principal Competitors:
 
 List the company’s main competitors and analyze their strengths and weaknesses. 
@@ -1272,6 +1312,10 @@ Understanding the media and public perception of the target company is essential
 This involves reviewing news and literature, analyzing social media profiles and open-source information, and assessing the potential impact on the company's brand and reputation. 
 
 A thorough analysis helps identify any public relations issues or reputational risks that could affect the acquisition.
+
+<p>
+<b>➤ MORE: </b> <a href="/mergers-and-acquisitions/due-diligence/media-public-perception/" target="_blank">Looking at a business's standing in the eyes of the consumer will help you identify any red flags</a>
+</p>
 
 ### Review News and Literature for Public Perception Analysis
 
