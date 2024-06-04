@@ -17,7 +17,7 @@
     - "Focus on recent coverage to understand current public perception."
     - "Evaluate the sentiment of the media coverage to determine whether it is positive, negative, or neutral."
     - "Identify recurring themes, key events, and issues that have received significant media attention."
-    - link: "https://news.google.com/"
+  link: "https://news.google.com/"
 
 - question: "What tools can I use for social media monitoring?"
   simple_answer:
@@ -27,7 +27,7 @@
     - "Hootsuite allows you to track mentions, engagement, and sentiment across multiple social media platforms."
     - "Brandwatch provides deep insights into consumer sentiment and trends by analyzing social media data and user-generated content."
     - "These tools help identify trending topics, hashtags, and discussions related to the target company."
-    - link: "https://hootsuite.com/"
+  link: "https://hootsuite.com/"
 
 - question: "How can I assess the reputational risks of a target company?"
   simple_answer:
@@ -37,7 +37,7 @@
     - "Analyze social media sentiment using tools like Hootsuite to understand public opinion and potential controversies."
     - "Gather open-source information from forums, blogs, and online communities to identify additional insights or issues not covered in mainstream media."
     - "Evaluate the company's past responses to public relations crises to assess their crisis management capabilities."
-    - link: "https://www.brandwatch.com/"
+  link: "https://www.brandwatch.com/"
 
 - question: "What steps should I take to evaluate a company's crisis management capabilities?"
   simple_answer:
@@ -48,7 +48,7 @@
     - "Look for patterns in how the company addresses and resolves issues, including the speed and transparency of their communication."
     - "Effective crisis management often includes proactive planning, clear communication strategies, and engagement with stakeholders to restore trust."
     - "Consider using case studies and reports from reputable sources like Harvard Business Review for more detailed analysis."
-    - link: "https://hbr.org/2023/12/corporate-crises-and-reputational-recovery-have-changed"
+  link: "https://hbr.org/2023/12/corporate-crises-and-reputational-recovery-have-changed"
 
 - question: "What are the benefits of comparing the target company's media coverage with industry peers?"
   simple_answer:
@@ -58,5 +58,5 @@
     - "This comparison provides a benchmark for understanding the target company's standing within the industry."
     - "It highlights unique challenges or advantages that the target company may have, offering valuable insights for developing acquisition strategies."
     - "Understanding these differences can help you better anticipate potential issues and opportunities."
-    - link: "https://www.meltwater.com/en/media-monitoring"
+  link: "https://www.meltwater.com/en/media-monitoring"
 
