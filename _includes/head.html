@@ -73,7 +73,7 @@
     <meta name="twitter:description" content="{% if page.summary %}{{ page.summary | xml_escape }}{% else %}{{ site.description | xml_escape }}{% endif %}" />
     <meta name="twitter:url" content="{{ site.url }}{{ page.url }}" />
     {% if site.post_preview_image %}
-    <meta name="twitter:image" content="{{ site.url }}/images/busniess-initiative-full-logo-twitter.png" />
+    <meta name="twitter:image" content="{{ site.url }}{% if page.image %}{{ page.image | xml_escape}}{% else %}/images/busniess-initiative-full-logo-twitter.png{% endif %}" />
     {% endif %}
 
     <!-- Icons -->
