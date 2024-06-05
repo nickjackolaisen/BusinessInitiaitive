@@ -4,7 +4,7 @@ email:       nickjackolaisen@gmail.com
 author:      Jack Nicholaisen
 description: "Business Initiative gives entrepreneurs the information necessary to grow their businesses clearly and confidently."
 url:         "https://www.businessinitiative.org"
-image:       images/busniess-initiative-full-logo-white-square.png
+image:       /images/busniess-initiative-full-logo-white-square.png
 date_format: "%b %-d, %Y"
 header_pages:
  - pages/stats.html
