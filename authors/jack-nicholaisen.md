@@ -9,7 +9,7 @@ Hello, my name is Jack.
 <p>
 I started <a href="https://www.businessinitiative.org/"> Business Initiative</a> in 2020 (Formerly llcpalace.com). All of this came after I had wanted to start my own LLC for a clothing business. I was disappointed in how complicated and unclear the information was about limited liability companies. 
 </p>
-<p>Since then, I have spent the last four years researching everything there is to know about this business structure and other types of businesses. I have dug through all of the mess of information and am presenting it in the most clear and organized way to help others in their entrepreneurial journeys. 
+<p>Since then, I have spent the last five years researching everything there is to know about this business structure and other types of businesses. I have dug through all of the mess of information and am presenting it in the most clear and organized way to help others in their entrepreneurial journeys. 
 </p>
 <p>
 Here is a little bit about my background and a few of my experiences:
@@ -43,10 +43,10 @@ Attended Milwaukee School of Engineering (MSOE) and rowed on the <a href="https:
 </center>
 
 <p>
-I am learning in Jerusalem, Israel, in Yeshiva Aish HaTorah. When I am not working on Business Initiatives, I am learning Jewish Law. I guess that's what piqued my interest in learning about business law and trying to simplify all of the complicated rules and terminology. I must say it's a lot easier to do it in English than it is in 2000-year-old Aramaic.
+I learned in a Yeshiva in Jerusalem, Israel, for over 4 years. When I am not working on Business Initiative, I am learning Jewish Law. I guess that's what piqued my interest in learning about business law and trying to simplify all of the complicated rules and terminology. I must say it's a lot easier to do it in English than it is in 2000-year-old Aramaic.
 </p>
 
 Follow me on X (Twitter) 
 <br>
-<a href="https://twitter.com/twitter?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @twitter</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/x?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @x</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
