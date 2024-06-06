@@ -125,7 +125,7 @@ text:
       sending:  'sending..'
       sent:     'Message sent!'
       error:    'Error!'
-  thanks: 'Thanks for reaching out! Check your inbox for a confirmation email and we will get back to you within 72 hours.'
+  thanks: 'Thank yourself for taking the Initiative! Check your inbox for a confirmation email.'
   og_locale: 'en_US'
 
 # Build settings
