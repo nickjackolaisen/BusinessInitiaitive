@@ -796,7 +796,8 @@ Stay updated with the latest insights by subscribing to the Initiative Newslette
 <a href="https://twitter.com/intent/tweet?screen_name=BisInitiative&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-size="large" data-show-count="false">Tweet to @BisInitiative</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <br>
 
-<iframe src="https://embeds.beehiiv.com/e19ce286-1d77-44e9-b09f-22d4f7c6f0bf" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
+<iframe src="https://embeds.beehiiv.com/4b55f309-919b-4f27-82e1-28bfbbc3543f" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
+
 <br>
 
 ## Future Trends
@@ -920,7 +921,8 @@ The research methodology involved several key steps:
 By adhering to this rigorous research methodology, the analysis presented in this article is both reliable and relevant, providing valuable insights for business owners considering the strategic benefits of hiring a CDO.
 <br>
 
-<iframe src="https://embeds.beehiiv.com/e19ce286-1d77-44e9-b09f-22d4f7c6f0bf" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
+<iframe src="https://embeds.beehiiv.com/4b55f309-919b-4f27-82e1-28bfbbc3543f" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
+
 
 <br>
 

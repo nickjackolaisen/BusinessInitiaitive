@@ -193,7 +193,8 @@ Don't wait...
 
 <a href="https://calendly.com/businessinitiative/30-minute-consultation-call" _targetblank="">Schedule a consultation call</a> to start implementing these strategies today and unlock your LLC's financial potential!
 
-<iframe src="https://embeds.beehiiv.com/e19ce286-1d77-44e9-b09f-22d4f7c6f0bf" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
+<iframe src="https://embeds.beehiiv.com/4b55f309-919b-4f27-82e1-28bfbbc3543f" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
+
 
 
 <br>

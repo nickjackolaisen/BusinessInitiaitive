@@ -137,7 +137,8 @@ It could provide the perfect foundation for your business's success.
 <a href="https://calendly.com/businessinitiative/30-minute-consultation-call" target="_blank"><b>Schedule a free professional consultation</b></a> to determine if an LLC is the right choice for your business, and embark on your journey towards growth and success.
 <br>
 
-<iframe src="https://embeds.beehiiv.com/e19ce286-1d77-44e9-b09f-22d4f7c6f0bf" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
+<iframe src="https://embeds.beehiiv.com/4b55f309-919b-4f27-82e1-28bfbbc3543f" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
+
 
 <br>
 <details>
