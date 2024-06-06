@@ -1,8 +1,8 @@
 ---
-title: "CDO Salary Analysis: How Company Size, Industry, and Location Affect Pay"
+title: "CDO Salary Analysis: How Company Size, Industry, and Location Affect Compensation"
 layout: post
 date: 2024-06-05
-update_date:
+update_date: 2024-06-06
 author: jack_nicholaisen
 summary: "Discover how Chief Data Officer salaries vary by company size, experience, industry, and location. Unlock insights to attract top talent and drive business success." 
 thumbnail: /images/posts-headers/cdo-salary-business-size-header.png
