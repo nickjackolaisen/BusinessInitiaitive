@@ -2,7 +2,7 @@
 title: "Marketing & Advertising Arrangements| Comprehensive Guide to M&A Due Diligence"
 layout: post
 date: 2024-06-03
-update_date: 
+update_date: 2024-06-09
 author: jack_nicholaisen
 summary: "Discover essential steps for effective marketing due diligence in M&A. Enhance your acquisition strategy with this comprehensive guide."
 thumbnail: /images/posts-headers/m-and-a/m-and-a-due-diligence-marketing-arrangements-header.png
@@ -52,6 +52,10 @@ By scrutinizing these elements, buyers can make informed decisions about the via
 <center>
 <img alt="imagename" src="/images/content/marketing-strategy.png" title="imagetitle" style="width: 63%; height: 63%">
 </center>
+
+<p>
+<b>➤ MORE: </b> <a href="/mergers-and-acquisitions/due-diligence/checklist/" target="_blank">Check out the FULL Due Diligence Checklist here</a>
+</p>
 
 ## Review Sales Representative and Distributor Agreements:
 

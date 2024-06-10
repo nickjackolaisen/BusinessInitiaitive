@@ -2,7 +2,7 @@
 title: "Mastering Related Party Transactions | Comprehensive Guide to M&A Due Diligence"
 layout: post
 date: 2024-06-02
-update_date: 
+update_date: 2024-06-09
 author: jack_nicholaisen
 summary: "Unlock the secrets of managing related party transactions in M&A due diligence with our comprehensive guide to ensure transparency and compliance."
 thumbnail: /images/posts-headers/m-and-a/m-and-a-due-diligence-related-party-transactions-header.png
@@ -45,6 +45,10 @@ By thoroughly examining these relationships, you can uncover potential conflicts
 <center>
 <img alt="imagename" src="/images/content/handshake.png" title="imagetitle" style="width: 63%; height: 63%">
 </center>
+
+<p>
+<b>➤ MORE: </b> <a href="/mergers-and-acquisitions/due-diligence/checklist/" target="_blank">Check out the FULL Due Diligence Checklist here</a>
+</p>
 
 ## Identify Direct or Indirect Interests:
 

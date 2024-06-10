@@ -2,7 +2,7 @@
 title: "Operational Efficiency & Risk Management | Comprehensive Guide to M&A Due Diligence"
 layout: post
 date: 2024-06-02
-update_date: 
+update_date: 2024-06-09
 author: jack_nicholaisen
 summary: "Discover how to optimize operational efficiency and manage risks effectively during M&A due diligence with our comprehensive guide."
 thumbnail: /images/posts-headers/m-and-a/m-and-a-due-diligence-operational-efficiency-and-risks-header.png
@@ -51,6 +51,10 @@ This section will guide you through the key steps and self-assessment questions 
 <center>
 <img alt="imagename" src="/images/content/risk-avoidance.png" title="imagetitle" style="width: 63%; height: 63%">
 </center>
+
+<p>
+<b>➤ MORE: </b> <a href="/mergers-and-acquisitions/due-diligence/checklist/" target="_blank">Check out the FULL Due Diligence Checklist here</a>
+</p>
 
 ## Analyze Operational Workflows and Efficiency
 

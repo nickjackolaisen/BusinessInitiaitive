@@ -2,7 +2,7 @@
 title: "Understanding Media and Public Perception | Guide to M&A Due Diligence"
 layout: post
 date: 2024-06-03
-update_date: 
+update_date: 2024-06-09
 author: jack_nicholaisen
 summary: "Unlock the secrets of media and public perception in M&A due diligence. Learn how to assess reputational risks and brand impact for successful acquisitions."
 thumbnail: /images/posts-headers/m-and-a/m-and-a-due-diligence-media-public-perception-header.png
@@ -41,6 +41,10 @@ A comprehensive analysis helps identify any public relations issues or reputatio
 <center>
 <img alt="imagename" src="/images/content/news.png" title="imagetitle" style="width: 63%; height: 63%">
 </center>
+
+<p>
+<b>➤ MORE: </b> <a href="/mergers-and-acquisitions/due-diligence/checklist/" target="_blank">Check out the FULL Due Diligence Checklist here</a>
+</p>
 
 ## Review News and Literature for Public Perception Analysis
 

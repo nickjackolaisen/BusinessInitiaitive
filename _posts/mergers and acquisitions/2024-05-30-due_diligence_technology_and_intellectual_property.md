@@ -2,7 +2,7 @@
 title: "Technology and Intellectual Property | Enhancing M&A Due Diligence"
 layout: post
 date: 2024-05-30
-update_date: 
+update_date: 2024-06-09
 author: jack_nicholaisen
 summary: "Enhance your M&A due diligence with this comprehensive guide on evaluating technology and intellectual property to uncover risks and protect your investment."
 thumbnail: /images/posts-headers/m-and-a/m-and-a-due-diligence-technology-and-intellectual-property-header.png
@@ -33,6 +33,10 @@ This due diligence process focuses on verifying the existence, ownership, and pr
 <a id="patents"> 
 
 Thorough scrutiny of these assets can uncover potential risks related to IP infringement or disputes, ensuring a smoother transaction and protecting your investment.
+
+<p>
+<b>➤ MORE: </b> <a href="/mergers-and-acquisitions/due-diligence/checklist/" target="_blank">Check out the FULL Due Diligence Checklist here</a>
+</p>
 
 <center>
 <img alt="Technology and Intellectual Property" src="/images/content/technology.png" title="Evaluating Technology and Intellectual Property" style="width: 63%; height: 63%">

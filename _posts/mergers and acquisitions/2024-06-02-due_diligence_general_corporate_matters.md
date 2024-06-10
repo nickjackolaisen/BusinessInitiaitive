@@ -2,7 +2,7 @@
 title: "Key Steps for Corporate Compliance | Comprehensive Guide to M&A Due Diligence"
 layout: post
 date: 2024-06-02
-update_date: 
+update_date: 2024-06-09
 author: jack_nicholaisen
 summary: "Discover key steps and practical tips for thorough M&A due diligence to ensure corporate compliance and minimize risks in your acquisition process."
 thumbnail: /images/posts-headers/m-and-a/m-and-a-due-diligence-corporate-matters-header.png
@@ -39,6 +39,10 @@ This includes verifying the company’s legal structure, shareholder agreements,
 <center>
 <img alt="imagename" src="/images/content/corporate-workspace.png" title="imagetitle" style="width: 63%; height: 63%">
 </center>
+
+<p>
+<b>➤ MORE: </b> <a href="/mergers-and-acquisitions/due-diligence/checklist/" target="_blank">Check out the FULL Due Diligence Checklist here</a>
+</p>
 
 ## Review Charter Documents:
 

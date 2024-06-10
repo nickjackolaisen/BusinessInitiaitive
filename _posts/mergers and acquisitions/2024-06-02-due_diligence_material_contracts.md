@@ -2,7 +2,7 @@
 title: "Reviewing Material Contracts Effectively | Comprehensive Guide to M&A Due Diligence"
 layout: post
 date: 2024-06-02
-update_date: 
+update_date: 2024-06-09
 author: jack_nicholaisen
 summary: "Master M&A due diligence with our guide. Learn how to effectively review and assess material contracts for a successful acquisition."
 thumbnail: /images/posts-headers/m-and-a/m-and-a-due-diligence-material-contracts-header.png
@@ -51,6 +51,10 @@ By meticulously reviewing material contracts, you can ensure that there are no h
 <center>
 <img alt="imagename" src="/images/content/materials.png" title="imagetitle" style="width: 63%; height: 63%">
 </center>
+
+<p>
+<b>➤ MORE: </b> <a href="/mergers-and-acquisitions/due-diligence/checklist/" target="_blank">Check out the FULL Due Diligence Checklist here</a>
+</p>
 
 ## Review Customer and Supplier Contracts
 

@@ -2,7 +2,7 @@
 title: "Tax Compliance and Liability Essentials | Comprehensive M&A Due Diligence "
 layout: post
 date: 2024-05-30
-update_date: 
+update_date: 2024-06-09
 author: jack_nicholaisen
 summary: "Learn how to master M&A due diligence with our essential guide on tax compliance and liabilities, ensuring a smooth and risk-free acquisition process."
 thumbnail: /images/posts-headers/m-and-a/m-and-a-due-diligence-tax-compliance-and-liability-header.png
@@ -43,15 +43,11 @@ Dive in to gain the insights you need to master M&A due diligence.
 
 Read on to protect your investment and navigate tax complexities with confidence.
 
-<center>
-<img alt="imagename" src="/images/content/taxes.png" title="imagetitle" style="width: 63%; height: 63%">
-</center>
+{% include table-of-contents-box.html bullet1tag="#government-audits" bullet1="Government Audits" bullet2tag="#tax-hisotory" bullet2="Tax History" bullet3tag="#implications" bullet3="Potential Implications" bullet4tag="#carryforwards" bullet4="NOLs & Credit Carryforwards" bullet5tag="#tax-sharing" bullet5="Tax Sharing Agreements" bullet6tag="#transfer-pricing" bullet6="Transfer Pricing Arrangements" %}
 
 Tax compliance and liabilities review focuses on evaluating the target company's tax history, current tax obligations, and potential tax issues. 
 
 This step is crucial to identify any tax risks and ensure that the acquisition does not result in unexpected tax liabilities.
-
-## Tax Compliance and Liabilities
 
 <center>
 <img alt="imagename" src="/images/content/taxes.png" title="imagetitle" style="width: 63%; height: 63%">
@@ -62,6 +58,10 @@ A thorough review of tax compliance and liabilities involves evaluating the targ
 This crucial step helps identify any tax risks and ensures that the acquisition does not result in unexpected tax liabilities. 
 
 Understanding the company's tax position allows for informed decision-making and mitigates financial surprises post-acquisition.
+
+<p>
+<b>➤ MORE: </b> <a href="/mergers-and-acquisitions/due-diligence/checklist/" target="_blank">Check out the FULL Due Diligence Checklist here</a>
+</p>
 
 ## Assess Current and Deferred Tax Liabilities
 
@@ -107,7 +107,8 @@ It also helps in negotiating a fair purchase price and ensures that the buyer is
 
 **Resources:**
 
-- **[IRS Database](https://www.irs.gov/)**: For federal tax filings and issues.
+- **<a href="https://www.irs.gov/" target="_blank">IRS Database</a>**: For federal tax filings and issues.
+<a id="government-audits"> 
 
 - **State Tax Authority Websites**: For state-level tax information.
 
@@ -115,7 +116,7 @@ It also helps in negotiating a fair purchase price and ensures that the buyer is
 
 - **Tax Advisors or Accountants**: For professional insights.
 
-### Analyze Government Audits
+## Analyze Government Audits
 
 Analyzing government audits involves reviewing any audits the company has undergone. 
 
@@ -156,14 +157,15 @@ Knowing the outcomes of these audits helps in evaluating the overall tax risk as
 - How has the company addressed any issues identified in the audits?
 
 **Resources:**
+<a id="tax-hisotory"> 
 
-- **[IRS Audit Information](https://www.irs.gov/businesses/small-businesses-self-employed/understanding-your-irs-audit)**: For understanding audit processes and outcomes.
+- **<a href="https://www.irs.gov/businesses/small-businesses-self-employed/audits-records-request" target="_blank">IRS Audit Information</a>**: For understanding audit processes and outcomes.
 
 - **Company’s Audit Reports**: Provided by the target company.
 
 - **Tax Advisors**: For professional insights on audit outcomes.
 
-### Review Tax Compliance History and Potential Red Flags
+## Review Tax Compliance History and Potential Red Flags
 
 Reviewing the tax compliance history involves obtaining copies of tax filings for the last five years.
 
@@ -215,7 +217,7 @@ It ensures that the company has a clean tax record, which is crucial for the fin
 
 **Resources:**
 
-- **[IRS Filing Information](https://www.irs.gov/filing)**: For filing requirements and history.
+- **<a href="https://www.irs.gov/filing" target="_blank">IRS Filing Information</a>**: For filing requirements and history.
 
 - **State Tax Authority Websites**: For state-level compliance records.
 
@@ -223,7 +225,7 @@ It ensures that the company has a clean tax record, which is crucial for the fin
 
 - **Tax Advisors or Accountants**: For professional assessments.
 
-### Examine Correspondence with Tax Authorities
+## Examine Correspondence with Tax Authorities
 
 Examining correspondence with tax authorities involves obtaining copies of any notices or communications from tax authorities regarding filed tax returns or any tax-related issues. 
 
@@ -264,14 +266,15 @@ It also reveals any ongoing disputes or unresolved issues that could affect the 
 - How frequently does the company communicate with tax authorities?
 
 **Resources:**
+<a id="implications"> 
 
-- **[IRS Notices and Letters](https://www.irs.gov/individuals/understanding-your-irs-notice-or-letter)**: For understanding tax notices and letters.
+- **<a href="https://www.irs.gov/individuals/understanding-your-irs-notice-or-letter" target="_blank">IRS Notices and Letters</a>**: For understanding tax notices and letters.
 
 - **Company’s Correspondence Records**: Provided by the target company.
 
 - **Tax Advisors**: For professional insights on handling tax communications.
 
-### Examine Tax Implications of the Deal
+## Examine Tax Implications of the Deal
 
 Examining the tax implications of the deal involves consulting with tax advisors to analyze potential tax benefits and liabilities. 
 
@@ -313,11 +316,11 @@ It also ensures that any potential tax benefits are maximized, and liabilities a
 
 **Resources:**
 
-- **[IRS Acquisition and Disposition of Businesses](https://www.irs.gov/businesses/small-businesses-self-employed/acquisition-and-disposition-of-businesses)**: For tax implications related to business acquisitions.
+- **<a href="https://www.irs.gov/forms-pubs/about-publication-544" target="_blank">IRS Acquisition and Disposition of Businesses</a>**: For tax implications related to business acquisitions.
 
 - **Tax Advisors**: For professional insights on tax implications and structuring.
 
-### Verify Tax Attributes (e.g., NOLs)
+## Verify Tax Attributes (e.g., NOLs)
 
 Verifying tax attributes involves listing all tax attributes and confirming their availability and usability post-acquisition. 
 
@@ -358,14 +361,15 @@ It ensures that these benefits are maximized and any limitations are identified 
 - How have these attributes been utilized in the past?
 
 **Resources:**
+<a id="carryforwards"> 
 
-- **[IRS Net Operating Losses (NOL) and How to Deduct Them](https://www.irs.gov/newsroom/net-operating-losses-nol-and-how-to-deduct-them)**: For understanding NOLs.
+- **<a href="https://www.irs.gov/newsroom/net-operating-losses" target="_blank">IRS Net Operating Losses (NOL) and How to Deduct Them</a>**: For understanding NOLs.
 
 - **Company’s Tax Records**: Provided by the target company.
 
 - **Tax Advisors**: For professional insights on tax attributes.
 
-### Assess Net Operating Losses and Credit Carryforwards
+## Assess Net Operating Losses and Credit Carryforwards
 
 Assessing net operating losses (NOLs) and credit carryforwards involves identifying these tax attributes and understanding their potential benefits. 
 
@@ -406,14 +410,15 @@ It ensures that these benefits are maximized and any limitations are identified 
 - What is the potential financial impact of these attributes?
 
 **Resources:**
+<a id="tax-sharing"> 
 
-- **[IRS Net Operating Losses (NOL) and How to Deduct Them](https://www.irs.gov/newsroom/net-operating-losses-nol-and-how-to-deduct-them)**: For understanding NOLs.
+- **<a href="https://www.irs.gov/newsroom/net-operating-losses" target="_blank">IRS Net Operating Losses (NOL) and How to Deduct Them</a>**: For understanding NOLs.
 
 - **Company’s Tax Records**: Provided by the target company.
 
 - **Tax Advisors**: For professional insights on tax attributes.
 
-### Review IRS Forms and Tax Sharing Agreements
+## Review IRS Forms and Tax Sharing Agreements
 
 Reviewing IRS forms and tax-sharing agreements involves obtaining copies of all relevant documents and analyzing the terms and conditions of these agreements. 
 
@@ -452,14 +457,15 @@ It ensures that all agreements are clear and any potential issues are identified
 - Have there been any disputes related to these agreements?
 
 **Resources:**
+<a id="transfer-pricing"> 
 
-- **[IRS Forms and Instructions](https://www.irs.gov/forms-instructions)**: For obtaining relevant IRS forms.
+- **<a href="https://www.irs.gov/forms-instructions" target="_blank">IRS Forms and Instructions</a>**: For obtaining relevant IRS forms.
 
 - **Company’s Tax Agreements**: Provided by the target company.
 
 - **Tax Advisors**: For professional insights on tax-sharing agreements.
 
-### Review Tax Sharing and Transfer Pricing Agreements
+## Review Tax Sharing and Transfer Pricing Agreements
 
 Reviewing tax sharing and transfer pricing agreements involves analyzing these agreements to assess potential tax liabilities and ensure compliance with transfer pricing regulations. 
 
@@ -499,7 +505,7 @@ It helps in understanding the financial implications of these agreements and pla
 
 **Resources:**
 
-- **[OECD Transfer Pricing Guidelines](https://www.oecd.org/tax/transfer-pricing/transfer-pricing-guidelines.htm)**: For understanding transfer pricing regulations.
+- **<a href="https://www.oecd.org/tax/transfer-pricing/transfer-pricing-guidelines.htm" target="_blank">OECD Transfer Pricing Guidelines</a>**: For understanding transfer pricing regulations.
 
 - **Company’s Tax Agreements**: Provided by the target company.
 

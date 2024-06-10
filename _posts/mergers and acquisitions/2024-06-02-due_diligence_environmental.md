@@ -2,7 +2,7 @@
 title: "Environmental Due Diligence | Comprehensive Guide to Mergers and Acquisitions"
 layout: post
 date: 2024-06-02
-update_date: 
+update_date: 2024-06-09
 author: jack_nicholaisen
 summary: "Discover the quintessential steps for environmental due diligence in M&A to ensure compliance, identify risks, and protect your investment."
 thumbnail: /images/posts-headers/m-and-a/m-and-a-due-diligence-environmental-header.png
@@ -51,6 +51,10 @@ Understanding these factors is essential for assessing risks, ensuring regulator
 <center>
 <img alt="Environmental Due Diligence" src="/images/content/environmental.png" title="Environmental Due Diligence" style="width: 63%; height: 63%">
 </center>
+
+<p>
+<b>➤ MORE: </b> <a href="/mergers-and-acquisitions/due-diligence/checklist/" target="_blank">Check out the FULL Due Diligence Checklist here</a>
+</p>
 
 ## Review Environmental Audits and Reports:
 

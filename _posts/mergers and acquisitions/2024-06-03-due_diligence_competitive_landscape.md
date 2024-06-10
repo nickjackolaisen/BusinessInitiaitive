@@ -2,7 +2,7 @@
 title: "Competitive Landscape Analysis | Comprehensive Guide to M&A Due Diligence"
 layout: post
 date: 2024-06-03
-update_date: 
+update_date: 2024-06-09
 author: jack_nicholaisen
 summary: "Discover how to analyze the competitive landscape effectively during M&A due diligence. Gain insights, practical steps, and key strategies for success."
 thumbnail: /images/posts-headers/m-and-a/m-and-a-due-diligence-competitive-landscape-header.png
@@ -49,6 +49,10 @@ By examining these aspects, buyers can gauge the target company's standing in th
 <center>
 <img alt="imagename" src="/images/content/natural-competition.png" title="imagetitle" style="width: 63%; height: 63%">
 </center>
+
+<p>
+<b>➤ MORE: </b> <a href="/mergers-and-acquisitions/due-diligence/checklist/" target="_blank">Check out the FULL Due Diligence Checklist here</a>
+</p>
 
 ## Identify Principal Competitors:
 

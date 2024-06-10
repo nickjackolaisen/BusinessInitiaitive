@@ -2,7 +2,7 @@
 title: "Insurance Policies and Coverage Reviews | Comprehensive Guide to M&A Due Diligence"
 layout: post
 date: 2024-06-02
-update_date: 
+update_date: 2024-06-09
 author: jack_nicholaisen
 summary: "Master M&A due diligence with our comprehensive guide on insurance policies and coverage reviews to protect your business investments."
 thumbnail: /images/posts-headers/m-and-a/m-and-a-due-diligence-insurance-header.png
@@ -43,6 +43,10 @@ Keep reading!
 <center>
 <img alt="imagename" src="/images/content/insurance-policy.png" title="imagetitle" style="width: 63%; height: 63%">
 </center>
+
+<p>
+<b>➤ MORE: </b> <a href="/mergers-and-acquisitions/due-diligence/checklist/" target="_blank">Check out the FULL Due Diligence Checklist here</a>
+</p>
 
 ## Review General Liability Insurance:
 

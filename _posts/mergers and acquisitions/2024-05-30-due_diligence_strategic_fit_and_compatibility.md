@@ -2,7 +2,7 @@
 title: "Strategic Fit & Compatibility in M&A | Assessing Culture, Products, & HR Policies"
 layout: post
 date: 2024-05-31
-update_date: 
+update_date: 2024-06-09
 author: jack_nicholaisen
 summary: "Discover how to evaluate strategic fit, culture, products, and HR policies in M&A for successful integration and long-term growth."
 thumbnail: /images/posts-headers/m-and-a/m-and-a-due-diligence-strategic-compatibility-header.png
@@ -45,6 +45,10 @@ Evaluating strategic fit and planning for post-merger integration is essential f
 <a id="alignment"> 
 
 This evaluation involves a detailed analysis of how the target company aligns with your strategic goals, which helps in identifying potential challenges and developing strategies for a smooth transition.
+
+<p>
+<b>➤ MORE: </b> <a href="/mergers-and-acquisitions/due-diligence/checklist/" target="_blank">Check out the FULL Due Diligence Checklist here</a>
+</p>
 
 <center>
 <img alt="imagename" src="/images/content/puzzle-pieces.png" title="imagetitle" style="width: 63%; height: 63%">

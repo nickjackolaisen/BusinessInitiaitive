@@ -2,7 +2,7 @@
 title: "Key Steps for Assessing Production Matters | Comprehensive M&A Due Diligence"
 layout: post
 date: 2024-06-02
-update_date: 
+update_date: 2024-06-09
 author: jack_nicholaisen
 summary: "Unlock the secrets to successful M&A with our guide on production due diligence. Ensure smooth transitions and operational excellence. Read more now!"
 thumbnail: /images/posts-headers/m-and-a/m-and-a-due-diligence-production-matters-header.png
@@ -43,6 +43,10 @@ This review ensures that the acquiring company can maintain production quality, 
 <center>
 <img alt="imagename" src="/images/content/manufacturing.png" title="imagetitle" style="width: 63%; height: 63%">
 </center>
+
+<p>
+<b>➤ MORE: </b> <a href="/mergers-and-acquisitions/due-diligence/checklist/" target="_blank">Check out the FULL Due Diligence Checklist here</a>
+</p>
 
 ## Review List of Significant Subcontractors
 

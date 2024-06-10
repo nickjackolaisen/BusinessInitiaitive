@@ -2,7 +2,7 @@
 title: "Asset Appraisal and Valuation | A Comprehensive Guide to M&A"
 layout: post
 date: 2024-05-30
-update_date: 
+update_date: 2024-06-09
 author: jack_nicholaisen
 summary: "Unlock the secrets of asset appraisal and valuation in M&A with our detailed guide. Ensure fair deals and mitigate risks with expert insights and practical steps."
 thumbnail: /images/posts-headers/m-and-a/m-and-a-due-diligence-asset-appraisal-and-valuation-header.png
@@ -49,6 +49,10 @@ Conducting thorough asset appraisals helps mitigate risks, uncovers hidden liabi
 <center>
 <img alt="imagename" src="/images/content/asset-management.png" title="imagetitle" style="width: 63%; height: 63%">
 </center>
+
+<p>
+<b>➤ MORE: </b> <a href="/mergers-and-acquisitions/due-diligence/checklist/" target="_blank">Check out the FULL Due Diligence Checklist here</a>
+</p>
 
 ## Verify Existence and Condition of Tangible Assets (properties, equipment, inventory, etc.):
 

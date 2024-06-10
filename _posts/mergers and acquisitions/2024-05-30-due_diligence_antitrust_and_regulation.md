@@ -2,7 +2,7 @@
 title: "Antitrust & Regulatory Compliance | Comprehensive Guide to M&A Due Diligence"
 layout: post
 date: 2024-06-02
-update_date: 
+update_date: 2024-06-09
 author: jack_nicholaisen
 summary: "Master antitrust and regulatory compliance in M&A due diligence with this comprehensive guide. Ensure a smooth acquisition process and avoid legal pitfalls."
 thumbnail: /images/posts-headers/m-and-a/m-and-a-due-diligence-antitrust-and-regulation-header.png
@@ -47,6 +47,10 @@ Therefore, thoroughly understanding and navigating the antitrust and regulatory 
 <center>
 <img alt="imagename" src="/images/content/regulations.png" title="imagetitle" style="width: 63%; height: 63%">
 </center>
+
+<p>
+<b>➤ MORE: </b> <a href="/mergers-and-acquisitions/due-diligence/checklist/" target="_blank">Check out the FULL Due Diligence Checklist here</a>
+</p>
 
 ## Analyze Scope of Antitrust Issues
 
