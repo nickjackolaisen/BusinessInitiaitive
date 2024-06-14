@@ -658,7 +658,7 @@ By leveraging data as a strategic asset, businesses can achieve significant grow
 ## Practical Tips for Business Owners
 
 <center>
-<img alt="how to hire a chief data officer" src="/images/content/we-are-hiring.png" title="What is the Number 1 priority of Chief Data Officer" style="width: 63%; height: 63%">
+<img alt="what is a cdo in business" src="/images/content/we-are-hiring.png" title="What is the Number 1 priority of Chief Data Officer" style="width: 63%; height: 63%">
 </center>
 
 ### Hiring the Right CDO
