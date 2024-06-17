@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Due Diligence Checklist"
+title: "The Ultimate M&A Due Diligence Checklist for Businesses, Investors, & Entrepreneurs"
 layout: post
 date: 2024-05-29
-update_date: 2024-06-04
+update_date: 2024-06-16
 author: jack_nicholaisen
 summary: "Master M&A with our Ultimate Due Diligence Checklist. Evaluate financials, operations, and legal matters to avoid liabilities and mitigate risks!"
 thumbnail: /images/posts-headers/m-and-a/m-and-a-due-diligence-checklist-header.png
