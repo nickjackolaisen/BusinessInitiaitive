@@ -42,64 +42,64 @@ As the business landscape continues to evolve, it's essential to understand whic
 Below, we highlight the current top 10 industries, along with their key characteristics and factors contributing to their massive popularity.
 
 <div style="text-align: center;">
-    <h3>Percentage of Non-Corporate Business Applications by Industry</h3>
-    <table style="margin: 0 auto;">
-        <tr>
-            <th><b>Rank</b></th>
-            <th><b>Industry</b></th>
-            <th><b>Percentage of Applications</b></th>
-        </tr>
-        <tr>
-            <td>1</td>
-            <td>Retail Trade</td>
-            <td>18.98%</td>
-        </tr>
-        <tr>
-            <td>2</td>
-            <td>Professional Services</td>
-            <td>12.77%</td>
-        </tr>
-        <tr>
-            <td>3</td>
-            <td>Construction</td>
-            <td>9.72%</td>
-        </tr>
-        <tr>
-            <td>4</td>
-            <td>Other Services</td>
-            <td>8.87%</td>
-        </tr>
-        <tr>
-            <td>5</td>
-            <td>Administrative and Support</td>
-            <td>7.75%</td>
-        </tr>
-        <tr>
-            <td>6</td>
-            <td>Transportation and Warehousing</td>
-            <td>6.48%</td>
-        </tr>
-        <tr>
-            <td>7</td>
-            <td>Health Care and Social Assistance</td>
-            <td>6.04%</td>
-        </tr>
-        <tr>
-            <td>8</td>
-            <td>Accommodation and Food Services</td>
-            <td>5.55%</td>
-        </tr>
-        <tr>
-            <td>9</td>
-            <td>Real Estate</td>
-            <td>4.98%</td>
-        </tr>
-        <tr>
-            <td>10</td>
-            <td>Finance and Insurance</td>
-            <td>3.99%</td>
-        </tr>
-    </table>
+<h3>Percentage of Non-Corporate Business Applications by Industry</h3>
+<table style="margin: 0 auto;">
+    <tr>
+        <th><b>Rank</b></th>
+        <th><b>Industry</b></th>
+        <th><b>Percentage of Applications</b></th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>Retail Trade</td>
+        <td>18.98%</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>Professional Services</td>
+        <td>12.77%</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>Construction</td>
+        <td>9.72%</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>Other Services</td>
+        <td>8.87%</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>Administrative and Support</td>
+        <td>7.75%</td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td>Transportation and Warehousing</td>
+        <td>6.48%</td>
+    </tr>
+    <tr>
+        <td>7</td>
+        <td>Health Care and Social Assistance</td>
+        <td>6.04%</td>
+    </tr>
+    <tr>
+        <td>8</td>
+        <td>Accommodation and Food Services</td>
+        <td>5.55%</td>
+    </tr>
+    <tr>
+        <td>9</td>
+        <td>Real Estate</td>
+        <td>4.98%</td>
+    </tr>
+    <tr>
+        <td>10</td>
+        <td>Finance and Insurance</td>
+        <td>3.99%</td>
+    </tr>
+</table>
 </div>
 
 <a href="https://www.census.gov/econ/bfs/index.html" target="_blank">Source</a>
