@@ -43,7 +43,8 @@ Below, we highlight the current top 10 industries, along with their key characte
 
 <div style="text-align: center;">
 <h3>Percentage of Non-Corporate Business Applications by Industry</h3>
-<table style="margin-left: auto; margin-right: auto;">
+</div>
+<table style="margin: auto;">
     <tr>
         <th><b>Rank</b></th>
         <th><b>Industry</b></th>
@@ -100,7 +101,6 @@ Below, we highlight the current top 10 industries, along with their key characte
         <td>3.99%</td>
     </tr>
 </table>
-</div>
 
 <a href="https://www.census.gov/econ/bfs/index.html" target="_blank">Source</a>
 
