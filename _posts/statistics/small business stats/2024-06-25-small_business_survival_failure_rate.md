@@ -86,7 +86,7 @@ Understanding these survival rates can help in planning, risk management, and st
                 label: 'Survival Rate (%)',
                 data: [67.7, 48.9, 33.7, 25.6],
                 borderColor: 'rgba(75, 192, 192, 1)',
-                borderWidth: 1,
+                borderWidth: 2,
                 fill: false
             }]
         },
@@ -109,8 +109,8 @@ Understanding these survival rates can help in planning, risk management, and st
             datasets: [{
                 label: 'Survival Rate (%)',
                 data: [67.7, 48.9, 33.7, 25.6, 79.0],
-                backgroundColor: ['blue', 'blue', 'blue', 'blue', 'orange'],
-                borderColor: ['blue', 'blue', 'blue', 'blue', 'orange'],
+                backgroundColor: ['rgba(0, 99, 160, 0.2)', 'rgba(0, 99, 160, 0.2)', 'rgba(0, 99, 160, 0.2)', 'rgba(0, 99, 160, 0.2)', 'rbga(98, 158, 45, 0.2)'],
+                borderColor: ['rgba(0, 99, 160, 1)', 'rgba(0, 99, 160, 1)', 'rgba(0, 99, 160, 1)', 'rgba(0, 99, 160, 1)', 'rbga(98, 158, 45, 1)'],
                 borderWidth: 1
             }]
         },
