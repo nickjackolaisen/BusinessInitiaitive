@@ -1,0 +1,84 @@
+
+- question: "What is the average survival rate for new small businesses?"
+  simple_answer:
+    - "67.7% of new businesses survive their first two years."
+    - "By the fifth year, the survival rate drops to 48.9%."
+  extended_answers:
+    - "According to the Small Business Administration (SBA), 67.7% of new businesses survive their first two years of operation."
+    - "This rate declines over time, with only 48.9% surviving five years, 33.7% reaching ten years, and 25.6% making it to fifteen years."
+    - "These statistics highlight the increasing challenges businesses face as they mature."
+  link: "https://advocacy.sba.gov/wp-content/uploads/2021/12/Small-Business-FAQ-Revised-December-2021.pdf"
+
+- question: "Why do so many small businesses fail in their first year?"
+  simple_answer:
+    - "Common reasons include lack of planning and insufficient funding."
+    - "Poor management and intense competition also contribute."
+  extended_answers:
+    - "A significant number of small businesses fail due to a lack of detailed planning, which leads to overspending, poor financial management, and lack of direction."
+    - "Insufficient funding is another major factor, as many entrepreneurs struggle to secure the necessary capital to sustain operations and invest in growth."
+    - "Additionally, poor management strategies, intense competition, and a lack of market demand further exacerbate the risk of failure."
+  link: "https://www.forbes.com/sites/ericwagner/2013/09/12/five-reasons-8-out-of-10-businesses-fail/?sh=196c3f546978"
+
+- question: "What are the most common mistakes that lead to small business failure?"
+  simple_answer:
+    - "Common mistakes include inadequate planning and poor financial management."
+    - "Lack of market demand and poor marketing strategies are also major factors."
+  extended_answers:
+    - "Inadequate planning often leads to overspending and poor financial management, which can quickly deplete a business's resources."
+    - "A lack of market demand means that there aren't enough customers interested in the product or service, resulting in low sales and revenue."
+    - "Poor marketing strategies fail to build brand awareness and engage potential customers, severely limiting growth opportunities."
+  link: "https://www.entrepreneur.com/leadership/10-reasons-why-7-out-of-10-businesses-fail-within-10-years/299522"
+
+- question: "How can small businesses increase their chances of survival?"
+  simple_answer:
+    - "Create a solid business plan and secure sufficient funding."
+    - "Invest in management training and conduct thorough market research."
+  extended_answers:
+    - "Developing a comprehensive business plan that outlines goals, finances, and marketing strategies is crucial for guiding operations and managing resources effectively."
+    - "Securing sufficient funding through loans, grants, or investors ensures that the business can cover startup costs and sustain operations."
+    - "Investing in management training or hiring experienced managers can greatly improve decision-making and organizational efficiency."
+    - "Conducting thorough market research helps identify customer needs and market trends, allowing businesses to tailor their offerings accordingly."
+  link: "https://www.sba.gov/business-guide/plan-your-business/write-your-business-plan"
+
+- question: "What role does market demand play in the success of a small business?"
+  simple_answer:
+    - "High market demand is essential for generating sales and revenue."
+    - "Without market demand, businesses struggle to attract customers."
+  extended_answers:
+    - "Market demand directly influences a business's ability to generate sales and sustain operations."
+    - "High demand indicates a strong customer interest in the product or service, leading to increased sales and revenue."
+    - "Without sufficient market demand, businesses will struggle to attract and retain customers, resulting in low sales, poor revenue generation, and potentially business failure."
+    - "Conducting market research and validating products or services with potential customers can help ensure that there is a viable market before fully launching the business."
+
+- question: "How important is planning for a small business?"
+  simple_answer:
+    - "Planning is crucial for setting goals and managing resources."
+    - "It helps avoid overspending and poor financial management."
+  extended_answers:
+    - "Planning is essential for outlining business goals, strategies, and actions needed to achieve success."
+    - "A detailed business plan serves as a roadmap, guiding operations and helping to manage resources effectively."
+    - "Without a solid plan, businesses may overspend, manage finances poorly, and lack direction, leading to financial instability and operational challenges."
+    - "Effective planning includes creating a business plan, setting clear goals, and developing a comprehensive marketing strategy, which collectively enhance the chances of business success."
+  link: "https://www.sba.gov/business-guide/plan-your-business/write-your-business-plan"
+
+- question: "What financial strategies can help prevent small business failure?"
+  simple_answer:
+    - "Create a budget and secure adequate funding."
+    - "Engage in thorough financial planning and management."
+  extended_answers:
+    - "Creating a detailed budget helps entrepreneurs understand their financial needs, track expenses, and identify cost-saving opportunities."
+    - "This is crucial for managing cash flow and ensuring financial stability."
+    - "Securing adequate funding through loans, grants, or investors provides the necessary capital to cover startup costs and sustain operations during challenging times."
+    - "Engaging in thorough financial planning, including setting financial goals and regularly reviewing performance, helps businesses make informed decisions about spending, investment, and growth."
+  link: "https://quickbooks.intuit.com/ca/resources/growing-a-business/create-a-financial-strategy-that-fuels-growth/"
+
+- question: "What are the benefits of conducting market research for small businesses?"
+  simple_answer:
+    - "Market research helps identify customer needs and market trends."
+    - "It informs product development and marketing strategies."
+  extended_answers:
+    - "Conducting market research allows businesses to understand their target market, identify customer needs, and assess demand for their products or services."
+    - "This knowledge is essential for developing offerings that align with market demand and attract customers."
+    - "Market research also helps businesses stay informed about market trends, consumer behavior, and industry shifts, enabling them to adapt their strategies and maintain a competitive edge."
+    - "Effective market research can involve surveys, focus groups, and analysis of market data, providing valuable insights that guide product development and marketing efforts."
+  link: "https://www.surveymonkey.com/market-research/"
