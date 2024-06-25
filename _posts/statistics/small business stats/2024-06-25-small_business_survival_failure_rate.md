@@ -66,64 +66,65 @@ This indicates that newer businesses may be better equipped to handle early chal
 
 Understanding these survival rates can help in planning, risk management, and strategy development, making it clear what it takes to build a business that lasts.
 
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta charset="UTF-8">
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 
 <h2>Survival Rates of New Businesses (1994-2020)</h2>
-    <canvas id="lineChart"></canvas>
+<canvas id="lineChart"></canvas>
 
 <h2>Comparison of Survival Rates</h2>
-    <canvas id="barChart"></canvas>
+<canvas id="barChart"></canvas>
 
 <script>
-        // Line Chart Data
-        const lineCtx = document.getElementById('lineChart').getContext('2d');
-        const lineChart = new Chart(lineCtx, {
-            type: 'line',
-            data: {
-                labels: [2, 5, 10, 15],
-                datasets: [{
-                    label: 'Survival Rate (%)',
-                    data: [67.7, 48.9, 33.7, 25.6],
-                    borderColor: 'rgba(75, 192, 192, 1)',
-                    borderWidth: 1,
-                    fill: false
-                }]
-            },
-            options: {
-                scales: {
-                    y: {
-                        beginAtZero: true,
-                        max: 100
-                    }
+    // Line Chart Data
+    const lineCtx = document.getElementById('lineChart').getContext('2d');
+    const lineChart = new Chart(lineCtx, {
+        type: 'line',
+        data: {
+            labels: [2, 5, 10, 15],
+            datasets: [{
+                label: 'Survival Rate (%)',
+                data: [67.7, 48.9, 33.7, 25.6],
+                borderColor: 'rgba(75, 192, 192, 1)',
+                borderWidth: 1,
+                fill: false
+            }]
+        },
+        options: {
+            scales: {
+                y: {
+                    beginAtZero: true,
+                    max: 100
                 }
             }
-        });
+        }
+    });
 
-        // Bar Chart Data
-        const barCtx = document.getElementById('barChart').getContext('2d');
-        const barChart = new Chart(barCtx, {
-            type: 'bar',
-            data: {
-                labels: ['Overall Two-Year', 'Overall Five-Year', 'Overall Ten-Year', 'Overall Fifteen-Year', 'Young Businesses Two-Year'],
-                datasets: [{
-                    label: 'Survival Rate (%)',
-                    data: [67.7, 48.9, 33.7, 25.6, 79.0],
-                    backgroundColor: ['blue', 'blue', 'blue', 'blue', 'orange'],
-                    borderColor: ['blue', 'blue', 'blue', 'blue', 'orange'],
-                    borderWidth: 1
-                }]
-            },
-            options: {
-                scales: {
-                    y: {
-                        beginAtZero: true,
-                        max: 100
-                    }
+    // Bar Chart Data
+    const barCtx = document.getElementById('barChart').getContext('2d');
+    const barChart = new Chart(barCtx, {
+        type: 'bar',
+        data: {
+            labels: ['Overall Two-Year', 'Overall Five-Year', 'Overall Ten-Year', 'Overall Fifteen-Year', 'Young Businesses Two-Year'],
+            datasets: [{
+                label: 'Survival Rate (%)',
+                data: [67.7, 48.9, 33.7, 25.6, 79.0],
+                backgroundColor: ['blue', 'blue', 'blue', 'blue', 'orange'],
+                borderColor: ['blue', 'blue', 'blue', 'blue', 'orange'],
+                borderWidth: 1
+            }]
+        },
+        options: {
+            scales: {
+                y: {
+                    beginAtZero: true,
+                    max: 100
                 }
             }
-        });
+        }
+    });
 </script>
+
 <a id="reasons"> 
 <br>
 
