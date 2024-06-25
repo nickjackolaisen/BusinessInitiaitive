@@ -2,7 +2,7 @@
 layout: post
 title: 17 Profitable Sole Proprietorship Examples You Can Start TODAY! (Updated for 2024)
 date: 2023-07-05
-update_date: 2024-06-09
+update_date: 2024-06-25
 author: jack_nicholaisen
 summary: "Here are a few examples of Sole Proprietorships to get the ideas flowing. Check it out and understand why Sole Proprietorships are so popular."
 thumbnail: /images/posts-headers/sole-proprietorship-examples-header.png
@@ -97,7 +97,7 @@ Continue reading to see examples of Sole Proprietorships entrepreneurs and side-
 ## 1.  Freelance Writer
 
 <center>
-<img alt="list of sole proprietorship businesses" src="/images/content/freelance-writer.png" title="freelance writing as a sole proprietor" style="width: 63%; height: 63%">
+<img alt="list of sole proprietorship businesses" src="/images/content/freelance-writer.png" title="sole proprietorship businesses list" style="width: 63%; height: 63%">
 </center>
 
 One of the most popular and easiest businesses to get into is freelance writing. 
@@ -111,16 +111,20 @@ Write and create content for websites, magazines, blogs, social media, and other
 If marketing and advertising sound appealing, you may enjoy being a copywriter writing advertisements or as a content writer for a business’s website. 
 
 As long as you are good with your words, have an understanding of marketing and persuasion, plus some good old creative thinking, you may want to look into starting a freelance writing operation. 
-<a id="catering"> 
 
 As time goes on you also have the option to upgrade your Sole Proprietorship to an LLC. 
 
 This is perfect for if you ever want to expand and create your own publishing company or advertising agency. 
+<a id="catering"> 
+
+**Helpful resources for starting a freelance business:**
+- <a href="https://allthingsfreelancewriting.com/blog/how-to-become-a-freelance-writer-in-12-steps/" target="_blank">How to Start Freelance Writing: Complete Guide with 12 Steps</a>
+- <a href="https://millo.co/freelance-writing-business" target="_blank">How to Set Up Your Freelance Writing Business For Success</a>
 
 ## 2.  Catering Service
 
 <center>
-<img alt="business example of sole proprietorship" src="/images/content/catering.png" title="catering as a sole proprietor" style="width: 63%; height: 63%">
+<img alt="business example of sole proprietorship" src="/images/content/catering.png" title="sole proprietor business examples" style="width: 63%; height: 63%">
 </center>
 
 It’s no secret... 
@@ -142,16 +146,20 @@ You don’t even have to be a good cook...
 As long as you can organize a team who can cook, you can provide your services where people want to eat and drink. 
 
 If you decide to expand your operations and assemble a team to cater to your guests, you should check out Limited Liability Companies. 
-<a id="direct-sales"> 
 
 In an LLC, employees are tax-deductible expenses. 
 
 Not to mention all the special tax benefits and liability protection you get with an LLC that doesn't come with Sole Proprietorships.
+<a id="direct-sales"> 
+
+**Helpful resources for starting a catering business:**
+- <a href="https://www.nerdwallet.com/article/small-business/how-to-start-a-catering-business" target="_blank">How to Start a Catering Business in 9 Steps</a>
+- <a href="https://getsling.com/blog/how-to-start-a-catering-business/" target="_blank">How To Start A Catering Business in 20 Steps</a>
 
 ## 3.  Direct Sales
 
 <center>
-<img alt="famous sole proprietorship" src="/images/content/sales.png" title="direct selling as a sole proprietor" style="width: 63%; height: 63%">
+<img alt="famous sole proprietorship" src="/images/content/sales.png" title="sole proprietorship businesses examples" style="width: 63%; height: 63%">
 </center>
 
 You can start a Sole Proprietorship by running an online sales funnel or selling products through magazines, newspapers, and other media.
@@ -159,24 +167,32 @@ You can start a Sole Proprietorship by running an online sales funnel or selling
 Copywriters, who make direct sales using the written word, are needed by almost every company. 
 
 Any time you’ve seen an ad or promo for some product or service, chances are it was written or arranged by some sort of direct sales copywriter. 
-<a id="graphic-design"> 
 
 You are fully responsible for the success of your business if you decide to start your own direct sales operation and work as an independent contractor. 
 
 The same goes for the rest of the examples.
+<a id="graphic-design"> 
+
+**Helpful resources for starting a direct sales business:**
+- <a href="https://www.indeed.com/hire/c/info/direct-sales-companies" target="_blank">How to Start Your Own Direct Sales Company</a>
+- <a href="https://atouchofbusiness.com/startup-ideas/direct-sales-business/" target="_blank">How to Start a Direct Sales Business</a>
 
 ## 4.  Graphic Designer
 
 <center>
-<img alt="sole proprietorship job examples" src="/images/content/graphic-design.png" title="graphic designer as a sole proprietor" style="width: 63%; height: 63%">
+<img alt="sole proprietorship job examples" src="/images/content/graphic-design.png" title="sole proprietorship examples companies" style="width: 63%; height: 63%">
 </center>
 
 Graphic design is needed by entrepreneurs and businesses who want their websites, logos, magazines, advertisements, and other media to look their best.
-<a id="photo-video-editor"> 
 
 Graphic design gives you the freedom to work remotely because the work is completed and submitted online. 
 
 With an understanding of graphic design and the creative vision to bring your client’s ideas to fruition, you can design artwork, illustrations, and content for public consumption.
+<a id="photo-video-editor"> 
+
+**Helpful resources for starting a graphic design business:**
+- <a href="https://www.nerdwallet.com/article/small-business/how-to-start-a-graphic-design-business" target="_blank">How to Start a Graphic Design Business</a>
+- <a href="https://www.freshbooks.com/hub/startup/how-to-start-a-graphic-design-business" target="_blank">How To Start a Graphic Design Business in 2024: 17 Steps</a>
 
 ## 5.  Photographer, Videographer, or Digital Editor
 
@@ -191,11 +207,15 @@ It doesn’t even have to be events. You could run a photography studio taking p
 Nowadays you also have the option of working as a Social Media photographer. 
 
 If you are better on the technical side of things you might consider being a professional photo/video editor. 
-<a id="digital-repair"> 
 
 The limit to how much money you make doing this is determined by how good you are at what you do and the market you specialize in. 
 
 The same principle applies to all of the Sole Proprietorship examples mentioned here.
+<a id="digital-repair"> 
+
+**Helpful resources for starting a photography business:**
+- <a href="https://shotkit.com/start-photography-business/" target="_blank">How to Start a Photography Business in 2024</a>
+- <a href="https://www.shopify.com/blog/how-to-start-a-photography-business" target="_blank">How To Start a Photography Business in 10 Steps (2024)</a>
 
 ## 6.  Computer and Cellphone Repair Service
 
@@ -212,16 +232,20 @@ Many people prefer fixing their devices instead of paying more cash for the late
 Computer and cellphone repair operations can be quite small, requiring only one person. 
 
 You can do this from your home, a storefront, or be entirely location-independent by meeting people one-on-one and fixing their devices in person (if you’re quick about it). 
-<a id="financial-planner"> 
 
 If you are good with technical, hands-on tasks and enjoy working with technology, starting a cellphone or computer repair service may be the perfect opportunity for you to act as your own boss, work your own hours, and run a Sole Proprietorship. 
 
 Actually, all the examples on our list are great for taking back your time and give you greater control of your income.
+<a id="financial-planner"> 
+
+**Helpful resources for starting an electronics repair business:**
+- <a href="https://stepbystepbusiness.com/business-ideas/start-a-computer-repair-business/" target="_blank">How to Start a Computer Repair Business</a>
+- <a href="https://www.insureon.com/blog/how-to-start-a-successful-computer-repair-business" target="_blank">How to start a successful computer repair business</a>
 
 ## 7.  Financial Planner
 
 <center>
-<img alt="sole proprietorship real world examples	" src="/images/content/financial-planning.png" title="sole proprietors examples" style="width: 63%; height: 63%">
+<img alt="sole proprietorship real world examples" src="/images/content/financial-planning.png" title="sole proprietors examples" style="width: 63%; height: 63%">
 </center>
 
 Financial planners help manage the profits and expenses of individuals, families, and companies. 
@@ -237,11 +261,15 @@ You could also come up with daily, monthly, or yearly budgets to better manage y
 For companies, you can help them grow and maximize their profits by applying proven financial management strategies. 
 
 You might even organize employee bonus distributions.
-<a id="virtual-assistant"> 
 
 It’s important to have experience and competency in this area of expertise if you want your business to be successful. 
 
 Just like the other examples covered in this article, you need the necessary qualifictions and licenses to conduct such a business.
+<a id="virtual-assistant"> 
+
+**Helpful resources for starting a financial planning business:**
+- <a href="https://leadingresponse.com/blog/your-comprehensive-guide-to-starting-a-financial-planning-business/" target="_blank">Your Comprehensive Guide to Starting a Financial Planning Business</a>
+- <a href="https://atouchofbusiness.com/startup-ideas/financial-planning/" target="_blank">Steps to Starting Your Financial Planning Business</a>
 
 ## 8.  Virtual Assistant (VA)
 
@@ -252,11 +280,15 @@ Just like the other examples covered in this article, you need the necessary qua
 By now, you’re probably familiar with those little messages that pop up on a website asking if you want live assistance when you first click on the page. 
 
 The people sending you messages form the other side of the screen are called Virtual Assistants, or VAs for short. 
-<a id="bookkeeper-accountant"> 
 
 VAs help entrepreneurs and business owners complete administrative tasks online. 
 
 You should consider being a Virtual Assistant if you can help customers get information, go through emails, imput data into spreadsheets, schedule appointments, and other tasks of this sort.
+<a id="bookkeeper-accountant"> 
+
+**Helpful resources for starting a VA business:**
+- <a href="https://www.timedoctor.com/blog/virtual-assistant-business/" target="_blank">How to start a virtual assistant business</a>
+- <a href="https://millennialmoneyman.com/how-to-start-a-virtual-assistant-business/" target="_blank">How To Start a Virtual Assistant Business (2024 Guide)</a>
 
 ## 9.  Bookkeeper or Accountant
 
@@ -281,11 +313,15 @@ The drawback to accounting is you need special certifications and experience to 
 By being a bookkeeper, however, these certifications aren’t necessary so long as you’ve got the right skills and knowledge.
 
 You can do either of these jobs remotely since you're working with a company's online records database. 
-<a id="plumber-electrician"> 
 
 This means you can make your own schedule and take your first step to secure your freedom. 
 
 If you are good with data, are detail-oriented, and are familiar with spreadsheets, you should check out bookkeeping or accounting.
+<a id="plumber-electrician"> 
+
+**Helpful resources for starting a bookkeeping business:**
+- <a href="https://fitsmallbusiness.com/start-a-bookkeeping-business/" target="_blank">How To Start a Bookkeeping Business in 8 Steps + Checklist</a>
+- <a href="https://millennialmoney.com/start-a-bookkeeping-business/" target="_blank">How to Start a Bookkeeping Business</a>
 
 ## 10. Plumber or Electrician
 
@@ -306,11 +342,15 @@ Homes and buildings need running water and power.
 Nobody wants their basement to flood with sewage or their building to burn down from a bad wiring job.
 
 If you are more hands-on you might really enjoy this. 
-<a id="landscaping-lawncare"> 
 
 These jobs require special trainging and certifications. 
 
 If you’re not up to learning about these industries you should look into one of the other options we’ve listed.
+<a id="landscaping-lawncare"> 
+
+**Helpful resources for starting a plumbing or electrician business:**
+- <a href="https://www.bobvila.com/articles/how-to-start-an-electrical-business/" target="_blank">How to Start an Electrical Business: A Guide for Prospective Entrepreneurs</a>
+- <a href="https://stepbystepbusiness.com/business-ideas/start-a-plumbing-business/" target="_blank">How to Start a Plumbing Business</a>
 
 ## 11. Landscaping and Lawncare
 
@@ -335,11 +375,15 @@ In the fall and winter, you will likely specialize in clearing yards of leaves a
 Depending on demand and the size of your customer base, you may decide to hire employees. 
 
 If expanding your operations is a real possibility, you should look into upgrading your Sole Proprietorship to an LLC.
-<a id="private-home-care"> 
 
 By upgrading to an LLC, you can count your employees as business expenses. 
 
 Not only that, but you will also be able to receive the personal liability protections that come naturally with Limited Liability Companies.
+<a id="private-home-care"> 
+
+**Helpful resources for starting a landscaping business:**
+- <a href="https://www.joist.com/blog/how-to-start-a-landscaping-business/" target="_blank">How to Start a Landscaping Business: A Comprehensive Guide</a>
+- <a href="https://www.freshbooks.com/hub/startup/how-to-start-a-landscaping-business" target="_blank">How To Start a Landscaping Business in 7 Steps (2024 Guide)</a>
 
 ## 12. Private Home Care
 
@@ -354,16 +398,20 @@ The economic climate in the country (and the world for that matter) is relativel
 Most of your clientele are elderly so your main focus is on cooking, cleaning, helping them clean themselves, and assisting with their daily chores. 
 
 By taking care of elderly persons you could receive some serious compensation for your efforts. 
-<a id="babysitter-daycare"> 
 
 It may not be glorious but it pays. A lot.
 
 If you want to work in a low volatility environment and enjoy a near-constant flow of demand, you should think about getting into <a href="https://www.businessinitiative.org/lets-meet-the-bad-actors-of-healthcare-reform/" target="_blank">healthcare</a>. 
+<a id="babysitter-daycare"> 
+
+**Helpful resources for starting a home care business:**
+- <a href="https://www.selecthub.com/home-health/how-to-start-homecare-business/" target="_blank">How To Start A Home Care Business: A Comprehensive Guide</a>
+- <a href="https://businessguru.co/how-to-start-a-private-home-care-business/" target="_blank">How to Start a Private Home Care Business in 14 Steps (In-Depth Guide)</a>
 
 ## 13. Babysitter or Daycare
 
 <center>
-<img alt="popular sole proprietorship businesses" src="/images/content/babysitter.png" title="babysitting as a sole proprietor" style="width: 63%; height: 63%">
+<img alt="popular sole proprietorship businesses" src="/images/content/babysitter.png" title="examples of businesses that are sole proprietorship" style="width: 63%; height: 63%">
 </center>
 
 Babysitting and daycare centers can be highly profitable for those who run them since parents what their kids to be happy and taken care of by someone they know and trust. 
@@ -373,11 +421,15 @@ If you enjoy being around and taking care of kids for extended periods of time y
 Like the other businesses on our list, there aren’t any extra setup requirements for you to run a business like this. 
 
 You do have to consider the permissions, licenses, guidelines, etc. required by your state and community. 
-<a id="personal-trainer"> 
 
 In the case of child-care, you have to not only be screened and get a background check but, in some states, your home must also be inspected to ensure safety measures are in place. 
 
 Failure to comply can obviously lead to some very serious fines or worse.
+<a id="personal-trainer"> 
+
+**Helpful resources for starting a daycare business:**
+- <a href="https://huckleberry.com/blog/how-to-start-a-daycare/" target="_blank">How to start a daycare business in 10 steps</a>
+- <a href="https://stepbystepbusiness.com/business-ideas/start-a-daycare-business/" target="_blank">How to Start a Daycare Business</a>
 
 ## 14. Personal Trainer
 
@@ -394,11 +446,15 @@ You can get certified as a personal trainer for relatively cheap.
 In addition to the proper training and licenses, you need to get the necessary liability insurance to conduct practices which impact people’s health, hopefully for the better. 
 
 Other than that there aren’t any requirements for starting a Sole Proprietorship as a personal trainer. 
-<a id="private-tutor"> 
 
 Who knows, it may be the way you gain financial sovereignty. 
 
 Just remember, by running your business as a Sole Proprietorship you are <a href="/comparison/sole-proprietorship-vs-llc/pros-and-cons/" target="_blank">missing out on the personal liability protections</a> of LLCs which distance you from lawsuits and creditors.
+<a id="private-tutor"> 
+
+**Helpful resources for starting a personal training business:**
+- <a href="https://dojobusiness.com/blogs/news/personal-trainer-complete-guide" target="_blank">Here's how to start a profitable personal training business</a>
+- <a href="https://smallbiztrends.com/how-to-start-a-personal-training-business/" target="_blank">How to Start a Personal Training Business</a>
 
 ## 15. Private Tutor
 
@@ -415,16 +471,20 @@ You can get paid big bucks to help students in elementary, high school, and coll
 If you see the benefits of education and passing your knowledge on to others, you should definitely check out becoming a private tutor. 
 
 Tutoring doesn’t necessarily have to be in person either. 
-<a id="housecleaner"> 
 
 Nowadays with zoom and all the virtual learning, you can easily provide tutoring services from the comfort of your own home. 
 
 Since you are the one with the smarts, you’re doing the work, you’re the one getting paid, and just like that, you are a Sole Proprietor. 
+<a id="housecleaner"> 
+
+**Helpful resources for starting a tutoring business:**
+- <a href="https://www.nerdwallet.com/article/small-business/how-to-start-a-tutoring-business" target="_blank">How to Start a Tutoring Business</a>
+- <a href="https://businessguru.co/how-to-start-a-tutoring-business/" target="_blank">How to Start a Tutoring Business in 14 Steps (In-Depth Guide)</a>
 
 ## 16. Housecleaner
 
 <center>
-<img alt="sole proprietorship business examples" src="/images/content/cleaning.png" title="housecleaning as a sole proprietor" style="width: 63%; height: 63%">
+<img alt="sole proprietorship business examples" src="/images/content/cleaning.png" title="sample of sole proprietorship" style="width: 63%; height: 63%">
 </center>
 
 Housekeeping is a great business to start out with. 
@@ -448,16 +508,20 @@ Your business can focus on a unique area of cleaning, like floors for example, o
 If you run a housecleaning operation and have enough demand to hire a team you should look into registering an LLC.
 
 You may find that upgrading to an LLC is beneficial to your business’s growth and development. 
-<a id="hobbies"> 
 
 With an LLC you can grow your operations and extend your services to other areas like laundry and dry cleaning, floors, roofs, windows, ventilation, etc.
 
 If you can put in the elbow grease you may find housekeeping to be a worthwhile endeavor. 
+<a id="hobbies"> 
+
+**Helpful resources for starting a cleaning business:**
+- <a href="https://www.insureon.com/blog/how-to-start-a-cleaning-business" target="_blank">How to start a cleaning business</a>
+- <a href="https://www.growthink.com/businessplan/help-center/how-to-start-a-house-cleaning-business" target="_blank">How to Start a House Cleaning Business</a>
 
 ## 17. Creative Pursuits and Hobbies
 
 <center>
-<img alt="famous sole proprietorship examples" src="/images/content/arts-and-crafts.png" title="making your hobby into a sole proprietorship" style="width: 63%; height: 63%">
+<img alt="famous sole proprietorship examples" src="/images/content/arts-and-crafts.png" title="famous sole proprietorship business examples" style="width: 63%; height: 63%">
 </center>
 
 If none of the above examples are appealing to you, you can always try monetizing one of your passions, favorite hobbies, or talents.
@@ -477,6 +541,10 @@ The possibilities are as endless as people are unique.
 Now’s your chance to never have to “work” again. 
 
 Take whatever you would do if you had to do it forever and see how you can make that thing you’re interested in a profitable endeavor by putting your own spin on it and selling it.  
+
+**Helpful resources for starting a business from your hobbies:**
+- <a href="https://www.thepennyhoarder.com/make-money/start-a-business/how-to-turn-your-hobby-into-a-business/" target="_blank">How to Turn Your Hobby Into a Business</a>
+- <a href="https://aicontentfy.com/en/blog/from-passion-to-profit-turning-hobby-into-business" target="_blank">From passion to profit: Turning your hobby into a business</a>
 
 ## In Summary...
 
