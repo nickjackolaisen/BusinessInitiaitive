@@ -2,7 +2,7 @@
 title: "The Best Type of Business Structure Across 17 Industries"
 layout: post
 date: 2023-08-13
-update_date: 2024-04-03
+update_date: 2024-06-25
 author: jack_nicholaisen
 summary: "Learn about business structure trends, success rates, and factors influencing choice by industry. Make an informed decision for your business."
 permalink: /statistics/business-structures/industry-success/
@@ -64,7 +64,13 @@ According to a report by Sageworks, [corporations in the finance industry tend t
 
 ### 10. Construction: 
 
-The construction industry has one of the highest failure rates among small businesses. However, according to a study by Guidant Financial, [limited liability companies (LLCs) have a slightly higher success rate](https://www.guidantfinancial.com/small-business-trends/construction/) than other business structures in this industry.
+The construction industry has one of the highest failure rates among small businesses. 
+
+However, according to a study by Guidant Financial, [limited liability companies (LLCs) have a slightly higher success rate](https://www.guidantfinancial.com/small-business-trends/construction/) than other business structures in this industry.
+
+<p>
+<b>➤ Discover: </b> <a href="https://www.businessinitiative.org/statistics/small-businesses/survival-and-failure-rate/" target="_blank">Unlock the secrets to avoid the most common pitfalls small businesses face in 2024!</a>
+</p>
 
 ### 11. Healthcare: 
 

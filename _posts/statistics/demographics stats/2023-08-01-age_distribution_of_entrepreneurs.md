@@ -2,7 +2,7 @@
 title: "The Age of Entrepreneurs - A Statistical Look at Business Ownership by Age"
 layout: post
 date: 2023-08-01
-update_date: 2023-09-27
+update_date: 2024-06-25
 author: jack_nicholaisen
 summary: "Discover how age affects business ownership and success across industries & compare business success rates between the rookie and the weathered veteran!"
 permalink: /statistics/demographics/age-distribution/
@@ -21,7 +21,6 @@ Join us as we check out the statistics and stories behind the age of entrepreneu
 To understand the age distribution of entrepreneurs, we need to examine data from reputable sources such as the [U.S. Census Bureau](https://www.census.gov/) and the [Kauffman Foundation](https://www.kauffman.org/). 
 
 According to a recent [study](https://www.inc.com/jeff-haden/the-most-successful-entrepreneurs-are-older-than-you-think-new-study-says.html) conducted by the Kauffman Foundation, **the average age of a successful entrepreneur is 42**, with the highest likelihood of success belonging to those in their 40s and 50s.
-
 
 <center>
 <img alt="Age Distribution of Entrepreneurs" src="/images/posts-content/age-distribution-entrepreneurs.png">
@@ -96,6 +95,10 @@ This can impact the types of businesses they choose to start and their level of 
 As we can see, there are many factors that influence the age distribution of business owners and entrepreneurs across various industries and business structures. 
 
 By understanding these factors, aspiring and established entrepreneurs can make informed decisions about when and how to start and grow their businesses.
+
+<p>
+<b>➤ Discover: </b> <a href="https://www.businessinitiative.org/statistics/small-businesses/survival-and-failure-rate/" target="_blank">Unlock the secrets to avoid the most common pitfalls small businesses face in 2024!</a>
+</p>
 
 ## Success Rates by Age
 
