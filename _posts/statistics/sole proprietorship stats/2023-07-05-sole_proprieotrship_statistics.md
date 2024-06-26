@@ -43,7 +43,7 @@ It should come as no surprise since they are the easiest, cheapest, and fastest 
 <a id="largest"> 
 
 <center>
-<img alt="what percentage of businesses in the united states are sole proprietorships?" src="/images/content/market-growth.png" title="sole proprietorship growth"style="width: 63%; height: 63%">
+<img alt="what percentage of businesses in the united states are sole proprietorships?" src="/images/content/market-growth.png" title="sole proprietorship growth" style="width: 63%; height: 63%">
 </center>
 
 ## What are the Largest Sole Proprietorships in the world?
