@@ -2,7 +2,7 @@
 title: "Small Business Survival & Failure Rate | Avoid Common Pitfalls in 2024 and Beyond"
 layout: post
 date: 2024-06-25
-update_date:
+update_date: 2024-06-28
 author: jack_nicholaisen
 summary: "32.3% of small businesses fail within two years. Read this guide today and learn key strategies to avoid common pitfalls and thrive!"
 thumbnail: /images/posts-headers/small-business-survival-failure-rate-header.png
@@ -471,7 +471,7 @@ USPs are the features or benefits that make a product or service stand out from 
 Highlighting these unique aspects in marketing efforts can attract customers looking for specific qualities.
 
 Resources:
-- <a href="https://blog.hubspot.com/agency/concise-guide-creating-killer-usp" target="_blank">HubSpot Guide to Creating USPs</a>
+- <a href="https://www.businessinitiative.org/business-tips/usp-unique-selling-proposition/" target="_blank">Business Initiative - Creating Your Unique Selling Proposition (USP)</a>
 - <a href="https://www.entrepreneur.com/starting-a-business/use-this-worksheet-to-find-your-unique-selling-proposition/459642" target="_blank">Entrepreneur - How to Find Your USP</a>
 - <a href="https://www.amazon.com/Made-Stick-Ideas-Survive-Others/dp/1400064287" target="_blank">“Made to Stick” by Chip Heath and Dan Heath</a>
 
