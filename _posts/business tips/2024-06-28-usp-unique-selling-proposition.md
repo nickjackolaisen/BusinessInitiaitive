@@ -371,7 +371,8 @@ Each company’s unique approach to meeting customer needs demonstrates how a st
 
 - **USP**: “The best cardio machine on the planet. Delivered.”
 - **Overview**: Peloton offers high-quality exercise equipment combined with live and on-demand fitness classes, creating an immersive at-home workout experience.
-- **Success**: Peloton’s innovative approach to home fitness has garnered over 4.4 million members as of 2021, with significant revenue growth and market presence.<a id="#make-your-usp"> 
+- **Success**: Peloton’s innovative approach to home fitness has garnered over 4.4 million members as of 2021, with significant revenue growth and market presence.
+<a id="#make-your-usp"> 
 - **Lessons**: Integrating technology with fitness to provide engaging, convenient, and motivating experiences can drive strong customer loyalty and business growth.
 - **Source**: <a href="https://bstrategyhub.com/diving-deep-into-pelotons-business-model/" target="_blank">Peloton</a>
 
