@@ -2,12 +2,16 @@
 layout: page
 title: "South Carolina Business Directory"
 date: 2024-06-03
-update_date: 
+update_date: 2024-07-01
 author: jack_nicholaisen
 summary: "Discover the top business startup services in South Carolina! Your ultimate guide to launching a successful venture."  
 permalink: /directory/south-carolina/
 tags: business directory, start up services, business services, business lawyers, registered agents in South Carolina, accountants in South Carolina, bookkeepers in South Carolina
 ---
+
+<center>
+<img alt="south carolina state business directory" src="/images/directory-images/state-headers/south-carolina-bd-header.png" title="South Carolina Business Directory" style="width: 72%; height: 72%">
+</center>
 
 ### South Carolina Business Startup Services Directory
 

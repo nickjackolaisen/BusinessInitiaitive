@@ -2,12 +2,16 @@
 layout: page
 title: "Tennessee Business Directory"
 date: 2024-06-03
-update_date: 
+update_date: 2024-07-01
 author: jack_nicholaisen
 summary: "Discover the top business startup services in Tennessee! Your ultimate guide to launching a successful venture."  
 permalink: /directory/tennessee/
 tags: business directory, start up services, business services, business lawyers, registered agents in tennessee, accountants in Tennessee, bookkeepers in Tennessee
 ---
+
+<center>
+<img alt="tennessee state business directory" src="/images/directory-images/state-headers/tennessee-bd-header.png" title="Tennessee Business Directory" style="width: 72%; height: 72%">
+</center>
 
 ### Tennessee Business Startup Services Directory
 

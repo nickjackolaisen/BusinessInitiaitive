@@ -2,12 +2,16 @@
 layout: page
 title: "Oregon Business Directory"
 date: 2024-06-03
-update_date: 
+update_date: 2024-07-01
 author: jack_nicholaisen
 summary: "Discover the top business startup services in Oregon! Your ultimate guide to launching a successful venture."  
 permalink: /directory/oregon/
 tags: business directory, start up services, business services, business lawyers, registered agents in Oregon, accountants in Oregon, bookkeepers in Oregon
 ---
+
+<center>
+<img alt="oregon state business directory" src="/images/directory-images/state-headers/oregon-bd-header.png" title="Oregon Business Directory" style="width: 72%; height: 72%">
+</center>
 
 ### Oregon Business Startup Services Directory
 

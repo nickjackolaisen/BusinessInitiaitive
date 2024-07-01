@@ -2,12 +2,16 @@
 layout: page
 title: "Rhode Island Business Directory"
 date: 2024-06-03
-update_date: 
+update_date: 2024-07-01
 author: jack_nicholaisen
 summary: "Discover the top business startup services in Rhode Island! Your ultimate guide to launching a successful venture."  
 permalink: /directory/rhode-island/
 tags: business directory, start up services, business services, business lawyers, registered agents in Rhode Island, accountants in Rhode Island, bookkeepers in Rhode Island
 ---
+
+<center>
+<img alt="rhode island state business directory" src="/images/directory-images/state-headers/rhode-island-bd-header.png" title="Rhode Island Business Directory" style="width: 72%; height: 72%">
+</center>
 
 ### Rhode Island Business Startup Services Directory
 

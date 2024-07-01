@@ -2,12 +2,16 @@
 layout: page
 title: "Vermont Business Directory"
 date: 2024-06-03
-update_date: 
+update_date: 2024-07-01
 author: jack_nicholaisen
 summary: "Discover the top business startup services in Vermont! Your ultimate guide to launching a successful venture."  
 permalink: /directory/vermont/
 tags: business directory, start up services, business services, business lawyers, registered agents in Vermont, accountants in Vermont, bookkeepers in Vermont
 ---
+
+<center>
+<img alt="vermont state business directory" src="/images/directory-images/state-headers/vermont-bd-header.png" title="Vermont Business Directory" style="width: 72%; height: 72%">
+</center>
 
 ### Vermont Business Startup Services Directory
 

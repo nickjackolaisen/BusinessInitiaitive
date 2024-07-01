@@ -2,12 +2,16 @@
 layout: page
 title: "Pennsylvania Business Directory"
 date: 2024-06-03
-update_date: 
+update_date: 2024-07-01
 author: jack_nicholaisen
 summary: "Discover the top business startup services in Pennsylvania! Your ultimate guide to launching a successful venture."  
 permalink: /directory/pennsylvania/
 tags: business directory, start up services, business services, business lawyers, registered agents in Pennsylvania, accountants in Pennsylvania, bookkeepers in Pennsylvania
 ---
+
+<center>
+<img alt="pennsylvania state business directory" src="/images/directory-images/state-headers/pennsylvania-bd-header.png" title="Pennsylvania Business Directory" style="width: 72%; height: 72%">
+</center>
 
 ### Pennsylvania Business Startup Services Directory
 

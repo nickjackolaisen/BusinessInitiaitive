@@ -2,12 +2,16 @@
 layout: page
 title: "Texas Business Directory"
 date: 2024-06-03
-update_date: 
+update_date: 2024-07-01
 author: jack_nicholaisen
 summary: "Discover the top business startup services in Texas! Your ultimate guide to launching a successful venture."  
 permalink: /directory/texas/
 tags: business directory, start up services, business services, business lawyers, registered agents,
 ---
+
+<center>
+<img alt="texas state business directory" src="/images/directory-images/state-headers/texas-bd-header.png" title="Texas Business Directory" style="width: 72%; height: 72%">
+</center>
 
 ### Texas Business Startup Services Directory
 

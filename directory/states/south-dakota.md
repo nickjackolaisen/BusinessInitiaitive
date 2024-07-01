@@ -2,12 +2,16 @@
 layout: page
 title: "South Dakota Business Directory"
 date: 2024-06-03
-update_date: 
+update_date: 2024-07-01
 author: jack_nicholaisen
 summary: "Discover the top business startup services in South Dakota! Your ultimate guide to launching a successful venture."  
 permalink: /directory/south-dakota/
 tags: business directory, start up services, business services, business lawyers, registered agents in South Dakota, accountants in South Dakota, bookkeepers in South Dakota
 ---
+
+<center>
+<img alt="south dakota state business directory" src="/images/directory-images/state-headers/south-dakota-bd-header.png" title="South Dakota Business Directory" style="width: 72%; height: 72%">
+</center>
 
 ### South Dakota Business Startup Services Directory
 

@@ -2,12 +2,16 @@
 layout: page
 title: "Oklahoma Business Directory"
 date: 2024-06-03
-update_date: 
+update_date: 2024-07-01
 author: jack_nicholaisen
 summary: "Discover the top business startup services in Oklahoma! Your ultimate guide to launching a successful venture."  
 permalink: /directory/oklahoma/
 tags: business directory, start up services, business services, business lawyers, registered agents in Oklahoma, accountants in Oklahoma, bookkeepers in Oklahoma
 ---
+
+<center>
+<img alt="oklahoma state business directory" src="/images/directory-images/state-headers/oklahoma-bd-header.png" title="Oklahoma Business Directory" style="width: 72%; height: 72%">
+</center>
 
 ### Oklahoma Business Startup Services Directory
 
