@@ -2,12 +2,16 @@
 layout: page
 title: "New Hampshire Business Directory"
 date: 2024-06-03
-update_date: 
+update_date: 2024-07-01
 author: jack_nicholaisen
 summary: "Discover the top business startup services in New Hampshire! Your ultimate guide to launching a successful venture."  
 permalink: /directory/new-hampshire/
 tags: business directory, start up services, business services, business lawyers, registered agents in New Hampshire, accountants in New Hampshire, bookkeepers in New Hampshire
 ---
+
+<center>
+<img alt="new hampshire state business directory" src="/images/directory-images/state-headers/new-hampshire-bd-header.png" title="New Hampshire Business Directory" style="width: 72%; height: 72%">
+</center>
 
 ### New Hampshire Business Startup Services Directory
 

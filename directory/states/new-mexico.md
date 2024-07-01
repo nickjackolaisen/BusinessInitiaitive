@@ -2,12 +2,16 @@
 layout: page
 title: "New Mexico Business Directory"
 date: 2024-06-03
-update_date: 
+update_date: 2024-07-01
 author: jack_nicholaisen
 summary: "Discover the top business startup services in New Mexico! Your ultimate guide to launching a successful venture."  
 permalink: /directory/new-mexico/
 tags: business directory, start up services, business services, business lawyers, registered agents in New Mexico, accountants in New Mexico, bookkeepers in New Mexico
 ---
+
+<center>
+<img alt="new mexico state business directory" src="/images/directory-images/state-headers/new-mexico-bd-header.png" title="New Mexico Business Directory" style="width: 72%; height: 72%">
+</center>
 
 ### New Mexico Business Startup Services Directory
 

@@ -2,12 +2,16 @@
 layout: page
 title: "New Jersey Business Directory"
 date: 2024-06-03
-update_date: 
+update_date: 2024-07-01
 author: jack_nicholaisen
 summary: "Discover the top business startup services in New Jersey! Your ultimate guide to launching a successful venture."  
 permalink: /directory/new-jersey/
 tags: business directory, start up services, business services, business lawyers, registered agents in New Jersey, accountants in New Jersey, bookkeepers in New Jersey
 ---
+
+<center>
+<img alt="new jersey state business directory" src="/images/directory-images/state-headers/new-jersey-bd-header.png" title="New Jersey Business Directory" style="width: 72%; height: 72%">
+</center>
 
 ### New Jersey Business Startup Services Directory
 

@@ -2,12 +2,16 @@
 layout: page
 title: "New York Business Directory"
 date: 2024-06-03
-update_date: 
+update_date: 2024-07-01
 author: jack_nicholaisen
 summary: "Discover the top business startup services in New York! Your ultimate guide to launching a successful venture."  
 permalink: /directory/new-york/
 tags: business directory, start up services, business services, business lawyers, registered agents in New York, accountants in New York, bookkeepers in New York
 ---
+
+<center>
+<img alt="new york state business directory" src="/images/directory-images/state-headers/new-york-bd-header.png" title="New York Business Directory" style="width: 72%; height: 72%">
+</center>
 
 ### New York Business Startup Services Directory
 

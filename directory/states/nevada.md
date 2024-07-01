@@ -2,12 +2,16 @@
 layout: page
 title: "Nevada Business Directory"
 date: 2023-12-03
-update_date: 2024-06-03
+update_date: 2024-07-01
 author: jack_nicholaisen
 summary: "Discover the top business startup services in Nevada! Your ultimate guide to launching a successful venture."  
 permalink: /directory/nevada/
 tags: business directory, start up services, business services, business lawyers, registered agents,
 ---
+
+<center>
+<img alt="nevada state business directory" src="/images/directory-images/state-headers/nevada-bd-header.png" title="Nevada Business Directory" style="width: 72%; height: 72%">
+</center>
 
 ### Nevada Business Startup Services Directory
 

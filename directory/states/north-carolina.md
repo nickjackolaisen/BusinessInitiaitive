@@ -2,12 +2,16 @@
 layout: page
 title: "North Carolina Business Directory"
 date: 2024-06-03
-update_date: 
+update_date: 2024-07-01
 author: jack_nicholaisen
 summary: "Discover the top business startup services in North Carolina! Your ultimate guide to launching a successful venture."  
 permalink: /directory/north-carolina/
 tags: business directory, start up services, business services, business lawyers, registered agents in North Carolina, accountants in North Carolina, bookkeepers in North Carolina
 ---
+
+<center>
+<img alt="north carolina state business directory" src="/images/directory-images/state-headers/north-carolina-bd-header.png" title="North Carolina Business Directory" style="width: 72%; height: 72%">
+</center>
 
 ### North Carolina Business Startup Services Directory
 

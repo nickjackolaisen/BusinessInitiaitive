@@ -2,12 +2,16 @@
 layout: page
 title: "North Dakota Business Directory"
 date: 2024-06-03
-update_date: 
+update_date: 2024-07-01
 author: jack_nicholaisen
 summary: "Discover the top business startup services in North Dakota! Your ultimate guide to launching a successful venture."  
 permalink: /directory/north-dakota/
 tags: business directory, start up services, business services, business lawyers, registered agents in North Dakota, accountants in North Dakota, bookkeepers in North Dakota
 ---
+
+<center>
+<img alt="north dakota state business directory" src="/images/directory-images/state-headers/north-dakota-bd-header.png" title="North Dakota Business Directory" style="width: 72%; height: 72%">
+</center>
 
 ### North Dakota Business Startup Services Directory
 
