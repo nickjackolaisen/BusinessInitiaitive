@@ -2,7 +2,7 @@
 title: "Marketing & Advertising Arrangements| Comprehensive Guide to M&A Due Diligence"
 layout: post
 date: 2024-06-03
-update_date: 2024-06-09
+update_date: 2024-07-01
 author: jack_nicholaisen
 summary: "Discover essential steps for effective marketing due diligence in M&A. Enhance your acquisition strategy with this comprehensive guide."
 thumbnail: /images/posts-headers/m-and-a/m-and-a-due-diligence-marketing-arrangements-header.png
@@ -50,7 +50,7 @@ A detailed examination of marketing arrangements not only reveals how the target
 By scrutinizing these elements, buyers can make informed decisions about the viability and future prospects of the acquisition.
 
 <center>
-<img alt="imagename" src="/images/content/marketing-strategy.png" title="imagetitle" style="width: 63%; height: 63%">
+<img alt="sales and marketing due diligence checklist" src="/images/content/marketing-strategy.png" title="digital marketing due diligence" style="width: 63%; height: 63%">
 </center>
 
 <p>

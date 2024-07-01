@@ -2,7 +2,7 @@
 title: "Mastering Related Party Transactions | Comprehensive Guide to M&A Due Diligence"
 layout: post
 date: 2024-06-02
-update_date: 2024-06-09
+update_date: 2024-07-01
 author: jack_nicholaisen
 summary: "Unlock the secrets of managing related party transactions in M&A due diligence with our comprehensive guide to ensure transparency and compliance."
 thumbnail: /images/posts-headers/m-and-a/m-and-a-due-diligence-related-party-transactions-header.png
@@ -43,7 +43,7 @@ These transactions involve agreements or arrangements between the target company
 By thoroughly examining these relationships, you can uncover potential conflicts of interest, assess the fairness of business dealings, and ensure compliance with relevant laws and regulations.
 
 <center>
-<img alt="imagename" src="/images/content/handshake.png" title="imagetitle" style="width: 63%; height: 63%">
+<img alt="audit related party transactions" src="/images/content/handshake.png" title="how to identify related party transactions" style="width: 63%; height: 63%">
 </center>
 
 <p>

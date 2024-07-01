@@ -2,7 +2,7 @@
 title: "Employees and Management Best Practices | Comprehensive M&A Due Diligence"
 layout: post
 date: 2024-06-02
-update_date: 2024-06-09
+update_date: 2024-07-01
 author: jack_nicholaisen
 summary: "Discover essential best practices for M&A due diligence on employees and management to ensure a successful acquisition and smooth integration."
 thumbnail: /images/posts-headers/m-and-a/m-and-a-due-diligence-employees-and-management-header.png
@@ -41,7 +41,7 @@ Keep reading to master the essentials of M&A due diligence for employees and man
 Your successful acquisition starts here...
 
 <center>
-<img alt="imagename" src="/images/content/employees.png" title="imagetitle" style="width: 63%; height: 63%">
+<img alt="employee due diligence checklist" src="/images/content/employees.png" title="management due diligence" style="width: 63%; height: 63%">
 </center>
 
 <p>

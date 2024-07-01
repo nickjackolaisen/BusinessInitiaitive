@@ -2,13 +2,13 @@
 title: "Analyzing Customers & Sales for Success | Comprehensive M&A Due Diligence"
 layout: post
 date: 2024-05-30
-update_date: 2024-06-09
+update_date: 2024-07-01
 author: jack_nicholaisen
 summary: "Unlock the secrets of M&A success with our guide on analyzing customers & sales. Ensure stability, assess risks, and boost your due diligence process."
 thumbnail: /images/posts-headers/m-and-a/m-and-a-due-diligence-customers-and-sales-header.png
 image: /images/posts-headers/m-and-a/m-and-a-due-diligence-customers-and-sales-header.png
 permalink: /mergers-and-acquisitions/due-diligence/customers-sales/
-tags: 
+tags: customer due diligence
 ---
 
 Understanding the intricacies of mergers and acquisitions (M&A) is essential for business success. 
@@ -33,7 +33,7 @@ This involves a comprehensive review of the company's key customers, revenue con
 The goal is to identify any potential risks associated with customer dependency and retention, as well as to evaluate the overall health and predictability of the company's revenue streams.
 
 <center>
-<img alt="imagename" src="/images/content/transaction.png" title="imagetitle" style="width: 63%; height: 63%">
+<img alt="what is customer due diligence" src="/images/content/transaction.png" title="business sale due diligence checklist" style="width: 63%; height: 63%">
 </center>
 
 <p>

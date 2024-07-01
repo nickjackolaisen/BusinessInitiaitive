@@ -2,7 +2,7 @@
 title: "Essential Property Review Steps and Benefits | Guide to M&A Due Diligence"
 layout: post
 date: 2024-06-02
-update_date: 2024-06-09
+update_date: 2024-07-01
 author: jack_nicholaisen
 summary: "Discover essential steps and benefits of property due diligence in M&A to ensure a smooth and informed acquisition process."
 thumbnail: /images/posts-headers/m-and-a/m-and-a-due-diligence-property-header.png
@@ -39,7 +39,7 @@ This encompasses real estate, equipment, and other tangible assets critical to t
 Ensuring accurate property records and understanding any liabilities associated with these assets can significantly impact the valuation and feasibility of the acquisition.
 
 <center>
-<img alt="imagename" src="/images/content/real-estate.png" title="imagetitle" style="width: 63%; height: 63%">
+<img alt="due diligence real estate" src="/images/content/real-estate.png" title="what is due diligence in real estate" style="width: 63%; height: 63%">
 </center>
 
 <p>

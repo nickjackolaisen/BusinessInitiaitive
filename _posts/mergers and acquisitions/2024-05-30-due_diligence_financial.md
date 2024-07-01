@@ -2,13 +2,13 @@
 title: "Essential Financial Due Diligence Steps for Successful Mergers and Acquisitions"
 layout: post
 date: 2024-05-30
-update_date: 2024-06-09
+update_date: 2024-07-01
 author: jack_nicholaisen
 summary: "Master financial due diligence for M&A with our comprehensive guide. Learn essential steps and best practices to make informed decisions."
 thumbnail: /images/posts-headers/m-and-a/m-and-a-due-diligence-financial-header.png
 image: /images/posts-headers/m-and-a/m-and-a-due-diligence-financial-header.png
 permalink: /mergers-and-acquisitions/due-diligence/financials/
-tags: 
+tags: what is financial due diligence
 ---
 
 Navigating mergers and acquisitions can be complex. 
@@ -36,7 +36,7 @@ Ready to dive in and master financial due diligence for your next merger or acqu
 Keep reading to ensure you're fully prepared.
 
 <center>
-<img alt="imagename" src="/images/content/financial-planning.png" title="imagetitle" style="width: 63%; height: 63%">
+<img alt="financial due diligence" src="/images/content/financial-planning.png" title="due diligence money" style="width: 63%; height: 63%">
 </center>
 
 <p>

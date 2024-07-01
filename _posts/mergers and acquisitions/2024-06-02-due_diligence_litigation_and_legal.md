@@ -2,7 +2,7 @@
 title: "Litigation & Legal Due Diligence | Comprehensive Guide to M&A"
 layout: post
 date: 2024-06-02
-update_date: 2024-06-09
+update_date: 2024-07-01
 author: jack_nicholaisen
 summary: "Expertly navigate litigation and legal due diligence in M&A with our comprehensive guide, featuring practical steps and essential resources."
 thumbnail: /images/posts-headers/m-and-a/m-and-a-due-diligence-litigation-and-legal-header.png
@@ -45,7 +45,7 @@ Ready to master litigation and legal due diligence?
 Keep reading to arm yourself with essential knowledge and tools.
 
 <center>
-<img alt="imagename" src="/images/content/legal-binding.png" title="imagetitle" style="width: 63%; height: 63%">
+<img alt="legal due diligence checklist" src="/images/content/legal-binding.png" title="legal due diligence process" style="width: 63%; height: 63%">
 </center>
 
 <p>
@@ -279,7 +279,7 @@ This involves understanding the regulatory framework and reviewing compliance re
 ## FAQs - Frequently Asked Questions About Litigation and Legal Due Diligence During the M&A Process
 
 <center>
-<img alt="Business FAQs" src="/images/content/faqs-section.png" title="Common Business Questions" style="width: 63%; height: 63%">
+<img alt="m&a legal due diligence checklist" src="/images/content/faqs-section.png" title="m&a legal due diligence" style="width: 63%; height: 63%">
 </center>
 
 <br>
