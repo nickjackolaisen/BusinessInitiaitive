@@ -472,7 +472,7 @@ Practical steps for implementing a continuous improvement process include:
 
 <link rel="stylesheet" href="/assets/css/faq-styles.css">
 
-{% include faq-template.html faq_data="faq_business_tips_enhancing_business_appeal" %}
+{% include faq-template.html faq_data="faq_business_tips_unlock_customer_loyalty" %}
 
 <br>
 
