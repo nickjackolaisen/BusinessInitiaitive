@@ -2,7 +2,7 @@
 title: "13 Ideas to Create a Sustainability Strategy for Your Business"
 layout: post
 date: 2023-08-14
-update_date: 2023-09-13
+update_date: 2024-07-05
 author: jack_nicholaisen
 summary: "Corporate sustainability matters. Learn to develop, implement, and measure strategies for long-term success and positive impact. Read on!"
 permalink: /corporation/sustainability-strategies/
@@ -88,7 +88,7 @@ By implementing these strategies, businesses can reduce their environmental impa
 
 There are several reasons why companies should invest in sustainability initiatives:
 
-**1.  Enhanced reputation:** [Companies with strong sustainability programs](https://www2.deloitte.com/content/dam/Deloitte/global/Documents/About-Deloitte/gx-cr-responsible-business.pdf) are often viewed more favorably by consumers, investors, and other stakeholders, leading to increased brand loyalty and market share.
+**1.  Enhanced reputation:** [Companies with strong sustainability programs](https://www2.deloitte.com/content/dam/Deloitte/global/Documents/About-Deloitte/gx-cr-responsible-business.pdf) are often viewed more favorably by consumers, investors, and other stakeholders, leading to increased <a href="https://www.businessinitiative.org/business-tips/customer-loyalty/" target="_blank">brand loyalty</a> and market share.
 
 **2.  Cost savings:** [Implementing sustainable practices](https://www.worldbank.org/en/topic/sustainabledevelopment/brief/sustainable-cost-savings) can result in reduced resource consumption and waste, leading to lower operational costs.
 
@@ -140,9 +140,13 @@ Transparently communicating sustainability efforts is essential to building trus
 
 ## The Future of Corporate Sustainability
 
-As environmental and social concerns continue to gain prominence, companies must stay ahead of the curve by embracing new technologies, innovative business models, and collaborative approaches to sustainability. By doing so, they can create long-term value for their stakeholders and contribute to a more sustainable world.
+As environmental and social concerns continue to gain prominence, companies must stay ahead of the curve by embracing new technologies, innovative business models, and collaborative approaches to sustainability. 
 
-Don't miss out on the opportunity to shape your company's future and make a positive impact. Start implementing corporate sustainability initiatives today!
+By doing so, they can create long-term value for their stakeholders and contribute to a more sustainable world.
+
+Don't miss out on the opportunity to shape your company's future and make a positive impact. 
+
+**Start implementing corporate sustainability initiatives today!**
 
 At Business Initiative, we understand that implementing a sustainability strategy can be overwhelming and time-consuming.
 

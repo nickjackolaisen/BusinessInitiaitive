@@ -2,7 +2,7 @@
 title: "Reputation Management - Protect and Enhance Your Corporation's Image"
 layout: post
 date: 2023-08-07
-update_date: 2024-06-18
+update_date: 2024-07-05
 author: jack_nicholaisen
 summary: "Protect your corporation's image in the digital age with reputation management strategies. Learn actionable tips to enhance your online presence NOW!"
 permalink: /corporation/reputation-management/
@@ -116,7 +116,7 @@ This involves creating a strong brand identity, engaging with customers and empl
 
 One example of a company that has successfully built a positive corporate image is Patagonia. 
 
-The outdoor clothing company has a strong commitment to sustainability and social responsibility, which has helped to build brand loyalty among environmentally conscious consumers.
+The outdoor clothing company has a strong commitment to sustainability and social responsibility, which has helped to build <a href="https://www.businessinitiative.org/business-tips/customer-loyalty/" target="_blank">brand loyalty</a> among environmentally conscious consumers.
 
 To build a positive corporate image, it's important to focus on your company's values and mission. 
 

@@ -2,7 +2,7 @@
 title: "The Numbers Behind B Corps - Growth, Social, Environmental, Financial Stats"
 layout: post
 date: 2023-08-05
-update_date: 2023-11-21
+update_date: 2024-07-05
 author: jack_nicholaisen
 summary: "Explore B Corps' growth, impact, and success factors. Uncover their potential advantages for entrepreneurs and business owners!"
 thumbnail: /images/posts-headers/b-corp-statistics-header.png
@@ -162,7 +162,8 @@ This is especially important for attracting and retaining top talent.
 
 By becoming a B Corp, companies can differentiate themselves from competitors and appeal to consumers who value social and environmental responsibility. 
 
-This can lead to increased brand loyalty and customer retention.
+This can lead to increased <a href="https://www.businessinitiative.org/business-tips/customer-loyalty/" target="_blank">brand loyalty</a> and customer retention.
+
 
 ### 9.  Legal protection: 
 
