@@ -1,8 +1,8 @@
 ---
-title: "CDO Salary Analysis: How Company Size, Industry, and Location Affect Compensation"
+title: "CDO Salary Analysis: Impact of Company Size, Industry Trends, & Location on Compensation"
 layout: post
 date: 2024-06-05
-update_date: 2024-06-06
+update_date: 2024-07-09
 author: jack_nicholaisen
 summary: "Discover how Chief Data Officer salaries vary by company size, experience, industry, and location. Unlock insights to attract top talent and drive business success." 
 thumbnail: /images/posts-headers/cdo-salary-business-size-header.png
@@ -119,7 +119,7 @@ As businesses continue to recognize the value of data, the role of the CDO will 
 ## Factors Influencing CDO Salaries
 
 <center>
-<img alt="What degree do you need to be a Chief Data Officer" src="/images/content/analyzing-trends.png" title="how much does a chief data officer make" style="width: 63%; height: 63%">
+<img alt="CDO pay by industry" src="/images/content/analyzing-trends.png" title="how much does a chief data officer make" style="width: 63%; height: 63%">
 </center>
 
 ### Experience and Education
@@ -401,7 +401,7 @@ Additionally, we consider the responsibilities and roles typically associated wi
 ## Average Chief Data Officer Compensation by Company Size
 
 <center>
-<img alt="chief data officer salary range" src="/images/content/small-medium-large.png" title="Chief Data Officer (CDO) Role and Responsibilities" style="width: 63%; height: 63%">
+<img alt="average CDO compensation" src="/images/content/small-medium-large.png" title="Chief Data Officer (CDO) Role and Responsibilities" style="width: 63%; height: 63%">
 </center>
 
 The size of the company significantly impacts CDO salaries and their roles. 
@@ -658,7 +658,7 @@ By leveraging data as a strategic asset, businesses can achieve significant grow
 ## Practical Tips for Business Owners
 
 <center>
-<img alt="what is a cdo in business" src="/images/content/we-are-hiring.png" title="What is the Number 1 priority of Chief Data Officer" style="width: 63%; height: 63%">
+<img alt="how much does a CDO make" src="/images/content/we-are-hiring.png" title="What is the Number 1 priority of Chief Data Officer" style="width: 63%; height: 63%">
 </center>
 
 ### Hiring the Right CDO
