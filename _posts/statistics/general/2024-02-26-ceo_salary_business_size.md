@@ -100,7 +100,7 @@ In recent years, CEO compensation has continued to rise, albeit at a slower pace
 
 The median pay package for the top 200 chief executives at public companies with at least $1 billion in revenue was $15.1 million in 2012, a [16% increase from 2011](https://en.wikipedia.org/wiki/Executive_compensation_in_the_United_States). 
 
-The highest-paid CEO in the US in 2020 was Alphabet, inc. CEO, Sundar Pichai, with a salary of **$280,621,552** in 2019.
+The highest-paid CEO in the US in 2019 was Alphabet, inc. CEO, Sundar Pichai, with a salary of **$280,621,552**.
 
 ### Impact of Economic Factors on CEO Salaries
 
