@@ -1,12 +1,14 @@
 ---
 layout: page
 title: "DBA Registration Services"
-summary: "Get your business's official 'Doing Business As...' name here "
-permalink: /dba-registration/
+summary: "Get your business's official 'Doing Business As...' name here!"
+permalink: /services/dba-registration/
 tags: dba, dba registration, dba services
 ---
 
-A DBA (Doing Business As) registration allows a business to operate under a name different from its legal, registered name. This can offer numerous advantages for entrepreneurs and established companies alike. In this article, we'll explore the key benefits of DBA registration and how it can positively impact your business.
+A DBA (Doing Business As) registration allows a business to operate under a name different from its legal, registered name. 
+
+This can offer numerous advantages for entrepreneurs and established companies alike. 
 
 ## Enhanced Branding Opportunities
 
