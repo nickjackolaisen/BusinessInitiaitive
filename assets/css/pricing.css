@@ -20,7 +20,6 @@
     text-align: center;
     transition: transform 0.3s, box-shadow 0.3s;
     background-image: linear-gradient(to bottom, rgba(0, 99, 160, 0.1), rgba(98, 158, 45, 0.1));
-    border-image: linear-gradient(to bottom, #0063A0, #629E2D) 1;
 }
 
 
