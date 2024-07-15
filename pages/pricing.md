@@ -13,7 +13,7 @@ tags: services, offerings, registration, filing, call, meeting, schedule, messag
         <h2>Doing Business As Name Registration (DBA)</h2>
         <p>Register your business name efficiently and legally.</p>
         <div class="price">$100 + Filing Fees</div>
-        <a href="https://www.businessinitiative.org/services/dba-registration/" class="cta-button" style="text-decoration:none">Register DBA</a>
+        <a href="https://www.businessinitiative.org/services/dba-registration/" class="cta-button">Register DBA</a>
         <h3>Benefits:</h3>
         <ul>
             <li>Simple and quick process</li>
@@ -26,7 +26,7 @@ tags: services, offerings, registration, filing, call, meeting, schedule, messag
         <p>Protect your brand with federal trademark registration.</p>
         <div class="price">TEAS Plus: $100 + Filing Fees</div>
         <div class="price">TEAS Standard: $150 + Filing Fees</div>
-        <a href="https://www.businessinitiative.org/services/trademark-registration/" class="cta-button" style="text-decoration:none">Register Trademark</a>
+        <a href="https://www.businessinitiative.org/services/trademark-registration/" class="cta-button">Register Trademark</a>
         <h3>Benefits:</h3>
         <ul>
             <li>Exclusive rights to your trademark</li>
@@ -35,10 +35,10 @@ tags: services, offerings, registration, filing, call, meeting, schedule, messag
         </ul>
     </div>
     <div class="pricing-card">
-        <h2>Employee Identificaiton Number Registration and Acquisition (EIN)</h2>
+        <h2>Employee Identification Number Registration and Acquisition (EIN)</h2>
         <p>Obtain your Employer Identification Number (EIN) easily.</p>
         <div class="price">$50 + Filing Fees</div>
-        <a href="https://www.businessinitiative.org/services/ein-registration/" class="cta-button" style="text-decoration:none">Register EIN</a>
+        <a href="https://www.businessinitiative.org/services/ein-registration/" class="cta-button">Register EIN</a>
         <h3>Benefits:</h3>
         <ul>
             <li>Necessary for business tax filings</li>
@@ -50,8 +50,8 @@ tags: services, offerings, registration, filing, call, meeting, schedule, messag
         <h2>Limited Liability Company Registration (LLC)</h2>
         <p>Form your Limited Liability Company (LLC) with ease.</p>
         <div class="price">$200 + Filing and State Fees</div>
-        <p>(Registered Agent Services, OA, and AoC are NOT included)</p>
-        <a href="https://www.businessinitiative.org/services/llc-registration/" class="cta-button" style="text-decoration:none">Register LLC</a>
+        <p class="note">(Registered Agent Services, OA, and AoC are NOT included)</p>
+        <a href="https://www.businessinitiative.org/services/llc-registration/" class="cta-button">Register LLC</a>
         <h3>Benefits:</h3>
         <ul>
             <li>Limited liability protection</li>
@@ -63,8 +63,8 @@ tags: services, offerings, registration, filing, call, meeting, schedule, messag
         <h2>Corporation Registration (Corp)</h2>
         <p>Incorporate your business to gain credibility and legal protection.</p>
         <div class="price">$350 + Filing and State Fees</div>
-        <p>(Registered Agent Services, OA, and AoC are NOT included)</p>
-        <a href="https://www.businessinitiative.org/services/corporation-registration/" class="cta-button" style="text-decoration:none">Register Corporation</a>
+        <p class="note">(Registered Agent Services, OA, and AoC are NOT included)</p>
+        <a href="https://www.businessinitiative.org/services/corporation-registration/" class="cta-button">Register Corporation</a>
         <h3>Benefits:</h3>
         <ul>
             <li>Limited liability for shareholders</li>
@@ -76,8 +76,8 @@ tags: services, offerings, registration, filing, call, meeting, schedule, messag
         <h2>Non-Profit Organization Registration (NPO)</h2>
         <p>Establish your non-profit organization with our expert help.</p>
         <div class="price">$300 + Filing and State Fees</div>
-        <p>(Registered Agent Services, OA, and AoC are NOT included)</p>
-        <a href="https://www.businessinitiative.org/services/non-profit-registration/" class="cta-button" style="text-decoration:none">Register Non-Profit</a>
+        <p class="note">(Registered Agent Services, OA, and AoC are NOT included)</p>
+        <a href="https://www.businessinitiative.org/services/non-profit-registration/" class="cta-button">Register Non-Profit</a>
         <h3>Benefits:</h3>
         <ul>
             <li>Tax-exempt status</li>
@@ -89,8 +89,8 @@ tags: services, offerings, registration, filing, call, meeting, schedule, messag
         <h2>S-Corporation Registration (S-Corp)</h2>
         <p>Form your S-Corporation to enjoy tax benefits and liability protection.</p>
         <div class="price">$300 + Filing and State Fees</div>
-        <p>(Registered Agent Services, OA, and AoC are NOT included)</p>
-        <a href="https://www.businessinitiative.org/services/s-corporation-registration/" class="cta-button" style="text-decoration:none">Register S-Corporation</a>
+        <p class="note">(Registered Agent Services, OA, and AoC are NOT included)</p>
+        <a href="https://www.businessinitiative.org/services/s-corporation-registration/" class="cta-button">Register S-Corporation</a>
         <h3>Benefits:</h3>
         <ul>
             <li>Pass-through taxation</li>
@@ -102,7 +102,7 @@ tags: services, offerings, registration, filing, call, meeting, schedule, messag
         <h2>Partnership Registration (LLP)</h2>
         <p>Register your partnership to simplify operations and enjoy tax benefits.</p>
         <div class="price">$150 + Filing Fees</div>
-        <a href="https://www.businessinitiative.org/services/partnership-registration/" class="cta-button" style="text-decoration:none">Register Partnership</a>
+        <a href="https://www.businessinitiative.org/services/partnership-registration/" class="cta-button">Register Partnership</a>
         <h3>Benefits:</h3>
         <ul>
             <li>Simplified business structure</li>
@@ -111,7 +111,6 @@ tags: services, offerings, registration, filing, call, meeting, schedule, messag
         </ul>
     </div>
 </div>
-
 
 <!-- Calendly inline widget begin -->
 <div class="calendly-inline-widget" data-url="https://calendly.com/businessinitiative/30-minute-consultation-call" style="min-width:320px;height:700px;"></div>
