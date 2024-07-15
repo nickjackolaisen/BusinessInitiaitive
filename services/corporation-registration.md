@@ -39,9 +39,13 @@ Avoid the complexities of dealing with state and local regulations directly. We 
 We provide ongoing support and resources to help you understand the implications of incorporation and how to operate your corporation effectively.
 
 ## How It Works
+
 1. **Consultation:** We'll discuss your business needs and gather the necessary information.
+
 2. **Application Preparation:** Our experts will prepare and submit your incorporation documents.
+
 3. **Receive Your Corporation Status:** You'll receive confirmation of your corporation registration quickly and securely.
+
 4. **Ongoing Support:** We're here to assist with any questions or needs related to your corporation.
 
 ## Get Started Today

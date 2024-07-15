@@ -36,9 +36,13 @@ We handle all paperwork and communication with the IRS and state agencies, makin
 We offer ongoing support to help you understand and manage your S-Corporation effectively.
 
 ## How It Works
+
 1. **Consultation:** Discuss your business needs and gather necessary information.
+
 2. **Application Preparation:** We prepare and submit your S-Corporation registration documents.
+
 3. **Receive Your Status:** Confirmation of your S-Corporation registration is received quickly and securely.
+
 4. **Ongoing Support:** Assistance with any questions or needs related to your S-Corporation.
 
 ## Get Started Today

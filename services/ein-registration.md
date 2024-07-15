@@ -41,9 +41,13 @@ Avoid the complexities of dealing with the IRS directly. We handle the paperwork
 We provide ongoing support and resources to help you understand the implications of your EIN and how to use it effectively in your business operations.
 
 ## How It Works
+
 **1. Consultation:** We'll discuss your business needs and gather the necessary information.
+
 **2. Application Preparation:** Our experts will prepare and submit your EIN application.
+
 **3. Receive Your EIN:** You'll receive your EIN quickly and securely.
+
 **4. Ongoing Support:** We're here to assist with any questions or needs related to your EIN.
 
 ## Get Started Today

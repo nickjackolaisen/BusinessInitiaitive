@@ -39,9 +39,13 @@ Avoid the complexities of dealing with state and federal regulations directly. W
 We provide ongoing support and resources to help you understand the implications of non-profit status and how to operate your organization effectively.
 
 ## How It Works
+
 1. **Consultation:** We'll discuss your organization’s goals and gather the necessary information.
+
 2. **Application Preparation:** Our experts will prepare and submit your non-profit registration documents.
+
 3. **Receive Your Non-Profit Status:** You'll receive confirmation of your non-profit registration quickly and securely.
+
 4. **Ongoing Support:** We're here to assist with any questions or needs related to your non-profit.
 
 ## Get Started Today

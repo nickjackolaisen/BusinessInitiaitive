@@ -39,9 +39,13 @@ Avoid the complexities of dealing with state and local regulations directly. We 
 We provide ongoing support and resources to help you understand the implications of your LLC and how to operate it effectively.
 
 ## How It Works
+
 1. **Consultation:** We'll discuss your business needs and gather the necessary information.
+
 2. **Application Preparation:** Our experts will prepare and submit your LLC formation documents.
+
 3. **Receive Your LLC:** You'll receive confirmation of your LLC registration quickly and securely.
+
 4. **Ongoing Support:** We're here to assist with any questions or needs related to your LLC.
 
 ## Get Started Today

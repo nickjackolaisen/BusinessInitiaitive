@@ -41,9 +41,13 @@ Avoid the complexities of dealing with the United States Patent and Trademark Of
 We provide ongoing support and resources to help you understand the implications of your trademark and how to use it effectively in your business operations.
 
 ## How It Works
+
 1. **Consultation:** We'll discuss your business needs and gather the necessary information.
+
 2. **Application Preparation:** Our experts will prepare and submit your trademark application.
+
 3. **Receive Your Trademark:** You'll receive confirmation of your trademark registration quickly and securely.
+
 4. **Ongoing Support:** We're here to assist with any questions or needs related to your trademark.
 
 ## Get Started Today
