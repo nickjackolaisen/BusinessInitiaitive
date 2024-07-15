@@ -13,7 +13,8 @@ tags: services, offerings, registration, filing, call, meeting, schedule, messag
         <span class="card-abbreviation">DBAs</span>
         <h2>Doing Business As Name Registration</h2>
         <p>Register your business name efficiently and legally.</p>
-        <div class="price">$100 <span class="disclaimer">+ state filing fees</span></div>
+        <div class="price">$100</div>
+        <span class="disclaimer">+ state filing fees</span>
         <a href="https://www.businessinitiative.org/services/dba-registration/" class="cta-button">Register DBA</a>
         <h3>Benefits:</h3>
         <ul>

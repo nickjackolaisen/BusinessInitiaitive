@@ -61,7 +61,7 @@
 .pricing-card .note {
     font-size: 0.9em;
     color: #777;
-    margin-top: -10px;
+    margin-top: 2px;
 }
 
 /* Price styling */
@@ -75,7 +75,7 @@
 .pricing-card .disclaimer {
     font-size: 0.8em;
     color: #777;
-    margin-top: 5px;
+    margin-top: 2px;
 }
 
 /* CTA button styling */
