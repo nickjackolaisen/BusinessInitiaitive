@@ -19,11 +19,22 @@
     padding: 20px;
     text-align: center;
     transition: transform 0.3s, box-shadow 0.3s;
-    background-image: linear-gradient(to bottom, rgba(0, 99, 160, 0.1), rgba(98, 158, 45, 0.1));
-    /* Gradient border */
-    border-image: linear-gradient(to bottom, #0063A0, #629E2D) 1;
+    position: relative; /* For the pseudo-element */
+    background-image: linear-gradient(to bottom, rgba(0, 99, 160, 0.1), rgba(98, 158, 45, 0.1)); /* Faded background gradient */
 }
 
+/* Pseudo-element for gradient border */
+.pricing-card::before {
+    content: "";
+    position: absolute;
+    top: -2px;
+    left: -2px;
+    right: -2px;
+    bottom: -2px;
+    z-index: -1;
+    background: linear-gradient(to bottom, #0063A0, #629E2D);
+    border-radius: 12px; /* Slightly larger to cover the border */
+}
 
 /* Card abbreviation styling */
 .card-abbreviation {
@@ -36,7 +47,6 @@
     font-weight: bold;
     margin-bottom: 10px;
 }
-
 
 /* Pricing card hover effect */
 .pricing-card:hover {
@@ -70,6 +80,9 @@
     font-size: 1.8em;
     margin: 10px 0;
     color: #0056b3;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 /* Disclaimer styling */
@@ -144,4 +157,3 @@ ul li::before {
         margin-bottom: 20px;
     }
 }
-
