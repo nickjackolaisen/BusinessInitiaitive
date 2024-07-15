@@ -12,7 +12,7 @@ tags: services, offerings, registration, filing, call, meeting, schedule, messag
     <div class="pricing-card">
         <h2>Doing Business As Name Registration (DBA)</h2>
         <p>Register your business name efficiently and legally.</p>
-        <div class="price">$100 + Filing Fees</div>
+        <div class="price">$100 <span class="disclaimer">+ state filing fees</span></div>
         <a href="https://www.businessinitiative.org/services/dba-registration/" class="cta-button">Register DBA</a>
         <h3>Benefits:</h3>
         <ul>
@@ -24,8 +24,8 @@ tags: services, offerings, registration, filing, call, meeting, schedule, messag
     <div class="pricing-card">
         <h2>Trademark Registration</h2>
         <p>Protect your brand with federal trademark registration.</p>
-        <div class="price">TEAS Plus: $100 + Filing Fees</div>
-        <div class="price">TEAS Standard: $150 + Filing Fees</div>
+        <div class="price">TEAS Plus: $100 <span class="disclaimer">+ state filing fees</span></div>
+        <div class="price">TEAS Standard: $150 <span class="disclaimer">+ state filing fees</span></div>
         <a href="https://www.businessinitiative.org/services/trademark-registration/" class="cta-button">Register Trademark</a>
         <h3>Benefits:</h3>
         <ul>
@@ -37,7 +37,7 @@ tags: services, offerings, registration, filing, call, meeting, schedule, messag
     <div class="pricing-card">
         <h2>Employee Identification Number Registration and Acquisition (EIN)</h2>
         <p>Obtain your Employer Identification Number (EIN) easily.</p>
-        <div class="price">$50 + Filing Fees</div>
+        <div class="price">$50 <span class="disclaimer">+ state filing fees</span></div>
         <a href="https://www.businessinitiative.org/services/ein-registration/" class="cta-button">Register EIN</a>
         <h3>Benefits:</h3>
         <ul>
@@ -49,7 +49,7 @@ tags: services, offerings, registration, filing, call, meeting, schedule, messag
     <div class="pricing-card">
         <h2>Limited Liability Company Registration (LLC)</h2>
         <p>Form your Limited Liability Company (LLC) with ease.</p>
-        <div class="price">$200 + Filing and State Fees</div>
+        <div class="price">$200 <span class="disclaimer">+ state filing fees</span></div>
         <p class="note">(Registered Agent Services, OA, and AoC are NOT included)</p>
         <a href="https://www.businessinitiative.org/services/llc-registration/" class="cta-button">Register LLC</a>
         <h3>Benefits:</h3>
@@ -62,7 +62,7 @@ tags: services, offerings, registration, filing, call, meeting, schedule, messag
     <div class="pricing-card">
         <h2>Corporation Registration (Corp)</h2>
         <p>Incorporate your business to gain credibility and legal protection.</p>
-        <div class="price">$350 + Filing and State Fees</div>
+        <div class="price">$350 <span class="disclaimer">+ state filing fees</span></div>
         <p class="note">(Registered Agent Services, OA, and AoC are NOT included)</p>
         <a href="https://www.businessinitiative.org/services/corporation-registration/" class="cta-button">Register Corporation</a>
         <h3>Benefits:</h3>
@@ -75,7 +75,7 @@ tags: services, offerings, registration, filing, call, meeting, schedule, messag
     <div class="pricing-card">
         <h2>Non-Profit Organization Registration (NPO)</h2>
         <p>Establish your non-profit organization with our expert help.</p>
-        <div class="price">$300 + Filing and State Fees</div>
+        <div class="price">$300 <span class="disclaimer">+ state filing fees</span></div>
         <p class="note">(Registered Agent Services, OA, and AoC are NOT included)</p>
         <a href="https://www.businessinitiative.org/services/non-profit-registration/" class="cta-button">Register Non-Profit</a>
         <h3>Benefits:</h3>
@@ -88,7 +88,7 @@ tags: services, offerings, registration, filing, call, meeting, schedule, messag
     <div class="pricing-card">
         <h2>S-Corporation Registration (S-Corp)</h2>
         <p>Form your S-Corporation to enjoy tax benefits and liability protection.</p>
-        <div class="price">$300 + Filing and State Fees</div>
+        <div class="price">$300 <span class="disclaimer">+ state filing fees</span></div>
         <p class="note">(Registered Agent Services, OA, and AoC are NOT included)</p>
         <a href="https://www.businessinitiative.org/services/s-corporation-registration/" class="cta-button">Register S-Corporation</a>
         <h3>Benefits:</h3>
@@ -101,7 +101,7 @@ tags: services, offerings, registration, filing, call, meeting, schedule, messag
     <div class="pricing-card">
         <h2>Partnership Registration (LLP)</h2>
         <p>Register your partnership to simplify operations and enjoy tax benefits.</p>
-        <div class="price">$150 + Filing Fees</div>
+        <div class="price">$150 <span class="disclaimer">+ state filing fees</span></div>
         <a href="https://www.businessinitiative.org/services/partnership-registration/" class="cta-button">Register Partnership</a>
         <h3>Benefits:</h3>
         <ul>

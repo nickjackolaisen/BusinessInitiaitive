@@ -56,6 +56,13 @@
     color: #0056b3;
 }
 
+/* Disclaimer styling */
+.pricing-card .disclaimer {
+    font-size: 0.8em;
+    color: #777;
+    margin-top: 5px;
+}
+
 /* CTA button styling */
 .cta-button {
     display: inline-block;
