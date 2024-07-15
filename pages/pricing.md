@@ -117,7 +117,7 @@ tags: services, offerings, registration, filing, call, meeting, schedule, messag
         <div class="card-abbreviation">LLPs</div>
         <h2>Partnership Registration</h2>
         <p>Register your partnership to simplify operations and enjoy tax benefits.</p>
-        <div class="price">$150</div>
+        <div class="price">$200</div>
         <div class="disclaimer">+ state filing fees</div>
         <a href="https://www.businessinitiative.org/services/partnership-registration/" class="cta-button">Register Partnership</a>
         <h3>Benefits:</h3>
