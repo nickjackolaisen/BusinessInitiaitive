@@ -73,6 +73,8 @@
 /* CTA button hover effect */
 .cta-button:hover {
     background-color: #218838;
+    color: #333;
+    text-decoration: none !important;
 }
 
 /* Benefits header styling */
