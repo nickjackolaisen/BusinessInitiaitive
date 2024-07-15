@@ -21,6 +21,7 @@
     transition: transform 0.3s, box-shadow 0.3s;
     position: relative; /* For the pseudo-element */
     background-image: linear-gradient(to bottom, rgba(0, 99, 160, 0.1), rgba(98, 158, 45, 0.1)); /* Faded background gradient */
+    overflow: hidden; /* Ensure the pseudo-element does not overflow */
 }
 
 /* Pseudo-element for gradient border */
@@ -34,6 +35,8 @@
     z-index: -1;
     background: linear-gradient(to bottom, #0063A0, #629E2D);
     border-radius: 12px; /* Slightly larger to cover the border */
+    padding: 1px; /* Ensure the gradient border is visible */
+    box-sizing: border-box;
 }
 
 /* Card abbreviation styling */
@@ -52,6 +55,11 @@
 .pricing-card:hover {
     transform: translateY(-5px);
     box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
+}
+
+/* Ensure the pseudo-element stays intact on hover */
+.pricing-card:hover::before {
+    background: linear-gradient(to bottom, #0063A0, #629E2D);
 }
 
 /* Header styling within the card */
