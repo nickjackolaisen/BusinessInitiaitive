@@ -10,7 +10,8 @@ tags: services, offerings, registration, filing, call, meeting, schedule, messag
 
 <div class="pricing-container">
     <div class="pricing-card">
-        <h2>Doing Business As Name Registration (DBA)</h2>
+        <span class="card-abbreviation">DBA</span>
+        <h2>Doing Business As Name Registration</h2>
         <p>Register your business name efficiently and legally.</p>
         <div class="price">$100 <span class="disclaimer">+ state filing fees</span></div>
         <a href="https://www.businessinitiative.org/services/dba-registration/" class="cta-button">Register DBA</a>
@@ -35,7 +36,8 @@ tags: services, offerings, registration, filing, call, meeting, schedule, messag
         </ul>
     </div>
     <div class="pricing-card">
-        <h2>Employee Identification Number Registration and Acquisition (EIN)</h2>
+        <span class="card-abbreviation">EIN</span>
+        <h2>Employee Identification Number Registration</h2>
         <p>Obtain your Employer Identification Number (EIN) easily.</p>
         <div class="price">$50 <span class="disclaimer">+ state filing fees</span></div>
         <a href="https://www.businessinitiative.org/services/ein-registration/" class="cta-button">Register EIN</a>
@@ -47,7 +49,8 @@ tags: services, offerings, registration, filing, call, meeting, schedule, messag
         </ul>
     </div>
     <div class="pricing-card">
-        <h2>Limited Liability Company Registration (LLC)</h2>
+        <span class="card-abbreviation">LLC</span>
+        <h2>Limited Liability Company Registration</h2>
         <p>Form your Limited Liability Company (LLC) with ease.</p>
         <div class="price">$200 <span class="disclaimer">+ state filing fees</span></div>
         <p class="note">(Registered Agent Services, OA, and AoC are NOT included)</p>
@@ -60,7 +63,7 @@ tags: services, offerings, registration, filing, call, meeting, schedule, messag
         </ul>
     </div>
     <div class="pricing-card">
-        <h2>Corporation Registration (Corp)</h2>
+        <h2>Corporation Registration</h2>
         <p>Incorporate your business to gain credibility and legal protection.</p>
         <div class="price">$350 <span class="disclaimer">+ state filing fees</span></div>
         <p class="note">(Registered Agent Services, OA, and AoC are NOT included)</p>
@@ -73,7 +76,8 @@ tags: services, offerings, registration, filing, call, meeting, schedule, messag
         </ul>
     </div>
     <div class="pricing-card">
-        <h2>Non-Profit Organization Registration (NPO)</h2>
+        <span class="card-abbreviation">NPO</span>
+        <h2>Non-Profit Organization Registration</h2>
         <p>Establish your non-profit organization with our expert help.</p>
         <div class="price">$300 <span class="disclaimer">+ state filing fees</span></div>
         <p class="note">(Registered Agent Services, OA, and AoC are NOT included)</p>
@@ -86,7 +90,8 @@ tags: services, offerings, registration, filing, call, meeting, schedule, messag
         </ul>
     </div>
     <div class="pricing-card">
-        <h2>S-Corporation Registration (S-Corp)</h2>
+        <span class="card-abbreviation">S-Corp</span>
+        <h2>S-Corporation Registration</h2>
         <p>Form your S-Corporation to enjoy tax benefits and liability protection.</p>
         <div class="price">$300 <span class="disclaimer">+ state filing fees</span></div>
         <p class="note">(Registered Agent Services, OA, and AoC are NOT included)</p>
@@ -99,7 +104,8 @@ tags: services, offerings, registration, filing, call, meeting, schedule, messag
         </ul>
     </div>
     <div class="pricing-card">
-        <h2>Partnership Registration (LLP)</h2>
+        <span class="card-abbreviation">LLP</span>
+        <h2>Partnership Registration</h2>
         <p>Register your partnership to simplify operations and enjoy tax benefits.</p>
         <div class="price">$150 <span class="disclaimer">+ state filing fees</span></div>
         <a href="https://www.businessinitiative.org/services/partnership-registration/" class="cta-button">Register Partnership</a>
