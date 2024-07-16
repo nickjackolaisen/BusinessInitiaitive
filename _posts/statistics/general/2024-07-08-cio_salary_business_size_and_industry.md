@@ -409,27 +409,28 @@ In today's competitive corporate landscape, the compensation packages of top exe
 
 Understanding how these key leaders are rewarded provides insights into the value placed on their strategic and operational roles within major organizations. 
 
-<a href="https://www.cio.com/article/220288/how-much-do-cios-really-make-pay-packages-of-25-fortune-500-execs-revealed.html" target="_blank">Cio.com</a> analyzed the pay packages of 25 CIOs from Fortune 500 companies, revealing a detailed breakdown of their salaries, bonuses, stock awards, and other forms of compensation. 
+<a href="https://www.cio.com/" target="_blank">Cio.com</a> analyzed the pay packages of 25 CIOs from Fortune 500 companies, revealing a detailed breakdown of their salaries, bonuses, stock awards, and other forms of compensation. 
 
 This data not only highlights the financial incentives for these high-ranking professionals but also underscores the critical importance of their contributions to their respective companies. 
 
 Below is a comprehensive table summarizing the compensation details for these top CIOs.
 
 <style>
-  table {
+  .cio-compensation table {
     width: 100%;
     border-collapse: collapse;
   }
-  th, td {
+  .cio-compensation th, td {
     border: 1px solid black;
     padding: 8px;
     text-align: left;
   }
-  th {
+  .cio-compensation th {
     background-color: #f2f2f2;
   }
 </style>
 
+<div class="cio-compensation">
 <table>
     <thead>
         <tr>
@@ -450,7 +451,7 @@ Below is a comprehensive table summarizing the compensation details for these to
             <td>$617,490</td>
             <td>$376,696</td>
             <td>$584,235</td>
-              td>$1,908,700</td>
+            <td>$1,908,700</td>
         </tr>
         <tr>
             <td>JCPenney</td>
@@ -670,7 +671,9 @@ Below is a comprehensive table summarizing the compensation details for these to
         </tr>
     </tbody>
 </table>
+</div>
 
+*<a href="https://www.cio.com/article/220288/how-much-do-cios-really-make-pay-packages-of-25-fortune-500-execs-revealed.html" target="_blank">Source</a>*
 
 ## Benefits of Offering a Competitive CIO Salary
 

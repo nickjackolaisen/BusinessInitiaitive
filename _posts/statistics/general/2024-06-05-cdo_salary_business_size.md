@@ -2,7 +2,7 @@
 title: "CDO Salary Analysis: Impact of Company Size, Industry Trends, & Location on Compensation"
 layout: post
 date: 2024-06-05
-update_date: 2024-07-09
+update_date: 2024-07-15
 author: jack_nicholaisen
 summary: "Discover how Chief Data Officer salaries vary by company size, experience, industry, and location. Unlock insights to attract top talent and drive business success." 
 thumbnail: /images/posts-headers/cdo-salary-business-size-header.png
@@ -179,20 +179,23 @@ Additionally, regions with a high demand for data professionals but a limited su
 Here is a breakdown of CDO salaries across 20 different countries:
 
 <style>
-    table {
+    .cdo-compensation table {
         width: 100%;
         border-collapse: collapse;
     }
-    th, td {
+    .cdo-compensationth, td {
         padding: 10px;
         border: 1px solid #ddd;
         text-align: left;
     }
-    th {
+    .cdo-compensation th {
         background-color: #f2f2f2;
     }
 </style>
+
 <h3>Chief Data Officer Salaries Globally in 2024</h3>
+
+<div class="cdo-compensation">
 <table>
     <thead>
         <tr>
@@ -346,6 +349,7 @@ Here is a breakdown of CDO salaries across 20 different countries:
         </tr>
     </tbody>
 </table>
+</div>
 
 *<a href="https://digitaldefynd.com/IQ/chief-data-officer-cdo-salary-in-the-us-and-the-world/" target="_blank">Source</a>*
 

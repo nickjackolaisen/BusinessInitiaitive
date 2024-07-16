@@ -94,7 +94,7 @@
 /* CTA button hover effect */
 .cta-button:hover {
     background-color: #218838;
-    color: #333;
+    color: rgb(104, 104, 104);
     text-decoration: none !important;
 }
 
