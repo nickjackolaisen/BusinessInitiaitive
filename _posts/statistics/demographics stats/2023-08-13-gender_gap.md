@@ -2,7 +2,7 @@
 title: "The Gender Gap in Business Ownership"
 layout: post
 date: 2023-08-13
-update_date: 2023-11-20
+update_date: 2024-07-16
 author: jack_nicholaisen
 summary: "The gender gap in business ownership persists. Here we examine gender distribution in business, factors influencing ownership, and success rates."
 permalink: /statistics/demographics/gender-gap/
@@ -125,7 +125,7 @@ Business Initiative can help you make it happen!
 
 **Have questions?**
 
-[Reach out here](Chttps://www.businessinitiative.org/contact/) or send Business Initiative a message [@BisInitiative on X](https://twitter.com/BisInitiative)
+[Reach out here](Chttps://www.businessinitiative.org/contact/) or send Business Initiative a message [@BisInitiative on X](https://x.com/BisInitiative)
 
 <iframe src="https://embeds.beehiiv.com/4b55f309-919b-4f27-82e1-28bfbbc3543f" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
 

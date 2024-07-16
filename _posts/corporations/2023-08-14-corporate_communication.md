@@ -2,7 +2,7 @@
 title: "39+ Communication Tools Your Business Needs to Embrace The Digital Transformation"
 layout: post
 date: 2023-08-14
-update_date: 2023-09-13
+update_date: 2024-07-16
 author: jack_nicholaisen
 summary: "Discover digital corporate communication for effective collaboration. Embrace social media, content marketing, and data privacy. Boost success!"
 permalink: /corporation/communicaiton-tools/
@@ -226,7 +226,7 @@ Our experienced consultants can provide tailored solutions to meet your specific
 
 [Contact us today](https://www.businessinitiative.org/contact/) to learn more about how we can help you prepare for the future of corporate communication. 
 
-You can reach us [here](https://www.businessinitiative.org/contact/) or by sending us a message at [@BisInitiative on X](https://twitter.com/BisInitiative).
+You can reach us [here](https://www.businessinitiative.org/contact/) or by sending us a message at [@BisInitiative on X](https://x.com/BisInitiative).
 
 Don't wait another minute...
 

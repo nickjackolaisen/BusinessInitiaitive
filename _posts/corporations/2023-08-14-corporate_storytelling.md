@@ -2,7 +2,7 @@
 title: "Use Storytelling to Build Brand Loyalty and Drive Sales in Your Corporation"
 layout: post
 date: 2023-08-14
-update_date: 2024-07-05
+update_date: 2024-07-16
 author: jack_nicholaisen
 summary: "Discover corporate storytelling's power to build brand loyalty, drive sales, and captivate audiences for business success."
 permalink: /corporation/storytelling/
@@ -224,7 +224,7 @@ Our team of experts can help you identify your unique brand story, craft compell
 
 Contact us today to [schedule a consultation](https://calendly.com/businessinitiative/30-minute-consultation-call) and take the first step towards leveraging the power of corporate storytelling for your business's long-term success. 
 
-You can reach us [@BisInitiative on X](https://twitter.com/BisInitiative)  or by filling out our contact form [here](https://www.businessinitiative.org/contact/). 
+You can reach us [@BisInitiative on X](https://x.com/BisInitiative)  or by filling out our contact form [here](https://www.businessinitiative.org/contact/). 
 
 Let us help you tell your brand's story and connect with your audience in a meaningful way.
 

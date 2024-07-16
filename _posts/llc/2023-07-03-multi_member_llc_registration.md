@@ -2,7 +2,7 @@
 layout: post
 title: How To Form Your Own Multi Member LLC in 2023
 date: 2023-07-03
-update_date: 2024-02-27
+update_date: 2024-07-16
 author: jack_nicholaisen
 summary: "Unlock your business potential with Business Initiative's data-driven insights, tailored pricing plans, and top-notch consulting services. Read it now!"
 permalink: /llc/multi-member-llc/registration/
@@ -221,7 +221,7 @@ Want to learn how to measure the vital aspects of your business?
 <summary><b>Sources</b></summary>
 <br>
 <ul>
-    <li>Secretary of State website: <a href="https://www.usa.gov/state-business-licenses">link</a></li>
+    <li>Secretary of State websites: <a href="https://www.businessinitiative.org/directory/secretary-of-state-list/">link</a></li>
     <li>Free business name search: <a href="https://www.sos.ca.gov/business-programs/business-entities/cbs-search-tips/">link</a></li>
     <li>Registered agent service providers: <a href="https://www.legalzoom.com/articles/who-can-be-a-registered-agent-for-your-business">link</a></li>
     <li>IRS EIN application: <a href="https://www.irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online">link</a></li>

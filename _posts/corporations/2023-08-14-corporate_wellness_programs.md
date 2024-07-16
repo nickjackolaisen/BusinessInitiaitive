@@ -2,7 +2,7 @@
 title: "23 Popular Employee Wellness Programs to Use in Your Business | Benefits and Best Practices"
 layout: post
 date: 2023-08-14
-update_date: 2023-09-28
+update_date: 2024-07-16
 author: jack_nicholaisen
 summary: "Boost employee productivity & reduce costs with corporate wellness programs. Explore benefits & best practices for effective initiatives."
 permalink: /corporation/wellness-programs/
@@ -282,7 +282,7 @@ Our team of experienced professionals can work with you to assess your employees
 
 Don't hesitate to reach out to us for more information or to [schedule a consultation](https://calendly.com/businessinitiative/30-minute-consultation-call). 
 
-[Contact us here](https://www.businessinitiative.org/contact/) or send us a message [@BisInitiative on X](https://twitter.com/BisInitiative).
+[Contact us here](https://www.businessinitiative.org/contact/) or send us a message [@BisInitiative on X](https://x.com/BisInitiative).
 
 Let us help you invest in your employees' well-being and achieve long-term business success.
 

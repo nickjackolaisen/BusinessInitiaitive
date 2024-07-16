@@ -2,7 +2,7 @@
 title: "Corporate Strategy Development | Crafting an Unbeatable Business Plan"
 layout: post
 date: 2023-08-15
-update_date: 2024-05-05
+update_date: 2024-07-16
 author: jack_nicholaisen
 summary: "Create your own corporate strategy for growth and success. Our guide covers business planning, adapting for long-term achievements, & unlocking potential!"
 thumbnail: /images/posts-headers/corporate-strategy-development-header.png
@@ -301,7 +301,7 @@ Our team of experienced consultants can help you identify your strengths and wea
 
 [Schedule a consultation](https://calendly.com/businessinitiative/30-minute-consultation-call) and take the first step towards achieving long-term success TODAY!
 
-To get in touch with us, visit our [contact page](https://www.businessinitiative.org/contact/) or reach out to us on [X (Twitter)](https://twitter.com/BisInitiative ). 
+To get in touch with us, visit our [contact page](https://www.businessinitiative.org/contact/) or reach out to us on [X (Twitter)](https://x.com/BisInitiative ). 
 <a id="faqs"> 
 
 **Business Initiative is here to help you achieve your business dreams...**

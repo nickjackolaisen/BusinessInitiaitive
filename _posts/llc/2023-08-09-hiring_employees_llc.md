@@ -2,7 +2,7 @@
 title: "Hiring Employees for Your LLC | Legal Requirements and Best Practices"
 layout: post
 date: 2023-08-09
-update_date: 2023-09-28
+update_date: 2024-07-16
 author: jack_nicholaisen
 summary: "Hire employees with ease using our guide on legal requirements, best practices, labor laws, taxes, and benefits. Ensure success & a positive work environment!"
 permalink: /llc/hiring-employees/
@@ -146,7 +146,7 @@ Now that you're equipped with the knowledge and practical tips, take action to r
 
 At Business Initiative, we want you to take action and make moves..
 
-If you have any questions about prepping your LLC to hire employees you can [reach out here](https://www.businessinitiative.org/contact/) or send us a direct message [@BisInitiative on X](https://twitter.com/BisInitiative)
+If you have any questions about prepping your LLC to hire employees you can [reach out here](https://www.businessinitiative.org/contact/) or send us a direct message [@BisInitiative on X](https://x.com/BisInitiative)
 
 For more in-depth queries or guidance, [schedule a consultation call](https://calendly.com/businessinitiative/30-minute-consultation-call) and let's speak it out!
 

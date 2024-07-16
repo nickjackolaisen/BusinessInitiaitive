@@ -2,7 +2,7 @@
 title: "Blockchain Technology in Business - Prepare Your Business for the Future"
 layout: post
 date: 2023-08-28
-update_date: 2024-05-22
+update_date: 2024-07-16
 author: jack_nicholaisen
 summary: "Explore blockchain's impact on business in our article. Learn applications, benefits, and industry effects. Stay ahead with blockchain knowledge." 
 thumbnail: /images/posts-headers/blockchain-in-business-header.png
@@ -539,7 +539,7 @@ As these challenges are addressed over time, we can expect an increasing number 
 
 Have any questions?
 
-[Reach out here](https://www.businessinitiative.org/contact/) or send Business Initiative a message [@BisInitiative on X](https://twitter.com/BisInitiative)
+[Reach out here](https://www.businessinitiative.org/contact/) or send Business Initiative a message [@BisInitiative on X](https://x.com/BisInitiative)
 
 Join us on this exciting journey as we explore the future of blockchain technology in the business world.
 

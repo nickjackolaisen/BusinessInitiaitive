@@ -2,7 +2,7 @@
 title: "LLC vs Sole Proprietorship - Which One is Right for Your Business Goals?"
 layout: post
 date: 2023-08-15
-update_date: 2024-04-10
+update_date: 2024-07-16
 author: jack_nicholaisen
 summary: "Explore LLC vs. sole proprietorship: liability, taxes, costs, maintenance. Make informed decisions for your business's future. Read on!"
 permalink: /comparison/sole-proprietorship-vs-llc/which-is-better/
@@ -226,7 +226,7 @@ We offer a range of services, including legal and tax advice, business planning,
 
 [Contact us](https://www.businessinitiative.org/contact/) today or [schedule a consultation call](https://calendly.com/businessinitiative/30-minute-consultation-call) and let's take the first step towards building your dream business.
 
-Check Business Initiative out [@BisInitiative](https://twitter.com/BisInitiative)
+Check Business Initiative out [@BisInitiative](https://x.com/BisInitiative)
 
 <iframe src="https://embeds.beehiiv.com/4b55f309-919b-4f27-82e1-28bfbbc3543f" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
 

@@ -2,7 +2,7 @@
 title: "Corporate Social Responsibility | Balancing Profit and Purpose"
 layout: post
 date: 2023-08-14
-update_date: 2024-05-14
+update_date: 2024-07-16
 author: jack_nicholaisen
 summary: "Discover how to balance profit & purpose with CSR. Embrace its benefits, integrate it into your strategy, and learn from success of others TODAY!"
 permalink: /corporation/corporate-social-responsibility/
@@ -210,7 +210,7 @@ We offer [consultation services](https://calendly.com/businessinitiative/30-minu
 
 Don't hesitate to reach out to us at any time...
 
-[Contact us today](https://www.businessinitiative.org/contact/) or send us a message [@BisInitiative on X](https://twitter.com/BisInitiative) 
+[Contact us today](https://www.businessinitiative.org/contact/) or send us a message [@BisInitiative on X](https://x.com/BisInitiative) 
 
 Together, we can create a more sustainable and responsible future for your business and the world.
 

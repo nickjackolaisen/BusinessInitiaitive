@@ -2,7 +2,7 @@
 title: "Small Business Survival & Failure Rate | Avoid Common Pitfalls in 2024 and Beyond"
 layout: post
 date: 2024-06-25
-update_date: 2024-06-28
+update_date: 2024-07-16
 author: jack_nicholaisen
 summary: "32.3% of small businesses fail within two years. Read this guide today and learn key strategies to avoid common pitfalls and thrive!"
 thumbnail: /images/posts-headers/small-business-survival-failure-rate-header.png
@@ -833,7 +833,7 @@ File annual reports and renew licenses as required by state and local authoritie
 
 Resources:
 - <a href="https://www.sba.gov/business-guide/manage-your-business/stay-legally-compliant" target="_blank">SBA - Stay Legally Compliant</a>
-- <a href="https://www.nass.org/can-i-vote" target="_blank">Your State's Secretary of State Office</a>
+- <a href="https://www.businessinitiative.org/directory/secretary-of-state-list/" target="_blank">Your State's Secretary of State Office</a>
 
 ## Financial Management Tips
 

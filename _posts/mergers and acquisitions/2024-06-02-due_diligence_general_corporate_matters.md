@@ -2,7 +2,7 @@
 title: "Key Steps for Corporate Compliance | Comprehensive Guide to M&A Due Diligence"
 layout: post
 date: 2024-06-02
-update_date: 2024-07-01
+update_date: 2024-07-16
 author: jack_nicholaisen
 summary: "Discover key steps and practical tips for thorough M&A due diligence to ensure corporate compliance and minimize risks in your acquisition process."
 thumbnail: /images/posts-headers/m-and-a/m-and-a-due-diligence-corporate-matters-header.png
@@ -86,7 +86,7 @@ The review of charter documents is crucial in M&A due diligence as it validates 
 
 **Resources for Further Information:**
 
-- [Secretary of State Filings](https://www.nass.org/business-services/corporations)
+- [Secretary of State Filings](https://www.nass.org/business-services/corporate-registration)
 <a id="good-standing"> 
 
 - Company’s Corporate Records
@@ -133,7 +133,7 @@ Good standing certificates are essential in confirming the company's legitimacy 
 
 **Resources for Further Information:**
 
-- [Secretary of State Filings](https://www.nass.org/business-services/corporations)
+- [Secretary of State Filings](https://www.nass.org/business-services/corporate-registration)
 <a id="subsidiaries"> 
 
 - Legal and Compliance Advisors
@@ -344,7 +344,7 @@ Reach out now for personalized guidance and support.
 <details>
 <summary><b>Sources and Additional Resources</b></summary>
 <ul>
-    <li><a href="https://www.nass.org/business-services/corporations" target="_blank">Secretary of State Filings</a>: For incorporation and good standing certificates.</li>
+    <li><a href="https://www.nass.org/business-services/corporate-registration" target="_blank">Secretary of State Filings</a>: For incorporation and good standing certificates.</li>
     <li><a href="https://www.sec.gov/edgar/searchedgar/companysearch.html" target="_blank">SEC EDGAR Database</a>: For reviewing charter documents and stockholder agreements.</li>
     <li><a href="https://www.dlapiper.com/en/us/insights/publications/2019/10/mergers-and-acquisitions-guide/" target="_blank">DLA Piper Mergers and Acquisitions Guide</a>: For comprehensive M&A due diligence practices.</li>
     <li><a href="https://www.nolo.com/legal-encyclopedia/due-diligence-checklist-corporate-attorney-30021.html" target="_blank">Nolo Due Diligence Checklist</a>: For practical steps in corporate due diligence.</li>

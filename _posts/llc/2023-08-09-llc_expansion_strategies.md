@@ -2,7 +2,7 @@
 title: "How to Expand Your LLC - Strategies for Growth and Scaling"
 layout: post
 date: 2023-08-09
-update_date: 2023-09-21
+update_date: 2024-07-16
 author: jack_nicholaisen
 summary: "Discover secrets to expand your LLC in our guide. Unlock growth strategies, financing, and legal insights for success. Maximize profit potential now!"
 permalink: /llc/expansion-strategies/
@@ -138,7 +138,7 @@ Don't wait another minute...
 
 **Have any questions?**
 
-[Reach out directly here](https://www.businessinitiative.org/contact/) or by sending us a message [@BisInitiative on X](https://twitter.com/BisInitiative)
+[Reach out directly here](https://www.businessinitiative.org/contact/) or by sending us a message [@BisInitiative on X](https://x.com/BisInitiative)
 
 <iframe src="https://embeds.beehiiv.com/4b55f309-919b-4f27-82e1-28bfbbc3543f" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
 

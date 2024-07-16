@@ -2,7 +2,7 @@
 title: "The Advantages and Challenges of Corporate Globalization - Is International Business Right for You?"
 layout: post
 date: 2023-08-14
-update_date: 2023-09-13
+update_date: 2024-07-16
 author: jack_nicholaisen
 summary: "Explore corporate globalization challenges and opportunities in our article. Get practical tips for international business success. Embrace global growth!"
 permalink: /corporation/globalization/
@@ -114,7 +114,7 @@ At Business Initiative, we understand that expanding globally can be a daunting 
 
 Contact us today to learn more about our [consultation services](https://calendly.com/businessinitiative/30-minute-consultation-call) and how we can help you achieve your global business goals.
 
-You can reach us at [here](https://www.businessinitiative.org/contact/) or by sending a message [@BisInitiative on X](https://twitter.com/BisInitiative).
+You can reach us at [here](https://www.businessinitiative.org/contact/) or by sending a message [@BisInitiative on X](https://x.com/BisInitiative).
 
 **Let's take your business to new heights together!**
 

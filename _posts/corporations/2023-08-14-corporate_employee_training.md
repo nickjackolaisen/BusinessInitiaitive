@@ -2,7 +2,7 @@
 title: "How to Use Corporate Training and Development to Boost Employee Retention and Performance?"
 layout: post
 date: 2023-08-14
-update_date: 2023-09-13
+update_date: 2024-07-16
 author: jack_nicholaisen
 summary: "Boost business success with employee investment! Explore corporate training for retention and performance. Learn effective strategies. Don't miss out!"
 permalink: /corporation/employee-training-programs/
@@ -204,7 +204,7 @@ From assessing your current training methods to evaluating their outcomes, we wi
 
 Don't wait to invest in your employees' growth and development...
 
-Contact Business Initiative [here](https://www.businessinitiative.org/contact/) or send us a DM [@BisInitiative on X](https://twitter.com/BisInitiative). 
+Contact Business Initiative [here](https://www.businessinitiative.org/contact/) or send us a DM [@BisInitiative on X](https://x.com/BisInitiative). 
 
 Let us help you take your company's success to the next level.
 

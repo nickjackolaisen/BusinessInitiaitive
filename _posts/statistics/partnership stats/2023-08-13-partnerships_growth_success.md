@@ -2,7 +2,7 @@
 title: "Is a Partnership Right for Your Business? Statistics on Partnership Prevalence and Success"
 layout: post
 date: 2023-08-13
-update_date: 2024-06-25
+update_date: 2024-07-16
 author: jack_nicholaisen
 summary: "Learn about partnerships in business. Explore formation/success rates, pros/cons. Is it right for you? Read our data-driven article!"
 permalink: /statistics/partnerships/success/
@@ -166,7 +166,7 @@ Knowledge is power, and by sharing this information, you'll be helping others ma
 
 **Have any burning questions?**
 
-[Ask us here](https://www.businessinitiative.org/contact/) or send Business Initiative a message [@BisInitiative on X](https://twitter.com/BisInitiative)
+[Ask us here](https://www.businessinitiative.org/contact/) or send Business Initiative a message [@BisInitiative on X](https://x.com/BisInitiative)
 
 <iframe src="https://embeds.beehiiv.com/4b55f309-919b-4f27-82e1-28bfbbc3543f" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
 

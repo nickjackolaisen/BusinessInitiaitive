@@ -2,7 +2,7 @@
 title: "Corporate Philanthropy - How Giving Back Drives Business Success"
 layout: post
 date: 2023-08-14
-update_date: 2023-09-13
+update_date: 2024-07-16
 author: jack_nicholaisen
 summary: "Discover corporate philanthropy's power to elevate your business. Learn to develop effective initiatives and align company values. Unlock its potential today!"
 permalink: /corporation/philanthropy/
@@ -178,7 +178,7 @@ Business Initiative is here to help. Our team of experts can provide [personaliz
 
 [Contact us today](https://www.businessinitiative.org/contact/) to learn more about our services and how we can help you make a positive impact on society while driving business success.
 
-To get in touch with us, simply visit our contact page [here](https://www.businessinitiative.com/contact/) or hit us up [@BisInitiative on X](https://twitter.com/BisInitiative)
+To get in touch with us, simply visit our contact page [here](https://www.businessinitiative.com/contact/) or hit us up [@BisInitiative on X](https://x.com/BisInitiative)
 
 Don't wait...
 

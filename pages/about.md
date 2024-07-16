@@ -29,4 +29,4 @@ They act as your registered agent, filing everything for you so you don’t have
 
 Now that you're out of excuses… **It’s time to take Initiative.**
 
-[Follow Us @BisInitiative](https://twitter.com/BisInitiative)
+[Follow Us @BisInitiative](https://x.com/BisInitiative)

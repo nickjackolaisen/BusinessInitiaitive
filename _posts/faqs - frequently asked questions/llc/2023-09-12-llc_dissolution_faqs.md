@@ -2,6 +2,7 @@
 title: "Mastering LLC Dissolution: Your Ultimate Q&A Guide to Closing Your Business with Confidence"
 layout: post
 date: 2023-09-12
+update_date: 2024-07-16
 author: jack_nicholaisen
 summary: "Discover key insights into LLC dissolution and winding up procedures with our categorized Q&A guide. Get answers to all your crucial questions in one place!"
 thumbnail: /images/posts-headers/faq-llc-dissolution-header.png
@@ -1245,7 +1246,7 @@ Stay informed on the latest insights and updates by subscribing to our newslette
 <br>
 <ul>  <li><a href="https://www.irs.gov/businesses/small-businesses-self-employed/closing-a-business">IRS: Closing a Business</a> - The IRS provides guidance on federal tax requirements when closing a business, including filing final tax returns and canceling an EIN.</li>
   <li><a href="https://www.sba.gov/business-guide/manage-your-business/close-or-sell-your-business">U.S. Small Business Administration: Closing Your Business</a> - The SBA offers information on various aspects of closing a business, such as handling employee issues, taxes, and legal requirements.</li>
-  <li><a href="https://www.usa.gov/state-secretary">USA.gov: State Secretaries of State</a> - Locate your state's Secretary of State website for state-specific information on dissolving an LLC, including required forms and fees.</li>
+  <li><a href="https://www.businessinitiative.org/directory/secretary-of-state-list/">Businessinitiative.org: Secretaries of State</a> - Locate your state's Secretary of State website for state-specific information on dissolving an LLC, including required forms and fees.</li>
   <li><a href="https://www.americanbar.org/groups/business_law/resources/materials/2019/spring_materials/dissolution-of-limited-liability-companies/">American Bar Association: Dissolution of Limited Liability Companies</a> - A detailed guide on the dissolution of LLCs provided by the American Bar Association.</li>
   <li><a href="https://www.ncsl.org/research/financial-services-and-commerce/limited-liability-company-acts.aspx">National Conference of State Legislatures: Limited Liability Company Acts</a> - This resource from the NCSL provides links to each state's Limited Liability Company Act statutes.</li>
 </ul>

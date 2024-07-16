@@ -2,7 +2,7 @@
 title: "Embracing Corporate Diversity and Inclusion - Strategies for a More Equitable Workplace"
 layout: post
 date: 2023-08-17
-update_date: 2023-11-20
+update_date: 2024-07-16
 author: jack_nicholaisen
 summary: "Create an equitable workplace: embrace diversity and inclusion for business success. Assess efforts and apply practical strategies."
 permalink: /corporation/corporate-diversity-and-inclusion/
@@ -225,7 +225,7 @@ Our team of experienced professionals can work with you to assess your current e
 
 **Don't wait any longer to start embracing diversity and inclusion!**
 
-Contact us today through [our website's contact page](https://www.businessinitiative.org/contact/) or send us a message on [X (Twitter)](https://twitter.com/BisInitiative).
+Contact us today through [our website's contact page](https://www.businessinitiative.org/contact/) or send us a message on [X (Twitter)](https://x.com/BisInitiative).
 
 Let us help you unlock the full potential of your workforce and position your business for success in today's global marketplace.
 

@@ -2,7 +2,7 @@
 title: "Corporate Ethics and Compliance - Building Trust and Avoiding Legal Pitfalls"
 layout: post
 date: 2023-08-14
-update_date: 2023-09-13
+update_date: 2024-07-16
 author: jack_nicholaisen
 summary: "Unlock the secret to trust-building and avoiding legal issues with our guide on corporate ethics. Strengthen your business's ethical culture today!"
 permalink: /corporation/ethics-and-compliance/
@@ -126,7 +126,7 @@ Look no further than Business Initiative's consultation services. Our team of ex
 
 **Don't wait until it's too late**—contact us now for a [free consultation](https://calendly.com/businessinitiative/30-minute-consultation-call).
 
-Send us a message [here](https://www.businessinitiative.org/contact/) or let us know what's up [@BisInitiative on X](https://twitter.com/BisInitiative). 
+Send us a message [here](https://www.businessinitiative.org/contact/) or let us know what's up [@BisInitiative on X](https://x.com/BisInitiative). 
 
 Let us help you build a strong ethical foundation for your business today.
 

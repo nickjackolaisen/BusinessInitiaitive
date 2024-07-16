@@ -2,7 +2,7 @@
 title: "The In's and Out's of Corporate Governance | Best Practices for Ensuring Accountability and Transparency"
 layout: post
 date: 2023-08-16
-update_date: 2023-09-13
+update_date: 2024-07-16
 author: jack_nicholaisen
 summary: "Unlock corporate governance secrets with our guide. Learn from case studies & tips for a transparent company. Elevate your business! Read HERE!"
 permalink: /corporation/corporate-governance/
@@ -243,7 +243,7 @@ Business Initiative offers consultation services to help you identify areas for 
 
 Contact us now to [schedule a consultation](https://calendly.com/businessinitiative/30-minute-consultation-call) and take the first step towards building a stronger foundation for your business.
 
-You can also reach us through our [contact page](https://www.businessinitiative.org/contact/) or ask questions to us on [X (Twitter) @BisInitiative](https://twitter.com/BisInitiative) for updates on corporate governance and other business-related topics. 
+You can also reach us through our [contact page](https://www.businessinitiative.org/contact/) or ask questions to us on [X (Twitter) @BisInitiative](https://x.com/BisInitiative) for updates on corporate governance and other business-related topics. 
 
 We look forward to hearing from you!
 

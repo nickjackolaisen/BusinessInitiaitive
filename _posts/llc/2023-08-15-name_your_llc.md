@@ -2,7 +2,7 @@
 title: "How to Name Your LLC - Tips, Rules, Requirements, & Name Changes"
 layout: post
 date: 2023-08-15
-update_date: 2023-09-27
+update_date: 2024-07-16
 author: jack_nicholaisen
 summary: "Find the perfect LLC name with our guide on rules, regulations, and branding. Get a unique, legally compliant name for business success!"
 thumbnail: /images/posts-headers/name-your-llc-header.png
@@ -72,7 +72,7 @@ As your business evolves, you may find that your original name no longer reflect
 
 **Changing your LLC's name involves filing an amendment with the state** where you registered your business. 
 
-The process and fees for amending your LLC's name vary by state, so be sure to check with your Secretary of State office for specific guidelines.
+The process and fees for amending your LLC's name vary by state, so be sure to <a href="https://www.businessinitiative.org/directory/secretary-of-state-list/" target="_blank">check with your Secretary of State office</a> for specific guidelines.
 
 -   Before changing your LLC's name, consider the potential impact on your branding, marketing materials, and legal documents.
 
@@ -244,7 +244,7 @@ Don't hesitate to reach out to us at any time with questions or concerns. You ca
 
 Let's work together to turn your business dreams into reality!
 
-Check us out [@BisInitiative](https://twitter.com/BisInitiative)!
+Check us out [@BisInitiative](https://x.com/BisInitiative)!
 
 <iframe src="https://embeds.beehiiv.com/4b55f309-919b-4f27-82e1-28bfbbc3543f" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
 

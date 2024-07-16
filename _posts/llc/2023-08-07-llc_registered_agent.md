@@ -2,7 +2,7 @@
 title: "What is a Registered Agent in Your LLC? | Responsibilities and Benefits"
 layout: post
 date: 2023-08-07
-update_date: 2023-09-21
+update_date: 2024-07-16
 author: jack_nicholaisen
 summary: "Explore the role of a registered agent for your LLC. Learn tips for choosing the right one and unlock business success!"
 permalink: /llc/registered-agent/
@@ -95,7 +95,7 @@ Here are a few other notable companies who can act as your LLC's registered agen
 
 If you need to change your LLC's registered agent, the process is relatively straightforward. You will need to file a form with the state where your LLC is registered, notifying them of the change.
 
-The exact requirements and forms vary by state, so be sure to check with your state's Secretary of State office for specific instructions. In general, the process involves filling out a form that includes the name and contact information of the new registered agent.
+The exact requirements and forms vary by state, so be sure to check with <a href="https://www.businessinitiative.org/directory/secretary-of-state-list/" target="_blank">your state's Secretary of State office</a> for specific instructions. In general, the process involves filling out a form that includes the name and contact information of the new registered agent.
 
 Once you have submitted the form and any necessary fees, your LLC's registered agent will officially be updated. It is important to note that there may be a waiting period before the change takes effect, so plan accordingly if you are changing agents in anticipation of important deadlines or legal notices.
 

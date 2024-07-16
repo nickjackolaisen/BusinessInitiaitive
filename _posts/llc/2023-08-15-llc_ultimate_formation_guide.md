@@ -2,7 +2,7 @@
 title: "The Ultimate Guide to Forming an LLC: Step-by-Step Instructions"
 layout: post
 date: 2023-08-15
-update_date: 2023-09-21
+update_date: 2024-07-16
 author: jack_nicholaisen
 summary: "Learn to form an LLC: choose a name, navigate state requirements, maintain good standing. Read on for a successful business setup!"
 permalink: /llc/ultimate-formation-guide/
@@ -94,7 +94,7 @@ You can appoint yourself, a friend, a family member, or hire a professional regi
 
 ## Filing Articles of Organization
 
-To officially create your LLC, you must file the Articles of Organization with the Secretary of State in your chosen state.
+To officially create your LLC, you must file the Articles of Organization with the <a href="https://www.businessinitiative.org/directory/secretary-of-state-list/" target="_blank">Secretary of State</a> in your chosen state.
 
 This document contains basic information about your LLC, such as its name, registered agent, and purpose.
 
@@ -166,7 +166,7 @@ Our team of experts can assist you with everything from developing a winning bus
 
 We'll work closely with you every step of the way to ensure your LLC is set up for success.
 
-Don't hesitate to contact us at any time using our contact form [here](https://www.businessinitiative.org/contact/) or by hitting us up [@BisInitiative](https://twitter.com/BisInitiative). 
+Don't hesitate to contact us at any time using our contact form [here](https://www.businessinitiative.org/contact/) or by hitting us up [@BisInitiative](https://x.com/BisInitiative). 
 
 **Let's work together to turn your entrepreneurial vision into reality!**
 

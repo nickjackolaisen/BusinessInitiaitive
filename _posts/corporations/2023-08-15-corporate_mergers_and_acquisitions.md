@@ -2,7 +2,7 @@
 title: "Corporate Merger and Acquisitions | Pros, Cons, & Strategies for Successful Integration"
 layout: post
 date: 2023-08-15
-update_date: 2024-04-03
+update_date: 2024-07-16
 author: jack_nicholaisen
 summary: "Grow your business with M&A! Learn the secrets to integration with this actionable guide. Overcome challenges & maximize deal value."
 permalink: /corporation/mergers-and-acquisitions/
@@ -293,7 +293,7 @@ At Business Initiative, [we offer expert consultation services](https://calendly
 
 Don't let the challenges of M&A hold you back from achieving your strategic goals...
 
-[Contact us today](https://www.businessinitiative.org/contact/) to learn how we can help or send us a message directly [@BisInitiative on X](https://twitter.com/BisInitiative).
+[Contact us today](https://www.businessinitiative.org/contact/) to learn how we can help or send us a message directly [@BisInitiative on X](https://x.com/BisInitiative).
 
 <iframe src="https://embeds.beehiiv.com/4b55f309-919b-4f27-82e1-28bfbbc3543f" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
 

@@ -2,7 +2,7 @@
 title: "Top 15 Benefits of Forming an LLC for Your Small Business"
 layout: post
 date: 2023-08-15
-update_date: 2023-09-28
+update_date: 2024-07-16
 author: jack_nicholaisen
 summary: "Discover 15 top LLC benefits for small businesses: limited liability, pass-through taxation, flexibility & more. Unlock success with this comprehensive guide!"
 thumbnail: /images/posts-headers/small-business-benefits-header.png
@@ -261,7 +261,7 @@ Our team of experienced consultants can provide personalized advice and support 
 
 Don't hesitate to reach out to us at any time with questions or concerns.
 
-You can learn more about our services by [contacting us directly](https://www.businessinitiative.org/contact/) or sending us a message [@BisInitiative on X](https://twitter.com/BisInitiative) 
+You can learn more about our services by [contacting us directly](https://www.businessinitiative.org/contact/) or sending us a message [@BisInitiative on X](https://x.com/BisInitiative) 
 
 **Let's work together to make your small business dreams a reality!**
 

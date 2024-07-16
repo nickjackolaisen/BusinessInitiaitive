@@ -2,7 +2,7 @@
 title: "The Power of Corporate Culture - Building a Positive and Productive Workplace"
 layout: post
 date: 2023-08-16
-update_date: 2023-09-13
+update_date: 2024-07-16
 author: jack_nicholaisen
 summary: "Discover to use corporate culture for success. Learn strategies for a positive work environment, boosting productivity and employee satisfaction."
 permalink: /corporation/corporate-culture/
@@ -185,7 +185,7 @@ Our team of experts can provide tailored solutions to meet your company's unique
 
 Ready to take the first step towards a happier, more engaged workforce?
 
-Reach out to us via [our contact page](https://www.businessinitiative.org/contact/) or hit us up on [X (Twitter) @BisInitiative](https://twitter.com/BisInitiative) for more insights and tips on building a positive corporate culture.
+Reach out to us via [our contact page](https://www.businessinitiative.org/contact/) or hit us up on [X (Twitter) @BisInitiative](https://x.com/BisInitiative) for more insights and tips on building a positive corporate culture.
 
 We're here to support you at every stage of your journey towards long-term business success.
 

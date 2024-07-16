@@ -2,7 +2,7 @@
 title: "13 Ideas to Create a Sustainability Strategy for Your Business"
 layout: post
 date: 2023-08-14
-update_date: 2024-07-05
+update_date: 2024-07-16
 author: jack_nicholaisen
 summary: "Corporate sustainability matters. Learn to develop, implement, and measure strategies for long-term success and positive impact. Read on!"
 permalink: /corporation/sustainability-strategies/
@@ -154,7 +154,7 @@ That's why [we offer consultation services](https://calendly.com/businessinitiat
 
 Don't hesitate to reach out to us for more information on how we can help your business become more sustainable.
 
-[Contact us here](https://www.businessinitiative.org/contact/) or send Business Initiative a message directly [@BisInitiative on X](https://twitter.com/BisInitiative).
+[Contact us here](https://www.businessinitiative.org/contact/) or send Business Initiative a message directly [@BisInitiative on X](https://x.com/BisInitiative).
 
 **Let's work together towards a better future for all.**
 

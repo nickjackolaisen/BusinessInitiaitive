@@ -2,7 +2,7 @@
 title: "The Role of Corporate Innovation in Driving Business Growth"
 layout: post
 date: 2023-08-15
-update_date: 2024-06-28
+update_date: 2024-07-16
 author: jack_nicholaisen
 summary: "Unlock corporate innovation for growth, foster a creative culture, and stay ahead with tips for long-term success!"
 permalink: /corporation/innovation/
@@ -119,7 +119,7 @@ Our team of experts can work with you to develop a customized plan for fostering
 
 Don't miss out on the opportunity to revolutionize your business – [contact us today for a free consultation!](https://calendly.com/businessinitiative/30-minute-consultation-call)
 
-You can also reach out with any questions via our [contact page](https://www.businessinitiative.org/contact/) or hit us up on [X (Twitter) @BisInitiative](https://twitter.com/BisInitiative) for regular insights and updates on corporate innovation trends.
+You can also reach out with any questions via our [contact page](https://www.businessinitiative.org/contact/) or hit us up on [X (Twitter) @BisInitiative](https://x.com/BisInitiative) for regular insights and updates on corporate innovation trends.
 
 Let's work together to drive long-term growth and success for your business.
 

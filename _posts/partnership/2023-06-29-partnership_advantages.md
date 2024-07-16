@@ -2,7 +2,7 @@
 title: 9 Key Partnership Advantages to Separate You From the Crowd
 layout: post
 date: 2023-06-29
-update_date: 2024-06-25
+update_date: 2024-07-16
 author: jack_nicholaisen
 summary: "Starting a business with a team of professionals but don't know if a Partnership is worth it? Check out their benefits and see for yourself." 
 permalink: /partnership/advantages/
@@ -96,7 +96,7 @@ Spreading a Partnership to many states is straightforward, thanks to the UPA’s
 
 *What if your state doesn’t accept the UPA?* 
 
-Learn about your State’s Partnership registration and operation guidelines on your State Secretary’s or Registrar's official government website. 
+Learn about your State’s Partnership registration and operation guidelines on your <a href="https://www.businessinitiative.org/directory/secretary-of-state-list/" target="_blank">State Secretary’s</a> or Registrar's official government website. 
 
 ## 2.  Minimal Paperwork
 

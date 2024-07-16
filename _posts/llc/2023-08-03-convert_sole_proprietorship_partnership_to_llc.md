@@ -2,7 +2,7 @@
 title: "How to Convert Your Sole Proprietorship or Partnership into an LLC"
 layout: post
 date: 2023-08-03
-update_date: 2024-04-10
+update_date: 2024-07-16
 author: jack_nicholaisen
 summary: "Explore converting your business to an LLC. Learn legal steps, tax implications, and tips for a smooth transition. Read our essential guide now!"
 permalink: /llc/converting-sole-proprietorships-partnerships/
@@ -96,9 +96,9 @@ The process of converting a sole proprietorship or partnership into an LLC varie
 
 ### 2.  File Articles of Organization:
 
--   Obtain the necessary forms from your state's Secretary of State office or website.
+-   Obtain the necessary forms from your state's <a href="https://www.businessinitiative.org/directory/secretary-of-state-list/" target="_blank">Secretary of State</a> office or website.
 -   Fill out the forms completely and accurately, providing all required information.
--   Submit the forms along with the filing fee to the Secretary of State office.
+-   Submit the forms along with the filing fee to the <a href="https://www.businessinitiative.org/directory/secretary-of-state-list/" target="_blank">Secretary of State</a> office.
 
 ### 3.  Create an Operating Agreement:
 

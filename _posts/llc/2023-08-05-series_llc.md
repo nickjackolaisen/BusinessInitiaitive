@@ -2,7 +2,7 @@
 title: "When to Consider a Series LLC: Advantages, Disadvantages, and Use Cases"
 layout: post
 date: 2023-08-05
-update_date: 2023-09-21
+update_date: 2024-07-16
 author: jack_nicholaisen
 summary: "Explore Series LLC features, benefits, legal structure, liability protection, tax implications, and tips to see if it's right for your business!"
 permalink: /llc/series-llc/
@@ -18,11 +18,15 @@ Let's get it!
 
 ### Legal Structure of a Series LLC
 
-A Series LLC is a type of limited liability company that allows for the creation of separate, individual series or divisions within the larger LLC structure. Each series operates as an independent entity with its own assets, liabilities, and management, while still being part of the larger LLC.
+A Series LLC is a type of limited liability company that allows for the creation of separate, individual series or divisions within the larger LLC structure. 
 
-This structure was first introduced in Delaware in 1996 and has since been adopted by several other states ([National Law Review](https://www.natlawreview.com/article/series-llcs-understanding-basics)).
+Each series operates as an independent entity with its own assets, liabilities, and management, while still being part of the larger LLC.
 
-The primary advantage of a Series LLC is the ability to segregate assets and liabilities, which offers increased flexibility and protection for business owners. For example, if one series faces legal issues or financial difficulties, it won't necessarily impact the other series within the LLC.
+This structure was first introduced in Delaware in 1996 and has since been adopted by several other states (<a href="https://royallegalsolutions.com/series-llc-understanding-the-how-why-the-basics" target="_blank">Royal Legal Solutions</a>).
+
+The primary advantage of a Series LLC is the ability to segregate assets and liabilities, which offers increased flexibility and protection for business owners. 
+
+For example, if one series faces legal issues or financial difficulties, it won't necessarily impact the other series within the LLC.
 
 ### Liability Protection in a Series LLC
 
@@ -136,15 +140,13 @@ However, it's essential to carefully consider your business activities, state re
 
 [Consult with legal and tax professionals](https://calendly.com/businessinitiative/30-minute-consultation-call) to determine if a Series LLC is the right choice for your business and take the next step towards maximizing your potential!
 
-<iframe src="https://embeds.beehiiv.com/4b55f309-919b-4f27-82e1-28bfbbc3543f" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
-
-
-
 ## Frequently Asked Questions (FAQs)
 
 ### What is a Series LLC?
 
-A Series Limited Liability Company (LLC) is a unique legal structure that allows business owners to create individual series or divisions within the larger LLC structure. Each series operates as an independent entity with its own assets, liabilities, and management while still being part of the larger LLC.
+A Series Limited Liability Company (LLC) is a unique legal structure that allows business owners to create individual series or divisions within the larger LLC structure. 
+
+Each series operates as an independent entity with its own assets, liabilities, and management while still being part of the larger LLC.
 
 ### What's the difference between an LLC and a series LLC?
 
@@ -152,7 +154,7 @@ The main difference between an LLC and a Series LLC is that the latter allows fo
 
 ### Which States permit series LLCs?
 
-Several states permit Series LLCs..
+Several states permit Series LLCs.
 
 1.  [Delaware](https://sos.delaware.gov/)
 2.  [Illinois](https://www.illinois.gov/agencies/agency.sos.html)
@@ -184,7 +186,9 @@ One risk associated with operating a Series LLC is maintaining proper records an
 
 ### Is a series LLC the same as an S-corp?
 
-No, a Series LLC is not the same as an S-corp. An S-corp is a tax status that a corporation can elect with the IRS, while a Series LLC is a unique legal structure.
+No, a Series LLC is not the same as an S-corp. 
+
+An S-corp is a tax status that a corporation can elect with the IRS, while a Series LLC is a unique legal structure.
 
 ### What are the benefits of a series LLC?
 
@@ -192,14 +196,18 @@ The benefits of forming a Series LLC include enhanced liability protection, flex
 
 ### How do you form a Series LLC and establish a series?
 
-To form a Series LLC, you must file articles of organization with your state's Secretary of State office. Once formed, you can establish individual series within the larger entity by drafting an operating agreement that outlines each series' specific assets, liabilities, and management. It's important to consult with legal and tax professionals throughout this process to ensure compliance with all relevant laws and regulations.
+To form a Series LLC, you must file articles of organization with <a href="https://www.businessinitiative.org/directory/secretary-of-state-list/" target="_blank">your state's Secretary of State office</a>. 
+
+Once formed, you can establish individual series within the larger entity by drafting an operating agreement that outlines each series' specific assets, liabilities, and management. 
+
+It's important to consult with legal and tax professionals throughout this process to ensure compliance with all relevant laws and regulations.
 
 <br>
 <details>
 <summary><b>Sources</b></summary>
 <br>
 <ul>
-    <li><a href="https://www.natlawreview.com/article/series-llcs-understanding-basics">National Law Review: Series LLCs - Understanding the Basics</a></li>
+    <li><a href="https://royallegalsolutions.com/series-llc-understanding-the-how-why-the-basics">Royal Legal Solutions: SERIES LIMITED LIABILITY COMPANY: UNDERSTANDING THE BASICS</a></li>
     <li><a href="https://www.forbes.com/sites/tykiisel/2013/03/12/series-llcs-the-next-generation-of-llcs/?sh=6b12fa2846f5">Forbes: Series LLCs - The Next Generation of LLCs?</a></li>
     <li><a href="https://www.forbes.com/sites/tykiisel/2013/03/12/series-llcs-the-next-generation-of-llcs/?sh=6b12fa2846f5">Forbes</a></li>
     <li><a href="https://www.incfile.com/blog/post/series-llc-tax-benefits/">Incfile: Series LLC Tax Benefits</a></li>
@@ -210,7 +218,7 @@ To form a Series LLC, you must file articles of organization with your state's S
     <li><a href="https://www.brewbound.com/news/craft-brew-alliance-announces-new-series-llc-structure">Brewbound: Craft Brew Alliance Announces New Series LLC Structure</a></li>
     <li><a href="https://www.franchising.com/articles/franchise_law_should_you_consider_using_a_series_llc.html">Franchise Law: Should You Consider Using a Series LLC?</a></li>
     <li><a href="https://www.incorporatecalifornia.com/blog/benefits-and-risks-of-using-a-series-llc-for-your-business/">Benefits and Risks of Using a Series LLC for Your Business</a></li>
-    <li><a href="https://www.natlawreview.com/article/series-llcs-understanding-basics">National Law Review</a></li>
+    <li><a href="https://royallegalsolutions.com/series-llc-understanding-the-how-why-the-basics">Royal Legal Solutions</a></li>
     <li><a href="https://www.forbes.com/sites/ashleystahl/2020/05/15/why-this-famous-restaurant-group-switched-to-a-series-llc-structure/?sh=4d40e8b5f5a9">Forbes: Why This Famous Restaurant Group Switched To A Series LLC Structure</a></li>
     <li><a href="https://www.bizjournals.com/chicago/news/2017/04/21/how-lettuce-entertain-you-uses-its-series-llc.html">Chicago Business Journal: How Lettuce Entertain You uses its series LLC structure</a></li>
 

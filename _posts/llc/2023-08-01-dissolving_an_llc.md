@@ -2,7 +2,7 @@
 title: "Dissolving an LLC - A Step-by-Step Guide to Closing Your Business"
 layout: post
 date: 2023-08-01
-update_date: 2023-09-20
+update_date: 2024-07-16
 author: jack_nicholaisen
 summary: "Considering closing your LLC? Learn legal, financial, and practical tips for dissolving it in our comprehensive guide. Dive in now!"
 permalink: /llc/dissolving-process/
@@ -56,7 +56,7 @@ The LLC must notify its creditors of the dissolution and settle all outstanding 
 
 After settling debts, the remaining assets are distributed among the members according to the operating agreement or state law.
 
-To ensure you are following the correct process for your state, consult your Secretary of State's website or contact a legal professional.
+To ensure you are following the correct process for your state, consult your  <a href="https://www.businessinitiative.org/directory/secretary-of-state-list/" target="_blank">Secretary of State's website</a> or contact a legal professional.
 
 ## Tax Implications
 

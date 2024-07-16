@@ -2,7 +2,7 @@
 layout: post
 title: "LLC Operating Agreements | Why You Need One and What to Include"
 date: 2023-08-09
-update_date: 2023-09-20
+update_date: 2024-07-16
 author: jack_nicholaisen
 summary: "Explore vital LLC operating agreement elements for success. Learn to draft effectively & dodge pitfalls. Secure your business's future now!"
 permalink: /llc/operating-agreement/purpose/
@@ -114,7 +114,7 @@ Take the time to create a comprehensive and effective operating agreement tailor
 
 or
 
-Ask any questions you might have directly [HERE](https://www.businessinitiative.org/contact/) or by DMing [@BisInitiative on Twitter](https://twitter.com/BisInitiative)
+Ask any questions you might have directly [HERE](https://www.businessinitiative.org/contact/) or by DMing [@BisInitiative on Twitter](https://x.com/BisInitiative)
 
 <iframe src="https://embeds.beehiiv.com/4b55f309-919b-4f27-82e1-28bfbbc3543f" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
 
