@@ -855,7 +855,7 @@ The deal failed due to several key issues:
 - **Integration Challenges:** The companies struggled to integrate operations, resulting in poor synergy and financial losses.
 
 <center>
-<img alt="Lessons from successful M&A deals" src="/images/content/sprint-t-mobile-merger.png" title="How to fix business gaps for maximum value" style="width: 63%; height: 63%">
+<img alt="Lessons from successful M&A deals" src="/images/content/logos/sprint-t-mobile-merger.png" title="How to fix business gaps for maximum value" style="width: 63%; height: 63%">
 </center>
 
 Another example is the attempted merger between <a href="https://www.cnet.com/tech/mobile/t-mobiles-sprint-merger-officially-approved-by-fcc/" target="_blank">Sprint and T-Mobile</a> in 2014, which failed due to regulatory hurdles and strategic misalignment.
