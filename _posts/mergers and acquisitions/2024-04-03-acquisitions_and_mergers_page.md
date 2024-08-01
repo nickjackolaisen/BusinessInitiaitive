@@ -2,7 +2,7 @@
 title: "Mergers & Acquisitions"
 layout: page
 date: 2024-04-03
-update_date: 2024-05-29
+update_date: 2024-08-01
 author: jack_nicholaisen
 summary: "For your convenience, this page has all of the articles in Business Initiative's Mergers and Acquisitions Series"
 permalink: /mergers-and-acquisitions/
@@ -32,6 +32,10 @@ permalink: /mergers-and-acquisitions/
 &bull; <a href="/mergers-and-acquisitions/sale-readiness-checklist/">Sale Readiness Checklist for Business</a>
 
 &bull; <a href="/mergers-and-acquisitions/due-diligence/checklist/">The Ultimate Due Diligence Checklist</a>
+
+&bull; <a href="/mergers-and-acquisitions/emotional-preparedness/">Emotionally Preparing to Sell Your Business - Tips for Entrepreneurs Facing the Emotional Challenges of M&A</a>
+
+&bull; <a href="/mergers-and-acquisitions/fix-business-gaps/" target="_blank">Unlock Hidden Value - How to Identify and Fix Business Gaps Before a Sale</a>
 
 
 

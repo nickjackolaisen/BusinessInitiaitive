@@ -2,7 +2,7 @@
 title: "Essential Financial Due Diligence Steps for Successful Mergers and Acquisitions"
 layout: post
 date: 2024-05-30
-update_date: 2024-07-01
+update_date: 2024-08-01
 author: jack_nicholaisen
 summary: "Master financial due diligence for M&A with our comprehensive guide. Learn essential steps and best practices to make informed decisions."
 thumbnail: /images/posts-headers/m-and-a/m-and-a-due-diligence-financial-header.png
@@ -242,6 +242,10 @@ Understanding the debt and equity structure helps assess financial leverage and 
 - Essential for evaluating the financial stability and risk profile of the target company.
 
 - Helps in planning the post-acquisition capital structure.
+
+<p>
+<b>➤ MORE: </b> <a href="https://www.businessinitiative.org/mergers-and-acquisitions/fix-business-gaps/" target="_blank">How to Identify and Fix Business Gaps Before a Sale</a>
+</p>
 
 ### Practical Steps:
 
