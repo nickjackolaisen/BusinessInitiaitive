@@ -2,7 +2,7 @@
 title: "Understanding CEO Compensation: An Analysis of Average CEO Salary by Company Size"
 layout: post
 date: 2024-02-26
-update_date: 2024-07-12
+update_date: 2024-08-01
 author: jack_nicholaisen
 summary: "Explore the dynamics of CEO pay across company sizes, impact on performance, and trends shaping executive pay. Uncover the factors driving CEO salaries." 
 thumbnail: /images/posts-headers/ceo-salary-business-size-header.png
@@ -38,7 +38,7 @@ So, let's dive in and explore the fascinating world of CEO compensation!
 ## Why Do CEOs Make so Much Money?
 
 <center>
-<img alt="CEO pay in different sectors" src="/images/content/boss-man-working.png" title="CEO Salaries" style="width: 63%; height: 63%">
+<img alt="CEO pay in different sectors" src="/images/content/boss-man-working.png" title="average ceo salary by company size" style="width: 63%; height: 63%">
 </center>
 
 The role of a Chief Executive Officer (CEO) is paramount in any organization. 
@@ -75,7 +75,7 @@ By delving into this topic, you can gain a deeper understanding of the dynamics 
 ## CEO Compensation Trends
 
 <center>
-<img alt="statistics in CEO salaries across industries" src="/images/content/digital-transformation.png" title="Which industry has the highest pay?" style="width: 63%; height: 63%">
+<img alt="statistics in CEO salaries across industries" src="/images/content/digital-transformation.png" title="ceo salary by company revenue" style="width: 63%; height: 63%">
 </center>
 
 ### Historical Perspective on CEO Salaries
@@ -122,7 +122,7 @@ CEO compensation trends over the past few decades highlight the growing disparit
 ## CEO Salary Breakdown by Company Size
 
 <center>
-<img alt="average ceo salary small companies" src="/images/content/to-the-moon.png" title="A general rule of thumb, the larger the company, the more the CEO makes" style="width: 63%; height: 63%">
+<img alt="average ceo salary small companies" src="/images/content/to-the-moon.png" title="ceo salary for small business" style="width: 63%; height: 63%">
 </center>
 
 ### Small Companies
@@ -244,7 +244,7 @@ Understanding these factors is crucial for designing effective compensation pack
 ## CEO Compensation and Company Performance
 
 <center>
-<img alt="Is a business more successful if the CEO is paid more?" src="/images/content/diverse-meeting.png" title="How does CEO salary impact the growth of the company?" style="width: 63%; height: 63%">
+<img alt="average ceo compensation by company size" src="/images/content/diverse-meeting.png" title="ceo salary million dollar company" style="width: 63%; height: 63%">
 </center>
 
 ### Correlation between CEO salary and company performance
@@ -362,7 +362,7 @@ The evolving regulatory landscape will likely continue to shape the structure an
 ## Challenges and Controversies
 
 <center>
-<img alt="challenges and obstacles for CEO salary" src="/images/content/obstacles.png" title="Difficulties in CEO Compensation" style="width: 63%; height: 63%">
+<img alt="how much does a ceo of a small company make" src="/images/content/obstacles.png" title="average ceo salary small companies" style="width: 63%; height: 63%">
 </center>
 
 ### Pay Disparity and Income Inequality
@@ -446,7 +446,7 @@ As companies evolve and societal expectations change, it's likely that we'll see
 ## FAQs - Frequently Asked Questions About CEO Pay
 
 <center>
-<img alt="FAQs" src="/images/content/answers.png" title="Common Business Questions" style="width: 63%; height: 63%">
+<img alt="FAQs" src="/images/content/answers.png" title="ceo of a company salary" style="width: 63%; height: 63%">
 </center>
 
 <br>
