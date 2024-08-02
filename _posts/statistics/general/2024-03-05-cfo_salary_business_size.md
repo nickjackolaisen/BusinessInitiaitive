@@ -2,7 +2,7 @@
 title: "CFO Salary Guide 2024: Maximizing Compensation Based on Company Size"
 layout: post
 date: 2024-03-05
-update_date: 2024-05-06
+update_date: 2024-08-01
 author: jack_nicholaisen
 summary: "Unlock the secrets of CFO salaries in 2024! Discover how company size impacts pay and learn top negotiation tips. Elevate your career today." 
 thumbnail: /images/posts-headers/cfo-salary-guide-header.png
@@ -27,7 +27,7 @@ Don't miss out on this opportunity to elevate your financial career.
 Continue reading to uncover the secrets to maximizing your earning potential as a CFO...
 
 <center>
-<img alt="how much do CFOs make?" src="/images/content/future-city-technology.png" title="How much are CFOs paid per year?" style="width: 63%; height: 63%">
+<img alt="how much do CFOs make?" src="/images/content/future-city-technology.png" title="average cfo pay" style="width: 63%; height: 63%">
 </center>
 
 ## What is the Average CFO Salary?
@@ -47,7 +47,7 @@ Large companies with revenue over $1 billion tend to offer the highest salaries,
 Additionally, CFOs in larger firms or in high-cost locations may command salaries of over $1 million.
 
 <center>
-<img alt="average cfo salary" src="/images/content/statistics/cfo_salary_ranges_by_company_size.png" title="How much do CFOs make on average?" style="width: 63%; height: 63%">
+<img alt="average cfo salary" src="/images/content/statistics/cfo_salary_ranges_by_company_size.png" title="cfo meaning salary" style="width: 63%; height: 63%">
 </center>
 
 ## What is the Highest CFO Salary?
@@ -205,7 +205,7 @@ Understanding these factors can help both CFOs and employers navigate the comple
 ## Average CFO Salary by Company Size
 
 <center>
-<img alt="range of cfo salary" src="/images/content/small-medium-large.png" title="CFO Salary based on size of company" style="width: 63%; height: 63%">
+<img alt="average cfo salary small companies" src="/images/content/small-medium-large.png" title="how much does a cfo of a small company make" style="width: 63%; height: 63%">
 </center>
 
 **CFO compensation by company size:** Smaller companies may offer less in terms of base salary but can supplement with performance bonuses or equity to make the total compensation package more attractive.
@@ -266,7 +266,7 @@ They may face challenges such as managing a global finance team and navigating c
 ## Compensation Considerations
 
 <center>
-<img alt="compensation considerations" src="/images/content/success-favors-the-prepared.png" title="How much money are you able to make as a CFO?" style="width: 63%; height: 63%">
+<img alt="cfo salary 0 million company" src="/images/content/success-favors-the-prepared.png" title="how much does a cfo make" style="width: 63%; height: 63%">
 </center>
 
 When considering how to structure CFO compensation, it's essential to consider more than the size of the company and its revenue, as these factors are critical in determining pay scales. 
@@ -345,7 +345,7 @@ Understanding the different components of these packages is essential for both c
 ## CFO Salary Trends and Future Outlook
 
 <center>
-<img alt="cfo salary movement and predictions" src="/images/content/income.png" title="CFO Compensation Trends" style="width: 63%; height: 63%">
+<img alt="how much does a cfo make at a small company" src="/images/content/income.png" title="cfo salary mid size company" style="width: 63%; height: 63%">
 </center>
 
 ### Recent Trends in CFO Compensation
@@ -461,7 +461,7 @@ Approach the discussion with a collaborative mindset, aiming for a compensation 
 ## FAQs - Frequently Asked Questions About CFO Salaries
 
 <center>
-<img alt="faqs about CFO salary" src="/images/content/answers.png" title="What is the average CFO salary?" style="width: 63%; height: 63%">
+<img alt="what is a cfo salary" src="/images/content/answers.png" title="cfo pay by company size" style="width: 63%; height: 63%">
 </center>
 
 <link rel="stylesheet" href="/assets/css/faq-styles.css">
@@ -518,31 +518,6 @@ Don't miss out on the latest insights and updates - subscribe to our The Initiat
 
 <iframe src="https://embeds.beehiiv.com/4b55f309-919b-4f27-82e1-28bfbbc3543f" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
 
-
-
-<br>
-<details>
-<summary><b>Sources</b></summary>
-<br>
-<ul>
-    <li><a href="https://www.mckinsey.com/featured-insights/themes/how-the-role-of-the-cfo-is-evolving">McKinsey & Company: How the role of the CFO is evolving</a></li>
-    <li><a href="https://cowenpartners.com/cfo-salary-guide-2023/">Cowen Partners: CFO Salary Guide 2023</a></li>
-    <li><a href="https://insights.bdo.com/Private-Company-Executive-Compensation-Survey-Report-2023.html">BDO: Private Company Executive Compensation Survey Report 2023</a></li>
-    <li><a href="https://www.comparably.com/salaries/salaries-for-cfo">Comparably: Salaries for CFO</a></li>
-    <li><a href="https://www.iproledge.com/post/understanding-cfo-salaries-how-much-can-a-cfo-earn">iProledge: Understanding CFO Salaries - How Much Can a CFO Earn?</a></li>
-    <li><a href="https://digitaldefynd.com/IQ/cfo-salaries-in-the-us-and-the-world/">DigitalDefynd: CFO Salaries in the US and the World</a></li>
-    <li><a href="https://www.payscale.com/research/US/Job=Chief_Financial_Officer_(CFO)/Salary">PayScale: Chief Financial Officer (CFO) Salary</a></li>
-    <li><a href="https://cowenpartners.com/average-cfo-salary-by-revenue/">Cowen Partners: Average CFO Salary by Revenue</a></li>
-    <li><a href="https://www.salary.com/research/salary/benchmark/chief-financial-officer-salary">Salary.com: Chief Financial Officer Salary</a></li>
-    <li><a href="https://www.cfo-search.com/cfo_salary/">CFO Search: CFO Salary</a></li>
-    <li><a href="https://corpgov.law.harvard.edu/2023/03/28/an-early-look-at-2023-ceo-cfo-pay-actions/">Harvard Law School Forum on Corporate Governance: An Early Look at 2023 CEO & CFO Pay Actions</a></li>
-    <li><a href="https://www.equilar.com/reports/105-2023-cfo-pay-trends.html">Equilar: 2023 CFO Pay Trends</a></li>
-    <li><a href="https://www2.deloitte.com/us/en/pages/financial-services/articles/executive-compensation-plan-perform-pay.html">Deloitte: Executive Compensation Plan - Perform & Pay</a></li>
-    <li><a href="https://harvestcfo.com/2021/06/14/cfo-compensation-in-pe-portfolio-companies/">Harvest CFO: CFO Compensation in PE Portfolio Companies</a></li>
-    <li><a href="https://www.capartners.com/cap-thinking/pay-trends-spotlight-on-chief-financial-officers-2023-update/">CAP: Pay Trends Spotlight on Chief Financial Officers - 2023 Update</a></li>
-</ul>
-</details>
-
 ## Methodology
 
 To provide an accurate and comprehensive analysis of CFO salaries based on company size, we have employed a multifaceted approach in gathering and analyzing data. 
@@ -578,3 +553,26 @@ Our analysis employs the following statistical methods to calculate average sala
 - Trend Analysis: Examining changes in CFO compensation over time to identify emerging patterns and insights.
 
 By adhering to this methodology, we have worked to provide a comprehensive and accurate overview of CFO salaries by company size, enabling YOU, the reader, to understand the various factors that influence compensation in this critical executive role.
+
+<br>
+<details>
+<summary><b>Sources</b></summary>
+<br>
+<ul>
+    <li><a href="https://www.mckinsey.com/featured-insights/themes/how-the-role-of-the-cfo-is-evolving">McKinsey & Company: How the role of the CFO is evolving</a></li>
+    <li><a href="https://cowenpartners.com/cfo-salary-guide-2023/">Cowen Partners: CFO Salary Guide 2023</a></li>
+    <li><a href="https://insights.bdo.com/Private-Company-Executive-Compensation-Survey-Report-2023.html">BDO: Private Company Executive Compensation Survey Report 2023</a></li>
+    <li><a href="https://www.comparably.com/salaries/salaries-for-cfo">Comparably: Salaries for CFO</a></li>
+    <li><a href="https://www.iproledge.com/post/understanding-cfo-salaries-how-much-can-a-cfo-earn">iProledge: Understanding CFO Salaries - How Much Can a CFO Earn?</a></li>
+    <li><a href="https://digitaldefynd.com/IQ/cfo-salaries-in-the-us-and-the-world/">DigitalDefynd: CFO Salaries in the US and the World</a></li>
+    <li><a href="https://www.payscale.com/research/US/Job=Chief_Financial_Officer_(CFO)/Salary">PayScale: Chief Financial Officer (CFO) Salary</a></li>
+    <li><a href="https://cowenpartners.com/average-cfo-salary-by-revenue/">Cowen Partners: Average CFO Salary by Revenue</a></li>
+    <li><a href="https://www.salary.com/research/salary/benchmark/chief-financial-officer-salary">Salary.com: Chief Financial Officer Salary</a></li>
+    <li><a href="https://www.cfo-search.com/cfo_salary/">CFO Search: CFO Salary</a></li>
+    <li><a href="https://corpgov.law.harvard.edu/2023/03/28/an-early-look-at-2023-ceo-cfo-pay-actions/">Harvard Law School Forum on Corporate Governance: An Early Look at 2023 CEO & CFO Pay Actions</a></li>
+    <li><a href="https://www.equilar.com/reports/105-2023-cfo-pay-trends.html">Equilar: 2023 CFO Pay Trends</a></li>
+    <li><a href="https://www2.deloitte.com/us/en/pages/financial-services/articles/executive-compensation-plan-perform-pay.html">Deloitte: Executive Compensation Plan - Perform & Pay</a></li>
+    <li><a href="https://harvestcfo.com/2021/06/14/cfo-compensation-in-pe-portfolio-companies/">Harvest CFO: CFO Compensation in PE Portfolio Companies</a></li>
+    <li><a href="https://www.capartners.com/cap-thinking/pay-trends-spotlight-on-chief-financial-officers-2023-update/">CAP: Pay Trends Spotlight on Chief Financial Officers - 2023 Update</a></li>
+</ul>
+</details>
