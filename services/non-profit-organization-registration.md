@@ -10,6 +10,11 @@ Registering a non-profit organization is a significant step towards making a pos
 
 Our non-profit registration services simplify the process, ensuring your organization is set up correctly to achieve its mission and goals.
 
+<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/businessinitiative/30-minute-consultation-call" style="min-width:320px;height:700px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Calendly inline widget end -->
+
 ## Why You Need to Register a Non-Profit
 
 ### 1. Tax-Exempt Status
@@ -54,5 +59,4 @@ Don't let the process of registering a non-profit slow down your progress.
 
 Our non-profit registration services provide the expertise and support you need to establish your organization quickly and efficiently. 
 
-Contact us today to get started and take the first step towards making a difference.
-
+<a href="https://www.businessinitiative.org/contact/" target="_blank">Contact us today</a> to get started and take the first step towards making a difference.

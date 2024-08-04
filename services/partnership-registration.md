@@ -10,6 +10,11 @@ Registering a partnership can simplify business operations and offer tax advanta
 
 Our partnership registration services make the process easy and efficient.
 
+<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/businessinitiative/30-minute-consultation-call" style="min-width:320px;height:700px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Calendly inline widget end -->
+
 ## Why You Need a Partnership
 
 ### 1. Simplified Business Structure
@@ -49,5 +54,4 @@ We provide ongoing support to help you understand and manage your partnership ef
 
 Our partnership registration services provide the expertise and support needed to establish your business quickly and efficiently. 
 
-Contact us today to get started.
-
+<a href="https://www.businessinitiative.org/contact/" target="_blank">Contact us today</a> to get started.

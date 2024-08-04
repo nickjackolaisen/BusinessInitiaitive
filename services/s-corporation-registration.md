@@ -10,6 +10,11 @@ Forming an S-Corporation offers unique tax advantages and liability protection f
 
 Our S-Corporation registration services ensure your business is set up correctly and efficiently.
 
+<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/businessinitiative/30-minute-consultation-call" style="min-width:320px;height:700px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Calendly inline widget end -->
+
 ## Why You Need an S-Corporation
 
 ### 1. Tax Benefits
@@ -49,5 +54,4 @@ We offer ongoing support to help you understand and manage your S-Corporation ef
 
 Our S-Corporation registration services provide the expertise and support needed to establish your business quickly and efficiently. 
 
-Contact us today to get started.
-
+<a href="https://www.businessinitiative.org/contact/" target="_blank">Contact us today</a> to get started.
