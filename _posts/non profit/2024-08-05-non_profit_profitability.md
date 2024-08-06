@@ -7,7 +7,7 @@ author: jack_nicholaisen
 summary: "Unlock nonprofit success with surplus strategies. Learn how leading organizations sustain growth and maximize impact for long-term success."
 thumbnail: /images/posts-headers/non-profit-profitability-header.png
 image: /images/posts-headers/non-profit-profitability-header.png
-permalink: /statistics/non-profit/profitability/
+permalink: /non-profit/profitability/
 tags: non profit organization profitability 
 ---
 
