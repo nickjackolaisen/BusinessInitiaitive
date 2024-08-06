@@ -72,7 +72,7 @@ tags: services, offerings, registration, filing, call, meeting, schedule, messag
         <div class="card-abbreviation">Corporations</div>
         <h2>Corporation Registration</h2>
         <p>Incorporate your business to gain credibility and legal protection.</p>
-        <div class="price">$300</div>
+        <div class="price">$350</div>
         <div class="disclaimer">+ state filing fees</div>
         <p class="note">(Registered Agent Services, OA, and AoC are NOT included)</p>
         <a href="https://www.businessinitiative.org/services/corporation-registration/" class="cta-button">Register Corporation</a>
