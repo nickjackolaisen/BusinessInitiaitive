@@ -4,7 +4,7 @@ layout: post
 date: 2024-08-06
 update_date: 
 author: jack_nicholaisen
-summary: "Unlock nonprofit success with surplus strategies. Learn how leading organizations sustain growth and maximize impact for long-term success."
+summary: "Unlock nonprofit success with surplus strategies. Learn how leading organizations sustain growth and maximize impact for long-term success." 
 thumbnail: /images/posts-headers/non-profit-profitability-header.png
 image: /images/posts-headers/non-profit-profitability-header.png
 permalink: /statistics/non-profit/profitability/
