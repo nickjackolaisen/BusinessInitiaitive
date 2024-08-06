@@ -1,12 +1,10 @@
 ---
-title: "When to Consider a Series LLC: Advantages, Disadvantages, & Use Cases for 2024"
+title: "When to Consider a Series LLC: Advantages, Disadvantages, and Use Cases"
 layout: post
 date: 2023-08-05
-update_date: 2024-08-06
+update_date: 2024-07-16
 author: jack_nicholaisen
 summary: "Explore Series LLC features, benefits, legal structure, liability protection, tax implications, and tips to see if it's right for your business!"
-thumbnail: /images/posts-headers/series-llc-header.png
-image: /images/posts-headers/series-llc-header.png
 permalink: /llc/series-llc/
 ---
 
@@ -32,21 +30,13 @@ For example, if one series faces legal issues or financial difficulties, it won'
 
 ### Liability Protection in a Series LLC
 
-One of the main benefits of a Series LLC is the enhanced liability protection it offers. Each series within the larger LLC is legally separate, meaning that the debts and liabilities of one series do not affect the others. 
+One of the main benefits of a Series LLC is the enhanced liability protection it offers. Each series within the larger LLC is legally separate, meaning that the debts and liabilities of one series do not affect the others. This is particularly beneficial for businesses with multiple ventures or investments, as it can help to limit the overall risk.
 
-This is particularly beneficial for businesses with multiple ventures or investments, as it can help to limit the overall risk.
-
-However, it's essential to maintain proper records and separation between each series to ensure this liability protection is upheld. 
-
-Failure to do so could result in a court "piercing the corporate veil" and holding the entire LLC responsible for the liabilities of a single series ([Forbes](https://www.forbes.com/sites/taxanalysts/2015/02/16/series-llcs-the-next-generation-of-passthrough-entities/)).
+However, it's essential to maintain proper records and separation between each series to ensure this liability protection is upheld. Failure to do so could result in a court "piercing the corporate veil" and holding the entire LLC responsible for the liabilities of a single series ([Forbes](https://www.forbes.com/sites/tykiisel/2013/03/12/series-llcs-the-next-generation-of-llcs/?sh=6b12fa2846f5)).
 
 ### Tax Implications of a Series LLC
 
-The tax treatment of a Series LLC can vary depending on the state in which it is formed and operates. 
-
-In general, a Series LLC is treated as a single tax entity for federal tax purposes, meaning that the entire LLC files a single tax return. 
-
-However, some states may require each series to file separate state tax returns ([The Balance Money](https://www.thebalancemoney.com/series-llc-is-it-right-for-your-business-398447)).
+The tax treatment of a Series LLC can vary depending on the state in which it is formed and operates. In general, a Series LLC is treated as a single tax entity for federal tax purposes, meaning that the entire LLC files a single tax return. However, some states may require each series to file separate state tax returns ([Incfile](https://www.incfile.com/blog/post/series-llc-tax-benefits/)).
 
 It's essential to consult with a tax professional to understand the specific tax implications of a Series LLC in your state and ensure compliance with all relevant tax laws and regulations.
 
