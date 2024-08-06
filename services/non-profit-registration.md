@@ -10,6 +10,11 @@ Registering a non-profit organization is a vital step for individuals and groups
 
 Our non-profit registration services ensure that your organization is legally recognized and ready to fulfill its mission.
 
+<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/businessinitiative/30-minute-consultation-call" style="min-width:320px;height:700px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Calendly inline widget end -->
+
 ## Why You Need Non-Profit Registration
 
 ### Legal Recognition

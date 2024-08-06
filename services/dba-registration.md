@@ -12,6 +12,11 @@ This can offer numerous advantages for entrepreneurs and established companies a
 
 Our DBA registration services simplify the process, ensuring your business can take advantage of these benefits quickly and easily.
 
+<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/businessinitiative/30-minute-consultation-call" style="min-width:320px;height:700px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Calendly inline widget end -->
+
 ## Why You Need a DBA
 
 ### 1. Enhanced Branding Opportunities

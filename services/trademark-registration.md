@@ -12,6 +12,11 @@ By securing a trademark, you gain exclusive rights to your brand name, logo, slo
 
 Our trademark registration services ensure that your brand is legally protected and positioned for success.
 
+<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/businessinitiative/30-minute-consultation-call" style="min-width:320px;height:700px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Calendly inline widget end -->
+
 ## Why You Need a Trademark
 
 ### Legal Protection Against Infringement
