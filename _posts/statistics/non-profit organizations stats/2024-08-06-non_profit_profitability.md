@@ -1,7 +1,7 @@
 ---
 title: "Profitability in Nonprofits | The Fundamentals of Long-Term Impact & Growth"
 layout: post
-date: 2024-08-05
+date: 2024-08-06
 update_date: 
 author: jack_nicholaisen
 summary: "Unlock nonprofit success with surplus strategies. Learn how leading organizations sustain growth and maximize impact for long-term success."
