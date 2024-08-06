@@ -8,7 +8,6 @@ summary: "Unlock nonprofit success with surplus strategies. Learn how leading or
 thumbnail: /images/posts-headers/non-profit-profitability-header.png
 image: /images/posts-headers/non-profit-profitability-header.png
 permalink: /non-profit/profitability/
-tags: non profit organization profitability 
 ---
 
 Profitability in nonprofits is a game-changer. 
