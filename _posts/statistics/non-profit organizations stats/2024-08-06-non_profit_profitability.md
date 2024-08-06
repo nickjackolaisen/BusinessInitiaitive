@@ -1,5 +1,5 @@
 ---
-title: "Profitability in Nonprofits | The Fundamentals to Long-Term Impact & Growth"
+title: "Profitability in Nonprofits | The Fundamentals of Long-Term Impact & Growth"
 layout: post
 date: 2024-08-06
 update_date: 
