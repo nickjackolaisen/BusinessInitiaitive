@@ -1,8 +1,7 @@
 ---
 title: "When to Consider a Series LLC: Advantages, Disadvantages, and Use Cases"
 layout: post
-date: 2023-08-05
-update_date: 2024-08-06
+date: 2023-08-09
 author: jack_nicholaisen
 summary: "Explore Series LLC features, benefits, legal structure, liability protection, tax implications, and tips to see if it's right for your business!"
 thumbnail: /images/posts-headers/series-llc-header.png
