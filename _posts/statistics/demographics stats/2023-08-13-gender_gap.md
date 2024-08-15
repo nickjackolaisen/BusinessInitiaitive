@@ -124,7 +124,7 @@ In fact, many corporations are already leading the way in supporting women entre
 Below is a list of the top corporations recognized for their commitment to women-owned businesses in 2023.
 
 <h3>America's Top Corporations for Women's Business Enterprises (2023)</h3>
-<table border="1" cellpadding="10" cellspacing="0" width="100%">
+<table border="1" cellpadding="10" cellspacing="0">
   <thead>
     <tr>
       <th colspan="2">Corporation Name</th>
