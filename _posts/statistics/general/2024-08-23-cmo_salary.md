@@ -233,7 +233,7 @@ These examples highlight how strategic marketing leadership directly influences 
 
 - **<a href="https://www.forbes.com/sites/sethmatlins/2024/06/20/the-2024-forbes-worlds-most-influential-cmos-list/" target="_blank">Asmita Dubey, L’Oréal's Chief Digital and Marketing Officer</a>**, spearheaded digital transformation, contributing to **10.9% growth in FY22** and a **13% market cap increase YoY**.
 
-## FAQs - Frequently Asked Questions About Cheif Marking Officer Salaries
+## FAQs - Frequently Asked Questions About Chief Marking Officer Salaries
 
 <center>
 <img alt="Business FAQs" src="/images/content/faqs-section.png" title="Common Business Questions" style="width: 63%; height: 63%">
