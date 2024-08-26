@@ -2,7 +2,7 @@
 title: "Government Regulations and Legal Compliance | Comprehensive M&A Due Diligence"
 layout: post
 date: 2024-06-02
-update_date: 2024-07-01
+update_date: 2024-08-26
 author: jack_nicholaisen
 summary: "Master M&A due diligence with our guide on government regulations and legal compliance. Ensure a smooth acquisition process and mitigate risks effectively."
 thumbnail: /images/posts-headers/m-and-a/m-and-a-due-diligence-regulations-filings-legal-compliance-header.png
@@ -85,19 +85,11 @@ This process provides insight into past regulatory interactions and highlights a
 - How has the company responded to these citations or notices?
 
 - Are there any unresolved issues or ongoing investigations?
+<a id="investigations"> 
 
 - What impact could these issues have on the company's operations?
 
 - How frequently does the company receive such citations?
-
-**Resources:**
-<a id="investigations"> 
-
-- **[LexisNexis](https://www.lexisnexis.com/en-us/gateway.page)**
-
-- **[Westlaw](https://legal.thomsonreuters.com/en/westlaw)**
-
-- **Government Agency Websites**
 
 ## Assess Pending or Threatened Investigations:
 
@@ -140,19 +132,11 @@ This assessment helps in anticipating future challenges and preparing for possib
 - What are the key issues being investigated?
 
 - What is the potential financial impact of these investigations?
+<a id="material-reports"> 
 
 - How prepared is the company to handle these investigations?
 
 - Are there any patterns or recurring themes in the investigations?
-
-**Resources:**
-<a id="material-reports"> 
-
-- **[LexisNexis](https://www.lexisnexis.com/en-us/gateway.page)**
-
-- **[Westlaw](https://legal.thomsonreuters.com/en/westlaw)**
-
-- **Company’s Legal Department**
 
 ## Evaluate Material Reports and Correspondence with Government Entities:
 
@@ -191,19 +175,11 @@ This includes communications with municipalities or agencies that may impact ope
 - What reports and correspondence exist with government entities?
 
 - Are there any significant issues raised in these communications?
+<a id="certifications"> 
 
 - How does the company address regulatory compliance issues?
 
 - Are there any ongoing discussions or negotiations with regulatory bodies?
-
-**Resources:**
-<a id="certifications"> 
-
-- **[LexisNexis](https://www.lexisnexis.com/en-us/gateway.page)**
-
-- **[Westlaw](https://legal.thomsonreuters.com/en/westlaw)**
-
-- **Government Agency Websites**
 
 ## Verify Certification of Compliance:
 
@@ -247,15 +223,6 @@ This verification process is crucial for maintaining legal and operational integ
 
 - What is the process for maintaining compliance with regulatory standards?
 
-**Resources:**
-<a id="compliance-costs"> 
-
-- **[LexisNexis](https://www.lexisnexis.com/en-us/gateway.page)**
-
-- **[Westlaw](https://legal.thomsonreuters.com/en/westlaw)**
-
-- **Regulatory Compliance Advisors**
-
 ## Assess Costs of Regulatory Compliance:
 
 Reviewing reports on the burdens and costs of regulatory compliance, including labor, environmental, and other federal, state, and local regulations, helps understand the financial impact of maintaining compliance. 
@@ -293,19 +260,11 @@ This analysis is vital for effective financial planning and management.
 - What are the main costs associated with regulatory compliance?
 
 - How does the company manage these costs?
+<a id="faqs"> 
 
 - Are there any cost-saving opportunities in compliance processes?
 
 - How do these compliance costs compare to industry standards?
-
-**Resources:**
-<a id="faqs"> 
-
-- **[LexisNexis](https://www.lexisnexis.com/en-us/gateway.page)**
-
-- **[Westlaw](https://legal.thomsonreuters.com/en/westlaw)**
-
-- **Company’s Compliance Reports**
 
 ## FAQs - Frequently Asked Questions About Investigating a Company's Legal and Regulatory Compliance
 
@@ -364,7 +323,9 @@ Act now to secure your business's future with strategic M&A due diligence.
 <br>
 
 <details>
-<summary><b>Sources</b></summary>
+<summary><b>Tools & Sources</b></summary>
+<p><a href="https://www.lexisnexis.com/en-us/gateway.page" target="_blank">LexisNexis</a></p>
+<p><a href="https://legal.thomsonreuters.com/en/westlaw" target="_blank">Westlaw</a></p>
 <ul>
     <li><a href="https://www.lexisnexis.com/en-us/gateway.page" target="_blank">LexisNexis</a>: For comprehensive legal research.</li>
     <li><a href="https://legal.thomsonreuters.com/en/westlaw" target="_blank">Westlaw</a>: For comprehensive legal research.</li>
