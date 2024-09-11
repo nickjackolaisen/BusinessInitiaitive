@@ -2,11 +2,14 @@
 title: "Profitability in Nonprofits | The Fundamentals of Long-Term Impact & Growth"
 layout: post
 date: 2024-08-06
+update_date: 2024-09-11
 author: jack_nicholaisen
 summary: "Unlock nonprofit success with profitable strategies. Learn how leading organizations sustain growth and maximize impact for long-term success."
 thumbnail: /images/posts-headers/non-profit-profitability-header.png
 image: /images/posts-headers/non-profit-profitability-header.png
 permalink: /non-profit/profitability/
+redirect_from: 
+     - /statistics/non-profit/profitability/
 ---
 
 Profitability in nonprofits is a game-changer. 
