@@ -9,7 +9,7 @@ thumbnail: /images/posts-headers/non-profit-profitability-header.png
 image: /images/posts-headers/non-profit-profitability-header.png
 permalink: /non-profit/profitability/
 redirect_from: 
-     - /statistics/non-profit/profitability/
+    - /statistics/non-profit/profitability/
 ---
 
 Profitability in nonprofits is a game-changer. 

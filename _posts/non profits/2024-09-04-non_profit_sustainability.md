@@ -96,9 +96,8 @@ This surplus is crucial for growth, expansion, and sustainability, allowing nonp
 Financial stability enables nonprofits to scale their impact and continue serving their communities over time.
 
 <p>
-<b>➤ MORE: </b> <a href="https://www.businessinitiative.org/non-profit/profitability/" target="_blank">Learn practical steps to ensure your Nonprpfit has enough money to grow.</a>
+<b>➤ MORE: </b> <a href="https://www.businessinitiative.org/non-profit/profitability/" target="_blank">Learn practical steps to ensure your Nonprofit has enough money to grow.</a>
 </p>
-
 
 ### 2. Key Revenue Streams for Nonprofits
 
