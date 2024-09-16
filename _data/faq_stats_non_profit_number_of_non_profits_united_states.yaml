@@ -1,0 +1,66 @@
+
+- question: "What is a non-profit organization?"
+  simple_answer:
+    - "A non-profit serves a mission rather than making a profit."
+    - "It reinvests income into its mission instead of distributing profits."
+  extended_answers:
+    - "A non-profit organization is designed to advance a social cause or provide public benefit."
+    - "Unlike for-profit businesses, they reinvest any income back into their operations to further their mission, such as education, healthcare, or social services."
+    - "Common types include 501(c)(3) charitable organizations and 501(c)(4) social welfare groups, both of which are tax-exempt."
+
+- question: "How many non-profit organizations are in the U.S.?"
+  simple_answer:
+    - "As of 2023, there are about 2 million non-profits in the U.S."
+  extended_answers:
+    - "The U.S. is home to a rapidly growing non-profit sector, with 2 million registered organizations as of 2023."
+    - "These include 1.48 million 501(c)(3) organizations, which focus on charitable, religious, or educational activities."
+    - "This growth highlights the expanding role non-profits play in sectors like healthcare, education, and community services."
+
+- question: "Why are non-profits important to the U.S. economy?"
+  simple_answer:
+    - "Non-profits contribute significantly to jobs and services."
+    - "They account for nearly 10% of all private-sector jobs."
+  extended_answers:
+    - "Non-profits play a critical role in the economy, employing over 12.8 million people, which represents 9.9% of all private-sector jobs in the U.S."
+    - "In 2022, non-profits had a substantial economic impact, with expenses exceeding $2.46 trillion."
+    - "Their influence extends to essential services in healthcare, education, and social welfare, which benefit millions of people annually."
+
+- question: "What challenges do non-profit organizations face?"
+  simple_answer:
+    - "Non-profits often struggle with funding and staffing shortages."
+  extended_answers:
+    - "Non-profits rely heavily on donations, grants, and fundraising, making them vulnerable to economic downturns."
+    - "The COVID-19 pandemic caused a drop in donations for 37% of non-profits in 2020, with smaller organizations hit the hardest."
+    - "Additionally, nearly one-third of NGOs report staffing shortages, forcing many to raise salaries to attract and retain talent."
+
+- question: "What are the different types of non-profit organizations?"
+  simple_answer:
+    - "The main types are 501(c)(3) and 501(c)(4) organizations."
+  extended_answers:
+    - "501(c)(3) organizations are dedicated to charitable, religious, or educational purposes and are the most common type of non-profit, making up about 1.48 million of the U.S. total."
+    - "501(c)(4) organizations focus on social welfare and advocacy, and they can engage in political activities, with 75,000 registered in 2022."
+    - "Both are tax-exempt, though they serve different purposes and have distinct regulations."
+
+- question: "How do non-profit organizations raise money?"
+  simple_answer:
+    - "They raise funds through donations, grants, and program services."
+  extended_answers:
+    - "Non-profits rely on various sources of revenue, including donations from individuals, foundations, and corporations, which make up 22.8% of their income."
+    - "The majority of revenue—70.8%—comes from program services such as tuition fees, admissions, and other service-related fees."
+    - "Online fundraising, such as through platforms like GoFundMe, is becoming an increasingly important tool for non-profits to reach a broader donor base."
+
+- question: "How do non-profits benefit society?"
+  simple_answer:
+    - "Non-profits fill gaps in public services and advocate for underserved groups."
+  extended_answers:
+    - "Non-profits address critical societal needs by providing services that government and businesses often cannot, such as poverty relief, education, and healthcare."
+    - "They are essential in supporting underserved populations, and in 2021, 16.8% of all charitable donations went to faith-based organizations."
+    - "By driving social change and advocating for equity, non-profits help build stronger communities and foster societal well-being."
+
+- question: "What are the opportunities for growth in the non-profit sector?"
+  simple_answer:
+    - "Digital fundraising and partnerships offer major growth opportunities."
+  extended_answers:
+    - "Non-profits are increasingly leveraging digital platforms like GoFundMe and Classy to expand their reach and increase donations."
+    - "Partnerships with corporations and governments also provide valuable resources through grants and funding."
+    - "Social entrepreneurship, blending business strategies with social missions, is another emerging model that helps non-profits remain sustainable in the face of economic challenges."
