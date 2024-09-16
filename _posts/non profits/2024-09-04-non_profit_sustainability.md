@@ -2,7 +2,7 @@
 title: "How to Achieve Long-Term Sustainability in Your Non-Profit Organization"
 layout: post
 date: 2024-09-09
-update_date: 
+update_date: 2024-09-16
 author: jack_nicholaisen
 summary: "Learn how to build a sustainable nonprofit with strategies for longevity, profitability, and growth through diversified revenue and strong community support."
 thumbnail: /images/posts-headers/non-profit-sustainability.png
@@ -12,7 +12,7 @@ permalink: /non-profit/sustainability/
 
 Nonprofits play a crucial role in the global economy. 
 
-In the United States alone, the nonprofit sector is the <a href="https://donorbox.org/nonprofit-blog/nonprofit-statistics" target="_blank">third-largest employer</a>, with over 1.48 million active 501(c)(3) organizations.
+In the United States alone, the nonprofit sector is the <a href="/statistics/non-profit/number-in-united-states/" target="_blank">third-largest employer</a>, with over 1.48 million active 501(c)(3) organizations.
 
 These organizations drive change, create jobs, and address societal needs. 
 
