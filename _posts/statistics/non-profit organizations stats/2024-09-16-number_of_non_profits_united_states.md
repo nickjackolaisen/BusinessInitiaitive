@@ -68,7 +68,7 @@ As of 2022, there were **1.97 million** non-profits, and by 2023, this number ro
 The majority of these, <a href="https://usafacts.org/articles/how-many-nonprofits-are-there-in-the-us/" target="_blank">1.48 million</a>, fall under the **501(c)(3)** designation, which includes charitable, educational, and religious organizations that enjoy tax-exempt status.
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<h3>Number of Nonprofits in the United States</title>
+<h3>Number of Nonprofits in the United States</h3>
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <canvas id="nonprofitChart" width="400" height="200"></canvas>
 <script>
