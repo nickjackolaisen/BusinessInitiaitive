@@ -87,9 +87,9 @@ tags: services, offerings, registration, filing, call, meeting, schedule, messag
         <div class="card-abbreviation">NPOs</div>
         <h2>Non-Profit Organization Registration</h2>
         <p>Establish your non-profit organization with our expert help.</p>
-        <div class="price">$300</div>
-        <div class="disclaimer">+ state filing fees</div>
-        <p class="note">(Registered Agent Services, OA, and AoC are NOT included)</p>
+        <div class="price">$1500 for 1023-EZ</div>
+        <div class="disclaimer">$2000 for Standard 1023</div>
+        <p class="note">(EIN, Registered Agent Services, OA, AoC, Bylaws are NOT included)</p>
         <a href="https://www.businessinitiative.org/services/non-profit-registration/" class="cta-button">Register Non-Profit</a>
         <h3>Benefits:</h3>
         <ul>
