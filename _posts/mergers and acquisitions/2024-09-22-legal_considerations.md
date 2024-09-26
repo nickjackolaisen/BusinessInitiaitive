@@ -2,7 +2,7 @@
 title: "Legal Preparations Every Business Should Follow - Unlocking the Secrets of a Smooth Merger" 
 layout: post
 date: 2024-09-22
-update_date: 
+update_date: 2024-09-26
 author: jack_nicholaisen
 summary: "Unlock the secrets to a smooth merger! Learn essential legal steps—due diligence, compliance, and contract negotiations—for M&A success."
 thumbnail: /images/posts-headers/m-and-a/m-and-a-legal-considerations-header.png
