@@ -258,21 +258,21 @@ Here are some key strategies:
 - Understand each party’s goals and constraints. Knowing what each side values most can help find common ground.
 
 <blockquote>
-<p><i>Preparation is key. It’s important to go into negotiations with a clear understanding of what you need and where you can be flexible.</i></p></footer>
+<p><i>Preparation is key. It’s important to go into negotiations with a clear understanding of what you need and where you can be flexible.</i></p>
 </blockquote>
 
 **2. Focus on Win-Win Outcomes**
 - Aim to create agreements that benefit both parties. This builds positive post-merger relationships and fosters collaboration.
 
 <blockquote>
-<p><i>Negotiations should be viewed as a partnership. Both sides should feel like they’ve gained something valuable.</i></p></footer>
+<p><i>Negotiations should be viewed as a partnership. Both sides should feel like they’ve gained something valuable.</i></p>
 </blockquote>
 
 **3. Utilize Skilled Negotiators and Legal Counsel**
   - Employ experienced negotiators and legal professionals. Their expertise can navigate complex issues and achieve favorable outcomes.
 
 <blockquote>
-<p><i>Legal counsel is crucial! They can spot potential pitfalls and provide strategic advice.</i></p></footer>
+<p><i>Legal counsel is crucial! They can spot potential pitfalls and provide strategic advice.</i></p>
 </blockquote>
 
 ### Common Pitfalls to Avoid During the Negotiation Process
@@ -389,7 +389,7 @@ Follow us on X for real-time updates and tips.
 Taking these steps today will pave the way for a smoother, more profitable tomorrow.
 
 <br>
-<a href="https://twitter.com/x?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-lang="en" data-show-count="false">Follow @x</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/x?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @x</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <br>
 
 <iframe src="https://embeds.beehiiv.com/4b55f309-919b-4f27-82e1-28bfbbc3543f" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
