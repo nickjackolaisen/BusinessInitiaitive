@@ -2,7 +2,7 @@
 title: "Legal Preparations Every Business Should Follow - Unlocking the Secrets of a Smooth Merger" 
 layout: post
 date: 2024-09-22
-update_date: 2024-09-26
+update_date: 2024-11-10
 author: jack_nicholaisen
 summary: "Unlock the secrets to a smooth merger! Learn essential legal steps—due diligence, compliance, and contract negotiations—for M&A success."
 thumbnail: /images/posts-headers/m-and-a/m-and-a-legal-considerations-header.png
@@ -136,7 +136,6 @@ The meticulous due diligence process ensured there were no unexpected surprises,
 <center>
 <img alt="steps to ensure regulatory compliance in M&A" src="/images/content/legal.png" title="common legal pitfalls in business mergers and how to avoid them" style="width: 63%; height: 63%">
 </center>
-
 
 ### Understanding Regulatory Requirements
 
