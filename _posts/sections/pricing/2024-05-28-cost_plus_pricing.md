@@ -102,7 +102,7 @@ For instance, if your total costs are $100 and you want a 20% profit margin, you
 
 ### Example:
 
-Let’s illustrate cost-plus pricing with a simple example:
+Let’s illustrate with a cost-plus pricing examplewith a simple example:
 
 Imagine you run a bakery. 
 
@@ -137,7 +137,7 @@ It's particularly useful in industries with stable cost structures and low compe
 
 By understanding and implementing cost-plus pricing, you ensure that your business remains profitable while keeping pricing straightforward and transparent.
 
-## Advantages of Cost-Plus Pricing
+## Cost-Plus Pricing Advantages
 
 <center>
 <img alt="advantages of cost plus pricing" src="/images/content/approval.png" title="benefits of cost plus pricing" style="width: 63%; height: 63%">
@@ -197,7 +197,7 @@ This responsiveness helps you stay profitable even in fluctuating markets.
 
 Tools like <a href="https://quickbooks.intuit.com/" target="_blank">QuickBooks</a> or <a href="https://www.xero.com/" target="_blank">Xero</a> can automate this process, making adjustments even easier.
 
-### Example:
+### Cost Plus Pricing Approach:
 
 Consider a custom furniture business. 
 
@@ -208,7 +208,55 @@ The updated price continues to cover all costs and ensures the desired profit ma
 
 By leveraging the simplicity, transparency, stability, and ease of adjustment offered by cost-plus pricing, businesses can maintain healthy profit margins, foster customer trust, and navigate market changes with confidence.
 
-## Implementing Cost-Plus Pricing in Your Business
+## What Companies Use Cost Plus Pricing?
+
+Cost-plus pricing is widely adopted across various industries due to its simplicity and transparency. 
+
+Here are examples of companies that use cost-plus pricing as a part of their strategy:
+
+### 1. Retail Giants
+
+Companies like **Walmart** and **Target** often use cost-plus pricing for private-label products. 
+
+By calculating the production cost of items, including raw materials and labor, and adding a fixed markup, they ensure competitive pricing while maintaining profitability. 
+
+This approach helps these retailers offer affordable products and maintain customer trust.
+
+### 2. Manufacturing Firms
+
+Large manufacturers, such as **Boeing**, rely on cost-plus pricing for custom contracts. 
+
+For example, when creating aircraft for government or private clients, they calculate direct costs (materials, labor) and indirect costs (R&D, facility maintenance) before adding a predetermined profit margin. 
+
+This model ensures clear pricing for complex, high-cost products.
+
+### 3. Consulting Services
+
+Professional service firms like **Deloitte** and **PwC** implement cost-plus pricing for their consulting projects. 
+
+They calculate staff costs, project-specific expenses, and overhead before adding a profit margin. 
+
+This ensures transparency and trust with clients, especially for long-term or high-budget projects.
+
+### 4. Healthcare and Pharmaceuticals
+
+Hospitals and pharmaceutical companies use cost-plus pricing to determine the cost of medical procedures or medications. 
+
+For instance, a hospital might calculate the cost of medical staff, equipment, and supplies, then add a markup to ensure operational profitability while adhering to regulations.
+
+### 5. Custom Goods and Services
+
+Businesses like **Etsy sellers** and small furniture manufacturers often adopt cost-plus pricing. 
+
+For example, a custom furniture maker calculates the cost of wood, labor, and overhead, then applies a markup to set the final price. 
+
+This method ensures they cover all expenses and make a fair profit.
+
+Cost-plus pricing’s adaptability across industries highlights its effectiveness as a straightforward and reliable strategy. 
+
+Whether in retail, manufacturing, services, or healthcare, this model ensures profitability while maintaining trust with clients and customers.
+
+## How to Calculate Cost Plus Pricing?
 
 <center>
 <img alt="cost plus pricing example" src="/images/content/entreprenural-journey.png" title="cost plus pricing formula" style="width: 63%; height: 63%">
@@ -284,7 +332,7 @@ For example, if your total cost per unit is $50 and you want a 30% profit margin
 
 $50 + ($50 x 0.30) = $50 + $15 = **$65**
 
-### Applied Example:
+### Applied Cost Plus Pricing Example:
 
 Imagine a custom t-shirt business. 
 
