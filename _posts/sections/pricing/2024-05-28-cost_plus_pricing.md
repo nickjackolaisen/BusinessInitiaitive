@@ -2,7 +2,7 @@
 title: "Cost-Plus Pricing Strategy | Maximizing Your Profit Margins"
 layout: post
 date: 2024-05-28
-update_date: 2024-06-28
+update_date: 2024-11-23
 author: jack_nicholaisen
 summary: "Learn to maximize profit margins with cost-plus pricing. Implement simple, transparent pricing strategies to ensure consistent profitability."
 thumbnail: /images/posts-headers/cost-plus-pricing-header.png
