@@ -54,13 +54,28 @@ tags: services, offerings, registration, filing, call, meeting, schedule, messag
         </ul>
     </div>
     <div class="pricing-card">
-        <div class="card-abbreviation">LLCs</div>
+        <div class="card-abbreviation">New Jersey LLC</div>
+        <h2>Limited Liability Company Registration</h2>
+        <p>Form your Limited Liability Company (LLC) with ease.</p>
+        <div class="price">$750</div>
+        <div class="disclaimer"></div>
+        <p class="note">(Registered Agent Services, OA, AoC, & Annual Filing are NOT included)</p>
+        <a href="https://checkout.businessinitiative.org/b/fZefZocD94aVfdedQR" class="cta-button">Register LLC in New Jersey</a>
+        <h3>Benefits:</h3>
+        <ul>
+            <li>Limited liability protection</li>
+            <li>Flexible management structure</li>
+            <li>Pass-through taxation</li>
+        </ul>
+    </div>
+        <div class="pricing-card">
+        <div class="card-abbreviation">New York LLC</div>
         <h2>Limited Liability Company Registration</h2>
         <p>Form your Limited Liability Company (LLC) with ease.</p>
         <div class="price">$1500</div>
         <div class="disclaimer"></div>
         <p class="note">(Registered Agent Services, OA, AoC, & Annual Filing are NOT included)</p>
-        <a href="https://www.businessinitiative.org/services/llc-registration/" class="cta-button">Register LLC</a>
+        <a href="https://checkout.businessinitiative.org/b/14keVk0UrdLv5CEeUW" class="cta-button">Register LLC in New York</a>
         <h3>Benefits:</h3>
         <ul>
             <li>Limited liability protection</li>
