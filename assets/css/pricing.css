@@ -143,3 +143,11 @@ ul li::before {
     }
 }
 
+.service-icon {
+    width: 80px; /* Adjust size as needed */
+    height: 80px; /* Adjust size as needed */
+    margin-bottom: 10px; /* Space between icon and text */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow effect */
+    border-radius: 5px; /* Optional: rounded corners */
+}
+
