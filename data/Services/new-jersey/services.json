@@ -1,0 +1,12 @@
+{
+    "corporation": [
+        {
+            "service": "Certificate of Incorporation",
+            "fee": "$125.00",
+            "description": "The Certificate of Incorporation legally establishes the corporation as a separate legal entity...",
+            "link": "https://example.com/nj-corporation"
+        }
+        // Add more services as needed
+    ]
+    // Add more entities as needed
+} 
