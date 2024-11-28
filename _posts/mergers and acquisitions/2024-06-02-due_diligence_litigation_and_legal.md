@@ -2,7 +2,7 @@
 title: "Litigation & Legal Due Diligence | Comprehensive Guide to M&A"
 layout: post
 date: 2024-06-02
-update_date: 2024-07-01
+update_date: 2024-09-22
 author: jack_nicholaisen
 summary: "Expertly navigate litigation and legal due diligence in M&A with our comprehensive guide, featuring practical steps and essential resources."
 thumbnail: /images/posts-headers/m-and-a/m-and-a-due-diligence-litigation-and-legal-header.png
@@ -138,6 +138,10 @@ This involves a thorough review of compliance records and understanding the regu
 2. **Identify Regulatory Investigations:** Determine if there are any ongoing or potential regulatory investigations involving the company. Assess the nature of these investigations and their potential impact on the company.
 
 3. **Evaluate Regulatory Environment:** Understand the regulatory environment specific to the industry and how it applies to the target company. Identify any regulatory changes that could affect the company’s operations in the future.
+
+<p>
+<b>➤ LEARN: </b> <a href="/mergers-and-acquisitions/legal-considerations/" target="_blank">Practical steps to mitigate the legalities of M&A</a>
+</p>
 
 ### Self-Assessment Questions:
 

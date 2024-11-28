@@ -64,4 +64,8 @@ Don't let the process of obtaining a DBA slow down your business progress.
 
 Our DBA registration services provide the expertise and support you need to secure your DBA quickly and efficiently. 
 
-<a href="https://www.businessinitiative.org/contact/" target="_blank">Contact us today</a> to get started and take the first step towards enhancing your business identity.
+Contact us today to get started and take the first step towards enhancing your business identity.
+
+
+
+

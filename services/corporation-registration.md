@@ -59,4 +59,5 @@ Don't let the process of incorporating slow down your business progress.
 
 Our corporation registration services provide the expertise and support you need to establish your corporation quickly and efficiently. 
 
-<a href="https://www.businessinitiative.org/contact/" target="_blank">Contact us today</a> to get started and take the first step towards securing your business’s future.
+Contact us today to get started and take the first step towards securing your business’s future.
+

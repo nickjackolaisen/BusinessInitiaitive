@@ -2,7 +2,7 @@
 title: "Small Business Survival & Failure Rate | Avoid Common Pitfalls in 2024 and Beyond"
 layout: post
 date: 2024-06-25
-update_date: 2024-07-16
+update_date: 2024-11-24
 author: jack_nicholaisen
 summary: "32.3% of small businesses fail within two years. Read this guide today and learn key strategies to avoid common pitfalls and thrive!"
 thumbnail: /images/posts-headers/small-business-survival-failure-rate-header.png
@@ -899,6 +899,10 @@ Cash flow management involves monitoring and optimizing the inflow and outflow o
 
 - Implement a structured follow-up process for overdue accounts to minimize late payments.
 
+<p>
+<b>➤ MORE: </b> <a href="/business-tips/bitcoin-payments/" target="_blank">Enable your customers to pay with Bitcoin.</a>
+</p>
+
 **3. Manage Accounts Payable:**
 
 - Negotiate favorable payment terms with suppliers to extend payment periods without incurring penalties.
@@ -1019,7 +1023,8 @@ Subscribe to the Initiative Newsletter and follow us on X for regular updates an
 <a href="https://twitter.com/intent/tweet?screen_name=BisInitiative&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-size="large" data-show-count="false">Tweet to @BisInitiative</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <br>
 
-<iframe src="https://embeds.beehiiv.com/e19ce286-1d77-44e9-b09f-22d4f7c6f0bf" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
+<iframe src="https://embeds.beehiiv.com/4b55f309-919b-4f27-82e1-28bfbbc3543f" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
+
 
 <br>
 <details>

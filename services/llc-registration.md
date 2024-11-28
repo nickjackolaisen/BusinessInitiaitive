@@ -59,4 +59,5 @@ Don't let the process of forming an LLC slow down your business progress.
 
 Our LLC registration services provide the expertise and support you need to establish your LLC quickly and efficiently. 
 
-<a href="https://www.businessinitiative.org/contact/" target="_blank">Contact us today</a> to get started and take the first step towards securing your business’s future.
+Contact us today to get started and take the first step towards securing your business’s future.
+

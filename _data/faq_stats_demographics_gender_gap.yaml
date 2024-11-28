@@ -1,0 +1,82 @@
+
+- question: "What percentage of businesses are owned by women in the U.S.?"
+  simple_answer:
+    - "Women-owned businesses make up 42% of all U.S. businesses."
+  extended_answers:
+    - "As of 2019, women-owned businesses represent 42% of all U.S. businesses, equating to nearly 13 million businesses."
+    - "These businesses employ over 9.4 million workers and generate $1.9 trillion in revenue, showing a significant presence of women entrepreneurs in the U.S. economy."
+  link: "https://ventureneer.com/wp-content/uploads/2019/10/Final-2019-state-of-women-owned-businesses-report.pdf"
+
+- question: "What are the main challenges women entrepreneurs face?"
+  simple_answer:
+    - "Access to capital, societal expectations, and limited mentorship opportunities."
+  extended_answers:
+    - "Women entrepreneurs often struggle with access to funding, receiving just 2.2% of venture capital in 2018, compared to nearly 98% for male-led startups."
+    - "They also face societal pressures such as balancing caregiving responsibilities and limited access to mentorship and networks, particularly in male-dominated industries."
+    - "These challenges contribute to slower growth and fewer high-growth opportunities for women-led businesses."
+  link: "https://www.gendereconomy.org/shattering-the-second-glass-ceiling/"
+
+- question: "How does access to capital affect women-owned businesses?"
+  simple_answer:
+    - "Women receive far less venture capital funding than men, limiting their growth potential."
+  extended_answers:
+    - "Only 2.2% of venture capital funding went to women-led startups in 2018, and only 2.3% in 2020."
+    - "This lack of funding restricts their ability to scale, hire employees, and enter high-growth industries."
+    - "Many women-owned businesses remain small due to these limitations."
+  link: "https://www.census.gov/library/stories/2021/03/women-business-ownership-in-america-on-rise.html"
+
+- question: "Which industries have the most women-owned businesses?"
+  simple_answer:
+    - "Women-owned businesses are concentrated in Professional Services, Health Care, and Social Assistance."
+  extended_answers:
+    - "According to the 2019 State of Women-Owned Businesses Report, 16.8% of women-owned businesses are in the Professional, Scientific, and Technical Services sector."
+    - "Additionally, 19.4% of women-owned business employees work in Health Care and Social Assistance, showcasing the prominence of women in these industries."
+  link: "https://advocacy.sba.gov/wp-content/uploads/2024/03/Women-Ownership-Statistics-2024.pdf"
+
+- question: "Why is there a revenue gap between women-owned and men-owned businesses?"
+  simple_answer:
+    - "Women-owned businesses generate significantly less revenue than male-owned businesses."
+  extended_answers:
+    - "The average revenue for women-owned businesses is $142,900, while male-owned businesses generate an average of $474,900."
+    - "This disparity is due to factors like less access to capital, societal expectations, and industry concentration in sectors with lower profit margins."
+  link: "https://ventureneer.com/wp-content/uploads/2019/10/Final-2019-state-of-women-owned-businesses-report.pdf"
+
+- question: "How can women entrepreneurs improve their access to funding?"
+  simple_answer:
+    - "By seeking mentorship and applying to programs designed for women entrepreneurs."
+  extended_answers:
+    - "Women entrepreneurs can improve their access to funding by participating in programs like the SBA Women-Owned Small Business Federal Contracting Program and seeking support from organizations like the National Association of Women Business Owners (NAWBO) and Women’s Business Enterprise National Council (WBENC)."
+    - "These programs provide networking, educational resources, and mentorship opportunities that can help bridge the funding gap."
+  link: "https://www.wbenc.org/"
+
+- question: "What steps can businesses take to promote gender inclusivity?"
+  simple_answer:
+    - "Foster a culture of inclusivity, offer flexible work, and prioritize diverse hiring."
+  extended_answers:
+    - "Businesses can promote gender inclusivity by creating a culture that values diversity, offering mentorship opportunities, and providing flexible work arrangements to accommodate caregiving responsibilities."
+    - "Hiring practices should also be inclusive, such as implementing blind hiring or actively seeking candidates from underrepresented groups."
+    - bullet_points:
+      - "Foster a culture of inclusivity."
+      - "Provide mentorship and networking opportunities."
+      - "Offer flexible work arrangements."
+      - "Prioritize diversity in hiring practices."
+
+- question: "What resources are available to support women entrepreneurs?"
+  simple_answer:
+    - "Many organizations offer financial, educational, and networking support for women entrepreneurs."
+  extended_answers:
+    - "Organizations like the Association of Women’s Business Centers (AWBC), National Association of Women Business Owners (NAWBO), and Women's Business Enterprise National Council (WBENC) provide vital support."
+    - "These groups offer training, microloans, and mentorship to help women-owned businesses grow, scale, and overcome challenges."
+    - bullet_points:
+      - "AWBC: Over 100 centers nationwide."
+      - "NAWBO: Advocacy and public policy support."
+      - "WBENC: Largest certifier of women-owned businesses."
+  link: "https://www.awbc.org/"
+
+- question: "How can businesses reduce the gender gap in leadership and ownership?"
+  simple_answer:
+    - "Implement inclusive policies and create mentorship opportunities for women."
+  extended_answers:
+    - "Businesses can reduce the gender gap by fostering a culture that promotes inclusivity and diversity at all levels."
+    - "This includes creating mentorship and networking opportunities for women, encouraging female employees to pursue leadership roles, and offering equal access to resources like funding and training."
+    - "Additionally, supporting policies that promote work-life balance, such as flexible working hours, can help women balance family and business responsibilities."

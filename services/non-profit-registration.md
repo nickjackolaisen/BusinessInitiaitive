@@ -67,4 +67,4 @@ Don't let the process of registering your non-profit hold you back from making a
 
 Our non-profit registration services provide the expertise and support you need to establish your organization efficiently and effectively.
 
-<a href="https://www.businessinitiative.org/contact/" target="_blank">Contact us today</a> to get started and take the first step towards launching your mission.
+Contact us today to get started and take the first step towards launching your mission.

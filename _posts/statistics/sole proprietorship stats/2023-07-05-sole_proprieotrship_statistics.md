@@ -2,7 +2,7 @@
 title: "Sole Proprietorship Facts, Stats, & FAQs for 2024 (UPDATED)"
 layout: post
 date: 2023-07-05
-update_date: 2024-06-03
+update_date: 2024-11-07
 author: jack_nicholaisen
 summary: "Unlock your business potential with our data-driven insights, expert consulting, and tailored pricing. Elevate success today!" 
 thumbnail: /images/posts-headers/sole-proprietorship-facts-stats-faqs-header.png
@@ -511,7 +511,7 @@ Just as the Sole Proprietorship is nothing without a sole proprietor to manage a
   <li>U.S. Small Business Administration (SBA): <a href="https://advocacy.sba.gov/2022/08/31/2022-small-business-profiles-for-the-states-territories-and-nation/">2022 Small Business Profile</a></li>
   <li>Bureau of Labor Statistics: <a href="https://www.bls.gov/bdm/entrepreneurship/entrepreneurship.htm">Entrepreneurship and the U.S. Economy</a></li>
   <li>Internal Revenue Service (IRS): <a href="https://www.irs.gov/statistics/soi-tax-stats-sole-proprietorship-returns">Sole Proprietorship Returns</a></li>
-  <li>National Association of Women Business Owners (NAWBO): <a href="https://www.nawbo.org/resources/women-business-owner-statistics">Women Business Owner Statistics</a></li>
+  <li>Lendio: <a href="https://www.lendio.com/blog/women-business-statistics/">2024 Woman-Owned Business Statistics</a></li>
   <li>Statista: <a href="https://www.statista.com/statistics/542181/us-number-of-sole-proprietorship-establishments/">Number of sole proprietorship establishments in the United States from 1997 to 2020</a></li>
   <li>Minority Business Development Agency (MBDA): <a href="https://www.mbda.gov/">Failure to Launch: The Institutional Causes of Minority Entrepreneurship</a></li>
 </ul>

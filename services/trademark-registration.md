@@ -61,4 +61,5 @@ Don't let the process of obtaining a trademark slow down your business progress.
 
 Our trademark registration services provide the expertise and support you need to secure your trademark quickly and efficiently. 
 
-<a href="https://www.businessinitiative.org/contact/" target="_blank">Contact us today</a> to get started and take the first step towards protecting your brand identity.
+Contact us today to get started and take the first step towards protecting your brand identity.
+

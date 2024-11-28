@@ -1,14 +1,15 @@
 ---
 title: "Profitability in Nonprofits | The Fundamentals of Long-Term Impact & Growth"
 layout: post
-date: 2024-08-05
-update_date: 
+date: 2024-08-06
+update_date: 2024-09-11
 author: jack_nicholaisen
-summary: "Unlock nonprofit success with surplus strategies. Learn how leading organizations sustain growth and maximize impact for long-term success."
+summary: "Unlock nonprofit success with profitable strategies. Learn how leading organizations sustain growth and maximize impact for long-term success."
 thumbnail: /images/posts-headers/non-profit-profitability-header.png
 image: /images/posts-headers/non-profit-profitability-header.png
 permalink: /non-profit/profitability/
-tags: non profit organization profitability 
+redirect_from: 
+    - /statistics/non-profit/profitability/
 ---
 
 Profitability in nonprofits is a game-changer. 
@@ -318,7 +319,8 @@ Don't miss out on exclusive insights and updates—subscribe to The Initiative N
 <a href="https://twitter.com/intent/tweet?screen_name=BisInitiative&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-size="large" data-show-count="false">Tweet to @BisInitiative</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <br>
 
-<iframe src="https://embeds.beehiiv.com/e19ce286-1d77-44e9-b09f-22d4f7c6f0bf" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
+<iframe src="https://embeds.beehiiv.com/4b55f309-919b-4f27-82e1-28bfbbc3543f" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
+
 <br>
 <a id="learn-more"> 
 

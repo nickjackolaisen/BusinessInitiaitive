@@ -54,4 +54,5 @@ We offer ongoing support to help you understand and manage your S-Corporation ef
 
 Our S-Corporation registration services provide the expertise and support needed to establish your business quickly and efficiently. 
 
-<a href="https://www.businessinitiative.org/contact/" target="_blank">Contact us today</a> to get started.
+Contact us today to get started.
+

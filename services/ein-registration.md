@@ -61,4 +61,5 @@ Don't let the process of obtaining an EIN slow down your business progress.
 
 Our EIN registration services provide the expertise and support you need to secure your EIN quickly and efficiently. 
 
-<a href="https://www.businessinitiative.org/contact/" target="_blank">Contact us today</a> to get started and take the first step towards organizing and growing your business.
+Contact us today to get started and take the first step towards organizing and growing your business.
+
