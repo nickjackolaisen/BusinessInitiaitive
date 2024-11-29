@@ -2,7 +2,7 @@
 title: "Unlock the Power of Bitcoin Payments: How Businesses Can Save Money, Expand Globally, and Attract New Customers in 2024"
 layout: post
 date: 2024-11-24
-update_date: 
+update_date: 2024-11-29
 author: jack_nicholaisen
 summary: "Discover how accepting Bitcoin can save money, expand your reach, and attract tech-savvy customers. Learn the steps to future-proof your business!"
 thumbnail: /images/posts-headers/bitcoin-payments-header.png
@@ -41,6 +41,91 @@ You’ll see how Bitcoin can lower costs, attract customers, and strengthen your
 Whether you're a skeptic or ready to dive in, this guide gives you the tools to succeed in this new frontier of payments. 
 
 Keep reading to see how Bitcoin can transform your business and why now is the time to start.
+
+<div id="bitcoin-poll" class="poll-container">
+    <h2>Bitcoin Benefits Poll</h2>
+    <p>Why do you prefer using Bitcoin?</p>
+    <form id="poll-form">
+        <label>
+            <input type="radio" name="benefit" value="Lower Fees"> Lower Fees
+        </label><br>
+        <label>
+            <input type="radio" name="benefit" value="Security"> Security
+        </label><br>
+        <label>
+            <input type="radio" name="benefit" value="Innovation"> Innovation
+        </label><br>
+        <button type="button" onclick="submitVote()">Vote</button>
+    </form>
+    <div id="poll-results" class="poll-results">
+        <h3>Real-Time Results</h3>
+        <canvas id="resultsChart" width="400" height="200"></canvas>
+    </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+function submitVote() {
+    const selectedOption = document.querySelector('input[name="benefit"]:checked');
+    if (selectedOption) {
+        fetch('/vote', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({ option: selectedOption.value })
+        })
+        .then(response => response.text())
+        .then(data => {
+            console.log(data);
+            updateResults();
+        });
+    } else {
+        alert("Please select an option before voting.");
+    }
+}
+
+function updateResults() {
+    fetch('/results')
+        .then(response => response.json())
+        .then(data => {
+            const pollData = {};
+            data.forEach(item => {
+                pollData[item.option] = item.votes;
+            });
+            // Update chart with new data
+            const ctx = document.getElementById('resultsChart').getContext('2d');
+            new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: Object.keys(pollData),
+                    datasets: [{
+                        label: '# of Votes',
+                        data: Object.values(pollData),
+                        backgroundColor: [
+                            'rgba(75, 192, 192, 0.2)',
+                            'rgba(153, 102, 255, 0.2)',
+                            'rgba(255, 159, 64, 0.2)'
+                        ],
+                        borderColor: [
+                            'rgba(75, 192, 192, 1)',
+                            'rgba(153, 102, 255, 1)',
+                            'rgba(255, 159, 64, 1)'
+                        ],
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    scales: {
+                        y: {
+                            beginAtZero: true
+                        }
+                    }
+                }
+            });
+        });
+}
+</script>
 
 ## Why Should My Business Accept Bitcoin Payments?
 
