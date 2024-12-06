@@ -77,7 +77,7 @@ tags: services, offerings, registration, filing, call, meeting, schedule, messag
             <h2>${item.service}</h2>
             <div class="price">${item.price}</div>
             <p>${item.description}</p>
-            <a href="${item.link}" class="cta-button">Purchase</a>
+            <a href="${item.link}" class="cta-button">${item.ctaText}</a>
         `;
         document.getElementById('pricing-container').appendChild(card);
     }

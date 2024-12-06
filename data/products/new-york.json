@@ -5,94 +5,160 @@
         "price": "$350",
         "description": "Comprehensive service for setting up a domestic corporation in New York.",
         "link": "https://checkout.businessinitiative.org/b/3cs00q46D7n71mo28f",
-        "image": "/images/services/new-york/ny-domestic-corp.jpg"
+        "image": "/images/services/new-york/ny-domestic-corp.jpg",
+        "ctaText": "Setup Now"
     },
     {
-        "entity": "Domestic  Corporation",
+        "entity": "Domestic Corporation",
         "service": "Certificate of Incorporation Professional",
         "price": "$300",
         "description": "Expert setup for your professional corporation in New York.",
         "link": "https://checkout.businessinitiative.org/b/6oE9B046D22N0ik7sA",
-        "image": "/images/services/new-york/ny-domestic-corp.jpg"
+        "image": "/images/services/new-york/ny-domestic-corp.jpg",
+        "ctaText": "Incorporate Now"
     },
     {
-        "entity": "Domestic  Corporation",
+        "entity": "Domestic Corporation",
         "service": "New York Benefit Corporation",
         "price": "$300",
         "description": "Complete Benefit Corporation formation service in New York.",
         "link": "https://checkout.businessinitiative.org/b/6oE9B046D22N0ik7sA",
-        "image": "/images/services/new-york/ny-domestic-corp.jpg"
+        "image": "/images/services/new-york/ny-domestic-corp.jpg",
+        "ctaText": "Form Benefit Corp"
     },
     {
         "entity": "Domestic Corporation",
         "service": "The Certificate of Amendment",
-        "price": "$175.00",
-        "description": "Allows modifications to incorporation details like company name, purpose, or stock structure, providing flexibility for business evolution.",
-        "link": "https://checkout.businessinitiative.org/b/00g00qdHdgXH4yAeV4",
-        "image": "/images/services/new-york/ny-domestic-corp.jpg"
-    },
-    {
-        "entity": "Domestic Corporation",
-        "service": "Certificate of Change",
-        "price": "$150.00",
-        "description": "Facilitates updates to address, county, or agent information to ensure legal compliance.",
-        "link": "https://checkout.businessinitiative.org/b/fZe7sSfPlazj5CEdR1",
-        "image": "/images/services/new-york/ny-domestic-corp.jpg"
-    },
-    {
-        "entity": "Domestic Corporation",
-        "service": "Certificate of Amendment (name change only)",
-        "price": "$125.00",
-        "description": "Streamlines the process for updating the corporation's legal name, ideal for rebranding or restructuring.",
-        "link": "https://checkout.businessinitiative.org/b/bIYcNcgTp22N6GI3co",
-        "image": "/images/services/new-york/ny-domestic-corp.jpg"
-    },
-    {
-        "entity": "Domestic Corporation",
-        "service": "The Certificate of Amendment",
-        "price": "$175.00",
+        "price": "$175",
         "description": "Allows updates to incorporation details like name, purpose, or stock structure.",
         "link": "https://checkout.businessinitiative.org/b/00g00qdHdgXH4yAeV4",
-        "image": "/images/services/new-york/ny-domestic-corp.jpg"
+        "image": "/images/services/new-york/ny-domestic-corp.jpg",
+        "ctaText": "Amend Now"
     },
     {
         "entity": "Domestic Corporation",
         "service": "Certificate of Change",
-        "price": "$150.00",
+        "price": "$150",
         "description": "Updates address, county, or agent details for legal compliance.",
         "link": "https://checkout.businessinitiative.org/b/fZe7sSfPlazj5CEdR1",
-        "image": "/images/services/new-york/ny-domestic-corp.jpg"
+        "image": "/images/services/new-york/ny-domestic-corp.jpg",
+        "ctaText": "Update Info"
     },
     {
         "entity": "Domestic Corporation",
         "service": "Certificate of Amendment (name change only)",
-        "price": "$125.00",
+        "price": "$125",
         "description": "Simplifies legal name updates during rebranding or restructuring.",
         "link": "https://checkout.businessinitiative.org/b/bIYcNcgTp22N6GI3co",
-        "image": "/images/services/new-york/ny-domestic-corp.jpg"
+        "image": "/images/services/new-york/ny-domestic-corp.jpg",
+        "ctaText": "Change Name"
     },
     {
         "entity": "Domestic Corporation",
         "service": "Certificate of Dissolution",
-        "price": "$125.00",
+        "price": "$125",
         "description": "Closes the corporation and ends compliance obligations.",
         "link": "https://checkout.businessinitiative.org/b/3cscNcgTpazj9SUdR5",
-        "image": "/images/services/new-york/ny-domestic-corp.jpg"
+        "image": "/images/services/new-york/ny-domestic-corp.jpg",
+        "ctaText": "Dissolve Now"
     },
     {
         "entity": "Domestic Corporation",
         "service": "Certificate of Merger",
-        "price": "$175.00",
+        "price": "$175",
         "description": "Legally merges corporations for streamlined operations.",
         "link": "https://checkout.businessinitiative.org/b/6oEaF446D36R6GI9AO",
-        "image": "/images/services/new-york/ny-domestic-corp.jpg"
+        "image": "/images/services/new-york/ny-domestic-corp.jpg",
+        "ctaText": "Merge Now"
     },
     {
         "entity": "Domestic Corporation",
         "service": "DBA Discontinuance",
-        "price": "$50.00",
+        "price": "$50",
         "description": "Ends DBA registration and removes related obligations.",
         "link": "https://checkout.businessinitiative.org/b/3cscNcgTpazj9SUdR5",
-        "image": "/images/services/new-york/ny-domestic-corp.jpg"
+        "image": "/images/services/new-york/ny-domestic-corp.jpg",
+        "ctaText": "End DBA"
+    },
+    {
+        "entity": "Foreign Corporation",
+        "service": "Application for Authority",
+        "price": "$500",
+        "description": "Comprehensive service for enabling a foreign corporation to legally conduct business in New York, ensuring compliance with state laws.",
+        "link": "https://checkout.businessinitiative.org/b/28o28yfPl4aV0ik00g",
+        "image": "/images/services/new-york/ny-foreign-corp.jpg",
+        "ctaText": "Apply Now"
+    },
+    {
+        "entity": "Foreign Corporation",
+        "service": "Application for Authority Professional",
+        "price": "$475",
+        "description": "Expert assistance for accurately and efficiently filing an Application for Authority in New York.",
+        "link": "https://checkout.businessinitiative.org/b/3cs5kK6eL5eZd56bIZ",
+        "image": "/images/services/new-york/ny-foreign-corp.jpg",
+        "ctaText": "Get Authority"
+    },
+    {
+        "entity": "Foreign Corporation",
+        "service": "Certificate of Amendment",
+        "price": "$175",
+        "description": "Complete service for updating a foreign corporation's New York records, including name or incorporation details.",
+        "link": "https://checkout.businessinitiative.org/b/8wM00q5aH9vf7KM00i",
+        "image": "/images/services/new-york/ny-foreign-corp.jpg",
+        "ctaText": "Amend Records"
+    },
+    {
+        "entity": "Foreign Corporation",
+        "service": "Certificate of Change",
+        "price": "$150",
+        "description": "Facilitates updates to address, county, or registered agent details for a foreign corporation in New York.",
+        "link": "https://checkout.businessinitiative.org/b/8wMaF49qXazj2qs00j",
+        "image": "/images/services/new-york/ny-foreign-corp.jpg",
+        "ctaText": "Update Info"
+    },
+    {
+        "entity": "Foreign Corporation",
+        "service": "Certificate of Correction",
+        "price": "$150",
+        "description": "Ensures compliance by correcting errors or defects in previously filed documents for a foreign corporation.",
+        "link": "https://checkout.businessinitiative.org/b/8wMaF40Ur22N2qsfZi",
+        "image": "/images/services/new-york/ny-foreign-corp.jpg",
+        "ctaText": "Correct Errors"
+    },
+    {
+        "entity": "Foreign Corporation",
+        "service": "Surrender of Authority",
+        "price": "$175",
+        "description": "Comprehensive service for surrendering a foreign corporation's authorization to operate in New York while maintaining its existence elsewhere.",
+        "link": "https://checkout.businessinitiative.org/b/cN26oOeLh22NaWY7sN",
+        "image": "/images/services/new-york/ny-foreign-corp.jpg",
+        "ctaText": "Surrender Now"
+    },
+    {
+        "entity": "Foreign Corporation",
+        "service": "Amendment to the Surrender of Authority",
+        "price": "$125",
+        "description": "Streamlines the process of amending the address for legal process after surrendering authority in New York.",
+        "link": "https://checkout.businessinitiative.org/b/00gfZogTp22Nd568wS",
+        "image": "/images/services/new-york/ny-foreign-corp.jpg",
+        "ctaText": "Amend Address"
+    },
+    {
+        "entity": "Foreign Corporation",
+        "service": "Termination of Existence",
+        "price": "$125",
+        "description": "Complete service for confirming the termination of a foreign corporation's legal existence in New York to avoid future liabilities.",
+        "link": "https://checkout.businessinitiative.org/b/00g14u46DcHr8OQ3cz",
+        "image": "/images/services/new-york/ny-foreign-corp.jpg",
+        "ctaText": "Terminate Now"
+    },
+    {
+        "entity": "Foreign Corporation",
+        "service": "DBA Discontinuance",
+        "price": "$50",
+        "description": "Terminates a foreign corporation's DBA, removing it from records and ending obligations.",
+        "link": "https://checkout.businessinitiative.org/b/3cs4gG7iPePzaWY14s",
+        "image": "/images/services/new-york/ny-foreign-corp.jpg",
+        "ctaText": "End DBA"
     }
 ]
