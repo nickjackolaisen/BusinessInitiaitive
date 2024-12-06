@@ -7,3 +7,4 @@ gem 'github-pages'
 
 gem 'jekyll-redirect-from', '~> 0.16.0'
 gem install jekyll-redirect-from
+gem install stripe
