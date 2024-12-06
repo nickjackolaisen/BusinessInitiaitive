@@ -86,5 +86,13 @@
         "description": "Legally merges corporations for streamlined operations.",
         "link": "https://checkout.businessinitiative.org/b/6oEaF446D36R6GI9AO",
         "image": "/images/services/new-york/ny-domestic-corp.jpg"
+    },
+    {
+        "entity": "Domestic Corporation",
+        "service": "DBA Discontinuance",
+        "price": "$50.00",
+        "description": "Ends DBA registration and removes related obligations.",
+        "link": "https://checkout.businessinitiative.org/b/3cscNcgTpazj9SUdR5",
+        "image": "/images/services/new-york/ny-domestic-corp.jpg"
     }
 ]
