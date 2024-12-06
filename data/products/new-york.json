@@ -9,9 +9,9 @@
     },
     {
         "entity": "Foreign Corporation",
-        "service": "New York Domestic Corporation",
+        "service": "New York Foreign Corporation",
         "price": "$300",
-        "description": "Complete LLC formation service in New York.",
+        "description": "Complete Foreign Corporation formation service in New York.",
         "link": "https://checkout.businessinitiative.org/b/6oE9B046D22N0ik7sA",
         "image": "/images/services/new-york/ny-foreign-corp.jpg"
     }
