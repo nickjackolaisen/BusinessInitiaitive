@@ -1,18 +1,18 @@
 [
     {
-        "entity": "Corporation",
-        "service": "California Domestic Corporation",
-        "price": "$600",
-        "description": "Comprehensive service for setting up a domestic corporation in California.",
-        "link": "https://example.com/purchase-ca",
-        "image": "/images/services/california/corporation.jpg"
+        "entity": "Domestic Corporation",
+        "service": "New York Domestic Corporation",
+        "price": "$350",
+        "description": "Comprehensive service for setting up a domestic corporation in New York.",
+        "link": "https://checkout.businessinitiative.org/b/3cs00q46D7n71mo28f",
+        "image": "/images/services/new-york/ny-domestic-corp.jpg"
     },
     {
-        "entity": "LLC",
-        "service": "California LLC Formation",
-        "price": "$350",
-        "description": "Complete LLC formation service in California.",
-        "link": "https://example.com/purchase-llc-ca",
-        "image": "/images/services/california/llc.jpg"
+        "entity": "Foreign Corporation",
+        "service": "New York Domestic Corporation",
+        "price": "$300",
+        "description": "Complete LLC formation service in New York.",
+        "link": "https://checkout.businessinitiative.org/b/6oE9B046D22N0ik7sA",
+        "image": "/images/services/new-york/ny-foreign-corp.jpg"
     }
 ] 
