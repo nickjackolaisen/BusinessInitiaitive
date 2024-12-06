@@ -8,11 +8,83 @@
         "image": "/images/services/new-york/ny-domestic-corp.jpg"
     },
     {
-        "entity": "Foreign Corporation",
-        "service": "New York Foreign Corporation",
+        "entity": "Domestic  Corporation",
+        "service": "Certificate of Incorporation Professional",
         "price": "$300",
-        "description": "Complete Foreign Corporation formation service in New York.",
+        "description": "Expert setup for your professional corporation in New York.",
         "link": "https://checkout.businessinitiative.org/b/6oE9B046D22N0ik7sA",
-        "image": "/images/services/new-york/ny-foreign-corp.jpg"
+        "image": "/images/services/new-york/ny-domestic-corp.jpg"
+    },
+    {
+        "entity": "Domestic  Corporation",
+        "service": "New York Benefit Corporation",
+        "price": "$300",
+        "description": "Complete Benefit Corporation formation service in New York.",
+        "link": "https://checkout.businessinitiative.org/b/6oE9B046D22N0ik7sA",
+        "image": "/images/services/new-york/ny-domestic-corp.jpg"
+    },
+    {
+        "entity": "Domestic Corporation",
+        "service": "The Certificate of Amendment",
+        "price": "$175.00",
+        "description": "The Certificate of Amendment allows changes to existing incorporation details, such as the company name, purpose clause, or stock structure, enabling flexibility as the business evolves.",
+        "link": "https://checkout.businessinitiative.org/b/00g00qdHdgXH4yAeV4",
+        "image": "/images/services/new-york/ny-domestic-corp.jpg"
+    },
+    {
+        "entity": "Domestic Corporation",
+        "service": "Certificate of Change",
+        "price": "$150.00",
+        "description": "Allows a corporation to update the designated address for receiving legal service of process, change the county location, or modify the designation of a registered agent. Ensures compliance with state requirements and maintains accurate records.",
+        "link": "https://checkout.businessinitiative.org/b/fZe7sSfPlazj5CEdR1",
+        "image": "/images/services/new-york/ny-domestic-corp.jpg"
+    },
+    {
+        "entity": "Domestic Corporation",
+        "service": "Certificate of Amendment (name change only)",
+        "price": "$125.00",
+        "description": "Specifically for updating the corporation's legal name, simplifying the process for businesses undergoing rebranding or restructuring.",
+        "link": "https://checkout.businessinitiative.org/b/bIYcNcgTp22N6GI3co",
+        "image": "/images/services/new-york/ny-domestic-corp.jpg"
+    },
+    {
+        "entity": "Domestic Corporation",
+        "service": "The Certificate of Amendment",
+        "price": "$175.00",
+        "description": "Allows updates to incorporation details like name, purpose, or stock structure.",
+        "link": "https://checkout.businessinitiative.org/b/00g00qdHdgXH4yAeV4",
+        "image": "/images/services/new-york/ny-domestic-corp.jpg"
+    },
+    {
+        "entity": "Domestic Corporation",
+        "service": "Certificate of Change",
+        "price": "$150.00",
+        "description": "Updates address, county, or agent details for legal compliance.",
+        "link": "https://checkout.businessinitiative.org/b/fZe7sSfPlazj5CEdR1",
+        "image": "/images/services/new-york/ny-domestic-corp.jpg"
+    },
+    {
+        "entity": "Domestic Corporation",
+        "service": "Certificate of Amendment (name change only)",
+        "price": "$125.00",
+        "description": "Simplifies legal name updates during rebranding or restructuring.",
+        "link": "https://checkout.businessinitiative.org/b/bIYcNcgTp22N6GI3co",
+        "image": "/images/services/new-york/ny-domestic-corp.jpg"
+    },
+    {
+        "entity": "Domestic Corporation",
+        "service": "Certificate of Dissolution",
+        "price": "$125.00",
+        "description": "Closes the corporation and ends compliance obligations.",
+        "link": "https://checkout.businessinitiative.org/b/3cscNcgTpazj9SUdR5",
+        "image": "/images/services/new-york/ny-domestic-corp.jpg"
+    },
+    {
+        "entity": "Domestic Corporation",
+        "service": "Certificate of Merger",
+        "price": "$175.00",
+        "description": "Legally merges corporations for streamlined operations.",
+        "link": "https://checkout.businessinitiative.org/b/6oEaF446D36R6GI9AO",
+        "image": "/images/services/new-york/ny-domestic-corp.jpg"
     }
-] 
+]
