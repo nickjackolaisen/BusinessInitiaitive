@@ -1,0 +1,18 @@
+[
+    {
+        "entity": "Corporation",
+        "service": "California Domestic Corporation",
+        "price": "$600",
+        "description": "Comprehensive service for setting up a domestic corporation in California.",
+        "link": "https://example.com/purchase-ca",
+        "image": "/images/services/california/corporation.jpg"
+    },
+    {
+        "entity": "LLC",
+        "service": "California LLC Formation",
+        "price": "$350",
+        "description": "Complete LLC formation service in California.",
+        "link": "https://example.com/purchase-llc-ca",
+        "image": "/images/services/california/llc.jpg"
+    }
+] 
