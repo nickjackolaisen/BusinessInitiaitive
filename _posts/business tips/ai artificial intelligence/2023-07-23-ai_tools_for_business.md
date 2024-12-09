@@ -184,7 +184,7 @@ security applications.
 
 49. [**GrowthBot by HubSpot**](https://growthbot.org/): A versatile AI chatbot designed for marketing, sales, and support teams, offering quick access to information like lead data or competitive analysis.
 
-50. [**Voicera Eva**](https://voicera.com/eva/): An AI-powered virtual meeting assistant that listens in on conference calls, takes notes, identifies action items, and provides meeting summaries.
+50. [**Maestra.ai**](https://maestra.ai/tools/video-to-text/meeting-transcription): A comprehensive editing suite that automates transcription, captioning, and voiceovers for video and audio content in over 60 languages. Its highly accurate speech-to-text technology and advanced text editor save time while helping you reach a global audience.
 
 51. [**Appen Data Annotation Platform**](https://appen.com/data-annotation-platform/): Offers AI training data annotation services to improve the performance of machine learning models for businesses across various industries.
 
