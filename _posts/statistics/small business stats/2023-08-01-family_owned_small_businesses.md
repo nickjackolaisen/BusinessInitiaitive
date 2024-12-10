@@ -2,7 +2,7 @@
 title: "What Percentage of Small Businesses are Family-Owned?"
 layout: post
 date: 2023-08-01
-update_date: 2023-11-21
+update_date: 2024-12-10
 author: jack_nicholaisen
 summary: "Discover success secrets of family-owned businesses and apply insights for smarter decisions and improved growth in your venture."
 permalink: /statistics/small-businesses/family-owned-businesses/
@@ -26,7 +26,7 @@ Let's dive in...
 
 {% include table-of-contents-box.html bullet1tag="#percentage" bullet1="Percentage of Family Owned Businesses" bullet2tag="#benefits" bullet2="Benefits" bullet3tag="#disadvantages" bullet3="Disadvantages" bullet4tag="#famous-examples" bullet4="Famous Examples" bullet5tag="#summary" bullet5="Summary" %}
 
-## Percentage of Family-Owned Small Businesses
+## What Percentage of American Businesses are Family Owned?
 
 According to the Family Owned Business Institute at Grand Valley State University, **family-owned businesses account for approximately 90% of all businesses in the United States, and 35% of Fortune 500 companies are family-owned or controlled.**
 
@@ -36,6 +36,10 @@ Additionally, The Family Business Alliance reports that **family-owned businesse
 These statistics demonstrate the significant impact family-owned businesses have on the economy as well as their popularity.
 
 ## Benefits of Family-Owned Businesses
+
+<center>
+<img alt="family owned business statistics" src="/images/content/friends.jpg" title="small family owned business" style="width: 63%; height: 63%">
+</center>
 
 There are many benefits to operating a family-owned business, including:
 
@@ -62,7 +66,11 @@ Family-owned businesses can often make decisions and implement changes more quic
 
 Family-owned businesses often have strong, long-lasting relationships with their employees and customers, which can lead to increased loyalty, satisfaction, and repeat business.
 
-## Disadvantages of Family-Owned Businesses
+## Disadvantages of Family Owned Business
+
+<center>
+<img alt="small family owned businesses" src="/images/content/discussion.jpg" title="family business statistics" style="width: 63%; height: 63%">
+</center>
 
 Despite their many advantages, family-owned businesses also face unique challenges, such as:
 
@@ -85,18 +93,38 @@ Family-owned businesses may have more difficulty securing financing from externa
 
 ## Examples of Successful Family-Owned Businesses
 
-Despite the potential challenges, many family-owned businesses have become highly successful and influential. Some examples of large and profitable family-owned businesses include:
+<center>
+<img alt="small family business examples" src="/images/content/logos/walmart.jpg" title="what percentage of businesses are family owned" style="width: 63%; height: 63%">
+</center>
 
-1.  [Walmart](https://www.walmart.com/) - Founded by Sam Walton in 1962, Walmart is now the world's largest retailer and is still controlled by the Walton family.
+Despite the potential challenges, many family-owned businesses have become highly successful and influential. 
 
-2.  [Ford Motor Company](https://www.ford.com/) - Established by Henry Ford in 1903, Ford remains one of the world's leading automobile manufacturers and is still controlled by the Ford family.
+Some examples of large and profitable family-owned businesses include:
 
-3.  [Mars, Incorporated](https://www.mars.com/) - The global confectionery and pet food giant was founded by Frank Mars in 1911 and is currently owned and operated by the Mars family.
+1.  <a href="https://www.walmart.com/" target="_blank">Walmart</a> - Founded by Sam Walton in 1962, Walmart is now the world's largest retailer and is still controlled by the Walton family.
+
+2.  <a href="https://www.ford.com/" target="_blank">Ford Motor Company</a> - Established by Henry Ford in 1903, Ford remains one of the world's leading automobile manufacturers and is still controlled by the Ford family.
+
+3.  <a href="https://www.mars.com/" target="_blank">Mars, Incorporated</a> - The global confectionery and pet food giant was founded by Frank Mars in 1911 and is currently owned and operated by the Mars family.
 <a id="summary"> 
 
-4.  [Roche Holding AG](https://www.roche.com/) - The Swiss multinational healthcare company was founded by Fritz Hoffmann-La Roche in 1896 and remains controlled by the Hoffmann and Oeri families.
+4.  <a href="https://www.roche.com/" target="_blank">Roche Holding AG</a> - The Swiss multinational healthcare company was founded by Fritz Hoffmann-La Roche in 1896 and remains controlled by the Hoffmann and Oeri families.
 
-## In Conclusion...
+## FAQs - Frequently Asked Questions About Family Owned Businesses in United States
+
+<center>
+<img alt="Business FAQs" src="/images/content/faqs-section.png" title="Common Business Questions" style="width: 63%; height: 63%">
+</center>
+
+<br>
+
+<link rel="stylesheet" href="/assets/css/faq-styles.css">
+
+{% include faq-template.html faq_data="faq_stats_small_business_family_owned" %}
+
+<br>
+
+## In Summary...
 
 Family-owned businesses play a crucial role in the global economy, accounting for the majority of small businesses and a significant portion of large, successful companies. 
 
@@ -104,7 +132,7 @@ While there are unique benefits to operating a family-owned business, such as sh
 
 However, as demonstrated by the examples above, family-owned businesses can thrive and achieve tremendous success when managed effectively.
 
-If you're considering starting or growing your own family-owned business, [schedule a free consultation call](https://calendly.com/businessinitiative/30-minute-consultation-call) with us today!
+If you're considering starting or growing your own family-owned business, <a href="https://calendly.com/businessinitiative/30-minute-consultation-call" target="_blank">schedule a free consultation call</a> with us today!
 
 Don't leave your business's future to chance...
 
@@ -112,11 +140,9 @@ Don't leave your business's future to chance...
 
 Let Business Initiative help guide you on the path to long-lasting success in the world of family-owned enterprises.
 
-[Contact us](https://www.businessinitiative.org/contact/) and unlock your business's full potential!
+<a href="https://www.businessinitiative.org/contact/" target="_blank">Contact us</a> and unlock your business's full potential!
 
 <iframe src="https://embeds.beehiiv.com/4b55f309-919b-4f27-82e1-28bfbbc3543f" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
-
-
 
 <br>
 <details>
@@ -134,4 +160,3 @@ It is essential to consult multiple sources for an accurate understanding of thi
     <li>Forbes: <a href="https://www.forbes.com/sites/niallmccarthy/2016/11/23/the-worlds-largest-family-owned-businesses-infographic/?sh=4a5f8d7e4c7b">The World's Largest Family-Owned Businesses</a></li>
 </ul>
 </details>
-
