@@ -5,7 +5,9 @@ permalink: /press-releases/
 tags: press releases, partnerships, collaborations, milestones, news, breaking news, significant events
 ---
 
-Welcome to Business Initiative's press releases and news bulletins page. 
+Welcome to Business Initiative's press releases and news bulletins page.
+
+<a href="https://newsletter.businessinitiative.org/" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #0063A0; text-align: center; text-decoration: none; border-radius: 5px;">Initiative Newsletter Archive</a>
 
 This section of our website is dedicated to keep you informed about the latest milestones, significant events, and valuable partnerships that our organization achieves as we strive to empower entrepreneurs and their businesses with the knowledge, tools, and connections to foster growth.
 
