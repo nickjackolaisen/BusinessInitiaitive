@@ -7,13 +7,15 @@ tags: press releases, partnerships, collaborations, milestones, news, breaking n
 
 Welcome to Business Initiative's press releases and news bulletins page.
 
-<a href="https://newsletter.businessinitiative.org/" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #0063A0; text-align: center; text-decoration: none; border-radius: 5px;">Initiative Newsletter Archive</a>
+<a href="https://newsletter.businessinitiative.org/" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #0063A0; text-align: center; border-radius: 5px;" onmouseover="this.style.textDecoration='none';" onmouseout="this.style.textDecoration='none';">Initiative Newsletter Archive</a>
 
 This section of our website is dedicated to keep you informed about the latest milestones, significant events, and valuable partnerships that our organization achieves as we strive to empower entrepreneurs and their businesses with the knowledge, tools, and connections to foster growth.
 
 ## The Purpose of This Page
 
-This page serves as a central hub for all the exciting announcements and updates related to our organization's activities. By visiting this page, you can:
+This page serves as a central hub for all the exciting announcements and updates related to our organization's activities. 
+
+By visiting this page, you can:
 
 1.  **Stay up-to-date** with the latest developments in our organization, such as the launching of new initiatives, the achievement of significant milestones, and the formation of strategic partnerships.
 
