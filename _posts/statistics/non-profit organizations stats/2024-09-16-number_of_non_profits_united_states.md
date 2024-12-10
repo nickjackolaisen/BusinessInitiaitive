@@ -1,10 +1,10 @@
 ---
-title: "Number of Non-Profits in the U.S. - The Influence of Non Profits on the U.S. Economy in 2024"
+title: "Number of Nonprofits in the U.S. - The Influence of Non Profits on the U.S. Economy in 2024"
 layout: post
 date: 2024-09-16
-update_date: 
+update_date: 2024-12-10
 author: jack_nicholaisen
-summary: "Discover how many non-profit organizations operate in the U.S. and their powerful influence on the economy. Explore the surprising facts behind their far-reaching impact!"
+summary: "Discover how many nonprofits organizations operate in the U.S. and their powerful influence on the economy. Explore the surprising facts behind their far-reaching impact!"
 thumbnail: /images/posts-headers/number-of-non-profits-united-states-header.jpg
 image: /images/posts-headers/number-of-non-profits-united-states-header.jpg
 permalink: /statistics/non-profit/number-in-united-states/
@@ -27,7 +27,7 @@ This article takes a deep dive into the current state of non-profits in the U.S.
 ## What is a Non-Profit Organization?
 
 <center>
-<img alt="How many non-profit organizations are there in the U.S. in 2023?" src="/images/content/one-heart.png" title="Number of 501(c)(3) organizations in the United States" style="width: 63%; height: 63%">
+<img alt="How many non-profit organizations are there in the U.S. in 2023?" src="/images/content/one-heart.png" title="how many non profits are there in the us" style="width: 63%; height: 63%">
 </center>
 
 A non-profit organization exists to serve a purpose beyond profit. 
@@ -58,7 +58,7 @@ These organizations, large and small, are exempt from federal income tax, as hig
 ## How Many Non-Profit Organizations Are in the U.S.?
 
 <center>
-<img alt="Economic impact of non-profit organizations in the U.S." src="/images/content/united-states-map.jpg" title="Growth of non-profits in the United States over time" style="width: 63%; height: 63%">
+<img alt="Economic impact of non-profit organizations in the U.S." src="/images/content/united-states-map.jpg" title="how many nonprofits in the us" style="width: 63%; height: 63%">
 </center>
 
 The number of non-profit organizations in the U.S. has been growing steadily for decades. 
@@ -130,7 +130,7 @@ This data highlights the critical role non-profits play in addressing societal c
 ## Economic and Social Impact of Non-Profits
 
 <center>
-<img alt="How do non-profits contribute to the U.S. economy?" src="/images/content/make-change.png" title="How do non-profits generate revenue in the United States?" style="width: 63%; height: 63%">
+<img alt="How do non-profits contribute to the U.S. economy?" src="/images/content/make-change.png" title="Hhow many non profit organizations are in the us" style="width: 63%; height: 63%">
 </center>
 
 ### Economic influence of Non Profits
@@ -199,7 +199,7 @@ Economic instability only compounds these issues, making it harder for non-profi
 ## Opportunities for Growth in the Non-Profit Sector
 
 <center>
-<img alt="Non-profit staffing shortages and recruitment challenges" src="/images/content/planting-seeds.png" title="imagetitle" style="width: 63%; height: 63%">
+<img alt="Non-profit staffing shortages and recruitment challenges" src="/images/content/planting-seeds.png" title="non profit stats" style="width: 63%; height: 63%">
 </center>
 
 Non-profits are poised for significant growth through strategic use of technology and partnerships. 
@@ -228,7 +228,7 @@ International collaborations and digital platforms help organizations address gl
 ## FAQs - Frequently Asked Questions About Non-Profits in the United States
 
 <center>
-<img alt="Business FAQs" src="/images/content/faqs-section.png" title="Common Business Questions" style="width: 63%; height: 63%">
+<img alt="number of nonprofits in the us" src="/images/content/faqs-section.png" title="Common Business Questions" style="width: 63%; height: 63%">
 </center>
 
 <br>
