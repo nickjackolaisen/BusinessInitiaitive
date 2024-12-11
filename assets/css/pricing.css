@@ -18,23 +18,24 @@
     text-align: center;
 }
 
-.pricing-card img.service-icon {
+/* Paragraph styling within the card */
+.pricing-card p {
+    color: #333;
+    font-size: 1em;
+    margin: 10px 0;
+}
+
+.service-icon {
     width: 100px;
     height: 100px;
     margin-bottom: 10px;
-    border-radius: 5px;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
 }
 
 .pricing-card h3 {
     color: #0056b3;
     font-size: 1.5em;
-}
-
-.pricing-card p {
-    color: #333;
-    font-size: 1em;
-    margin: 10px 0;
 }
 
 .pricing-card .price {
@@ -87,11 +88,7 @@
 }
 
 /* Paragraph styling within the card */
-.pricing-card p {
-    color: #333;
-    font-size: 1em;
-    margin: 10px 0;
-}
+
 
 /* Note styling */
 .pricing-card .note {
@@ -163,13 +160,6 @@ ul li::before {
     }
 }
 
-.service-icon {
-    width: 100px; /* Adjust size as needed */
-    height: 100px; /* Adjust size as needed */
-    margin-bottom: 10px; /* Space between icon and text */
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow effect */
-    border-radius: 5px; /* Optional: rounded corners */
-}
 
 .form-container {
     margin: 0 auto;

@@ -6,24 +6,24 @@ permalink: /registration/
 
 ## Register a Business
 
-<div class="form-container" style="margin: 0 auto; max-width: 400px; padding: 20px; background-color: #ffffff; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <form id="business-form" style="display: flex; flex-direction: column; align-items: center;">
-        <select id="state" name="state" style="width: 100%; padding: 12px; margin-bottom: 20px; border: 1px solid #ced4da; border-radius: 5px; box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);">
+<div class="form-container">
+    <form id="business-form">
+        <select id="state" name="state">
             <option value="" disabled selected>Select State</option>
             <option value="new-york">New York</option>
             <!-- Add more states as needed -->
         </select>
-        <select id="entity" name="entity" style="width: 100%; padding: 12px; margin-bottom: 20px; border: 1px solid #ced4da; border-radius: 5px; box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);">
+        <select id="entity" name="entity">
             <option value="" disabled selected>Select Entity</option>
             <!-- Options will be populated dynamically -->
         </select>
-        <button type="submit" style="padding: 10px 20px; background-color: #007BFF; color: white; border: none; border-radius: 5px; cursor: pointer; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);">Show Options</button>
+        <button type="submit">Show Options</button>
     </form>
 </div>
 
 <div id="pricing-cards-container" style="display: none;">
-    <div style="text-align: right; margin-bottom: 10px;">
-        <select id="sort-options" style="padding: 10px; border-radius: 5px; border: 1px solid #ced4da; width: 200px;">
+    <div>
+        <select id="sort-options">
             <option value="default" selected>Sort By</option>
             <option value="price-asc">Price: Low to High</option>
             <option value="price-desc">Price: High to Low</option>
@@ -32,7 +32,7 @@ permalink: /registration/
         </select>
     </div>
     <div id="pricing-cards" class="pricing-container">
-        <!-- Pricing cards will be dynamically inserted here based on form selection -->
+        <!-- Pricing cards will be dynamically inserted here -->
     </div>
 </div>
 
@@ -40,17 +40,12 @@ permalink: /registration/
     document.getElementById('state').addEventListener('change', function() {
         const state = this.value;
         const entitySelect = document.getElementById('entity');
-        entitySelect.innerHTML = '<option value="" disabled selected>Select Entity</option>'; // Reset options
+        entitySelect.innerHTML = '<option value="" disabled selected>Select Entity</option>';
 
         fetch(`/data/products/${state}.json`)
             .then(response => response.json())
             .then(data => {
-                const entities = new Set();
-                data.forEach(service => {
-                    if (service.category.includes("Registration")) {
-                        entities.add(service.entity);
-                    }
-                });
+                const entities = [...new Set(data.filter(service => service.category.includes("Registration")).map(service => service.entity))];
                 entities.forEach(entity => {
                     const option = document.createElement('option');
                     option.value = entity;
@@ -58,9 +53,7 @@ permalink: /registration/
                     entitySelect.appendChild(option);
                 });
             })
-            .catch(error => {
-                console.error('Error fetching entities:', error);
-            });
+            .catch(error => console.error('Error fetching entities:', error));
     });
 
     document.getElementById('business-form').addEventListener('submit', function(event) {
