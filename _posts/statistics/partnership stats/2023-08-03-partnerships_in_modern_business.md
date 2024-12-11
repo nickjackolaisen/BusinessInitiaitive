@@ -8,12 +8,37 @@ summary: "Discover the formation rates, success rates, and pros and cons of part
 permalink: /statistics/partnerships/modern-business/
 ---
 
-<link rel="stylesheet" href="/assets/css/pricing.css">
+<style>
+    .main-button {
+        display: inline-block;
+        background-color: #0056b3;
+        color: #fff;
+        border: none;
+        padding: 10px 20px;
+        border-radius: 5px;
+        font-size: 1em;
+        cursor: pointer;
+        text-decoration: none;
+        transition: background-color 0.3s, transform 0.3s;
+        width: auto; /* Dynamic width based on content */
+        max-width: 200px; /* Maximum width to ensure consistency */
+        text-align: center;
+        background-image: linear-gradient(to bottom, rgba(0, 99, 160, 0.1), rgba(98, 158, 45, 0.1));
+        color: #0056b3;
+    }
+
+    .main-button:hover {
+        background-color: #003d80;
+        transform: translateY(-3px);
+        color: #000;
+    }
+</style>
+
 <div class="button-container">
-    <a href="/registration/" class="button image-link-thumbnail">Register a Business</a>
-    <a href="/merge/" class="button image-link-thumbnail">Mergers & Acquisitions</a>
-    <a href="/close/" class="button image-link-thumbnail">Close Your Company</a>
-    <a href="/modify/" class="button image-link-thumbnail">Modify Your Business</a>
+    <a href="/registration/" class="main-button image-link-thumbnail">Register a Business</a>
+    <a href="/merge/" class="main-button image-link-thumbnail">Mergers & Acquisitions</a>
+    <a href="/close/" class="main-button image-link-thumbnail">Close Your Company</a>
+    <a href="/modify/" class="main-button image-link-thumbnail">Modify Your Business</a>
 </div>
 
 In the ever-changing landscape of modern business, entrepreneurs are always looking for the most effective ways to achieve success. 
