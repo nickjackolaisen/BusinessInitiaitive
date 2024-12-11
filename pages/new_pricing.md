@@ -71,7 +71,7 @@ tags: services, offerings, registration, filing, call, meeting, schedule, messag
         const card = document.createElement('div');
         card.className = 'pricing-card';
         card.innerHTML = `
-            <a href="${item.link}">
+            <a href="${item.link}" class="image-link-thumbnail">
                 <img src="${item.image}" alt="${item.service} icon" class="service-icon">
             </a>
             <h2>${item.service}</h2>
