@@ -4,9 +4,8 @@ title: Registration
 permalink: /registration/
 tags: services, registration, business, llc, corporation
 ---
-
 <!-- Dropdown Menus -->
-<div class="form-container">
+<div class="filter-box">
     <select id="state-select">
         <option value="">Select State</option>
         <option value="new-york">New York</option>
@@ -24,6 +23,28 @@ tags: services, registration, business, llc, corporation
         <option value="name-desc">Name: Z to A</option>
     </select>
 </div>
+
+<style>
+    .filter-box {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 20px;
+        background-color: #f9f9f9;
+        border: 1px solid #e0e0e0;
+        border-radius: 5px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        margin-bottom: 20px;
+    }
+
+    .filter-box select {
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        font-size: 1em;
+        margin: 0 10px;
+    }
+</style>
 
 <div class="pricing-container" id="pricing-container">
     <!-- Pricing cards will be dynamically populated here -->
