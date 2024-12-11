@@ -50,7 +50,6 @@ a.main-button {
 
 
 
-
 .filter-box { 
     display: flex;  /* Filter Box */
     justify-content: center;
@@ -67,12 +66,13 @@ a.main-button {
 
 .filter-box select {
     flex: 1; 
-    padding: 10px;
+    padding: 12px; /* Increased padding to prevent text cutoff */
     border: 1px solid #ccc;
     border-radius: 5px;
     font-size: 1em;
     margin: 10px 0; /* Adds margin for spacing when stacked */
     max-width: 200px;
+    line-height: 1.5; /* Ensures text is not cut off */
 }
 
 @media (min-width: 769px) {
