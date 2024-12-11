@@ -139,6 +139,17 @@ ul li::before {
     font-size: 1.2em;
 }
 
+#pricing-cards-container {
+    display: none;
+}
+
+#sort-options {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ced4da;
+    width: 200px;
+}
+
 /* Mobile responsiveness */
 @media (max-width: 768px) {
     .pricing-container {
