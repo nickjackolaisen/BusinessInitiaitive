@@ -42,3 +42,105 @@ a.main-button {
 }
 
 
+
+/* Filter Box */
+
+
+.filter-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #e0e0e0;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+.filter-box select {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1em;
+    margin: 0 10px;
+    max-width: 200px;
+}
+
+
+
+/* Pricing Card */
+
+
+.pricing-card {
+    background-color: #fff;
+    border: 1px solid #e0e0e0;
+    border-radius: 5px;
+    padding: 15px; /* Reduced padding */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Reduced shadow for compactness */
+    text-align: center;
+    margin: 5px; /* Reduced margin */
+    max-width: 280px; /* Reduced max-width */
+    flex: 1 1 calc(33.333% - 30px); /* Adjusted flex for reduced margin */
+    display: flex;
+    flex-direction: column; /* Ensures entity stays above the icon */
+    align-items: center;
+}
+
+@media (max-width: 768px) {
+    .pricing-card {
+        flex: 1 1 100%;
+        max-width: 100%;
+    }
+}
+
+.pricing-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around; /* Changed to space-around for more compact layout */
+}
+
+.entity-box {
+    background-color: #0063A0;
+    color: #fff;
+    padding: 3px 8px; /* Reduced padding */
+    border-radius: 3px;
+    display: inline-block;
+    margin-bottom: 5px; /* Reduced margin */
+}
+
+.service-icon {
+    width: 30%; /* Reduced width */
+    height: auto;
+    margin-bottom: 10px; /* Reduced margin */
+}
+
+a.service-icon {
+    color: inherit;
+    background-image: none;
+    border-bottom: 0;
+    text-decoration: none;
+}
+
+.cta-button {
+    display: inline-block;
+    background-color: #629E2D;
+    color: #fff;
+    padding: 8px 18px; /* Reduced padding */
+    border-radius: 5px;
+    text-decoration: none;
+    margin-top: 10px; /* Reduced margin */
+    transition: background-color 0.3s;
+}
+
+.cta-button:hover {
+    background-color: #4a7d1f;
+}
+
+a.cta-button {
+    color: inherit;
+    background-image: none;
+    border-bottom: 0;
+    text-decoration: none;
+}
