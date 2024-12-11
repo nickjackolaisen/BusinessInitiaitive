@@ -5,9 +5,6 @@ permalink: /registration/
 tags: services, registration, business, llc, corporation
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/pricing.css' | relative_url }}">
-
-
 <!-- Dropdown Menus -->
 <div class="form-container">
     <select id="state-select">
@@ -72,12 +69,11 @@ tags: services, registration, business, llc, corporation
         const card = document.createElement('div');
         card.className = 'pricing-card';
         card.innerHTML = `
-            <a href="${item.link}" class="image-link-thumbnail">
-                <img src="${item.image}" alt="${item.service} icon" class="service-icon">
-            </a>
+            <div class="entity-box">${item.entity}</div>
+            <img src="${item.image}" alt="${item.service} icon" class="service-icon">
             <h2>${item.service}</h2>
-            <div class="price">${item.price}</div>
             <p>${item.description}</p>
+            <div class="price">${item.price}</div>
             <a href="${item.link}" class="cta-button">${item.ctaText}</a>
         `;
         document.getElementById('pricing-container').appendChild(card);
@@ -125,3 +121,53 @@ tags: services, registration, business, llc, corporation
         }
     });
 </script>
+
+<style>
+    .pricing-card {
+        background-color: #fff;
+        border: 1px solid #e0e0e0;
+        border-radius: 5px;
+        padding: 20px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        text-align: center;
+        margin: 20px;
+        max-width: 300px;
+    }
+
+    .entity-box {
+        background-color: #0063A0;
+        color: #fff;
+        padding: 5px 10px;
+        border-radius: 3px;
+        display: inline-block;
+        margin-bottom: 10px;
+    }
+
+    .service-icon {
+        max-width: 100%;
+        height: auto;
+        margin-bottom: 15px;
+    }
+
+    .cta-button {
+        display: inline-block;
+        background-color: #629E2D;
+        color: #fff;
+        padding: 10px 20px;
+        border-radius: 5px;
+        text-decoration: none;
+        margin-top: 15px;
+        transition: background-color 0.3s;
+    }
+
+    .cta-button:hover {
+        background-color: #4a7d1f;
+    }
+
+    a.cta-button {
+        color: inherit;
+        background-image: none;
+        border-bottom: 0;
+        text-decoration: none;
+    }
+</style>
