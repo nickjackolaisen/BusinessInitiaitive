@@ -11,9 +11,9 @@ permalink: /statistics/partnerships/modern-business/
 
 <div class="button-container">
     <a href="/registration/" class="main-button">Register a Business</a>
+    <a href="/modify/" class="main-button">Modify Your Business</a>
     <a href="/merge/" class="main-button">Mergers & Acquisitions</a>
     <a href="/close/" class="main-button">Close Your Company</a>
-    <a href="/modify/" class="main-button">Modify Your Business</a>
 </div>
 
 <style>
@@ -35,9 +35,10 @@ permalink: /statistics/partnerships/modern-business/
         text-align: center;
         text-decoration: none;
         transition: transform 0.3s, box-shadow 0.3s;
-        box-shadow: 0 4px 6px rgba(0, 99, 160, 0.1); /* Faded version of #0063A0 */
+        box-shadow: 0 4px 6px rgba(0, 99, 160, 0.2); /* Faded version of #0063A0 */
         flex-grow: 1;
         margin: 0 10px;
+        white-space: nowrap; /* Ensure text stays on one line */
     }
 
     .main-button:hover {
