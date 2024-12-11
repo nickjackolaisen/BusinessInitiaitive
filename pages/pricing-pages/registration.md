@@ -93,7 +93,9 @@ tags: services, registration, business, llc, corporation
         card.className = 'pricing-card';
         card.innerHTML = `
             <div class="entity-box">${item.entity}</div>
-            <img src="${item.image}" alt="${item.service} icon" class="service-icon">
+            <a href="${item.link}">
+                <img src="${item.image}" alt="${item.service} icon" class="service-icon">
+            </a>
             <h2>${item.service}</h2>
             <p>${item.description}</p>
             <div class="price">${item.price}</div>
@@ -144,6 +146,7 @@ tags: services, registration, business, llc, corporation
         }
     });
 </script>
+
 <style>
     .pricing-card {
         background-color: #fff;
@@ -155,6 +158,9 @@ tags: services, registration, business, llc, corporation
         margin: 5px; /* Reduced margin */
         max-width: 280px; /* Reduced max-width */
         flex: 1 1 calc(33.333% - 30px); /* Adjusted flex for reduced margin */
+        display: flex;
+        flex-direction: column; /* Ensures entity stays above the icon */
+        align-items: center;
     }
 
     @media (max-width: 768px) {
