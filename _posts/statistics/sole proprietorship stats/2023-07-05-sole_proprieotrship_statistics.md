@@ -81,9 +81,9 @@ It should come as no surprise since they are the easiest, cheapest, and fastest 
   </tr>
   <tr>
     <td>2022</td>
-    <td>30,983,810</td>
-    <td>$543,895,820,000</td>
     <td>21,967,453</td>
+    <td>$543,895,820,000</td>
+    <td>30,983,810</td>
     <td>$410,664,065,000</td>
   </tr>
   <tr>
