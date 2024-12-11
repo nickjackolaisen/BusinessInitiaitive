@@ -18,6 +18,7 @@ tags: services, registration, business, llc, corporation
         <option value="">Select Entity</option>
         <option value="corporation">Corporation</option>
         <option value="llc">LLC</option>
+        <option value="partnership">Partnership</option>
         <!-- Add more entities as needed -->
     </select>
     <select id="sort-select">
