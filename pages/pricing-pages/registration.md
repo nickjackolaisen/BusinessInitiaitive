@@ -7,6 +7,28 @@ tags: services, registration, business, llc, corporation
 
 <link rel="stylesheet" href="{{ '/assets/css/pricing.css' | relative_url }}">
 
+<style>
+/* Localized Button Styling */
+.button {
+    flex: 1 1 calc(25% - 20px);
+    max-width: 200px;
+    padding: 10px 20px;
+    background-image: linear-gradient(to bottom, rgba(0, 99, 160, 0.05), rgba(98, 158, 45, 0.05)); /* Faded gradient */
+    color: #add8e6; /* Light blue text */
+    text-decoration: none; /* Remove underline */
+    border-radius: 5px;
+    border: 1px solid #e0e0e0;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    transition: color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.button:hover {
+    color: #0056b3; /* Dark blue text on hover */
+    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2); /* Enhanced shadow on hover */
+}
+</style>
+
 <!-- Dropdown Menus -->
 <div class="form-container">
     <select id="state-select">
