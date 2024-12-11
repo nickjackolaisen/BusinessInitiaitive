@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Registration
-permalink: /registration/
+permalink: /register/
 tags: services, registration, business, llc, corporation
 ---
 
