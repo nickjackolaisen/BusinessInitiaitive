@@ -4,7 +4,7 @@
     justify-content: space-between; /* Distributes space evenly between buttons */
     gap: 10px; /* Adds space between each button */
     flex-wrap: wrap; /* Allows buttons to wrap to the next line if needed */
-    }
+}
 
 .main-button {
     display: inline-block; /* Allows the button to be inline with other elements */
