@@ -1,6 +1,7 @@
 ---
 title: "Modify Your Business"
 layout: page
+permalink: /modify/
 ---
 
 ## Modify Your Business

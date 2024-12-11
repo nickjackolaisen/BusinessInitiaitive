@@ -1,6 +1,7 @@
 ---
 title: "Merge a Business"
 layout: page
+permalink: /merge/
 ---
 
 ## Merge a Business

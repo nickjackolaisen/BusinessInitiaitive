@@ -1,6 +1,7 @@
 ---
 title: "Close a Business"
 layout: page
+permalink: /close/
 ---
 
 ## Close a Business

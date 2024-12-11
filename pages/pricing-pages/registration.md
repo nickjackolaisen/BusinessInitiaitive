@@ -1,6 +1,7 @@
 ---
 title: "Register a Business"
 layout: page
+permalink: /registration/
 ---
 
 ## Register a Business

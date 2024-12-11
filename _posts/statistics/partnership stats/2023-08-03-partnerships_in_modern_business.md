@@ -9,10 +9,10 @@ permalink: /statistics/partnerships/modern-business/
 ---
 
 <div class="button-container" style="text-align: center; margin-bottom: 20px;">
-    <a href="/register-a-business" class="button" style="margin: 0 10px; padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px;">Register a Business</a>
-    <a href="/merge" class="button" style="margin: 0 10px; padding: 10px 20px; background-color: #28A745; color: white; text-decoration: none; border-radius: 5px;">Mergers & Acquisitions</a>
-    <a href="/close" class="button" style="margin: 0 10px; padding: 10px 20px; background-color: #DC3545; color: white; text-decoration: none; border-radius: 5px;">Close Your Company</a>
-    <a href="/modify-your-business" class="button" style="margin: 0 10px; padding: 10px 20px; background-color: #FFC107; color: white; text-decoration: none; border-radius: 5px;">Modify Your Business</a>
+    <a href="/registration/" class="button" style="margin: 0 10px; padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px;">Register a Business</a>
+    <a href="/merge/" class="button" style="margin: 0 10px; padding: 10px 20px; background-color: #28A745; color: white; text-decoration: none; border-radius: 5px;">Mergers & Acquisitions</a>
+    <a href="/close/" class="button" style="margin: 0 10px; padding: 10px 20px; background-color: #DC3545; color: white; text-decoration: none; border-radius: 5px;">Close Your Company</a>
+    <a href="/modify/" class="button" style="margin: 0 10px; padding: 10px 20px; background-color: #FFC107; color: white; text-decoration: none; border-radius: 5px;">Modify Your Business</a>
 </div>
 
 In the ever-changing landscape of modern business, entrepreneurs are always looking for the most effective ways to achieve success. 
