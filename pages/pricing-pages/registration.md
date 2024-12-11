@@ -23,7 +23,7 @@ permalink: /registration/
 
 <div id="pricing-cards-container" style="display: none;">
     <div style="text-align: right; margin-bottom: 10px;">
-        <select id="sort-options" style="padding: 5px; border-radius: 5px; border: 1px solid #ced4da;">
+        <select id="sort-options" style="padding: 10px; border-radius: 5px; border: 1px solid #ced4da; width: 200px;">
             <option value="default" selected>Sort By</option>
             <option value="price-asc">Price: Low to High</option>
             <option value="price-desc">Price: High to Low</option>
