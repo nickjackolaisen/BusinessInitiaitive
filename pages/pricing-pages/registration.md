@@ -38,11 +38,13 @@ tags: services, registration, business, llc, corporation
     }
 
     .filter-box select {
+        flex: 1;
         padding: 10px;
         border: 1px solid #ccc;
         border-radius: 5px;
         font-size: 1em;
         margin: 0 10px;
+        max-width: 200px;
     }
 </style>
 
