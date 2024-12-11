@@ -5,6 +5,12 @@ layout: default
 
 <div class="home">
   {% if posts_count > 0 %}
+    <div class="button-container">
+        <a href="/pages/pricing-pages/registration.html" class="btn">Register</a>
+        <a href="/pages/pricing-pages/modification.html" class="btn">Modify</a>
+        <a href="/pages/pricing-pages/close.html" class="btn">Close</a>
+        <a href="/pages/pricing-pages/merge.html" class="btn">Merge</a>
+    </div>
     <div class="posts">
       {% for post in paginator.posts %}
         <div class="post py3">

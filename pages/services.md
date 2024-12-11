@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Pricing
-permalink: /pricing/
+title: Services
+permalink: /services/
 tags: services, offerings, registration, filing, call, meeting, schedule, message, registration, business, llc, sole-proprietorship, partnership, corporation
 ---
 
