@@ -71,8 +71,8 @@ tags: services, registration, business, llc, corporation
         card.className = 'pricing-card';
         card.innerHTML = `
             <div class="entity-box">${item.entity}</div>
-            <a href="${item.link}">
-                <img src="${item.image}" alt="${item.service} icon" class="service-icon">
+            <a href="${item.link}" class="service-icon">
+                <img src="${item.image}" alt="${item.service} icon">
             </a>
             <h2>${item.service}</h2>
             <p>${item.description}</p>
