@@ -17,43 +17,33 @@ permalink: /statistics/partnerships/modern-business/
 </div>
 
 <style>
-body {
-    font-family: Arial, sans-serif;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    margin: 0;
-    background-color: #f8f8f8;
-}
+    .button-container {
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+        flex-wrap: wrap;
+    }
 
-.button-container {
-    display: flex;
-    gap: 20px;
-    justify-content: center;
-    align-items: center;
-}
+    .main-button {
+        display: inline-block;
+        background-color: #fff;
+        color: #333;
+        border: 1px solid #e0e0e0;
+        padding: 15px 30px;
+        border-radius: 5px;
+        font-size: 1.2em;
+        text-align: center;
+        text-decoration: none;
+        transition: transform 0.3s, box-shadow 0.3s;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
 
-.main-button {
-    text-decoration: none;
-    padding: 15px 30px;
-    font-size: 16px;
-    color: #ffffff; /* Ensure color is white */
-    background: linear-gradient(to bottom, #0063A0, #629E2D); /* Vertical gradient */
-    border: none;
-    border-radius: 8px;
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
-    text-align: center;
-    display: inline-block;
-    width: 200px; /* Ensure all buttons are the same size */
-}
-
-.main-button:hover {
-    transform: translateY(-2px);
-    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
-}
+    .main-button:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
+    }
 </style>
+
 
 In the ever-changing landscape of modern business, entrepreneurs are always looking for the most effective ways to achieve success. 
 
