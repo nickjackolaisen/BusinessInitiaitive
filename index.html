@@ -3,6 +3,8 @@ layout: default
 ---
 {% assign posts_count = paginator.posts | size %}
 
+<link rel="stylesheet" href="{{ '/assets/css/pricing.css' | relative_url }}">
+
 <div class="home">
   {% if posts_count > 0 %}
     <div class="button-container">

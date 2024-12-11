@@ -11,7 +11,7 @@ permalink: /statistics/partnerships/modern-business/
 <link rel="stylesheet" href="{{ '/assets/css/pricing.css' | relative_url }}">
 
 <div class="button-container">
-    <a href="/registration/" class="main-button">Register a Business</a>
+    <a href="/register/" class="main-button">Register a Business</a>
     <a href="/modify/" class="main-button">Modify Your Business</a>
     <a href="/merge/" class="main-button">Mergers & Acquisitions</a>
     <a href="/close/" class="main-button">Close Your Company</a>
