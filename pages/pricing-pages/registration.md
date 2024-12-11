@@ -80,7 +80,7 @@ tags: services, registration, business, llc, corporation
             <h2>${item.service}</h2>
             <div class="price">${item.price}</div>
             <p>${item.description}</p>
-            <a href="${item.link}" class="cta-button">${item.ctaText}</a>
+            <a href="${item.link}" class="cta-button" class="image-link-thumbnail">${item.ctaText}</a>
         `;
         document.getElementById('pricing-container').appendChild(card);
     }
