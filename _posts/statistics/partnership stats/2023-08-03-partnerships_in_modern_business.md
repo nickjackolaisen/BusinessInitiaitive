@@ -2,21 +2,11 @@
 title: "The Role of Partnerships in Modern Business"
 layout: post
 date: 2023-08-03
-update_date: 2023-09-27
+update_date: 2024-12-11
 author: jack_nicholaisen
 summary: "Discover the formation rates, success rates, and pros and cons of partnerships. Make an informed decision for your entrepreneurial journey."
 permalink: /statistics/partnerships/modern-business/
 ---
-
-<link rel="stylesheet" href="{{ '/assets/css/pricing.css' | relative_url }}">
-
-<div class="button-container">
-    <a href="/register/" class="main-button">Register a Business</a>
-    <a href="/modify/" class="main-button">Modify Your Business</a>
-    <a href="/merge/" class="main-button">Mergers & Acquisitions</a>
-    <a href="/close/" class="main-button">Close Your Company</a>
-</div>
-
 
 In the ever-changing landscape of modern business, entrepreneurs are always looking for the most effective ways to achieve success. 
 
@@ -28,13 +18,13 @@ This article aims to provide a comprehensive statistical analysis of partnership
 
 ## The Prevalence of Partnerships
 
-According to the [U.S. Bureau of Labor Statistics (BLS)](https://www.bls.gov/bdm/entrepreneurship/entrepreneurship.htm), partnerships account for a significant portion of business formations every year. 
+According to the <a href="https://www.bls.gov/bdm/entrepreneurship/entrepreneurship.htm" target="_blank">U.S. Bureau of Labor Statistics (BLS)</a>, partnerships account for a significant portion of business formations every year. 
 
 The BLS data reveals that in 2019, **7.7% of all new businesses were partnerships**. 
 
 This percentage has remained relatively consistent over the last decade, indicating that partnerships continue to be a popular choice among entrepreneurs.
 
-Another study by [SCORE](https://www.score.org/resource/business-statistics), a nonprofit association dedicated to helping small businesses, found that in 2018, **partnerships made up 9% of all small businesses in the United States**. 
+Another study by <a href="https://www.score.org/resource/business-statistics" target="_blank">SCORE</a>, a nonprofit association dedicated to helping small businesses, found that in 2018, <strong>partnerships made up 9% of all small businesses in the United States</strong>.
 
 This implies that partnerships are not only common among new businesses but also have a significant presence in the overall small business landscape.
 
@@ -42,11 +32,11 @@ This implies that partnerships are not only common among new businesses but also
 
 When it comes to evaluating the success of partnerships, there are several factors to consider. 
 
-A report by [PricewaterhouseCoopers (PwC)](https://www.pwc.com/gx/en/services/advisory/creating-value-through-mergers-and-acquisitions/partnering-growth-joint-ventures-alliances.html) revealed that **80% of joint ventures and strategic alliances (which often involve partnerships) met or exceeded their objectives**. 
+A report by <a href="https://www.pwc.com/gx/en/services/advisory/creating-value-through-mergers-and-acquisitions/partnering-growth-joint-ventures-alliances.html" target="_blank">PricewaterhouseCoopers (PwC)</a> revealed that <strong>80% of joint ventures and strategic alliances (which often involve partnerships) met or exceeded their objectives</strong>.
 
 This implies a relatively high success rate for partnerships within these contexts.
 
-On a broader scale, the [BLS data](https://www.bls.gov/bdm/entrepreneurship/entrepreneurship.htm) also provides some valuable insights. 
+On a broader scale, the <a href="https://www.bls.gov/bdm/entrepreneurship/entrepreneurship.htm" target="_blank">BLS data</a> also provides some valuable insights. 
 
 According to their findings, **75% of new businesses survive the first year, with that number dropping to 48% after the fifth year**.
 
@@ -185,20 +175,17 @@ As an entrepreneur, it's crucial to carefully weigh the pros and cons of a partn
 Understanding the statistical analysis presented in this article can help you make a well-informed decision about whether a partnership is the right choice for your business venture.
 
 Ready to take the next step in your entrepreneurial journey?
+<a href="https://www.businessinitiative.org/contact/" target="_blank">Contact our team of expert advisors</a> today to discuss your business goals and discover how we can support your success!
 
-[Contact our team of expert advisors](https://www.businessinitiative.org/contact/) today to discuss your business goals and discover how we can support your success!
-
-You can also schedule a consultation call with us [HERE](https://calendly.com/businessinitiative/30-minute-consultation-call)
+You can also schedule a consultation call with us <a href="https://calendly.com/businessinitiative/30-minute-consultation-call" target="_blank">HERE</a>
 
 <br>
 <details>
 <summary><b>Sources</b></summary>
 <br>
 <ul>
-    <li><a href="https://www.bls.gov/bdm/entrepreneurship/entrepreneurship.htm">U.S. Bureau of Labor Statistics - Entrepreneurship and the U.S. Economy</a></li>
-    <li><a href="https://www.score.org/resource/business-statistics">SCORE - Business Statistics</a></li>
-    <li><a href="https://www.pwc.com/gx/en/services/advisory/creating-value-through-mergers-and-acquisitions/partnering-growth-joint-ventures-alliances.html">PwC - Partnering for Growth: Joint Ventures and Alliances</a></li>
+    <li><a href="https://www.bls.gov/bdm/entrepreneurship/entrepreneurship.htm" target="_blank">U.S. Bureau of Labor Statistics - Entrepreneurship and the U.S. Economy</a></li>
+    <li><a href="https://www.score.org/resource/business-statistics" target="_blank">SCORE - Business Statistics</a></li>
+    <li><a href="https://www.pwc.com/gx/en/services/advisory/creating-value-through-mergers-and-acquisitions/partnering-growth-joint-ventures-alliances.html" target="_blank">PwC - Partnering for Growth: Joint Ventures and Alliances</a></li>
 </ul>
 </details>
-
-
