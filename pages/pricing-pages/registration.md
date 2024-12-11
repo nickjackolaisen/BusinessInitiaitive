@@ -21,7 +21,7 @@ permalink: /registration/
     </form>
 </div>
 
-<div id="pricing-cards" style="display: none;">
+<div id="pricing-cards" class="pricing-container" style="display: none;">
     <!-- Pricing cards will be dynamically inserted here based on form selection -->
 </div>
 
@@ -34,14 +34,18 @@ permalink: /registration/
         fetch(`/data/products/${state}.json`)
             .then(response => response.json())
             .then(data => {
-                for (const [entity, details] of Object.entries(data)) {
-                    if (details.category.includes("Registration")) {
-                        const option = document.createElement('option');
-                        option.value = entity;
-                        option.textContent = entity.charAt(0).toUpperCase() + entity.slice(1);
-                        entitySelect.appendChild(option);
+                const entities = new Set();
+                data.forEach(service => {
+                    if (service.category.includes("Registration")) {
+                        entities.add(service.entity);
                     }
-                }
+                });
+                entities.forEach(entity => {
+                    const option = document.createElement('option');
+                    option.value = entity;
+                    option.textContent = entity.charAt(0).toUpperCase() + entity.slice(1);
+                    entitySelect.appendChild(option);
+                });
             })
             .catch(error => {
                 console.error('Error fetching entities:', error);
@@ -58,16 +62,22 @@ permalink: /registration/
         fetch(`/data/products/${state}.json`)
             .then(response => response.json())
             .then(data => {
-                const pricingInfo = data[entity];
-                if (pricingInfo && pricingInfo.category.includes("Registration")) {
-                    pricingCardsContainer.innerHTML = `
-                        <div class="pricing-card" style="padding: 20px; background-color: #fff; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin-top: 20px;">
-                            <h3>${entity.toUpperCase()} Pricing</h3>
-                            <p>Price: $${pricingInfo.price}</p>
-                            <p>Description: ${pricingInfo.description}</p>
+                const filteredServices = data.filter(service => 
+                    service.entity.toLowerCase() === entity.toLowerCase() && 
+                    service.category.includes("Registration")
+                );
+
+                if (filteredServices.length > 0) {
+                    pricingCardsContainer.innerHTML = filteredServices.map(service => `
+                        <div class="pricing-card">
+                            <img src="${service.image}" alt="${service.service}" class="service-icon">
+                            <h3>${service.service}</h3>
+                            <p>${service.description}</p>
+                            <p class="price">${service.price}</p>
+                            <a href="${service.link}" class="cta-button">${service.ctaText}</a>
                         </div>
-                    `;
-                    pricingCardsContainer.style.display = 'block';
+                    `).join('');
+                    pricingCardsContainer.style.display = 'flex';
                 } else {
                     pricingCardsContainer.innerHTML = '<p>No pricing information available for the selected entity.</p>';
                     pricingCardsContainer.style.display = 'block';
