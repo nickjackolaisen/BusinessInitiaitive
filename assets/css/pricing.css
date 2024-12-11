@@ -84,7 +84,6 @@ a.main-button {
 
 
 
-
 .pricing-card {
     background-color: #fff; /* Pricing Card */
     border: 1px solid #e0e0e0;
@@ -125,7 +124,7 @@ a.main-button {
 .service-icon {
     width: 30%; /* Reduced width */
     height: auto;
-    margin-bottom: 10px; /* Reduced margin */
+    margin-bottom: 2px; /* Halved margin */
 }
 
 a.service-icon {
@@ -133,6 +132,10 @@ a.service-icon {
     background-image: none;
     border-bottom: 0;
     text-decoration: none;
+}
+
+.pricing-card h2 {
+    margin-top: 10px; /* Halved the default margin */
 }
 
 .cta-button {
