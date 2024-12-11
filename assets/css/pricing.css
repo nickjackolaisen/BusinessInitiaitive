@@ -20,6 +20,7 @@
     margin-top: 20px;
     text-align: center;
     overflow: hidden;
+    box-sizing: border-box;
 }
 
 .pricing-card:hover {
@@ -27,13 +28,8 @@
     box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
 }
 
-.pricing-card h2 {
+.pricing-card h2, .pricing-card h3 {
     margin-top: 0;
-    color: #0056b3;
-    font-size: 1.5em;
-}
-
-.pricing-card h3 {
     color: #0056b3;
     font-size: 1.5em;
 }
@@ -48,6 +44,9 @@
     color: #333;
     font-size: 1em;
     margin: 10px 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
 }
 
 .pricing-card .note,

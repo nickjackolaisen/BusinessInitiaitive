@@ -49,6 +49,56 @@ tags: services, mergers, acquisitions, business
             .catch(error => console.error('Error loading products:', error));
     }
 
+    function sortProducts(products) {
+        const sortOption = document.getElementById('sort-select').value;
+        switch (sortOption) {
+            case 'price-asc':
+                products.sort((a, b) => parseFloat(a.price.slice(1)) - parseFloat(b.price.slice(1)));
+                break;
+            case 'price-desc':
+                products.sort((a, b) => parseFloat(b.price.slice(1)) - parseFloat(a.price.slice(1)));
+                break;
+            case 'name-asc':
+                products.sort((a, b) => a.service.localeCompare(b.service));
+                break;
+            case 'name-desc':
+                products.sort((a, b) => b.service.localeCompare(a.service));
+                break;
+        }
+    }
+
+    function createCard(item) {
+        const card = document.createElement('div');
+        card.className = 'pricing-card';
+        card.innerHTML = `
+            <a href="${item.link}" class="image-link-thumbnail">
+                <img src="${item.image}" alt="${item.service} icon" class="service-icon">
+            </a>
+            <h2>${item.service}</h2>
+            <div class="price">${item.price}</div>
+            <p>${item.description}</p>
+            <a href="${item.link}" class="cta-button">${item.ctaText}</a>
+        `;
+        document.getElementById('pricing-container').appendChild(card);
+    }
+
+    function populateEntityDropdown(state) {
+        fetch(`/data/products/${state}.json`)
+            .then(response => response.json())
+            .then(products => {
+                const entitySelect = document.getElementById('entity-select');
+                entitySelect.innerHTML = '<option value="">Select Entity</option>'; // Clear existing options
+                const entities = [...new Set(products.map(product => product.entity))];
+                entities.forEach(entity => {
+                    const option = document.createElement('option');
+                    option.value = entity.toLowerCase();
+                    option.textContent = entity;
+                    entitySelect.appendChild(option);
+                });
+            })
+            .catch(error => console.error('Error loading entities:', error));
+    }
+
     document.getElementById('state-select').addEventListener('change', function() {
         const state = this.value;
         if (state) {
