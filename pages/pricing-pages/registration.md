@@ -8,7 +8,7 @@ tags: services, registration, business, llc, corporation
 <link rel="stylesheet" href="{{ '/assets/css/pricing.css' | relative_url }}">
 
 <!-- Dropdown Menus -->
-<div class="dropdown-container">
+<div class="form-container">
     <select id="state-select">
         <option value="">Select State</option>
         <option value="new-york">New York</option>
