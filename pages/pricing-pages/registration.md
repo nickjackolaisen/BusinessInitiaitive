@@ -21,8 +21,19 @@ permalink: /registration/
     </form>
 </div>
 
-<div id="pricing-cards" class="pricing-container" style="display: none;">
-    <!-- Pricing cards will be dynamically inserted here based on form selection -->
+<div id="pricing-cards-container" style="display: none;">
+    <div style="text-align: right; margin-bottom: 10px;">
+        <select id="sort-options" style="padding: 5px; border-radius: 5px; border: 1px solid #ced4da;">
+            <option value="default" selected>Sort By</option>
+            <option value="price-asc">Price: Low to High</option>
+            <option value="price-desc">Price: High to Low</option>
+            <option value="name-asc">Name: A to Z</option>
+            <option value="name-desc">Name: Z to A</option>
+        </select>
+    </div>
+    <div id="pricing-cards" class="pricing-container">
+        <!-- Pricing cards will be dynamically inserted here based on form selection -->
+    </div>
 </div>
 
 <script>
@@ -58,6 +69,7 @@ permalink: /registration/
         const state = document.getElementById('state').value;
         const entity = document.getElementById('entity').value;
         const pricingCardsContainer = document.getElementById('pricing-cards');
+        const pricingCardsWrapper = document.getElementById('pricing-cards-container');
 
         fetch(`/data/products/${state}.json`)
             .then(response => response.json())
@@ -68,25 +80,53 @@ permalink: /registration/
                 );
 
                 if (filteredServices.length > 0) {
-                    pricingCardsContainer.innerHTML = filteredServices.map(service => `
-                        <div class="pricing-card">
-                            <img src="${service.image}" alt="${service.service}" class="service-icon">
-                            <h3>${service.service}</h3>
-                            <p>${service.description}</p>
-                            <p class="price">${service.price}</p>
-                            <a href="${service.link}" class="cta-button">${service.ctaText}</a>
-                        </div>
-                    `).join('');
-                    pricingCardsContainer.style.display = 'flex';
+                    renderPricingCards(filteredServices);
+                    pricingCardsWrapper.style.display = 'block';
                 } else {
                     pricingCardsContainer.innerHTML = '<p>No pricing information available for the selected entity.</p>';
-                    pricingCardsContainer.style.display = 'block';
+                    pricingCardsWrapper.style.display = 'block';
                 }
             })
             .catch(error => {
                 console.error('Error fetching pricing data:', error);
                 pricingCardsContainer.innerHTML = '<p>Error loading pricing information. Please try again later.</p>';
-                pricingCardsContainer.style.display = 'block';
+                pricingCardsWrapper.style.display = 'block';
             });
     });
+
+    document.getElementById('sort-options').addEventListener('change', function() {
+        const sortBy = this.value;
+        const pricingCardsContainer = document.getElementById('pricing-cards');
+        const services = Array.from(pricingCardsContainer.children).map(card => ({
+            element: card,
+            price: parseFloat(card.querySelector('.price').textContent.replace('$', '')),
+            name: card.querySelector('h3').textContent
+        }));
+
+        if (sortBy === 'price-asc') {
+            services.sort((a, b) => a.price - b.price);
+        } else if (sortBy === 'price-desc') {
+            services.sort((a, b) => b.price - a.price);
+        } else if (sortBy === 'name-asc') {
+            services.sort((a, b) => a.name.localeCompare(b.name));
+        } else if (sortBy === 'name-desc') {
+            services.sort((a, b) => b.name.localeCompare(a.name));
+        }
+
+        pricingCardsContainer.innerHTML = '';
+        services.forEach(service => pricingCardsContainer.appendChild(service.element));
+    });
+
+    function renderPricingCards(services) {
+        const pricingCardsContainer = document.getElementById('pricing-cards');
+        pricingCardsContainer.innerHTML = services.map(service => `
+            <div class="pricing-card">
+                <img src="${service.image}" alt="${service.service}" class="service-icon">
+                <h3>${service.service}</h3>
+                <p>${service.description}</p>
+                <p class="price">${service.price}</p>
+                <a href="${service.link}" class="cta-button">${service.ctaText}</a>
+            </div>
+        `).join('');
+    }
 </script>
