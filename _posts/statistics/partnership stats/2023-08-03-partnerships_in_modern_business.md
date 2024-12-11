@@ -30,20 +30,23 @@ body {
 .button-container {
     display: flex;
     gap: 20px;
+    justify-content: center;
+    align-items: center;
 }
 
 .main-button {
     text-decoration: none;
     padding: 15px 30px;
     font-size: 16px;
-    color: white;
-    background: linear-gradient(to right, rgba(0, 99, 160, 0.8), rgba(98, 158, 45, 0.8));
+    color: #ffffff; /* Ensure color is white */
+    background: linear-gradient(to bottom, #0063A0, #629E2D); /* Vertical gradient */
     border: none;
     border-radius: 8px;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
     transition: transform 0.2s ease, box-shadow 0.2s ease;
     text-align: center;
     display: inline-block;
+    width: 200px; /* Ensure all buttons are the same size */
 }
 
 .main-button:hover {
