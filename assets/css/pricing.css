@@ -10,18 +10,55 @@
 
 /* Individual pricing card styling */
 .pricing-card {
-    background-color: #fff;
-    border: 1px solid #e0e0e0;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    border-radius: 10px;
-    width: 100%;
-    max-width: 300px;
     padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
     text-align: center;
-    transition: transform 0.3s, box-shadow 0.3s;
-    background-image: linear-gradient(to bottom, rgba(0, 99, 160, 0.1), rgba(98, 158, 45, 0.1));
 }
 
+.pricing-card img.service-icon {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.pricing-card h3 {
+    color: #0056b3;
+    font-size: 1.5em;
+}
+
+.pricing-card p {
+    color: #333;
+    font-size: 1em;
+    margin: 10px 0;
+}
+
+.pricing-card .price {
+    font-size: 1.8em;
+    margin: 10px 0;
+    color: #0056b3;
+}
+
+.cta-button {
+    display: inline-block;
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 1em;
+    cursor: pointer;
+    text-decoration: none;
+    transition: background-color 0.3s;
+}
+
+.cta-button:hover {
+    background-color: #218838;
+}
 
 /* Card abbreviation styling */
 .card-abbreviation {
@@ -63,39 +100,11 @@
     margin-top: 2px;
 }
 
-/* Price styling */
-.pricing-card .price {
-    font-size: 1.8em;
-    margin: 10px 0;
-    color: #0056b3;
-}
-
 /* Disclaimer styling */
 .pricing-card .disclaimer {
     font-size: 0.8em;
     color: #777;
     margin-top: 2px;
-}
-
-/* CTA button styling */
-.cta-button {
-    display: inline-block;
-    background-color: #28a745;
-    color: #fff;
-    border: none;
-    padding: 10px 20px;
-    border-radius: 5px;
-    font-size: 1em;
-    cursor: pointer;
-    text-decoration: none !important;
-    transition: background-color 0.3s;
-}
-
-/* CTA button hover effect */
-.cta-button:hover {
-    background-color: #218838;
-    color: rgb(104, 104, 104);
-    text-decoration: none !important;
 }
 
 /* Benefits header styling */
