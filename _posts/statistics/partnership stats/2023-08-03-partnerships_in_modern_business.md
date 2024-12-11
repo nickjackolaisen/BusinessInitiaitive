@@ -8,6 +8,7 @@ summary: "Discover the formation rates, success rates, and pros and cons of part
 permalink: /statistics/partnerships/modern-business/
 ---
 
+<link rel="stylesheet" href="/assets/css/pricing.css">
 <div class="button-container">
     <a href="/registration/" class="button image-link-thumbnail">Register a Business</a>
     <a href="/merge/" class="button image-link-thumbnail">Mergers & Acquisitions</a>

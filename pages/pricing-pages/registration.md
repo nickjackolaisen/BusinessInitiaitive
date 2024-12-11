@@ -1,125 +1,128 @@
 ---
-title: "Register a Business"
 layout: page
+title: Registration
 permalink: /registration/
+tags: services, registration, business, llc, corporation
 ---
 
-## Register a Business
+<link rel="stylesheet" href="{{ '/assets/css/pricing.css' | relative_url }}">
 
-<div class="form-container">
-    <form id="business-form">
-        <select id="state" name="state">
-            <option value="" disabled selected>Select State</option>
-            <option value="new-york">New York</option>
-            <!-- Add more states as needed -->
-        </select>
-        <select id="entity" name="entity">
-            <option value="" disabled selected>Select Entity</option>
-            <!-- Options will be populated dynamically -->
-        </select>
-        <button type="submit">Show Options</button>
-    </form>
+<!-- Dropdown Menus -->
+<div class="dropdown-container">
+    <select id="state-select">
+        <option value="">Select State</option>
+        <option value="new-york">New York</option>
+        <!-- Add more states as needed -->
+    </select>
+    <select id="entity-select">
+        <option value="">Select Entity</option>
+        <option value="corporation">Corporation</option>
+        <option value="llc">LLC</option>
+        <!-- Add more entities as needed -->
+    </select>
+    <select id="sort-select">
+        <option value="">Sort by</option>
+        <option value="price-asc">Price: Low to High</option>
+        <option value="price-desc">Price: High to Low</option>
+        <option value="name-asc">Name: A to Z</option>
+        <option value="name-desc">Name: Z to A</option>
+    </select>
 </div>
 
-<div id="pricing-cards-container" style="display: none;">
-    <div>
-        <select id="sort-options">
-            <option value="default" selected>Sort By</option>
-            <option value="price-asc">Price: Low to High</option>
-            <option value="price-desc">Price: High to Low</option>
-            <option value="name-asc">Name: A to Z</option>
-            <option value="name-desc">Name: Z to A</option>
-        </select>
-    </div>
-    <div id="pricing-cards" class="pricing-container">
-        <!-- Pricing cards will be dynamically inserted here -->
-    </div>
+<div class="pricing-container" id="pricing-container">
+    <!-- Pricing cards will be dynamically populated here -->
 </div>
 
 <script>
-    document.getElementById('state').addEventListener('change', function() {
-        const state = this.value;
-        const entitySelect = document.getElementById('entity');
-        entitySelect.innerHTML = '<option value="" disabled selected>Select Entity</option>';
-
+    function loadProducts(state, entity) {
         fetch(`/data/products/${state}.json`)
             .then(response => response.json())
-            .then(data => {
-                const entities = [...new Set(data.filter(service => service.category.includes("Registration")).map(service => service.entity))];
+            .then(products => {
+                let filteredProducts = products.filter(product => product.category === 'Registration');
+                
+                if (entity) {
+                    filteredProducts = filteredProducts.filter(product => product.entity.toLowerCase() === entity.toLowerCase());
+                }
+                
+                sortProducts(filteredProducts);
+                document.getElementById('pricing-container').innerHTML = ''; // Clear existing cards
+                filteredProducts.forEach(createCard);
+            })
+            .catch(error => console.error('Error loading products:', error));
+    }
+
+    function sortProducts(products) {
+        const sortOption = document.getElementById('sort-select').value;
+        switch (sortOption) {
+            case 'price-asc':
+                products.sort((a, b) => parseFloat(a.price.slice(1)) - parseFloat(b.price.slice(1)));
+                break;
+            case 'price-desc':
+                products.sort((a, b) => parseFloat(b.price.slice(1)) - parseFloat(a.price.slice(1)));
+                break;
+            case 'name-asc':
+                products.sort((a, b) => a.service.localeCompare(b.service));
+                break;
+            case 'name-desc':
+                products.sort((a, b) => b.service.localeCompare(a.service));
+                break;
+        }
+    }
+
+    function createCard(item) {
+        const card = document.createElement('div');
+        card.className = 'pricing-card';
+        card.innerHTML = `
+            <a href="${item.link}" class="image-link-thumbnail">
+                <img src="${item.image}" alt="${item.service} icon" class="service-icon">
+            </a>
+            <h2>${item.service}</h2>
+            <div class="price">${item.price}</div>
+            <p>${item.description}</p>
+            <a href="${item.link}" class="cta-button">${item.ctaText}</a>
+        `;
+        document.getElementById('pricing-container').appendChild(card);
+    }
+
+    function populateEntityDropdown(state) {
+        fetch(`/data/products/${state}.json`)
+            .then(response => response.json())
+            .then(products => {
+                const entitySelect = document.getElementById('entity-select');
+                entitySelect.innerHTML = '<option value="">Select Entity</option>'; // Clear existing options
+                const entities = [...new Set(products.map(product => product.entity))];
                 entities.forEach(entity => {
                     const option = document.createElement('option');
-                    option.value = entity;
-                    option.textContent = entity.charAt(0).toUpperCase() + entity.slice(1);
+                    option.value = entity.toLowerCase();
+                    option.textContent = entity;
                     entitySelect.appendChild(option);
                 });
             })
-            .catch(error => console.error('Error fetching entities:', error));
-    });
-
-    document.getElementById('business-form').addEventListener('submit', function(event) {
-        event.preventDefault();
-        
-        const state = document.getElementById('state').value;
-        const entity = document.getElementById('entity').value;
-        const pricingCardsContainer = document.getElementById('pricing-cards');
-        const pricingCardsWrapper = document.getElementById('pricing-cards-container');
-
-        fetch(`/data/products/${state}.json`)
-            .then(response => response.json())
-            .then(data => {
-                const filteredServices = data.filter(service => 
-                    service.entity.toLowerCase() === entity.toLowerCase() && 
-                    service.category.includes("Registration")
-                );
-
-                if (filteredServices.length > 0) {
-                    renderPricingCards(filteredServices);
-                    pricingCardsWrapper.style.display = 'block';
-                } else {
-                    pricingCardsContainer.innerHTML = '<p>No pricing information available for the selected entity.</p>';
-                    pricingCardsWrapper.style.display = 'block';
-                }
-            })
-            .catch(error => {
-                console.error('Error fetching pricing data:', error);
-                pricingCardsContainer.innerHTML = '<p>Error loading pricing information. Please try again later.</p>';
-                pricingCardsWrapper.style.display = 'block';
-            });
-    });
-
-    document.getElementById('sort-options').addEventListener('change', function() {
-        const sortBy = this.value;
-        const pricingCardsContainer = document.getElementById('pricing-cards');
-        const services = Array.from(pricingCardsContainer.children).map(card => ({
-            element: card,
-            price: parseFloat(card.querySelector('.price').textContent.replace('$', '')),
-            name: card.querySelector('h3').textContent
-        }));
-
-        if (sortBy === 'price-asc') {
-            services.sort((a, b) => a.price - b.price);
-        } else if (sortBy === 'price-desc') {
-            services.sort((a, b) => b.price - a.price);
-        } else if (sortBy === 'name-asc') {
-            services.sort((a, b) => a.name.localeCompare(b.name));
-        } else if (sortBy === 'name-desc') {
-            services.sort((a, b) => b.name.localeCompare(a.name));
-        }
-
-        pricingCardsContainer.innerHTML = '';
-        services.forEach(service => pricingCardsContainer.appendChild(service.element));
-    });
-
-    function renderPricingCards(services) {
-        const pricingCardsContainer = document.getElementById('pricing-cards');
-        pricingCardsContainer.innerHTML = services.map(service => `
-            <div class="pricing-card">
-                <img src="${service.image}" alt="${service.service}" class="service-icon">
-                <h3>${service.service}</h3>
-                <p>${service.description}</p>
-                <p class="price">${service.price}</p>
-                <a href="${service.link}" class="cta-button">${service.ctaText}</a>
-            </div>
-        `).join('');
+            .catch(error => console.error('Error loading entities:', error));
     }
+
+    document.getElementById('state-select').addEventListener('change', function() {
+        const state = this.value;
+        if (state) {
+            populateEntityDropdown(state);
+            const entity = document.getElementById('entity-select').value;
+            loadProducts(state, entity);
+        }
+    });
+
+    document.getElementById('entity-select').addEventListener('change', function() {
+        const entity = this.value;
+        const state = document.getElementById('state-select').value;
+        if (state) {
+            loadProducts(state, entity);
+        }
+    });
+
+    document.getElementById('sort-select').addEventListener('change', function() {
+        const state = document.getElementById('state-select').value;
+        const entity = document.getElementById('entity-select').value;
+        if (state) {
+            loadProducts(state, entity);
+        }
+    });
 </script>
