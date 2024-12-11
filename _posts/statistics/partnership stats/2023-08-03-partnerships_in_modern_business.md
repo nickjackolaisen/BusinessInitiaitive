@@ -8,6 +8,7 @@ summary: "Discover the formation rates, success rates, and pros and cons of part
 permalink: /statistics/partnerships/modern-business/
 ---
 
+<link rel="stylesheet" href="{{ '/assets/css/pricing.css' | relative_url }}">
 
 <div class="button-container">
     <a href="/registration/" class="main-button">Register a Business</a>
@@ -15,50 +16,6 @@ permalink: /statistics/partnerships/modern-business/
     <a href="/merge/" class="main-button">Mergers & Acquisitions</a>
     <a href="/close/" class="main-button">Close Your Company</a>
 </div>
-
-<style>
-    .button-container {
-        display: flex; /* Aligns the buttons in a row */
-        justify-content: space-between; /* Distributes space evenly between buttons */
-        gap: 10px; /* Adds space between each button */
-        flex-wrap: wrap; /* Allows buttons to wrap to the next line if needed */
-    }
-
-    .main-button {
-        display: inline-block; /* Allows the button to be inline with other elements */
-        background-color: #fff; /* Sets the button background color to white */
-        color: #333; /* Sets the text color to dark gray */
-        border: 1px solid #e0e0e0; /* Adds a light gray border around the button */
-        padding: 10px 20px; /* Adjusts padding for better fit within the page */
-        border-radius: 5px; /* Rounds the corners of the button */
-        font-size: calc(1em + 0.5vw); /* Makes font size dynamic based on viewport width */
-        text-align: center; /* Centers the text inside the button */
-        text-decoration: none; /* Removes underline from the text */
-        transition: transform 0.3s, box-shadow 0.3s; /* Adds smooth transition effects */
-        box-shadow: 0 4px 6px rgba(0, 99, 160, 0.2); /* Adds a shadow for depth */
-        flex: 1 1 calc(25% - 20px); /* Ensures four buttons fit across the page */
-        margin: 5px; /* Adds margin around each button */
-        white-space: nowrap; /* Ensures text stays on one line */
-    }
-
-    .main-button:hover {
-        transform: translateY(-5px); /* Moves the button up slightly on hover */
-        box-shadow: 0 8px 12px rgba(98, 158, 45, 0.2); /* Increases shadow on hover */
-    }
-
-    a.main-button {
-        color: inherit; /* Inherits color from parent */
-        background-image: none; /* Removes any background image */
-        border-bottom: 0; /* Removes the bottom border */
-        text-decoration: none; /* Ensures no underline on the text */
-    }
-
-    @media (max-width: 768px) {
-        .main-button {
-            flex: 1 1 100%; /* Ensures one button fits across the page on mobile */
-        }
-    }
-</style>
 
 
 In the ever-changing landscape of modern business, entrepreneurs are always looking for the most effective ways to achieve success. 
