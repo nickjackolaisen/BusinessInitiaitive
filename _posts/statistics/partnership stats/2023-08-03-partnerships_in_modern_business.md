@@ -21,7 +21,7 @@ permalink: /statistics/partnerships/modern-business/
         display: flex; /* Aligns the buttons in a row */
         justify-content: space-between; /* Distributes space evenly between buttons */
         gap: 10px; /* Adds space between each button */
-        flex-wrap: wrap; /* Allows buttons to wrap to the next line if needed */
+        flex-wrap: nowrap; /* Prevents buttons from wrapping to the next line */
     }
 
     .main-button {
@@ -36,7 +36,7 @@ permalink: /statistics/partnerships/modern-business/
         text-decoration: none; /* Removes underline from the text */
         transition: transform 0.3s, box-shadow 0.3s; /* Adds smooth transition effects */
         box-shadow: 0 4px 6px rgba(0, 99, 160, 0.2); /* Adds a shadow for depth */
-        flex: 1 1 calc(25% - 40px); /* Ensures four buttons fit across the page */
+        flex: 1 1 22%; /* Ensures four buttons fit across the page */
         margin: 5px; /* Adds margin around each button */
         white-space: nowrap; /* Ensures text stays on one line */
     }
