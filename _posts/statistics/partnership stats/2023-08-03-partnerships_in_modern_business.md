@@ -18,39 +18,39 @@ permalink: /statistics/partnerships/modern-business/
 
 <style>
     .button-container {
-        display: flex;
-        justify-content: space-between;
-        gap: 20px;
-        flex-wrap: nowrap;
+        display: flex; /* Aligns the buttons in a row */
+        justify-content: space-between; /* Distributes space evenly between buttons */
+        gap: 20px; /* Adds space between each button */
+        flex-wrap: wrap; /* Allows buttons to wrap to the next line if needed */
     }
 
     .main-button {
-        display: inline-block;
-        background-color: #fff;
-        color: #333;
-        border: 1px solid #e0e0e0;
-        padding: 15px 30px;
-        border-radius: 5px;
-        font-size: 1.2em;
-        text-align: center;
-        text-decoration: none;
-        transition: transform 0.3s, box-shadow 0.3s;
-        box-shadow: 0 4px 6px rgba(0, 99, 160, 0.2); /* Faded version of #0063A0 */
-        flex-grow: 1;
-        margin: 0 10px;
-        white-space: nowrap; /* Ensure text stays on one line */
+        display: inline-block; /* Allows the button to be inline with other elements */
+        background-color: #fff; /* Sets the button background color to white */
+        color: #333; /* Sets the text color to dark gray */
+        border: 1px solid #e0e0e0; /* Adds a light gray border around the button */
+        padding: 10px 20px; /* Adjusts padding for better fit within the page */
+        border-radius: 5px; /* Rounds the corners of the button */
+        font-size: calc(1em + 0.5vw); /* Makes font size dynamic based on viewport width */
+        text-align: center; /* Centers the text inside the button */
+        text-decoration: none; /* Removes underline from the text */
+        transition: transform 0.3s, box-shadow 0.3s; /* Adds smooth transition effects */
+        box-shadow: 0 4px 6px rgba(0, 99, 160, 0.2); /* Adds a shadow for depth */
+        flex: 1 1 calc(25% - 40px); /* Ensures four buttons fit across the page */
+        margin: 10px; /* Adds margin around each button */
+        white-space: nowrap; /* Ensures text stays on one line */
     }
 
     .main-button:hover {
-        transform: translateY(-5px);
-        box-shadow: 0 8px 12px rgba(98, 158, 45, 0.2); /* Faded version of #629E2D */
+        transform: translateY(-5px); /* Moves the button up slightly on hover */
+        box-shadow: 0 8px 12px rgba(98, 158, 45, 0.2); /* Increases shadow on hover */
     }
 
     a.main-button {
-        color: none;
-        background-image: none;
-        border-bottom: 0;
-        text-decoration: none;
+        color: inherit; /* Inherits color from parent */
+        background-image: none; /* Removes any background image */
+        border-bottom: 0; /* Removes the bottom border */
+        text-decoration: none; /* Ensures no underline on the text */
     }
 </style>
 
