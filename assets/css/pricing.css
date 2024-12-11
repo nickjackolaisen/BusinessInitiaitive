@@ -223,8 +223,8 @@ a.image-link-thumbnail:hover {
     flex: 1 1 calc(25% - 20px); /* Adjust width to fit 4 per row with gap */
     max-width: 200px; /* Maximum width for each button */
     padding: 10px 20px;
-    background-image: linear-gradient(to bottom, rgba(0, 99, 160, 0.1), rgba(98, 158, 45, 0.1));
-    color: #0056b3;
+    background-image: linear-gradient(to bottom, #0063a0, #62a02d); /* Blue to green gradient */
+    color: #fff; /* Ensure text is visible on gradient */
     text-decoration: none;
     border-radius: 5px;
     border: 1px solid #e0e0e0;
