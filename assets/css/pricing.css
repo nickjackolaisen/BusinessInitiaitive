@@ -151,3 +151,48 @@ ul li::before {
     border-radius: 5px; /* Optional: rounded corners */
 }
 
+.form-container {
+    margin: 0 auto;
+    max-width: 400px;
+    padding: 20px;
+    background-color: #f8f9fa; /* Adjust to match your pricing card color */
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.form-container form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form-container label {
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.form-container select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.form-container button {
+    padding: 10px 20px;
+    background-color: #007BFF; /* Adjust to match your button color */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.3s ease;
+}
+
+.form-container button:hover {
+    background-color: #0056b3; /* Darker shade for hover effect */
+}
+

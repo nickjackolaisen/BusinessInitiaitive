@@ -6,7 +6,8 @@
         "description": "Comprehensive service for setting up a domestic corporation in New York.",
         "link": "https://checkout.businessinitiative.org/b/3cs00q46D7n71mo28f",
         "image": "/images/services/new-york/ny-domestic-corp.jpg",
-        "ctaText": "Setup Now"
+        "ctaText": "Setup Now",
+        "category": "Registration"
     },
     {
         "entity": "Domestic Corporation",
@@ -15,7 +16,8 @@
         "description": "Expert setup for your professional corporation in New York.",
         "link": "https://checkout.businessinitiative.org/b/6oE9B046D22N0ik7sA",
         "image": "/images/services/new-york/ny-domestic-corp.jpg",
-        "ctaText": "Incorporate Now"
+        "ctaText": "Incorporate Now",
+        "category": "Registration"
     },
     {
         "entity": "Domestic Corporation",
@@ -24,7 +26,8 @@
         "description": "Complete Benefit Corporation formation service in New York.",
         "link": "https://checkout.businessinitiative.org/b/6oE9B046D22N0ik7sA",
         "image": "/images/services/new-york/ny-domestic-corp.jpg",
-        "ctaText": "Form Benefit Corp"
+        "ctaText": "Form Benefit Corp",
+        "category": "Registration"
     },
     {
         "entity": "Domestic Corporation",
@@ -33,7 +36,8 @@
         "description": "Allows updates to incorporation details like name, purpose, or stock structure.",
         "link": "https://checkout.businessinitiative.org/b/00g00qdHdgXH4yAeV4",
         "image": "/images/services/new-york/ny-domestic-corp.jpg",
-        "ctaText": "Amend Now"
+        "ctaText": "Amend Now",
+        "category": "Modification"
     },
     {
         "entity": "Domestic Corporation",
@@ -42,7 +46,8 @@
         "description": "Updates address, county, or agent details for legal compliance.",
         "link": "https://checkout.businessinitiative.org/b/fZe7sSfPlazj5CEdR1",
         "image": "/images/services/new-york/ny-domestic-corp.jpg",
-        "ctaText": "Update Info"
+        "ctaText": "Update Info",
+        "category": "Modification"
     },
     {
         "entity": "Domestic Corporation",
@@ -51,7 +56,8 @@
         "description": "Simplifies legal name updates during rebranding or restructuring.",
         "link": "https://checkout.businessinitiative.org/b/bIYcNcgTp22N6GI3co",
         "image": "/images/services/new-york/ny-domestic-corp.jpg",
-        "ctaText": "Change Name"
+        "ctaText": "Change Name",
+        "category": "Modification"
     },
     {
         "entity": "Domestic Corporation",
@@ -60,7 +66,8 @@
         "description": "Closes the corporation and ends compliance obligations.",
         "link": "https://checkout.businessinitiative.org/b/3cscNcgTpazj9SUdR5",
         "image": "/images/services/new-york/ny-domestic-corp.jpg",
-        "ctaText": "Dissolve Now"
+        "ctaText": "Dissolve Now",
+        "category": "Closure"
     },
     {
         "entity": "Domestic Corporation",
@@ -69,7 +76,8 @@
         "description": "Legally merges corporations for streamlined operations.",
         "link": "https://checkout.businessinitiative.org/b/6oEaF446D36R6GI9AO",
         "image": "/images/services/new-york/ny-domestic-corp.jpg",
-        "ctaText": "Merge Now"
+        "ctaText": "Merge Now",
+        "category": "Merger"
     },
     {
         "entity": "Domestic Corporation",
@@ -78,7 +86,8 @@
         "description": "Ends DBA registration and removes related obligations.",
         "link": "https://checkout.businessinitiative.org/b/3cscNcgTpazj9SUdR5",
         "image": "/images/services/new-york/ny-domestic-corp.jpg",
-        "ctaText": "End DBA"
+        "ctaText": "End DBA",
+        "category": "Closure"
     },
     {
         "entity": "Foreign Corporation",
@@ -87,7 +96,8 @@
         "description": "Comprehensive service for enabling a foreign corporation to legally conduct business in New York, ensuring compliance with state laws.",
         "link": "https://checkout.businessinitiative.org/b/28o28yfPl4aV0ik00g",
         "image": "/images/services/new-york/ny-foreign-corp.jpg",
-        "ctaText": "Apply Now"
+        "ctaText": "Apply Now",
+        "category": "Registration"
     },
     {
         "entity": "Foreign Corporation",
@@ -96,7 +106,8 @@
         "description": "Expert assistance for accurately and efficiently filing an Application for Authority in New York.",
         "link": "https://checkout.businessinitiative.org/b/3cs5kK6eL5eZd56bIZ",
         "image": "/images/services/new-york/ny-foreign-corp.jpg",
-        "ctaText": "Get Authority"
+        "ctaText": "Get Authority",
+        "category": "Registration"
     },
     {
         "entity": "Foreign Corporation",
@@ -105,7 +116,8 @@
         "description": "Complete service for updating a foreign corporation's New York records, including name or incorporation details.",
         "link": "https://checkout.businessinitiative.org/b/8wM00q5aH9vf7KM00i",
         "image": "/images/services/new-york/ny-foreign-corp.jpg",
-        "ctaText": "Amend Records"
+        "ctaText": "Amend Records",
+        "category": "Modification"
     },
     {
         "entity": "Foreign Corporation",
@@ -114,7 +126,8 @@
         "description": "Facilitates updates to address, county, or registered agent details for a foreign corporation in New York.",
         "link": "https://checkout.businessinitiative.org/b/8wMaF49qXazj2qs00j",
         "image": "/images/services/new-york/ny-foreign-corp.jpg",
-        "ctaText": "Update Info"
+        "ctaText": "Update Info",
+        "category": "Modification"
     },
     {
         "entity": "Foreign Corporation",
@@ -123,7 +136,8 @@
         "description": "Ensures compliance by correcting errors or defects in previously filed documents for a foreign corporation.",
         "link": "https://checkout.businessinitiative.org/b/8wMaF40Ur22N2qsfZi",
         "image": "/images/services/new-york/ny-foreign-corp.jpg",
-        "ctaText": "Correct Errors"
+        "ctaText": "Correct Errors",
+        "category": "Modification"
     },
     {
         "entity": "Foreign Corporation",
@@ -132,7 +146,8 @@
         "description": "Comprehensive service for surrendering a foreign corporation's authorization to operate in New York while maintaining its existence elsewhere.",
         "link": "https://checkout.businessinitiative.org/b/cN26oOeLh22NaWY7sN",
         "image": "/images/services/new-york/ny-foreign-corp.jpg",
-        "ctaText": "Surrender Now"
+        "ctaText": "Surrender Now",
+        "category": "Closure"
     },
     {
         "entity": "Foreign Corporation",
@@ -141,7 +156,8 @@
         "description": "Streamlines the process of amending the address for legal process after surrendering authority in New York.",
         "link": "https://checkout.businessinitiative.org/b/00gfZogTp22Nd568wS",
         "image": "/images/services/new-york/ny-foreign-corp.jpg",
-        "ctaText": "Amend Address"
+        "ctaText": "Amend Address",
+        "category": "Modification"
     },
     {
         "entity": "Foreign Corporation",
@@ -150,7 +166,8 @@
         "description": "Complete service for confirming the termination of a foreign corporation's legal existence in New York to avoid future liabilities.",
         "link": "https://checkout.businessinitiative.org/b/00g14u46DcHr8OQ3cz",
         "image": "/images/services/new-york/ny-foreign-corp.jpg",
-        "ctaText": "Terminate Now"
+        "ctaText": "Terminate Now",
+        "category": "Closure"
     },
     {
         "entity": "Foreign Corporation",
@@ -159,6 +176,7 @@
         "description": "Terminates a foreign corporation's DBA, removing it from records and ending obligations.",
         "link": "https://checkout.businessinitiative.org/b/3cs4gG7iPePzaWY14s",
         "image": "/images/services/new-york/ny-foreign-corp.jpg",
-        "ctaText": "End DBA"
+        "ctaText": "End DBA",
+        "category": "Closure"
     }
 ]
