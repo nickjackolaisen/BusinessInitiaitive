@@ -7,8 +7,7 @@ tags: services, modification, business
 
 <link rel="stylesheet" href="{{ '/assets/css/pricing.css' | relative_url }}">
 
-<!-- Dropdown Menus -->
-<div class="form-container">
+<div class="filter-box">
     <select id="state-select">
         <option value="">Select State</option>
         <option value="new-york">New York</option>
@@ -71,12 +70,13 @@ tags: services, modification, business
         const card = document.createElement('div');
         card.className = 'pricing-card';
         card.innerHTML = `
-            <a href="${item.link}" class="image-link-thumbnail">
+            <div class="entity-box">${item.entity}</div>
+            <a href="${item.link}">
                 <img src="${item.image}" alt="${item.service} icon" class="service-icon">
             </a>
             <h2>${item.service}</h2>
-            <div class="price">${item.price}</div>
             <p>${item.description}</p>
+            <div class="price">${item.price}</div>
             <a href="${item.link}" class="cta-button">${item.ctaText}</a>
         `;
         document.getElementById('pricing-container').appendChild(card);
