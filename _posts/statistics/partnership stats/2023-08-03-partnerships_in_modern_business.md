@@ -42,6 +42,13 @@ permalink: /statistics/partnerships/modern-business/
         transform: translateY(-5px);
         box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
     }
+
+    a.main-button {
+        color: none;
+        background-image: none;
+        border-bottom: 0;
+        text-decoration: none;
+}
 </style>
 
 
