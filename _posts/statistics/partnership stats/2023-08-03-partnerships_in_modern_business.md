@@ -8,11 +8,11 @@ summary: "Discover the formation rates, success rates, and pros and cons of part
 permalink: /statistics/partnerships/modern-business/
 ---
 
-<div class="button-container" style="text-align: center; margin-bottom: 20px;">
-    <a href="/registration/" class="button" class="image-link-thumbnail" style="margin: 0 10px; padding: 10px 20px; background-image: linear-gradient(to bottom, rgba(0, 99, 160, 0.1), rgba(98, 158, 45, 0.1)); color: #0056b3; text-decoration: none; border-radius: 5px; border: 1px solid #e0e0e0; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">Register a Business</a>
-    <a href="/merge/" class="button" class="image-link-thumbnail" style="margin: 0 10px; padding: 10px 20px; background-image: linear-gradient(to bottom, rgba(0, 99, 160, 0.1), rgba(98, 158, 45, 0.1)); color: #0056b3; text-decoration: none; border-radius: 5px; border: 1px solid #e0e0e0; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">Mergers & Acquisitions</a>
-    <a href="/close/" class="button" class="image-link-thumbnail" style="margin: 0 10px; padding: 10px 20px; background-image: linear-gradient(to bottom, rgba(0, 99, 160, 0.1), rgba(98, 158, 45, 0.1)); color: #0056b3; text-decoration: none; border-radius: 5px; border: 1px solid #e0e0e0; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">Close Your Company</a>
-    <a href="/modify/" class="button" class="image-link-thumbnail" style="margin: 0 10px; padding: 10px 20px; background-image: linear-gradient(to bottom, rgba(0, 99, 160, 0.1), rgba(98, 158, 45, 0.1)); color: #0056b3; text-decoration: none; border-radius: 5px; border: 1px solid #e0e0e0; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">Modify Your Business</a>
+<div class="button-container">
+    <a href="/registration/" class="button image-link-thumbnail">Register a Business</a>
+    <a href="/merge/" class="button image-link-thumbnail">Mergers & Acquisitions</a>
+    <a href="/close/" class="button image-link-thumbnail">Close Your Company</a>
+    <a href="/modify/" class="button image-link-thumbnail">Modify Your Business</a>
 </div>
 
 In the ever-changing landscape of modern business, entrepreneurs are always looking for the most effective ways to achieve success. 
