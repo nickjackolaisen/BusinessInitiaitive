@@ -19,9 +19,9 @@ permalink: /statistics/partnerships/modern-business/
 <style>
     .button-container {
         display: flex;
-        justify-content: center;
+        justify-content: space-between;
         gap: 20px;
-        flex-wrap: wrap;
+        flex-wrap: nowrap;
     }
 
     .main-button {
@@ -35,12 +35,14 @@ permalink: /statistics/partnerships/modern-business/
         text-align: center;
         text-decoration: none;
         transition: transform 0.3s, box-shadow 0.3s;
-        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        box-shadow: 0 4px 6px rgba(0, 99, 160, 0.1); /* Faded version of #0063A0 */
+        flex-grow: 1;
+        margin: 0 10px;
     }
 
     .main-button:hover {
         transform: translateY(-5px);
-        box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
+        box-shadow: 0 8px 12px rgba(98, 158, 45, 0.2); /* Faded version of #629E2D */
     }
 
     a.main-button {
@@ -48,7 +50,7 @@ permalink: /statistics/partnerships/modern-business/
         background-image: none;
         border-bottom: 0;
         text-decoration: none;
-}
+    }
 </style>
 
 
