@@ -142,60 +142,66 @@ tags: services, registration, business, llc, corporation
         }
     });
 </script>
-
 <style>
     .pricing-card {
-        background-color: #fff; /* Sets the background color of the card to white */
-        border: 1px solid #e0e0e0; /* Adds a light gray border around the card */
-        border-radius: 5px; /* Rounds the corners of the card */
-        padding: 20px; /* Adds padding inside the card */
-        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow for depth */
-        text-align: center; /* Centers the text inside the card */
-        margin: 20px; /* Adds margin around the card */
-        max-width: 300px; /* Sets the maximum width of the card */
-        flex: 1 1 calc(33.333% - 40px); /* Allows the card to flex and take up a third of the container width minus margins */
+        background-color: #fff;
+        border: 1px solid #e0e0e0;
+        border-radius: 5px;
+        padding: 15px; /* Reduced padding */
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Reduced shadow for compactness */
+        text-align: center;
+        margin: 5px; /* Reduced margin */
+        max-width: 280px; /* Reduced max-width */
+        flex: 1 1 calc(33.333% - 30px); /* Adjusted flex for reduced margin */
+    }
+
+    @media (max-width: 768px) {
+        .pricing-card {
+            flex: 1 1 100%;
+            max-width: 100%;
+        }
     }
 
     .pricing-container {
-        display: flex; /* Enables flexbox layout for the container */
-        flex-wrap: wrap; /* Allows items to wrap onto the next line */
-        justify-content: space-between; /* Distributes space between items */
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around; /* Changed to space-around for more compact layout */
     }
 
     .entity-box {
-        background-color: #0063A0; /* Sets the background color of the entity box */
-        color: #fff; /* Sets the text color to white */
-        padding: 5px 10px; /* Adds padding inside the entity box */
-        border-radius: 3px; /* Rounds the corners of the entity box */
-        display: inline-block; /* Displays the entity box inline */
-        margin-bottom: 10px; /* Adds margin below the entity box */
+        background-color: #0063A0;
+        color: #fff;
+        padding: 3px 8px; /* Reduced padding */
+        border-radius: 3px;
+        display: inline-block;
+        margin-bottom: 5px; /* Reduced margin */
     }
 
     .service-icon {
-        max-width: 100%; /* Ensures the icon does not exceed the card width */
-        height: auto; /* Maintains the aspect ratio of the icon */
-        margin-bottom: 15px; /* Adds margin below the icon */
+        width: 30%; /* Reduced width */
+        height: auto;
+        margin-bottom: 10px; /* Reduced margin */
     }
 
     .cta-button {
-        display: inline-block; /* Displays the button inline */
-        background-color: #629E2D; /* Sets the background color of the button */
-        color: #fff; /* Sets the text color to white */
-        padding: 10px 20px; /* Adds padding inside the button */
-        border-radius: 5px; /* Rounds the corners of the button */
-        text-decoration: none; /* Removes underline from the text */
-        margin-top: 15px; /* Adds margin above the button */
-        transition: background-color 0.3s; /* Adds a transition effect for background color change */
+        display: inline-block;
+        background-color: #629E2D;
+        color: #fff;
+        padding: 8px 18px; /* Reduced padding */
+        border-radius: 5px;
+        text-decoration: none;
+        margin-top: 10px; /* Reduced margin */
+        transition: background-color 0.3s;
     }
 
     .cta-button:hover {
-        background-color: #4a7d1f; /* Changes the background color on hover */
+        background-color: #4a7d1f;
     }
 
     a.cta-button {
-        color: inherit; /* Inherits the color from the parent */
-        background-image: none; /* Removes any background image */
-        border-bottom: 0; /* Removes the bottom border */
-        text-decoration: none; /* Ensures no underline on the text */
+        color: inherit;
+        background-image: none;
+        border-bottom: 0;
+        text-decoration: none;
     }
 </style>
