@@ -1,7 +1,7 @@
 ---
 layout: page
 title: How to Start an LLC in St. Clair County, Alabama
-permalink: /states/alabama/st.-clair/
+permalink: /states/alabama/st-clair/
 ---
 
 <p>Starting an LLC in St. Clair County, Alabama involves several steps and it can get tricky at times.</p>

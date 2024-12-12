@@ -1,10 +1,10 @@
 ---
 layout: page
-title: How to Start an LLC in St. Lucie County, Florida
-permalink: /states/florida/st.-lucie/
+title: How to Start an LLC in St. Johns County, Florida
+permalink: /states/florida/st-johns/
 ---
 
-<p>Starting an LLC in St. Lucie County, Florida involves several steps and it can get tricky at times.</p>
+<p>Starting an LLC in St. Johns County, Florida involves several steps and it can get tricky at times.</p>
 
 <p>We offer comprehensive services to streamline the process and take care of everything for you, ensuring a hassle-free experience. Our team of experts will handle all the necessary paperwork and legal requirements, so you can focus on growing your business.</p>
 
@@ -32,7 +32,7 @@ permalink: /states/florida/st.-lucie/
 <p>Without an EIN there is no corporate veil protecting your personal assets.</p>
 
 <h3>6. Comply with Local Regulations</h3>
-<p>Check with St. Lucie County Clerk's Office for any local permits or licenses that may be required for your business.</p>
+<p>Check with St. Johns County Clerk's Office for any local permits or licenses that may be required for your business.</p>
 
 <h3>7. File Annual Reports</h3>
 <p>Florida requires LLCs to file an annual report. Ensure you comply with this requirement to maintain good standing.</p>

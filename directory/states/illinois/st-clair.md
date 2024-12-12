@@ -1,7 +1,7 @@
 ---
 layout: page
 title: How to Start an LLC in St. Clair County, Illinois
-permalink: /states/illinois/st.-clair/
+permalink: /states/illinois/st-clair/
 ---
 
 <p>Starting an LLC in St. Clair County, Illinois involves several steps and it can get tricky at times.</p>

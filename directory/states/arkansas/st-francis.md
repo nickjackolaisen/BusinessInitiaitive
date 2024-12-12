@@ -1,7 +1,7 @@
 ---
 layout: page
 title: How to Start an LLC in St. Francis County, Arkansas
-permalink: /states/arkansas/st.-francis/
+permalink: /states/arkansas/st-francis/
 ---
 
 <p>Starting an LLC in St. Francis County, Arkansas involves several steps and it can get tricky at times.</p>
