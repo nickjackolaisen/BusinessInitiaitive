@@ -40,4 +40,5 @@ permalink: /states/california/contra-costa/
 <p>For more detailed information, you can visit the <a href="https://www.sos.ca.gov/business-programs">Secretary of State's website</a>.</p>
 
 <h3>Explore Pricing Options</h3>
-<p>For detailed pricing information on forming an LLC in California, visit our <a href="{ '/services/' | relative_url }">Services Page</a>.</p>
+<p>For detailed pricing information on forming an LLC in California, visit our <a href="/services/">Services Page</a>.</p>
+<p>If you have any questions or need assistance, please don't hesitate to <a href="https://www.businessinitiative.org/contact/" target="_blank">contact us</a>.</p>
