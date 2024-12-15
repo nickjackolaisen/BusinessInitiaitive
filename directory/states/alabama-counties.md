@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Alabama Counties
-permalink: /states/alabama/
+permalink: /states/alabama/counties/
 ---
 
 <p>Welcome to our comprehensive guide to Alabama's counties! The Heart of Dixie is divided into 67 unique counties, each with its own character and charm. Whether you're looking to start a business, relocate, or just learn more about this diverse state, we've got you covered.</p>
@@ -86,7 +86,7 @@ permalink: /states/alabama/
     <li><a href="{{ '/states/alabama/pike/' | relative_url }}">Pike County</a></li>
     <li><a href="{{ '/states/alabama/randolph/' | relative_url }}">Randolph County</a></li>
     <li><a href="{{ '/states/alabama/russell/' | relative_url }}">Russell County</a></li>
-    <li><a href="{{ '/states/alabama/saint-clair/' | relative_url }}">St. Clair County</a></li>
+    <li><a href="{{ '/states/alabama/st-clair/' | relative_url }}">St. Clair County</a></li>
     <li><a href="{{ '/states/alabama/shelby/' | relative_url }}">Shelby County</a></li>
     <li><a href="{{ '/states/alabama/sumter/' | relative_url }}">Sumter County</a></li>
     <li><a href="{{ '/states/alabama/talladega/' | relative_url }}">Talladega County</a></li>
