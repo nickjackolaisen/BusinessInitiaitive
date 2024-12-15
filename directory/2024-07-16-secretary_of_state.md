@@ -2,7 +2,7 @@
 layout: page
 title: The COMPLETE Guide to Secretaries of State
 date: 2024-07-16
-update_date: 2024-12-11
+update_date: 2024-12-15
 author: jack_nicholaisen
 summary: Find out who your secretary of state is and how to start a business in your state.
 permalink: /directory/secretary-of-state-list/
@@ -40,6 +40,14 @@ Understanding election processes and results can help entrepreneurs gauge politi
 
 By familiarizing yourself with the role and responsibilities of Secretaries of State, you'll be better prepared to navigate various aspects of starting and growing your business while complying with relevant regulations and requirements.
 
+<style>
+    ul {
+        columns: 2;
+        -webkit-columns: 2;
+        -moz-columns: 2;
+    }
+
+</style>
 
 <ul>
         <li><a href="https://www.sos.alabama.gov/index.php/business-entities" target="_blank">Alabama</a></li>

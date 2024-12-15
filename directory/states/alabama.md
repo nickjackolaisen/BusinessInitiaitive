@@ -23,6 +23,55 @@ These services include legal, financial, and operational support, among other th
 
 Use this directory to find the right professionals to help you with your business startup needs.
 
+<a href="{{ '/states/alabama/counties/' | relative_url }}" class="county-directory-button">View Alabama Counties</a>
+
+<style>
+    .county-directory-button {
+        display: block;
+        width: fit-content;
+        margin: 0 auto;
+        padding: 15px 30px;
+        background-color: #0056b3;
+        color: white;
+        text-decoration: none;
+        border-radius: 5px;
+        font-weight: bold;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        transition: all 0.3s ease;
+    }
+    
+    .county-directory-button:hover {
+        background-color: #003d80;
+        box-shadow: 0 6px 8px rgba(0, 0, 0, 0.2);
+        transform: translateY(-2px);
+    }
+</style>
+
+<a href="https://www.sos.alabama.gov/index.php/business-entities" target="_blank" class="sos-button">Visit Alabama Secretary of State</a>
+
+<style>
+    .sos-button {
+        display: block;
+        width: fit-content;
+        margin: 20px auto;
+        padding: 15px 30px;
+        background-color: #0056b3;
+        color: white !important;
+        text-decoration: none;
+        border-radius: 5px;
+        font-weight: bold;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        transition: all 0.3s ease;
+    }
+    
+    .sos-button:hover {
+        background-color: #003d80;
+        box-shadow: 0 6px 8px rgba(0, 0, 0, 0.2);
+        transform: translateY(-2px);
+    }
+</style>
+
+
 ## Legal Services
 
 ### Lawyers
