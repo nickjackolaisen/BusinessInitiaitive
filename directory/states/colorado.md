@@ -31,7 +31,7 @@ Use this directory to find the right professionals to help you with your busines
 
 <a href="{{ '/states/colorado/counties/' | relative_url }}" class="county-directory-button">View Colorado Counties</a>
 
-<a href="{{ site.data.resources.state_sos_websites.CO }}" target="_blank" class="sos-button">Visit Colorado Secretary of State</a>
+<a href="{{ site.data.resources.state_sos_websites.colorado }}" target="_blank" class="sos-button">Visit Colorado Secretary of State</a>
 
 ## Financial Services
 

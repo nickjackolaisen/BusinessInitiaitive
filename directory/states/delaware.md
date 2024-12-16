@@ -31,7 +31,7 @@ Use this directory to find the right professionals to help you with your busines
 
 <a href="{{ '/states/delaware/counties/' | relative_url }}" class="county-directory-button">View Delaware Counties</a>
 
-<a href="{{ site.data.resources.state_sos_websites.DE }}" target="_blank" class="sos-button">Visit Delaware Secretary of State</a>
+<a href="{{ site.data.resources.state_sos_websites.delaware }}" target="_blank" class="sos-button">Visit Delaware Secretary of State</a>
 
 ## Financial Services
 

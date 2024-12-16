@@ -31,7 +31,7 @@ Use this directory to find the right professionals to help you with your busines
 
 <a href="{{ '/states/arkansas/counties/' | relative_url }}" class="county-directory-button">View Arkansas Counties</a>
 
-<a href="{{ site.data.resources.state_sos_websites.AR }}" target="_blank" class="sos-button">Visit Arkansas Secretary of State</a>
+<a href="{{ site.data.resources.state_sos_websites.arkansas }}" target="_blank" class="sos-button">Visit Arkansas Secretary of State</a>
 
 ## Financial Services
 

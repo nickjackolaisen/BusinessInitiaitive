@@ -27,6 +27,11 @@ These services include legal, financial, and operational support, among other th
 
 Use this directory to find the right professionals to help you with your business startup needs.
 
+<link rel="stylesheet" href="{{ '/assets/css/state-pages.css' | relative_url }}">
+<a href="{{ '/states/new-york/counties/' | relative_url }}" class="county-directory-button">View New York Counties</a>
+
+<a href="{{ site.data.resources.state_sos_websites.new-york }}" target="_blank" class="sos-button">Visit New York Secretary of State</a>
+
 ## Financial Services
 
 ### Accountants:

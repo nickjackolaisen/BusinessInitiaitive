@@ -31,7 +31,7 @@ Use this directory to find the right professionals to help you with your busines
 
 <a href="{{ '/states/idaho/counties/' | relative_url }}" class="county-directory-button">View Idaho Counties</a>
 
-<a href="{{ site.data.resources.state_sos_websites.ID }}" target="_blank" class="sos-button">Visit Idaho Secretary of State</a>
+<a href="{{ site.data.resources.state_sos_websites.idaho }}" target="_blank" class="sos-button">Visit Idaho Secretary of State</a>
 
 ## Financial Services
 

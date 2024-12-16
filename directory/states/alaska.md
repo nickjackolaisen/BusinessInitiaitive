@@ -31,7 +31,7 @@ Use this directory to find the right professionals to help you with your busines
 
 <a href="{{ '/states/alaska/counties/' | relative_url }}" class="county-directory-button">View Alaska Boroughs</a>
 
-<a href="{{ site.data.resources.state_sos_websites.AK }}" target="_blank" class="sos-button">Visit Alaska Secretary of State</a>
+<a href="{{ site.data.resources.state_sos_websites.alaska }}" target="_blank" class="sos-button">Visit Alaska Secretary of State</a>
 
 ## Legal Services
 
