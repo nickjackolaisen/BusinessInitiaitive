@@ -2,7 +2,7 @@
 layout: page
 title: "Arkansas Business Directory"
 date: 2024-06-02
-update_date: 2024-06-03
+update_date: 2024-12-16
 author: jack_nicholaisen
 summary: "Discover the top business startup services in Arkansas! Your ultimate guide to launching a successful venture."  
 permalink: /directory/arkansas/
@@ -26,6 +26,12 @@ To make it easier, we have compiled a directory of essential services that entre
 These services include legal, financial, and operational support, among other things. 
 
 Use this directory to find the right professionals to help you with your business startup needs.
+
+<link rel="stylesheet" href="{{ '/assets/css/state-pages.css' | relative_url }}">
+
+<a href="{{ '/states/arkansas/counties/' | relative_url }}" class="county-directory-button">View Arkansas Counties</a>
+
+<a href="https://www.sos.arkansas.gov/business-commercial-services-bcs" target="_blank" class="sos-button">Visit Arkansas Secretary of State</a>
 
 ## Financial Services
 

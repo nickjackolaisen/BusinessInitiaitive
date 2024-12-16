@@ -2,7 +2,7 @@
 layout: page
 title: "Idaho Business Directory"
 date: 2023-12-04
-update_date: 2024-06-03
+update_date: 2024-12-16
 author: jack_nicholaisen
 summary: "Discover the top business startup services in Idaho! Your ultimate guide to launching a successful venture."  
 permalink: /directory/idaho/
@@ -26,6 +26,12 @@ To make it easier, we have compiled a directory of essential services that entre
 These services include legal, financial, and operational support, among other things. 
 
 Use this directory to find the right professionals to help you with your business startup needs.
+
+<link rel="stylesheet" href="{{ '/assets/css/state-pages.css' | relative_url }}">
+
+<a href="{{ '/states/idaho/counties/' | relative_url }}" class="county-directory-button">View Idaho Counties</a>
+
+<a href="https://sos.idaho.gov/business/" target="_blank" class="sos-button">Visit Idaho Secretary of State</a>
 
 ## Financial Services
 
