@@ -31,7 +31,7 @@ Use this directory to find the right professionals to help you with your busines
 
 <a href="{{ '/states/florida/counties/' | relative_url }}" class="county-directory-button">View Florida Counties</a>
 
-<a href="https://dos.myflorida.com/sunbiz/" target="_blank" class="sos-button">Visit Florida Division of Corporations</a>
+<a href="{{ site.data.resources.state_sos_websites.FL }}" target="_blank" class="sos-button">Visit Florida Secretary of State</a>
 
 ## Financial Services
 
