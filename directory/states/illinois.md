@@ -32,7 +32,7 @@ Use this directory to find the right professionals to help you with your busines
 
 <a href="{{ '/states/illinois/counties/' | relative_url }}" class="county-directory-button">View Illinois Counties</a>
 
-<a href="https://www.ilsos.gov/departments/business_services/home.html" target="_blank" class="sos-button">Visit Illinois Secretary of State</a>
+<a href="{{ site.data.resources.state_sos_websites.IL }}" target="_blank" class="sos-button">Visit Illinois Secretary of State</a>
 
 ## Financial Services
 

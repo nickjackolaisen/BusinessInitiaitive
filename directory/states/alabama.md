@@ -27,7 +27,7 @@ Use this directory to find the right professionals to help you with your busines
 
 <a href="{{ '/states/alabama/counties/' | relative_url }}" class="county-directory-button">View Alabama Counties</a>
 
-<a href="https://www.sos.alabama.gov/index.php/business-entities" target="_blank" class="sos-button">Visit Alabama Secretary of State</a>
+<a href="{{ site.data.resources.state_sos_websites.AL }}" target="_blank" class="sos-button">Visit Alabama Secretary of State</a>
 
 ## Legal Services
 

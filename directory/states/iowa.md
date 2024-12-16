@@ -31,7 +31,7 @@ Use this directory to find the right professionals to help you with your busines
 
 <a href="{{ '/states/iowa/counties/' | relative_url }}" class="county-directory-button">View Iowa Counties</a>
 
-<a href="https://sos.iowa.gov/" target="_blank" class="sos-button">Visit Iowa Secretary of State</a>
+<a href="{{ site.data.resources.state_sos_websites.IA }}" target="_blank" class="sos-button">Visit Iowa Secretary of State</a>
 
 ## Financial Services
 

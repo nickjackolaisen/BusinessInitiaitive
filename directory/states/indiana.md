@@ -31,7 +31,7 @@ Use this directory to find the right professionals to help you with your busines
 
 <a href="{{ '/states/indiana/counties/' | relative_url }}" class="county-directory-button">View Indiana Counties</a>
 
-<a href="https://www.in.gov/sos/business/" target="_blank" class="sos-button">Visit Indiana Secretary of State</a>
+<a href="{{ site.data.resources.state_sos_websites.IN }}" target="_blank" class="sos-button">Visit Indiana Secretary of State</a>
 
 ## Financial Services
 

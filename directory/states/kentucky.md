@@ -31,7 +31,7 @@ Use this directory to find the right professionals to help you with your busines
 
 <a href="{{ '/states/kentucky/counties/' | relative_url }}" class="county-directory-button">View Kentucky Counties</a>
 
-<a href="https://www.sos.ky.gov/bus/Pages/default.aspx" target="_blank" class="sos-button">Visit Kentucky Secretary of State</a>
+<a href="{{ site.data.resources.state_sos_websites.KY }}" target="_blank" class="sos-button">Visit Kentucky Secretary of State</a>
 
 ## Financial Services
 

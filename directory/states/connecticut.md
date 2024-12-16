@@ -31,7 +31,7 @@ Use this directory to find the right professionals to help you with your busines
 
 <a href="{{ '/states/connecticut/counties/' | relative_url }}" class="county-directory-button">View Connecticut Counties</a>
 
-<a href="https://portal.ct.gov/SOTS/Business-Services/Business-Services" target="_blank" class="sos-button">Visit Connecticut Secretary of State</a>
+<a href="{{ site.data.resources.state_sos_websites.CT }}" target="_blank" class="sos-button">Visit Connecticut Secretary of State</a>
 
 ## Financial Services
 
