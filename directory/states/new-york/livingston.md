@@ -10,11 +10,14 @@ permalink: /states/new-york/livingston/
 
 <p>Starting an LLC in Livingston County, New York involves several steps and it can get tricky at times.</p>
 
-<p>We offer comprehensive services to streamline the process. Business Initiative will take care of everything for you, ensuring a hassle-free experience. Our team of experts will handle all the necessary paperwork and legal requirements of starting your business, so you can focus on running it.</p>
-
-<p>Check our <a href="/services/">pricing page</a> for more information on our services.</p>
+<p>We offer comprehensive services to streamline the process.</p>
 
 <p>If you prefer to do it yourself, below is a simplified guide to help you through the process:</p>
+
+<p>Business Initiative will take care of everything for you, ensuring a hassle-free experience. Our team of experts will handle all the initial setup and legal requirements of starting your business, so you can focus on running it.</p>
+
+<p>Check our <a href="/services/">pricing page</a> for more information on our services.</p>
+<p><b>Purchase your package before 1:00 PM EST to get your LLC filings submitted today!</b></p>
 
 <h3>1. Choose a Name for Your LLC</h3>
 <p>Your LLC's name must be distinguishable from other business entities registered in New York. You can check name availability on the New York Secretary of State's website.</p>
@@ -41,10 +44,12 @@ permalink: /states/new-york/livingston/
 <h3>7. File Annual Reports</h3>
 <p>New York requires LLCs to file an annual report. Ensure you comply with this requirement to maintain good standing.</p>
 
-Some states also require quarterly reports. So make sure to double check with the New York Secretary of State.
+<p>Some states also require quarterly reports. So make sure to double check with the New York Secretary of State.</p>
 
 <p>For more detailed information, you can visit the <a href="{{ site.data.resources.state_sos_websites.new-york }}" target="_blank">Secretary of State's website</a>.</p>
 
 <h3>Ready to Take Initiative?</h3>
 <p>For detailed pricing information on forming an LLC in New York, visit our <a href="/services/">Services Page</a>.</p>
+<p><b>All orders placed before 1:00 PM EST will be submitted that day!</b></p>
+<br>
 <p>If you have any questions or need assistance, please don't hesitate to <a href="https://www.businessinitiative.org/contact/" target="_blank">contact us</a>.</p>
