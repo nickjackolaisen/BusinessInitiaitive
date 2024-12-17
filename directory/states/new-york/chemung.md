@@ -3,7 +3,8 @@ layout: page
 title: How to Start an LLC in Chemung County, New York
 permalink: /states/new-york/chemung/
 ---
-<a href="{ site.data.resources.state_sos_websites.new-york }" target="_blank">
+
+<a href="{{ site.data.resources.state_sos_websites.new-york }}" target="_blank">
     <img src="/images/state-seals/new-york-seal.png" alt="New York State Seal" style="display: block; margin: 10px auto; width: 100px;">
 </a>
 
