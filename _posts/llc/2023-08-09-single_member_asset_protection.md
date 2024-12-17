@@ -2,7 +2,7 @@
 title: "Single-Member LLCs - What You Need to Know to Protect Your Assets"
 layout: post
 date: 2023-08-09
-update_date: 2024-07-16
+update_date: 2024-12-17
 author: jack_nicholaisen
 summary: "Explore single-member LLCs: personal liability, tax, asset separation. Get tips for good standing & avoiding legal issues. Empower your success."
 permalink: /llc/single-member/asset-protection/
@@ -32,7 +32,7 @@ Courts may "pierce the corporate veil" and hold the single-member LLC owner pers
 
 To avoid this, it's important to maintain a clear separation between your personal and business finances, as well as following other best practices like holding regular meetings and maintaining proper records.
 
-In [Martin v. Freeman](https://law.justia.com/cases/north-carolina/court-of-appeals/2011/11-139.html), the North Carolina Court of Appeals held the single-member LLC owner personally liable for a real estate deal gone wrong. 
+In <a href="https://law.justia.com/cases/north-carolina/court-of-appeals/2011/11-139.html" target="_blank">Martin v. Freeman</a>, the North Carolina Court of Appeals held the single-member LLC owner personally liable for a real estate deal gone wrong. 
 
 The court found that the owner had commingled his personal and business funds, and the LLC was essentially his "alter ego."
 
@@ -41,7 +41,7 @@ The court found that the owner had commingled his personal and business funds, a
 A single-member LLC is considered a "disregarded entity" for tax purposes, meaning that the IRS treats it as a sole proprietorship. 
 
 <p>
-<b>➤ MORE: </b> <a href="/sole-proprietorship/" target="_blank">Learn about the simplest business you can run!</a>
+<b>➤ MORE: </b><a href="https://www.businessinitiative.org/comparison/sole-proprietorship-vs-llc/which-is-better/" target="_blank">Sole Proprietorship vs LLC comparison: which is better?</a>
 </p>
 
 This means the LLC owner reports their business income and expenses on their personal tax return (Schedule C). 
@@ -50,7 +50,7 @@ While this simplifies tax filing, it also means that the business owner pays sel
 
 Alternatively, a single-member LLC can elect to be taxed as an S corporation, potentially saving on self-employment taxes. 
 
-This requires filing IRS [Form 2553](https://www.irs.gov/forms-pubs/about-form-2553) and adhering to S corporation requirements, such as paying yourself a reasonable salary.
+This requires filing IRS <a href="https://www.irs.gov/forms-pubs/about-form-2553" target="_blank">Form 2553</a> and adhering to S corporation requirements, such as paying yourself a reasonable salary.
 
 Let's say Sarah owns a graphic design business as a single-member LLC. 
 
@@ -101,6 +101,20 @@ Here are some practical tips for maintaining your company's good standing and av
 
 By implementing these strategies, you can further safeguard your personal assets while running your single-member LLC.
 
+## FAQs - Frequently Asked Questions About Single-Member LLC Asset Protection
+
+<center>
+<img alt="Business FAQs" src="/images/content/faqs-section.png" title="Common Business Questions" style="width: 63%; height: 63%">
+</center>
+
+<br>
+
+<link rel="stylesheet" href="/assets/css/faq-styles.css">
+
+{% include faq-template.html faq_data="faq_llc_single_member_asset_protection" %}
+
+<br>
+
 ## In Summary...
 
 As a single-member LLC owner or aspiring entrepreneur, it's essential to understand the unique challenges and opportunities that come with this business structure.
@@ -113,11 +127,11 @@ Educate yourself and take action to ensure your single-member LLC thrives.
 
 You're not alone.. Business Initiative is here to help you through this process!
 
-[Schedule a consultation call](https://calendly.com/businessinitiative/30-minute-consultation-call) and let's make sure your assets are secure!
+<a href="https://calendly.com/businessinitiative/30-minute-consultation-call" target="_blank">Schedule a consultation call</a> and let's make sure your assets are secure!
 
 **Have questions?**
 
-[Reach out here](https://www.businessinitiative.org/contact/) or send us a DM [@BisInitiative on X](https://x.com/BisInitiative)
+<a href="https://www.businessinitiative.org/contact/" target="_blank">Reach out here</a> or send us a DM <a href="https://x.com/BisInitiative" target="_blank">@BisInitiative on X</a>
 
 <iframe src="https://embeds.beehiiv.com/4b55f309-919b-4f27-82e1-28bfbbc3543f" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
 
