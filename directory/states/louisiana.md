@@ -31,7 +31,7 @@ Use this directory to find the right professionals to help you with your busines
 
 <a href="{{ '/states/louisiana/counties/' | relative_url }}" class="county-directory-button">View Louisiana Counties</a>
 
-<a href="{{ site.data.resources.state_sos_websites['louisiana'] }}" target="_blank" class="sos-button">Visit Louisiana Secretary of State</a>
+<a href="{{ site.data.resources.state_sos_websites.louisiana }}" target="_blank" class="sos-button">Visit Louisiana Secretary of State</a>
 
 ## Financial Services
 
