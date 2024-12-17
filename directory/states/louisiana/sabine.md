@@ -36,7 +36,7 @@ permalink: /states/louisiana/sabine/
 
 <h3>7. File Annual Reports</h3>
 <p>Louisiana requires LLCs to file an annual report. Ensure you comply with this requirement to maintain good standing.</p>
-<p>For more detailed information, you can visit the <a href="{ site.data.resources.state_sos_websites.louisiana }" target="_blank">Secretary of State's website</a>.</p>
+<p>For more detailed information, you can visit the <a href="{{ site.data.resources.state_sos_websites.louisiana }}" target="_blank">Secretary of State's website</a>.</p>
 
 <h3>Explore Pricing Options</h3>
 <p>For detailed pricing information on forming an LLC in Louisiana, visit our <a href="/services/">Services Page</a>.</p>
