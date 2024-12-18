@@ -157,7 +157,7 @@
         "link": "https://checkout.businessinitiative.org/b/00gfZogTp22Nd568wS",
         "image": "/images/services/new-york/ny-foreign-corp.jpg",
         "ctaText": "Amend Address",
-        "category": "Modification"
+        "category": ["Modification", "Closure"]
     },
     {
         "entity": "Foreign Corporation",
@@ -187,7 +187,7 @@
         "link": "https://checkout.businessinitiative.org/b/8wM4gG5aH22N4yA00D",
         "image": "/images/services/new-york/ny-domestic-llc.jpg",
         "ctaText": "Merge Now",
-        "category": "Modification"
+        "category": "Merger"
     },
     {
         "entity": "Domestic LLC",
@@ -297,7 +297,7 @@
         "link": "https://checkout.businessinitiative.org/b/3cs5kKbz5dLv0ikaFd",
         "image": "/images/services/new-york/ny-domestic-llc.jpg",
         "ctaText": "Convert Now",
-        "category": "Registration"
+        "category": ["Registration", "Modification"]
     },
     {
         "entity": "Domestic LLC",
@@ -307,7 +307,7 @@
         "link": "https://checkout.businessinitiative.org/b/3csbJ846D7n73uwaFe",
         "image": "/images/services/new-york/ny-domestic-llc.jpg",
         "ctaText": "Get DBA",
-        "category": "Registration"
+        "category": ["Registration", "Modification"]
     },
     {
         "entity": "Domestic LLC",
@@ -327,6 +327,6 @@
         "link": "https://checkout.businessinitiative.org/b/eVa6oOcD9ePzghi3cO",
         "image": "/images/services/new-york/ny-domestic-llc.jpg",
         "ctaText": "End DBA",
-        "category": "Closure"
+        "category": ["Closure", "Modification"]
     }
 ]
