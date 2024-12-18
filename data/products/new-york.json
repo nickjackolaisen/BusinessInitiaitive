@@ -582,7 +582,7 @@
     {
         "entity": "Foreign LLP",
         "service": "Certificate of Change",
-        "price": "$150",
+        "price": "$20",
         "description": "Prevent missed legal notices and maintain compliance by quickly updating your LLP's contact information and registered agent details.",
         "link": "https://checkout.businessinitiative.org/b/3cs7sS32z5eZ5CEaFH",
         "image": "/images/services/new-york/ny-foreign-llp.jpg",
@@ -592,7 +592,7 @@
     {
         "entity": "Foreign LLP",
         "service": "Resignation for Receipt of Process",
-        "price": "$125",
+        "price": "$30",
         "description": "Maintain uninterrupted legal compliance while changing registered agents with proper documentation and state notification.",
         "link": "https://checkout.businessinitiative.org/b/7sIbJ8bz5fTDghi9BE",
         "image": "/images/services/new-york/ny-foreign-llp.jpg",
@@ -602,11 +602,251 @@
     {
         "entity": "Foreign LLP",
         "service": "Certificate of Withdrawal",
-        "price": "$175",
+        "price": "$125",
         "description": "Properly close New York operations while preventing future tax obligations and maintaining your LLP's status in other states.",
         "link": "https://checkout.businessinitiative.org/b/4gw8wWbz5fTD3uweVZ",
         "image": "/images/services/new-york/ny-foreign-llp.jpg",
         "ctaText": "Withdraw Now", 
         "category": "Closure"
+    },
+    {
+        "entity": "Domestic LP",
+        "service": "Certificate of Limited Partnership",
+        "price": "$500",
+        "description": "Officially establish your Limited Partnership (LP) in New York, ensuring compliance with the Revised Limited Partnership Act and protecting your business structure.",
+        "link": "https://checkout.businessinitiative.org/b/bIYfZoeLh36R9SU7ty",
+        "image": "/images/services/new-york/ny-domestic-lp.jpg",
+        "ctaText": "Establish LP",
+        "category": "Registration"
+    },
+    {
+        "entity": "Domestic LP",
+        "service": "Certificate of Publication",
+        "price": "$125",
+        "description": "Comply with New York transparency laws by publishing a notice of your LP's formation in two newspapers within the required timeframe.",
+        "link": "https://checkout.businessinitiative.org/b/7sI6oO0UrdLv1moaFL",
+        "image": "/images/services/new-york/ny-domestic-lp.jpg",
+        "ctaText": "Publish Notice",
+        "category": "Registration"
+    },
+    {
+        "entity": "Domestic LP",
+        "service": "News Paper 6 Week Affidavit",
+        "price": "$500",
+        "description": "Obtain certified proof that your LP has met the six-week publication requirement, preventing registration issues and maintaining good standing.",
+        "link": "https://checkout.businessinitiative.org/b/14kdRg1YvfTDfde15c",
+        "image": "/images/services/new-york/ny-domestic-lp.jpg",
+        "ctaText": "Get Affidavit",
+        "category": "Registration"
+    },
+    {
+        "entity": "Domestic LP",
+        "service": "Certificate of Amendment",
+        "price": "$175",
+        "description": "Update your LP's Certificate of Limited Partnership to reflect changes in name, purpose, or partners, ensuring compliance with state regulations.",
+        "link": "https://checkout.businessinitiative.org/b/5kAeVkcD96j3fde9BJ",
+        "image": "/images/services/new-york/ny-domestic-lp.jpg",
+        "ctaText": "Update Records",
+        "category": "Modification"
+    },
+    {
+        "entity": "Domestic LP",
+        "service": "Certificate of Amendment (name change only)",
+        "price": "$125",
+        "description": "Specifically change the legal name of your LP, ensuring that the partnership's state records remain accurate and up-to-date.",
+        "link": "https://checkout.businessinitiative.org/b/fZe5kK32zazj7KM15e",
+        "image": "/images/services/new-york/ny-domestic-lp.jpg",
+        "ctaText": "Change Name",
+        "category": "Modification"
+    },
+    {
+        "entity": "Domestic LP",
+        "service": "Certificate of Change",
+        "price": "$150",
+        "description": "Update your LP's designated address, county location, or registered agent information to maintain accurate and current legal records.",
+        "link": "https://checkout.businessinitiative.org/b/5kAaF432zfTD7KMg09",
+        "image": "/images/services/new-york/ny-domestic-lp.jpg",
+        "ctaText": "Update Info",
+        "category": "Modification"
+    },
+    {
+        "entity": "Domestic LP",
+        "service": "Resignation for Receipt of Process",
+        "price": "$30",
+        "description": "Allow your registered agent or designated addressee to resign, ensuring your LP can designate a new representative without interruption.",
+        "link": "https://checkout.businessinitiative.org/b/4gw28y9qXdLvc12cNY",
+        "image": "/images/services/new-york/ny-domestic-lp.jpg",
+        "ctaText": "Update Agent",
+        "category": ["Modification", "Closure"]
+    },
+    {
+        "entity": "Domestic LP",
+        "service": "Certificate of Cancellation",
+        "price": "$150",
+        "description": "Officially cancel your Certificate of Limited Partnership after dissolution or winding up, relieving your partnership of further compliance obligations.",
+        "link": "https://checkout.businessinitiative.org/b/14k14u6eL0YJe9a5lx",
+        "image": "/images/services/new-york/ny-domestic-lp.jpg",
+        "ctaText": "Cancel LP",
+        "category": "Closure"
+    },
+    {
+        "entity": "Domestic LP",
+        "service": "Certificate of Merger",
+        "price": "$175",
+        "description": "Facilitate the legal merger or consolidation of multiple LPs or other business entities, streamlining operations and consolidating assets.",
+        "link": "https://checkout.businessinitiative.org/b/00g8wWav14aV7KM4hu",
+        "image": "/images/services/new-york/ny-domestic-lp.jpg",
+        "ctaText": "Merge LPs",
+        "category": "Merger"
+    },
+    {
+        "entity": "Domestic LP",
+        "service": "DBA",
+        "price": "$60",
+        "description": "Operate your LP under an alternate name without forming a separate entity, offering flexibility for branding and business operations.",
+        "link": "https://checkout.businessinitiative.org/b/fZe3cCdHd9vfe9abJX",
+        "image": "/images/services/new-york/ny-domestic-lp.jpg",
+        "ctaText": "Register DBA",
+        "category": "Registration"
+    },
+    {
+        "entity": "Domestic LP",
+        "service": "DBA Amendment",
+        "price": "$60",
+        "description": "Update or modify your DBA registration to ensure the alternate business name is accurate and compliant with state requirements.",
+        "link": "https://checkout.businessinitiative.org/b/cN26oObz5ePz5CE9BQ",
+        "image": "/images/services/new-york/ny-domestic-lp.jpg",
+        "ctaText": "Amend DBA",
+        "category": "Modification"
+    },
+    {
+        "entity": "Domestic LP",
+        "service": "DBA Discontinuance",
+        "price": "$50",
+        "description": "Officially terminate your LP's DBA registration, removing the alternate name from state records and eliminating further obligations under that name.",
+        "link": "https://checkout.businessinitiative.org/b/cN28wW0UrgXHc129BR",
+        "image": "/images/services/new-york/ny-domestic-lp.jpg",
+        "ctaText": "Discontinue DBA",
+        "category": "Closure"
+    },
+    {
+        "entity": "Foreign LP",
+        "service": "Resignation for Receipt of Process",
+        "price": "$30",
+        "description": "Enable your registered agent or designated addressee to resign, ensuring your foreign LP can designate a new representative without interruption.",
+        "link": "https://checkout.businessinitiative.org/b/eVa5kK1Yv7n70ikbK0",
+        "image": "/images/services/new-york/ny-foreign-lp.jpg",
+        "ctaText": "Update Agent",
+        "category": ["Modification", "Closure"]
+    },
+    {
+        "entity": "Foreign LP",
+        "service": "Certificate of Merger",
+        "price": "$175",
+        "description": "Officially merge your foreign LP with another LP or business entity, consolidating operations and ensuring legal compliance across jurisdictions.",
+        "link": "https://checkout.businessinitiative.org/b/aEU9B032z22NfdedS9",
+        "image": "/images/services/new-york/ny-foreign-lp.jpg",
+        "ctaText": "Merge LPs",
+        "category": "Merger"
+    },
+    {
+        "entity": "Foreign LP",
+        "service": "DBA",
+        "price": "$60",
+        "description": "Operate your foreign LP under an alternate name in New York, providing flexibility in branding and business representation.",
+        "link": "https://checkout.businessinitiative.org/b/8wMdRg46D0YJfdeaFY",
+        "image": "/images/services/new-york/ny-foreign-lp.jpg",
+        "ctaText": "Register DBA",
+        "category": ["Registration", "Modification"]
+    },
+    {
+        "entity": "Foreign LP",
+        "service": "DBA Amendment",
+        "price": "$60",
+        "description": "Update or modify your DBA registration to reflect changes in your alternate business name, ensuring compliance with New York regulations.",
+        "link": "https://checkout.businessinitiative.org/b/cN27sSdHd7n71mo5lF",
+        "image": "/images/services/new-york/ny-foreign-lp.jpg",
+        "ctaText": "Amend DBA",
+        "category": "Modification"
+    },
+    {
+        "entity": "Foreign LP",
+        "service": "DBA Discontinuance",
+        "price": "$50",
+        "description": "Officially remove your foreign LP's DBA registration from New York records, terminating its use of an alternate business name in the state.",
+        "link": "https://checkout.businessinitiative.org/b/28o6oO6eL8rbghi8xS",
+        "image": "/images/services/new-york/ny-foreign-lp.jpg",
+        "ctaText": "Discontinue DBA",
+        "category": "Closure"
+    },
+    {
+        "entity": "Foreign LP",
+        "service": "Termination of Existence",
+        "price": "$125",
+        "description": "Confirm the legal termination of your foreign LP's existence due to dissolution, merger, or cancellation of its authority to conduct business, removing it from New York's records.",
+        "link": "https://checkout.businessinitiative.org/b/5kAeVk5aH8rb8OQaG1",
+        "image": "/images/services/new-york/ny-foreign-lp.jpg",
+        "ctaText": "Terminate LP",
+        "category": "Closure"
+    },
+    {
+        "entity": "Foreign LP",
+        "service": "Surrender of Authority",
+        "price": "$175",
+        "description": "Officially surrender your foreign LP's authority to conduct business in New York while remaining active in its home state, relieving it of compliance obligations in New York.",
+        "link": "https://checkout.businessinitiative.org/b/9AQcNcfPlePz5CE6pM",
+        "image": "/images/services/new-york/ny-foreign-lp.jpg",
+        "ctaText": "Surrender Authority",
+        "category": "Closure"
+    },
+    {
+        "entity": "Foreign LP",
+        "service": "Certificate of Publication",
+        "price": "$125",
+        "description": "Comply with New York's legal requirements by publishing a notice of your foreign LP's registration in two newspapers, ensuring public awareness of its presence in the state.",
+        "link": "https://checkout.businessinitiative.org/b/6oE8wW46DgXHaWYbK7",
+        "image": "/images/services/new-york/ny-foreign-lp.jpg",
+        "ctaText": "Publish Notice",
+        "category": "Registration"
+    },
+    {
+        "entity": "Foreign LP",
+        "service": "News Paper 6 Week Affidavit",
+        "price": "$500",
+        "description": "Obtain certified proof that your foreign LP has met the six-week publication requirement, preventing registration issues and maintaining good standing.",
+        "link": "https://checkout.businessinitiative.org/b/aEUeVk7iPePze9a3dC",
+        "image": "/images/services/new-york/ny-foreign-lp.jpg",
+        "ctaText": "Get Affidavit",
+        "category": "Registration"
+    },
+    {
+        "entity": "Foreign LP",
+        "service": "Certificate of Change",
+        "price": "$150",
+        "description": "Update your foreign LP's designated address, county location, or registered agent information to ensure accurate and up-to-date state records.",
+        "link": "https://checkout.businessinitiative.org/b/00g8wWav10YJghi15v",
+        "image": "/images/services/new-york/ny-foreign-lp.jpg",
+        "ctaText": "Update Info",
+        "category": "Modification"
+    },
+    {
+        "entity": "Foreign LP",
+        "service": "Certificate of Amendment",
+        "price": "$175",
+        "description": "Update your foreign LP's registration information, such as the partnership name or purpose, ensuring compliance with New York's legal requirements as changes occur.",
+        "link": "https://checkout.businessinitiative.org/b/4gw6oO8mTazjfde5lM",
+        "image": "/images/services/new-york/ny-foreign-lp.jpg",
+        "ctaText": "Update Records",
+        "category": "Modification"
+    },
+    {
+        "entity": "Foreign LP",
+        "service": "Application for Authority",
+        "price": "$500",
+        "description": "Legally operate your foreign LP within New York State by registering with the Department of State, ensuring compliance with local laws and regulations.",
+        "link": "https://checkout.businessinitiative.org/b/14k9B032z6j3e9abKb",
+        "image": "/images/services/new-york/ny-foreign-lp.jpg",
+        "ctaText": "Apply Now",
+        "category": "Registration"
     }
 ]
