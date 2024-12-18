@@ -328,5 +328,145 @@
         "image": "/images/services/new-york/ny-domestic-llc.jpg",
         "ctaText": "End DBA",
         "category": ["Closure", "Modification"]
+    },
+    {
+        "entity": "Foreign LLC",
+        "service": "Certificate of Correction",
+        "price": "$150",
+        "description": "Avoid legal issues and maintain compliance by fixing errors in your LLC's filed documents quickly and accurately.",
+        "link": "https://checkout.businessinitiative.org/b/9AQdRg8mT22NaWY4h6",
+        "image": "/images/services/new-york/ny-foreign-llc.jpg",
+        "ctaText": "Fix Errors",
+        "category": "Modification"
+    },
+    {
+        "entity": "Foreign LLC", 
+        "service": "Certificate of Merger",
+        "price": "$175",
+        "description": "Reduce overhead costs and simplify operations by legally combining multiple LLCs into one streamlined entity.",
+        "link": "https://checkout.businessinitiative.org/b/5kA28y32z9vf0ik4h7",
+        "image": "/images/services/new-york/ny-foreign-llc.jpg",
+        "ctaText": "Merge Now",
+        "category": "Merger"
+    },
+    {
+        "entity": "Foreign LLC",
+        "service": "Application for Authority",
+        "price": "$600",
+        "description": "Start operating legally in New York while maintaining your home state registration with proper authorization.",
+        "link": "https://checkout.businessinitiative.org/b/6oE9B0cD9azj9SU4gU",
+        "image": "/images/services/new-york/ny-foreign-llc.jpg",
+        "ctaText": "Get Authority",
+        "category": "Registration"
+    },
+    {
+        "entity": "Foreign LLC",
+        "service": "Application for Authority Professional",
+        "price": "$500",
+        "description": "Save time and avoid costly mistakes with expert assistance filing your New York authority application.",
+        "link": "https://checkout.businessinitiative.org/b/cN2bJ8av18rb3uweVz",
+        "image": "/images/services/new-york/ny-foreign-llc.jpg",
+        "ctaText": "Get Expert Help",
+        "category": "Registration"
+    },
+    {
+        "entity": "Foreign LLC",
+        "service": "Certificate of Publication",
+        "price": "$125",
+        "description": "Meet New York's strict publication requirements and avoid penalties with proper newspaper notices.",
+        "link": "https://checkout.businessinitiative.org/b/5kAfZo32zePz6GI3cS",
+        "image": "/images/services/new-york/ny-foreign-llc.jpg",
+        "ctaText": "Publish Notice",
+        "category": "Registration"
+    },
+    {
+        "entity": "Foreign LLC",
+        "service": "Certificate of Publication Professional",
+        "price": "$125",
+        "description": "Save time and ensure compliance with expert handling of all publication requirements and newspaper coordination.",
+        "link": "https://checkout.businessinitiative.org/b/28o9B0dHd9vf9SU14L",
+        "image": "/images/services/new-york/ny-foreign-llc.jpg",
+        "ctaText": "Get Help",
+        "category": "Registration"
+    },
+    {
+        "entity": "Foreign LLC",
+        "service": "News Paper 6 week Affidavit",
+        "price": "$500",
+        "description": "Complete your formation requirements with verified proof of your six-week publication notice.",
+        "link": "https://checkout.businessinitiative.org/b/aEU9B05aHePz1moeVC",
+        "image": "/images/services/new-york/ny-foreign-llc.jpg",
+        "ctaText": "Get Affidavit",
+        "category": "Registration"
+    },
+    {
+        "entity": "Foreign LLC",
+        "service": "Certificate of Amendment",
+        "price": "$175",
+        "description": "Keep your LLC compliant by properly updating your business information as changes occur.",
+        "link": "https://checkout.businessinitiative.org/b/00gfZo8mT6j3c1228R",
+        "image": "/images/services/new-york/ny-foreign-llc.jpg",
+        "ctaText": "Amend Now",
+        "category": "Modification"
+    },
+    {
+        "entity": "Foreign LLC",
+        "service": "Certificate of Change",
+        "price": "$150",
+        "description": "Maintain reliable communication channels by updating your address and agent information promptly.",
+        "link": "https://checkout.businessinitiative.org/b/cN25kKbz58rbd56cNw",
+        "image": "/images/services/new-york/ny-foreign-llc.jpg",
+        "ctaText": "Update Info",
+        "category": "Modification"
+    },
+    {
+        "entity": "Foreign LLC",
+        "service": "Surrender of Authority",
+        "price": "$175",
+        "description": "Cleanly exit the New York market while maintaining operations elsewhere, preventing future liabilities.",
+        "link": "https://checkout.businessinitiative.org/b/bIY5kK8mT7n77KM6p9",
+        "image": "/images/services/new-york/ny-foreign-llc.jpg",
+        "ctaText": "Surrender Now",
+        "category": "Closure"
+    },
+    {
+        "entity": "Foreign LLC",
+        "service": "Termination of Existence",
+        "price": "$125",
+        "description": "Properly close your LLC's New York presence and prevent future compliance issues or liabilities.",
+        "link": "https://checkout.businessinitiative.org/b/4gw6oO9qXfTD1mo9Bm",
+        "image": "/images/services/new-york/ny-foreign-llc.jpg",
+        "ctaText": "Terminate Now",
+        "category": "Closure"
+    },
+    {
+        "entity": "Foreign LLC",
+        "service": "DBA",
+        "price": "$60",
+        "description": "Expand your market presence with multiple brand identities while maintaining a single LLC structure.",
+        "link": "https://checkout.businessinitiative.org/b/00geVk1Yv22N4yA7tf",
+        "image": "/images/services/new-york/ny-foreign-llc.jpg",
+        "ctaText": "Get DBA",
+        "category": ["Registration", "Modification"]
+    },
+    {
+        "entity": "Foreign LLC",
+        "service": "DBA Amendment",
+        "price": "$60",
+        "description": "Keep your brand identity current by updating your DBA information as your business evolves.",
+        "link": "https://checkout.businessinitiative.org/b/6oEbJ8gTp8rb4yA00O",
+        "image": "/images/services/new-york/ny-foreign-llc.jpg",
+        "ctaText": "Update DBA",
+        "category": "Modification"
+    },
+    {
+        "entity": "Foreign LLC",
+        "service": "DBA Discontinuance",
+        "price": "$50",
+        "description": "Cleanly end obligations under an alternate business name while maintaining your core LLC.",
+        "link": "https://checkout.businessinitiative.org/b/8wMeVkgTpbDn2qsbJx",
+        "image": "/images/services/new-york/ny-foreign-llc.jpg",
+        "ctaText": "End DBA",
+        "category": ["Closure", "Modification"]
     }
 ]
