@@ -538,5 +538,75 @@
         "image": "/images/services/new-york/ny-domestic-llp.jpg",
         "ctaText": "Withdraw Now",
         "category": "Closure"
+    },
+    {
+        "entity": "Foreign LLP",
+        "service": "Notice of Registration",
+        "price": "$600",
+        "description": "Avoid costly penalties and legal issues by properly registering your out-of-state LLP to conduct business in New York with full compliance and protection.",
+        "link": "https://checkout.businessinitiative.org/b/14kfZogTp5eZd56dRP",
+        "image": "/images/services/new-york/ny-foreign-llp.jpg",
+        "ctaText": "Register Now",
+        "category": "Registration"
+    },
+    {
+        "entity": "Foreign LLP",
+        "service": "Certificate of Publication",
+        "price": "$125", 
+        "description": "Meet strict publication requirements and avoid operational delays with expert handling of newspaper notices that satisfy New York state law.",
+        "link": "https://checkout.businessinitiative.org/b/6oE14u7iP8rbaWY7ts",
+        "image": "/images/services/new-york/ny-foreign-llp.jpg",
+        "ctaText": "Publish Notice",
+        "category": "Registration"
+    },
+    {
+        "entity": "Foreign LLP",
+        "service": "News Paper 6 Week Affidavit",
+        "price": "$500",
+        "description": "Prevent registration issues and maintain good standing by obtaining certified proof that your LLP has met all publication requirements.",
+        "link": "https://checkout.businessinitiative.org/b/fZe00q6eL0YJ4yA011",
+        "image": "/images/services/new-york/ny-foreign-llp.jpg",
+        "ctaText": "Get Affidavit",
+        "category": "Registration"
+    },
+    {
+        "entity": "Foreign LLP",
+        "service": "Certificate of Amendment",
+        "price": "$175",
+        "description": "Keep your LLP compliant and current by efficiently updating crucial business information without disrupting your operations.",
+        "link": "https://checkout.businessinitiative.org/b/fZefZo9qXcHrd568xy",
+        "image": "/images/services/new-york/ny-foreign-llp.jpg",
+        "ctaText": "Update Records",
+        "category": "Modification"
+    },
+    {
+        "entity": "Foreign LLP",
+        "service": "Certificate of Change",
+        "price": "$150",
+        "description": "Prevent missed legal notices and maintain compliance by quickly updating your LLP's contact information and registered agent details.",
+        "link": "https://checkout.businessinitiative.org/b/3cs7sS32z5eZ5CEaFH",
+        "image": "/images/services/new-york/ny-foreign-llp.jpg",
+        "ctaText": "Update Info",
+        "category": "Modification"
+    },
+    {
+        "entity": "Foreign LLP",
+        "service": "Resignation for Receipt of Process",
+        "price": "$125",
+        "description": "Maintain uninterrupted legal compliance while changing registered agents with proper documentation and state notification.",
+        "link": "https://checkout.businessinitiative.org/b/7sIbJ8bz5fTDghi9BE",
+        "image": "/images/services/new-york/ny-foreign-llp.jpg",
+        "ctaText": "Update Agent",
+        "category": ["Modification", "Closure"]
+    },
+    {
+        "entity": "Foreign LLP",
+        "service": "Certificate of Withdrawal",
+        "price": "$175",
+        "description": "Properly close New York operations while preventing future tax obligations and maintaining your LLP's status in other states.",
+        "link": "https://checkout.businessinitiative.org/b/4gw8wWbz5fTD3uweVZ",
+        "image": "/images/services/new-york/ny-foreign-llp.jpg",
+        "ctaText": "Withdraw Now", 
+        "category": "Closure"
     }
 ]
