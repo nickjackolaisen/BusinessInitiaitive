@@ -178,5 +178,155 @@
         "image": "/images/services/new-york/ny-foreign-corp.jpg",
         "ctaText": "End DBA",
         "category": "Closure"
+    },
+    {
+        "entity": "Domestic LLC",
+        "service": "Certificate of Merger",
+        "price": "$175",
+        "description": "Streamline your business operations and reduce overhead by legally combining multiple LLCs into a single, more efficient entity.",
+        "link": "https://checkout.businessinitiative.org/b/8wM4gG5aH22N4yA00D",
+        "image": "/images/services/new-york/ny-domestic-llc.jpg",
+        "ctaText": "Merge Now",
+        "category": "Modification"
+    },
+    {
+        "entity": "Domestic LLC",
+        "service": "Articles of Organization",
+        "price": "$500",
+        "description": "Gain immediate liability protection and tax flexibility by establishing your LLC's legal structure in New York.",
+        "link": "https://checkout.businessinitiative.org/b/3cs14u8mTazj5CE8wV",
+        "image": "/images/services/new-york/ny-domestic-llc.jpg",
+        "ctaText": "Form LLC",
+        "category": "Registration"
+    },
+    {
+        "entity": "Domestic LLC",
+        "service": "Articles of Organization Professional",
+        "price": "$450",
+        "description": "Save time and ensure compliance with expert guidance through the LLC formation process, avoiding common pitfalls.",
+        "link": "https://checkout.businessinitiative.org/b/3cs00q5aH7n71mocNc",
+        "image": "/images/services/new-york/ny-domestic-llc.jpg",
+        "ctaText": "Get Expert Help",
+        "category": "Registration"
+    },
+    {
+        "entity": "Domestic LLC",
+        "service": "Certificate of Publication",
+        "price": "$125",
+        "description": "Maintain your LLC's good standing by meeting New York's publication requirements efficiently and on time.",
+        "link": "https://checkout.businessinitiative.org/b/14kaF4cD9cHrfdeaF5",
+        "image": "/images/services/new-york/ny-domestic-llc.jpg",
+        "ctaText": "Publish Notice",
+        "category": "Registration"
+    },
+    {
+        "entity": "Domestic LLC",
+        "service": "Certificate of Publication Professional",
+        "price": "$125",
+        "description": "Save time and ensure compliance by letting experts handle your PLLC's publication requirements from start to finish.",
+        "link": "https://checkout.businessinitiative.org/b/6oE28ygTpgXH3uwbJa",
+        "image": "/images/services/new-york/ny-domestic-llc.jpg",
+        "ctaText": "Get Professional Help",
+        "category": "Registration"
+    },
+    {
+        "entity": "Domestic LLC",
+        "service": "News Paper 6 Week Affidavit",
+        "price": "$500",
+        "description": "Complete your formation requirements with proof of publication that meets all state requirements.",
+        "link": "https://checkout.businessinitiative.org/b/bIYcNc46DfTDe9abJb",
+        "image": "/images/services/new-york/ny-domestic-llc.jpg",
+        "ctaText": "Get Affidavit",
+        "category": "Registration"
+    },
+    {
+        "entity": "Domestic LLC",
+        "service": "Certificate of Amendment",
+        "price": "$175",
+        "description": "Keep your business current by easily updating your LLC's name, purpose, or other vital information as your company grows.",
+        "link": "https://checkout.businessinitiative.org/b/28o00qav1gXH3uw28C",
+        "image": "/images/services/new-york/ny-domestic-llc.jpg",
+        "ctaText": "Update Now",
+        "category": "Modification"
+    },
+    {
+        "entity": "Domestic LLC",
+        "service": "Certificate of Amendment (name change only)",
+        "price": "$125",
+        "description": "Quickly align your legal name with your brand identity through a streamlined name change process.",
+        "link": "https://checkout.businessinitiative.org/b/eVa14u5aH7n7fde8x1",
+        "image": "/images/services/new-york/ny-domestic-llc.jpg",
+        "ctaText": "Change Name",
+        "category": "Modification"
+    },
+    {
+        "entity": "Domestic LLC",
+        "service": "Certificate of Change",
+        "price": "$150",
+        "description": "Maintain seamless communication with authorities by keeping your LLC's contact and location information current.",
+        "link": "https://checkout.businessinitiative.org/b/3cs9B0cD9fTD2qs5kQ",
+        "image": "/images/services/new-york/ny-domestic-llc.jpg",
+        "ctaText": "Update Info",
+        "category": "Modification"
+    },
+    {
+        "entity": "Domestic LLC",
+        "service": "Certificate of Correction",
+        "price": "$150",
+        "description": "Protect your LLC's legal standing by promptly fixing errors in your filed documents.",
+        "link": "https://checkout.businessinitiative.org/b/3cseVk5aH6j36GIcNj",
+        "image": "/images/services/new-york/ny-domestic-llc.jpg",
+        "ctaText": "Fix Errors",
+        "category": "Modification"
+    },
+    {
+        "entity": "Domestic LLC",
+        "service": "Articles of Dissolution",
+        "price": "$125",
+        "description": "Cleanly end your LLC's obligations and prevent future liabilities with a proper legal dissolution.",
+        "link": "https://checkout.businessinitiative.org/b/28o4gG6eLgXH7KMbJg",
+        "image": "/images/services/new-york/ny-domestic-llc.jpg",
+        "ctaText": "Dissolve LLC",
+        "category": "Closure"
+    },
+    {
+        "entity": "Domestic LLC",
+        "service": "Certificate of Conversion",
+        "price": "$500",
+        "description": "Upgrade your business structure to gain LLC benefits while maintaining business continuity.",
+        "link": "https://checkout.businessinitiative.org/b/3cs5kKbz5dLv0ikaFd",
+        "image": "/images/services/new-york/ny-domestic-llc.jpg",
+        "ctaText": "Convert Now",
+        "category": "Registration"
+    },
+    {
+        "entity": "Domestic LLC",
+        "service": "DBA",
+        "price": "$60",
+        "description": "Expand your market presence with multiple brand identities while maintaining a single LLC structure.",
+        "link": "https://checkout.businessinitiative.org/b/3csbJ846D7n73uwaFe",
+        "image": "/images/services/new-york/ny-domestic-llc.jpg",
+        "ctaText": "Get DBA",
+        "category": "Registration"
+    },
+    {
+        "entity": "Domestic LLC",
+        "service": "DBA Amendment",
+        "price": "$60",
+        "description": "Keep your brand identity current by updating your DBA information as your business evolves.",
+        "link": "https://checkout.businessinitiative.org/b/bIY00qcD98rbd56aFf",
+        "image": "/images/services/new-york/ny-domestic-llc.jpg",
+        "ctaText": "Update DBA",
+        "category": "Modification"
+    },
+    {
+        "entity": "Domestic LLC",
+        "service": "DBA Discontinuance",
+        "price": "$50",
+        "description": "Cleanly end obligations under an alternate business name while maintaining your core LLC.",
+        "link": "https://checkout.businessinitiative.org/b/eVa6oOcD9ePzghi3cO",
+        "image": "/images/services/new-york/ny-domestic-llc.jpg",
+        "ctaText": "End DBA",
+        "category": "Closure"
     }
 ]
