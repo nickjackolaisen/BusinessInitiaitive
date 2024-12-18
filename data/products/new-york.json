@@ -468,5 +468,75 @@
         "image": "/images/services/new-york/ny-foreign-llc.jpg",
         "ctaText": "End DBA",
         "category": ["Closure", "Modification"]
+    },
+    {
+        "entity": "Domestic LLP",
+        "service": "Certificate of Registration",
+        "price": "$500",
+        "description": "Protect your personal assets and gain immediate liability protection by properly registering your LLP in New York, avoiding costly legal issues down the road.",
+        "link": "https://checkout.businessinitiative.org/b/14k00q46DbDn9SU7tl",
+        "image": "/images/services/new-york/ny-domestic-llp.jpg",
+        "ctaText": "Register Now",
+        "category": "Registration"
+    },
+    {
+        "entity": "Domestic LLP",
+        "service": "Certificate of Publication",
+        "price": "$125", 
+        "description": "Avoid penalties and maintain good standing by meeting New York's strict publication requirements efficiently and on time.",
+        "link": "https://checkout.businessinitiative.org/b/14k00q46DbDn9SU7tl",
+        "image": "/images/services/new-york/ny-domestic-llp.jpg",
+        "ctaText": "Publish Notice",
+        "category": "Registration"
+    },
+    {
+        "entity": "Domestic LLP",
+        "service": "News Paper 6 Week Affidavit",
+        "price": "$500",
+        "description": "Complete your formation requirements with proof of publication that meets all state requirements, preventing costly delays and compliance issues.",
+        "link": "https://checkout.businessinitiative.org/b/4gw28yfPl6j3c124ha",
+        "image": "/images/services/new-york/ny-domestic-llp.jpg",
+        "ctaText": "Get Affidavit",
+        "category": "Registration"
+    },
+    {
+        "entity": "Domestic LLP",
+        "service": "Certificate of Amendment",
+        "price": "$175",
+        "description": "Keep your business current and compliant by easily updating your LLP's name, purpose, or other vital information as your partnership grows.",
+        "link": "https://checkout.businessinitiative.org/b/8wM4gG1Yv7n79SUbJD",
+        "image": "/images/services/new-york/ny-domestic-llp.jpg",
+        "ctaText": "Update Now",
+        "category": "Modification"
+    },
+    {
+        "entity": "Domestic LLP",
+        "service": "Certificate of Change",
+        "price": "$150",
+        "description": "Maintain seamless communication with authorities by keeping your LLP's contact and location information current and accurate.",
+        "link": "https://checkout.businessinitiative.org/b/fZe7sSfPlfTD7KM294",
+        "image": "/images/services/new-york/ny-domestic-llp.jpg",
+        "ctaText": "Update Info",
+        "category": "Modification"
+    },
+    {
+        "entity": "Domestic LLP",
+        "service": "Resignation for Receipt of Process",
+        "price": "$125",
+        "description": "Smoothly transition between registered agents while maintaining uninterrupted legal compliance and communication channels.",
+        "link": "https://checkout.businessinitiative.org/b/3cs9B0eLh9vfe9a4hd",
+        "image": "/images/services/new-york/ny-domestic-llp.jpg",
+        "ctaText": "Update Agent",
+        "category": ["Modification", "Closure"]
+    },
+    {
+        "entity": "Domestic LLP",
+        "service": "Certificate of Withdrawal",
+        "price": "$175",
+        "description": "Cleanly end your LLP's obligations in New York while preventing future liabilities and compliance requirements.",
+        "link": "https://checkout.businessinitiative.org/b/6oE5kK1Yv22Nd56fZW",
+        "image": "/images/services/new-york/ny-domestic-llp.jpg",
+        "ctaText": "Withdraw Now",
+        "category": "Closure"
     }
 ]
