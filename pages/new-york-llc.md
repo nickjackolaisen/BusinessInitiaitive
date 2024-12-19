@@ -5,7 +5,22 @@ summary: "Expert New York Limited Liability Company formation service handling e
 permalink: /services/new-york-llc/
 ---
 
-<h2><b>Frustrated with the Complex Process of Starting a New York LLC?</b></h2>
+<div style="text-align: center; margin: 30px 0;">
+    <a href="/checkout/">
+        <img src="/images/state-seals/NY-seal.png" 
+             alt="New York State Seal" 
+             style="width: 200px; 
+                    cursor: pointer;
+                    border-radius: 50%;
+                    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+                    transition: transform 0.2s, box-shadow 0.2s;
+                    margin-bottom: 15px;"
+             onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 6px 12px rgba(0,0,0,0.3)';"
+             onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 8px rgba(0,0,0,0.2)';">
+    </a>
+</div>
+
+<h3><b>Frustrated with the Complex Process of Starting a New York LLC?</b></h3>
 
 <p>You're not alone. Many entrepreneurs get overwhelmed by New York's strict LLC formation requirements, confusing paperwork, and hidden costs. One small mistake can lead to delays, penalties, or even legal issues down the road.</p>
 
@@ -20,46 +35,46 @@ permalink: /services/new-york-llc/
 </ul>
 
 <h2>Why Choose Professional Formation?</h2>
+<div style="text-align: center;">
+    <table style="width: 100%; border-collapse: collapse; margin: 20px auto;">
+        <tr style="background-color: #f8f9fa;">
+            <th style="padding: 10px; border: 1px solid #dee2e6;">DIY Formation</th>
+            <th style="padding: 10px; border: 1px solid #dee2e6;">Business Initiative Service</th>
+        </tr>
+        <tr>
+            <td style="padding: 10px; border: 1px solid #dee2e6;">❌ Hours of research needed</td>
+            <td style="padding: 10px; border: 1px solid #dee2e6;">✅ Everything handled for you</td>
+        </tr>
+        <tr>
+            <td style="padding: 10px; border: 1px solid #dee2e6;">❌ Risk of mistakes & delays</td>
+            <td style="padding: 10px; border: 1px solid #dee2e6;">✅ Guaranteed accuracy</td>
+        </tr>
+        <tr>
+            <td style="padding: 10px; border: 1px solid #dee2e6;">❌ Publication headaches</td>
+            <td style="padding: 10px; border: 1px solid #dee2e6;">✅ Full publication management</td>
+        </tr>
+    </table>
+</div>
 
-<table style="width: 100%; border-collapse: collapse; margin: 20px 0;">
-    <tr style="background-color: #f8f9fa;">
-        <th style="padding: 10px; border: 1px solid #dee2e6;">DIY Formation</th>
-        <th style="padding: 10px; border: 1px solid #dee2e6;">Business Initiative Service</th>
-    </tr>
-    <tr>
-        <td style="padding: 10px; border: 1px solid #dee2e6;">❌ Hours of research needed</td>
-        <td style="padding: 10px; border: 1px solid #dee2e6;">✅ Everything handled for you</td>
-    </tr>
-    <tr>
-        <td style="padding: 10px; border: 1px solid #dee2e6;">❌ Risk of mistakes & delays</td>
-        <td style="padding: 10px; border: 1px solid #dee2e6;">✅ Guaranteed accuracy</td>
-    </tr>
-    <tr>
-        <td style="padding: 10px; border: 1px solid #dee2e6;">❌ Publication headaches</td>
-        <td style="padding: 10px; border: 1px solid #dee2e6;">✅ Full publication management</td>
-    </tr>
-</table>
 <h2>There's a Better Way to Launch Your Business Dream</h2>
 
 <p>Imagine having your entire LLC formation handled by experts who know New York's requirements inside and out. No stress. No confusion. No surprises.</p>
 
 <p>Business Initiative's all-inclusive New York LLC formation service takes care of everything:</p>
 
-<div style="background-color: #f8f9fa; padding: 20px; margin: 20px 0; border-left: 5px solid #007bff;">
+<div style="background-color: #f8f9fa; padding: 20px; margin: 20px 0; border-left: 4px solid #0063A0;">
     <h3>Your Complete Formation Solution Includes:</h3>
-    <ul>
-        <li>✓ Name availability verification</li>
-        <li>✓ State filing of Articles of Organization</li>
-        <li>✓ Required newspaper publication handling</li>
-        <li>✓ First year registered agent service</li>
-        <li>✓ Custom Operating Agreement</li>
-        <li>✓ Federal EIN/Tax ID obtainment</li>
-        <li>✓ ALL state and county filing fees covered</li>
-        <li>✓ Dedicated formation specialist</li>
-    </ul>
+    &nbsp;&nbsp;&nbsp;&nbsp;✓ Name availability verification
+    &nbsp;&nbsp;&nbsp;&nbsp;✓ State filing of Articles of Organization
+    &nbsp;&nbsp;&nbsp;&nbsp;✓ Required newspaper publication handling
+    &nbsp;&nbsp;&nbsp;&nbsp;✓ First year registered agent service
+    &nbsp;&nbsp;&nbsp;&nbsp;✓ Custom Operating Agreement
+    &nbsp;&nbsp;&nbsp;&nbsp;✓ Federal EIN/Tax ID obtainment
+    &nbsp;&nbsp;&nbsp;&nbsp;✓ ALL state and county filing fees covered
+    &nbsp;&nbsp;&nbsp;&nbsp;✓ Dedicated formation specialist
 </div>
 
-<div style="border: 2px solid #007bff; padding: 20px; margin: 20px 0; text-align: center; background-color: #f8f9fa;">
+<div style="border: 2px solid #0063A0; padding: 20px; margin: 20px 0; text-align: center; background-color: #f8f9fa; border-radius: 8px;">
     <h3>All-Inclusive LLC Formation Package: $3500</h3>
     <p>✓ ALL Fees Included &nbsp; ✓ No Hidden Costs &nbsp; ✓ Same-Day Processing Available</p>
     <p><b>Orders placed before 1:00 PM EST are processed same day!</b></p>
@@ -72,20 +87,20 @@ permalink: /services/new-york-llc/
 
 <h2>Frequently Asked Questions</h2>
 
-<div style="margin: 20px 0;">
-    <details style="margin-bottom: 10px;">
-        <summary style="cursor: pointer; font-weight: bold;">Why is your service worth $3500?</summary>
-        <p>Our price includes ALL state fees (including the expensive NY publication requirement), registered agent service, and expert handling of every detail. When you factor in the time saved, potential mistakes avoided, and all included services, most clients save money compared to doing it themselves.</p>
-    </details>
-    <details style="margin-bottom: 10px;">
-        <summary style="cursor: pointer; font-weight: bold;">How long does the entire process take?</summary>
-        <p>While the state typically takes 5-7 business days to process filings, we handle all paperwork within 24 hours. The publication requirement takes 6-8 weeks, but we manage everything so you can start operating your business immediately.</p>
-    </details>
-    <details style="margin-bottom: 10px;">
-        <summary style="cursor: pointer; font-weight: bold;">What if I need help after formation?</summary>
-        <p>Your dedicated formation specialist remains available for questions even after your LLC is formed. Plus, you get a full year of registered agent service included.</p>
-    </details>
-</div>
+<details class="faq-box">
+    <summary>Why is your service worth $3500?</summary>
+    <p>Our price includes ALL state fees (including the expensive NY publication requirement), registered agent service, and expert handling of every detail. When you factor in the time saved, potential mistakes avoided, and all included services, most clients save money compared to doing it themselves.</p>
+</details>
+
+<details class="faq-box">
+    <summary>How long does the entire process take?</summary>
+    <p>While the state typically takes 5-7 business days to process filings, we handle all paperwork within 24 hours. The publication requirement takes 6-8 weeks, but we manage everything so you can start operating your business immediately.</p>
+</details>
+
+<details class="faq-box">
+    <summary>What if I need help after formation?</summary>
+    <p>Your dedicated formation specialist remains available for questions even after your LLC is formed. Plus, you get a full year of registered agent service included.</p>
+</details>
 
 <h2>Your Success is Our Priority</h2>
 
