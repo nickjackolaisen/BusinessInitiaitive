@@ -9,20 +9,19 @@ permalink: /services/new-york-llc/
     <a href="https://checkout.businessinitiative.org/b/9AQ6oO6eL22N8OQ6pS">
         <img src="/images/state-seals/new-york-seal.png" 
              alt="New York State Seal" 
-             style="width: 200px; 
-                    cursor: pointer;
+             style="width: 175px; height: 175px;
                     border-radius: 50%;
-                    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
-                    transition: transform 0.2s, box-shadow 0.2s;
-                    margin-bottom: 15px;"
-             onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 6px 12px rgba(0,0,0,0.3)';"
-             onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 8px rgba(0,0,0,0.2)';">
+                    box-shadow: 0 4px 8px rgba(0,0,0,0.2);"
+             onmouseover="this.style.boxShadow='0 6px 12px rgba(0,0,0,0.3)'"
+             onmouseout="this.style.boxShadow='0 4px 8px rgba(0,0,0,0.2)'">
     </a>
 </div>
 
 <h3><b>Frustrated with the Complex Process of Starting a New York LLC?</b></h3>
 
-<p>You're not alone. Many entrepreneurs get overwhelmed by New York's strict LLC formation requirements, confusing paperwork, and hidden costs. One small mistake can lead to delays, penalties, or even legal issues down the road.</p>
+<p>You're not alone.</p>
+
+<p>Many entrepreneurs get overwhelmed by New York's strict LLC formation requirements, confusing paperwork, and hidden costs. One small mistake can lead to delays, penalties, or even legal issues down the road.</p>
 
 <h2>What's Really at Stake When Forming Your New York LLC?</h2>
 
@@ -34,43 +33,56 @@ permalink: /services/new-york-llc/
     <li>Stress and uncertainty about doing everything properly</li>
 </ul>
 
+<h2>There's a Better Way to Launch Your Business Dream</h2>
+
+<p>Imagine having your entire LLC formation handled by experts who know New York's requirements inside and out.
+<br>
+<p>No stress.</p>
+<br>
+<p>No confusion.</p>
+<br>
+<p>No surprises.</p>
+
+<p>Business Initiative's all-inclusive New York LLC formation service takes care of everything:</p>
+
 <h2>Why Choose Professional Formation?</h2>
 <div style="text-align: center;">
-    <table style="width: 100%; border-collapse: collapse; margin: 20px auto;">
+    <table style="width: 100%; border-collapse: collapse; margin: 20px auto; max-width: 800px;">
         <tr style="background-color: #f8f9fa;">
-            <th style="padding: 10px; border: 1px solid #dee2e6;">DIY Formation</th>
-            <th style="padding: 10px; border: 1px solid #dee2e6;">Business Initiative Service</th>
+            <th style="padding: 10px; border: 1px solid #dee2e6; text-align: left;">DIY Formation</th>
+            <th style="padding: 10px; border: 1px solid #dee2e6; text-align: left;">Business Initiative Service</th>
         </tr>
         <tr>
-            <td style="padding: 10px; border: 1px solid #dee2e6;">❌ Hours of research needed</td>
-            <td style="padding: 10px; border: 1px solid #dee2e6;">✅ Everything handled for you</td>
+            <td style="padding: 10px; border: 1px solid #dee2e6; text-align: left;">❌ Hours of research needed</td>
+            <td style="padding: 10px; border: 1px solid #dee2e6; text-align: left;">✅ Everything handled for you</td>
         </tr>
         <tr>
-            <td style="padding: 10px; border: 1px solid #dee2e6;">❌ Risk of mistakes & delays</td>
-            <td style="padding: 10px; border: 1px solid #dee2e6;">✅ Guaranteed accuracy</td>
+            <td style="padding: 10px; border: 1px solid #dee2e6; text-align: left;">❌ Risk of mistakes & delays</td>
+            <td style="padding: 10px; border: 1px solid #dee2e6; text-align: left;">✅ Guaranteed accuracy</td>
         </tr>
         <tr>
-            <td style="padding: 10px; border: 1px solid #dee2e6;">❌ Publication headaches</td>
-            <td style="padding: 10px; border: 1px solid #dee2e6;">✅ Full publication management</td>
+            <td style="padding: 10px; border: 1px solid #dee2e6; text-align: left;">❌ Publication headaches</td>
+            <td style="padding: 10px; border: 1px solid #dee2e6; text-align: left;">✅ Full publication management</td>
         </tr>
     </table>
 </div>
 
-<h2>There's a Better Way to Launch Your Business Dream</h2>
-
-<p>Imagine having your entire LLC formation handled by experts who know New York's requirements inside and out. No stress. No confusion. No surprises.</p>
-
-<p>Business Initiative's all-inclusive New York LLC formation service takes care of everything:</p>
-
 <div style="background-color: #f8f9fa; padding: 20px; margin: 20px 0; border-left: 4px solid #0063A0;">
     <h3>Your Complete Formation Solution Includes:</h3>
     &nbsp;&nbsp;&nbsp;&nbsp;✓ Name availability verification
+    <br>
     &nbsp;&nbsp;&nbsp;&nbsp;✓ State filing of Articles of Organization
+    <br>
     &nbsp;&nbsp;&nbsp;&nbsp;✓ Required newspaper publication handling
+    <br>
     &nbsp;&nbsp;&nbsp;&nbsp;✓ First year registered agent service
+    <br>
     &nbsp;&nbsp;&nbsp;&nbsp;✓ Custom Operating Agreement
+    <br>
     &nbsp;&nbsp;&nbsp;&nbsp;✓ Federal EIN/Tax ID obtainment
+    <br>
     &nbsp;&nbsp;&nbsp;&nbsp;✓ ALL state and county filing fees covered
+    <br>
     &nbsp;&nbsp;&nbsp;&nbsp;✓ Dedicated formation specialist
 </div>
 
