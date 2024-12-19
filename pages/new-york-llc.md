@@ -6,8 +6,8 @@ permalink: /services/new-york-llc/
 ---
 
 <div style="text-align: center; margin: 30px 0;">
-    <a href="/checkout/">
-        <img src="/images/state-seals/NY-seal.png" 
+    <a href="https://checkout.businessinitiative.org/b/9AQ6oO6eL22N8OQ6pS">
+        <img src="/images/state-seals/new-york-seal.png" 
              alt="New York State Seal" 
              style="width: 200px; 
                     cursor: pointer;
