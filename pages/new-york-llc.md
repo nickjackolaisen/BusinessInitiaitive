@@ -36,18 +36,15 @@ permalink: /services/new-york-llc/
 <h2>There's a Better Way to Launch Your Business Dream</h2>
 
 <p>Imagine having your entire LLC formation handled by experts who know New York's requirements inside and out.
-<br>
 <p>No stress.</p>
-<br>
 <p>No confusion.</p>
-<br>
 <p>No surprises.</p>
 
 <p>Business Initiative's all-inclusive New York LLC formation service takes care of everything:</p>
 
 <h2>Why Choose Professional Formation?</h2>
-<div style="text-align: center;">
-    <table style="width: 100%; border-collapse: collapse; margin: 20px auto; max-width: 800px;">
+<div style="display: flex; justify-content: center;">
+    <table style="width: 100%; border-collapse: collapse; margin: 20px 0; max-width: 800px;">
         <tr style="background-color: #f8f9fa;">
             <th style="padding: 10px; border: 1px solid #dee2e6; text-align: left;">DIY Formation</th>
             <th style="padding: 10px; border: 1px solid #dee2e6; text-align: left;">Business Initiative Service</th>
@@ -67,7 +64,7 @@ permalink: /services/new-york-llc/
     </table>
 </div>
 
-<div style="background-color: #f8f9fa; padding: 20px; margin: 20px 0; border-left: 4px solid #0063A0;">
+<div style="background-color: #f8f9fa; padding: 20px; margin: 10px 0; border-left: 4px solid #0063A0;">
     <h3>Your Complete Formation Solution Includes:</h3>
     &nbsp;&nbsp;&nbsp;&nbsp;✓ Name availability verification
     <br>
@@ -93,7 +90,10 @@ permalink: /services/new-york-llc/
     <div style="background-color: #e8f4ff; padding: 10px; margin: 15px 0; border-radius: 5px;">
         <p style="margin: 0;"><strong>100% Satisfaction Guarantee:</strong> If we don't meet our promised timeline or service quality, we'll refund our service fees</p>
     </div>
-    <p style="color: #dc3545;"><small>⚡ Limited Time: Free Operating Agreement Template ($150 Value) with Today's Orders</small></p>
+    <p style="color: #dc3545;"><small>⚡ Holiday Special: Free Operating Agreement Template ($150 Value) with This Week's Orders</small></p>
+    <div style="background-color: #f5f5f5; padding: 15px; margin: 15px 0; border-radius: 5px; text-align: left;">
+        <p style="margin: 0; font-size: 0.9em;">🔒 <strong>Quick & Secure Process:</strong> After checkout, you'll complete a simple 4-part questionnaire (takes less than 5 minutes). All information is encrypted and strictly used only for your LLC formation filings.</p>
+    </div>
     <a href="https://checkout.businessinitiative.org/b/9AQ6oO6eL22N8OQ6pS" class="btn btn-primary" style="background-color: #007bff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Start Your Business Journey Today</a>
 </div>
 
@@ -131,11 +131,12 @@ permalink: /services/new-york-llc/
     <h3>Start Your LLC Formation Today - Risk Free</h3>
     <p>Join thousands of successful business owners who trusted Business Initiative with their LLC formation</p>
     <p><strong>100% Satisfaction Guaranteed</strong></p>
+    <p style="font-size: 0.9em; color: #666;">🔐 Your privacy matters: All information is securely encrypted and used solely for Business formation purposes</p>
     <a href="https://checkout.businessinitiative.org/b/9AQ6oO6eL22N8OQ6pS" class="btn btn-primary" style="background-color: #007bff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Get Started Now</a>
 </div>
 
 <div style="border: 2px solid #f0f0f0; padding: 15px; margin: 20px 0;">
-    <p>Take the first step toward your business success:</p>
+    <p>Take the Initiative to get your New York LLC started ASAP:</p>
     <ul>
         <li>📞 Call (929) 760-4132</li>
         <li>✉️ Email contact@businessinitiative.org</li>
