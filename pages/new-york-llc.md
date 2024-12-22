@@ -145,3 +145,12 @@ permalink: /services/new-york-llc/
 </div>
 
 <p><i>Business Initiative is not a law firm and cannot provide legal advice. For legal matters, please consult an attorney.</i></p>
+
+<style>
+    a {
+        color: inherit; /* Inherits color from parent */
+        background-image: none; /* Removes any background image */
+        border-bottom: 0; /* Removes the bottom border */
+        text-decoration: none; /* Ensures no underline on the text */
+    }
+</style>
