@@ -2,7 +2,7 @@
 layout: page
 title: "Iowa Business Directory"
 date: 2023-12-04
-update_date: 2024-12-16
+update_date: 2024-12-26
 author: jack_nicholaisen
 summary: "Discover the top business startup services in Iowa! Your ultimate guide to launching a successful venture."  
 permalink: /directory/iowa/
@@ -29,7 +29,7 @@ Use this directory to find the right professionals to help you with your busines
 
 <link rel="stylesheet" href="{{ '/assets/css/state-pages.css' | relative_url }}">
 
-<a href="{{ '/states/iowa/counties/' | relative_url }}" class="county-directory-button">View Iowa Counties</a>
+<a href="{{ '/states/iowa/counties/' | relative_url }}" class="sos-button">View Iowa Counties</a>
 
 <a href="{{ site.data.resources.state_sos_websites.iowa }}" target="_blank" class="sos-button">Visit Iowa Secretary of State</a>.
 

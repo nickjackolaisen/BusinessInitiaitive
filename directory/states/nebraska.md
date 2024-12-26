@@ -2,7 +2,7 @@
 layout: page
 title: "Nebraska Business Directory"
 date: 2024-04-01
-update_date: 2024-12-25
+update_date: 2024-12-26
 author: jack_nicholaisen
 summary: "Discover the top business startup services in Nebraska! Your ultimate guide to launching a successful venture."  
 permalink: /directory/nebraska/
@@ -29,7 +29,7 @@ Use this directory to find the right professionals to help you with your busines
 
 <link rel="stylesheet" href="{{ '/assets/css/state-pages.css' | relative_url }}">
 
-<a href="{{ '/states/nebraska/counties/' | relative_url }}" class="county-directory-button">View Nebraska Counties</a>
+<a href="{{ '/states/nebraska/counties/' | relative_url }}" class="sos-button">View Nebraska Counties</a>
 
 <a href="{{ site.data.resources.state_sos_websites.nebraska }}" target="_blank" class="sos-button">Visit Nebraska Secretary of State</a>
 

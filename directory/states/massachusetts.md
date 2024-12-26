@@ -2,7 +2,7 @@
 layout: page
 title: "Massachusetts Business Directory"
 date: 2024-04-01
-update_date: 2024-12-18
+update_date: 2024-12-26
 author: jack_nicholaisen
 summary: "Discover the top business startup services in Massachusetts! Your ultimate guide to launching a successful venture."  
 permalink: /directory/massachusetts/
@@ -29,7 +29,7 @@ Use this directory to find the right professionals to help you with your busines
 
 <link rel="stylesheet" href="{{ '/assets/css/state-pages.css' | relative_url }}">
 
-<a href="{{ '/states/massachusetts/counties/' | relative_url }}" class="county-directory-button">View Massachusetts Counties</a>
+<a href="{{ '/states/massachusetts/counties/' | relative_url }}" class="sos-button">View Massachusetts Counties</a>
 
 <a href="{{ site.data.resources.state_sos_websites.massachusetts }}" target="_blank" class="sos-button">Visit Massachusetts Secretary of State</a>
 

@@ -2,7 +2,7 @@
 layout: page
 title: "Montana Business Directory"
 date: 2024-04-01
-update_date: 2024-12-22
+update_date: 2024-12-26
 author: jack_nicholaisen
 summary: "Discover the top business startup services in Montana! Your ultimate guide to launching a successful venture."  
 permalink: /directory/montana/
@@ -29,7 +29,7 @@ Use this directory to find the right professionals to help you with your busines
 
 <link rel="stylesheet" href="{{ '/assets/css/state-pages.css' | relative_url }}">
 
-<a href="{{ '/states/montana/counties/' | relative_url }}" class="county-directory-button">View Montana Counties</a>
+<a href="{{ '/states/montana/counties/' | relative_url }}" class="sos-button">View Montana Counties</a>
 
 <a href="{{ site.data.resources.state_sos_websites.montana }}" target="_blank" class="sos-button">Visit Montana Secretary of State</a>
 

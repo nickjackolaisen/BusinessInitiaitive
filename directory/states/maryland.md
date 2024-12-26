@@ -2,7 +2,7 @@
 layout: page
 title: "Maryland Business Directory"
 date: 2024-04-01
-update_date: 2024-12-18
+update_date: 2024-12-26
 author: jack_nicholaisen
 summary: "Discover the top business startup services in Maryland! Your ultimate guide to launching a successful venture."  
 permalink: /directory/maryland/
@@ -29,7 +29,7 @@ Use this directory to find the right professionals to help you with your busines
 
 <link rel="stylesheet" href="{{ '/assets/css/state-pages.css' | relative_url }}">
 
-<a href="{{ '/states/maryland/counties/' | relative_url }}" class="county-directory-button">View Maryland Counties</a>
+<a href="{{ '/states/maryland/counties/' | relative_url }}" class="sos-button">View Maryland Counties</a>
 
 <a href="{{ site.data.resources.state_sos_websites.maryland }}" target="_blank" class="sos-button">Visit Maryland Secretary of State</a>
 
