@@ -2,7 +2,7 @@
 layout: page
 title: "New Hampshire Business Directory"
 date: 2024-06-03
-update_date: 2024-07-01
+update_date: 2024-12-30
 author: jack_nicholaisen
 summary: "Discover the top business startup services in New Hampshire! Your ultimate guide to launching a successful venture."  
 permalink: /directory/new-hampshire/
@@ -26,6 +26,12 @@ To make it easier, we have compiled a directory of essential services entreprene
 These services include legal, financial, and operational support, among other things. 
 
 Use this directory to find the right professionals to help you with your business startup needs.
+
+<link rel="stylesheet" href="{{ '/assets/css/state-pages.css' | relative_url }}">
+
+<a href="{{ '/states/new-hampshire/counties/' | relative_url }}" class="sos-button">View New Hampshire Counties</a>
+
+<a href="{{ site.data.resources.state_sos_websites.new_hampshire }}" target="_blank" class="sos-button">Visit New Hampshire Secretary of State</a>
 
 ## Financial Services
 
