@@ -1,14 +1,14 @@
 ---
 layout: page
-title: How to Start an LLC in St. Louis City County, Missouri
-permalink: /states/missouri/st.-louis-city/
+title: How to Start an LLC in St. Clair County, Missouri
+permalink: /states/missouri/st-clair/
 ---
 
 <a href="{{ site.data.resources.state_sos_websites.missouri }}" target="_blank">
     <img src="/images/state-seals/missouri-seal.png" alt="Missouri State Seal" style="display: block; margin: 10px auto; width: 100px;">
 </a>
 
-<p>Starting an LLC in St. Louis City County, Missouri involves several steps and it can get tricky at times.</p>
+<p>Starting an LLC in St. Clair County, Missouri involves several steps and it can get tricky at times.</p>
 
 <p>We offer comprehensive services to streamline the process.</p>
 
@@ -56,7 +56,7 @@ permalink: /states/missouri/st.-louis-city/
 <p><b>Without an EIN there is no corporate veil protecting your personal assets.</b></p>
 
 <h3 id="comply-with-local-regulations">6. Comply with Local Regulations</h3>
-<p>Check with St. Louis City County Clerk's Office for any local permits or licenses that may be required for your business.</p>
+<p>Check with St. Clair County Clerk's Office for any local permits or licenses that may be required for your business.</p>
 
 <h3 id="file-annual-reports">7. File Annual Reports</h3>
 <p>Missouri requires LLCs to file an annual report. Ensure you comply with this requirement to maintain good standing.</p>

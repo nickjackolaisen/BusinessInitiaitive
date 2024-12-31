@@ -1,7 +1,7 @@
 ---
 layout: page
 title: How to Start an LLC in St. Joseph County, Indiana
-permalink: /states/indiana/st.-joseph/
+permalink: /states/indiana/st-joseph/
 ---
 
 <p>Starting an LLC in St. Joseph County, Indiana involves several steps and it can get tricky at times.</p>

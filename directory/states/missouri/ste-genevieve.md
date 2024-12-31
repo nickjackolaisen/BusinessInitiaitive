@@ -1,14 +1,14 @@
 ---
 layout: page
-title: How to Start an LLC in St. Lawrence County, New York
-permalink: /states/new-york/st.-lawrence/
+title: How to Start an LLC in Ste. Genevieve County, Missouri
+permalink: /states/missouri/ste-genevieve/
 ---
 
-<a href="{{ site.data.resources.state_sos_websites.new-york }}" target="_blank">
-    <img src="/images/state-seals/new-york-seal.png" alt="New York State Seal" style="display: block; margin: 10px auto; width: 100px;">
+<a href="{{ site.data.resources.state_sos_websites.missouri }}" target="_blank">
+    <img src="/images/state-seals/missouri-seal.png" alt="Missouri State Seal" style="display: block; margin: 10px auto; width: 100px;">
 </a>
 
-<p>Starting an LLC in St. Lawrence County, New York involves several steps and it can get tricky at times.</p>
+<p>Starting an LLC in Ste. Genevieve County, Missouri involves several steps and it can get tricky at times.</p>
 
 <p>We offer comprehensive services to streamline the process.</p>
 
@@ -37,18 +37,18 @@ permalink: /states/new-york/st.-lawrence/
 %}
 
 <h3 id="choose-a-name-for-your-llc">1. Choose a Name for Your LLC</h3>
-<p>Your LLC's name must be distinguishable from other business entities registered in New York. You can check name availability on the New York Secretary of State's website.</p>
+<p>Your LLC's name must be distinguishable from other business entities registered in Missouri. You can check name availability on the Missouri Secretary of State's website.</p>
 
 <h3 id="appoint-a-registered-agent">2. Appoint a Registered Agent</h3>
-<p>A registered agent is required for your LLC. This can be an individual or a business entity authorized to do business in New York.</p>
+<p>A registered agent is required for your LLC. This can be an individual or a business entity authorized to do business in Missouri.</p>
 
 <p>In most places you can act as your company's registered agent, just know your information will be public record.<p>
 
 <h3 id="file-the-certificate-of-formation">3. File the Certificate of Formation</h3>
-<p>Submit the Certificate of Formation to the New York Secretary of State. This can be done either online or by mail.</p>
+<p>Submit the Certificate of Formation to the Missouri Secretary of State. This can be done either online or by mail.</p>
 
 <h3 id="create-an-operating-agreement">4. Create an Operating Agreement</h3>
-<p>Although not required by every state, operating agreements are recommended in New York to outline the management structure and operating procedures of your LLC.</p>
+<p>Although not required by every state, operating agreements are recommended in Missouri to outline the management structure and operating procedures of your LLC.</p>
 
 <h3 id="obtain-an-ein">5. Obtain an EIN</h3>
 <p>Apply for an Employer Identification Number (EIN) from the IRS. This is necessary for tax purposes and to open a business bank account.</p>
@@ -56,17 +56,17 @@ permalink: /states/new-york/st.-lawrence/
 <p><b>Without an EIN there is no corporate veil protecting your personal assets.</b></p>
 
 <h3 id="comply-with-local-regulations">6. Comply with Local Regulations</h3>
-<p>Check with St. Lawrence County Clerk's Office for any local permits or licenses that may be required for your business.</p>
+<p>Check with Ste. Genevieve County Clerk's Office for any local permits or licenses that may be required for your business.</p>
 
 <h3 id="file-annual-reports">7. File Annual Reports</h3>
-<p>New York requires LLCs to file an annual report. Ensure you comply with this requirement to maintain good standing.</p>
+<p>Missouri requires LLCs to file an annual report. Ensure you comply with this requirement to maintain good standing.</p>
 
-<p>Some states also require quarterly reports. So make sure to double check with the New York Secretary of State.</p>
+<p>Some states also require quarterly reports. So make sure to double check with the Missouri Secretary of State.</p>
 
-<p>For more detailed information, you can visit the <a href="{{ site.data.resources.state_sos_websites.new-york }}" target="_blank">Secretary of State's website</a>.</p>
+<p>For more detailed information, you can visit the <a href="{{ site.data.resources.state_sos_websites.missouri }}" target="_blank">Secretary of State's website</a>.</p>
 
 <h3>Ready to Take Initiative?</h3>
-<p>For detailed pricing information on forming an LLC in New York, visit our <a href="/services/">Services Page</a>.</p>
+<p>For detailed pricing information on forming an LLC in Missouri, visit our <a href="/services/">Services Page</a>.</p>
 <div style="border: 2px solid #f0f0f0; padding: 10px; margin: 20px 0; text-align: center; border-radius: 5px;">
     <p><b>Save yourself the headache?</b></p>
     <p><a href="/services/" style="color: #007bff;">Let Business Initiative handle your LLC formation!</a></p>
