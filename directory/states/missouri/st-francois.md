@@ -1,7 +1,7 @@
 ---
 layout: page
 title: How to Start an LLC in St. Francois County, Missouri
-permalink: /states/missouri/st.-francois/
+permalink: /states/missouri/st-francois/
 ---
 
 <a href="{{ site.data.resources.state_sos_websites.missouri }}" target="_blank">

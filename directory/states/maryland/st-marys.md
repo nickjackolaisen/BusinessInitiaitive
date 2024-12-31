@@ -1,7 +1,7 @@
 ---
 layout: page
-title: How to Start an LLC in St. Mary's County, Maryland
-permalink: /states/maryland/st.-mary's/
+title: "How to Start an LLC in St. Mary's County, Maryland"
+permalink: /states/maryland/st-marys/
 ---
 
 <a href="{{ site.data.resources.state_sos_websites.maryland }}" target="_blank">

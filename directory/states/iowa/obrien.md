@@ -1,7 +1,7 @@
 ---
 layout: page
-title: How to Start an LLC in O'Brien County, Iowa
-permalink: /states/iowa/o'brien/
+title: "How to Start an LLC in O'Brien County, Iowa"
+permalink: /states/iowa/obrien/
 ---
 
 <p>Starting an LLC in O'Brien County, Iowa involves several steps and it can get tricky at times.</p>

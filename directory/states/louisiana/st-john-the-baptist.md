@@ -1,10 +1,10 @@
 ---
 layout: page
-title: How to Start an LLC in St. Martin County, Louisiana
-permalink: /states/louisiana/st.-martin/
+title: How to Start an LLC in St. John the Baptist County, Louisiana
+permalink: /states/louisiana/st-john-the-baptist/
 ---
 
-<p>Starting an LLC in St. Martin County, Louisiana involves several steps and it can get tricky at times.</p>
+<p>Starting an LLC in St. John the Baptist County, Louisiana involves several steps and it can get tricky at times.</p>
 
 <p>We offer comprehensive services to streamline the process and take care of everything for you, ensuring a hassle-free experience. Our team of experts will handle all the necessary paperwork and legal requirements, so you can focus on growing your business.</p>
 
@@ -32,7 +32,7 @@ permalink: /states/louisiana/st.-martin/
 <p>Without an EIN there is no corporate veil protecting your personal assets.</p>
 
 <h3>6. Comply with Local Regulations</h3>
-<p>Check with St. Martin County Clerk's Office for any local permits or licenses that may be required for your business.</p>
+<p>Check with St. John the Baptist County Clerk's Office for any local permits or licenses that may be required for your business.</p>
 
 <h3>7. File Annual Reports</h3>
 <p>Louisiana requires LLCs to file an annual report. Ensure you comply with this requirement to maintain good standing.</p>

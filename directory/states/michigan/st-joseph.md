@@ -1,7 +1,7 @@
 ---
 layout: page
-title: How to Start an LLC in St. Joseph County, Michigan
-permalink: /states/michigan/st.-joseph/
+title: "How to Start an LLC in St. Joseph County, Michigan"
+permalink: /states/michigan/st-joseph/
 ---
 
 <a href="{{ site.data.resources.state_sos_websites.michigan }}" target="_blank">

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: How to Start an LLC in St. Louis County, Minnesota
-permalink: /states/minnesota/st.-louis/
+permalink: /states/minnesota/st-louis/
 ---
 
 <a href="{{ site.data.resources.state_sos_websites.minnesota }}" target="_blank">

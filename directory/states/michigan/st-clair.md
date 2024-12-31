@@ -1,7 +1,7 @@
 ---
 layout: page
 title: How to Start an LLC in St. Clair County, Michigan
-permalink: /states/michigan/st.-clair/
+permalink: /states/michigan/st-clair/
 ---
 
 <a href="{{ site.data.resources.state_sos_websites.michigan }}" target="_blank">
