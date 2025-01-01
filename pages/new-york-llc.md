@@ -139,7 +139,7 @@ permalink: /services/new-york-llc/
     <p>Take the Initiative to get your New York LLC started ASAP:</p>
     <ul>
         <li>📞 Call (929) 760-4132</li>
-        <li>✉️ Email <a href="mailto:someone@yoursite.com">Email Us</a>  </li>
+        <li>✉️ Email <a href="mailto:contact@businessinitiative.org">Email Us</a></li>
         <li>💬 Reach out on our website <a href="/contact/">contact form</a></li>
     </ul>
 </div>
