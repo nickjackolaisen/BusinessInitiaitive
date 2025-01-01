@@ -2,7 +2,7 @@
 layout: post
 title: Top 17 Sole Proprietorship Companies - Profitable Examples You Can Start TODAY!
 date: 2023-07-05
-update_date: 2024-12-21
+update_date: 2025-01-01
 author: jack_nicholaisen
 summary: "Here are a few examples of Sole Proprietorships to get the ideas flowing. Check it out and see for yourself why Sole Proprietorships are so popular."
 thumbnail: /images/posts-headers/sole-proprietorship-examples-header.png
@@ -192,7 +192,7 @@ With an understanding of graphic design and the creative vision to bring your cl
 
 **Helpful resources for starting a graphic design business:**
 - <a href="https://www.nerdwallet.com/article/small-business/how-to-start-a-graphic-design-business" target="_blank">How to Start a Graphic Design Business</a>
-- <a href="https://www.freshbooks.com/hub/startup/how-to-start-a-graphic-design-business" target="_blank">How To Start a Graphic Design Business in 2024: 17 Steps</a>
+- <a href="https://www.freshbooks.com/hub/startup/how-to-start-a-graphic-design-business" target="_blank">How To Start a Graphic Design Business in 2025: 17 Steps</a>
 
 ## 5.  Photographer, Videographer, or Digital Editor
 
@@ -214,8 +214,8 @@ The same principle applies to all of the Sole Proprietorship examples mentioned 
 <a id="digital-repair"> 
 
 **Helpful resources for starting a photography business:**
-- <a href="https://shotkit.com/start-photography-business/" target="_blank">How to Start a Photography Business in 2024</a>
-- <a href="https://www.shopify.com/blog/how-to-start-a-photography-business" target="_blank">How To Start a Photography Business in 10 Steps (2024)</a>
+- <a href="https://shotkit.com/start-photography-business/" target="_blank">How to Start a Photography Business in 2025</a>
+- <a href="https://www.shopify.com/blog/how-to-start-a-photography-business" target="_blank">How To Start a Photography Business in 10 Steps (2025)</a>
 
 ## 6.  Computer and Cellphone Repair Service
 
@@ -288,7 +288,7 @@ You should consider being a Virtual Assistant if you can help customers get info
 
 **Helpful resources for starting a VA business:**
 - <a href="https://www.timedoctor.com/blog/virtual-assistant-business/" target="_blank">How to start a virtual assistant business</a>
-- <a href="https://millennialmoneyman.com/how-to-start-a-virtual-assistant-business/" target="_blank">How To Start a Virtual Assistant Business (2024 Guide)</a>
+- <a href="https://millennialmoneyman.com/how-to-start-a-virtual-assistant-business/" target="_blank">How To Start a Virtual Assistant Business (2025 Guide)</a>
 
 ## 9.  Bookkeeper or Accountant
 
@@ -383,7 +383,7 @@ Not only that, but you will also be able to receive the personal liability prote
 
 **Helpful resources for starting a landscaping business:**
 - <a href="https://www.joist.com/blog/how-to-start-a-landscaping-business/" target="_blank">How to Start a Landscaping Business: A Comprehensive Guide</a>
-- <a href="https://www.freshbooks.com/hub/startup/how-to-start-a-landscaping-business" target="_blank">How To Start a Landscaping Business in 7 Steps (2024 Guide)</a>
+- <a href="https://www.freshbooks.com/hub/startup/how-to-start-a-landscaping-business" target="_blank">How To Start a Landscaping Business in 7 Steps (2025 Guide)</a>
 
 ## 12. Private Home Care
 

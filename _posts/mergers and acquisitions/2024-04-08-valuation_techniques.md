@@ -1,8 +1,8 @@
 ---
-title: "Valuation Techniques for Small Businesses in 2024"
+title: "Valuation Techniques for Small Businesses in 2025"
 layout: post
 date: 2024-04-09
-update_date: 2024-08-01
+update_date: 2025-01-01
 author: jack_nicholaisen
 summary: "Unlock the secrets of small business valuation with expert techniques, practical tips, and real-world examples. Master the art of valuing your company!"
 thumbnail: /images/posts-headers/m-and-a/m-and-a-valuation-techniques-header.png

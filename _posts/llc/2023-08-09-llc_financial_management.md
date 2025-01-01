@@ -1,8 +1,8 @@
 ---
-title: "Managing Your LLC's Finances in 2024 | Bookkeeping, Accounting, and Tax Strategies"
+title: "Managing Your LLC's Finances in 2025 | Bookkeeping, Accounting, and Tax Strategies"
 layout: post
 date: 2023-08-09
-update_date: 2024-12-11
+update_date: 2025-01-01
 author: jack_nicholaisen
 summary: "Unlock your LLC's financial potential with our guide on bookkeeping, tax planning, and profit maximization. Become a financial whiz!"
 thumbnail: /images/posts-headers/llc-financial-management-header.png
