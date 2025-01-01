@@ -1,8 +1,8 @@
 ---
-title: "Unlock Customer Loyalty - Proven Strategies to Make Your Business Irresistible in 2024"
+title: "Unlock Customer Loyalty - Proven Strategies to Make Your Business Irresistible in 2025"
 layout: post
 date: 2024-07-05
-update_date: 2024-07-08
+update_date: 2025-01-01
 author: jack_nicholaisen
 summary: "Discover proven strategies to make your business into an irresistible brand for customers. Boost engagement, build trust, and enhance customer experience today!"
 thumbnail: /images/posts-headers/unlock-customer-loyalty-header.png

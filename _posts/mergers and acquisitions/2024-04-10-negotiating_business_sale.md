@@ -1,8 +1,8 @@
 ---
-title: "Negotiating a Business Sale: Tips and Strategies for Success in 2024"
+title: "Negotiating a Business Sale: Tips and Strategies for Success in 2025"
 layout: post
 date: 2024-04-10
-update_date: 
+update_date: 2025-01-01
 author: jack_nicholaisen
 summary: "Unlock the secrets to a successful business sale with our expert negotiation strategies. Boost your confidence and secure a favorable deal!"
 thumbnail: /images/posts-headers/m-and-a/m-and-a-negotiating-business-deal-header.png

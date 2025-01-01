@@ -2,6 +2,7 @@
 title: "Medicare vs Medicaid - How to Know the Difference"
 layout: post
 date: 2023-11-20
+update_date: 2025-01-01
 author: jack_nicholaisen
 summary: "Discover the crucial differences between Medicare & Medicaid in our comprehensive analysis. Unravel eligibility, coverage, and more!"
 permalink: /insurance/medicare-vs-medicaid/
@@ -230,7 +231,7 @@ Here are some of the most common questions regarding Medicare and Medicaid:
 <details>
 <summary><b>Learn more...</b></summary>
 <br>
-<p>As we approach 2024, it's important to know the costs associated with Medicare Part B and Part D. The standard monthly premium for Medicare Part B is $174.70 per month.</p>
+<p>In 2025, it's important to know the costs associated with Medicare Part B and Part D. The standard monthly premium for Medicare Part B is $174.70 per month.</p>
 <p>However, it's worth noting that some individuals may pay more based on their income.</p>
 <p>When it comes to Part D, the cost of premiums can vary depending on the plan you choose.</p> 
 <p>Some plans may have lower premiums, with some as low as  $7 per month.</p> 

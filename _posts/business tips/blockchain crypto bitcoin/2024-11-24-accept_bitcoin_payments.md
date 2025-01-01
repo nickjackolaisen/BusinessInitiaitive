@@ -1,8 +1,8 @@
 ---
-title: "Unlock the Power of Bitcoin Payments: How Businesses Can Save Money, Expand Globally, and Attract New Customers in 2024"
+title: "Unlock the Power of Bitcoin Payments | Save Money, Expand Globally, & Attract New Customers in 2025"
 layout: post
 date: 2024-11-24
-update_date: 2024-11-29
+update_date: 2025-01-01
 author: jack_nicholaisen
 summary: "Discover how accepting Bitcoin can save money, expand your reach, and attract tech-savvy customers. Learn the steps to future-proof your business!"
 thumbnail: /images/posts-headers/bitcoin-payments-header.png
