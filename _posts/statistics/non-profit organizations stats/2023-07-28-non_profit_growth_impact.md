@@ -1,8 +1,8 @@
 ---
-title: "Non-Profit Organizations in 2024 - Growth and Impact"
+title: "Non-Profit Organizations in 2025 - Growth and Impact"
 layout: post
 date: 2023-07-29
-update_date: 2024-03-05
+update_date: 2025-01-01
 author: jack_nicholaisen
 summary: "Explore non-profits' growth in different sectors, with data and stats. Learn success factors, challenges, and opportunities to join the social impact world!"
 thumbnail: /images/posts-headers/non-profit-growth-header.png

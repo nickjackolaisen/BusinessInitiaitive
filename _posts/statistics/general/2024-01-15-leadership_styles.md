@@ -1,8 +1,8 @@
 ---
-title: "Most Common Leadership Styles in Business for 2024"
+title: "Most Common Leadership Styles in Business for 2025"
 layout: post
 date: 2024-01-15
-update_date: 2024-05-30
+update_date: 2025-01-01
 author: jack_nicholaisen
 summary: "Learn everything you need to know about leading your business in the most effecting way. These are the most popular types of learship in business!" 
 thumbnail: /images/posts-headers/business-leadership-styles-stats-header.png

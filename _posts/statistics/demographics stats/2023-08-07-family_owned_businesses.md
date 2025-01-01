@@ -2,7 +2,7 @@
 title: "The Family-Owned Business - Analysis of Their Success and Longevity"
 layout: post
 date: 2023-08-07
-update_date: 2024-06-25
+update_date: 2025-01-01
 author: jack_nicholaisen
 summary: "Explore family-owned businesses' success rates, longevity, and growth factors. Gain insights to navigate unique challenges and benefits."
 permalink: /statistics/demographics/family-owned/
@@ -20,7 +20,7 @@ Whether you're an entrepreneur considering starting a family business or a busin
 
 Family-owned businesses account for a significant portion of the global economy. 
 
-According to [Family Business Magazine](https://www.familybusinessmagazine.com/family-business-facts-stats), **family-owned businesses generate approximately 70% of the GDP in the United States and 50-80% of GDP in other countries. 
+According to <a href="https://www.familybusinessmagazine.com/family-business-facts-stats" target="_blank">Family Business Magazine</a>, **family-owned businesses generate approximately 70% of the GDP in the United States and 50-80% of GDP in other countries. 
 
 They also account for 60% of total employment in the US**.
 
@@ -28,25 +28,25 @@ However, these businesses face unique challenges, such as succession planning, f
 
 Despite these challenges, family-owned businesses tend to have higher success rates than non-family businesses. 
 
-A [study by Harvard Business School](https://www.hbs.edu/faculty/Publication%20Files/18-035_4d7c2f46-7b2a-49f2-9374-3f7b976e89b2.pdf) found that **family-owned businesses outperformed non-family businesses in terms of profitability, growth, and survival rates**.
+A <a href="https://www.hbs.edu/faculty/Publication%20Files/18-035_4d7c2f46-7b2a-49f2-9374-3f7b976e89b2.pdf" target="_blank">study by Harvard Business School</a> found that **family-owned businesses outperformed non-family businesses in terms of profitability, growth, and survival rates**.
 
-According to a survey by [PwC](https://www.pwc.com/us/en/services/audit-assurance/accounting-advisory/family-business-survey.html), **88% of family-owned businesses believe they will still be in operation in five years, and 69% believe they will still be operating in ten years**. 
+According to a survey by <a href="https://www.pwc.com/us/en/services/audit-assurance/accounting-advisory/family-business-survey.html" target="_blank">PwC</a>, **88% of family-owned businesses believe they will still be in operation in five years, and 69% believe they will still be operating in ten years**. 
 
 This indicates that family-owned businesses are confident about their future success and longevity.
 
-Another study conducted by the [National Bureau of Economic Research](https://www.nber.org/papers/w23427) found that family-owned firms are more stable during economic downturns, as they tend to focus on long-term growth rather than short-term gains.
+Another study conducted by the <a href="https://www.nber.org/papers/w23427" target="_blank">National Bureau of Economic Research</a> found that family-owned firms are more stable during economic downturns, as they tend to focus on long-term growth rather than short-term gains.
 
-A [report by Credit Suisse](https://www.credit-suisse.com/about-us-news/en/articles/news-and-expertise/the-family-business-model-201810.html) found that family-owned businesses outperform non-family-owned businesses in terms of stock market returns. 
+A <a href="https://www.credit-suisse.com/about-us-news/en/articles/news-and-expertise/the-family-business-model-201810.html" target="_blank">report by Credit Suisse</a> found that family-owned businesses outperform non-family-owned businesses in terms of stock market returns. 
 
 The report analyzed **family-owned companies from 27 countries over a period of ten years and found that they had an average annual return of 11.6%, compared to 6.4% for non-family-owned firms**.
 
-Furthermore, a study by the [Global Family Business Index](https://www.tharawat-magazine.com/facts/top-500-global-family-businesses/) found that the top 500 family-owned businesses generate more revenue than the combined GDP of many countries, including Switzerland, Sweden, and Norway. 
+Furthermore, a study by the <a href="https://www.tharawat-magazine.com/facts/top-500-global-family-businesses/" target="_blank">Global Family Business Index</a> found that the top 500 family-owned businesses generate more revenue than the combined GDP of many countries, including Switzerland, Sweden, and Norway. 
 
 **The combined revenue of these top 500 family-owned businesses was \$7.2 trillion in 2020**.
 
 Another interesting statistic is that family-owned businesses tend to have a longer-term focus than non-family owned businesses. 
 
-A report by [Ernst & Young](https://www.ey.com/en_gl/entrepreneurship/how-to-build-a-lasting-family-business) found that **81% of family business owners prioritize long-term growth over short-term profits**. 
+A report by <a href="https://www.ey.com/en_gl/entrepreneurship/how-to-build-a-lasting-family-business" target="_blank">Ernst & Young</a> found that **81% of family business owners prioritize long-term growth over short-term profits**. 
 
 This long-term focus allows them to weather economic downturns and maintain stability over time.
 
@@ -57,30 +57,30 @@ Family-owned businesses have been shown to have a competitive advantage over oth
 Additionally, these businesses may offer unique benefits for both owners and investors, as evidenced by the various sources cited here.
 
 <p>
-<b>➤ Discover: </b> <a href="https://www.businessinitiative.org/statistics/small-businesses/survival-and-failure-rate/" target="_blank">Unlock the secrets to avoid the most common pitfalls small businesses face in 2024!</a>
+<b>➤ Discover: </b> <a href="https://www.businessinitiative.org/statistics/small-businesses/survival-and-failure-rate/" target="_blank">Unlock the secrets to avoid the most common pitfalls small businesses face in 2025!</a>
 </p>
 
 ## Longevity of Family-Owned Businesses
 
 One of the most compelling aspects of family-owned businesses is their potential for longevity. 
 
-According to a [survey by EY](https://www.ey.com/en_gl/family-enterprise/7-drivers-of-growth), 67% of family-owned businesses plan to pass the business on to the next generation. 
+According to a <a href="https://www.ey.com/en_gl/family-enterprise/7-drivers-of-growth" target="_blank">survey by EY</a>, 67% of family-owned businesses plan to pass the business on to the next generation. 
 
-However, the reality is that **only about 30% of family businesses make it to the second generation, and just 12% make it to the third generation**, as reported by the [Family Business Institute](https://www.familybusinessinstitute.com/consulting/succession_planning/).
+However, the reality is that **only about 30% of family businesses make it to the second generation, and just 12% make it to the third generation**, as reported by the <a href="https://www.familybusinessinstitute.com/consulting/succession_planning/" target="_blank">Family Business Institute</a>.
 
 Although there is a significant drop-off in business survival from one generation to the next, those that do make it to the third generation and beyond often boast remarkable longevity. 
 
-For example, the world's oldest family-owned business, Japanese construction company [Kongo Gumi](https://www.kongogumi.co.jp/en/about/history.html), was founded in 578 AD and remained family-owned until 2006.
+For example, the world's oldest family-owned business, Japanese construction company <a href="https://www.kongogumi.co.jp/en/about/history.html" target="_blank">Kongo Gumi</a>, was founded in 578 AD and remained family-owned until 2006.
 
-According to a study by the [Center for Family Business at the University of St. Gallen in Switzerland](https://www.unisg.ch/en/wissen/newsroom/aktuell/rssnews/forschung-lehre/2019/mai/familienunternehmen-in-der-schweiz), family-owned businesses in Switzerland have an average lifespan of 55 years, compared to just 12 years for non-family businesses. 
+According to a study by the <a href="https://www.unisg.ch/en/wissen/newsroom/aktuell/rssnews/forschung-lehre/2019/mai/familienunternehmen-in-der-schweiz" target="_blank">Center for Family Business at the University of St. Gallen in Switzerland</a>, family-owned businesses in Switzerland have an average lifespan of 55 years, compared to just 12 years for non-family businesses. 
 
-Similarly, a [study by Credit Suisse](https://www.credit-suisse.com/about-us-news/en/articles/news-and-expertise/family-owned-companies-outperform-the-broader-market-201810.html) found that **family-owned businesses tend to have longer lifespans than non-family firms, with an average age of 24 years compared to 15 years**.
+Similarly, a <a href="https://www.credit-suisse.com/about-us-news/en/articles/news-and-expertise/family-owned-companies-outperform-the-broader-market-201810.html" target="_blank">study by Credit Suisse</a> found that **family-owned businesses tend to have longer lifespans than non-family firms, with an average age of 24 years compared to 15 years**.
 
-A study conducted by [The Conway Center for Family Business](https://www.familybusinesscenter.com/wp-content/uploads/2019-State-of-the-Industry.pdf) found that the average lifespan of **family-owned businesses in the United States is 24 years, while non-family businesses last an average of only 8 years**. 
+A study conducted by <a href="https://www.familybusinesscenter.com/wp-content/uploads/2019-State-of-the-Industry.pdf" target="_blank">The Conway Center for Family Business</a> found that the average lifespan of **family-owned businesses in the United States is 24 years, while non-family businesses last an average of only 8 years**. 
 
 Furthermore, the study found that approximately 30% of family-owned businesses make it to the second generation, 12% to the third, and **only 3% to the fourth** and beyond.
 
-Another survey conducted by [PwC](https://www.pwc.com/gx/en/services/family-business/family-business-survey-2019.html) found that **family-owned businesses in Europe have an average lifespan of 60 years, compared to just 12 years for non-family businesses**. 
+Another survey conducted by <a href="https://www.pwc.com/gx/en/services/family-business/family-business-survey-2019.html" target="_blank">PwC</a> found that **family-owned businesses in Europe have an average lifespan of 60 years, compared to just 12 years for non-family businesses**. 
 
 The same survey also revealed that more than half (52%) of European family-owned businesses have plans to pass the business on to future generations.
 
@@ -130,26 +130,24 @@ By prioritizing succession planning, balancing family and business roles, embrac
 
 Are you ready to take your family-owned business to new heights?
 
-Explore our [resources](https://www.businessinitiative.org/statistics/) and [consulting services](https://calendly.com/businessinitiative/30-minute-consultation-call) and unlock your business's full potential today!
+Explore our <a href="https://www.businessinitiative.org/statistics/" target="_blank">resources</a> and <a href="https://calendly.com/businessinitiative/30-minute-consultation-call" target="_blank">consulting services</a> and unlock your business's full potential today!
 
 <br>
 <details>
 <summary><b>Sources</b></summary>
 <br>
 <ul>
-    <li><a href="https://www.familybusinessmagazine.com/family-business-facts-stats">Family Business Magazine - Facts & Stats</a></li>
-    <li><a href="https://www.hbs.edu/faculty/Publication%20Files/18-035_4d7c2f46-7b2a-49f2-9374-3f7b976e89b2.pdf">Harvard Business School - Family Firms in the S&amp;P 500</a></li>
-    <li><a href="https://www.ey.com/en_gl/family-enterprise/7-drivers-of-growth">EY - 7 Drivers of Growth</a></li>
-    <li><a href="https://www.familybusinessinstitute.com/consulting/succession_planning/">Family Business Institute - Succession Planning</a></li>
-    <li><a href="https://www.kongogumi.co.jp/en/about/history.html">Kongo Gumi - Company History</a></li>
-    <li><a href="https://www.pwc.com/gx/en/services/family-business/family-business-survey-2019.html">PwC Family Business Survey</a></li>
-    <li><a href="https://www.nber.org/papers/w23427">National Bureau of Economic Research Study</a></li>
-    <li><a href="https://www.credit-suisse.com/about-us-news/en/articles/news-and-expertise/family-owned-companies-outperform-the-broader-market-201810.html">Credit Suisse Report on Family-Owned Companies</a></li>
-    <li><a href="https://www.tharawat-magazine.com/facts/top-500-global-family-businesses/">Global Family Business Index - Top 500 Global Family Businesses</a></li>
-    <li><a href="https://www.ey.com/en_gl/entrepreneurship/how-to-build-a-lasting-family-business">Ernst &amp; Young Report on Building a Lasting Family Business</a></li>
-    <li><a href="https://www.unisg.ch/en/wissen/newsroom/aktuell/rssnews/forschung-lehre/2019/mai/familienunternehmen-in-der-schweiz">Center for Family Business at the University of St. Gallen in Switzerland Study</a></li>
-    <li><a href="https://www.familybusinesscenter.com/wp-content/uploads/2019-State-of-the-Industry.pdf">The Conway Center for Family Business Study on State of the Industry</a></li>
+    <li><a href="https://www.familybusinessmagazine.com/family-business-facts-stats" target="_blank">Family Business Magazine - Facts & Stats</a></li>
+    <li><a href="https://www.hbs.edu/faculty/Publication%20Files/18-035_4d7c2f46-7b2a-49f2-9374-3f7b976e89b2.pdf" target="_blank">Harvard Business School - Family Firms in the S&amp;P 500</a></li>
+    <li><a href="https://www.ey.com/en_gl/family-enterprise/7-drivers-of-growth" target="_blank">EY - 7 Drivers of Growth</a></li>
+    <li><a href="https://www.familybusinessinstitute.com/consulting/succession_planning/" target="_blank">Family Business Institute - Succession Planning</a></li>
+    <li><a href="https://www.kongogumi.co.jp/en/about/history.html" target="_blank">Kongo Gumi - Company History</a></li>
+    <li><a href="https://www.pwc.com/gx/en/services/family-business/family-business-survey-2019.html" target="_blank">PwC Family Business Survey</a></li>
+    <li><a href="https://www.nber.org/papers/w23427" target="_blank">National Bureau of Economic Research Study</a></li>
+    <li><a href="https://www.credit-suisse.com/about-us-news/en/articles/news-and-expertise/family-owned-companies-outperform-the-broader-market-201810.html" target="_blank">Credit Suisse Report on Family-Owned Companies</a></li>
+    <li><a href="https://www.tharawat-magazine.com/facts/top-500-global-family-businesses/" target="_blank">Global Family Business Index - Top 500 Global Family Businesses</a></li>
+    <li><a href="https://www.ey.com/en_gl/entrepreneurship/how-to-build-a-lasting-family-business" target="_blank">Ernst &amp; Young Report on Building a Lasting Family Business</a></li>
+    <li><a href="https://www.unisg.ch/en/wissen/newsroom/aktuell/rssnews/forschung-lehre/2019/mai/familienunternehmen-in-der-schweiz" target="_blank">Center for Family Business at the University of St. Gallen in Switzerland Study</a></li>
+    <li><a href="https://www.familybusinesscenter.com/wp-content/uploads/2019-State-of-the-Industry.pdf" target="_blank">The Conway Center for Family Business Study on State of the Industry</a></li>
 </ul>
 </details>
-
-

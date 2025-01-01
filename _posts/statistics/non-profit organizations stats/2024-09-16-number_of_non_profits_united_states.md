@@ -1,8 +1,8 @@
 ---
-title: "Number of Nonprofits in the U.S. - The Influence of Non Profits on the U.S. Economy in 2024"
+title: "Number of Nonprofits in the U.S. - The Influence of Non Profits on the U.S. Economy in 2025"
 layout: post
 date: 2024-09-16
-update_date: 2024-12-10
+update_date: 2025-01-01
 author: jack_nicholaisen
 summary: "Discover how many nonprofits organizations operate in the U.S. and their powerful influence on the economy. Explore the surprising facts behind their far-reaching impact!"
 thumbnail: /images/posts-headers/number-of-non-profits-united-states-header.jpg

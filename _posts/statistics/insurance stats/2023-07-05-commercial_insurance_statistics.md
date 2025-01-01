@@ -1,10 +1,10 @@
 ---
-title: "57+ Commercial Insurance Facts & Statistics | 2024"
+title: "57+ Commercial Insurance Facts & Statistics | 2025"
 layout: post
 date: 2023-07-05
-update_date: 2024-01-18
+update_date: 2025-01-01
 author: jack_nicholaisen
-summary: "Explore over 57 key Commercial Insurance facts for 2024: Industry trends, claim data, and tips for informed coverage decisions."
+summary: "Explore over 57 key Commercial Insurance facts for 2025: Industry trends, claim data, and tips for informed coverage decisions."
 permalink: /statistics/commercial-insurance-statistics/
 redirect_from: /stats/commercial-insurance-statistics/
 ---
@@ -41,41 +41,41 @@ Insurance providers protect the economic system from total collapse by taking th
 
 ### 1.	
 
-According to the [United States Census Bureau](https://data.census.gov/table?q=NONEMP2019.NS1900NONEMP&tid=NONEMP2019.NS1900NONEMP&hidePreview=true), there were 27,104,006 active businesses in US in 2019 and the number is constantly growing! Of those 27 million, 8 million fall into the category of small businesses.
+According to the <a href="https://data.census.gov/table?q=NONEMP2019.NS1900NONEMP&tid=NONEMP2019.NS1900NONEMP&hidePreview=true" target="_blank">United States Census Bureau</a>, there were 27,104,006 active businesses in US in 2019 and the number is constantly growing! Of those 27 million, 8 million fall into the category of small businesses.
 
 ### 2.	
 
-In the United States, all [direct insurance policies](https://read.oecd-ilibrary.org/finance-and-investment/oecd-insurance-statistics-2021_841fa619-en#page12) combined made up a total of 7.565702 trillion dollars in 2020. 
+In the United States, all <a href="https://read.oecd-ilibrary.org/finance-and-investment/oecd-insurance-statistics-2021_841fa619-en#page12" target="_blank">direct insurance policies</a> combined made up a total of 7.565702 trillion dollars in 2020. 
 
 ### 3.	
 
-[Insurance spending](https://data.oecd.org/insurance/insurance-spending.htm#indicator-chart) (7.57T) in the US for 2020 accounts for 9.447% of the total GDP.
+<a href="https://data.oecd.org/insurance/insurance-spending.htm#indicator-chart" target="_blank">Insurance spending</a> (7.57T) in the US for 2020 accounts for 9.447% of the total GDP.
 
 ### 4.	
 
-Based on [2020 data](https://read.oecd-ilibrary.org/finance-and-investment/oecd-insurance-statistics-2021_b2497b49-en#page11), the US accounts for 56.2% of the market share in the OECD for all insurance spending. 
+Based on <a href="https://read.oecd-ilibrary.org/finance-and-investment/oecd-insurance-statistics-2021_b2497b49-en#page11" target="_blank">2020 data</a>, the US accounts for 56.2% of the market share in the OECD for all insurance spending. 
 
-The OCED [(Organization for Economic Co-Operation and Development)](https://www.oecd.org/) is actively improving the world by setting standards and finding solutions to social, economic, and environmental challenges. 
+The OCED [<a href="https://www.oecd.org/" target="_blank">Organization for Economic Co-Operation and Development</a>] is actively improving the world by setting standards and finding solutions to social, economic, and environmental challenges. 
 
 They use data and analysis to help form policies and set international standards. 
 
 ### 5.	
 
-[Commercial Insurance premiums](https://www.iii.org/fact-statistic/facts-statistics-commercial-lines) made up 50.2% of all Property and Casualty insurance premiums written in the United States in 2021. 
+<a href="https://www.iii.org/fact-statistic/facts-statistics-commercial-lines" target="_blank">Commercial Insurance premiums</a> made up 50.2% of all Property and Casualty insurance premiums written in the United States in 2021. 
 
 The remaining 49.8% consists of personal lines of auto and homeowners insurance.
 
 ### 6.	
 
-$359,600,000,000 ($359.6 Billion) was spent on [Commercial Insurance premiums](https://www.iii.org/fact-statistic/facts-statistics-commercial-lines) in 2021, where as $356.3 Billion was spent on Personal insurance.
+$359,600,000,000 ($359.6 Billion) was spent on <a href="https://www.iii.org/fact-statistic/facts-statistics-commercial-lines" target="_blank">Commercial Insurance premiums</a> in 2021, where as $356.3 Billion was spent on Personal insurance.
 
 ### 7.	
 
-Of the [Commercial Insurance lines](https://www.iii.org/fact-statistic/facts-statistics-commercial-lines), there was a total of $184,908,130,000 in losses incurred in 2021 alone. 
+Of the <a href="https://www.iii.org/fact-statistic/facts-statistics-commercial-lines" target="_blank">Commercial Insurance lines</a>, there was a total of $184,908,130,000 in losses incurred in 2021 alone. 
 
 ### 8.	
 
-Of the $1.3516 Trillion spent on insurance premiums in 2021, over half 53% was on [Property and Casualty insurance.](https://www.iii.org/fact-statistic/facts-statistics-industry-overview) 
+Of the $1.3516 Trillion spent on insurance premiums in 2021, over half 53% was on <a href="https://www.iii.org/fact-statistic/facts-statistics-industry-overview" target="_blank">Property and Casualty insurance.</a> 
 
 This comes out to $715.9 Billion going to Property and Casualty insurance. 
 
@@ -83,7 +83,7 @@ The other $635.7 Billion went towards Life and Annuity insurance, making up the 
 
 ### 9.	
 
-During 2021, there were 1,566,900 [insurance carriers operating in the US.](https://www.iii.org/table-archive/21378) 628,600 (40.12%) specialized in Property and Casualty insurance. 
+During 2021, there were 1,566,900 <a href="https://www.iii.org/table-archive/21378" target="_blank">insurance carriers operating in the US.</a> 628,600 (40.12%) specialized in Property and Casualty insurance. 
 
 The rest of the insurance carriers fall into the categories of Life and Health 911,400 (58.16%) and Reinsurers 26,900 (1.72%). 
 	
@@ -91,26 +91,26 @@ The rest of the insurance carriers fall into the categories of Life and Health 9
 
 Unfortunately, not all the small businesses who needed insurance actually had any. 
 
-An AdvisorSmith study from 2020 on [small business insurance claims](https://advisorsmith.com/data/small-business-claims-statistics/) in the United States revealed only 66.0% of those companies surveyed carried insurance coverage.
+An AdvisorSmith study from 2020 on <a href="https://advisorsmith.com/data/small-business-claims-statistics/" target="_blank">small business insurance claims</a> in the United States revealed only 66.0% of those companies surveyed carried insurance coverage.
 
 ### 11.	
 
-Great Places To Work conducted a survey of the [Fortune 100 Best Companies to Work](https://www.greatplacetowork.com/best-workplaces/100-best/2022) for in 2022. 
+Great Places To Work conducted a survey of the <a href="https://www.greatplacetowork.com/best-workplaces/100-best/2022" target="_blank">Fortune 100 Best Companies to Work</a> for in 2022. 
 
 Of those hundred, 5 happen to be insurance providers. 
 
 Namely:
-*   [Nationwide Mutual Insurance Company](https://www.nationwide.com/)
-*   [The Progressive Corporation](https://www.progressive.com/)
-*   [Allianz Life Insurance Company of North America](https://www.allianzlife.com/)
-*   [Mutual of Omaha](https://www.mutualofomaha.com/)
-*   [Farmers Insurance](https://www.farmers.com/)
+*   <a href="https://www.nationwide.com/" target="_blank">Nationwide Mutual Insurance Company</a>
+*   <a href="https://www.progressive.com/" target="_blank">The Progressive Corporation</a>
+*   <a href="https://www.allianzlife.com/" target="_blank">Allianz Life Insurance Company of North America</a>
+*   <a href="https://www.mutualofomaha.com/" target="_blank">Mutual of Omaha</a>
+*   <a href="https://www.farmers.com/" target="_blank">Farmers Insurance</a>
 
 ##  5 Facts About Business Insurance Demographics
 
 ### 1.	
 
-When it comes to [insurance agents in the United States...](https://www.bls.gov/cps/cpsaat11.htm)
+When it comes to <a href="https://www.bls.gov/cps/cpsaat11.htm" target="_blank">insurance agents in the United States...</a>
 *   81.5% are white, 
 *   11.8% are black or African American, 
 *   4.1% are asian, 
@@ -120,15 +120,15 @@ When it comes to [insurance agents in the United States...](https://www.bls.gov/
 
 In 2021, women made up 50% of the 600,000 insurance sales agents in the United States. 
 
-This is makes the [insurance agent industry](https://www.bls.gov/cps/cpsaat11.htm) one of the most gender neutral occupations. 
+This is makes the <a href="https://www.bls.gov/cps/cpsaat11.htm" target="_blank">insurance agent industry</a> one of the most gender neutral occupations. 
 
-It’s actually higher than the 46.8% of women who make up the U.S. workforce for all occupations.
+It's actually higher than the 46.8% of women who make up the U.S. workforce for all occupations.
 
 ### 3.	
 
 Younger business owners (aged 18 to 44) are significantly more likely to carry some form of commercial insurance as opposed to business owners 45 years old and older. 
 
-[The data presented below](https://advisorsmith.com/data/small-business-claims-statistics/) shows young owners are TWICE as likely to carry business insurance.
+<a href="https://advisorsmith.com/data/small-business-claims-statistics/" target="_blank">The data presented below</a> shows young owners are TWICE as likely to carry business insurance.
 
 |Age of Business Owners |Percentage Carrying Business Insurance |
 |:-----------------------:|:-------------------------------------:|
@@ -147,20 +147,19 @@ Dr. Robert Hartwig, co-director of the Risk and Uncertainty Management Center at
 ### 4.	
 
 55.8% of small businesses in the AdvisorSmith survey said they filed an insurance claim in 2020. 
+This is especially interesting considering the fact that <a href="https://advisorsmith.com/data/small-business-claims-statistics/" target="_blank">76.2% of businesses said they dealt with an insurable situation</a> during the same year. 
 
-This is especially interesting considering the fact that [76.2% of businesses said they dealt with an insurable situation](https://advisorsmith.com/data/small-business-claims-statistics/) during the same year. 
-
-So what happened to the other 20.4% of business who didn’t file a claim?
+So what happened to the other 20.4% of business who didn't file a claim?
 
 Odds are they decided to forgo the paperwork involved in submitting a claim to their insurance provider. 
 
-By paying claims out of the company’s pocket, some people can end up saving the business money because their premiums won’t increase. 
+By paying claims out of the company's pocket, some people can end up saving the business money because their premiums won't increase. 
 
 Paying out of pocket also eliminates worries about whether or not an insurance police will fully cover the insurable incident. 
 
 ### 5.	
 
-Compared to their male counterparts, [female business owners](https://advisorsmith.com/data/small-business-claims-statistics/) were less likely to file an insurance claim even though men and women share similar rates for carrying Commercial insurance (67.8% and 63.2%, respectively). 
+Compared to their male counterparts, <a href="https://advisorsmith.com/data/small-business-claims-statistics/" target="_blank">female business owners</a> were less likely to file an insurance claim even though men and women share similar rates for carrying Commercial insurance (67.8% and 63.2%, respectively). 
 
 *   40.4% of female business owners who took the survey reported filing a claim in 2020
 *   65.6% of the males surveyed said they filed a claim in 2020
@@ -179,19 +178,19 @@ Many businesses have been financially ruined by such incidents.
 
 ### 1.	
 
-For every 10 small businesses, 4 of them are likely to file a Property or General Liability insurance claim within their first 10 years of operating, based on statistics from [The Hartford.](https://newsroom.thehartford.com/newsroom-home/news-releases/news-releases-details/2015/The-Hartford-Reports-More-Than-40-Percent-Of-Small-Businesses-Will-Experience-A-Claim-In-The-Next-10-Years/)
+For every 10 small businesses, 4 of them are likely to file a Property or General Liability insurance claim within their first 10 years of operating, based on statistics from <a href="https://newsroom.thehartford.com/newsroom-home/news-releases/news-releases-details/2015/The-Hartford-Reports-More-Than-40-Percent-Of-Small-Businesses-Will-Experience-A-Claim-In-The-Next-10-Years/" target="_blank">The Hartford.</a>
 
 ### 2.
 
-3 out of 4 small businesses faced a situation in 2020 where they either could have used or did use a [commercial insurance policy](https://advisorsmith.com/data/small-business-claims-statistics/). 
+3 out of 4 small businesses faced a situation in 2020 where they either could have used or did use a <a href="https://advisorsmith.com/data/small-business-claims-statistics/" target="_blank">commercial insurance policy</a>. 
 
-Based on AdvisorSmith’s April 2021 study 76.2% of the 1000 small companies surveyed dealt with circumstances where they would have implemented business insurance. 
+Based on AdvisorSmith's April 2021 study 76.2% of the 1000 small companies surveyed dealt with circumstances where they would have implemented business insurance. 
 
 On the other hand, 23.8% of businesses surveyed were fortunate enough to not have to deal with an incident where insurance would have been necessary. 
 
 ### 3.	
 
-The [most common claim small businesses make](https://newsroom.thehartford.com/newsroom-home/news-releases/news-releases-details/2015/The-Hartford-Reports-More-Than-40-Percent-Of-Small-Businesses-Will-Experience-A-Claim-In-The-Next-10-Years/default.aspx) is burglary and theft, but that’s not the highest-priced claim businesses are likely to make. 
+The <a href="https://newsroom.thehartford.com/newsroom-home/news-releases/news-releases-details/2015/The-Hartford-Reports-More-Than-40-Percent-Of-Small-Businesses-Will-Experience-A-Claim-In-The-Next-10-Years/default.aspx" target="_blank">most common claim small businesses make</a> is burglary and theft, but that's not the highest-priced claim businesses are likely to make. 
 
 The most expensive claims fall into the category of reputational harm. 
 
@@ -199,7 +198,7 @@ This includes damages coming from offenses like slander, libel, and invasion of 
 
 ### 4.
 
-Here is a breakdown of the “[10 Most Likely Property and Liability Insurance Claims Small Businesses Made from 2010 to 2014](https://newsroom.thehartford.com/newsroom-home/news-releases/news-releases-details/2015/The-Hartford-Reports-More-Than-40-Percent-Of-Small-Businesses-Will-Experience-A-Claim-In-The-Next-10-Years/default.aspx)”
+Here is a breakdown of the "<a href="https://newsroom.thehartford.com/newsroom-home/news-releases/news-releases-details/2015/The-Hartford-Reports-More-Than-40-Percent-Of-Small-Businesses-Will-Experience-A-Claim-In-The-Next-10-Years/default.aspx" target="_blank">10 Most Likely Property and Liability Insurance Claims Small Businesses Made from 2010 to 2014</a>"
 
 |Most Common 	       |Percentage of Total Claim       |
 |:-------------------------:|:---------------------------------------:|
@@ -216,7 +215,7 @@ Here is a breakdown of the “[10 Most Likely Property and Liability Insurance C
 
 ### 5.
 
-Based on The Hartford’s data from 2010 to 2014, which includes over [1 million business insurance policies](https://newsroom.thehartford.com/newsroom-home/news-releases/news-releases-details/2015/The-Hartford-Reports-More-Than-40-Percent-Of-Small-Businesses-Will-Experience-A-Claim-In-The-Next-10-Years/default.aspx), 1/5 businesses faced incidents of burglary and theft. 
+Based on The Hartford's data from 2010 to 2014, which includes over <a href="https://newsroom.thehartford.com/newsroom-home/news-releases/news-releases-details/2015/The-Hartford-Reports-More-Than-40-Percent-Of-Small-Businesses-Will-Experience-A-Claim-In-The-Next-10-Years/default.aspx" target="_blank">1 million business insurance policies</a>, 1/5 businesses faced incidents of burglary and theft.
 
 In reality, burglary and theft claims averaged $8,000 in damages. 
 
@@ -226,7 +225,7 @@ When reputational harm claim is filed through a General Liability policy, the av
 
 ### 6.
 
-For your convenience, here’s a deeper look at the average cost of the “[10 Most Expensive Property and Liability Insurance Claims for Small Businesses (2010 - 2014)](https://newsroom.thehartford.com/newsroom-home/news-releases/news-releases-details/2015/The-Hartford-Reports-More-Than-40-Percent-Of-Small-Businesses-Will-Experience-A-Claim-In-The-Next-10-Years/default.aspx)”
+For your convenience, here's a deeper look at the average cost of the "<a href="https://newsroom.thehartford.com/newsroom-home/news-releases/news-releases-details/2015/The-Hartford-Reports-More-Than-40-Percent-Of-Small-Businesses-Will-Experience-A-Claim-In-The-Next-10-Years/default.aspx" target="_blank">10 Most Expensive Property and Liability Insurance Claims for Small Businesses (2010 - 2014)</a>"
 
 |Most Expensive |Average Cost of Claim (Costs increase if lawsuits are involved)	|
 |:-----------------:|:-------------------------------------------------------------------:|
@@ -245,7 +244,7 @@ For your convenience, here’s a deeper look at the average cost of the “[10 M
 
 For a more recent breakdown of the most common situations 1000 small business faced in 2020. 
 
-A few of the businesses who participated in [the survey](https://advisorsmith.com/data/small-business-claims-statistics/) actually reported multiple insurable events. Check out the results:
+A few of the businesses who participated in <a href="https://advisorsmith.com/data/small-business-claims-statistics/" target="_blank">the survey</a> actually reported multiple insurable events. Check out the results:
 
 |Event 	|Percentage of reports 	|Corresponding Insurance	|
 |:----------:|:--------------------------:|:---------------------:|
@@ -263,7 +262,7 @@ A few of the businesses who participated in [the survey](https://advisorsmith.co
 
 ### 8.
 
-The [Frankenmuth Insurance Company](https://www.fmins.com/) said their most common business claims have been from cases of [burglary and theft.](https://www.fmins.com/blog/business-insurance-claims-examples/) 
+The <a href="https://www.fmins.com/" target="_blank">Frankenmuth Insurance Company</a> said their most common business claims have been from cases of <a href="https://www.fmins.com/blog/business-insurance-claims-examples/" target="_blank">burglary and theft.</a>
 
 As a matter of fact 42% of inventory losses accounted for in the US were by company employees. 
 
@@ -273,27 +272,27 @@ Other common business insurance claims where caused by water, wind and hail, fir
 
 ### 9.
 
-The [Coalition Against Insurance Fraud](https://insurancefraud.org/) released a 2022 report on “The Impact of Insurance Fraud on the U.S. Economy”. 
+The <a href="https://insurancefraud.org/" target="_blank">Coalition Against Insurance Fraud</a> released a 2022 report on "The Impact of Insurance Fraud on the U.S. Economy". 
 
-They stated in [this report](https://insurancefraud.org/wp-content/uploads/The-Impact-of-Insurance-Fraud-on-the-U.S.-Economy-Report-2022-8.26.2022.pdf) that insurance fraud cost the U.S. $308.6 Billion in 2022 alone.  
+They stated in <a href="https://insurancefraud.org/wp-content/uploads/The-Impact-of-Insurance-Fraud-on-the-U.S.-Economy-Report-2022-8.26.2022.pdf" target="_blank">this report</a> that insurance fraud cost the U.S. $308.6 Billion in 2022 alone.  
 
 ### 10.
 
-In 2020 47% of Americans experienced [financial data theft.](https://www.iii.org/fact-statistic/facts-statistics-identity-theft-and-cybercrime) From 2020 to 2021, data security breaches increased by 68%. 
+In 2020 47% of Americans experienced <a href="https://www.iii.org/fact-statistic/facts-statistics-identity-theft-and-cybercrime" target="_blank">financial data theft.</a> From 2020 to 2021, data security breaches increased by 68%. 
 
 ### 11.
 
-Based on the [FBI’s](https://www.fbi.gov/) 2021 Internet Crime Report, there were [847,376 cyber crimes reported by the public.](https://www.ic3.gov/Media/PDF/AnnualReport/2021_IC3Report.pdf) That is a 7% increase from 2020. 
+Based on the <a href="https://www.fbi.gov/" target="_blank">FBI's</a> 2021 Internet Crime Report, there were <a href="https://www.ic3.gov/Media/PDF/AnnualReport/2021_IC3Report.pdf" target="_blank">847,376 cyber crimes reported by the public.</a> That is a 7% increase from 2020. 
 
 These cyber crimes caused a total of $18.7 Billion in damages and losses. 
 
 ### 12.
 
-According to the Hiscox’s [Cyber Readiness Report for 2022](https://www.hiscox.com/documents/Hiscox-Cyber-Readiness-Report-2022.pdf), cyber attacks increased by 80% for American Businesses. 
+According to the Hiscox's <a href="https://www.hiscox.com/documents/Hiscox-Cyber-Readiness-Report-2022.pdf" target="_blank">Cyber Readiness Report for 2022</a>, cyber attacks increased by 80% for American Businesses. 
 
 34% of US businesses have a cyber specific insurance policy. 
 
-64% of businesses have either a standalone [cyber insurance policy](https://www.hiscox.com/cybersecurity) or have added one to an [existing policy.](https://www.hiscox.com/small-business-insurance-lp?medium=tsa&_vsrefdom=2019041702&leadorigin=SEM_Brand_Bing&gclsrc=ds&gclsrc=ds) 
+64% of businesses have either a standalone <a href="https://www.hiscox.com/cybersecurity" target="_blank">cyber insurance policy</a> or have added one to an <a href="https://www.hiscox.com/small-business-insurance-lp?medium=tsa&_vsrefdom=2019041702&leadorigin=SEM_Brand_Bing&gclsrc=ds&gclsrc=ds" target="_blank">existing policy.</a>
 
 The median cost of a cyber attack in the US for 2022 was $18,800 with the highest cost of a cyber attack being around $2,000,000. 
 
@@ -303,7 +302,7 @@ Compare this to worldwide cyber attack statistics where the average cost was jus
 
 ### 13.
 
-In 2014, $23.6 Billion was spent on all types of [fire insurance in the US.](https://www.nfpa.org//-/media/Files/News-and-Research/Fire-statistics-and-reports/US-Fire-Problem/RFTotalCost.pdf) 
+In 2014, $23.6 Billion was spent on all types of <a href="https://www.nfpa.org//-/media/Files/News-and-Research/Fire-statistics-and-reports/US-Fire-Problem/RFTotalCost.pdf" target="_blank">fire insurance in the US.</a>
 
 This is 7.2% of all fire costs for 2014 which is estimated to be around $328.5 Billion.
 
@@ -318,11 +317,11 @@ This is 7.2% of all fire costs for 2014 which is estimated to be around $328.5 B
 
 ### 14.
 
-Approximately 10% of small businesses between 2010 and 2014 filed an insurance claim [due to a fire](https://newsroom.thehartford.com/newsroom-home/news-releases/news-releases-details/2015/The-Hartford-Reports-More-Than-40-Percent-Of-Small-Businesses-Will-Experience-A-Claim-In-The-Next-10-Years/default.aspx) with the average cost coming out to around $35,000.
+Approximately 10% of small businesses between 2010 and 2014 filed an insurance claim <a href="https://newsroom.thehartford.com/newsroom-home/news-releases/news-releases-details/2015/The-Hartford-Reports-More-Than-40-Percent-Of-Small-Businesses-Will-Experience-A-Claim-In-The-Next-10-Years/default.aspx" target="_blank">due to a fire</a> with the average cost coming out to around $35,000.
 
 ### 15.
 
-There were [28 large-loss fires and explosions in 2020.](https://www.nfpa.org/News-and-Research/Data-research-and-tools/US-Fire-Problem/Large-loss-fires-in-the-United-States) 
+There were <a href="https://www.nfpa.org/News-and-Research/Data-research-and-tools/US-Fire-Problem/Large-loss-fires-in-the-United-States" target="_blank">28 large-loss fires and explosions in 2020.</a>
 
 Fires and explosions are considered Large-loss when they cause $10 Million or more in property damage.  
 
@@ -337,25 +336,25 @@ Of these 28...
 
 ### 16.
 
-According to the [NFPA](https://www.nfpa.org/), firefighters responded to a [structural fire in the US every 65 seconds](https://www.nfpa.org/News-and-Research/Data-research-and-tools/US-Fire-Problem/Fires-by-occupancy-or-property-type#propertyuse) in 2021. 
+According to the <a href="https://www.nfpa.org/" target="_blank">NFPA</a>, firefighters responded to a <a href="https://www.nfpa.org/News-and-Research/Data-research-and-tools/US-Fire-Problem/Fires-by-occupancy-or-property-type#propertyuse" target="_blank">structural fire in the US every 65 seconds</a> in 2021. 
 
 Of the 1,353,500 fires responded to in 2021, there were $15.9 Billion in Property damages. 
 
 ### 17.
 
-Non-residential [structural fires increased](https://www.nfpa.org/News-and-Research/Data-research-and-tools/US-Fire-Problem/Fire-loss-in-the-United-States) 13.1% between 2020 and 2021. 
+Non-residential <a href="https://www.nfpa.org/News-and-Research/Data-research-and-tools/US-Fire-Problem/Fire-loss-in-the-United-States" target="_blank">structural fires increased</a> 13.1% between 2020 and 2021. 
 
 This means there were $834,208,210 worth of fire damages caused to properties and structures used for mercantile or business purposes.
 
 ### 18.
 
-The average settlement for [personal injury caused by product liability](https://www.iii.org/fact-statistic/facts-statistics-product-liability) in 2020 was $7,058,106. 
+The average settlement for <a href="https://www.iii.org/fact-statistic/facts-statistics-product-liability" target="_blank">personal injury caused by product liability</a> in 2020 was $7,058,106. 
 
 The average settlement for personal injury caused by general business negligence was $3,110,297. 
 
 ### 19.
 
-The [average personal injury lawsuit](https://www.iii.org/fact-statistic/facts-statistics-product-liability) in 2020 was a whopping $2,448,978. 
+The <a href="https://www.iii.org/fact-statistic/facts-statistics-product-liability" target="_blank">average personal injury lawsuit</a> in 2020 was a whopping $2,448,978. 
 
 The lowest amount awarded for a personal injury lawsuit in 2020 was only $840 but the highest amount paid was $373,763,109. 
 
@@ -363,25 +362,25 @@ Crazy!
 
 ### 20.
 
-According to The Hartford’s data, 35% of all General Liability insurance claims [ended in a lawsuit.](https://newsroom.thehartford.com/newsroom-home/news-releases/news-releases-details/2015/The-Hartford-Reports-More-Than-40-Percent-Of-Small-Businesses-Will-Experience-A-Claim-In-The-Next-10-Years/default.aspx)
+According to The Hartford's data, 35% of all General Liability insurance claims <a href="https://newsroom.thehartford.com/newsroom-home/news-releases/news-releases-details/2015/The-Hartford-Reports-More-Than-40-Percent-Of-Small-Businesses-Will-Experience-A-Claim-In-The-Next-10-Years/default.aspx" target="_blank">ended in a lawsuit.</a>
 
 ##  13 Statistics about Commercial Insurance Trends
 
 Business insurance preferences have shifted drastically in the last 5 years. 
 
-The world has seen the fallout of Covid-19, complete supply chain collapses, cyber security breaches, natural weather disasters, sexual-harassment cases, drug overdoses, a full on war break out between Russia and Ukraine, and many more “breaking-news” events.
+The world has seen the fallout of Covid-19, complete supply chain collapses, cyber security breaches, natural weather disasters, sexual-harassment cases, drug overdoses, a full on war break out between Russia and Ukraine, and many more "breaking-news" events.
 
-Based on these recent developments, the types of insurance policies small businesses need continues to shift as technology advances and business seek new ways to better fulfill their customers’ needs and desires.
+Based on these recent developments, the types of insurance policies small businesses need continues to shift as technology advances and business seek new ways to better fulfill their customers' needs and desires.
 
 ### 1.
 
-With the increasing uncertainty and rapid developments we are seeing in the world, 74.1% of the 1000 business owners who participated in the AdvisorSmith 2020 survey said they planned on either making a first time purchase of [Commercial Insurance](https://advisorsmith.com/data/small-business-claims-statistics/) or increasing their existing business coverage.
+With the increasing uncertainty and rapid developments we are seeing in the world, 74.1% of the 1000 business owners who participated in the AdvisorSmith 2020 survey said they planned on either making a first time purchase of <a href="https://advisorsmith.com/data/small-business-claims-statistics/" target="_blank">Commercial Insurance</a> or increasing their existing business coverage.
 
 ### 2.
 
 Without the right coverage, the 8 million small businesses in the U.S. could be completely decimated by the slightest legal claim or natural disaster. 
 
-[The price of commercial insurance premiums](https://www.iii.org/fact-statistic/facts-statistics-commercial-lines) has been steadily increasing over the past few years and it’s not looking on slowing down any time soon.
+<a href="https://www.iii.org/fact-statistic/facts-statistics-commercial-lines" target="_blank">The price of commercial insurance premiums</a> has been steadily increasing over the past few years and it's not looking on slowing down any time soon.
 
 |Year	|Cost of Commercial Insurance Premiums    |Percent Increase    |
 |:----------:|:-------------------------------------------:|:---------------------:|
@@ -394,9 +393,9 @@ Without the right coverage, the 8 million small businesses in the U.S. could be 
 
 ### 3.
 
-Let’s not forget, if an accident happens to an employee while on the clock, on company property, or while using company equipment, the business is held responsible for paying reparations. 
+Let's not forget, if an accident happens to an employee while on the clock, on company property, or while using company equipment, the business is held responsible for paying reparations. 
 
-Historically, the [annual amount of claimed losses](https://www.iii.org/fact-statistic/facts-statistics-commercial-lines) has been on the rise. 
+Historically, the <a href="https://www.iii.org/fact-statistic/facts-statistics-commercial-lines" target="_blank">annual amount of claimed losses</a> has been on the rise. 
 
 |Year 	|Cost of Incurred Commercial Losses		|Percent Increase    |
 |:----------:|:------------------------------------------:|:----------------------:|
@@ -408,9 +407,9 @@ Historically, the [annual amount of claimed losses](https://www.iii.org/fact-sta
 
 ### 4.
 
-[Commercial Auto Insurance](https://content.naic.org/sites/default/files/inline-files/2021%20Annual%20Property%20%26%20Casualty%20and%20Title%20Industry%20Report.pdf) is currently experiencing one of the greatest consecutive price increases month over month for premiums. 
+<a href="https://content.naic.org/sites/default/files/inline-files/2021%20Annual%20Property%20%26%20Casualty%20and%20Title%20Industry%20Report.pdf" target="_blank">Commercial Auto Insurance</a> is currently experiencing one of the greatest consecutive price increases month over month for premiums. 
 
-In fact, it’s been increasing for the past 9 and a half years (38 annual quarters). 
+In fact, it's been increasing for the past 9 and a half years (38 annual quarters). 
 
 In 2021 the price increase topped out at 8%. 
 
@@ -418,15 +417,15 @@ This is lower than the 8.1% average of price increases for all insurance policie
 
 ### 5.
 
-In quarter 2 of 2022 the change in price of Commercial Insurance in the US [increased by 10%.](https://www.statista.com/statistics/1053503/change-commercial-insurance-prices-usa/) 
+In quarter 2 of 2022 the change in price of Commercial Insurance in the US <a href="https://www.statista.com/statistics/1053503/change-commercial-insurance-prices-usa/" target="_blank">increased by 10%.</a> 
 
 This marks 3 and a half consecutive years where the price of Commercial Insurance has increased.
 
 ### 6.
 
-The percentage of small businesses using Commercial General Liability insurance (CGL) [dropped from 61% down to 54%](https://www.forrester.com/blogs/how-and-what-insurance-us-small-businesses-buy-is-changing/) between 2014 and 2018. 
+The percentage of small businesses using Commercial General Liability insurance (CGL) <a href="https://www.forrester.com/blogs/how-and-what-insurance-us-small-businesses-buy-is-changing/" target="_blank">dropped from 61% down to 54%</a> between 2014 and 2018. 
 
-The number of small businesses with Business Owner’s Policies (BOPs) also dropped from 52% to 45% over the same period. 
+The number of small businesses with Business Owner's Policies (BOPs) also dropped from 52% to 45% over the same period. 
 
 This likely due to the fact the price for BOP coverage and CGL plans have increased steadily over the past few years. 
 
@@ -436,33 +435,33 @@ Unfortunately, this means more and more small businesses, and their customers, a
 
 ### 7.
 
-Of the various lines of commercial insurance policies, [Workers Compensation is the second largest](https://content.naic.org/sites/default/files/inline-files/2021%20Annual%20Property%20%26%20Casualty%20and%20Title%20Industry%20Report.pdf) making up 6.2% of total net premiums written in 2021. 
+Of the various lines of commercial insurance policies, <a href="https://content.naic.org/sites/default/files/inline-files/2021%20Annual%20Property%20%26%20Casualty%20and%20Title%20Industry%20Report.pdf" target="_blank">Workers Compensation is the second largest</a> making up 6.2% of total net premiums written in 2021. 
 
 This comes as no surprise since Workers Comp insurance has seen 8 consecutive years of underwriting profits.  
 
 ### 8.
 
-[69% of small businesses in 2014 were covered by Workers’ Compensation insurance.](https://www.forrester.com/blogs/how-and-what-insurance-us-small-businesses-buy-is-changing/) 
+<a href="https://www.forrester.com/blogs/how-and-what-insurance-us-small-businesses-buy-is-changing/" target="_blank">69% of small businesses in 2014 were covered by Workers' Compensation insurance.</a>
 
-Only four years later, in 2018 only 47% of small business owners held a Workers’ Comp policy.
+Only four years later, in 2018 only 47% of small business owners held a Workers' Comp policy.
 
 This drop in Workers Comp insurance seems to stem from a greater overall confidence in the Affordable Care Act. 
 
-At it’s inception the Affordable Care act, many businesses were skeptical at it’s effectiveness and hesitated to rely too heavily on a new law. 
+At it's inception the Affordable Care act, many businesses were skeptical at it's effectiveness and hesitated to rely too heavily on a new law. 
 
 As the dust settled, we have begun to see more small businesses integrate standardized health insurance coverage into their business model, opting out of classical Workers Compensation policies. 
 
 ### 9.
 
-The amount of [Product Liability insurance premiums](https://www.iii.org/fact-statistic/facts-statistics-product-liability) jumped up by 3.5% between 2020 and 2021 from $3.239 Billion to $3.353 Billion. 
+The amount of <a href="https://www.iii.org/fact-statistic/facts-statistics-product-liability" target="_blank">Product Liability insurance premiums</a> jumped up by 3.5% between 2020 and 2021 from $3.239 Billion to $3.353 Billion. 
 
 ### 10.
 
-In 2014, 19% of small businesses purchased [Business Interruption insurance](https://www.forrester.com/blogs/how-and-what-insurance-us-small-businesses-buy-is-changing/) and that amount grew all the way to 28% by 2018.
+In 2014, 19% of small businesses purchased <a href="https://www.forrester.com/blogs/how-and-what-insurance-us-small-businesses-buy-is-changing/" target="_blank">Business Interruption insurance</a> and that amount grew all the way to 28% by 2018.
 
 ### 11.
 
-Not only has Business Interruption insurance been on the rise, so has [Directors and Officers (D&O) insurance and Errors and Omissions (E&O) policies.](https://content.naic.org/sites/default/files/inline-files/2021%20Annual%20Property%20%26%20Casualty%20and%20Title%20Industry%20Report.pdf) 
+Not only has Business Interruption insurance been on the rise, so has <a href="https://content.naic.org/sites/default/files/inline-files/2021%20Annual%20Property%20%26%20Casualty%20and%20Title%20Industry%20Report.pdf" target="_blank">Directors and Officers (D&O) insurance and Errors and Omissions (E&O) policies.</a>
 
 D&O insurance increased by 13% in 2021, according to the CIAB. 
 
@@ -470,7 +469,7 @@ The only Commercial Insurance policy with a greater increase during that year wa
 
 ### 12.
 
-Between 2020 and 2021, spending on [Property and Casualty insurance](https://www.iii.org/fact-statistic/facts-statistics-industry-overview) increased from $652.8 Billion to $715.9 Billion. 
+Between 2020 and 2021, spending on <a href="https://www.iii.org/fact-statistic/facts-statistics-industry-overview" target="_blank">Property and Casualty insurance</a> increased from $652.8 Billion to $715.9 Billion. 
 
 This is a growth of 8.44%. 
 
@@ -478,7 +477,7 @@ This is unprecedented especially when you consider that total property/casualty 
 
 ### 13.
 
-According to the [Insurance Information Institute](https://www.iii.org/article/careers-in-insurance), the total number of insurance brokers and insurance sales agents will increase 9% by 2024. 
+According to the <a href="https://www.iii.org/article/careers-in-insurance" target="_blank">Insurance Information Institute</a>, the total number of insurance brokers and insurance sales agents will increase 9% by 2024. 
 
 Based on the trends mentioned above, with more and more business owners wanting to protect their assets, it makes sense why the insurance industry as a whole is protected to see a lot of growth in the coming years. 
 

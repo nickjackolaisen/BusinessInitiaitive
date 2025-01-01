@@ -1,16 +1,16 @@
 ---
-title: "CFO Salary Guide 2024: Maximizing Compensation Based on Company Size"
+title: "CFO Salary Guide 2025: Maximizing Compensation Based on Company Size"
 layout: post
 date: 2024-03-05
-update_date: 2024-08-01
+update_date: 2025-01-01
 author: jack_nicholaisen
-summary: "Unlock the secrets of CFO salaries in 2024! Discover how company size impacts pay and learn top negotiation tips. Elevate your career today." 
+summary: "Unlock the secrets of CFO salaries in 2025! Discover how company size impacts pay and learn top negotiation tips. Elevate your career today." 
 thumbnail: /images/posts-headers/cfo-salary-guide-header.png
 image: /images/posts-headers/cfo-salary-guide-header.png
 permalink: /statistics/cfo-salary/
 ---
 
-Welcome to The Initiative Guide to CFO salaries in 2024! 
+Welcome to The Initiative Guide to CFO salaries in 2025! 
 
 This article is designed to provide valuable insights into the range of CFO salaries and the various factors that influence Chief Financial Officer compensation, including company size, industry, location, and experience. 
 

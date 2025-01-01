@@ -1,8 +1,8 @@
 ---
-title: "Understanding Chief Information Officer (CIO) Salary in 2024 | Analyzing CIO Compensation by Business Size & Industry"
+title: "Understanding Chief Information Officer (CIO) Salary in 2025 | Analyzing CIO Compensation by Business Size & Industry"
 layout: post
 date: 2024-07-10
-update_date: 2024-07-16
+update_date: 2025-01-01
 author: jack_nicholaisen
 summary: "Discover how competitive CIO salaries drive innovation, attract top talent, and boost business efficiency across industries." 
 thumbnail: /images/posts-headers/cio-salary-business-size-and-industry-header.png

@@ -2,7 +2,7 @@
 title: "Is a Partnership Right for Your Business? Statistics on Partnership Prevalence and Success"
 layout: post
 date: 2023-08-13
-update_date: 2024-07-16
+update_date: 2025-01-01
 author: jack_nicholaisen
 summary: "Learn about partnerships in business. Explore formation/success rates, pros/cons. Is it right for you? Read our data-driven article!"
 permalink: /statistics/partnerships/success/
@@ -45,7 +45,7 @@ A [study by Noam Wasserman](https://www.amazon.com/Founders-Dilemmas-Anticipatin
 This statistic highlights the importance of choosing the right partner and ensuring that both parties are aligned in their goals and values.
 
 <p>
-<b>➤ Discover: </b> <a href="https://www.businessinitiative.org/statistics/small-businesses/survival-and-failure-rate/" target="_blank">Unlock the secrets to avoid the most common pitfalls small businesses face in 2024!</a>
+<b>➤ Discover: </b> <a href="https://www.businessinitiative.org/statistics/small-businesses/survival-and-failure-rate/" target="_blank">Unlock the secrets to avoid the most common pitfalls small businesses face in 2025!</a>
 </p>
 
 ## Advantages of Partnerships

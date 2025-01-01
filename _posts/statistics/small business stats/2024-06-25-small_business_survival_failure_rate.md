@@ -1,8 +1,8 @@
 ---
-title: "Small Business Survival & Failure Rate | Avoid Common Pitfalls in 2024 and Beyond"
+title: "Small Business Survival & Failure Rate | Avoid Common Pitfalls in 2025 and Beyond"
 layout: post
 date: 2024-06-25
-update_date: 2024-11-24
+update_date: 2025-01-01
 author: jack_nicholaisen
 summary: "32.3% of small businesses fail within two years. Read this guide today and learn key strategies to avoid common pitfalls and thrive!"
 thumbnail: /images/posts-headers/small-business-survival-failure-rate-header.png

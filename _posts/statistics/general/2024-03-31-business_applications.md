@@ -1,8 +1,8 @@
 ---
-title: "Historical Trends & Statistics of Business Applications | UPDATED for 2024"
+title: "Historical Trends & Statistics of Business Applications | Updated for 2025"
 layout: post
 date: 2024-03-31
-update_date: 2024-05-02
+update_date: 2025-01-01
 author: jack_nicholaisen
 summary: "Discover how black swan events have sparked a surge in business applications, reshaping the entrepreneurial landscape and accelerating e-commerce trends." 
 thumbnail: /images/posts-headers/business-applications-header.png
@@ -186,7 +186,7 @@ This surge can be attributed to the continued digital transformation and the eme
 
 - ### 2022-2024:
 
-The data shows a slight decrease in applications, with averages of 423,664 in 2022 and 442,490 so far for 2024. 
+The data shows a slight decrease in applications, with averages of 423,664 in 2022 and 442,490 for 2024. 
 
 This period reflects a stabilization phase, as the market adjusts to the new normal and the initial rush of pandemic-induced entrepreneurship begins to level off.
 

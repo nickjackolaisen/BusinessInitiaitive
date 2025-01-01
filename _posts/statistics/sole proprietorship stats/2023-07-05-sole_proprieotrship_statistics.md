@@ -1,8 +1,8 @@
 ---
-title: "Largest Sole Proprietorships in the World | Facts, Stats, & FAQs for 2025 (UPDATED)"
+title: "Largest Sole Proprietorships in the World | Facts & Stats (Updated for 2025)"
 layout: post
 date: 2023-07-05
-update_date: 2024-12-21
+update_date: 2025-01-01
 author: jack_nicholaisen
 summary: "Unlock your business potential with our data-driven insights, expert consulting, and tailored pricing. Elevate success today!" 
 thumbnail: /images/posts-headers/sole-proprietorship-facts-stats-faqs-header.png

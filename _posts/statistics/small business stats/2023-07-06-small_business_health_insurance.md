@@ -1,8 +1,8 @@
 ---
-title: "Small Business Health Insurance - Costs, Benefits, & Options for 2024"
+title: "Small Business Health Insurance - Costs, Benefits, & Options for 2025"
 layout: post
 date: 2023-07-06
-update_date: 2024-01-18
+update_date: 2025-01-01
 author: jack_nicholaisen
 summary: "Explore health insurance costs for small businesses. Learn key pricing factors and tips to save. Make smart decisions for employee health and cost control."
 permalink: /statistics/small-businesses/health-insurance/
