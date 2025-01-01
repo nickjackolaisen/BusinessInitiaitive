@@ -2,7 +2,7 @@
 title: "Sole Proprietorships - A Statistical Analysis of Success and Failure Rates"
 layout: post
 date: 2023-07-25
-update_date: 2024-06-25
+update_date: 2025-01-01
 author: jack_nicholaisen
 summary: "Learn about sole proprietorship success rates and factors that contribute to outcomes. Make informed decisions and increase your chances of success. READ ON!"
 permalink: /statistics/sole-proprietorship/success-and-failure-rate/
@@ -52,7 +52,7 @@ This doesn't necessarily mean the business failed.
 Rather, it shows successful sole proprietorships don't remain sole proprietorships for long as they grow and expand.
 
 <p>
-<b>➤ Discover: </b> <a href="https://www.businessinitiative.org/statistics/small-businesses/survival-and-failure-rate/" target="_blank">Unlock the secrets to avoid the most common pitfalls small businesses face in 2024!</a>
+<b>➤ Discover: </b> <a href="https://www.businessinitiative.org/statistics/small-businesses/survival-and-failure-rate/" target="_blank">Unlock the secrets to avoid the most common pitfalls small businesses face in 2025!</a>
 </p>
 
 ## Factors Contributing to Success and Failure

@@ -1,10 +1,10 @@
 ---
-title: "Top 7 Tax Deductions for Small Businesses in 2024"
+title: "Top 7 Tax Deductions for Small Businesses in 2025"
 layout: post
 date: 2023-06-26
-update_date: 2024-02-06
+update_date: 2025-01-01
 author: jack_nicholaisen
-summary: "Unlock tax savings for your small biz with 7 key deductions in 2024. Maximize profits by learning these top tax cuts!"
+summary: "Unlock tax savings for your small biz with 7 key deductions in 2025. Maximize profits by learning these top tax cuts!"
 permalink: /statistics/small-businesses/tax-deductions/
 ---
 
